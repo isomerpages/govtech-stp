@@ -1,6 +1,6 @@
 title: SafeTravel
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/logo-stp.svg
+favicon: /images/favicon-stp.svg
 
 # Site colors
 colors:
