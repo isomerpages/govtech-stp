@@ -1,4 +1,10 @@
 logo: /images/logo-stp.svg
 links:
+  - title: How to Apply
+    url: /
+  - title: About SafeTravel Pass
+    url: /
+  - title: FAQ
+    url: /
   - title: Contact Us
     url: /contact-us/
