@@ -1,7 +1,10 @@
 ---
-layout: landing-page-stp
-title: SafeTravel
-description: SafeTravel
+layout: default
+title:
+description:
 permalink: /
 notification: 
 ---
+
+<h1>Under Construction</h1>
+<p>Please check back soon!</p>
