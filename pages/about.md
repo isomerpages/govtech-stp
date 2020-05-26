@@ -3,7 +3,7 @@ title: About SafeTravel Pass
 permalink: /about/
 ---
 
-### **About SafeTravek Pass**
+### **About SafeTravel Pass**
 
 1. The SafeTravel Pass is required for inbound travellers from select countries to enter Singapore under green lane arrangements.
 
