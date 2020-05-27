@@ -3,7 +3,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-stp.svg
 
 #environment: staging, production
-env: production
+env: staging
 staging_form_1_url: https://form.gov.sg/5ec925a2530c12001173f18a
 staging_form_2_url: https://form.gov.sg/5ecb7727acd26500115082db
 production_form_1_url: https://form.gov.sg/5ecdf5996a63930011f44bbc
