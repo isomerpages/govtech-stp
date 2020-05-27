@@ -84,6 +84,12 @@ layout: skeleton
   </div>
 </section>
 
+{% if site.env == "staging" %}
+Staging
+{% elseif site.env == "production" %}
+Production
+{% endif %}
+
 <div id="applystp">
 <section class="bp-section bg-newssection padding--top--xl">
   <h2><b>Apply for SafeTravel Pass in 3 simple steps</b></h2>
