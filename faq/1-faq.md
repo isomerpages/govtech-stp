@@ -1,6 +1,5 @@
 ---
-layout: leftnav-page-content
-title: Overview
+title: FAQ
 permalink: /faq/faq1/
 breadcrumb: FAQ
 collection_name: faq
