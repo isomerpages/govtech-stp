@@ -28,7 +28,7 @@ colors:
 #collections
 collections:
   faq:
-  output: true
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
