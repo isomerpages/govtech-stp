@@ -1,7 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/faq1/
-breadcrumb: FAQ
+third_nav_title: FAQ
 collection_name: faq
 ---
 
