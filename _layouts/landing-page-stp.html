@@ -1,5 +1,6 @@
 ---
 layout: skeleton
+notification: this is a test notification
 ---
 <style>
   .bg-hero {
@@ -46,6 +47,30 @@ layout: skeleton
     text-align: center;
   }
 </style>
+
+{%- if page.url == "/" -%}
+  {%- assign notification_content = content | strip_html | strip -%}
+    {%- if notification_content != "" -%}
+    <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
+      <div class="bp-container">
+        <div class="row">
+          <div class="col">
+            <div class="field has-addons bp-notification-flex">
+              <div class="control has-text-centered has-text-white">
+                {{- content -}}
+              </div>
+              <div class="control">
+                <a id="cancel-notification" class="button has-text-white">
+                  <span class="delete sgds-icon sgds-icon-cross is-size-4"></span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {%- endif -%}
+{%- endif -%}
 
 <section class="bp-hero bg-hero">
   <div class="bp-hero-body">
