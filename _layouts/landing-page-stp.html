@@ -46,11 +46,19 @@ layout: skeleton
     text-align: center;
   }
   
-  #collaboration_logo {
-    margin: auto;
+  .helper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+  }
+
+  .is-hidden-desktop .helper {
+    justify-content: center;
+    margin-bottom: 1rem;
   }
   
-  #collaboration_logo .isomer-agency-logo {
+  .isomer-agency-logo {
     max-height: 50px;
   }
 </style>
@@ -256,7 +264,7 @@ layout: skeleton
       </div>
     </div>
     <div class="row has-text-centered margin--top padding--bottom is-hidden-touch">
-      <div id="collaboration_logo" class="col helper">
+      <div class="col helper">
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-govtech.gif" alt="Government Technolog Agency of Singapore"/>
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-sndgo.png" alt="Smart Nation and Digital Government Office"/>
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-sgunited.png" alt="SG United"/>
@@ -264,7 +272,7 @@ layout: skeleton
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-ica.svg" alt="Immigration & Checkpoints Authority"/>
       </div>
     </div>
-    <div id="collaboration_logo" class="row has-text-centered margin--top padding--bottom is-hidden-desktop">
+    <div class="row has-text-centered margin--top padding--bottom is-hidden-desktop">
       <div class="col is-one-quarter helper">
         <img class="isomer-agency-logo" src="{{site.baseurl}}/images/logo-govtech.gif" alt="Government Technolog Agency of Singapore"/>
       </div>
