@@ -15,9 +15,9 @@ Business or official travellers from these regions seeking to make essential tra
 
 IMPORTANT
 
-Travellers without a valid SafeTravel Pass will be denied entry into Singapore
+Travellers without a valid SafeTravel Pass will be denied entry into Singapore.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions)
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions).
 
 ----
 
