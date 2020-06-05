@@ -3,7 +3,7 @@ title: About SafeTravel Pass
 permalink: /about/
 ---
 
-The SafeTravel Pass is a mandatory document for in-bound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Fast Lane arrangements.
+The SafeTravel Pass is a mandatory document for inbound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Fast Lane arrangements.
 
 As of 3 June 2020, Singapore has established Fast Lane arrangements with six Chinese provinces and municipalities (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang).
 
