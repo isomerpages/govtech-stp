@@ -9,7 +9,7 @@ As of 3 June 2020, Singapore has established Fast Lane arrangements with six Chi
 
 ### **Application**
 
-Business or official travellers from these regions seeking to make essential travel to Singapore via the Fast Lane must be sponsored by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
+Business or official travellers from these regions seeking to make essential travel to Singapore via the Fast Lane must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
 
 Business or official travellers from these regions seeking to make essential travel to Singapore via the Fast Lane must be sponsored by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
 
@@ -18,3 +18,7 @@ IMPORTANT
 Travellers without a valid SafeTravel Pass will be denied entry into Singapore
 
 For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions)
+
+----
+
+<sup>1</sup> The term “Sponsor” refers to the company or government agency making the application on behalf of the traveller.
