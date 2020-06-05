@@ -1,6 +1,6 @@
 ---
-title: Terms and Conditions
-permalink: /terms-and-conditions/
+title: Terms and Conditions of SafeTravel Pass
+permalink: /tnc-of-stp/
 ---
 
 ### **Before entering Singapore**
@@ -42,5 +42,7 @@ The host<sup>1</sup> company or government agency will transport the traveller d
 SafeTravel Pass travellers to Singapore are required to download and use the [TraceTogether app](http://www.google.com) for the duration of their stay. If a traveller does not have a TraceTogether-compatible device, the host company or government agency shall provide one to the traveller.
 
 In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a **controlled itinerary** that is supervised by the host company or government agency for the first 14 days. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
+
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions).
 
 <sup>1</sup> The term “host” refers to the company or government agency that receives the traveller in the destination country.
