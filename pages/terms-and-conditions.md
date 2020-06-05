@@ -13,7 +13,7 @@ With the SafeTravel Pass approval, an approved applicant who is a visa-required 
 
 **Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel.** These include passport holders from countries and regions with which Singapore has visa-free arrangements, as well as diplomatic and official passport holders. For more information on visa requirements, please visit [www.ica.gov.sg](https://www.ica.gov.sg/).
 
-The approved applicant will also have to electronically submit pre-trip health and travel history declarations via the [**SG Arrival Card**](http://www.google.com), before departing for Singapore. International visitors can also access the SG Arrival Card on the [**Visit Singapore Travel Guide App**](http://www.google.com).
+The approved applicant will also have to electronically submit pre-trip health and travel history declarations via the [SG Arrival Card](http://www.google.com), before departing for Singapore. International visitors can also access the SG Arrival Card on the [Visit Singapore Travel Guide App](http://www.google.com).
 
 #### **Pre-Departure Measures**
 
@@ -35,7 +35,7 @@ The SafeTravel Pass traveller will undergo a **PCR test** upon arrival in Singap
 
 The applicant must produce a valid SafeTravel Pass and a negative PCR test result (i.e., the result of the test done prior to departure from China) to arrival immigration. Applicants without these documents can be denied entry.
 
-The host company or government agency will transport the traveller directly from the airport to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in **self-isolation** at the declared accommodation (non-residential address only) for one to two days until the test result is known.
+The host<sup>1</sup> company or government agency will transport the traveller directly from the airport to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in **self-isolation** at the declared accommodation (non-residential address only) for one to two days until the test result is known.
 
 #### **Measures during stay in Singapore**
 
@@ -43,3 +43,4 @@ SafeTravel Pass travellers to Singapore are required to download and use the [Tr
 
 In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a **controlled itinerary** that is supervised by the host company or government agency for the first 14 days. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
 
+<sup>1</sup> The term “host” refers to the company or government agency that receives the traveller in the destination country.
