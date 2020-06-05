@@ -45,4 +45,6 @@ In addition to abiding by prevailing local public health and safety distancing m
 
 For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions).
 
+----
+
 <sup>1</sup> The term “host” refers to the company or government agency that receives the traveller in the destination country.
