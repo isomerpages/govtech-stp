@@ -3,16 +3,18 @@ title: About SafeTravel Pass
 permalink: /about/
 ---
 
-### **About SafeTravel Pass**
+The SafeTravel Pass is a mandatory document for in-bound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Fast Lane arrangements.
 
-1. The SafeTravel Pass is required for inbound travellers from select countries to enter Singapore under green lane arrangements.
+As of 3 June 2020, Singapore has established Fast Lane arrangements with six Chinese provinces and municipalities (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang).
 
-2. The SafeTravel Passs is issued to qualifying travellers on a limited basis.
+### **Application**
 
-3. The sponsoring company or Government agency is to apply for a SafeTravel Pass for each traveller.
+Business or official travellers from these regions seeking to make essential travel to Singapore via the Fast Lane must be sponsored by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
 
-4. The SafeTravel Pass is valid only in a given week (0000hrs Monday to 2359hrs Sunday), subject to terms and conditions.
+Business or official travellers from these regions seeking to make essential travel to Singapore via the Fast Lane must be sponsored by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
 
-5. For travellers from green lane countries/regions requiring a visa to enter Singapore, a SafeTravel Pass is needed for visa application.
+### **IMPORTANT**
 
-6. A traveller under green lane arrangements without a valid SafeTravel Pass will be denied entry into Singapore.
+Travellers without a valid SafeTravel Pass will be denied entry into Singapore
+
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-of-use)
