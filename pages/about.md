@@ -19,6 +19,8 @@ Travellers without a valid SafeTravel Pass will be denied entry into Singapore.
 
 For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions).
 
+## **Process Overview**
+
 ### **Before entering Singapore**
 
 #### **Visa Requirements**
@@ -63,7 +65,8 @@ For more information on the Terms and Conditions of the SafeTravel Pass, please 
 
 ----
 
-<sup>1</sup> The term “Sponsor” refers to the company or government agency making the application on behalf of the traveller.
+<sup>1</sup> The term “Sponsor” refers to the company or government agency making the application on behalf of the traveller
+
 <sup>2</sup> The term “host” refers to the company or government agency that receives the traveller in the destination country.
 
 ![image](/images/sg-cn-fastlane-sm.png)
