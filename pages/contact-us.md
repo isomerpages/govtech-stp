@@ -3,6 +3,6 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-You may also reach out to us by submitting your enquiry to <COVID_abcdefg@xxx.gov.sg>.
+For general enquiries on the SafeTravel Pass, please contact us at <XXX@mti.gov.sg>.
 
-We are experiencing a high volume of enquires and appreciate your understanding and patience.
+For enquiries on the status of your application, please approach the Singapore government agency that sponsored the application.
