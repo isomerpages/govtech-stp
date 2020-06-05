@@ -49,4 +49,4 @@ For more information on the Terms and Conditions of the SafeTravel Pass, please 
 
 <sup>1</sup> The term “host” refers to the company or government agency that receives the traveller in the destination country.
 
-![image](/images/sg-cn-fastlane-lg.jpg)
+![image](/images/sg-cn-fastlane-sm.png)(/images/sg-cn-fastlane-lg.jpg)
