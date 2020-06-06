@@ -3,13 +3,13 @@ title: About SafeTravel Pass
 permalink: /about/
 ---
 
-The SafeTravel Pass is a mandatory document for in-bound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Green/ Fast Lane arrangements.
+The SafeTravel Pass is a mandatory document for inbound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Green/ Fast Lane arrangements.
 
 On 28 May 2020, Singapore and China agreed to create a Fast Lane to facilitate essential business and official travel between both countries. The Fast Lane arrangement will be first applied between Singapore and six Chinese provinces and municipalities (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang). The SafeTravel Pass may be used for essential business and official travel to Singapore via the Singapore-China Fast Lane.
 
 ### **Application**
 
-Business or official travellers seeking to make essential travel via the Fast Lane to Singapore from the above-mentioned six Chinese provinces and municipalities must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
+Business or official travellers seeking to make essential travel via the Fast Lane to Singapore from the above-mentioned six Chinese provinces and municipalities must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel pass.
 
 From 8 June 2020, only business or official travellers sponsored by a Singapore Government agency may submit applications to use the Singapore-China Fast Lane. Applications for company-sponsored travellers to use the Singapore-China Fast Lane can be submitted at a later phase to be announced.
 
@@ -26,8 +26,6 @@ For more information on the Terms and Conditions of the SafeTravel Pass, please 
 #### **Visa Requirements**
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency.
-
-With the SafeTravel Pass approval, an approved applicant who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels.  If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa.  The applicant can check his/her visa status through this page.
 
 With the SafeTravel Pass approval, an approved applicant who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels.  If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa.  The applicant can check his/her visa status through [this page](https://eservices.ica.gov.sg/esvclandingpage/save).
 
@@ -52,9 +50,15 @@ Otherwise, the traveller can be refused boarding.
 
 #### **Post-Arrival Measures**
 
-The SafeTravel Pass traveller will undergo a COVID-19 **PCR test** upon arrival in Singapore. The SafeTravel Pass traveller will bear the costs of the post-arrival PCR test in Singapore.
+The SafeTravel Pass traveller will undergo and bear the costs of a COVID-19 **PCR test** upon arrival in Singapore.
 
-The applicant must produce a valid SafeTravel Pass for the intended week of travel, a valid visa (for visa-required passport holders), a negative COVID-19 PCR test result (i.e., the result of the test done prior to departure from China) and a return air ticket to arrival immigration. Applicants without these documents can be refused entry.
+At arrival immigration, approved SafeTravel Pass travellers must produce:
+- A valid SafeTravel Pass for the intended week of travel,
+- A valid visa (for visa-required passport holders),
+- A negative COVID-19 PCR test result,
+- A return air ticket.
+
+Applicants without these documents can be refused entry.
 
 The host<sup>2</sup> company or government agency will transport the traveller directly from the airport to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until the test result is released.
 
