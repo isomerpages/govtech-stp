@@ -63,25 +63,6 @@ layout: skeleton
   }
 </style>
 
-<div id="notification-bar" class="bp-notification bg-secondary is-marginless">
-  <div class="bp-container">
-    <div class="row">
-      <div class="col">
-        <div class="field has-addons bp-notification-flex">
-          <div class="control has-text-centered has-text-white">
-            The application forms will be open for submissions at a later stage
-          </div>
-          <div class="control">
-            <a id="cancel-notification" class="button has-text-white">
-              <span class="delete sgds-icon sgds-icon-cross is-size-4"></span>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <section class="bp-hero bg-hero">
   <div class="bp-hero-body">
     <div class="bp-container margin--top--lg">
@@ -89,31 +70,7 @@ layout: skeleton
         <div class="col is-6 has-text-centered">
           <h1 class="display padding--bottom--lg margin--none"><b>Get your SafeTravel Pass before travelling to Singapore</b></h1>
           <p class="padding--bottom--lg">Amid the COVID-19 pandemic, travellers into Singapore under Green/ Fast lane arrangements must obtain a SafeTravel Pass before travelling</p>
-          <a href="{%- if site.env == "staging" -%}{{site.staging_form_1_url}}{%- endif -%}{%- if site.env == "production" -%}{{site.production_form_1_url}}{%- endif -%}" target="_blank" class="bp-button is-secondary is-uppercase search-button">Apply Now</a>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="key-highlights" class="bp-section is-paddingless">
-  <div class="bp-container">
-    <div class="row is-gapless has-text-centered">
-       <div class="col">
-         <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank" class="is-highlight">
-           <div class="key-highlights-text">
-             <p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">ENTRY VISA APPLICATION</p>
-             <p class="has-text-white-trans padding--bottom--sm">Travellers who have obtained their SafeTravel Pass and requires a visa to enter Singapore needs to apply for an entry visa.</p>
-           </div>
-         </a>
-      </div>
-      <div class="col">
-         <a href="{%- if site.env == "staging" -%}{{site.staging_form_2_url}}{%- endif -%}{%- if site.env == "production" -%}{{site.production_form_2_url}}{%- endif -%}" target="_blank" class="is-highlight">
-           <div class="key-highlights-text">
-             <p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">SUBMIT SUPPORTING DOCUMENTS</p>
-             <p class="has-text-white-trans padding--bottom--sm">For travellers who have obtained their SafeTravel Pass to submit their final itinerary and COVID-19 test results before commencing travel.</p>
-           </div>
-         </a>
       </div>
     </div>
   </div>
@@ -122,6 +79,7 @@ layout: skeleton
 <div id="applystp">
 <section class="bp-section bg-newssection padding--top--xl">
   <h2><b>Apply for SafeTravel Pass in 3 simple steps</b></h2>
+  <p>Application forms will be available on this website at a later stage</p>
   <div class="bp-container">
     <div class="row is-hidden-desktop is-hidden-tablet-only">
       <div class="col col-text is-half padding--bottom--xl padding--top--xl">
