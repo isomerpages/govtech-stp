@@ -117,6 +117,16 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 #### Points-of-Contact for Outbound Travel by Singapore Residents to Fast Lane Regions in China
 
+| A | A |
+|---|---|
+| B | B |
+| C | C |
+| D | D |
+| E | E |
+| F | F |
+| G | G |
+| H | H |
+
 ### **ANNEX B**
 
 #### List of Clinics for COVID-19 Pre-Departure Tests in Singapore
