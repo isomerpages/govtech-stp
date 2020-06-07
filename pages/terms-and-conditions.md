@@ -21,7 +21,7 @@ permalink: /terms-and-conditions/
 
 1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor must obtain an acknowledgement from the traveller that he/she has read and understood:
 : a. these terms and conditions; and
-: b. the Privacy Statement which can be found at.
+: b. the Privacy Statement which can be found at <a href="{{site.baseurl}}">{{site.baseurl}}</a>.
 
 2. At the point of application, the Sponsor should submit the following information if already available: confirmed flight itinerary (including flight booking reference number, flight number), and proof of accommodation of the traveller. The chosen place of accommodation of the traveller in Singapore must be a non-residential address and an individual room with en-suite toilet.
 
