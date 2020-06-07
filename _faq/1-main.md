@@ -85,11 +85,11 @@ The traveller will undergo a PCR test upon arrival in Singapore. The traveller d
 
 If tested positive for COVID-19, short-term pass holders will be accorded the necessary medical treatment at his/her cost.
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.*
+Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.<sup>*</sup>
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders who leave Singapore under the fast lane arrangement and comply with fast lane conditions are not travelling in disregard of travel advisories. They will not be required to pay for their medical bills at public hospitals in Singapore should they test positive for COVID-19 after their return to Singapore.
 
-* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.
+<sup>*</sup> Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.
 
 ### **Pre-Departure Measures in China**
 
