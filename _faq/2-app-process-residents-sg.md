@@ -119,9 +119,9 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 | Fast Lane Region | Local Provincial/Municipal Authorities                                                                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chongqing        | For business travellers: Department of Commerce of the Chongqing Municipal Government  For official passport holders: Foreign Affairs Office of the Chongqing Municipal Government |
+| Chongqing        | For business travellers: Department of Commerce of the Chongqing Municipal Government<br />For official passport holders: Foreign Affairs Office of the Chongqing Municipal Government |
 | Guangdong        | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
-| Jiangsu          | For business travellers: Bureaus of Commerce of the relevant cities/counties/districts  For official passport holders: Foreign Affairs Offices of the relevant cities              |
+| Jiangsu          | For business travellers: Bureaus of Commerce of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities              |
 | Shanghai         | Foreign Affairs Offices of the relevant districts                                                                                                                                  |
 | Tianjin          | Point-of-Contact to be provided at a later date                                                                                                                                    |
 | Zhejiang         | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
@@ -135,10 +135,10 @@ Pre-departure COVID-19 tests for fast lane arrangements may only be performed at
 | S/N | Raffles Medical Group Clinic | Address                                                                | Opening hours                                                               |
 |-----|------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | 1   | CHANGI AIRPORT TERMINAL 3    | Singapore Changi Airport 65 Airport Boulevard, #B2-01 Singapore 819663 | 24h                                                                         |
-| 2   | HARBOURFRONT                 | 1 Maritime Square Harbourfront Centre, #03-56 Singapore 099253         | Mon: 8.30am-7pm Tues-Fri: 8.30am-5.30pm Sat: 8.30am-1pm Sun & PH: Closed    |
-| 3   | HOLLAND VILLAGE              | 118 Holland Ave Raffles Holland V, Level 5 Singapore 278997            | Mon-Fri: 8.30am-9.30pm Sat, Sun & PH: 8.30am-1pm, 2pm-5.30pm, 6.30pm-9.30pm |
-| 4   | SHAW CENTRE                  | 1 Scotts Road Shaw Centre, #04-09 to 14 Singapore 228208               | Mon-Fri: 8.30am-6pm Sat: 8.30am-1pm Sun & PH: Closed                        |
-| 5   | RAFFLES CITY                 | 252 North Bridge Rd, #02-17 Singapore 179103                           | Mon-Fri: 7.30am-1pm, 2pm-5.30pm Sat: 7.30am-1pm Sun & PH: Closed            |
+| 2   | HARBOURFRONT                 | 1 Maritime Square Harbourfront Centre, #03-56 Singapore 099253         | Mon: 8.30am-7pm<br />Tues-Fri: 8.30am-5.30pm<br />Sat: 8.30am-1pm<br />Sun & PH: Closed    |
+| 3   | HOLLAND VILLAGE              | 118 Holland Ave Raffles Holland V, Level 5 Singapore 278997            | Mon-Fri: 8.30am-9.30pm<br />Sat, Sun & PH: 8.30am-1pm, 2pm-5.30pm, 6.30pm-9.30pm |
+| 4   | SHAW CENTRE                  | 1 Scotts Road Shaw Centre, #04-09 to 14 Singapore 228208               | Mon-Fri: 8.30am-6pm<br />Sat: 8.30am-1pm<br />Sun & PH: Closed                        |
+| 5   | RAFFLES CITY                 | 252 North Bridge Rd, #02-17 Singapore 179103                           | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed            |
 
 For more details on COVID-19 tests, travellers may contact Raffles Medical Group at +65-6311 1222.
 
