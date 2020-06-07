@@ -17,7 +17,7 @@ Yes. All residents in China who need to make short-term essential business or of
 
 #### 3. How do residents in China apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
-Residents in China seeking to travel to Singapore for essential business or official travel via the fast lane must be hosted by a company or a government agency in Singapore. The host company can self-sponsor and file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency. The application for the SafeTravel Pass will be open from 20 to 5 working days before the day of the traveller’s planned departure.
+Residents in China seeking to travel to Singapore for essential business or official travel via the fast lane must be hosted by a company or a government agency in Singapore. The host company can self-sponsor and file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency.<sup>1</sup> The application for the SafeTravel Pass will be open from 20 to 5 working days before the day of the traveller’s planned departure.
 
 In the initial launch commencing 8 June 2020, travellers sponsored by government agencies may submit applications for a SafeTravel Pass through their respective sponsoring government agencies. Direct applications by companies will be accepted in a later phase, to be announced.
 
@@ -129,3 +129,9 @@ Fast lane returnees to China currently do not need to be tested again in Singapo
 Upon their arrival back in China, they must adhere to the prevailing COVID-19 prevention and control measures of the Chinese government. This may include a 14-day quarantine or COVID-19 tests at the returnee’s cost, as required by most provinces/municipalities for international arrivals into China.
 
 As the specific requirements may vary amongst provinces/municipalities, the returnee should verify the latest requirements with the relevant provincial/municipal authorities.
+
+----
+
+<sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.
+
+The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
