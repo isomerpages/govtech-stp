@@ -20,9 +20,8 @@ permalink: /terms-and-conditions/
 #### **General**
 
 1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor must obtain an acknowledgement from the traveller that he/she has read and understood:
-
-  a. these terms and conditions; and
-  b. the Privacy Statement which can be found at <{{site.baseurl}}/privacy>.
+: a. these terms and conditions; and
+: b. the Privacy Statement which can be found at <{{site.baseurl}}/privacy>.
 
 2. At the point of application, the Sponsor should submit the following information if already available: confirmed flight itinerary (including flight booking reference number, flight number), and proof of accommodation of the traveller. The chosen place of accommodation of the traveller in Singapore must be a non-residential address and an individual room with en-suite toilet.
 
@@ -53,22 +52,20 @@ permalink: /terms-and-conditions/
 7. The traveller must undertake a COVID-19 PCR test at his/her own cost within 48 hours prior to departure from the Relevant Qualifying Region, and obtain the negative test results prior to departure.
 
 8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
-
-  a. Valid SafeTravel Pass for the intended week of travel;
-  b. Valid visa (for visa-required passport holders);
-  c. Negative results of COVID-19 PCR test taken within 48 hours prior to departure; and
-  d. Return air ticket.
+: a. Valid SafeTravel Pass for the intended week of travel;
+: b. Valid visa (for visa-required passport holders);
+: c. Negative results of COVID-19 PCR test taken within 48 hours prior to departure; and
+: d. Return air ticket.
 
 #### **Post-Arrival in Singapore**
 
 9. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
 
 10. The traveller is required to present the following documents (hard copy or electronic copy) at the immigration counter:
-
-  a. Valid SafeTravel Pass for the intended week of travel;
-  b. Valid Visa (for visa-required passport holders);
-  c. Negative results of COVID-19 PCR test taken within 48 hours prior to departure; and
-  d. Return air ticket.
+: a. Valid SafeTravel Pass for the intended week of travel;
+: b. Valid Visa (for visa-required passport holders);
+: c. Negative results of COVID-19 PCR test taken within 48 hours prior to departure; and
+: d. Return air ticket.
 
 11. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
@@ -77,19 +74,16 @@ permalink: /terms-and-conditions/
 13. After receiving his/her post-arrival negative COVID-19 PCR test result, the traveller must abide strictly by his/her Controlled Itinerary for the first 14 days of the traveller’s stay in Singapore. The Controlled Itinerary of the traveller only allows for travel between work and accommodation, with limited contact with the community.
 
 14. For the duration of the traveller’s stay in Singapore, the traveller must:
-
-  a. download and utilise relevant mobile applications and technology solutions, including TraceTogether, to facilitate contact tracing;
-  b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
-  c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
-  d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
-  e. adhere to prevailing public health regulations for the general population, including:
-  
-    i. Ministry of Manpower (MOM) safe management measures at workplaces;
-    ii. Wearing masks outside residences;
-    iii. Observing 1m social distancing;
-    iv. Having meals alone;
-    v. Holding meetings with fewer than 10 people.
-
+: a. download and utilise relevant mobile applications and technology solutions, including TraceTogether, to facilitate contact tracing;
+: b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
+: c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
+: d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
+: e. adhere to prevailing public health regulations for the general population, including:
+  : i. Ministry of Manpower (MOM) safe management measures at workplaces;
+  : ii. Wearing masks outside residences;
+  : iii. Observing 1m social distancing;
+  : iv. Having meals alone;
+  : v. Holding meetings with fewer than 10 people.
 
 #### **Post-Departure from Singapore**
 
