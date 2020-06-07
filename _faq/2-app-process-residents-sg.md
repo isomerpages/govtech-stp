@@ -117,15 +117,14 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 #### Points-of-Contact for Outbound Travel by Singapore Residents to Fast Lane Regions in China
 
-| A | A |
-|---|---|
-| B | B |
-| C | C |
-| D | D |
-| E | E |
-| F | F |
-| G | G |
-| H | H |
+| Fast Lane Region | Local Provincial/Municipal Authorities                                                                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chongqing        | For business travellers: Department of Commerce of the Chongqing Municipal Government  For official passport holders: Foreign Affairs Office of the Chongqing Municipal Government |
+| Guangdong        | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
+| Jiangsu          | For business travellers: Bureaus of Commerce of the relevant cities/counties/districts  For official passport holders: Foreign Affairs Offices of the relevant cities              |
+| Shanghai         | Foreign Affairs Offices of the relevant districts                                                                                                                                  |
+| Tianjin          | Point-of-Contact to be provided at a later date                                                                                                                                    |
+| Zhejiang         | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
 
 ### **ANNEX B**
 
