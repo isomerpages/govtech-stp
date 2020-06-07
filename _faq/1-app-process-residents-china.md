@@ -3,8 +3,6 @@ title: Application Process for Residents in China
 permalink: /faq/app-process-residents-china/
 ---
 
-## **Application Process for Residents in China**
-
 ### **Application**
 
 #### 1. Who is eligible to apply to travel to Singapore under the fast lane?
