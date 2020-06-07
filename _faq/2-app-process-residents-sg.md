@@ -131,3 +131,17 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 #### List of Clinics for COVID-19 Pre-Departure Tests in Singapore
 
 Pre-departure COVID-19 tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may be made available at other clinics in future.
+
+| S/N | Raffles Medical Group Clinic | Address                                                                | Opening hours                                                               |
+|-----|------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 1   | CHANGI AIRPORT TERMINAL 3    | Singapore Changi Airport 65 Airport Boulevard, #B2-01 Singapore 819663 | 24h                                                                         |
+| 2   | HARBOURFRONT                 | 1 Maritime Square Harbourfront Centre, #03-56 Singapore 099253         | Mon: 8.30am-7pm Tues-Fri: 8.30am-5.30pm Sat: 8.30am-1pm Sun & PH: Closed    |
+| 3   | HOLLAND VILLAGE              | 118 Holland Ave Raffles Holland V, Level 5 Singapore 278997            | Mon-Fri: 8.30am-9.30pm Sat, Sun & PH: 8.30am-1pm, 2pm-5.30pm, 6.30pm-9.30pm |
+| 4   | SHAW CENTRE                  | 1 Scotts Road Shaw Centre, #04-09 to 14 Singapore 228208               | Mon-Fri: 8.30am-6pm Sat: 8.30am-1pm Sun & PH: Closed                        |
+| 5   | RAFFLES CITY                 | 252 North Bridge Rd, #02-17 Singapore 179103                           | Mon-Fri: 7.30am-1pm, 2pm-5.30pm Sat: 7.30am-1pm Sun & PH: Closed            |
+
+For more details on COVID-19 tests, travellers may contact Raffles Medical Group at +65-6311 1222.
+
+----
+
+<sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum. A serology test seeks to detect antibodies produced by the immune system against COVID-19, and the sample is taken via a blood test.
