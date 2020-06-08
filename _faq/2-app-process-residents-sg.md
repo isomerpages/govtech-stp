@@ -13,7 +13,7 @@ The relevant Chinese government authorities will assess each application on a ca
 
 #### 2.	How do Singapore residents apply to travel to China under the fast lane?
 
-Residents in Singapore seeking to travel to China for essential business or official travel via the fast lane must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **ANNEX A**.
+Residents in Singapore seeking to travel to China for essential business or official travel via the fast lane must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at <a href="#annexa">**ANNEX A**</a>.
 
 If the application is approved, a Letter of Invitation will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. For more details on visa application, please contact the PRC Embassy in Singapore.
 
@@ -53,7 +53,7 @@ The traveller may contact his/her host company or government agency in China to 
 
 A fast lane traveller departing for China can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 48 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests is at **ANNEX B**. Testing for fast lane arrangements can only be carried out at these clinics. An eligible fast lane traveller can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests is at <a href="#annexb">**ANNEX B**</a>. Testing for fast lane arrangements can only be carried out at these clinics. An eligible fast lane traveller can contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -113,7 +113,7 @@ For more information about the SHN issued by ICA, please refer to <https://www.i
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel under the fast lane arrangement and comply with the terms of the fast lane arrangement will not be required to pay for their medical bills at public hospitals should they test positive for COVID-19 upon return from China, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders.
 
-### **ANNEX A**
+<div id="annexa">### **ANNEX A**</div>
 
 #### Points-of-Contact for Outbound Travel by Singapore Residents to Fast Lane Regions in China
 
@@ -126,7 +126,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 | Tianjin          | Point-of-Contact to be provided at a later date                                                                                                                                    |
 | Zhejiang         | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
 
-### **ANNEX B**
+<div id="annexb">### **ANNEX B**</div>
 
 #### List of Clinics for COVID-19 Pre-Departure Tests in Singapore
 
