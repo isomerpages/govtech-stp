@@ -136,7 +136,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 Pre-departure COVID-19 tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may be made available at other clinics in future.
 
-| S/N | Raffles Medical Group Clinic | Address                                                                  | Operating Hours                                                                            | Contact        |
+| S/N | Raffles Medical<br />Group Clinic | Address                                                                  | Operating Hours                                                                            | Contact        |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
 | 1   | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663    | Open 24 hours                                                                              | Tel: 6241 8188 |
 | 2   | HARBOURFRONT                 | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253            | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed       | Tel: 6273 3078 |
