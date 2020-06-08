@@ -1,6 +1,6 @@
 ---
 title: Application Process for Residents in China
-permalink: /faq/xxx/
+permalink: /faq/main
 ---
 
 ### **Application**
