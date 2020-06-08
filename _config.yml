@@ -18,6 +18,11 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+#collections
+collections:
+  faq:
+    output: true
+
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
