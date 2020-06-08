@@ -132,6 +132,14 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 Pre-departure COVID-19 tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may be made available at other clinics in future.
 
+| S/N | Raffles Medical Group Clinic | Address                                                                  | Operating Hours                                                                            | Contact        |
+|-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
+| 1   | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663    | Open 24 hours                                                                              | Tel: 6241 8188 |
+| 2   | HARBOURFRONT                 | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253            | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed       | Tel: 6273 3078 |
+| 3   | HOLLAND VILLAGE              | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997               | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm, 2pm to 5.30pm, 6.30pm to 9.30pm | Tel: 6250 1141 |
+| 4   | RAFFLES CITY                 | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm 2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed                | Tel: 6339 6911 |
+| 5   | SHAW CENTRE                  | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208                  | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed                           | Tel: 6838 0080 |
+
 For more details on COVID-19 tests, travellers may contact Raffles Medical Group at their 24hr hotline +65-6311 1222.
 
 ----
