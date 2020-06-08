@@ -25,7 +25,7 @@ With this letter, an approved applicant who is a visa-required passport holder w
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-The sponsoring company or government agency should log onto the SafeTravel Pass portal one to two days before the traveller’s departure to submit the traveller’s negative COVID-19 test result and controlled itinerary in Singapore. The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 polymerase chain reaction (PCR) test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
+The sponsoring company or government agency should log onto the SafeTravel Pass portal one to two days before the traveller’s departure to submit the traveller’s negative COVID-19 polymerase chain reaction (PCR) test result and controlled itinerary in Singapore. The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 polymerase chain reaction (PCR) test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
 #### 4.	What is a SafeTravel Pass?
 
