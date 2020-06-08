@@ -89,7 +89,7 @@ permalink: /terms-and-conditions/
 
 15. A Traveller who does not have a TraceTogether-compatible device would be provided with one for the purpose for his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
 
-16. Where the traveller had used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 25 days after his/her departure from Singapore.
+16. Where the traveller had used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
 
 17. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
