@@ -25,11 +25,11 @@ With this letter, an approved applicant who is a visa-required passport holder w
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-The sponsoring company or government agency should log onto the SafeTravel Pass portal one to two days before the traveller’s departure to submit the traveller’s negative COVID-19 test result and controlled itinerary in Singapore. The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 swab test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
+The sponsoring company or government agency should log onto the SafeTravel Pass portal one to two days before the traveller’s departure to submit the traveller’s negative COVID-19 test result and controlled itinerary in Singapore. The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 polymerase chain reaction (PCR) test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
 #### 4.	What is a SafeTravel Pass?
 
-A SafeTravel Pass allows residents in China to enter Singapore under the fast lane. It will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for the duration of their Visit Pass issued to them at the immigration checkpoint in Singapore. For example, if the traveller’s SafeTravel Pass is valid from 6 to 12 July 2020, he/she must enter Singapore within this period, and can stay for the duration of the Visit Pass issued to him/her at the checkpoint.
+A SafeTravel Pass allows residents in China to seek entry into Singapore under the fast lane. It will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for the duration of their Visit Pass issued to them at the immigration checkpoint in Singapore. For example, if the traveller’s SafeTravel Pass is valid from 6 to 12 July 2020, he/she must seek entry into Singapore within this period, and can stay for the duration of the Visit Pass issued to him/her at the checkpoint.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
@@ -57,7 +57,7 @@ If the traveller’s SafeTravel Pass has expired, he/she should submit a new app
 
 Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/entryanddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
-Travellers that are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
+Travellers who are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
 #### 10. How can I further extend my Visit Pass / stay when I am in Singapore, if necessary?
 
@@ -79,7 +79,7 @@ The fast lane is only for short-term essential business and official travel betw
 
 #### 14. What COVID-19 tests will I be subject to upon arrival in Singapore? Will I be subject to a serology test in Singapore?
 
-The traveller will undergo a PCR test upon arrival in Singapore. The traveller does not need to undergo a serology test in Singapore in the first instance. The cost of the post-arrival PCR test will be announced at a later date.
+The traveller will undergo a PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. The traveller does not need to undergo a serology test in Singapore in the first instance. The traveller should expect to pay around S$350 (inclusive of GST) for the post-arrival test.
 
 #### 15. What if I test positive for COVID-19 in Singapore?
 
@@ -99,7 +99,7 @@ Travellers must remain in any of the sending fast lane regions (Chongqing, Guang
 
 #### 17. What documentation do I need to present to the airline crew before I will be allowed to board a flight from China to Singapore?
 
-The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 swab test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks. Otherwise, he/she may be refused boarding.
+The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 PCR test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks. Otherwise, he/she may be refused boarding.
 
 ### **Health Measures in Singapore**
 
