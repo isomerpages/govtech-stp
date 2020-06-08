@@ -19,7 +19,7 @@ If the application is approved, a Letter of Invitation will be issued to the app
 
 #### 3. What visas will I be eligible for under the fast lane, and what is the visa duration in China?
 
-The duration of the visas in China will be assessed on a case-by-case basis by the Chinese authorities.
+The duration and type of the visas issued by China will be assessed on a case-by-case basis by the Chinese authorities.
 
 #### 4.	How can I further extend my visa duration when I am in China, if necessary?
 
