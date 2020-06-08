@@ -13,7 +13,7 @@ The relevant Chinese government authorities will assess each application on a ca
 
 #### 2.	How do Singapore residents apply to travel to China under the fast lane?
 
-Residents in Singapore seeking to travel to China for essential business or official travel via the fast lane must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company/government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **ANNEX A**.
+Residents in Singapore seeking to travel to China for essential business or official travel via the fast lane must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **ANNEX A**.
 
 If the application is approved, a Letter of Invitation will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. For more details on visa application, please contact the PRC Embassy in Singapore.
 
@@ -35,9 +35,9 @@ Those seeking to enter China for purposes other than essential business and offi
 
 The fast lane is for travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
-Travellers from Singapore who need to travel between adjacent fast lane regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination.
+A traveller from Singapore who needs to travel between adjacent fast lane regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination.
 
-The traveller is only allowed to use the private transport designated by his/her host company/government agency to travel to other fast lane regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
+The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other fast lane regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
 
 After the first 14 days, inter-provincial/municipal travel for the non-fast lane regions within China will be allowed for a fast lane traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned.
 
@@ -49,7 +49,7 @@ The traveller may contact his/her host company or government agency in China to 
 
 ### **Test Arrangements**
 
-#### 8.	Where do I take a pre-departure polymerase chain reaction (PCR) test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+#### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
 A fast lane traveller departing for China can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 48 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
@@ -71,15 +71,15 @@ If tested positive for COVID-19 in China, the traveller will be accorded the nec
 
 The Chinese authorities require a traveller to test negative for both the post-arrival PCR test and serology test before the traveller can proceed with his/her travel plans in China.
 
-#### 12. Do I have to take another PCR test in China before I return to Singapore? If so, where can I do so?
+#### 12. Do I have to take another PCR test in China before I return to Singapore?
 
-Yes. Travellers returning to Singapore have to take a pre-departure PCR test in China at least once within 48 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the relevant authorities in China.
+Travellers do not have to take another PCR test in China before returning to Singapore.
 
 ### **Pre-Departure in Singapore**
 
 #### 13. What documentation do I need to present to the airline crew before I will be allowed to board a flight from Singapore to China?
 
-Minimally, travellers should have on hand their negative COVID-19 swab test result, a valid visa and a Letter of Invitation.
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation.
 
 ### **Health Measures in China**
 
@@ -99,15 +99,15 @@ The traveller can only commute between his/her residence and the workplace via a
 
 As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements of the provincial/municipal authorities with his/her local host company or government agency.
 
-While a traveller no longer needs to adhere to a controlled itinerary after the first 14 days, he/she must still follow local COVID-19 prevention and control measures for the duration of his/her stay in China. As some provinces/municipalities may require the traveller to undergo a PCR test before being allowed to move beyond a controlled itinerary after the first 14 days, your local host company or government agency should verify the latest requirements with the relevant local provincial/municipality authorities.
+While a traveller no longer needs to adhere to a controlled itinerary after the first 14 days, he/she must still follow local COVID-19 prevention and control measures for the duration of his/her stay in China. As some provinces/municipalities may require the traveller to undergo additional COVID-19 test(s) before being allowed to move beyond a controlled itinerary after the first 14 days, your local host company or government agency should verify the latest requirements with the relevant local provincial/municipality authorities.
 
 ### **Returning to Singapore**
 
 #### 16. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
 
-Singapore Citizens, Permanent Residents, Long-Term Pass holders returning to Singapore from China will be subject to prevailing health regulations.
+Singapore Citizens, Permanent Residents, Long-Term Pass holders on fast lane travel returning to Singapore from China will be issued with a 14-day Stay-Home-Notice (SHN) upon entry into Singapore.
 
-For prevailing policies related to returning Singapore Citizens, Permanent Residents and Long-Term Pass holders, please refer to <https://www.ica.gov.sg/covid-19> for more details.
+For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
 ##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
 
@@ -132,15 +132,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 Pre-departure COVID-19 tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may be made available at other clinics in future.
 
-| S/N | Raffles Medical Group Clinic | Address                                                                | Opening hours                                                               |
-|-----|------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| 1   | CHANGI AIRPORT TERMINAL 3    | Singapore Changi Airport 65 Airport Boulevard, #B2-01 Singapore 819663 | 24h                                                                         |
-| 2   | HARBOURFRONT                 | 1 Maritime Square Harbourfront Centre, #03-56 Singapore 099253         | Mon: 8.30am-7pm<br />Tues-Fri: 8.30am-5.30pm<br />Sat: 8.30am-1pm<br />Sun & PH: Closed    |
-| 3   | HOLLAND VILLAGE              | 118 Holland Ave Raffles Holland V, Level 5 Singapore 278997            | Mon-Fri: 8.30am-9.30pm<br />Sat, Sun & PH: 8.30am-1pm, 2pm-5.30pm, 6.30pm-9.30pm |
-| 4   | SHAW CENTRE                  | 1 Scotts Road Shaw Centre, #04-09 to 14 Singapore 228208               | Mon-Fri: 8.30am-6pm<br />Sat: 8.30am-1pm<br />Sun & PH: Closed                        |
-| 5   | RAFFLES CITY                 | 252 North Bridge Rd, #02-17 Singapore 179103                           | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed            |
-
-For more details on COVID-19 tests, travellers may contact Raffles Medical Group at +65-6311 1222.
+For more details on COVID-19 tests, travellers may contact Raffles Medical Group at their 24hr hotline +65-6311 1222.
 
 ----
 
