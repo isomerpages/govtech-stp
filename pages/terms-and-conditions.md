@@ -107,7 +107,7 @@ permalink: /terms-and-conditions/
 
 5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
 
-6. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
+6. Where the Host had provided a TraceTogether-compatible device to the traveller, it shall ensure that the TraceTogether app remains installed in the device, and all TraceTogether data is retained, for at least 14 days after the departure of the traveller.
 
 7. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
