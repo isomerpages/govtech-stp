@@ -138,7 +138,7 @@ Pre-departure COVID-19 tests for fast lane arrangements may only be performed at
 
 | S/N | Raffles Medical Group Clinic | Address                                                                  | Operating Hours                                                                            | Contact        |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1   | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663    | Open 24 hours                                                                              | Tel: 62418188 |
+| 1   | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663    | Open 24 hours                                                                              | Tel: 62418818 |
 | 2   | HARBOURFRONT                 | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253            | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed       | Tel: 62733078 |
 | 3   | HOLLAND VILLAGE              | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997               | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | Tel: 62501141 |
 | 4   | RAFFLES CITY                 | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed                | Tel: 63396911 |
