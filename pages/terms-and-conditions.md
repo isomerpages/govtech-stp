@@ -43,7 +43,7 @@ permalink: /terms-and-conditions/
 
 #### **Pre-Departure to Singapore**
 
-4. The traveller must remain in any of the Relevant Qualifying Regions in the 7 days prior to his/her arrival in Singapore (exclusive of the day of arrival).
+4. The traveller must remain in any of the Relevant Qualifying Regions in the 7 days prior to his/her departure for Singapore (exclusive of the day of arrival).
 
 5. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet.
 
