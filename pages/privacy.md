@@ -23,3 +23,4 @@ permalink: /privacy/
 7. Please contact <COVID_SAFETRAVELPASS@mti.gov.sg> if you:
 : a. have any enquires or feedback on our data protection policies and procedures,
 : b. need more information on or access to data which you have provided to us in the past.
+ 
