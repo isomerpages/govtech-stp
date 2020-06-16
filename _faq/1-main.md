@@ -79,7 +79,7 @@ The fast lane is only for short-term essential business and official travel betw
 
 #### 14. What COVID-19 tests will I be subject to upon arrival in Singapore? Will I be subject to a serology test in Singapore?
 
-The traveller will undergo a PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. The traveller does not need to undergo a serology test in Singapore in the first instance. The traveller should expect to pay around S$350 (inclusive of GST) for the post-arrival test.
+The traveller will undergo a PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. The traveller does not need to undergo a serology test in Singapore in the first instance. The traveller should expect to pay around S$300 (inclusive of GST) for the post-arrival test.
 
 #### 15. What if I test positive for COVID-19 in Singapore?
 
