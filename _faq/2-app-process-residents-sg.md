@@ -119,14 +119,14 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel un
 
 #### Points-of-Contact for Outbound Travel by Singapore Residents to Fast Lane Regions in China
 
-| Fast Lane Region | Local Provincial/Municipal Authorities                                                                                                                                             |
+| Fast Lane Region | Local Provincial/Municipal Authorities |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chongqing        | For business travellers: Department of Commerce of the Chongqing Municipal Government<br />For official passport holders: Foreign Affairs Office of the Chongqing Municipal Government |
-| Guangdong        | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
-| Jiangsu          | For business travellers: Bureaus of Commerce of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities              |
-| Shanghai         | Foreign Affairs Offices of the relevant districts                                                                                                                                  |
-| Tianjin          | Point-of-Contact to be provided at a later date                                                                                                                                    |
-| Zhejiang         | Foreign Affairs Offices of the relevant cities/counties/districts                                                                                                                  |
+| Chongqing | For business travellers: Commerce Bureaus of the relevant counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant counties/districts |
+| Guangdong | Foreign Affairs Offices of the relevant cities/counties/districts |
+| Jiangsu | For business travellers: Commerce Bureaus of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities |
+| Shanghai | Commerce Bureaus of the relevant districts |
+| Tianjin | Foreign Affairs Offices of the relevant cities/counties/districts |
+| Zhejiang | For business travellers: Commerce Bureaus of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities |
 
 <div id="annexb"></div>
 
