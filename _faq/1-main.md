@@ -93,7 +93,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be r
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders who leave Singapore under the fast lane arrangement and comply with fast lane conditions are not travelling in disregard of travel advisories. They will not be required to pay for their medical bills at public hospitals in Singapore should they test positive for COVID-19 after their return to Singapore.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</em></p>
 
 ### **Pre-Departure Measures in China**
 
