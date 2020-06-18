@@ -23,7 +23,7 @@ For more information on the Terms and Conditions of the SafeTravel Pass, please 
 
 ### **Before entering Singapore**
 
-#### **Visa Requirements**
+#### Visa Requirements
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency.
 
@@ -33,7 +33,7 @@ With the SafeTravel Pass approval, an approved applicant who is a visa-required 
 
 The approved applicant will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/), before departing for Singapore. The SG Arrival Card can also be accessed via the [Visit Singapore Travel Guide App](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/).
 
-#### **Pre-Departure Measures**
+#### Pre-Departure Measures
 
 Prior to travelling to Singapore, approved SafeTravel Pass travellers are required to:
 - Monitor their health status before departure;
@@ -48,7 +48,7 @@ Otherwise, the traveller can be refused boarding.
 
 ### **Arrival and Stay in Singapore**
 
-#### **Post-Arrival Measures**
+#### Post-Arrival Measures
 
 The SafeTravel Pass traveller will undergo and bear the costs of a COVID-19 **PCR test** upon arrival in Singapore.
 
@@ -64,7 +64,7 @@ The host<sup>2</sup> company or government agency will transport the traveller d
 
 If the result indicates that the traveller has tested negative for COVID-19, the traveller can proceed on the pre-declared controlled itinerary. If tested positive for COVID-19, the traveller will undergo medical treatment at his/her cost.
 
-#### **Measures during stay in Singapore**
+#### Measures during stay in Singapore
 
 SafeTravel Pass travellers to Singapore are required to download and use the **TraceTogether** app for the duration of their stay. If a traveller does not have a TraceTogether-compatible device, the host company or government agency shall provide one to the traveller.
 
