@@ -13,9 +13,9 @@ Residents in China who need to make essential business or official travel betwee
 
 Yes. All residents in China who need to make short-term essential business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) are eligible to apply for the fast lane.
 
-<p style="font-size: 1.0rem; line-height: 1.5rem;">* <em>Long-Term Pass holders who are eligible to apply for fast lane travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Long-Term Pass holders who are eligible to apply for fast lane travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
 
-<p style="font-size: 1.0rem; line-height: 1.5rem;"><em>Long-Term Pass holders returning to Singapore after a visit to China via the fast lane should identify themselves as fast lane travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the fast lane region.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>Long-Term Pass holders returning to Singapore after a visit to China via the fast lane should identify themselves as fast lane travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the fast lane region.</em></p>
 
 #### 3. How do residents in China apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
@@ -89,11 +89,11 @@ The traveller will undergo a PCR test upon arrival at Changi Airport or Seletar 
 
 If tested positive for COVID-19, short-term pass holders will be accorded the necessary medical treatment at his/her cost.
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.<sup>*</sup>
+Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.*
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders who leave Singapore under the fast lane arrangement and comply with fast lane conditions are not travelling in disregard of travel advisories. They will not be required to pay for their medical bills at public hospitals in Singapore should they test positive for COVID-19 after their return to Singapore.
 
-<p style="font-size: 1.0rem; line-height: 1.5rem;">* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</p>
 
 ### **Pre-Departure Measures in China**
 
