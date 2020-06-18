@@ -105,10 +105,12 @@ Travellers must remain in any of the sending fast lane regions (Chongqing, Guang
 
 The traveller is required to produce the following documents for pre-boarding checks:
 
-: a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
-: b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-: c. A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and
-: d. A return air ticket or proof of other transportation arrangements to depart Singapore.
+<ol style="list-style-type: lower-alpha;">
+  <li>A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);</li>
+  <li>A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);</li>
+  <li>A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and</li>
+  <li>A return air ticket or proof of other transportation arrangements to depart Singapore.</li>
+</ol>
 
 Otherwise, the traveller may be refused boarding.
 
