@@ -17,7 +17,7 @@ permalink: /terms-and-conditions/
 
 ### **A. Terms & Conditions for Sponsor**
 
-#### **General**
+#### General
 
 1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor must obtain an acknowledgement from the traveller that he/she has read and understood:
 : a. these terms and conditions; and
@@ -33,7 +33,7 @@ permalink: /terms-and-conditions/
 
 ### **B. Terms & Conditions for Traveller**
 
-#### **General**
+#### General
 
 1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
 
@@ -41,7 +41,7 @@ permalink: /terms-and-conditions/
 
 3. The traveller agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR test results to the Sponsor, Host, and relevant government authorities in Singapore.
 
-#### **Pre-Departure to Singapore**
+#### Pre-Departure to Singapore
 
 4. The traveller must remain in any of the Relevant Qualifying Regions in the 7 days prior to his/her departure for Singapore (exclusive of the day of arrival).
 
@@ -57,7 +57,7 @@ permalink: /terms-and-conditions/
 : c. Negative results of COVID-19 PCR test taken within 48 hours prior to departure; and
 : d. Return air ticket.
 
-#### **Post-Arrival in Singapore**
+#### Post-Arrival in Singapore
 
 9. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
 
@@ -85,7 +85,7 @@ permalink: /terms-and-conditions/
   : iv. Having meals alone;
   : v. Holding meetings with fewer than 10 people.
 
-#### **Post-Departure from Singapore**
+#### Post-Departure from Singapore
 
 15. A Traveller who does not have a TraceTogether-compatible device would be provided with one for the purpose for his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
 
@@ -95,7 +95,7 @@ permalink: /terms-and-conditions/
 
 ### **C. Terms & Conditions for Host**
 
-#### **General**
+#### General
 
 1. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
 
