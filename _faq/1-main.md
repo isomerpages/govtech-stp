@@ -9,15 +9,19 @@ permalink: /faq/main
 
 Residents in China who need to make essential business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang).
 
-#### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder who is resident in China. Am I eligible to apply for the fast lane?
+#### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder* who is resident in China. Am I eligible to apply for the fast lane?
 
 Yes. All residents in China who need to make short-term essential business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) are eligible to apply for the fast lane.
+
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Long-Term Pass holders who are eligible to apply for fast lane travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
+
+<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>Long-Term Pass holders returning to Singapore after a visit to China via the fast lane should identify themselves as fast lane travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the fast lane region.</em></p>
 
 #### 3. How do residents in China apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
 Residents in China seeking to travel to Singapore for essential business or official travel via the fast lane must be hosted by a company or a government agency in Singapore. The host company can self-sponsor and file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency.<sup>1</sup> The application for the SafeTravel Pass will be open from 20 to 5 working days before the day of the traveller’s planned departure.
 
-In the initial launch commencing 8 June 2020, travellers sponsored by government agencies may submit applications for a SafeTravel Pass through their respective sponsoring government agencies. Direct applications by companies will be accepted in a later phase, to be announced.
+In the initial launch which commenced on 8 June 2020, travellers sponsored by government agencies may submit applications for a SafeTravel Pass through their respective sponsoring government agencies. Direct applications by companies will be accepted in a later phase, to be announced.
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant and the sponsoring company / government agency by email within 3 working days.
 
@@ -65,7 +69,7 @@ All applications for extension of Visit Pass must be submitted online using ICA�
 
 #### 11. Can I use the fast lane to come to Singapore for long-term work?
 
-The fast lane is only for short term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme.
+The fast lane is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme.
 
 #### 12. Can I use the fast lane to come to Singapore for long-term study?
 
@@ -85,11 +89,11 @@ The traveller will undergo a PCR test upon arrival at Changi Airport or Seletar 
 
 If tested positive for COVID-19, short-term pass holders will be accorded the necessary medical treatment at his/her cost.
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.<sup>*</sup>
+Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.*
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders who leave Singapore under the fast lane arrangement and comply with fast lane conditions are not travelling in disregard of travel advisories. They will not be required to pay for their medical bills at public hospitals in Singapore should they test positive for COVID-19 after their return to Singapore.
 
-<sup>* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</sup>
+<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</em></p>
 
 ### **Pre-Departure Measures in China**
 
@@ -97,17 +101,26 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders who leave Sin
 
 Travellers must remain in any of the sending fast lane regions (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for seven days prior to departure for Singapore. They must monitor their health status before departure from the fast lane regions in China, undergo a pre-departure PCR test in China at least once within 48 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the relevant provincial/municipal government in China.
 
-#### 17. What documentation do I need to present to the airline crew before I will be allowed to board a flight from China to Singapore?
+#### 17. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from China to Singapore?
 
-The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 PCR test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks. Otherwise, he/she may be refused boarding.
+The traveller is required to produce the following documents for pre-boarding checks:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);</li>
+  <li>A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);</li>
+  <li>A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and</li>
+  <li>A return air ticket or proof of other transportation arrangements to depart Singapore.</li>
+</ol>
+
+Otherwise, the traveller may be refused boarding.
 
 ### **Health Measures in Singapore**
 
 #### 18. What health measures will I will be subjected to upon arrival in Singapore?
 
-Fast lane travellers from China must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) for one to two days until their test results are released. Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures. Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
+Fast lane travellers from China must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) for one to two days until their test results are released. Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>2</sup>. Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport<sup>3</sup>.
 
 Travellers to Singapore must use the TraceTogether app, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
@@ -133,3 +146,7 @@ As the specific requirements may vary amongst provinces/municipalities, the retu
 <sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.
 
 The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
+
+<sup>2</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
+
+<sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
