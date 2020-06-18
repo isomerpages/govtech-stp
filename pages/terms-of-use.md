@@ -58,11 +58,13 @@ permalink: /terms-of-use/
 12. GovTech reserves the right to change, modify or supplement these Terms at our discretion and at any time, by posting the changed, modified or supplemented Terms on or through SafeTravel, or through such other means as GovTech may deem appropriate. Your continued use of SafeTravel following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to these Terms, please do not use SafeTravel.
 
 13. GovTech reserves the right to –
-: a. update, enhance, upgrade, reduce, or otherwise modify or vary SafeTravel, at any time, for any reason, with or without notice to you. These Terms will apply to all such updates, enhancements, upgrades, reductions, modifications or variations to SafeTravel;
-: b. suspend the use of SafeTravel, during times of maintenance (whether scheduled or unscheduled), without notice or liability to you whatsoever;
-: c. deny or restrict use of SafeTravel to you without ascribing any reasons and without liability to you whatsoever;
-: d. discontinue or terminate SafeTravel, at any time without notice or liability to you whatsoever, whereupon all rights granted to you under these Terms will also terminate immediately; and
-: e. if your use of SafeTravel is in breach of these Terms, we may immediately disable your use of SafeTravel without notice and to take all such action as we consider appropriate, desirable or necessary.
+<ol style="list-style-type: lower-alpha;">
+  <li> update, enhance, upgrade, reduce, or otherwise modify or vary SafeTravel, at any time, for any reason, with or without notice to you. These Terms will apply to all such updates, enhancements, upgrades, reductions, modifications or variations to SafeTravel;</li>
+  <li>suspend the use of SafeTravel, during times of maintenance (whether scheduled or unscheduled), without notice or liability to you whatsoever;</li>
+  <li>deny or restrict use of SafeTravel to you without ascribing any reasons and without liability to you whatsoever;</li>
+  <li>discontinue or terminate SafeTravel, at any time without notice or liability to you whatsoever, whereupon all rights granted to you under these Terms will also terminate immediately; and</li>
+  <li>if your use of SafeTravel is in breach of these Terms, we may immediately disable your use of SafeTravel without notice and to take all such action as we consider appropriate, desirable or necessary.</li>
+</ol>
 
 14. GovTech retains the discretion in determining whether or not to provide maintenance and support services for SafeTravel, and if so, the type and nature of such maintenance and support services.
 
