@@ -152,19 +152,19 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### Booking an appointment
 
-##### **1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?**
+##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
 Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future. For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
 
 | S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-6241 8818 |
-| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-6273 3078 |
-| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-6250 1141 |
-| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-6339 6911 |
-| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-6838 0080 |
+| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-62418818 |
+| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-62733078 |
+| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-62501141 |
+| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63396911 |
+| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-68380080 |
 
-##### **2.	What is the latest I have to be at the clinic, based on my departure flight timing?**
+##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
 Travellers are advised to be at the clinic at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will not be able to obtain the results in time for departure.
 
@@ -179,7 +179,7 @@ Travellers are advised to be at the clinic at least 2 hours prior to, and no lat
 
 *For example, if a traveller’s flight departure time is 12 pm, 20 June, the traveller needs to present at the clinic latest by 5pm, 18 June. As the traveller must take the test within 48 hours before departure, the traveller is advised to be at the clinic between 12pm – 5pm, 18 June.*
 
-##### **3. How can I make an appointment for pre-departure PCR testing?**
+##### 3. How can I make an appointment for pre-departure PCR testing?
 
 Please refer to the Test Schedule and book your test slot within the indicated timing. This is to ensure that you will have sufficient time to meet the fast lane requirements.
 
@@ -194,6 +194,64 @@ Please refer to the Test Schedule and book your test slot within the indicated t
 </ol>
 
 **[72 hours to >48 hours to flight]** Please call the Raffles Medical Group 24-hour appointment hotline at +65-6311 1222.
+
+##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
+
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing is confirmed.
+
+Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the fast lane requirements.
+
+If you do not make a prior appointment, please note that:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>There is no guarantee that there will be a test slot for you; and</li>
+  <li>You may not get your results in time for your flight to qualify for fast lane arrangements.</li>
+</ol>
+
+Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight.
+
+##### 5. What details will I need to book an appointment for the PCR test?
+
+Please have the following information on hand when making an appointment for your test:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>Identification and passport numbers</li>
+  <li>Departure flight timing</li>
+  <li>Time of your test slot: Please refer to the Test Schedule to confirm your timing.</li>
+  <li>Address in Singapore</li>
+  <li>Contact number</li>
+  <li>Email address</li>
+</ol>
+
+##### 6. What documents should I bring for my appointment?
+
+Please bring the following:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>Identification and passport</li>
+  <li>Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane</li>
+  <li>Softcopy booking reference showing your departure flight timing</li>
+</ol>
+
+##### Testing
+
+##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
+
+Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight.
+
+Please make arrangements early for your test slot so that you can qualify for the fast lane arrangements.
+
+##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the fast lane arrangement.
+
+##### Test Results
+
+##### 9. When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your flight.
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
 
 ----
 
