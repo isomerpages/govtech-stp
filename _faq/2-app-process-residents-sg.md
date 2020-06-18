@@ -152,21 +152,48 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### Booking an appointment
 
-1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+##### **1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?**
 
 Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future. For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
 
-Pre-departure COVID-19 tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may be made available at other clinics in future.
-
-| S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact |
+| S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | Tel: 62418818 |
-| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | Tel: 62733078 |
-| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | Tel: 62501141 |
-| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | Tel: 63396911 |
-| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | Tel: 68380080 |
+| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-6241 8818 |
+| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-6273 3078 |
+| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-6250 1141 |
+| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-6339 6911 |
+| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-6838 0080 |
 
-For more details on COVID-19 tests, travellers may contact Raffles Medical Group at their 24hr hotline +65-6311 1222.
+##### **2.	What is the latest I have to be at the clinic, based on my departure flight timing?**
+
+Travellers are advised to be at the clinic at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will not be able to obtain the results in time for departure.
+
+| Flight departure time | Latest Cut-off Test Timing |
+|-----------------------|-----------------------------------------|
+| 12.00am to 6.59am | 10.00am two calendar days before flight |
+| 7.00am to 9.59am | 1.00pm two calendar days before flight |
+| 10.00am to 11.59am | 3.00pm two calendar days before flight |
+| 12.00pm to 1.59pm | 5.00pm two calendar days before flight |
+| 2.00pm to 4.59pm | 8.00pm two calendar days before flight |
+| 5.00pm to 11.59pm | 9.00am the day before flight |
+
+*For example, if a traveller’s flight departure time is 12 pm, 20 June, the traveller needs to present at the clinic latest by 5pm, 18 June. As the traveller must take the test within 48 hours before departure, the traveller is advised to be at the clinic between 12pm – 5pm, 18 June.*
+
+##### **3. How can I make an appointment for pre-departure PCR testing?**
+
+Please refer to the Test Schedule and book your test slot within the indicated timing. This is to ensure that you will have sufficient time to meet the fast lane requirements.
+
+**[>72 hours to flight]** You may book a test date through:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>Raffles Connect app.</li>
+  <li>Online booking system at <https://www.rafflesmedicalgroup.com/appointment-booking>. Real-time time slots availability is available on the corporate appointment booking webpage.</li>
+  <li>Calling the 24-hour appointment hotline at +65-6311 1222</li>
+  <li>Calling the appointed clinics listed.</li>
+  <li>Email <swabresult@rafflesmedical.com>, stating your flight departure details, your preferred Raffles Medical clinic and your preferred date and time of appointment.</li>
+</ol>
+
+**[72 hours to >48 hours to flight]** Please call the Raffles Medical Group 24-hour appointment hotline at +65-6311 1222.
 
 ----
 
