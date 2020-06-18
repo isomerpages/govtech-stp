@@ -13,9 +13,9 @@ Residents in China who need to make essential business or official travel betwee
 
 Yes. All residents in China who need to make short-term essential business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) are eligible to apply for the fast lane.
 
-\* *Long-Term Pass holders who are eligible to apply for fast lane travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.*
+<sup>* <em>Long-Term Pass holders who are eligible to apply for fast lane travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></sup>
 
-*Long-Term Pass holders returning to Singapore after a visit to China via the fast lane should identify themselves as fast lane travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the fast lane region.*
+<sup><em>Long-Term Pass holders returning to Singapore after a visit to China via the fast lane should identify themselves as fast lane travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the fast lane region.</em></sup>
 
 #### 3. How do residents in China apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
@@ -104,6 +104,7 @@ Travellers must remain in any of the sending fast lane regions (Chongqing, Guang
 #### 17. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from China to Singapore?
 
 The traveller is required to produce the following documents for pre-boarding checks:
+
 : a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
 : b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
 : c. A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and
