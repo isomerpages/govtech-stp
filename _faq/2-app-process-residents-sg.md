@@ -61,7 +61,7 @@ The traveller will need to adhere to the clinic’s cut-off timings for the pre-
 
 The traveller must also obtain a letter from the PRC Embassy in Singapore which confirms that he/she has been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
 
-The traveller should expect to pay about S$180 – S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 9.	What tests will I be subject to upon arrival in China? Will I be subject to a serology test in China?
 
@@ -215,7 +215,7 @@ Travellers who miss the cut-off test timing will not be able to obtain a test re
 Please have the following information on hand when making an appointment for your test:
 
 <ol style="list-style-type: lower-alpha;">
-  <li>Identification and passport numbers</li>
+  <li>Identity card number or passport number</li>
   <li>Departure flight timing</li>
   <li>Time of your test slot: Please refer to the Test Schedule to confirm your timing.</li>
   <li>Address in Singapore</li>
@@ -228,7 +228,7 @@ Please have the following information on hand when making an appointment for you
 Please bring the following:
 
 <ol style="list-style-type: lower-alpha;">
-  <li>Identification and passport</li>
+  <li>Identity card or passport</li>
   <li>Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane</li>
   <li>Softcopy booking reference showing your departure flight timing</li>
 </ol>
