@@ -47,4 +47,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
+webrick:
+  headers:
+    Content-Security-Policy: frame-src 'kayakay.com';
