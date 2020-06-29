@@ -3,4 +3,4 @@ title: Iframe
 permalink: /iframe
 ---
 
-<iframe src="http://www.google.com"></iframe>
+This is iframe page
