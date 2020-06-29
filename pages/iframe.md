@@ -1,0 +1,6 @@
+---
+title: iframe test page
+permalink: /iframe
+---
+
+<iframe src="https://d1ppf4azqk1am9.cloudfront.net/index.html" width="100%" height="500"></iframe>
