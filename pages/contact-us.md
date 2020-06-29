@@ -7,4 +7,4 @@ For general enquiries on the SafeTravel Pass, please contact us at <COVID_SAFETR
 
 For enquiries on the status of your application, please approach the Singapore government agency that sponsored the application.
 
-Testing 1 2 3
+Testing 1 2 3 4 5
