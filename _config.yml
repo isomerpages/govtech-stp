@@ -20,8 +20,6 @@ colors:
 
 #collections
 collections:
-  getstarted:
-    output: true
   faq:
     output: true
 
