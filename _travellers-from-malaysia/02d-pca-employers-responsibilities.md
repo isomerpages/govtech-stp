@@ -10,8 +10,8 @@ third_nav_title: Periodic Commuting Arrangement
 |-------------------------------------------|---------------------|
 | Before your employees leave for Singapore | 
 - Prior to submitting the entry application on behalf of the employee, the employer must obtain an acknowledgement from the employee that he/she:
- - has read and understood the following terms and conditions; and
- - agrees to disclose, or for the medical provider to disclose, his/her PCR swab test results to the employer and relevant government authorities in Singapore.
+  - has read and understood the following terms and conditions; and
+  - agrees to disclose, or for the medical provider to disclose, his/her PCR swab test results to the employer and relevant government authorities in Singapore.
 - Ensure employees have a SIM card with a Singapore mobile number for MOM to contact them while they are in Singapore.
 - Secure a suitable place of residence for employees to complete their 14-day SHN. Their SHN place of residence must fulfil the prevailing SHN advisory and guidelines. Cohorting is only allowed (up to 4 pax) if the employees arrive in Singapore on the same day.
 - If employees do not have their personal vehicles, employers should arrange transportation for employees to commute: (i) between Malaysia and Singapore’s checkpoints; and (ii) from Singapore’s checkpoint to their SHN place of residence. Employees are prohibited from taking public transportation to their SHN place of residence.
