@@ -1,14 +1,8 @@
 logo: /images/logo-stp.png
 
 links:
-  - title: How to Apply
-    url: /#applystp
-  - title: About SafeTravel Pass
-    url: /about
-  - title: Terms and Conditions
-    url: /terms-and-conditions
-  - title: FAQ
-    url: /faq/main
+  - title: Get Started
+    collection: getstarted
   - title: Contact Us
     url: /contact-us
     
