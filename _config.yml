@@ -20,7 +20,7 @@ colors:
 
 #collections
 collections:
-  china:
+  travellers-from-china:
     output: true
   malaysia:
     output: true
