@@ -20,6 +20,10 @@ colors:
 
 #collections
 collections:
+  china:
+    output: true
+  malaysia:
+    output: true
   faq:
     output: true
 
