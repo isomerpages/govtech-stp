@@ -69,3 +69,72 @@ Travellers seeking to enter Singapore for study may wish to visit <https://www.i
 
 No. The approved traveller is expected to enter Singapore on the date of entry indicated in his/her approved PCA pass. Your date of entry has been assigned based on your indicated preference during application, and the daily quota of 2,000 PCA travelers.
 
+#### 11. Can I reapply for PCA on behalf of my employee if the earlier application was rejected? 
+
+Yes. You may reapply for PCA on behalf of your employee if your earlier application was rejected.
+
+Please avoid sending another application if you are pending the status of an earlier application. This will delay the approval process for your earlier application.
+
+### **Arrival Measures**
+
+#### 12. What documentation(s) do(es) my employee who has been approved to enter Singapore under PCA need to present to the immigration staff in Singapore before he/she will be allowed to enter Singapore?
+
+The approved PCA traveller is required to produce the following documents for the immigration checks:
+- A valid PCA pass for the intended date of arrival
+- A valid passport and work pass to enter Singapore, and
+- A proof of payment for PCR swab test.
+
+Otherwise, the traveller may be refused entry into Singapore.
+
+### **Health Measures**
+
+#### 13. What health measures will my employee be subject to upon arrival in Singapore?
+
+Approved PCA travellers entering from Malaysia are required to serve a 14-days Stay-Home-Notice (SHN) at their declared SHN accommodation after arrival in Singapore, and a PCR swab test at a designated test site during the 14-days SHN.
+
+PCA travellers will have to take a company transport, their personal transport (e.g. motorbikes), or a private hire vehicle directly from the immigration checkpoint to the declared self-sourced SHN accommodation, adhering to prevailing health measures and without stopping at any destination along the journey. After the 14-days SHN, PCA travellers must adhere to prevailing public health requirements for the duration of their stay in Singapore.
+
+The sponsoring company will bear the costs of the accommodations (both SHN and post-SHN) and post-arrival PCR swab test in Singapore.
+
+### **Testing Arrangements**
+
+#### 14. What COVID-19 tests will my employee be subject to upon arrival in Singapore? Will my employee be subject to a serology test in Singapore? When and where does my employee get his/her PCR swab testing?
+
+The approved PCA traveller is required to undergo a PCR swab test within the first 14 days upon arrival in Singapore, while serving his/her SHN. The PCR swab test date for each traveller will be arranged by designated authority (tbd). The traveller will be informed of the date and the designated test site that he/she is assigned to take the PCR swab test via a SMS message to his/her declared Singapore mobile number. The traveller does not need to undergo a serology test in Singapore in the first instance. The traveller should expect to pay around S$[XXX] (inclusive of GST) for the PCR swab test.
+
+In the event that the traveller’s PCR swab test result is inconclusive, the traveller will be required to take another PCR swab test. The PCR swab re-testing date will be arranged by designated authority (tbd), and the traveler will be informed of the new date and designated test site via a [SMS message] to his/her declared Singapore mobile number.
+
+#### 15. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her PCR swab test?
+
+No. The approved PCA traveller may not take public transport for any purpose during the 14-days period of SHN, including to travel from the declared SHN accommodation to the designated test site for his/her PCR swab test.
+
+The traveller may only take one of the following to travel from the declared SHN accommodation to the designated test site for his/her PCR swab test:
+- Company provided transport 
+- Personal transport (declared in the application) 
+- Private hire vehicles 
+
+The traveller is also required to travel directly from the declared SHN accommodation to the designated test site, and directly back to the declared SHN accommodation from the test site. The traveller may not make any stops during the journey between the declared SHN accommodation and the designated test site.
+
+#### 16. What if my employee test positive for COVID-19 in Singapore?
+
+If tested positive for COVID-19, Malaysia Citizens, Permanent Residents and Long-Term Pass holders will be accorded the necessary medical treatment in Singapore at his/her cost. 
+
+The cost of the medical treatment in Singapore will be borne by the sponsoring company and/or the approved PCA traveller.
+
+#### 17. How do I and/or my employee know his/her COVID-19 test result?
+
+Both the sponsoring company and/or the approved PCA traveller will be informed of the traveller’s PCR swab test result via [an email].
+
+### **Returning to Malaysia**
+
+#### 18. What do I do if my employee needs to return to Malaysia before the 3 months of stay are up?
+
+Should your employee need to return to Malaysia before the end of the 3 months of stay, please note that you will only be able to apply for another PCA pass on behalf of the same employee for re-entry into Singapore three months after the date of prior entry of that employee.
+
+#### 19. Does my employee need to be tested again in Singapore before he/she returns to Malaysia? Does my employee need to be quarantined or be tested again upon return to Malaysia?
+
+PCA returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
+
+Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government.
+
+As the specific requirements may vary over time, the returnee is advised to verify the latest requirements with the relevant Malaysian authorities [or refer to Malaysia’s MOH advisory page].
