@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /china/rgl/singapore-residents/overview
+permalink: /singapore-residents/rgl/china/overview
 third_nav_title: Reciprocal Green Lane (China)
 ---
 
