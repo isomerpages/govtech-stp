@@ -22,7 +22,7 @@ colors:
 collections:
   travellers-from-china:
     output: true
-  malaysia:
+  travellers-from-malaysia:
     output: true
   faq:
     output: true
