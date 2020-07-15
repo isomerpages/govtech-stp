@@ -1,6 +1,6 @@
 ---
 title: Requirements & Process
-permalink: /china/rgl/requirements-and-process
+permalink: /xxx/rgl/requirements-and-process
 third_nav_title: Reciprocal Green Lane
 ---
 
