@@ -24,6 +24,8 @@ collections:
     output: true
   travellers-from-malaysia:
     output: true
+  singapore-residents:
+    output: true
   faq:
     output: true
 
