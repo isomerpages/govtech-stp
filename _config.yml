@@ -2,13 +2,6 @@ title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
 
-#environment: staging, production
-env: staging
-staging_form_1_url: https://form.gov.sg/5ec925a2530c12001173f18a
-staging_form_2_url: https://form.gov.sg/5ecb7727acd26500115082db
-production_form_1_url: https://form.gov.sg/5edc85a24301f70011220fff
-production_form_2_url: https://form.gov.sg/5edc864f4301f700112210ae
-
 # Site colors
 colors:
   primary-color: '#C35152'
@@ -27,6 +20,12 @@ colors:
 
 #collections
 collections:
+  singapore-residents:
+    output: true
+  travellers-from-china:
+    output: true
+  travellers-from-malaysia:
+    output: true
   faq:
     output: true
 
