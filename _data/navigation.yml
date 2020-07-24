@@ -1,13 +1,13 @@
 logo: /images/logo-stp.png
 
 links:
-  - title: How to Apply
-    url: /#applystp
-  - title: About SafeTravel Pass
-    url: /about
-  - title: Terms and Conditions
-    url: /terms-and-conditions
-  - title: FAQ
-    url: /faq/main
+  - title: Get Started
+    sublinks:
+      - title: Travellers from China
+        url: /china/rgl/requirements-and-process
+      - title: Travellers from Malaysia
+        url: /malaysia/overview
+      - title: Singapore Residents
+        url: /singapore-residents/rgl/china/overview
   - title: Contact Us
     url: /contact-us
