@@ -10,6 +10,8 @@ Under the PCA, approved travellers will be permitted to enter Singapore and are 
 
 A daily quota of 2,000 approved travelers are currently permitted to enter Singapore (as of [23 July 2020]). The daily quota is intended to regulate the flow of travelers exiting and returning to the country of work in order to maintain public health controls and resources.
 
+<a href="https://www.google.com" style="border-radius: 8px; display: inline-block; background: #CA3E3C; color: #FFF; padding: 16px 24px; text-decoration: none; margin-bottom: 0;">Apply Now</a>
+
 ### **Eligibility**
 
 You are eligible to apply for the PCA to enter Singapore if you:
