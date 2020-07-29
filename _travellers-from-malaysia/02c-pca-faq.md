@@ -136,10 +136,22 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 5 | Premier | 6681 9462 |
 | 6 | HDT | 8507 9691 |
 
-* Operating hours: 8am – 6pm
+<sup>*</sup> Operating hours: 8am – 6pm
 
 #### 23. What if my employee tests positive for COVID-19 in Singapore?
 
 If tested positive for COVID-19, the employee will be accorded the necessary medical treatment in Singapore. Upon recovery, the employee may continue to work in Singapore.
 
 ### **Returning to Malaysia**
+
+#### 24. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
+
+Should your employee need to return to Malaysia before the end of the 3 months (i.e. 90 days) stay, please note that you will only be able to apply for another PCA on behalf of the same employee for re-entry into Singapore 90 days after the date of prior entry of that employee.
+
+#### 25. Does my employee need to be tested again in Singapore before he/she returns to Malaysia? Does my employee need to be quarantined or be tested again upon return to Malaysia?
+
+PCA returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
+
+Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government.
+
+As the specific requirements may vary over time, the returnee is advised to verify the latest requirements with the relevant Malaysian authorities or refer to Malaysia’s MOH advisory page.
