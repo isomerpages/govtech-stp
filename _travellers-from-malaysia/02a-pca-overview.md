@@ -73,6 +73,12 @@ They will be allowed to use public transportation only after completing their SH
 
 Employees without an entry approval under the PCA or other channels will be refused entry into Singapore.
 
-For more information on the Terms and Conditions of the PCA to enter Singapore, please click [here](/pca/terms-and-conditions).
+For more information on the Terms and Conditions of the PCA to enter Singapore, please click [here](/malaysia/pca/terms-and-conditions).
 
 For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg>.
+
+-----
+
+<sup>1</sup> Please note that the employee can only exit his/her SHN if the test result is negative.
+
+<sup>2</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed (up to four pax) if the four employees arrive in Singapore on the same day and under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
