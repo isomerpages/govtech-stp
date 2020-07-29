@@ -41,8 +41,36 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 - Have stayed in Malaysia in the entirety of the 14 days prior to departure; 
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before departure and obtain a certificate of having tested negative for COVID-19. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test. 
 - For air arrivals, at pre-boarding checks, approved SafeTravel Pass travellers must produce:
-: - A valid SafeTravel Pass for the intended week of travel, 
-: - A valid visa (for visa-required passport holders),
-: - A negative COVID-19 PCR test result, 
+  - A valid SafeTravel Pass for the intended week of travel, 
+  - A valid visa (for visa-required passport holders),
+  - A negative COVID-19 PCR test result, 
 
 Otherwise, the traveller can be refused boarding.
+
+### **Arrival and Stay in Singapore**
+
+#### Post-Arrival Measures
+
+The SafeTravel Pass traveller will undergo a COVID-19 PCR test at the airport/land checkpoint upon arrival in Singapore. The SafeTravel Pass traveller will bear the costs of the post-arrival PCR test in Singapore.
+
+The applicant must produce a valid SafeTravel Pass for the intended week of travel, a valid visa (for visa-required passport holders), a negative COVID-19 PCR test result (i.e., the result of the test done prior to departure from Malaysia) to arrival immigration. Applicants without these documents can be refused entry.
+
+The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/land checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until the test result is released. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary.
+
+If the result indicates that the traveller has tested negative for COVID-19, the traveller can proceed on the pre-declared controlled itinerary. If tested positive for COVID-19, the traveller will undergo medical treatment at his/her cost.
+
+The maximum length of stay in Singapore is 14 days.
+
+#### Measures during stay in Singapore
+
+SafeTravel Pass travellers to Singapore are required to download and use the TraceTogether app for the duration of their stay. If a traveller does not have a TraceTogether-compatible device, the host company or government agency shall provide one to the traveller.
+
+In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a controlled itinerary that is supervised by the host company or government agency for the duration of their stay of maximum 14 days. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
+
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/malaysia/rgl/terms-and-conditions).
+
+-----
+
+<sup>1</sup> The term “Sponsor” refers to the company or government agency making the application on behalf of the traveller.
+
+<sup>2</sup> The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
