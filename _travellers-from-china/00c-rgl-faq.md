@@ -163,7 +163,7 @@ The term “host” refers to the company or government agency that receives the
 
 -----
 
-<p style="text-align: right;"><a href="#faq-top">Back to top ↑</a></p>
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
 <div id="faq-residents-singapore"></div>
 
@@ -425,4 +425,4 @@ The clinic will email the results to your email address. You will need to print 
 
 -----
 
-<p style="text-align: right;"><a href="#faq-top">Back to top ↑</a></p>
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
