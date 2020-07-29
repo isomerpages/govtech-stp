@@ -4,4 +4,45 @@ permalink: /malaysia/rgl/requirements-and-process
 third_nav_title: Reciprocal Green Lane
 ---
 
-RGL requirements and process
+The SafeTravel Pass is a mandatory document for in-bound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Green/ Fast Lane arrangements.
+
+On 14 July 2020, Singapore and Malaysia agreed to implement the Reciprocal Green Lane to facilitate essential business and official travel between both countries for up to 14 days. The SafeTravel Pass may be used for essential business and official travel to Singapore via the Singapore-Malaysia Reciprocal Green Lane. The Reciprocal Green Lane is only applicable for travel between (i) airports in Singapore and Malaysia which have available non-stop flight routes and (ii) land checkpoints.
+
+### **Application**
+
+Business or official travellers seeking to make essential travel via the Reciprocal Green Lane to Singapore from Malaysia must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel pass.
+
+From 10 August 2020, only business or official travellers sponsored by a Singapore Government agency may submit applications to use the Singapore-Malaysia Reciprocal Green Lane. Applications for company-sponsored travellers to use the Singapore-Malaysia Reciprocal Green Lane can be submitted at a later phase to be announced.
+
+### **Important**
+
+Travellers without a valid SafeTravel Pass will be refused entry into Singapore.
+
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/malaysia/rgl/terms-and-conditions).
+
+## **Process Overview**
+
+### **Before Entering Singapore**
+
+#### Visa Requirements
+
+When the SafeTravel Pass application is approved, an approval letter will be sent via email to the sponsoring company or government agency.
+
+With the SafeTravel Pass approval, an approved applicant who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa.  The applicant can check his/her visa status through [this page](https://eservices.ica.gov.sg/esvclandingpage/save).
+
+<b>Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/ Fast Lane travel.</b> Please refer to <https://www.ica.gov.sg/entryanddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
+
+The approved applicant will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/), before departing for Singapore. The SG Arrival Card can also be accessed via the [Visit Singapore Travel Guide App](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/).
+
+#### Pre-Departure Measures
+
+Prior to travelling to Singapore, approved SafeTravel Pass travellers are required to:
+- Monitor their health status before departure;
+- Have stayed in Malaysia in the entirety of the 14 days prior to departure; 
+- Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before departure and obtain a certificate of having tested negative for COVID-19. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test. 
+- For air arrivals, at pre-boarding checks, approved SafeTravel Pass travellers must produce:
+: - A valid SafeTravel Pass for the intended week of travel, 
+: - A valid visa (for visa-required passport holders),
+: - A negative COVID-19 PCR test result, 
+
+Otherwise, the traveller can be refused boarding.
