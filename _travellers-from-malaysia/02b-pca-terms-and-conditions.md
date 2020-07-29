@@ -4,4 +4,25 @@ permalink: /malaysia/pca/terms-and-conditions
 third_nav_title: Periodic Commuting Arrangement
 ---
 
+### **Employer’s Responsibilities for Malaysia Employees under the PCA Scheme**
 
+#### Before your employees leave for Singapore
+
+What you need to do:
+
+- Prior to submitting the entry application on behalf of the employee, the employer must obtain an acknowledgement from the employee that he/she:
+: a. has read and understood the following terms and conditions; and
+: b.	agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR swab test results to the employer and relevant government authorities in Singapore.
+- Ensure that employees have work passes that are valid for at least 15 days from their date of entry into Singapore.
+- Ensure employees download the <em>TraceTogether, Homer, and WhatsApp</em> mobile applications upon entry into Singapore.
+- Secure a suitable place of residence for employees to complete their SHN. Their SHN place of residence declared in the PCA application for the employee must fulfil the prevailing SHN advisory and guidelines. Co-horting is allowed (<ul>up to 4 pax</u>) only if the employees arrive in Singapore on the same day.
+- If employees do not drive/ride their personal vehicles into Singapore, employers should arrange transportation for employees to commute directly: (i) between Malaysia and Singapore’s checkpoints; and (ii) from Singapore’s checkpoint to their SHN place of residence. Employees are prohibited from taking public trains and buses to their SHN place of residence.
+
+#### After your employees arrive in Singapore
+
+- Ensure employees have a SIM card with a Singapore mobile number for MOM to SMS and conduct voice/ video calls via <u>WhatsApp</u> while they are in Singapore.
+- Ensure employees fully understand and comply with the conditions imposed for the SHN period (at least 7 days). Employees should:
+- Ensure employees go for their COVID-19 PCR swab test at the slot assigned to them. If employees do not have their own personal vehicles, please arrange for transportation (company transportation or taxis/private-hire cars booked via dedicated hotlines or ride-hail applications) from their SHN place of residence to the testing facility, and immediately back to their SHN place of residence after their swab. Employees should not take public buses and trains or flag down a taxi. 
+- Employers/ employees should bear all medical costs, including the COVID-19 PCR swab test, incurred for the employees’ entry into Singapore. If tested positive for COVID-19, the employee will undergo medical treatment at the cost of the employer/employee. They may tap on prevailing financing arrangements to fund the costs of treatment.
+- Arrange to provide employees with food and other daily essentials during their SHN via contactless delivery.
+- Arrange for non-emergency medical needs so that the employee need not leave the place of residence during the SHN.
