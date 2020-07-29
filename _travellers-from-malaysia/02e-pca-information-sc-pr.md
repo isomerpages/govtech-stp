@@ -33,3 +33,25 @@ Singapore Citizens and PRs who wish to apply for a waiver of SHN when returning 
 
 Singapore Citizens and PRs who do not meet the criteria can still return to Singapore under regular arrangements and be subject to Singapore’s prevailing public health measures for incoming travellers. Please refer to [<<weblink to page listing prevailing health protocols for SCs/PRs arriving from Malaysia>>](https://www.google.com) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
 
+## **Process Overview**
+
+### **Application Process**
+
+Singapore Citizens and PRs can apply for SHN waiver for their short-term home leave on <<weblink to application form>> from 10 August 2020, XXXX hrs onwards. Travellers must submit the following information during the application:
+
+1. Personal details (including NRIC number);
+2. Date of return to Singapore;
+3. Date of expected re-entry to Malaysia;
+4. Supporting document* to show that the traveller has been or will be working in Malaysia under the PCA;
+5. Date of last SHN waiver (if applicable); and
+6. Email address for ICA to respond to.
+
+ICA will respond to the application within X working days. If approved, the traveller should bring a copy of the approval letter to Woodlands Checkpoint or Tuas Checkpoint in Singapore on the date of return for home leave, along with the necessary travel documents.
+
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>For Singapore Citizens and PRs currently working in Malaysia and require a document to show that you have been / will be working in Malaysia under PCA, you may wish to consider applying to the Malaysian Immigration Department to re-enter Malaysia under the PCA on a later date, before applying to ICA for SHN waiver. A confirmation from the Malaysian Immigration Department can be used as a supporting document. For Singapore Citizens and PRs who wish to apply to enter Malaysia under the PCA, please refer to [<<weblink to Malaysia’s PCA website>>](https://www.google.com) for details on the application process.</em></p>
+
+### **Arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore**
+
+After immigration, SCs/SPRs who have been granted SHN waiver will be directed to COVID-19 PCR swab test stations operated by Parkway to be given a swab test. A SGD200 payment for the swab test will be collected on site, and payment is by credit card only. Thereafter, the traveller must remain isolated in his/her declared self-sourced accommodation until their test results are released.
+
+Transportation from Woodlands Checkpoint or Tuas Checkpoint to the declared accommodation will have to be self-arranged. The traveller is prohibited from using public transport for this purpose, with the exception of taxis/private-hire vehicles or personal vehicles.
