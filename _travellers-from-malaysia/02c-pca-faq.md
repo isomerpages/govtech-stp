@@ -127,14 +127,15 @@ The employee is also required to travel <u>directly</u> from the declared SHN pl
 
 No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. These platforms allow the individual to clearly indicate that he/she is serving SHN, thereby allowing the driver to undertake necessary precautions, including winding down the windows during the trip for greater airflow.
 
-|   | Service Provider                            | Contact Number* |
+| | Service Provider | Contact Number* |
 |---|---------------------------------------------|-----------------|
-| 1 | ComfortDelgro Taxi (Comfort & CityCab taxis | 6333 1133       |
-| 2 | TransCab                                    | 6213 0997       |
-| 3 | SMRT                                        | 6477 5971       |
-| 4 | Prime                                       | 6776 7553       |
-| 5 | Premier                                     | 6681 9462       |
-| 6 | HDT                                         | 8507 9691       |
+| 1 | ComfortDelgro Taxi (Comfort & CityCab taxis) | 6333 1133 |
+| 2 | TransCab | 6213 0997 |
+| 3 | SMRT | 6477 5971 |
+| 4 | Prime | 6776 7553 |
+| 5 | Premier | 6681 9462 |
+| 6 | HDT | 8507 9691 |
+
 * Operating hours: 8am – 6pm
 
 #### 23. What if my employee tests positive for COVID-19 in Singapore?
