@@ -6,7 +6,7 @@ third_nav_title: Periodic Commuting Arrangement
 
 The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. Travellers under this scheme are required to serve a Stay-Home-Notice (SHN) of at least 7 days and undertake a COVID-19 PCR swab test.<sup>1</sup>
 
-Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards via <<weblink>>.
+Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards via [<<weblink>>](https://www.google.com).
 
 ### **Eligibility**
 
@@ -21,7 +21,7 @@ Employers can apply for the PCA on behalf of their employees using CorpPass if t
 
 ### **Application Process**
 
-The PCA application has to be submitted by the employer on behalf of their employees, via CorpPass, on <<weblink>> from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 days before their employees’ entry into Singapore.
+The PCA application has to be submitted by the employer on behalf of their employees, via CorpPass, on [<<weblink>>](https://www.google.com) from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 days before their employees’ entry into Singapore.
 
 Employers are advised to have the following information of each employee on hand, before proceeding to submit an application:
 1. Employee’s FIN;
