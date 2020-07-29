@@ -4,6 +4,13 @@ permalink: /china/rgl/faq
 third_nav_title: Reciprocal Green Lane
 ---
 
+<div id="faq-top"></div>
+
+- [Application Process for Residents in China](#faq-residents-china)
+- [Application Process for Residents in Singapore](#faq-residents-singapore)
+
+<div id="faq-residents-china"></div>
+
 ## **Application Process for Residents in China**
 
 ### **Application**
@@ -155,6 +162,10 @@ The term “host” refers to the company or government agency that receives the
 <sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
 
 -----
+
+<p style="text-align: right;"><a href="faq-top">Back to top ↑</a></p>
+
+<div id="faq-residents-singapore"></div>
 
 ## **Application Process for Residents in Singapore**
 
@@ -411,3 +422,7 @@ The clinic will email the results to your email address. You will need to print 
 -----
 
 <sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum. A serology test seeks to detect antibodies produced by the immune system against COVID-19, and the sample is taken via a blood test.
+
+-----
+
+<p style="text-align: right;"><a href="faq-top">Back to top ↑</a></p>
