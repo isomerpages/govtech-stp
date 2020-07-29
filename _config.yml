@@ -20,8 +20,6 @@ colors:
 
 #collections
 collections:
-  singapore-residents:
-    output: true
   travellers-from-china:
     output: true
   travellers-from-malaysia:
