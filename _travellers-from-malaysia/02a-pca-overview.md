@@ -11,9 +11,9 @@ Singapore-based companies that wish to apply for the PCA for their employees may
 ### **Eligibility**
 
 Employers can apply for the PCA on behalf of their employees using CorpPass if their employees fulfil the following criteria:
-- Are a Malaysia Citizen / Permanent Resident;
-- Hold valid long-term passes* for business and work purposes in Singapore; and
-- Are willing to spend at least 90 days in Singapore for work upon entry.
+1. Are a Malaysia Citizen / Permanent Resident;
+2. Hold valid long-term passes* for business and work purposes in Singapore; and
+3. Are willing to spend at least 90 days in Singapore for work upon entry.
 
 <p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Long-Term Pass holders eligible for the PCA are holders of the following MOM-issued work passes: (i) Employment Pass; (ii) EntrePass; (iii) Personalised Employment Pass; (iv) S Pass; and (v) Work Permit. The pass should be valid for at least 15 days from the date of entry into Singapore.</em></p>
 
