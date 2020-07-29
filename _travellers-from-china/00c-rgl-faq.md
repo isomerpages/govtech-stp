@@ -38,7 +38,7 @@ A SafeTravel Pass allows residents in China to seek entry into Singapore under t
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
-Please send an email to <COVID_SAFETRAVELPASS@mti.gov.sg> if you have further queries related to the SafeTravel Pass.
+Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have further queries related to the SafeTravel Pass.
 
 #### 5.	Can tourists apply for SafeTravel Passes?
 
