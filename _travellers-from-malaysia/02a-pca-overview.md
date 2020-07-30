@@ -4,7 +4,7 @@ permalink: /malaysia/pca/overview
 third_nav_title: Periodic Commuting Arrangement
 ---
 
-The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. Travellers under this scheme are required to serve a Stay-Home-Notice (SHN) of at least 7 days and undertake a COVID-19 PCR swab test.<sup>1</sup>
+The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. Travellers under this scheme are required to serve a Stay-Home-Notice (SHN) of at least 7 days and undertake a COVID-19 PCR swab test.
 
 Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards.
 
@@ -27,7 +27,7 @@ Employers are advised to have the following information of each employee on hand
 1. Employee’s FIN;
 2. Expiry Date of Employee’s Work Pass;
 3. Employee’s Intended Date of Entry into Singapore;
-4. Address of Employee’s Accommodation to complete his/her Stay Home Notice (SHN)<sup>2</sup>; and
+4. Address of Employee’s Accommodation to complete his/her Stay Home Notice (SHN)<sup>1</sup>; and
 5. Details of Contact Person in Company (e.g. Name, Mobile Number, Email Address)
 
 Applications will only be processed after payment for the COVID-19 PCR swab test has been made. Payment must be made via credit card. An email alert will be sent to the employer through the contact provided if the PCA application for their employee is successful. The employer will also be informed of the details for their employee’s COVID-19 PCR swab test.
@@ -79,6 +79,4 @@ For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquirie
 
 -----
 
-<sup>1</sup> Please note that the employee can only exit his/her SHN if the test result is negative.
-
-<sup>2</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed (up to four pax) if the four employees arrive in Singapore on the same day and under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
+<sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed (up to four pax) if the four employees arrive in Singapore on the same day and under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
