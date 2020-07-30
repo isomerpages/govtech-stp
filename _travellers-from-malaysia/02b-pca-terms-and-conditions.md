@@ -30,7 +30,7 @@ What you need to do:
 : f. Act responsibly based on advisories issued by the Singapore Government.
 : g. Take a COVID-19 PCR swab test before the end of their SHN. Employees must be tested negative before they can be released from their SHN.
 3. Ensure employees go for their COVID-19 PCR swab test at the slot assigned to them. If employees do not have their own personal vehicles, please arrange for transportation (company transportation or taxis/private-hire cars booked via dedicated hotlines or ride-hail applications) from their SHN place of residence to the testing facility, and immediately back to their SHN place of residence after their swab. Employees should not take public buses and trains or flag down a taxi. 
-4. Employers/employees should bear all medical costs, including the COVID-19 PCR swab test, incurred for the employees’ entry into Singapore.
+4. Employers/employees should bear all medical costs, including the COVID-19 PCR swab test, incurred for the employees’ entry into Singapore. They may tap on prevailing financing arrangements to fund the costs of treatment.
 5. Arrange to provide employees with food and other daily essentials during their SHN via contactless delivery.
 6. Arrange for non-emergency medical needs so that the employee need not leave the place of residence during the SHN.
 
