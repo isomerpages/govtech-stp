@@ -49,7 +49,7 @@ Employees approved under the PCA can commute from Malaysia’s immigration check
 
 #### Post-Arrival Measures
 
-After immigration, the employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. The employees should use dedicated taxi hotlines or ride-hail applications to hire the taxis and private hire cars, indicating clearly that they are serving SHN. The employee should not take public trains or buses or flag down a taxi while serving the SHN.
+After immigration, the employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. The employees should indicate clearly to the driver that they are serving SHN. The employee should not take public trains or buses or flag down a taxi while serving the SHN.
 
 The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19, whichever is later.
 
