@@ -8,7 +8,7 @@ third_nav_title: Periodic Commuting Arrangement
 
 #### 1. What is the Periodic Commuting Arrangement?
 
-The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens/ Permanent Residents, who are Singapore work pass holders, are permitted to enter Singapore and should reside in Singapore for at least 90 days.
+The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens/Permanent Residents who are Singapore work pass holders are permitted to enter Singapore and should reside in Singapore for at least 90 days.
 
 #### 2. What is the rationale for imposing a daily quota?  Is there a webpage for me to check if the daily quota has been maximised?  Are there any plans to revise the daily quota in the future?
 
@@ -24,17 +24,15 @@ You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 No. This PCA application platform is intended for Singapore-based companies who require their Malaysia employees to return to Singapore for work.
 
-For entry into Malaysia for work, you may submit an application at Malaysia’s PCA application page [insert application link](https://www.google.com) instead.
+#### 5. What are the steps from the time an application is put in, to the time the result of the PCA application is received? How long is the processing time? What information/documents need to be submitted for the PCA application?
 
-#### 5. How does an eligible Malaysia Citizen/Permanent Resident apply to travel to Singapore under the PCA? What are the steps from the time an application is put in, to the time the result of the PCA application is received? How long is the processing time? What information/documents need to be submitted for the PCA application?
-
-Individuals are not permitted to apply for PCA. Singapore-based companies have to apply for the PCA on behalf of their employees to enter Singapore for work. The company has to submit the PCA application using their CorpPass at [<<weblink>>](https://www.google.com). Applications for the PCA can be made up to 60 days prior to the intended date of entry. Details on the type of information employers are to submit can be accessed [<<here>>](https://www.google.com).
+Individuals are not permitted to apply for PCA. Singapore-based companies have to apply for the PCA on behalf of their employees to enter Singapore for work. The company has to submit the PCA application using their CorpPass. Applications for the PCA can be made up to 60 days prior to the intended date of entry. Details on the type of information employers are to submit can be accessed [here](/malaysia/pca/overview).
 
 Upon successful application under the PCA, an email will be sent to the point of contact provided by the company in the application.
 
 #### 6. Is the PCA approval of my employee transferrable?
 
-No. Approvals are given to a specific employee and therefore cannot be transferred.
+No. An Approval is given to a specific employee and therefore cannot be transferred.
 
 Should another employee require to enter Singapore under PCA, a separate application must be submitted.
 
@@ -80,23 +78,21 @@ No. Please apply for an entry approval directly with the Ministry of Manpower at
 
 The employee must present a valid passport and work pass at the Singapore checkpoint, otherwise he/she will be turned away.
 
-#### 16. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR swab test? If so, who should I contact?
+#### 16. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR swab test?
 
 No. Please make sure that your employee is able to enter on the date indicated in the application.
 
 ### **SHN Measures**
 
-#### 17. Is co-horting allowed for Stay-Home-Notice (SHN)?
+#### 17. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
-Yes. Co-horting is allowed (up to four pax) if the four employees arrive in Singapore on the same day and under the same PCA application.
+Yes. Cohorting is allowed for up to four pax, provided that the employees arrive in Singapore on the same day and are under the same PCA application.
 
 ### **Health Measures**
 
 #### 18. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
 
 For more information on the SHN guidelines in Singapore, you may refer to <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>.
-
-For more information on the COVID-19 PCR swab test in Singapore, you may refer to [insert link to PDF guide](https://www.google.com).
 
 ### **Testing Arrangements**
 
@@ -110,7 +106,7 @@ Employees under the PCA are required to undergo a COVID-19 PCR swab test on the 
 
 The employer will be informed of the employee’s COVID-19 PCR swab test result.
 
-In the event that the employee’s result is inconclusive, he/she will be required to take another COVID-19 PCR swab test. The employer will be informed of their employee’s new test date and designated test site via an email.
+In the event that the employee’s result is inconclusive, he/she will be required to take another COVID-19 PCR swab test. The employer will be informed of their employee’s new test date and designated test site.
 
 #### 21. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her PCR swab test?
 
@@ -127,7 +123,7 @@ The employee is also required to travel <u>directly</u> from the declared SHN pl
 
 No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. These platforms allow the individual to clearly indicate that he/she is serving SHN, thereby allowing the driver to undertake necessary precautions, including winding down the windows during the trip for greater airflow.
 
-| | Service Provider | Contact Number* |
+| | Service Provider | Contact Number |
 |---|---------------------------------------------|-----------------|
 | 1 | ComfortDelgro Taxi (Comfort & CityCab taxis) | 6333 1133 |
 | 2 | TransCab | 6213 0997 |
@@ -135,8 +131,11 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 4 | Prime | 6776 7553 |
 | 5 | Premier | 6681 9462 |
 | 6 | HDT | 8507 9691 |
+| 7 | Grab, Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
-<sup>*</sup> Operating hours: 8am – 6pm
+Operating hours: 8am – 6pm
+
+The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
 
 #### 23. What if my employee tests positive for COVID-19 in Singapore?
 
@@ -147,11 +146,3 @@ If tested positive for COVID-19, the employee will be accorded the necessary med
 #### 24. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
 
 Should your employee need to return to Malaysia before the end of the 3 months (i.e. 90 days) stay, please note that you will only be able to apply for another PCA on behalf of the same employee for re-entry into Singapore 90 days after the date of prior entry of that employee.
-
-#### 25. Does my employee need to be tested again in Singapore before he/she returns to Malaysia? Does my employee need to be quarantined or be tested again upon return to Malaysia?
-
-PCA returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
-
-Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government.
-
-As the specific requirements may vary over time, the returnee is advised to verify the latest requirements with the relevant Malaysian authorities or refer to Malaysia’s MOH advisory page.
