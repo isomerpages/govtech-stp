@@ -32,7 +32,7 @@ Upon successful application under the PCA, an email will be sent to the point of
 
 #### 6. Is the PCA approval of my employee transferrable?
 
-No. An Approval is given to a specific employee and therefore cannot be transferred.
+No. An approval is given to a specific employee and therefore cannot be transferred.
 
 Should another employee require to enter Singapore under PCA, a separate application must be submitted.
 
