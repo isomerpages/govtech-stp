@@ -21,7 +21,7 @@ Employers can apply for the PCA on behalf of their employees using CorpPass if t
 
 ### **Application Process**
 
-The PCA application has to be submitted by the employer on behalf of their employees, via CorpPass, on [<<weblink>>](https://www.google.com) from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 days before their employees’ entry into Singapore.
+The PCA application has to be submitted by the employer on behalf of their employees from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 days before their employees’ entry into Singapore.
 
 Employers are advised to have the following information of each employee on hand, before proceeding to submit an application:
 1. Employee’s FIN;
