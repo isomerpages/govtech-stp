@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: Frequently Asked Questions
 permalink: /china/rgl/faq
 third_nav_title: Reciprocal Green Lane
 ---
