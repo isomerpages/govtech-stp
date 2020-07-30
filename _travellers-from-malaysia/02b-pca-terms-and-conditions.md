@@ -15,7 +15,7 @@ What you need to do:
 : b. agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR swab test results to the employer and relevant government authorities in Singapore.
 2. Ensure that employees have work passes that are valid for at least 15 days from their date of entry into Singapore.
 3. Ensure employees download the <em>TraceTogether, Homer, and WhatsApp</em> mobile applications upon entry into Singapore.
-4. Secure a suitable place of residence for employees to complete their SHN. Their SHN place of residence declared in the PCA application for employees must fulfil the prevailing SHN advisory and guidelines. Co-horting is allowed (<u>up to 4 pax</u>) only if the employees arrive in Singapore on the same day.
+4. Secure a suitable place of residence for employees to complete their SHN. Their SHN place of residence declared in the PCA application for employees must fulfil the prevailing SHN advisory and guidelines. Cohorting is allowed (<u>up to 4 pax</u>) only if the employees arrive in Singapore on the same day.
 5. If employees do not drive/ride their personal vehicles into Singapore, employers should arrange transportation for employees to commute directly: (i) between Malaysia and Singapore’s checkpoints; and (ii) from Singapore’s checkpoint to their SHN place of residence. Employees are prohibited from taking public trains and buses to their SHN place of residence.
 
 #### After your employees arrive in Singapore
@@ -36,6 +36,6 @@ What you need to do:
 
 ### **Penalties for Non-Compliance**
 
-**If you are unable to fulfil the obligations above, you should not arrange for your employee to enter Singapore. Employers and employee(s) have a collective duty to ensure that employees comply with the necessary health protocols.**
+**You should not arrange for your employees to enter Singapore if you are unable to fulfil the obligations above.**
 
 We will not hesitate to take disciplinary action against any party who does not comply with the above requirements. Penalties may include work pass revocations and withdrawal of work pass privileges.
