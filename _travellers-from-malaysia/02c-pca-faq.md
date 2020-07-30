@@ -133,8 +133,6 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 6 | HDT | 8507 9691 |
 | 7 | Grab, Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
-Operating hours: 8am – 6pm
-
 The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
 
 #### 23. What if my employee tests positive for COVID-19 in Singapore?
