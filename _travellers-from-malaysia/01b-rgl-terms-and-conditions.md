@@ -82,3 +82,33 @@ third_nav_title: Reciprocal Green Lane
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures at workplaces, and additionally comply with the following measures:
   : i. Travellers shall have meals alone; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
+
+#### Post-Departure from Singapore
+
+18. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
+
+19. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
+
+20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TT data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
+
+### **C. Terms & Conditions for Host**
+
+#### General
+
+1. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The Host is responsible for monitoring and ensuring that the traveller complies with these terms and conditions and the SafeTravel Pass may be revoked, and/or future applications by the Host rejected, if any of the terms and conditions are not complied with.
+
+2. The Host of the traveller must arrange for transportation to transport the traveller directly from the airport/land checkpoints to the traveller’s declared place of accommodation.
+
+3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall inform the Sponsor, or Ministry of Trade and Industry (henceforth referred to as “MTI”) in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
+
+4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
+
+5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
+
+6. Where the Host had provided a TraceTogether-compatible device to the traveller, it shall ensure that the TraceTogether app remains installed in the device, and all TraceTogether data is retained, for at least 14 days after the departure of the traveller.
+
+7. Where the Host had provided a TraceTogether-compatible device to the traveller, the Host will be required to upload TT data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
+
+8. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
+
+9. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
