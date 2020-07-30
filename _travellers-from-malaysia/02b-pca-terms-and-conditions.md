@@ -15,7 +15,7 @@ What you need to do:
 : b. agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR swab test results to the employer and relevant government authorities in Singapore.
 - Ensure that employees have work passes that are valid for at least 15 days from their date of entry into Singapore.
 - Ensure employees download the <em>TraceTogether, Homer, and WhatsApp</em> mobile applications upon entry into Singapore.
-- Secure a suitable place of residence for employees to complete their SHN. Their SHN place of residence declared in the PCA application for the employee must fulfil the prevailing SHN advisory and guidelines. Co-horting is allowed (<ul>up to 4 pax</u>) only if the employees arrive in Singapore on the same day.
+- Secure a suitable place of residence for employees to complete their SHN. Their SHN place of residence declared in the PCA application for employees must fulfil the prevailing SHN advisory and guidelines. Co-horting is allowed (<u>up to 4 pax</u>) only if the employees arrive in Singapore on the same day.
 - If employees do not drive/ride their personal vehicles into Singapore, employers should arrange transportation for employees to commute directly: (i) between Malaysia and Singapore’s checkpoints; and (ii) from Singapore’s checkpoint to their SHN place of residence. Employees are prohibited from taking public trains and buses to their SHN place of residence.
 
 #### After your employees arrive in Singapore
@@ -30,12 +30,12 @@ What you need to do:
 : f. Act responsibly based on advisories issued by the Singapore Government.
 : g. Take a COVID-19 PCR swab test before the end of their SHN. Employees must be tested negative before they can be released from their SHN.
 - Ensure employees go for their COVID-19 PCR swab test at the slot assigned to them. If employees do not have their own personal vehicles, please arrange for transportation (company transportation or taxis/private-hire cars booked via dedicated hotlines or ride-hail applications) from their SHN place of residence to the testing facility, and immediately back to their SHN place of residence after their swab. Employees should not take public buses and trains or flag down a taxi. 
-- Employers/ employees should bear all medical costs, including the COVID-19 PCR swab test, incurred for the employees’ entry into Singapore. If tested positive for COVID-19, the employee will undergo medical treatment at the cost of the employer/employee. They may tap on prevailing financing arrangements to fund the costs of treatment.
+- Employers/employees should bear all medical costs, including the COVID-19 PCR swab test, incurred for the employees’ entry into Singapore.
 - Arrange to provide employees with food and other daily essentials during their SHN via contactless delivery.
 - Arrange for non-emergency medical needs so that the employee need not leave the place of residence during the SHN.
 
-### **Penalties for Non-compliance**
+### **Penalties for Non-Compliance**
 
-If you are unable to fulfil the obligations above, you <b>should not</b> arrange for your employee to enter Singapore. Employers and employees have a collective duty to ensure that employees comply with the necessary health protocols.
+**If you are unable to fulfil the obligations above, you should not arrange for your employee to enter Singapore. Employers and employee(s) have a collective duty to ensure that employees comply with the necessary health protocols.**
 
 We will not hesitate to take disciplinary action against any party who does not comply with the above requirements. Penalties may include work pass revocations and withdrawal of work pass privileges.
