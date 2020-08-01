@@ -120,10 +120,9 @@ Travellers must remain in Malaysia and have not travelled out of the country for
 #### 17. What documentation do I need to present before I depart from Malaysia to Singapore?
 
 Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
-
-: a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
-: b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore); and
-: c. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from the accredited laboratories by the Ministry of Health Malaysia).
+1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
+2. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore); and
+3. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from the accredited laboratories by the Ministry of Health Malaysia).
 
 ### **Health Measures in Singapore**
 
