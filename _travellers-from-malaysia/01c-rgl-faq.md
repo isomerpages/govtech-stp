@@ -27,7 +27,7 @@ Yes. All residents in Malaysia who need to make <u>short-term</u> essential busi
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass allows residents in Malaysia to seek entry into Singapore under the RGL. It will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to <u>14 days</u>. For example, if the traveller’s SafeTravel Pass is valid from 6 to 12 July 2020, he/she must seek entry into Singapore within this period, and can stay for up to 14 days from the date of arrival.
+A SafeTravel Pass allows residents in Malaysia to seek <u>short-term</u> entry into Singapore under the RGL. It will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to <u>14 days</u>. For example, if the traveller’s SafeTravel Pass is valid from 6 to 12 July 2020, he/she must seek entry into Singapore within this period, and can stay for up to 14 days from the date of arrival.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
