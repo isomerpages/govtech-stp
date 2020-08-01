@@ -130,7 +130,7 @@ Travellers by air and land are required to produce the following documents to th
 
 RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) for one to two days until negative test results are released. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
 
 #### 19. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
@@ -138,3 +138,82 @@ The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling
 
 More information on the app can be found at [tracetogether.gov.sg](https://www.tracetogether.gov.sg).
 
+### **Returning to Malaysia**
+
+#### 20. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
+
+RGL returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
+
+Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. As the specific requirements may change over time, the returnee should verify the latest requirements with the relevant Malaysian authorities.
+
+-----
+
+<sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.
+
+The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
+
+<sup>2</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
+
+<sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+
+-----
+
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+<div id="faq-residents-singapore"></div>
+
+## **Application Process for Residents in Singapore**
+
+### **Application**
+
+#### 1. Who is eligible to apply to travel to Malaysia under the RGL?
+
+Persons of all nationalities who are legally resident in Singapore (i.e., Singapore Citizens, Permanent Residents, Long-Term Pass holders) who need to make single-entry, short-term essential travel for business and official purposes, between Singapore and Malaysia.
+
+#### 2. How do Singapore residents apply to travel to Malaysia under the RGL?
+
+Residents in Singapore seeking to travel to Malaysia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Malaysia, which will file an application on behalf of the applicant on the MyTravelPass website (<http://mtp.imi.gov.my/>) at least 10 working days before departure. 
+
+When making the online application, the sponsor should provide the following:
+1. Letter of invitation
+2. Traveller’s passport copy
+3. Traveller’s flight itinerary 
+4. Traveller’s proof of hotel accommodation
+5. Traveller’s pre-trip health and travel history declaration
+6. Traveller’s controlled itinerary
+
+More details on the application process will be announced by Malaysia subsequently.
+
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Malaysian authorities prior to departure for Malaysia. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements.
+
+#### 3. What is the maximum stay duration in Malaysia?
+
+The maximum period of stay is 14 days.
+
+#### 4. Is the RGL meant for long-term work and study?
+
+The RGL is only for short-term essential business and official travel, and not for long-term work or study.
+
+Those seeking to enter Malaysia for purposes other than essential business and official travel should contact the Malaysian High Commission in Singapore for further details.
+
+#### 5. Are there restrictions on how I can travel to Malaysia?
+
+Under the RGL, travellers can travel to Malaysia by air via any non-stop flight route between airports in Singapore and Malaysia, as well as by land via the Causeway and Second Link.
+
+### **Testing Arrangements**
+
+#### 6. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+
+A RGL traveller departing for Malaysia can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+
+The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **[ANNEX A](#annexa)**. Testing for RGL travel can only be carried out at these clinics currently. An eligible RGL traveller should contact the clinic directly for testing.
+
+The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
+
+The traveller must also obtain a Letter of Invitation from the Malaysian government which confirms that he/she has been granted approval by the Malaysian authorities to travel to Malaysia under the Singapore-Malaysia RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 PCR test. This letter must be presented at the clinic before the test can be administered.
+
+The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+
+<div id="annexa"></div>
+
+<div id="annexb"></div>
