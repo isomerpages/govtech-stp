@@ -35,6 +35,6 @@ What you need to do:
 
 ### **Penalties for Non-Compliance**
 
-**You should not arrange for your employees to enter Singapore if you are unable to fulfil the obligations above. Employers and employees have a collective duty to ensure the employees comply with the necessary health protocols.**
+You **should not** arrange for your employees to enter Singapore if you are unable to fulfil the obligations above. Employers and employees have a collective duty to ensure the employees comply with the necessary health protocols.
 
 We will not hesitate to take disciplinary action against any party who does not comply with the above requirements. Penalties may include work pass revocations and withdrawal of work pass privileges.
