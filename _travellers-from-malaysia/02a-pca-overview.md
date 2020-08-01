@@ -4,7 +4,7 @@ permalink: /malaysia/pca/overview
 third_nav_title: Periodic Commuting Arrangement
 ---
 
-The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. Travellers under this scheme are required to serve a Stay-Home-Notice (SHN) of at least 7 days and undertake a COVID-19 PCR swab test.
+The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore. Work pass holders approved under the PCA scheme will serve a Stay-Home Notice (SHN) of at least 7 days and undertake a COVID-19 PCR test.
 
 Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards.
 
@@ -65,7 +65,7 @@ The employer/employee will bear the costs of the employee’s accommodation for 
 
 Employees will be required to abide by prevailing local public health requirements and safe distancing measures throughout their entire stay in Singapore.
 
-They will be required to act on MOM’s SMS, which will be sent within 1 to 3 days of his/her arrival, asking him/her to download the Homer mobile app and register their mobile number. The employee must have a thermometer to take and report his/her temperature 3 times a day using the Homer app.
+They will be required to act on MOM’s SMS, which will be sent within 1 to 3 days of his/her arrival, asking him/her to download the Homer mobile application and register their mobile number. The employee must have a thermometer to take and report his/her temperature 3 times a day using the Homer app.
 
 They will be allowed to use public transportation only after completing their SHN period and having tested negative for COVID-19.
 
@@ -79,4 +79,4 @@ For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquirie
 
 -----
 
-<sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed (up to four pax) if the four employees arrive in Singapore on the same day and under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
+<sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed up to four pax, provided that the employees arrive in Singapore on the same day and are under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
