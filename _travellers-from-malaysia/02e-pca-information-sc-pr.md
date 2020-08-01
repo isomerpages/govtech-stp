@@ -8,7 +8,7 @@ third_nav_title: Periodic Commuting Arrangement
 
 The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Singapore Citizens and Permanent Residents (PRs) with valid Malaysia work passes should remain in Malaysia for at least 90 days before returning to Singapore for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore.
 
-The health requirements for travellers from Singapore to Malaysia and details on the application process will be announced by Malaysia. Please approach the Immigration Department of Malaysia for details or check for updates on [www.imi.gov.my](https://www.imi.gov.my).
+For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website at <http://www.mtp.imi.gov.my>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
 
 ### **Waiver of Stay-Home Notice when returning to Singapore on Short-Term Home Leave**
 
