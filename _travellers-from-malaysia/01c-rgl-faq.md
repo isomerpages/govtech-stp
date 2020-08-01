@@ -214,6 +214,161 @@ The traveller must also obtain a Letter of Invitation from the Malaysian governm
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
+#### 7. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
+
+Travellers with ARI symptoms should not travel. They should postpone their travel plans.
+
+#### 8. What tests will I be subject to upon arrival in Malaysia? Will I be subject to a serology test in Malaysia?
+
+A RGL traveller to Malaysia will be subject to a COVID-19 PCR / RTK Antigen test at the point of entry or within 24 hours upon arrival.
+
+#### 9. What if I test positive for COVID-19 in Malaysia?
+
+If tested positive for COVID-19 in Malaysia, the traveller will be accorded the necessary medical treatment by the Malaysian government at his/her cost.
+
+### **Pre-Departure in Singapore**
+
+#### 10. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Malaysia?
+
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Malaysian government specifically for essential business or official travel under the RGL.
+
+For travellers departing via land checkpoints, the traveller is required to produce the same documentation as listed above, at the immigration counter at the land checkpoints before being allowed to leave Singapore.
+
+### **Health Measures in Malaysia**
+
+#### 11. Do I need to be quarantined upon arrival in Malaysia?
+
+After undergoing a PCR test upon arrival, the traveller must remain under isolation until the test results are released. More details on isolation arrangements in Malaysia will be released subsequently. The traveller has to bear the costs of the post-arrival test and the isolation in the designated accommodation.
+
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Malaysia.
+
+#### 12. What other health measures will I be subject to in Malaysia? What would qualify as a “controlled itinerary” in Malaysia?
+
+The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in Malaysia, including downloading the MySejahtera contact tracing apps as required by the Malaysian authorities.
+
+The host company or government agency will supervise the itinerary of and provide private transport for the traveller for up to 14 days of the traveller’s stay in Malaysia.
+
+The traveller can only commute between his/her residence and the workplace via private hire cars/taxis or cohorted company transport (i.e., no public transport allowed).
+
+The traveller should verify the latest requirements of the Malaysian authorities with his/her local host company or government agency.
+
+### **Returning to Singapore**
+
+#### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
+
+Travellers will be subject to the prevailing health policy for incoming travellers into Singapore.
+
+For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+
+#### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
+
+For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
+
 <div id="annexa"></div>
 
-<div id="annexb"></div>
+### **ANNEX A**
+
+#### Pre-Departure COVID-19 Tests in Singapore
+
+##### Booking an appointment
+
+##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at the list of clinics below. This list of clinics will be updated from time to time.
+
+For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
+
+| S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
+|-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
+| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-62418818 |
+| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-62733078 |
+| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-62501141 |
+| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63396911 |
+| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-68380080 |
+
+##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
+
+Travellers are advised to <u>be at the clinic at least 2 hours prior to, and no later than</u>, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
+
+| Flight departure time | Latest Cut-off Test Timing |
+|-----------------------|-----------------------------------------|
+| 12.00am to 6.59am | 10.00am two calendar days before flight |
+| 7.00am to 9.59am | 1.00pm two calendar days before flight |
+| 10.00am to 11.59am | 3.00pm two calendar days before flight |
+| 12.00pm to 1.59pm | 5.00pm two calendar days before flight |
+| 2.00pm to 4.59pm | 8.00pm two calendar days before flight |
+| 5.00pm to 11.59pm | 9.00am the day before flight |
+
+##### 3. How can I make an appointment for pre-departure PCR testing?
+
+Please refer to the Test Schedule and book your test slot within the indicated timing. This is to ensure that you will have sufficient time to meet the fast lane requirements.
+
+**[>72 hours to flight]** You may book a test date through:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>Raffles Connect app.</li>
+  <li>Online booking system at <https://www.rafflesmedicalgroup.com/appointment-booking>. Real-time time slots availability is available on the corporate appointment booking webpage.</li>
+  <li>Calling the 24-hour appointment hotline at +65-6311 1222</li>
+  <li>Calling the appointed clinics listed.</li>
+  <li>Email <swabresult@rafflesmedical.com>, stating your flight departure details, your preferred Raffles Medical clinic and your preferred date and time of appointment.</li>
+</ol>
+
+**[72 hours to >48 hours to flight]** Please call the Raffles Medical Group 24-hour appointment hotline at +65-6311 1222.
+
+##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
+
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your departure timing is confirmed.
+
+Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
+
+If you do not make a prior appointment, please note that:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>There is no guarantee that there will be a test slot for you; and</li>
+  <li>You may not get your results in time for your flight to qualify for fast lane arrangements.</li>
+</ol>
+
+Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their scheduled departure.
+
+##### 5. What details will I need to book an appointment for the PCR test?
+
+Please have the following information on hand when making an appointment for your test:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>Identity card number or passport number</li>
+  <li>Scheduled departure timing</li>
+  <li>Time of your test slot: Please refer to the Test Schedule to confirm your timing.</li>
+  <li>Address in Singapore</li>
+  <li>Contact number</li>
+  <li>Email address</li>
+</ol>
+
+##### 6. What documents should I bring for my appointment?
+
+Please bring the following:
+
+<ol style="list-style-type: lower-alpha;">
+  <li>Identity card or passport</li>
+  <li>Letter of Invitation from the Malaysian government confirming that you have been granted approval to travel to Malaysia under the Singapore-Malaysia RGL</li>
+  <li>Softcopy booking reference showing your departure flight timing (if travelling by air)</li>
+</ol>
+
+##### Testing
+
+##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
+
+Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their scheduled departure.
+
+Please make arrangements early for your test slot so that you can qualify for the RGL.
+
+##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+
+If you are unable to receive the test, you may wish to reschedule your departure, if you still wish to tap on the RGL.
+
+##### Test Results
+
+##### 9. When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your scheduled departure.
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
