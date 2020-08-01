@@ -34,14 +34,16 @@ Singapore Citizens and PRs who do not meet the criteria can still return to Sing
 Singapore Citizens and PRs can apply for SHN waiver for their short-term home leave on the SafeTravel Portal ([www.safetravel.ica.gov.sg](https://www.safetravel.ica.gov.sg)) from 10 August 2020, 1200hrs onwards. Travellers must submit the following information during the application:
 1. Personal details (including NRIC number);
 2. Intended date and time of return to Singapore;
-3. Intended land checkpoint (Woodlands Checkpoint or Tuas Checkpoint) to enter Singapore from, subject to availability of swab services at the respective Checkpoints;
+3. Intended land checkpoint (Woodlands Checkpoint or Tuas Checkpoint) to enter Singapore from, subject to availability of COVID-19 PCR swab services at the respective Checkpoints;
 4. Date of expected re-entry to Malaysia;
-5. A valid Malaysia-issued PCA pass (MyTravelPass) or approval certifying that the traveller will continue working in Malaysia under the PCA; and
+5. A valid Malaysia-issued PCA pass (MyTravelPass) or approval certifying that the traveller has been or will continue working in Malaysia under the PCA; and
 6. An email address for ICA to respond to.
 
-If approved, the traveller should bring a copy of the approval letter to Woodlands Checkpoint or Tuas Checkpoint in Singapore on the date of return for home leave, along with the necessary travel documents.
+If the application is approved, the applicant is required to make payment online for a swab-on-arrival COVID-19 PCR test at the land checkpoints (S$200 per person, inclusive of GST). Thereafter, an approval letter will be sent via email.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Citizens and PRs currently working in Malaysia should apply for a PCA pass (MyTravelPass) from the Malaysian authorities, before submitting their application to ICA for SHN waiver. This Malaysia-issued PCA pass would certify that the traveller has confirmed their re-entry into Malaysia at a later date, to continue working in Malaysia.</em></p>
+The traveller should bring a copy of the approval letter to Woodlands Checkpoint or Tuas Checkpoint in Singapore on the date of return for home leave, along with the necessary travel documents.
+
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Citizens and PRs currently working in Malaysia and do not have a Malaysia-issued PCA pass yet should apply for a PCA pass (MyTravelPass) from the Malaysian authorities, before submitting their application to ICA for SHN waiver. This Malaysia-issued PCA pass or approval would certify that the traveller has confirmed his/her re-entry into Malaysia at a later date, to continue working in Malaysia under the PCA.</em></p>
 
 ### **Arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore**
 
