@@ -54,3 +54,7 @@ Upon arrival at the land checkpoints, Singapore Citizens and PRs holding Malaysi
 If the traveller tests positive for COVID-19, he/she will be given medical treatment accordingly. The prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
 
 Singapore Citizens and PRs holding Malaysia-issued PCA passes who do not apply for a SHN waiver will be subject to the prevailing public health measures for incoming travellers. Please refer to MOH’s website for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
+
+### **Important Information**
+
+For Singapore Citizens and PRs who are working in Malaysia under the PCA and who have queries on applying for SHN waiver when returning to Singapore on short-term home leave, please contact us at <ICA_SafeTravel@ica.gov.sg>.
