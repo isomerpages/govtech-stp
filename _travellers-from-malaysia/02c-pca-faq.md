@@ -24,9 +24,11 @@ You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 No. This PCA application platform is intended for Singapore-based companies who require their Malaysia employees to return to Singapore for work.
 
+The health requirements for travellers from Singapore to Malaysia and details on the application process will be announced by Malaysia. Please approach the Immigration Department of Malaysia for details or check for updates on [www.imi.gov.my](https://www.imi.gov.my).
+
 #### 5. What are the steps from the time an application is put in, to the time the result of the PCA application is received? How long is the processing time? What information/documents need to be submitted for the PCA application?
 
-Individuals are not permitted to apply for PCA. Singapore-based companies have to apply for the PCA on behalf of their employees to enter Singapore for work. The company has to submit the PCA application using their CorpPass. Applications for the PCA can be made up to 60 days prior to the intended date of entry. Details on the type of information employers are to submit can be accessed [here](/malaysia/pca/overview).
+Individuals are not permitted to apply for PCA. Singapore-based companies have to apply for the PCA on behalf of their employees to enter Singapore for work. The company has to submit the PCA application using their CorpPass at the PCA application platform. Applications for the PCA can be made up to 60 days prior to the intended date of entry.
 
 Upon successful application under the PCA, an email will be sent to the point of contact provided by the company in the application.
 
@@ -38,15 +40,15 @@ Should another employee require to enter Singapore under PCA, a separate applica
 
 #### 7. Can the family member of my employee who holds a Dependant Pass/Long-Term Visit Pass enter Singapore with my employee, if my employee receives an approved PCA application?
 
-The PCA is intended to facilitate business/work-related travels, and therefore would not cover individuals who are dependants. Dependants may apply for entry via Ministry of Manpower at this page <https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore>.
+The PCA is intended to facilitate business/work-related travels, and therefore would not cover individuals who are dependants.
 
 #### 8. Do I need to pay to apply for PCA on behalf of my employees?
 
-Payment (via credit card) for the mandatory COVID-19 PCR swab test for each employee is required upfront at the point of application. Employers should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR swab test.
+Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.
 
 #### 9. What is the duration of stay in Singapore that my employee will be eligible for under PCA?  Can I extend the PCA period for my employee?
 
-There is no limit to the duration of stay in Singapore, subject to the validity of the employee’s long-term work pass for business and work.
+The duration of stay in Singapore is tied to the validity of the employee’s long-term work pass for business and work.
 
 Should the employee leave Singapore, employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
 
@@ -98,15 +100,15 @@ For more information on the SHN guidelines in Singapore, you may refer to <https
 
 #### 19. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
-Employees are expected to strictly adhere to his/her appointment timing for their COVID-19 PCR swab test. It will be a breach of the Infectious Disease Act if he/she does not undergo the COVID-19 PCR swab test. Please note that the employee can only exit his/her SHN if the test result is negative.
+The employee is expected to strictly adhere to his/her appointment timing for his/her COVID-19 PCR test. It will be a breach of the Infectious Disease Act if he/she does not undergo the COVID-19 PCR test. Please note that the employee can only exit his/her SHN if the test result is negative.
 
 #### 20. What COVID-19 tests will my employee be subject to upon arrival in Singapore? How will I and/or my employee be informed of his/her COVID-19 test result?
 
-Employees under the PCA are required to undergo a COVID-19 PCR swab test on the assigned date of swabbing before the end of his/her SHN period. The point of contact provided by the employer will receive an email and SMS message indicating their employees’ test date and designated test site for the PCR swab test.
+The employee under the PCA is required to undergo a COVID-19 PCR test on the assigned date of swabbing before the end of his/her SHN period. The point of contact provided by the employer will receive an email and SMS message indicating their employee’s test date and designated test site for the PCR test.
 
-The employer will be informed of the employee’s COVID-19 PCR swab test result.
+The employer will be informed of the employee’s COVID-19 PCR test result.
 
-In the event that the employee’s result is inconclusive, he/she will be required to take another COVID-19 PCR swab test. The employer will be informed of their employee’s new test date and designated test site.
+In the event that the employee’s result is inconclusive, he/she will be required to take another COVID-19 PCR test. The employer will be informed of their employee’s new test date and designated test site.
 
 #### 21. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her PCR swab test?
 
@@ -114,30 +116,30 @@ No. The employee should not take public transport (buses and trains) for any pur
 
 The employee may <u>only</u> take the following modes of transport:
 1. Personal transport
-2. Private buses that only ferry Malaysian passengers who are serving SHN
+2. Private buses that only ferry Malaysia passengers who are serving SHN; or
 3. Taxis and private-hire cars hired from dedicated taxi hotlines or ride-hail applications with a clear indication provided on his/her SHN status.
 
 The employee is also required to travel <u>directly</u> from the declared SHN place of residence to the designated test site, and back to the declared SHN place of residence from the test site, without stopping at any other destination along the journey.
 
 #### 22. Can my employee hail a taxi from the street while travelling in Singapore during the SHN period?
 
-No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. These platforms allow the individual to clearly indicate that he/she is serving SHN, thereby allowing the driver to undertake necessary precautions, including winding down the windows during the trip for greater airflow.
+No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
 
 | | Service Provider | Contact Number |
 |---|---------------------------------------------|-----------------|
-| 1 | ComfortDelgro Taxi (Comfort & CityCab taxis) | 6333 1133 |
+| 1 | ComfortDelgro Taxi (Comfort & CityCab taxis) | 6333 1133 via ComfortDelGro Booking Application |
 | 2 | TransCab | 6213 0997 |
-| 3 | SMRT | 6477 5971 |
+| 3 | SMRT | 6477 5971 via SMRT Book a Taxi Application |
 | 4 | Prime | 6776 7553 |
 | 5 | Premier | 6681 9462 |
 | 6 | HDT | 8507 9691 |
 | 7 | Grab, Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
-The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
-
 #### 23. What if my employee tests positive for COVID-19 in Singapore?
 
 If tested positive for COVID-19, the employee will be accorded the necessary medical treatment in Singapore. Upon recovery, the employee may continue to work in Singapore.
+
+The prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
 
 ### **Returning to Malaysia**
 
