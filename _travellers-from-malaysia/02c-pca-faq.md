@@ -24,7 +24,7 @@ You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 No. This PCA application platform is intended for Singapore-based companies who require their Malaysia employees to return to Singapore for work.
 
-The health requirements for travellers from Singapore to Malaysia and details on the application process will be announced by Malaysia. Please approach the Immigration Department of Malaysia for details or check for updates on [www.imi.gov.my](https://www.imi.gov.my).
+For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website at <http://www.mtp.imi.gov.my>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
 
 #### 5. What are the steps from the time an application is put in, to the time the result of the PCA application is received? How long is the processing time? What information/documents need to be submitted for the PCA application?
 
