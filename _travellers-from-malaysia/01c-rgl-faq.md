@@ -177,14 +177,14 @@ Residents in Singapore seeking to travel to Malaysia for short-term essential bu
 When making the online application, the sponsor should provide the following:
 1. Letter of invitation
 2. Traveller’s passport copy
-3. Traveller’s flight itinerary 
+3. Traveller’s itinerary 
 4. Traveller’s proof of hotel accommodation
 5. Traveller’s pre-trip health and travel history declaration
 6. Traveller’s controlled itinerary
 
-More details on the application process will be announced by Malaysia subsequently.
-
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Malaysian authorities prior to departure for Malaysia. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements.
+
+Please check with the Malaysian Immigration Department (<http://mtp.imi.gov.my/>) for more information on entering Malaysia under the RGL.
 
 #### 3. What is the maximum stay duration in Malaysia?
 
@@ -210,7 +210,7 @@ The list of clinics that can perform pre-departure COVID-19 PCR tests and detail
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
 
-The traveller must also obtain a Letter of Invitation from the Malaysian government which confirms that he/she has been granted approval by the Malaysian authorities to travel to Malaysia under the Singapore-Malaysia RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 PCR test. This letter must be presented at the clinic before the test can be administered.
+The traveller must obtain a MyTravelPass approval letter issued by the Malaysian government which confirms that he/she has been granted approval by the Malaysian authorities to travel to Malaysia under the Singapore-Malaysia RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 PCR test. This letter must be presented at the clinic before the test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -220,7 +220,7 @@ Travellers with ARI symptoms should not travel. They should postpone their trave
 
 #### 8. What tests will I be subject to upon arrival in Malaysia? Will I be subject to a serology test in Malaysia?
 
-A RGL traveller to Malaysia will be subject to a COVID-19 PCR / RTK Antigen test at the point of entry or within 24 hours upon arrival.
+A RGL traveller to Malaysia will be subject to a COVID-19 PCR test at the point of entry or within 24 hours upon arrival.
 
 #### 9. What if I test positive for COVID-19 in Malaysia?
 
