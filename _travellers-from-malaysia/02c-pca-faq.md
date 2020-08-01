@@ -10,7 +10,7 @@ third_nav_title: Periodic Commuting Arrangement
 
 The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens/Permanent Residents who are Singapore work pass holders are permitted to enter Singapore and should reside in Singapore for at least 90 days.
 
-#### 2. What is the rationale for imposing a daily quota?  Is there a webpage for me to check if the daily quota has been maximised?  Are there any plans to revise the daily quota in the future?
+#### 2. What is the rationale for imposing a daily quota? Is there a webpage for me to check if the daily quota has been maximised?  Are there any plans to revise the daily quota in the future?
 
 The quota is imposed to stagger and manage the volume of daily entrants via our land crossings. This mitigates the extent of crowds and congestion. It also allows swab operations to be conducted more smoothly, without overwhelming our public health system. While companies applying for the PCA are unable to check for the available quota, they will be alerted during registration if the quota has been maximised. Depending on the demand for PCA, the quota may be revised in future.
 
