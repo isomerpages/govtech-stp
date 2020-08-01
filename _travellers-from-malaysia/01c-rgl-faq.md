@@ -372,3 +372,5 @@ If you are unable to receive the test, you may wish to reschedule your departure
 You will receive your PCR test results and memo at least three hours before your scheduled departure.
 
 The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
