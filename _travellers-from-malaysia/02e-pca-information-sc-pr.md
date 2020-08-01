@@ -10,7 +10,7 @@ The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore an
 
 The health requirements for travellers from Singapore to Malaysia and details on the application process will be announced by Malaysia. Please approach the Immigration Department of Malaysia for details or check for updates on [www.imi.gov.my](https://www.imi.gov.my).
 
-### **Waiver of Stay-Home Notice when returning to Singapore on Short-Term Home Leave
+### **Waiver of Stay-Home Notice when returning to Singapore on Short-Term Home Leave**
 
 Singapore Citizens and PRs holding Malaysia-issued PCA passes (MyTravelPass) may apply for waiver of Stay-Home Notice (SHN) for short-term home leave in Singapore, after spending at least 90 days working in Malaysia. The intent of the Malaysia-issued PCA passes is to allow Singapore Citizens and PRs to re-enter Malaysia after their home leave, to continue with their business or work. In lieu of SHN, the returnee on home leave will undergo a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore, at their own cost.
 
