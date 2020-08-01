@@ -75,8 +75,6 @@ Employees without an entry approval under the PCA or other channels will be refu
 
 For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
-For appeals, please contact us at <COVID_SafeTravelAppeals@mti.gov.sg>.
-
 -----
 
 <sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed up to four pax, provided that the employees arrive in Singapore on the same day and are under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
