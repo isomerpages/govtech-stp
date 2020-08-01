@@ -20,7 +20,9 @@ colors:
 
 #collections
 collections:
-  faq:
+  travellers-from-china:
+    output: true
+  travellers-from-malaysia:
     output: true
 
 ##################################################################################################################
