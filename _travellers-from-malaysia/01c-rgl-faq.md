@@ -81,7 +81,7 @@ Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian c
 
 #### 10. Can I use the RGL to come to Singapore for long-term work?
 
-The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website ([www.safetravel.ica.gov.sg](https://www.safetravel.ica.gov.sg)) for more information on the Periodic Commuting Arrangement (PCA), or visit <www.mom.gov.sg/passes-and-permits> for more information on a separate scheme.
+The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website ([www.safetravel.ica.gov.sg](https://www.safetravel.ica.gov.sg)) for more information on the Periodic Commuting Arrangement (PCA), or visit [www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits) for more information on a separate scheme.
 
 #### 11. Can I use the RGL to come to Singapore for long-term study?
 
