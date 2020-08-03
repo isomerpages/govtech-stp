@@ -24,7 +24,7 @@ You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 No. This PCA application platform is intended for Singapore-based companies who require their Malaysia employees to return to Singapore for work.
 
-For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website at <http://www.mtp.imi.gov.my>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
+For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website at <https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
 
 #### 5. What are the steps from the time an application is put in, to the time the result of the PCA application is received? How long is the processing time? What information/documents need to be submitted for the PCA application?
 
@@ -80,7 +80,7 @@ No. Please apply for an entry approval directly with the Ministry of Manpower at
 
 The employee must present a valid passport and work pass at the Singapore checkpoint, otherwise he/she will be turned away.
 
-#### 16. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR swab test?
+#### 16. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR test?
 
 No. Please make sure that your employee is able to enter on the date indicated in the application.
 
@@ -110,9 +110,9 @@ The employer will be informed of the employee’s COVID-19 PCR test result.
 
 In the event that the employee’s result is inconclusive, he/she will be required to take another COVID-19 PCR test. The employer will be informed of their employee’s new test date and designated test site.
 
-#### 21. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her PCR swab test?
+#### 21. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her COVID-19 PCR test?
 
-No. The employee should not take public transport (buses and trains) for any purpose during their SHN period, including travelling to/from his/her SHN place of residence and the designated test site for his/her COVID-19 test.
+No. The employee should not take public transport (buses and trains) for any purpose during their SHN period, including travelling to/from his/her declared place of residence for SHN and the designated test site for his/her COVID-19 PCR test.
 
 The employee may <u>only</u> take the following modes of transport:
 1. Personal transport
@@ -127,12 +127,12 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 
 | | Service Provider | Contact Number |
 |---|---------------------------------------------|-----------------|
-| 1 | ComfortDelgro Taxi (Comfort & CityCab taxis) | 6333 1133 via ComfortDelGro Booking Application |
+| 1 | ComfortDelgro Taxi (Comfort & CityCab taxis) | 6333 1133, or via ComfortDelGro Booking Application |
 | 2 | TransCab | 6213 0997 |
-| 3 | SMRT | 6477 5971 via SMRT Book a Taxi Application |
+| 3 | SMRT | 6477 5971 |
 | 4 | Prime | 6776 7553 |
 | 5 | Premier | 6681 9462 |
-| 6 | HDT | 8507 9691 |
+| 6 | HDT | 9832 2428 |
 | 7 | Grab, Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
 #### 23. What if my employee tests positive for COVID-19 in Singapore?
@@ -145,4 +145,4 @@ The prevailing charging policies for COVID-19 treatment in public healthcare ins
 
 #### 24. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
 
-Should your employee need to return to Malaysia before the end of the 3 months (i.e. 90 days) stay, please note that you will only be able to apply for another PCA on behalf of the same employee for re-entry into Singapore 90 days after the date of prior entry of that employee.
+Should your employee need to return to Malaysia before the end of the 3 months (i.e. 90 days) stay, please note that you will only be able to apply for another PCA on behalf of the same employee for re-entry into Singapore 90 days after his/her date of prior entry.
