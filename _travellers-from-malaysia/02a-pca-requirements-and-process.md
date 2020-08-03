@@ -41,7 +41,7 @@ Prior to arrival at the immigration checkpoints, employees approved under the PC
 - Ensure that they enter Singapore on their approved date as stated in their application and PCA approval email;
 - Ensure that they complete the electronic Health Declaration Card (eHDC) at <https://eservices.ica.gov.sg/sgarrivalcard>;
 - Ensure that they download the *TraceTogether, Homer* and *WhatsApp* mobile applications on their mobile phone; and
-- Bring along his/her passport and work pass when entering Singapore.
+- Bring along their passport and work pass when entering Singapore.
 
 Employees approved under the PCA can commute from Malaysia’s immigration checkpoint to Singapore via personal transport, via private buses that only ferry Malaysian passengers who will be serving SHN, or by foot. Do note that all prevailing Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for personal transport modes. More details of such fees can be found at: <https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html>.
 
@@ -49,25 +49,25 @@ Employees approved under the PCA can commute from Malaysia’s immigration check
 
 #### Post-Arrival Measures
 
-After immigration, the employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. The employees should indicate clearly to the driver that they are serving SHN. The employee should not take public trains or buses or flag down a taxi while serving the SHN.
+After immigration, employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. The employee should indicate clearly to the driver that they are serving SHN. The employee should not take public trains or buses or flag down a taxi while serving the SHN. Enforcement action may be taken if the employee is found to have not adhered to the transport advisory.
 
-The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19, whichever is later.
+The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19.
 
-Employees will only be permitted to leave his/her SHN place of residence to the designated testing facility for his/her COVID-19 PCR swab test on the assigned date and appointment time of swabbing. The employee is required to bring along and present his/her work pass and a copy of the COVID-19 PCR swab test confirmation email/SMS for entry for his/her COVID-19 PCR swab test. The employee must return immediately to his/her SHN place of residence after the test.
+The employee will only be permitted to leave his/her declared place of residence for SHN to the designated testing facility for his/her COVID-19 PCR test on the assigned date and appointment time of swabbing. The employee is required to bring along and present his/her work pass and a copy of the COVID-19 PCR test confirmation email/SMS for his/her COVID-19 PCR test. The employee must return immediately to his/her declared place of residence for SHN after the test.
 
-The point of contact provided by the employers will receive an SMS and email indicating the employee’s assigned date and location for the COVID-19 PCR swab test. It is the employer’s responsibility to ensure that the employees go for the COVID-19 PCR swab tests. The employee is prohibited from using public buses and trains for this purpose. Only personal transport, company transport, or taxis/private-hire vehicles booked via dedicated hotlines are allowed.
+The employer/contact person in the company will receive an SMS and email indicating the employee’s assigned date and location for the COVID-19 PCR test. It is the  responsibility of the employer/contact person of the company to ensure that the employee goes for the COVID-19 PCR tests. The employee is prohibited from using public buses and trains for this purpose. Only personal transport, company transport, or taxis/private-hire vehicles booked via dedicated hotlines are allowed.
 
-Once the employee has served his/her SHN and tests negative for COVID-19, the employee can commence work. If tested positive for COVID-19, the employee will undergo medical treatment.
+Once the employee has served his/her SHN and tested negative for COVID-19, the employee can commence work. If tested positive for COVID-19, the employee will undergo medical treatment. The prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
 
-The employer/employee will bear the costs of the employee’s accommodation for the SHN and post-arrival COVID-19 PCR swab test in Singapore, subject to prevailing MOM requirements.
+The employer/employee will bear the costs of the employee’s accommodation for the SHN and post-arrival COVID-19 PCR test in Singapore, subject to prevailing MOM requirements.
 
 #### Measures during stay in Singapore
 
-Employees will be required to abide by prevailing local public health requirements and safe distancing measures throughout their entire stay in Singapore.
+The employee will be required to abide by prevailing local public health requirements and safe distancing measures throughout his/her entire stay in Singapore.
 
-They will be required to act on MOM’s SMS, which will be sent within 1 to 3 days of his/her arrival, asking him/her to download the Homer mobile application and register their mobile number. The employee must have a thermometer to take and report his/her temperature 3 times a day using the Homer app.
+The employee will be required to act on MOM’s SMS, which will be sent within 1 to 3 days of his/her arrival, asking Him/Her to download the *Homer* mobile application and register his/her mobile number. The employee must have a thermometer to take and report his/her temperature 3 times a day using the Homer app.
 
-They will be allowed to use public transportation only after completing their SHN period and having tested negative for COVID-19.
+The employee will be allowed to use public transportation only after completing their SHN period and having tested negative for COVID-19.
 
 ### **Important Information**
 
