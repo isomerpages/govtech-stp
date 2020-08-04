@@ -81,7 +81,7 @@ Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian c
 
 #### 10. Can I use the RGL to come to Singapore for long-term work?
 
-The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website ([www.safetravel.ica.gov.sg](https://www.safetravel.ica.gov.sg)) for more information on the Periodic Commuting Arrangement (PCA), or visit [www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits) for more information on a separate scheme.
+The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website (<https://safetravel.ica.gov.sg>) for more information on the Periodic Commuting Arrangement (PCA), or visit [www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits) for more information on a separate scheme.
 
 #### 11. Can I use the RGL to come to Singapore for long-term study?
 
@@ -184,7 +184,7 @@ When making the online application, the sponsor should provide the following:
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Malaysian authorities prior to departure for Malaysia. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements.
 
-Please check with the Malaysian Immigration Department (<http://mtp.imi.gov.my/>) for more information on entering Malaysia under the RGL.
+Please check with the [Malaysian Immigration Department](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html) for more information on entering Malaysia under the RGL.
 
 #### 3. What is the maximum stay duration in Malaysia?
 
@@ -276,15 +276,13 @@ For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prev
 
 Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at the list of clinics below. This list of clinics will be updated from time to time.
 
-For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
-
 | S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-62418818 |
-| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-62733078 |
-| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-62501141 |
-| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63396911 |
-| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-68380080 |
+| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-63111111 |
+| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
+| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-63111111 |
+| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
+| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-63111111 |
 
 ##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
 

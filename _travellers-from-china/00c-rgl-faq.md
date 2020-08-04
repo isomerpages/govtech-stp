@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /china/rgl/faq
-third_nav_title: Reciprocal Green Lane
+third_nav_title: Singapore-China Fast Lane
 ---
 
 <div id="faq-top"></div>
@@ -320,15 +320,15 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future. For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future.
 
 | S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-62418818 |
-| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-62733078 |
-| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-62501141 |
-| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63396911 |
-| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-68380080 |
+| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-63111111 |
+| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
+| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-63111111 |
+| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
+| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-63111111 |
 
 ##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
