@@ -276,8 +276,6 @@ For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prev
 
 Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at the list of clinics below. This list of clinics will be updated from time to time.
 
-For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
-
 | S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
 | 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-63111111 |
