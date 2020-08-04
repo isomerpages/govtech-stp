@@ -320,7 +320,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future. For more details on COVID-19 tests, travellers may contact Raffles Medical Group at its 24-hour hotline: +65-6311 1222.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future.
 
 | S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
