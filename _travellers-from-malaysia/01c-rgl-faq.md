@@ -184,7 +184,7 @@ When making the online application, the sponsor should provide the following:
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Malaysian authorities prior to departure for Malaysia. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements.
 
-Please check with the Malaysian Immigration Department (<http://mtp.imi.gov.my/>) for more information on entering Malaysia under the RGL.
+Please check with the [Malaysian Immigration Department](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html) for more information on entering Malaysia under the RGL.
 
 #### 3. What is the maximum stay duration in Malaysia?
 
