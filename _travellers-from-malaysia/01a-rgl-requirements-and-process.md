@@ -14,6 +14,8 @@ The RGL is only applicable for travel between (i) airports in Singapore and Mala
 
 Business or official travellers seeking to make essential travel via the RGL to Singapore from Malaysia must be sponsored  by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel Pass.
 
+From 10 August 2020, only business or official travellers sponsored by a Singapore Government agency may submit applications to use the Singapore-Malaysia Reciprocal Green Lane. Applications for company-sponsored travellers to use the Singapore-Malaysia Reciprocal Green Lane can be submitted in end-August.
+
 ### **Important**
 
 Travellers without a valid SafeTravel Pass will be refused entry into Singapore.
