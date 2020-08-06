@@ -22,17 +22,13 @@ You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 #### 4. I am a Malaysian citizen and a Singapore PR. I am currently in Malaysia, but I want to return to Singapore. Do I need the PCA to return to Singapore?
 
-As you are a Malaysian citizen and a Singapore PR, you are not eligible for the PCA.
-
-If you are a Singapore PR with a valid Re-Entry Permit, you <u><b>do not</b></u> need any entry approval to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA via <ICA_Feedback@ica.gov.sg> for further information.
+If you are a Singapore PR with a valid Re-Entry Permit, you may return to Singapore without the need for any entry approval. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA via <ICA_Feedback@ica.gov.sg> for further information.
 
 #### 5. I am a Singapore Citizen who is currently in Malaysia. Do I need the PCA to return to Singapore?
 
 For Singapore citizens, you <u><b>do not</b></u> need any entry approval to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA at <ICA_Feedback@ica.gov.sg>.
 
 #### 6. I am a Malaysian citizen and a Singapore PR. I am currently in Singapore but I want to return to Malaysia. Do I need the PCA to return to Malaysia?
-
-As you are a Malaysian citizen and a Singapore PR, you are not eligible for the PCA.
 
 Entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
 
