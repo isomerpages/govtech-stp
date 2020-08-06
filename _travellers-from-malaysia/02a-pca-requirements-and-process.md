@@ -8,6 +8,10 @@ The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore an
 
 Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards.
 
+Singapore Citizens/PRs <u><b>do not</b></u> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice (SHN) requirements after arriving in Singapore. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA at <ICA_Feedback@ica.gov.sg>.
+
+For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
+
 ### **Eligibility**
 
 Employers can apply for the PCA on behalf of their employees using CorpPass if their employees fulfil the following criteria:
@@ -21,7 +25,7 @@ Employers can apply for the PCA on behalf of their employees using CorpPass if t
 
 ### **Application Process**
 
-The PCA application has to be submitted by the employer on behalf of their employees from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 days before their employees’ entry into Singapore.
+The PCA application has to be submitted by the employer on behalf of their employees from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 calendar days before their employees’ entry into Singapore.
 
 Employers are advised to have the following information of each employee on hand, before proceeding to submit an application:
 1. Employee’s FIN;
@@ -75,6 +79,11 @@ Employees without an entry approval under the PCA or other channels will be refu
 
 For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
+### **Note**
+
+1. Singapore Citizens/PRs do not need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA at <ICA_Feedback@ica.gov.sg>.
+2. For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
+
 -----
 
-<sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed up to four pax, provided that the employees arrive in Singapore on the same day and are under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>. 
+<sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed up to four pax, provided that the employees arrive in Singapore on the same day and are under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-for-foreign-employees>. 

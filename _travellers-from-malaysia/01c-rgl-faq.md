@@ -37,6 +37,8 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 Residents in Malaysia seeking to travel to Singapore for short-term essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can self-sponsor and file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency.<sup>1</sup> The application for the SafeTravel Pass will be open from one to four weeks before the traveller’s intended week of departure.
 
+From 10 August 2020, only business or official travellers sponsored by a Singapore Government agency may submit applications to use the Singapore-Malaysia Reciprocal Green Lane. Applications for company-sponsored travellers to use the Singapore-Malaysia Reciprocal Green Lane can be submitted in end-August.
+
 When applying for the SafeTravel Pass, Proof of Residency in Malaysia is required. Malaysian Citizens should present a copy of their passport for submission. Non-Malaysian Citizens who are resident in Malaysia should present a copy of their Malaysian long-term pass ID for submission.
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email within 3 working days.
