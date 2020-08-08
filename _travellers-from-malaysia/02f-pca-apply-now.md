@@ -8,7 +8,7 @@ third_nav_title: Periodic Commuting Arrangement
   <thead>
     <tr>
       <th>Apply for Periodic Commuting Arrangement (PCA)</th>
-      <th>Apply for PCA - Singapore Citizens/Permanent Residents returning to Singapore</th>
+      <th>Apply for SHN waiver - Returning Singapore Citizens/Permanent Residents holding Malaysia-issued PCA pass</th>
     </tr>
   </thead>
   <tbody>
