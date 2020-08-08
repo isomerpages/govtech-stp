@@ -7,4 +7,4 @@ For general enquiries on the SafeTravel Pass, please contact us at <COVID_SafeTr
 
 For enquiries on the status of your application, please approach the Singapore government agency that sponsored the application.
 
-For appeals, please contact us at <COVID_SafeTravelAppeals@mti.gov.sg>
+For appeals, please contact us at <COVID_SafeTravelAppeals@mti.gov.sg>.
