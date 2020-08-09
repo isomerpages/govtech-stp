@@ -286,7 +286,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   <tr>
     <th style="text-align: center;">S/N</th>
     <th style="text-align: center;">Clinic Name</th>
-    <th colspan="2" style="text-align: center;">Clinic Hours<br>PH = Public Holiday</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
     <th style="text-align: center;">Able to swab children?</th>
     <th style="text-align: center;">Charge</th>
     <th style="text-align: center;">Clinic Contact</th>
@@ -294,41 +294,28 @@ Please call the clinic to make an appointment and verify your eligibility to be 
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="text-align: center;">1</td>
-    <td rowspan="2"><b>Intemedical (Kovan)</b><br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
-    <td style="text-align: center;">Weekdays</td>
-    <td rowspan="2" style="text-align: center;">8am-12 midnight</td>
-    <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
-    <td rowspan="2" style="text-align: center;">$199</td>
-    <td rowspan="2" style="text-align: center;">62433036</td>
+    <td style="text-align: center;">1</td>
+    <td><b>Intemedical (Kovan)</b><br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
+    <td>Weekdays/Weekends/PH:<br>8am-12 midnight</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$199</td>
+    <td style="text-align: center;">62433036</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Weekends/<br>PH</td>
+    <td style="text-align: center;">2</td>
+    <td><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
+    <td>Weekdays/Weekends/PH:<br>8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">62448324</td>
   </tr>
   <tr>
-    <td rowspan="2" style="text-align: center;">2</td>
-    <td rowspan="2"><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
-    <td style="text-align: center;">Weekdays</td>
-    <td rowspan="2" style="text-align: center;">8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
-    <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
-    <td rowspan="2" style="text-align: center;">$200</td>
-    <td rowspan="2" style="text-align: center;">62448324</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Weekends/<br>PH</td>
-  </tr>
-  <tr>
-    <td rowspan="2" style="text-align: center;">3</td>
-    <td rowspan="2"><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
-    <td style="text-align: center;">Weekdays</td>
-    <td style="text-align: center;">8am-10pm</td>
-    <td rowspan="2" style="text-align: center;">Yes<br>6-12 years</td>
-    <td rowspan="2" style="text-align: center;">$199</td>
-    <td rowspan="2" style="text-align: center;">68864768</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">Weekends/PH</td>
-    <td style="text-align: center;">8am-10pm<br>PH: 9am-10pm</td>
+    <td style="text-align: center;">3</td>
+    <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
+    <td>Weekdays:<br>8am-10pm<br><br>Weekend/Public Holiday:<br>8am-1pm<br>PH: 9am-10pm</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$199</td>
+    <td style="text-align: center;">68864768</td>
   </tr>
 </tbody>
 </table>
