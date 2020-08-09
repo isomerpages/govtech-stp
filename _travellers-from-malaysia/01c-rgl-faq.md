@@ -281,6 +281,8 @@ Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performe
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
+##### Northeast
+
 <table>
 <thead>
   <tr>
@@ -312,7 +314,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   <tr>
     <td style="text-align: center;">3</td>
     <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
-    <td>Weekdays:<br>8am-10pm<br><br>Weekend/Public Holiday:<br>8am-1pm<br>PH: 9am-10pm</td>
+    <td>Weekdays: 8am-10pm<br><br>Weekend: 8am-1pm<br><br>PH: 9am-10pm</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
     <td style="text-align: center;">$199</td>
     <td style="text-align: center;">68864768</td>
