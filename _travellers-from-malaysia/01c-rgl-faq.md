@@ -347,7 +347,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   <tr>
     <td style="text-align: center;">2</td>
     <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
-    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekend/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
+    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>0-12 years</td>
     <td style="text-align: center;">$200</td>
     <td style="text-align: center;">68516233</td>
@@ -387,7 +387,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Raffles Medical<br>Group@Raffles City</b><br><br>252 North Bridge Road<br>#02-17, Raffles City<br>Shopping Centre,<br>Singapore 179103</td>
+    <td><b>Raffles Medical<br>Group@Raffles City</b><br><br>252 North Bridge Road<br>#02-17, Raffles City Shopping Centre,<br>Singapore 179103</td>
     <td>Weekdays:<br>7.30am-1pm<br>2pm-5.30pm<br><br>Weekends/PH:<br>Sat: 7.30am-1pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>0-12 years</td>
     <td style="text-align: center;">$186</td>
@@ -395,7 +395,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">3</td>
-    <td><b>Raffles Medical<br>Group@Shaw Centre</b><br><br>1 Scotts Road, #04-09 to<br>14, Shaw Centre,<br>Singapore 228208</td>
+    <td><b>Raffles Medical<br>Group@Shaw Centre</b><br><br>1 Scotts Road, #04-09 to 14,<br>Shaw Centre,<br>Singapore 228208</td>
     <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>0-12 years</td>
     <td style="text-align: center;">$186</td>
@@ -404,7 +404,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   <tr>
     <td style="text-align: center;">4</td>
     <td><b>Raffles Medical<br>Group@Holland Village</b><br><br>118 Holland Ave, Level 5,<br>Raffles Holland V,<br>Singapore 278997</td>
-    <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>8.30am-1pm<br>2pm-5.30pm<br>6.30pm-9.30pm</td>
+    <td>Weekdays: 8.30am-9.30pm<br><br>Weekends/PH:<br>8.30am-1pm<br>2pm-5.30pm<br>6.30pm-9.30pm</td>
     <td style="text-align: center;">Yes<br>0-12 years</td>
     <td style="text-align: center;">$186</td>
     <td style="text-align: center;">63111111</td>
@@ -427,11 +427,93 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">7</td>
-    <td><b>EJ Family Clinic & Surgery</b><br><br>Block 109, Toa Payoh<br>Lorong 1, #01-314,<br>Singapore 310109</td>
+    <td><b>EJ Family Clinic & Surgery</b><br><br>Block 109, Toa Payoh Lorong 1,<br>#01-314, Singapore 310109</td>
     <td>Weekdays:<br>8am-2pm<br>6pm-9pm<br><br>Weekends/PH:<br>Sat: 8am-11am<br>Sun: 8am-2pm<br>PH: Closed</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
     <td style="text-align: center;">$200</td>
     <td style="text-align: center;">63530811</td>
+  </tr>
+</tbody>
+</table>
+
+##### Southwest
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Raffles Medical<br>Group@Harbourfront</b><br><br>1 Maritime Square, #03-56,<br>Harbourfront Centre,<br>Singapore 099253</td>
+    <td>Weekdays:<br>Mon: 8.30am-7pm<br>Tues-Fri: 8.30am-5.30pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>BL Medical Associates</b><br><br>2 Science Park Drive,<br>Ascent #01-10,<br>Singapore 118222</td>
+    <td>Weekdays: 9.30am-4.10pm<br><br>Weekends/PH:<br>Sat: 9.30am-12pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">62651052</td>
+  </tr>
+</tbody>
+</table>
+
+##### Southeast
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Crossroads Family Clinic</b><br><br>Blk 601B, Tampines Ave 9,<br>#01-10, Singapore 522601</td>
+    <td>Weekdays:<br>Mon-Fri: 8am-12.30pm<br>Mon-Wed & Fri: 2pm-4pm<br>Mon & Wed: 5.30pm-8.30pm<br><br>Weekends/PH:<br>Sat: 8am-12.30pm<br>Sun: 5.30pm-8.30pm<br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">65927080</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>True Medical Clinic<br>Tampines West</b><br><br>Blk 824, Tampines St 81,<br>#01-26, Singapore 520824</td>
+    <td>Weekdays: 8am-2pm<br><br>Weekends/PH: 6pm-11pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">69090324</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Raffles Medical<br>Group@Changi Airport<br>Terminal 3 B2</b><br><br>Singapore Changi Airport<br>65 Airport Boulevard, #B2-01,<br>Singapore 819663</td>
+    <td>Weekdays/Weekends/PH: 24h</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">4</td>
+    <td><b>Temasek Clinic & Surgery</b><br><br>73 Bedok South Ave 3,<br>#01-460, Singapore 460073</td>
+    <td>Weekdays:<br>Mon-Thu:<br>8.45am-2pm<br>6pm-9pm<br>----<br>Fri: 8.45am-2pm<br><br>Weekends/PH:<br>Sat & Sun: 8.45am-12pm<br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">64436113</td>
   </tr>
 </tbody>
 </table>
