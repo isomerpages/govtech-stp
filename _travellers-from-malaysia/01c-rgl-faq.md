@@ -97,9 +97,24 @@ Under the RGL, travellers can travel to Singapore by air via any non-stop flight
 
 The RGL is only for short-term essential business and official travel between Singapore and Malaysia, and not for transit through Singapore.
 
-### **Test Arrangements**
+### **Pre-Departure Measures in Malaysia**
 
-#### 14. What COVID-19 tests will I be subject to upon arrival in Singapore?
+#### 14. What health measures must I take in Malaysia before departing for Singapore?
+
+Travellers must remain in Malaysia and have not travelled out of the country for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Malaysia, undergo a pre-departure PCR test in Malaysia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the accredited laboratories <http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf> by the Ministry of Health Malaysia.
+
+The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia that conduct the COVID-19 test can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
+
+#### 15. What documentation do I need to present before I depart from Malaysia to Singapore?
+
+Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
+1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
+2. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore); and
+3. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from the accredited laboratories by the Ministry of Health Malaysia).
+
+### **Test Arrangements Upon Arrival in Singapore**
+
+#### 16. What COVID-19 tests will I be subject to upon arrival in Singapore?
 
 The traveller will undergo a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore.
 
@@ -107,24 +122,11 @@ For travellers entering Singapore by air, travellers are encouraged to pre-regis
 
 For travellers entering Singapore by land, travellers will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the land checkpoints.
 
-#### 15. What if I test positive for COVID-19 in Singapore?
+#### 17. What if I test positive for COVID-19 in Singapore?
 
 If tested positive for COVID-19, Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost.
 
 For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
-
-### **Pre-Departure Measures in Malaysia**
-
-#### 16. What health measures must I take in Malaysia before departing for Singapore?
-
-Travellers must remain in Malaysia and have not travelled out of the country for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Malaysia, undergo a pre-departure PCR test in Malaysia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the accredited laboratories by the Ministry of Health Malaysia.
-
-#### 17. What documentation do I need to present before I depart from Malaysia to Singapore?
-
-Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
-1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
-2. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore); and
-3. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from the accredited laboratories by the Ministry of Health Malaysia).
 
 ### **Health Measures in Singapore**
 
@@ -177,12 +179,11 @@ Persons of all nationalities who are legally resident in Singapore (i.e., Singap
 Residents in Singapore seeking to travel to Malaysia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Malaysia, which will file an application on behalf of the applicant on the MyTravelPass website (<http://mtp.imi.gov.my/>) at least 10 working days before departure. 
 
 When making the online application, the sponsor should provide the following:
-1. Letter of invitation
+1. Letter of invitation specifying entry for business/official purposes
 2. Traveller’s passport copy
-3. Traveller’s itinerary 
-4. Traveller’s proof of hotel accommodation
-5. Traveller’s pre-trip health and travel history declaration
-6. Traveller’s controlled itinerary
+3. Traveller’s proof of hotel accommodation
+4. Traveller’s pre-trip health and travel history declaration
+5. Traveller’s controlled itinerary stating the location, date, and time of all appointments and programmes
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Malaysian authorities prior to departure for Malaysia. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements.
 
@@ -240,7 +241,7 @@ For travellers departing via land checkpoints, the traveller is required to prod
 
 #### 11. Do I need to be quarantined upon arrival in Malaysia?
 
-After undergoing a PCR test upon arrival, the traveller must remain under isolation until the test results are released. More details on isolation arrangements in Malaysia will be released subsequently. The traveller has to bear the costs of the post-arrival test and the isolation in the designated accommodation.
+After undergoing a PCR test upon arrival, the traveller must remain under isolation until the test results are released. The traveller will be required to be transported directly by the sponsor to a non-residential accommodation, and be isolated while awaiting the test result. The traveller has to bear the costs of the post-arrival test and the isolation in the designated accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Malaysia.
 
@@ -248,7 +249,7 @@ If the result indicates that the traveller has tested negative for COVID-19, the
 
 The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in Malaysia, including downloading the MySejahtera contact tracing apps as required by the Malaysian authorities.
 
-The host company or government agency will supervise the itinerary of and provide private transport for the traveller for up to 14 days of the traveller’s stay in Malaysia.
+The host company or government agency will ensure that the itinerary is adhered to, and provide private transport for the traveller for up to 14 days of the traveller’s stay in Malaysia. The traveller is not allowed to use public transportation, taxis, or ride-hailing services.
 
 The traveller can only commute between his/her residence and the workplace via private hire cars/taxis or cohorted company transport (i.e., no public transport allowed).
 
@@ -274,9 +275,11 @@ For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prev
 
 ##### Booking an appointment
 
-##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+##### 1. [Updated] Which clinics can I get the PCR tests from?
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at the list of clinics below. This list of clinics will be updated from time to time.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following clinics for eligible RGL travellers.
+
+Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
 | S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
 |-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
@@ -288,70 +291,53 @@ Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at t
 
 ##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
 
-Travellers are advised to <u>be at the clinic at least 2 hours prior to, and no later than</u>, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
+You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment.
+
+<u>You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers who do not adhere to this cut-off timing will not be able to obtain the results in time for departure.
 
 | Flight departure time | Latest Cut-off Test Timing |
 |-----------------------|-----------------------------------------|
-| 12.00am to 6.59am | 10.00am two calendar days before flight |
-| 7.00am to 9.59am | 1.00pm two calendar days before flight |
-| 10.00am to 11.59am | 3.00pm two calendar days before flight |
-| 12.00pm to 1.59pm | 5.00pm two calendar days before flight |
-| 2.00pm to 4.59pm | 8.00pm two calendar days before flight |
-| 5.00pm to 11.59pm | 9.00am the day before flight |
+| 12:00am to 9:29am | 10.00am two calendar days before flight |
+| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
+| 3.30pm to 11.59pm | 10:00am the day before flight |
+
+*Example:*
+*If a traveller’s departure flight time is 12pm on 20 August and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 17 August onwards, until the cut-off timing.*
+
+*The latest the traveller can present is by 5pm on 18 August.*
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
-Please refer to the Test Schedule and book your test slot within the indicated timing. This is to ensure that you will have sufficient time to meet the fast lane requirements.
+For Malaysia, the pre-departure test must be done within 72 hours prior to departure.
 
-**[>72 hours to flight]** You may book a test date through:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>Raffles Connect app.</li>
-  <li>Online booking system at <https://www.rafflesmedicalgroup.com/appointment-booking>. Real-time time slots availability is available on the corporate appointment booking webpage.</li>
-  <li>Calling the 24-hour appointment hotline at +65-6311 1222</li>
-  <li>Calling the appointed clinics listed.</li>
-  <li>Email <swabresult@rafflesmedical.com>, stating your flight departure details, your preferred Raffles Medical clinic and your preferred date and time of appointment.</li>
-</ol>
-
-**[72 hours to >48 hours to flight]** Please call the Raffles Medical Group 24-hour appointment hotline at +65-6311 1222.
+Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your departure timing is confirmed.
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL requirements are confirmed.
 
 Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
 
 If you do not make a prior appointment, please note that:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>There is no guarantee that there will be a test slot for you; and</li>
-  <li>You may not get your results in time for your flight to qualify for fast lane arrangements.</li>
-</ol>
-
-Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their scheduled departure.
+1. There is no guarantee that there will be a test slot for you; and
+2. You may not get your results in time for your flight to qualify for RGL arrangements. Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
 
 ##### 5. What details will I need to book an appointment for the PCR test?
 
 Please have the following information on hand when making an appointment for your test:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>Identity card number or passport number</li>
-  <li>Scheduled departure timing</li>
-  <li>Time of your test slot: Please refer to the Test Schedule to confirm your timing.</li>
-  <li>Address in Singapore</li>
-  <li>Contact number</li>
-  <li>Email address</li>
-</ol>
+1. Identification or passport numbers
+2. Departure flight timing
+3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing. 
+4. Address in Singapore
+5. Contact number
+6. Email address
 
 ##### 6. What documents should I bring for my appointment?
 
 Please bring the following:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>Identity card or passport</li>
-  <li>Letter of Invitation from the Malaysian government confirming that you have been granted approval to travel to Malaysia under the Singapore-Malaysia RGL</li>
-  <li>Softcopy booking reference showing your departure flight timing (if travelling by air)</li>
-</ol>
+1. Identity card or passport
+2. MyTravelPass
+3. Softcopy showing your departure flight timing
 
 ##### Testing
 
