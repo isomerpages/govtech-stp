@@ -304,7 +304,7 @@ You should make an appointment that fits your required testing window, and be pr
 *Example:*
 *If a traveller’s departure flight time is 12pm on 20 August and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 17 August onwards, until the cut-off timing.*
 
-*The latest the traveller can present is by 4pm on 18 August.*
+*The latest the traveller can present himself/herself is by 4pm on 18 August.*
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
