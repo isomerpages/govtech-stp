@@ -284,12 +284,12 @@ Please call the clinic to make an appointment and verify your eligibility to be 
 <table>
 <thead>
   <tr>
-    <th>S/N</th>
-    <th>Clinic Name</th>
-    <th colspan="2">Clinic Hours<br>PH = Public Holiday</th>
-    <th>Able to swab children?</th>
-    <th>Charge</th>
-    <th>Clinic Contact</th>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th colspan="2" style="text-align: center;">Clinic Hours<br>PH = Public Holiday</th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
   </tr>
 </thead>
 <tbody>
@@ -300,7 +300,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td rowspan="2" style="text-align: center;">8am-12 midnight</td>
     <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
     <td rowspan="2" style="text-align: center;">$199</td>
-    <td rowspan="2" style="text-align: center;">6243 3036</td>
+    <td rowspan="2" style="text-align: center;">62433036</td>
   </tr>
   <tr>
     <td style="text-align: center;">Weekends/<br>PH</td>
@@ -312,7 +312,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td rowspan="2" style="text-align: center;">8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
     <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
     <td rowspan="2" style="text-align: center;">$200</td>
-    <td rowspan="2" style="text-align: center;">6244 8324</td>
+    <td rowspan="2" style="text-align: center;">62448324</td>
   </tr>
   <tr>
     <td style="text-align: center;">Weekends/<br>PH</td>
@@ -324,7 +324,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td style="text-align: center;">8am-10pm</td>
     <td rowspan="2" style="text-align: center;">Yes<br>6-12 years</td>
     <td rowspan="2" style="text-align: center;">$199</td>
-    <td rowspan="2" style="text-align: center;">6886 4768</td>
+    <td rowspan="2" style="text-align: center;">68864768</td>
   </tr>
   <tr>
     <td style="text-align: center;">Weekends/PH</td>
