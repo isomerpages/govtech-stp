@@ -281,13 +281,57 @@ Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performe
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
-| S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
-|-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-63111111 |
-| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
-| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-63111111 |
-| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
-| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-63111111 |
+<table>
+<thead>
+  <tr>
+    <th>S/N</th>
+    <th>Clinic Name</th>
+    <th colspan="2">Clinic Hours<br>PH = Public Holiday</th>
+    <th>Able to swab children?</th>
+    <th>Charge</th>
+    <th>Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2" style="text-align: center;">1</td>
+    <td rowspan="2">Intemedical (Kovan)<br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
+    <td style="text-align: center;">Weekdays</td>
+    <td rowspan="2" style="text-align: center;">8am-12 midnight</td>
+    <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
+    <td rowspan="2" style="text-align: center;">$199</td>
+    <td rowspan="2" style="text-align: center;">6243 3036</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Weekends/<br>PH</td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="text-align: center;">2</td>
+    <td rowspan="2">Parkway Shenton Medical Group<br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
+    <td style="text-align: center;">Weekdays</td>
+    <td rowspan="2" style="text-align: center;">8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
+    <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
+    <td rowspan="2" style="text-align: center;">$200</td>
+    <td rowspan="2" style="text-align: center;">6244 8324</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Weekends/<br>PH</td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="text-align: center;">3</td>
+    <td rowspan="2">Prohealth Medical Group<br>@Fernvale Pte Ltd<br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
+    <td style="text-align: center;">Weekdays</td>
+    <td style="text-align: center;">8am-10pm</td>
+    <td rowspan="2" style="text-align: center;">Yes<br>6-12 years</td>
+    <td rowspan="2" style="text-align: center;">$199</td>
+    <td rowspan="2" style="text-align: center;">6886 4768</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Weekends/PH</td>
+    <td style="text-align: center;">8am-10pm<br>PH: 9am-10pm</td>
+  </tr>
+</tbody>
+</table>
 
 ##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
 
