@@ -295,7 +295,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
 <tbody>
   <tr>
     <td rowspan="2" style="text-align: center;">1</td>
-    <td rowspan="2">Intemedical (Kovan)<br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
+    <td rowspan="2"><b>Intemedical (Kovan)</b><br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
     <td style="text-align: center;">Weekdays</td>
     <td rowspan="2" style="text-align: center;">8am-12 midnight</td>
     <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
@@ -307,7 +307,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td rowspan="2" style="text-align: center;">2</td>
-    <td rowspan="2">Parkway Shenton Medical Group<br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
+    <td rowspan="2"><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
     <td style="text-align: center;">Weekdays</td>
     <td rowspan="2" style="text-align: center;">8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
     <td rowspan="2" style="text-align: center;">Yes<br>0-12 years</td>
@@ -319,7 +319,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td rowspan="2" style="text-align: center;">3</td>
-    <td rowspan="2">Prohealth Medical Group<br>@Fernvale Pte Ltd<br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
+    <td rowspan="2"><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
     <td style="text-align: center;">Weekdays</td>
     <td style="text-align: center;">8am-10pm</td>
     <td rowspan="2" style="text-align: center;">Yes<br>6-12 years</td>
