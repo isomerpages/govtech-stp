@@ -314,10 +314,124 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   <tr>
     <td style="text-align: center;">3</td>
     <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
-    <td>Weekdays: 8am-10pm<br><br>Weekend: 8am-1pm<br><br>PH: 9am-10pm</td>
+    <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
     <td style="text-align: center;">$199</td>
     <td style="text-align: center;">68864768</td>
+  </tr>
+</tbody>
+</table>
+
+##### Northwest
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Doctors Clinic & Surgery</b><br><br>Block 305, Woodlands<br>Street 31, #01-91,<br>Singapore 730305</td>
+    <td>Weekdays:<br>8.30am-12pm<br>2pm-4.30pm<br>6.30pm-9pm<br><br>Weekends: 8.30am-12pm<br><br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$185</td>
+    <td style="text-align: center;">62691017</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
+    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekend/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">68516233</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
+    <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">65094480</td>
+  </tr>
+</tbody>
+</table>
+
+##### Central
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Silver Cross Medical</b><br><br>275A Holland Avenue<br>(Clinic located on 2nd storey),<br>Singapore 278993</td>
+    <td>Weekdays/Weekends/PH:<br>8am-10pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">64622818</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>Raffles Medical<br>Group@Raffles City</b><br><br>252 North Bridge Road<br>#02-17, Raffles City<br>Shopping Centre,<br>Singapore 179103</td>
+    <td>Weekdays:<br>7.30am-1pm<br>2pm-5.30pm<br><br>Weekends/PH:<br>Sat: 7.30am-1pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Raffles Medical<br>Group@Shaw Centre</b><br><br>1 Scotts Road, #04-09 to<br>14, Shaw Centre,<br>Singapore 228208</td>
+    <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">4</td>
+    <td><b>Raffles Medical<br>Group@Holland Village</b><br><br>118 Holland Ave, Level 5,<br>Raffles Holland V,<br>Singapore 278997</td>
+    <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>8.30am-1pm<br>2pm-5.30pm<br>6.30pm-9.30pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">5</td>
+    <td><b>1 Medical Teck Ghee</b><br><br>410 Ang Mo Kio Avenue 10,<br>#01-837, Singapore 560410</td>
+    <td>Weekdays:<br>7am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>7am-1pm<br>6pm-11pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">62517030</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">6</td>
+    <td><b>Braddell Medical Clinic</b><br><br>124 Toa Payoh Lorong 1<br>#01-489, Singapore 310124</td>
+    <td>Weekdays:<br>8am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>8am-1pm<br>6pm-11pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$192.60</td>
+    <td style="text-align: center;">62536288</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">7</td>
+    <td><b>EJ Family Clinic & Surgery</b><br><br>Block 109, Toa Payoh<br>Lorong 1, #01-314,<br>Singapore 310109</td>
+    <td>Weekdays:<br>8am-2pm<br>6pm-9pm<br><br>Weekends/PH:<br>Sat: 8am-11am<br>Sun: 8am-2pm<br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">63530811</td>
   </tr>
 </tbody>
 </table>
