@@ -8,7 +8,7 @@ The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore an
 
 Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards.
 
-Singapore Citizens/PRs <u><b>do not</b></u> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice (SHN) requirements after arriving in Singapore. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA at <ICA_Feedback@ica.gov.sg>.
+Singapore Citizens/PRs <u><b>do not</b></u> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice (SHN) requirements after arriving in Singapore. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
 
 For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
 
