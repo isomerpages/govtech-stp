@@ -97,13 +97,9 @@ The traveller will undergo a PCR test upon arrival at Changi Airport or Seletar 
 
 #### 15. What if I test positive for COVID-19 in Singapore?
 
-If tested positive for COVID-19, short-term pass holders will be accorded the necessary medical treatment at his/her cost.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as a fast lane traveller.
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders will not be required to pay for their inpatient medical bills at public hospitals in Singapore should they be suspected of or test positive for COVID-19, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders, except for those who leave Singapore from 27 March 2020 onwards in disregard of the prevailing travel advisories, and have onset of symptoms consistent with COVID-19 within 14 days of return to Singapore.*
-
-Singapore Citizens, Permanent Residents and Long-Term Pass holders who leave Singapore under the fast lane arrangement and comply with fast lane conditions are not travelling in disregard of travel advisories. They will not be required to pay for their medical bills at public hospitals in Singapore should they test positive for COVID-19 after their return to Singapore.
-
-<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>* Specifically, such patients will be charged at the unsubsidised rates at the public hospitals for any inpatient treatment relating to COVID-19. In addition, Singapore residents will not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at the public and private hospitals.</em></p>
+Note that all Short-Term Pass holders will be accorded the necessary medical treatment at his/her cost.
 
 ### **Pre-Departure Measures in China**
 
@@ -287,13 +283,13 @@ For more information about the SHN issued by ICA, please refer to <https://www.i
 
 Travellers returning to Singapore from China after their fast lane travel may submit an appeal for COVID-19 PCR test arrangements in place of the SHN to <COVID_STPOappeals@mti.gov.sg>. Each appeal will be considered on a case-by-case basis and should be submitted at least five working days before the traveller’s intended date of return to Singapore.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>For a start, all travellers entering Singapore from 17 June 2020, 2359 hours, and who had remained in Australia, Brunei Darussalam, Hong Kong, Japan, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry, will no longer have to serve their SHN at dedicated SHN facilities.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>For a start, all travellers entering Singapore from 17 June 2020, 2359 hours, and who had remained in Brunei Darussalam, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry, will no longer have to serve their SHN at dedicated SHN facilities.</em></p>
 
 ##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel under the fast lane arrangement and comply with the terms of the fast lane arrangement will not be required to pay for their medical bills at public hospitals should they test positive for COVID-19 upon return from China, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders.
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane. This letter would be used as an indication of eligibility to be exempted from the medical bills incurred, should he/she be tested positive for COVID-19 upon return from China via the fast lane.
+Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the fast lane.
 
 <div id="annexa"></div>
 
@@ -320,84 +316,297 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following Raffles Medical Group clinics for a start. The service may also be made available at other clinics in future.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following clinics for eligible fast lane travellers.
 
-| S/N | Raffles Medical Group Clinic | Address | Operating Hours | Contact no. |
-|-----|------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------|
-| 1 | CHANGI AIRPORT TERMINAL 3 B2 | Singapore Changi Airport<br />65 Airport Boulevard<br />#B2-01<br />Singapore 819663 | Open 24 hours | +65-63111111 |
-| 2 | HARBOURFRONT | 1 Maritime Square<br />#03-56<br />Harbourfront Centre<br />Singapore 099253 | Mon: 8.30am to 7pm<br />Tues to Fri: 8.30am to 5.30pm<br />Sat: 8.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
-| 3 | HOLLAND VILLAGE | 118 Holland Ave<br />Level 5<br />Raffles Holland V<br />Singapore 278997 | Mon to Fri: 8.30am to 9.30pm<br />Sat, Sun & PH: 8.30am to 1pm,<br />2pm to 5.30pm, 6.30pm to 9.30pm | +65-63111111 |
-| 4 | RAFFLES CITY | 252 North Bridge Rd<br />#02-17<br />Raffles City Shopping Centre<br />Singapore 179103 | Mon to Fri: 7.30am to 1pm,<br />2pm to 5.30pm<br />Sat: 7.30am to 1pm<br />Sun & PH: Closed | +65-63111111 |
-| 5 | SHAW CENTRE | 1 Scotts Road<br />#04-09 to 14<br />Shaw Centre<br />Singapore 228208 | Mon-Fri: 7.30am-1pm, 2pm-5.30pm<br />Sat: 7.30am-1pm<br />Sun & PH: Closed | +65-63111111 |
+Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+
+##### Northeast
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Intemedical (Kovan)</b><br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
+    <td>Weekdays/Weekends/PH:<br>8am-12 midnight</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$199</td>
+    <td style="text-align: center;">62433036</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
+    <td>Weekdays/Weekends/PH:<br>8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">62448324</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
+    <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$199</td>
+    <td style="text-align: center;">68864768</td>
+  </tr>
+</tbody>
+</table>
+
+##### Northwest
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Doctors Clinic & Surgery</b><br><br>Block 305, Woodlands<br>Street 31, #01-91,<br>Singapore 730305</td>
+    <td>Weekdays:<br>8.30am-12pm<br>2pm-4.30pm<br>6.30pm-9pm<br><br>Weekends: 8.30am-12pm<br><br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$185</td>
+    <td style="text-align: center;">62691017</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
+    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">68516233</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
+    <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">65094480</td>
+  </tr>
+</tbody>
+</table>
+
+##### Central
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Silver Cross Medical</b><br><br>275A Holland Avenue<br>(Clinic located on 2nd storey),<br>Singapore 278993</td>
+    <td>Weekdays/Weekends/PH:<br>8am-10pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">64622818</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>Raffles Medical<br>Group@Raffles City</b><br><br>252 North Bridge Road<br>#02-17, Raffles City Shopping Centre,<br>Singapore 179103</td>
+    <td>Weekdays:<br>7.30am-1pm<br>2pm-5.30pm<br><br>Weekends/PH:<br>Sat: 7.30am-1pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Raffles Medical<br>Group@Shaw Centre</b><br><br>1 Scotts Road, #04-09 to 14,<br>Shaw Centre,<br>Singapore 228208</td>
+    <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">4</td>
+    <td><b>Raffles Medical<br>Group@Holland Village</b><br><br>118 Holland Ave, Level 5,<br>Raffles Holland V,<br>Singapore 278997</td>
+    <td>Weekdays: 8.30am-9.30pm<br><br>Weekends/PH:<br>8.30am-1pm<br>2pm-5.30pm<br>6.30pm-9.30pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">5</td>
+    <td><b>1 Medical Teck Ghee</b><br><br>410 Ang Mo Kio Avenue 10,<br>#01-837, Singapore 560410</td>
+    <td>Weekdays:<br>7am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>7am-1pm<br>6pm-11pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">62517030</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">6</td>
+    <td><b>Braddell Medical Clinic</b><br><br>124 Toa Payoh Lorong 1<br>#01-489, Singapore 310124</td>
+    <td>Weekdays:<br>8am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>8am-1pm<br>6pm-11pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$192.60</td>
+    <td style="text-align: center;">62536288</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">7</td>
+    <td><b>EJ Family Clinic & Surgery</b><br><br>Block 109, Toa Payoh Lorong 1,<br>#01-314, Singapore 310109</td>
+    <td>Weekdays:<br>8am-2pm<br>6pm-9pm<br><br>Weekends/PH:<br>Sat: 8am-11am<br>Sun: 8am-2pm<br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">63530811</td>
+  </tr>
+</tbody>
+</table>
+
+##### Southwest
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Raffles Medical<br>Group@Harbourfront</b><br><br>1 Maritime Square, #03-56,<br>Harbourfront Centre,<br>Singapore 099253</td>
+    <td>Weekdays:<br>Mon: 8.30am-7pm<br>Tues-Fri: 8.30am-5.30pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>BL Medical Associates</b><br><br>2 Science Park Drive,<br>Ascent #01-10,<br>Singapore 118222</td>
+    <td>Weekdays: 9.30am-4.10pm<br><br>Weekends/PH:<br>Sat: 9.30am-12pm<br>Sun & PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">62651052</td>
+  </tr>
+</tbody>
+</table>
+
+##### Southeast
+
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">S/N</th>
+    <th style="text-align: center;">Clinic Name</th>
+    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
+    <th style="text-align: center;">Able to swab children?</th>
+    <th style="text-align: center;">Charge</th>
+    <th style="text-align: center;">Clinic Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">1</td>
+    <td><b>Crossroads Family Clinic</b><br><br>Blk 601B, Tampines Ave 9,<br>#01-10, Singapore 522601</td>
+    <td>Weekdays:<br>Mon-Fri: 8am-12.30pm<br>Mon-Wed & Fri: 2pm-4pm<br>Mon & Wed: 5.30pm-8.30pm<br><br>Weekends/PH:<br>Sat: 8am-12.30pm<br>Sun: 5.30pm-8.30pm<br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">65927080</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2</td>
+    <td><b>True Medical Clinic<br>Tampines West</b><br><br>Blk 824, Tampines St 81,<br>#01-26, Singapore 520824</td>
+    <td>Weekdays: 8am-2pm<br><br>Weekends/PH: 6pm-11pm</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">69090324</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">3</td>
+    <td><b>Raffles Medical<br>Group@Changi Airport<br>Terminal 3 B2</b><br><br>Singapore Changi Airport<br>65 Airport Boulevard, #B2-01,<br>Singapore 819663</td>
+    <td>Weekdays/Weekends/PH: 24h</td>
+    <td style="text-align: center;">Yes<br>0-12 years</td>
+    <td style="text-align: center;">$186</td>
+    <td style="text-align: center;">63111111</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">4</td>
+    <td><b>Temasek Clinic & Surgery</b><br><br>73 Bedok South Ave 3,<br>#01-460, Singapore 460073</td>
+    <td>Weekdays:<br>Mon-Thu:<br>8.45am-2pm<br>6pm-9pm<br>----<br>Fri: 8.45am-2pm<br><br>Weekends/PH:<br>Sat & Sun: 8.45am-12pm<br>PH: Closed</td>
+    <td style="text-align: center;">Yes<br>6-12 years</td>
+    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">64436113</td>
+  </tr>
+</tbody>
+</table>
 
 ##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
-Travellers are advised to be at the clinic at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will not be able to obtain the results in time for departure.
+You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment.
+
+You must be present at least two hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
 
 | Flight departure time | Latest Cut-off Test Timing |
 |-----------------------|-----------------------------------------|
-| 12.00am to 6.59am | 10.00am two calendar days before flight |
-| 7.00am to 9.59am | 1.00pm two calendar days before flight |
-| 10.00am to 11.59am | 3.00pm two calendar days before flight |
-| 12.00pm to 1.59pm | 5.00pm two calendar days before flight |
-| 2.00pm to 4.59pm | 8.00pm two calendar days before flight |
-| 5.00pm to 11.59pm | 9.00am the day before flight |
+| 12:00am to 9:29am | 10.00am two calendar days before flight |
+| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
+| 3.30pm to 11.59pm | 10:00am the day before flight |
 
-*For example, if a traveller’s flight departure time is 12 pm, 20 June, the traveller needs to present at the clinic latest by 5pm, 18 June. As the traveller must take the test within 48 hours before departure, the traveller is advised to be at the clinic between 12pm – 5pm, 18 June.*
+*Example:*
+*If a traveller’s departure flight time for China is 12pm on 20 August, the required test must be done within 48 hours of departure, i.e., the traveller should take the test from 12pm on 18 August onwards, until the cut-off timing at 4pm on 18 August.*
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
-Please refer to the Test Schedule and book your test slot within the indicated timing. This is to ensure that you will have sufficient time to meet the fast lane requirements.
+For fast lane travel to China, the pre-departure PCR test must be done within 48 hours prior to departure.
 
-**[>72 hours to flight]** You may book a test date through:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>Raffles Connect app.</li>
-  <li>Online booking system at <https://www.rafflesmedicalgroup.com/appointment-booking>. Real-time time slots availability is available on the corporate appointment booking webpage.</li>
-  <li>Calling the 24-hour appointment hotline at +65-6311 1222</li>
-  <li>Calling the appointed clinics listed.</li>
-  <li>Email <swabresult@rafflesmedical.com>, stating your flight departure details, your preferred Raffles Medical clinic and your preferred date and time of appointment.</li>
-</ol>
-
-**[72 hours to >48 hours to flight]** Please call the Raffles Medical Group 24-hour appointment hotline at +65-6311 1222.
+Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the fast lane requirements.
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing is confirmed.
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and fast lane requirements are confirmed.
 
 Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the fast lane requirements.
 
 If you do not make a prior appointment, please note that:
+1. There is no guarantee that there will be a test slot for you; and
+2. You may not get your results in time for your flight to qualify for fast lane arrangements.
 
-<ol style="list-style-type: lower-alpha;">
-  <li>There is no guarantee that there will be a test slot for you; and</li>
-  <li>You may not get your results in time for your flight to qualify for fast lane arrangements.</li>
-</ol>
-
-Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight.
+Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
 
 ##### 5. What details will I need to book an appointment for the PCR test?
 
 Please have the following information on hand when making an appointment for your test:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>Identity card number or passport number</li>
-  <li>Departure flight timing</li>
-  <li>Time of your test slot: Please refer to the Test Schedule to confirm your timing.</li>
-  <li>Address in Singapore</li>
-  <li>Contact number</li>
-  <li>Email address</li>
-</ol>
+1. Identity card number or passport number
+2. Departure flight timing
+3. Required test window based on your destination country
+4. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
+5. Address in Singapore
+6. Contact number
+7. Email address
 
 ##### 6. What documents should I bring for my appointment?
 
 Please bring the following:
-
-<ol style="list-style-type: lower-alpha;">
-  <li>Identity card or passport</li>
-  <li>Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane</li>
-  <li>Softcopy booking reference showing your departure flight timing</li>
-</ol>
+1. Identity card or passport
+2. Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane
+3. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
 
