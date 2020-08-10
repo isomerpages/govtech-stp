@@ -4,9 +4,9 @@ permalink: /malaysia/rgl/requirements-and-process
 third_nav_title: Reciprocal Green Lane
 ---
 
-On 14 July 2020, Singapore and Malaysia agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential business and official travel between both countries for up to 14 days.
+On 14 July 2020, Singapore and Malaysia agreed to implement the Reciprocal Green Lane (RGL) to facilitate short-term essential business and official travel between both countries for up to 14 days.
 
-The SafeTravel Pass is a mandatory document for in-bound travelers for essential business and official travel from Malaysia to Singapore via the Singapore-Malaysia RGL.
+The SafeTravel Pass is a mandatory document for in-bound travellers for short-term essential business and official travel from Malaysia to Singapore via the Singapore-Malaysia RGL.
 
 The RGL is only applicable for travel between (i) airports in Singapore and Malaysia which have available non-stop flight routes and (ii) land checkpoints.
 
@@ -44,7 +44,7 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be from the accredited laboratories by the Ministry of Health Malaysia. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test.
 
 Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
-- A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
+- A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore); and
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from the accredited laboratories by the Ministry of Health Malaysia).
 
@@ -56,7 +56,7 @@ Travellers by air who do not produce the documents above at pre-boarding checks 
 
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test at the airport/land checkpoint upon arrival in Singapore. The SafeTravel Pass traveller will bear the costs of the post-arrival COVID-19 PCR test in Singapore.
 
-The applicant must present a valid SafeTravel Pass for the intended week of travel, a valid visa (for visa-required passport holders), the above-mentioned negative COVID-19 PCR test result to arrival immigration. Applicants without these documents will be refused entry under the RGL arrangement. Applicants who meet the prevailing entry requirements will be granted up to 14 days’ stay in Singapore.
+The applicant must present a valid SafeTravel Pass for the intended week of travel, a valid visa (for visa-required passport holders) and the above-mentioned negative COVID-19 PCR test result to arrival immigration. Applicants without these documents will be refused entry into Singapore under the RGL arrangement. Applicants who meet the prevailing entry requirements will be granted up to 14 days’ stay in Singapore.
 
 The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/land checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until a negative test result from the post-arrival COVID-19 PCR test is released. Thereafter, the traveller can proceed on the pre-declared controlled itinerary. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary.
 
