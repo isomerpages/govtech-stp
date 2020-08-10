@@ -101,7 +101,7 @@ The RGL is only for short-term essential business and official travel between Si
 
 #### 14. What health measures must I take in Malaysia before departing for Singapore?
 
-Travellers must remain in Malaysia and have not travelled out of the country for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Malaysia, undergo a pre-departure PCR test in Malaysia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the accredited laboratories <http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf> by the Ministry of Health Malaysia.
+Travellers must remain in Malaysia and have not travelled out of the country for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Malaysia, undergo a pre-departure PCR test in Malaysia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the accredited laboratories by the Ministry of Health Malaysia [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf).
 
 The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia that conduct the COVID-19 test can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
 
@@ -124,9 +124,9 @@ For travellers entering Singapore by land, travellers will make payment at the t
 
 #### 17. What if I test positive for COVID-19 in Singapore?
 
-If tested positive for COVID-19, Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.  Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller.
 
-For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
+Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost.
 
 ### **Health Measures in Singapore**
 
@@ -265,7 +265,9 @@ For more information about the SHN issued by ICA, please refer to <https://www.i
 
 #### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
 
-For Singapore Citizens, Permanent Residents and Long-Term Pass Holders, the prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.
+
+Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Malaysia-issued travel pass which confirms that he/she was granted approval by the relevant authorities to travel to Malaysia under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Malaysia via the RGL.
 
 <div id="annexa"></div>
 
