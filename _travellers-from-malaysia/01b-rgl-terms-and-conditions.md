@@ -72,7 +72,7 @@ third_nav_title: Reciprocal Green Lane
 
 15. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
 
-16. After receiving his/her post-arrival negative COVID-19 PCR test result, the traveller must abide strictly by his/her pre-submitted Controlled Itinerary in Singapore. The Controlled Itinerary of the traveller only allows for travel between work and accommodation, with limited contact with the community.
+16. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance.
 
 17. For the duration of the traveller’s stay in Singapore, the traveller must:
 : a. download and utilise relevant mobile applications and technology solutions, including TraceTogether, to facilitate contact tracing;
