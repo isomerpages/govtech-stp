@@ -83,7 +83,7 @@ For appeals, please contact us at <COVID_SafeTravelAppeals@mti.gov.sg>.
 
 ### **Note**
 
-1. Singapore Citizens/PRs do not need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA. For further information, please write to ICA at <ICA_Feedback@ica.gov.sg>.
+1. Singapore Citizens/PRs do not need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
 2. For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
 
 ### **Infographics on the PCA can be found below:**
