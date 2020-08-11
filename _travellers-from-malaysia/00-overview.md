@@ -11,4 +11,4 @@ The PCA allows Singapore and Malaysia residents, who hold valid work passes in t
 
 Click [here](/malaysia/rgl/requirements-and-process) for more information on the RGL.
 
-Click [here](/malaysia/pca/overview) for more information on the PCA.
+Click [here](/malaysia/pca/requirements-and-process) for more information on the PCA.
