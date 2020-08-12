@@ -8,7 +8,9 @@ third_nav_title: Periodic Commuting Arrangement
 
 The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Singapore Citizens and Permanent Residents (PRs) with valid Malaysia work passes should remain in Malaysia for at least 90 days before returning to Singapore for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore.
 
-For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website at <https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
+For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website [here](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html). For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
+
+For Malaysian citizens and Malaysia n PRs residing in Singapore who wish to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to contact the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
 
 ### **Waiver of Stay-Home Notice when returning to Singapore on Short-Term Home Leave**
 
