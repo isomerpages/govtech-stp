@@ -4,9 +4,16 @@ permalink: /malaysia/pca/requirements-and-process
 third_nav_title: Periodic Commuting Arrangement
 ---
 
-The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore. Work pass holders approved under the PCA scheme will serve at least 7-day Stay-Home Notice (SHN) and undertake a COVID-19 PCR test.
+*This page provides information for Singapore-based companies that wish to apply for their Malaysian employees to enter or re-enter Singapore under the terms of the PCA. For Singapore citizens and Singapore Permanent Residents working in Malaysia, click [here](malaysia/pca/information-sc-pr) for more information on arrangements for returning to Singapore under the PCA.*
 
-Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards.
+### **Attention**
+Singapore Citizens/PRs <b><em>do not</em></b> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
+
+For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
+
+The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Malaysia Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore. Work pass holders approved under the PCA scheme will serve at least 7-day Stay-Home Notice (SHN) and undertake a COVID-19 PCR test.
+
+Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards at <https://safetravel.ica.gov.sg/malaysia/pca/apply-now>.
 
 Singapore Citizens/PRs <u><b>do not</b></u> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice (SHN) requirements after arriving in Singapore. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
 
@@ -15,7 +22,7 @@ For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your ent
 ### **Eligibility**
 
 Employers can apply for the PCA on behalf of their employees using CorpPass if their employees fulfil the following criteria:
-1. Are a Malaysia Citizen / Permanent Resident;
+1. Are a Malaysia Citizen or a Malaysia Permanent Resident;
 2. Hold valid long-term passes* for business and work purposes in Singapore; <u>and</u>
 3. Are willing to spend at least 90 days in Singapore for work upon entry.
 
@@ -31,8 +38,10 @@ Employers are advised to have the following information of each employee on hand
 1. Employee’s FIN;
 2. Expiry Date of Employee’s Work Pass;
 3. Employee’s Intended Date of Entry into Singapore;
-4. Address of Employee’s Accommodation to complete His/Her Stay-Home Notice (SHN)<sup>1</sup>; and
+4. Address of Employee’s Accommodation to complete His/Her Stay-Home Notice (SHN)<sup>*</sup>; and
 5. Details of Contact Person in Company (e.g. Name, Mobile Number, Email Address)
+
+*<u>IMPORTANT:</u> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room. There is no list of pre-approved hotels for SHN. If employees wish to serve their SHN in a hotel, they may do so in a hotel of their choice.
 
 Applications will only be processed after payment for the COVID-19 PCR test has been made. Payment must be made via credit card. An email alert will be sent to the employer through the contact provided if the PCA application for their employee is successful. The employer will also be informed of the details for their employee’s COVID-19 PCR test.
 
@@ -61,7 +70,7 @@ The employee will only be permitted to leave his/her declared place of residence
 
 The employer/contact person in the company will receive an SMS and email indicating the employee’s assigned date and location for the COVID-19 PCR test. It is the  responsibility of the employer/contact person of the company to ensure that the employee goes for the COVID-19 PCR tests. The employee is prohibited from using public buses and trains for this purpose. Only personal transport, company transport, or taxis/private-hire vehicles booked via dedicated hotlines are allowed.
 
-Once the employee has served his/her SHN and tested negative for COVID-19, the employee can commence work. If tested positive for COVID-19, the employee will undergo medical treatment. The prevailing charging policies for COVID-19 treatment in public healthcare institutions will apply.
+Once the employee has served his/her SHN and tested negative for COVID-19, the employee can commence work. If tested positive for COVID-19, the employee will undergo medical treatment. Charges for COVID-19 treatment for Work Pass Holders on permitted travel arrangements will apply. The employee should furnish the relevant supporting documents to indicate his/her status as a PCA traveller, which would allow them to tap on prevailing financial arrangements (e.g. foreign worker insurance) to fund the cost of treatment, if applicable.
 
 The employer/employee will bear the costs of the employee’s accommodation for the SHN and post-arrival COVID-19 PCR test in Singapore, subject to prevailing MOM requirements.
 
@@ -69,7 +78,7 @@ The employer/employee will bear the costs of the employee’s accommodation for 
 
 The employee will be required to abide by prevailing local public health requirements and safe distancing measures throughout his/her entire stay in Singapore.
 
-The employee will be required to act on MOM’s SMS, which will be sent within 1 to 3 days of his/her arrival, asking Him/Her to download the *Homer* mobile application and register his/her mobile number. The employee must have a thermometer to take and report his/her temperature 3 times a day using the Homer app.
+The employee will be required to act on MOM’s SMS, which will be sent within 1 to 3 days of his/her arrival, asking him/her to download the *Homer* mobile application and register his/her mobile number. The employee must have a thermometer to take and report his/her temperature 3 times a day using the Homer app.
 
 The employee will be allowed to use public transportation only after completing their SHN period and having tested negative for COVID-19.
 
@@ -91,7 +100,3 @@ For appeals, please contact us at <COVID_SafeTravelAppeals@mti.gov.sg>.
 - <a href="/pdf/pca-application-process.pdf" target="_blank">Employers’ Guide to the Periodic Commuting Arrangement (PCA) Application Process</a>
 - <a href="/pdf/pca-employers-guide.pdf" target="_blank">Employers’ Guide to the Periodic Commuting Arrangement (PCA) - Responsibilities and Obligations</a>
 - <a href="/pdf/pca-travellers-guide.pdf" target="_blank">Travellers’ Guide to the Periodic Commuting Arrangement (PCA) - Responsibilities and Obligations</a>
-
------
-
-<sup>1</sup> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences. Employees are prohibited from serving their SHN at a dormitory, hostel, or rented room. Cohorting is only allowed up to four pax, provided that the employees arrive in Singapore on the same day and are under the same PCA application. Further details on the prevailing SHN advisory and guidelines can be found at <https://mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-for-foreign-employees>. 
