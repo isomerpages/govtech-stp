@@ -421,7 +421,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td><b>Silver Cross Medical</b><br><br>275A Holland Avenue<br>(Clinic located on 2nd storey),<br>Singapore 278993</td>
     <td>Weekdays/Weekends/PH:<br>8am-10pm</td>
     <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
+    <td style="text-align: center;">$197.95</td>
     <td style="text-align: center;">64622818</td>
   </tr>
   <tr>
