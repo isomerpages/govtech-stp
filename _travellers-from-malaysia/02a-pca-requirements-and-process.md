@@ -26,7 +26,7 @@ Employers can apply for the PCA on behalf of their employees using CorpPass if t
 2. Hold valid long-term passes* for business and work purposes in Singapore; <u>and</u>
 3. Are willing to spend at least 90 days in Singapore for work upon entry.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Long-Term Pass holders eligible for the PCA are holders of the following MOM-issued work passes: (i) Employment Pass; (ii) EntrePass; (iii) Personalised Employment Pass; (iv) S Pass; and (v) Work Permit. The pass should be valid for at least 15 days from the date of entry into Singapore.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Long-Term Pass holders eligible for the PCA are holders of the following MOM-issued work passes: (i) Employment Pass; (ii) EntrePass; (iii) Personalised Employment Pass; (iv) S Pass; and (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</em></p>
 
 ## **Process Overview**
 
@@ -41,7 +41,7 @@ Employers are advised to have the following information of each employee on hand
 4. Address of Employee’s Accommodation to complete His/Her Stay-Home Notice (SHN)<sup>*</sup>; and
 5. Details of Contact Person in Company (e.g. Name, Mobile Number, Email Address)
 
-*<u>IMPORTANT:</u> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room. There is no list of pre-approved hotels for SHN. If employees wish to serve their SHN in a hotel, they may do so in a hotel of their choice.
+<sup>*</sup><u>IMPORTANT:</u> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room. There is no list of pre-approved hotels for SHN. If employees wish to serve their SHN in a hotel, they may do so in a hotel of their choice.
 
 Applications will only be processed after payment for the COVID-19 PCR test has been made. Payment must be made via credit card. An email alert will be sent to the employer through the contact provided if the PCA application for their employee is successful. The employer will also be informed of the details for their employee’s COVID-19 PCR test.
 
@@ -62,7 +62,9 @@ Employees approved under the PCA can commute from Malaysia’s immigration check
 
 #### Post-Arrival Measures
 
-After immigration, employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. The employee should indicate clearly to the driver that they are serving SHN. The employee should not take public trains or buses or flag down a taxi while serving the SHN. Enforcement action may be taken if the employee is found to have not adhered to the transport advisory.
+After immigration, employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN<sup>*</sup>, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. They will need to identify themselves as a person/persons subject to a SHN when making the booking and when boarding the vehicle. When travelling in the taxi or private-hire car, they should sit alone in the back seat (if alone) and could sit together as 3 people in the back seats (family or individuals serving SHN at the same facility), with windows down and the air-conditioning turned off. The employee should not take public trains or buses or flag down a taxi while serving the SHN. Enforcement action may be taken if the employee is found to have not adhered to the transport advisory.
+
+<sup>*</sup><u>IMPORTANT:</u> Malaysian vehicle drivers are to <u><b>return immediately</b></u> to Malaysia after dropping off employees under the PCA scheme at their declared SHN accommodation. We will not hesitate to take disciplinary action against parties who do not comply with the above requirements.
 
 The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19.
 
