@@ -273,17 +273,13 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 
 #### 16. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
 
-From 17 June 2020, 2359 hours, all returnees to Singapore from China will be issued with a 14-day Stay-Home -Notice (SHN) upon entry into Singapore.* They will also be required to undergo a COVID-19 PCR test before the end of their SHN.
+Singapore-based travellers returning from their travel on the Singapore-China Fast Lane may be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
+- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 48 hours prior to their departure from China, and obtain the negative test result prior to departure; and
+- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 
-Returnees who are Singapore Citizens or Permanent Residents may serve their 14-day SHN at their place of residence. Returnees who are Long-Term Pass holders may serve their 14-day SHN at a place of residence that they or their family members own or are sole tenants of; or in suitable accommodations such as a hotel, at their own cost.
+The list of medical institutions designated by the relevant authorities in China for pre-departure COVID-19 testing can be found [here](http://bmfw.www.gov.cn/mhsjcjgcx/index.html).
 
-All persons under SHN must remain in their place of residence at all times. They will be subject to close monitoring of their whereabouts, through electronic monitoring as well as physical spot-checks. Strict enforcement action will be taken against those who breach the requirements of the SHN.
-
-For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
-
-Travellers returning to Singapore from China after their fast lane travel may submit an appeal for COVID-19 PCR test arrangements in place of the SHN to <COVID_STPOappeals@mti.gov.sg>. Each appeal will be considered on a case-by-case basis and should be submitted at least five working days before the traveller’s intended date of return to Singapore.
-
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>For a start, all travellers entering Singapore from 17 June 2020, 2359 hours, and who had remained in Brunei Darussalam, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry, will no longer have to serve their SHN at dedicated SHN facilities.</em></p>
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
 ##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
 
@@ -344,14 +340,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
-    <td>Weekdays/Weekends/PH:<br>8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62448324</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
     <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
     <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
@@ -385,14 +373,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
-    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">68516233</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
     <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
     <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
@@ -496,14 +476,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td style="text-align: center;">Yes<br>0-12 years</td>
     <td style="text-align: center;">$186</td>
     <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>BL Medical Associates</b><br><br>2 Science Park Drive,<br>Ascent #01-10,<br>Singapore 118222</td>
-    <td>Weekdays: 9.30am-4.10pm<br><br>Weekends/PH:<br>Sat: 9.30am-12pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62651052</td>
   </tr>
 </tbody>
 </table>
