@@ -213,7 +213,7 @@ The list of clinics that can perform pre-departure COVID-19 PCR tests and detail
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
 
-The traveller must obtain a MyTravelPass approval letter issued by the Malaysian government which confirms that he/she has been granted approval by the Malaysian authorities to travel to Malaysia under the Singapore-Malaysia RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 PCR test. This letter must be presented at the clinic before the test can be administered.
+The traveller must present at the clinic, a copy of the Malaysia-issued travel pass which confirms that he/she was granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL, before the swab test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -259,9 +259,13 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 #### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Travellers will be subject to the prevailing health policy for incoming travellers into Singapore.
+Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane may be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
+- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Malaysia, and obtain the negative test result prior to departure; and
+- Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 
-For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+The list of accredited laboratories by the Ministry of Health Malaysia can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf). The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
+
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
 #### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
 
