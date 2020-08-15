@@ -213,7 +213,7 @@ The list of clinics that can perform pre-departure COVID-19 PCR tests and detail
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
 
-The traveller must obtain a MyTravelPass approval letter issued by the Malaysian government which confirms that he/she has been granted approval by the Malaysian authorities to travel to Malaysia under the Singapore-Malaysia RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 PCR test. This letter must be presented at the clinic before the test can be administered.
+The traveller must present at the clinic, a copy of the Malaysia-issued travel pass which confirms that he/she was granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL, before the swab test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -259,9 +259,13 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 #### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Travellers will be subject to the prevailing health policy for incoming travellers into Singapore.
+Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane may be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
+- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Malaysia, and obtain the negative test result prior to departure; and
+- Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 
-For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+The list of accredited laboratories by the Ministry of Health Malaysia can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf). The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
+
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
 #### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
 
@@ -307,14 +311,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
-    <td>Weekdays/Weekends/PH:<br>8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62448324</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
     <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
     <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
@@ -348,14 +344,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
-    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">68516233</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
     <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
     <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
@@ -460,14 +448,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td style="text-align: center;">$186</td>
     <td style="text-align: center;">63111111</td>
   </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>BL Medical Associates</b><br><br>2 Science Park Drive,<br>Ascent #01-10,<br>Singapore 118222</td>
-    <td>Weekdays: 9.30am-4.10pm<br><br>Weekends/PH:<br>Sat: 9.30am-12pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62651052</td>
-  </tr>
 </tbody>
 </table>
 
@@ -567,7 +547,7 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport
-2. MyTravelPass
+2. PDF copy of the Malaysia-issued travel pass which confirms that you are granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL
 3. Softcopy showing your departure flight timing
 
 ##### Testing

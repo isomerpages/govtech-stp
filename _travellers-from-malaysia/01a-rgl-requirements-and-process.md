@@ -39,7 +39,7 @@ The approved applicant will have to electronically submit pre-trip health and tr
 #### Pre-Departure Measures
 
 Prior to travelling to Singapore, approved SafeTravel Pass travellers are required to:
-- Monitor their health status before departure;
+- Monitor their health status and refrain from travelling to Singapore if feeling unwell;
 - Have not travelled out of Malaysia in the entirety of the 14 days prior to departure; 
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be from the accredited laboratories by the Ministry of Health Malaysia. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test.
 
