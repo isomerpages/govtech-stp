@@ -311,14 +311,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Parkway Shenton Medical Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
-    <td>Weekdays/Weekends/PH:<br>8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62448324</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
     <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
     <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
@@ -352,14 +344,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   </tr>
   <tr>
     <td style="text-align: center;">2</td>
-    <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
-    <td>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu:<br>6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">68516233</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
     <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
     <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>6-12 years</td>
@@ -464,14 +448,6 @@ Please call the clinic to make an appointment and verify your eligibility to be 
     <td style="text-align: center;">$186</td>
     <td style="text-align: center;">63111111</td>
   </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>BL Medical Associates</b><br><br>2 Science Park Drive,<br>Ascent #01-10,<br>Singapore 118222</td>
-    <td>Weekdays: 9.30am-4.10pm<br><br>Weekends/PH:<br>Sat: 9.30am-12pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62651052</td>
-  </tr>
 </tbody>
 </table>
 
@@ -571,7 +547,7 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport
-2. MyTravelPass
+2. PDF copy of the Malaysia-issued travel pass which confirms that you are granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL
 3. Softcopy showing your departure flight timing
 
 ##### Testing
