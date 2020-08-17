@@ -4,7 +4,7 @@ permalink: /malaysia/pca/requirements-and-process
 third_nav_title: Periodic Commuting Arrangement
 ---
 
-*This page provides information for Singapore-based companies that wish to apply for their Malaysian employees to enter or re-enter Singapore under the terms of the PCA. For Singapore citizens and Singapore Permanent Residents working in Malaysia, click [here](malaysia/pca/information-sc-pr) for more information on arrangements for returning to Singapore under the PCA.*
+*This page provides information for Singapore-based companies that wish to apply for their Malaysian employees to enter or re-enter Singapore under the terms of the PCA. For Singapore citizens and Singapore Permanent Residents working in Malaysia, click [here](/malaysia/pca/information-sc-pr) for more information on arrangements for returning to Singapore under the PCA.*
 
 ### **Attention**
 Singapore Citizens/PRs <b><u>do not</u></b> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
