@@ -108,27 +108,33 @@ The employee must present a valid passport and work pass at the Singapore checkp
 
 #### 21. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR test?
 
-No. Please make sure that your employee is able to enter on the date indicated in the application.
+No. Please make sure that your employee is able to enter on the date indicated in the application. You may not amend a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
+
+#### 22. Can I cancel my PCA application and resubmit a new PCA application if there is a mistake?
+
+No. You may not cancel a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. Please ensure all information in the PCA application is correct.
+
+If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
 
 ### **SHN Measures**
 
-#### 22. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
+#### 23. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
 
 Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).
 
-#### 23. Is cohorting allowed for Stay-Home-Notice (SHN)?
+#### 24. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
 Yes. Cohorting is allowed for up to four pax, provided that the employees arrive in Singapore on the same day.
 
-#### 24. Where can my employees serve their Stay-Home Notice (SHN)?
+#### 25. Where can my employees serve their Stay-Home Notice (SHN)?
 
 Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room.
 
-#### 25. May I serve my Stay-Home Notice (SHN) at a family member or relatives’ house?
+#### 26. May I serve my Stay-Home Notice (SHN) at a family member or relatives’ house?
 
 Your SHN place of residence must fulfil the prevailing SHN advisory and guidelines. To curb community spread, you are allowed to serve your SHN only in premises occupied by immediate family members (i.e. parents, siblings, spouse and children). You may refer to MOH’s website (<http://www.moh.gov.sg/covid-19>) for the latest updates.
 
-#### 26. What are the accommodation arrangements for Stay-Home Notice (SHN)? Will the Government be paying for the hotel/accommodation for SHN? Is there a list of pre-approved hotels?
+#### 27. What are the accommodation arrangements for Stay-Home Notice (SHN)? Will the Government be paying for the hotel/accommodation for SHN? Is there a list of pre-approved hotels?
 
 The Singapore Government will not arrange or bear the costs of an employee’s accommodation for the SHN. The employer/employee is expected to arrange and bear the costs of the employee’s accommodation for the SHN.
 
@@ -136,21 +142,21 @@ There is no list of pre-approved hotels for SHN. If you wish to serve your SHN i
 
 ### **Health Measures**
 
-#### 27. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
+#### 28. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
 
 For more information on the SHN guidelines in Singapore, you may refer to <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>.
 
 ### **Testing Arrangements**
 
-#### 28. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
+#### 29. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
 The employee is expected to strictly adhere to his/her appointment timing for his/her COVID-19 PCR test. It will be a breach of the Infectious Disease Act if he/she does not undergo the COVID-19 PCR test. Please note that the employee can only exit his/her SHN if the test result is negative.
 
-#### 29. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
+#### 30. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
 
 Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.
 
-#### 30. What COVID-19 tests will my employee be subject to upon arrival in Singapore? How will I and/or my employee be informed of his/her COVID-19 test result?
+#### 31. What COVID-19 tests will my employee be subject to upon arrival in Singapore? How will I and/or my employee be informed of his/her COVID-19 test result?
 
 The employee under the PCA is required to undergo a COVID-19 PCR test on the assigned date of swabbing before the end of his/her SHN period. The point of contact provided by the employer will receive an email and SMS message indicating their employee’s test date and designated test site for the PCR test.
 
@@ -158,7 +164,7 @@ The employer will be informed of the employee’s COVID-19 PCR test result.
 
 In the event that the employee’s result is inconclusive, he/she will be required to take another COVID-19 PCR test. The employer will be informed of their employee’s new test date and designated test site.
 
-#### 31. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her COVID-19 PCR test?
+#### 32. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her COVID-19 PCR test?
 
 No. The employee should not take public transport (buses and trains) for any purpose during their SHN period, including travelling to/from his/her declared place of residence for SHN and the designated test site for his/her COVID-19 PCR test.
 
@@ -169,7 +175,7 @@ The employee may <u>only</u> take the following modes of transport:
 
 The employee is also required to travel <u>directly</u> from the declared SHN place of residence to the designated test site, and back to the declared SHN place of residence from the test site, without stopping at any other destination along the journey.
 
-#### 32. Can my employee hail a taxi from the street while travelling in Singapore during the SHN period?
+#### 33. Can my employee hail a taxi from the street while travelling in Singapore during the SHN period?
 
 No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
 
@@ -183,13 +189,13 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 6 | HDT | 9832 2428 |
 | 7 | Grab, Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
-#### 33. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
+#### 34. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
 
 If your employee develops onset of symptoms of COVID-19 <u>within 14 days</u> of their return to Singapore, the employer/employee will bear the costs of the medical treatment, subject to [MOM’s requirements](https://mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits). Employees may tap on prevailing financing arrangements (e.g. foreign worker insurance) to fund the costs of their medical treatment.
 
 If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of their return, the costs of their medical treatment will be borne by the Singapore Government.
 
-#### 34. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
+#### 35. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
 
 Singapore Citizens/PRs and LTPHs who return to Singapore <b><u>under a permitted arrangement</u></b> (e.g. returning Singaporeans on home leave under the PCA) will be eligible for Government subsidies and Medishield Life and Integrated Shield Plan (MSHL/IP) coverage.
 
@@ -236,6 +242,6 @@ If you develop onset of symptoms of COVID-19 <u>after 14 days of your</u> arriva
 
 ### **Returning to Malaysia**
 
-#### 35. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
+#### 36. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
 
 Should your employee need to return to Malaysia before the end of the 3 months (i.e. 90 days) stay, please note that you will only be able to apply for another PCA on behalf of the same employee for re-entry into Singapore 90 days after his/her date of prior entry.
