@@ -187,7 +187,7 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 4 | Prime | 6776 7553 |
 | 5 | Premier | 6681 9462 |
 | 6 | HDT | 9832 2428 |
-| 7 | Grab, Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
+| 7 | Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
 #### 34. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
 
