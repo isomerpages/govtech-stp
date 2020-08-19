@@ -41,7 +41,7 @@ Employers are advised to have the following information of each employee on hand
 4. Address of Employee’s Accommodation to complete His/Her Stay-Home Notice (SHN)<sup>*</sup>; and
 5. Details of Contact Person in Company (e.g. Name, Mobile Number, Email Address)
 
-<sup>*</sup><u>IMPORTANT:</u> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room. There is no list of pre-approved hotels for SHN. If employees wish to serve their SHN in a hotel, they may do so in a hotel of their choice.
+<sup>*</sup><u>IMPORTANT:</u> Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room. There is no list of pre-approved hotels for SHN. If employees wish to serve their SHN in a hotel, they may do so in a hotel of their choice. Please indicate to the properties you approach that you/your employee will be serving SHN.
 
 Applications will only be processed after payment for the COVID-19 PCR test has been made. Payment must be made via credit card. An email alert will be sent to the employer through the contact provided if the PCA application for their employee is successful. The employer will also be informed of the details for their employee’s COVID-19 PCR test.
 
@@ -55,6 +55,7 @@ Prior to arrival at the immigration checkpoints, employees approved under the PC
 - Ensure that they complete the electronic Health Declaration Card (eHDC) at <https://eservices.ica.gov.sg/sgarrivalcard>;
 - Ensure that they download the *TraceTogether, Homer* and *WhatsApp* mobile applications on their mobile phone; and
 - Bring along their passport and work pass when entering Singapore.
+- Please ensure that your employee has a copy (electronic or hardcopy) of the PCA approval letter, which may be required as proof during immigration clearance at Malaysia's checkpoint.
 
 Employees approved under the PCA can commute from Malaysia’s immigration checkpoint to Singapore via personal transport, via private buses that only ferry Malaysian passengers who will be serving SHN, or by foot. Do note that all prevailing Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for personal transport modes. More details of such fees can be found at: <https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html>.
 
