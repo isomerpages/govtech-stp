@@ -26,9 +26,9 @@ collections:
   travellers-from-malaysia:
     output: true
   travellers-from-country-a:
-    output: true
+    output: false
   travellers-from-country-b:
-    output: true
+    output: false
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
