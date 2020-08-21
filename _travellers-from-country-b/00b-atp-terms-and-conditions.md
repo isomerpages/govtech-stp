@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-permalink: /countrya/atp/terms-and-conditions
+permalink: /countryb/atp/terms-and-conditions
 third_nav_title: Air Travel Pass
 ---
 
