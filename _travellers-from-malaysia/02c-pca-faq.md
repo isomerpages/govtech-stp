@@ -100,55 +100,78 @@ No. Please get your employer to apply for an [entry approval with MOM](http://ww
 
 No. Please apply for an [entry approval with MOM](http://www.mom.gov.sg/covid-19/advisory-to-fdws-and-employers).
 
+#### 20. I did not receive any approval email after completing payment.
+
+If you do not receive the approval email within a few minutes of completing payment, please check your spam or junk folder for an email from SafeTravelOffice (<SafeTravelOffice@ica.gov.sg>). Please also ensure you are checking the mailbox of the contact person of the Sponsoring Organisation. This should be the email address which received the OTP during the email verification process of your PCA application.
+
+If the problem persists, please email <COVID_SafeTravelAppeals@mti.gov.sg> with the following information:
+- PCA application ID;
+- Email of the Sponsoring Organisation’s contact person;
+- Screenshot of your application status or payment invoice;
+- FIN and FIN expiry number of your employee (s);
+- Your phone number for follow-up.
+
+Please note we will only be able to resend the approval email to the email address of the Sponsoring Organisation's contact person that was keyed in during the application process. We will not entertain any request to resend the approval email to a different email address.
+
+#### 21. The system indicated that I have keyed in an invalid FIN number.
+
+Please ensure that your employees are holders of one of the following MOM-issued work passes: (i) Employment Pass; (ii) EntrePass; (iii) Personalised Employment Pass; (iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should also be valid for at least 15 days from the date of entry into Singapore.
+
+For the best user experience, we recommend that you use Google Chrome (version 84 or later) on a desktop or laptop computer to access the PCA application. If the error persists, please email <COVID_SafeTravelAppeals@mti.gov.sg> the FIN and FIN expiry dates of the workers you intend to bring in to Singapore under the PCA.
+
+#### 22. I am unable to complete my application. An error message keeps popping up before I can complete the application.
+
+For the best user experience, we recommend that you use Google Chrome (version 84 or later) on a desktop or laptop computer to access the PCA application. If the problem persist please email <COVID_SafeTravelAppeals@mti.gov.sg> a screenshot of the error message with contact details for follow up.
+
 ### **Pre-Arrival in Singapore**
 
-#### 20. What documentation does my employee who has been approved to enter Singapore under the PCA need to present to the immigration staff in Singapore before he/she will be allowed entry?
+#### 23. What documentation does my employee who has been approved to enter Singapore under the PCA need to present to the immigration staff in Singapore before he/she will be allowed entry?
 
 Please ensure that your employee has a copy (digital or hardcopy) of the PCA approval letter, which may be required as proof during immigration clearance at Malaysia's checkpoint. The employee must present a valid passport and work pass at the Singapore checkpoint, otherwise he/she will be turned away.
 
-#### 21. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR test?
+#### 24. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR test?
 
 No. Please make sure that your employee is able to enter on the date indicated in the application. You may not amend a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
 
-#### 22. Can I cancel my PCA application and resubmit a new PCA application if there is a mistake?
+#### 25. Can I cancel my PCA application and resubmit a new PCA application if there is a mistake?
 
 No. You may not cancel a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. Please ensure all information in the PCA application is correct.
 
 If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
 
-#### 23. Can I obtain a copy of the COVID-19 PCR test payment receipt?
+#### 26. Can I obtain a copy of the COVID-19 PCR test payment receipt?
 
 The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-out window. As per the instructions during the payment process, the pop-out blocker needs to be turned off for this. If you have missed this, we regret to inform you that we are unable to generate a new receipt.  
 
-#### 24. I have keyed in the wrong contact details in the electronic Health Declaration Form (eHDC) and would like to update/amend my contact details.
+#### 27. I have keyed in the wrong contact details in the electronic Health Declaration Form (eHDC) and would like to update/amend my contact details.
 
 If you would like to update your contact details provided in the eHDC, you are required to do both of the following:
 1. Email <COVID_SafeTravelEnquiries@mti.gov.sg> with your employee’s name and FIN, as well as your employee’s updated Singapore mobile number and/or address.
 2. Your employee is also required to update their contact details here (<https://mom.gov.sg/feedbackshn>).
 
-#### 25. I am unable to input my contact details into the Homer app.
+#### 28. I am unable to input my contact details into the Homer app.
 
 Please refer to <https://mom.gov.sg/feedbackshn> if you are encountering technical issues with the Homer app.
 
 ### **SHN Measures**
 
-#### 26. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
+#### 29. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
 
 Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).
 
-#### 27. Is cohorting allowed for Stay-Home-Notice (SHN)?
+#### 30. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
 Yes. Cohorting is allowed for up to four pax, provided that the employees arrive in Singapore on the same day.
 
-#### 28. Where can my employees serve their Stay-Home Notice (SHN)?
+#### 31. Where can my employees serve their Stay-Home Notice (SHN)?
 
 Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room.
 
-#### 29. May I serve my Stay-Home Notice (SHN) at a family member or relatives’ house?
+#### 32. May I serve my Stay-Home Notice (SHN) at a family member or relatives’ house?
 
 Your SHN place of residence must fulfil the prevailing SHN advisory and guidelines. To curb community spread, you are allowed to serve your SHN only in premises occupied by immediate family members (i.e. parents, siblings, spouse and children). You may refer to MOH’s website (<http://www.moh.gov.sg/covid-19>) for the latest updates.
 
-#### 30. What are the accommodation arrangements for Stay-Home Notice (SHN)? Will the Government be paying for the hotel/accommodation for SHN? Is there a list of pre-approved hotels?
+#### 33. What are the accommodation arrangements for Stay-Home Notice (SHN)? Will the Government be paying for the hotel/accommodation for SHN? Is there a list of pre-approved hotels?
 
 The Singapore Government will not arrange or bear the costs of an employee’s accommodation for the SHN. The employer/employee is expected to arrange and bear the costs of the employee’s accommodation for the SHN.
 
@@ -156,31 +179,31 @@ There is no list of pre-approved hotels for SHN. If you wish to serve your SHN i
 
 ### **Health Measures**
 
-#### 31. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
+#### 34. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
 
 For more information on the SHN guidelines in Singapore, you may refer to <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>.
 
 ### **Testing Arrangements**
 
-#### 32. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
+#### 35. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
 
-Your employee is required to undergo a COVID-19 PCR test on the 5th day of his/her SHN period. An SMS message and email notification will be sent to the point of contact provided by the employer by the 3rd day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
+Your employee is required to undergo a COVID-19 PCR test on the 5th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 3rd day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
-#### 33. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
+#### 36. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
 The employee is expected to strictly adhere to his/her appointment timing for his/her COVID-19 PCR test. It will be a breach of the Infectious Disease Act if he/she does not undergo the COVID-19 PCR test. Please note that the employee can only exit his/her SHN if the test result is negative.
 
-#### 34. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
+#### 37. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
 
 Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.
 
-#### 35. What COVID-19 tests will my employee be subject to upon arrival in Singapore? How will I and/or my employee be informed of his/her COVID-19 test result?
+#### 38. What COVID-19 tests will my employee be subject to upon arrival in Singapore? How will I and/or my employee be informed of his/her COVID-19 test result?
 
 The employee under the PCA is required to undergo a COVID-19 PCR test on the assigned date of swabbing before the end of his/her SHN period. The point of contact provided by the employer will receive an email and SMS message indicating their employee’s test date, time of test and designated test site for the COVID-19 PCR test.
 
 COVID-19 PCR test results will be sent to employers within 2 days of the test. Should there be a need for a second test, employers will be informed. While awaiting test results, individuals should continue to observe the SHN period in his/her declared SHN residence.
 
-#### 36. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her COVID-19 PCR test?
+#### 39. Can my employee take public transport to travel from the declared SHN accommodation to the designated test site for his/her COVID-19 PCR test?
 
 No. The employee should not take public transport (buses and trains) for any purpose during their SHN period, including travelling to/from his/her declared place of residence for SHN and the designated test site for his/her COVID-19 PCR test.
 
@@ -191,7 +214,7 @@ The employee may <u>only</u> take the following modes of transport:
 
 The employee is also required to travel <u>directly</u> from the declared SHN place of residence to the designated test site, and back to the declared SHN place of residence from the test site, without stopping at any other destination along the journey.
 
-#### 37. Can my employee hail a taxi from the street while travelling in Singapore during the SHN period?
+#### 40. Can my employee hail a taxi from the street while travelling in Singapore during the SHN period?
 
 No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
 
@@ -205,13 +228,13 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 6 | HDT | 9832 2428 |
 | 7 | Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
 
-#### 38. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
+#### 41. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
 
 If your employee develops onset of symptoms of COVID-19 <u>within 14 days</u> of their return to Singapore, the employer/employee will bear the costs of the medical treatment, subject to [MOM’s requirements](https://mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits). Employees may tap on prevailing financing arrangements (e.g. foreign worker insurance) to fund the costs of their medical treatment.
 
 If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of their return, the costs of their medical treatment will be borne by the Singapore Government.
 
-#### 39. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
+#### 42. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
 
 Singapore Citizens/PRs and LTPHs who return to Singapore <b><u>under a permitted arrangement</u></b> (e.g. returning Singaporeans on home leave under the PCA) will be eligible for Government subsidies and Medishield Life and Integrated Shield Plan (MSHL/IP) coverage.
 
@@ -258,12 +281,12 @@ If you develop onset of symptoms of COVID-19 <u>after 14 days of your</u> arriva
 
 ### **Returning to Malaysia**
 
-#### 40. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
+#### 43. What do I do if my employee needs to return to Malaysia before the 3-months (i.e. 90 days) stay is up?
 
 Should your employee need to return to Malaysia before the end of the 3 months (i.e. 90 days) stay, please note that you will only be able to apply for another PCA on behalf of the same employee for re-entry into Singapore 90 days after his/her date of prior entry.
 
 ### **For Feedback/Enquiries**
 
-#### 41. Who should I contact should I have any feedback or queries?
+#### 44. Who should I contact should I have any feedback or queries?
 
 You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>. We will endeavour to reply you within 3-5 working days.
