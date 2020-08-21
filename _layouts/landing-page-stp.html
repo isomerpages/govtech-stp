@@ -36,7 +36,7 @@ layout: skeleton
   }
 </style>
 
-{%- assign site.notification = notification | strip -%}
+{%- assign notification = site.notification | strip -%}
 {%- if notification != "" -%}
 <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
   <div class="bp-container">
