@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: The system will be undergoing scheduled maintenance and will not be available on 23 Aug 2020, from 12am to 8am. Please try again later.
+notification: 
 
 # Site colors
 colors:
