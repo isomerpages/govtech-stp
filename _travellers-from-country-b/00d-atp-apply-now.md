@@ -4,7 +4,7 @@ permalink: /countryb/atp/apply-now
 third_nav_title: Air Travel Pass
 ---
 
-<table>
+<table style="width:50%;">
   <thead>
     <tr>
       <th>Apply for Air Travel Pass (ATP)</th>
