@@ -36,6 +36,7 @@ layout: skeleton
   }
 </style>
 
+{%- assign site.notification = content | strip_html | strip -%}
 {%- if site.notification != "" -%}
 <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
   <div class="bp-container">
@@ -43,7 +44,7 @@ layout: skeleton
       <div class="col">
         <div class="field has-addons bp-notification-flex">
           <div class="control has-text-centered has-text-white">
-            {{site.notification}}
+            {{content}}
           </div>
           <div class="control">
             <a id="cancel-notification" class="button has-text-white">
