@@ -1,6 +1,7 @@
 ---
 layout: skeleton
 ---
+
 <style>
   .bg-hero {
     background: url('{{site.baseurl}}/images/hero-banner-stp.svg') no-repeat center 230px; 
@@ -35,13 +36,15 @@ layout: skeleton
   }
 </style>
 
+{%- assign notification = site.notification | strip -%}
+{%- if notification != "" -%}
 <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
   <div class="bp-container">
     <div class="row">
       <div class="col">
         <div class="field has-addons bp-notification-flex">
           <div class="control has-text-centered has-text-white">
-            The system will be undergoing scheduled maintenance and will not be available on 23 Aug 2020, from 12am to 8am. Please try again later.
+            {{- notification -}}
           </div>
           <div class="control">
             <a id="cancel-notification" class="button has-text-white">
@@ -53,6 +56,7 @@ layout: skeleton
     </div>
   </div>
 </div>
+{%- endif -%}
 
 <section class="bp-hero bg-hero">
   <div class="bp-hero-body">
