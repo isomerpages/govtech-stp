@@ -1,5 +1,6 @@
 ---
 layout: skeleton
+notification:
 ---
 <style>
   .bg-hero {
@@ -35,6 +36,7 @@ layout: skeleton
   }
 </style>
 
+{%- if notification_content != "" -%}
 <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
   <div class="bp-container">
     <div class="row">
@@ -53,6 +55,7 @@ layout: skeleton
     </div>
   </div>
 </div>
+{%- endif -%}
 
 <section class="bp-hero bg-hero">
   <div class="bp-hero-body">
