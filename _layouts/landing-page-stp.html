@@ -1,6 +1,6 @@
 ---
 layout: skeleton
-notification:
+notification: 
 ---
 <style>
   .bg-hero {
@@ -36,7 +36,8 @@ notification:
   }
 </style>
 
-{%- if notification != "" -%}
+{%- assign notification_content = content | strip_html | strip -%}
+{%- if notification_content != "" -%}
 <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
   <div class="bp-container">
     <div class="row">
