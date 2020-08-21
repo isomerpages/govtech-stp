@@ -15,7 +15,7 @@ third_nav_title: Air Travel Pass
       <td><a href="https://go.gov.sg/stg-atp">https://go.gov.sg/stg-atp</a></td>
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/stg-atp"><img src="/images/qr-pcamsia.png" alt="https://go.gov.sg/stg-atp" title="https://go.gov.sg/stg-atp"></a></td>
+      <td><a href="https://go.gov.sg/stg-atp"><img src="/images/qr-atp.png" alt="https://go.gov.sg/stg-atp" title="https://go.gov.sg/stg-atp"></a></td>
     </tr>
   </tbody>
 </table>
