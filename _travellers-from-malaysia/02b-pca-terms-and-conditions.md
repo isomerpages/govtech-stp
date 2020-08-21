@@ -14,7 +14,6 @@ third_nav_title: Periodic Commuting Arrangement
 2. If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in Annexes A and B will be imposed on:
 : a. the Employer of the foreign employee; and
 : b. the foreign employee
-
 by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
 
 3. The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.
