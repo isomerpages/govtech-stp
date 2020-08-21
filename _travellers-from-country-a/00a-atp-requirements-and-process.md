@@ -34,7 +34,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### Visa Requirements
 
-Once the Air Travel Pass approval letter has been issued, visitors who are visa-required passport holders must separately obtain a visa for entry into Singapore. If the visitor already has an existing visa, the visa suspension is lifted when the Air Travel Pass is approved and there is no need to apply for a new visa. Visitors who were not required to obtain a visa for entry prior to the COVID-19 pandemic do not have to obtain a visa. Please refer [here](https://www.google.com) for information on visa requirements.
+Once the Air Travel Pass approval letter has been issued, visitors who are visa-required passport holders must separately obtain a visa for entry into Singapore. If the visitor already has an existing visa, the visa suspension is lifted when the Air Travel Pass is approved and there is no need to apply for a new visa. Visitors who were not required to obtain a visa for entry prior to the COVID-19 pandemic do not have to obtain a visa. Please refer [here](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements.
 
 Visitors with an Air Travel Pass will still be subject to the prevailing requirements of the Immigration & Checkpoints Authority (ICA) for entry to Singapore.
 
@@ -43,11 +43,11 @@ Visitors with an Air Travel Pass will still be subject to the prevailing require
 Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - Remain in his/her country of departure for 14 consecutive days before departing for Singapore
 - Monitor his/her health status before departure
-- [Register and pre-pay](https://www.google.com) for a COVID-19 polymerase chain reaction (PCR) test to be taken upon arrival in Singapore
+- [Register and pre-pay](https://safetravel.changiairport.com/#/purchase) for a COVID-19 polymerase chain reaction (PCR) test to be taken upon arrival in Singapore
 - Book an accommodation to serve out his/her isolation period while waiting for his/her COVID-19 PCR test result; the accommodation must be non-residential, with an individual room and attached toilet
 - Obtain insurance to cover any cost should he/she require medical treatment  COVID-19 while in Singapore; those who have no insurance or insufficient coverage will have to bear the full cost of medical treatment at their own expense.
-- [Download](https://www.google.com) the TraceTogether app on his/her mobile device. Those under the age of 12 and travelling with family are exempted from this requirement.
-- Submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://www.google.com), no earlier than three days prior to your date of arrival in Singapore.
+- [Download](https://tracetogether.gov.sg/) the TraceTogether app on his/her mobile device. Those under the age of 12 and travelling with family are exempted from this requirement.
+- Submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to your date of arrival in Singapore.
 
 When checking in at the departure airport, the visitor must present to airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the intended week of entry into Singapore;
