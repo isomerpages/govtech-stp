@@ -7,5 +7,9 @@ links:
         url: /china/rgl/requirements-and-process
       - title: Travellers from Malaysia
         url: /malaysia/overview
+      - title: Travellers from Country A
+        url: /countrya/atp/requirements-and-process
+      - title: Travellers from Country B
+        url: /countryb/atp/requirements-and-process
   - title: Contact Us
     url: /contact-us
