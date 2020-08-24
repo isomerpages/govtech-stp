@@ -41,7 +41,7 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - Monitor his/her health status before departure.
 - Book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential, with an individual room and attached toilet.
 - Check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>.
-	Submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), up to three days prior to his/her date of arrival in Singapore.
+- Submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), up to three days prior to his/her date of arrival in Singapore.
 
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/purchase) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
 
