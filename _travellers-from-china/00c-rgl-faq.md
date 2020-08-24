@@ -118,7 +118,7 @@ The fast lane is only for short-term essential business and official travel, and
 
 The fast lane is only for short-term essential business and official travel, and not for long-term study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders> for more information.
 
-#### 19.Can I use the fast lane to transit through Singapore?
+#### 19. Can I use the fast lane to transit through Singapore?
 
 The fast lane is only for short-term essential business and official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), and not for transit through Singapore.
 
