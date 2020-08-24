@@ -36,7 +36,7 @@ third_nav_title: Singapore-China Fast Lane
 
 #### General
 
-1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
+1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with. The burden of proving compliance with these terms and conditions, including adherence to the controlled itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include retention of screenshots of SafeEntry passes and prompt answering of phonecalls or text messages to verify the traveller’s location.
 
 2. Any Visit Pass issued to a traveller holding the SafeTravel Pass is also subject to these terms and conditions. Non-compliance with any of these terms and conditions may result in the traveller having his/her Visit Pass cancelled and being refused entry.
 
@@ -81,7 +81,7 @@ third_nav_title: Singapore-China Fast Lane
 16. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance.
 
 17. For the duration of the traveller’s stay in Singapore, the traveller must:
-: a. download and utilise relevant mobile applications and technology solutions, including TraceTogether, to facilitate contact tracing;
+: a. download and utilise relevant mobile applications and technology solutions, including TraceTogether and SafeEntry, to facilitate contact tracing;
 : b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
@@ -109,7 +109,7 @@ third_nav_title: Singapore-China Fast Lane
 
 4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
 
-5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
+5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app and SafeEntry during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
 
 6. Where the Host had provided a TraceTogether-compatible device to the traveller, it shall ensure that the TraceTogether app remains installed in the device, and all TraceTogether data is retained, for at least 14 days after the departure of the traveller.
 
@@ -121,4 +121,4 @@ third_nav_title: Singapore-China Fast Lane
 
 ----
 
-<sup>1</sup> The Terms and Conditions in this document are specific to the People’s Republic of China. Green/Fast Lanes are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary among the countries/regions.
+<sup>1</sup> The Terms and Conditions in this document are specific to the Singapore-China Fast Lane. Green/Fast Lanes are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions.
