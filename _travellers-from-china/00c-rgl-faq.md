@@ -100,10 +100,9 @@ The host company should be responsible for monitoring and reporting any deviatio
 #### 15. Why was my application rejected and what can I do?
 
 SafeTravel Pass applications may be rejected for reasons, including the following:
-
-: a. The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
-: b. Application filed out of permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
-: c. Inadequate information provided.
+1. The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
+2. Application filed out of permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
+3. Inadequate information provided.
 
 #### 16. I have submitted the necessary supporting documents prior to my departure from China to Singapore. Why did I receive a notification that the submission was unsuccessful?
 
@@ -146,11 +145,10 @@ The list of medical institutions designated by the relevant authorities in China
 #### 23. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from China to Singapore?
 
 The traveller is required to produce the following documents for pre-boarding checks:
-
-: a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
-: b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-: c. A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and
-: d. A return air ticket or proof of other transportation arrangements to depart Singapore.
+1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
+2. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
+3. A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and
+4. A return air ticket or proof of other transportation arrangements to depart Singapore.
 
 Otherwise, the traveller may be refused boarding.
 
