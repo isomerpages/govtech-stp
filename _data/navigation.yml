@@ -3,9 +3,13 @@ logo: /images/logo-stp.png
 links:
   - title: Get Started
     sublinks:
+      - title: Travellers from Brunei
+        url: /brunei/atp/requirements-and-process
       - title: Travellers from China
         url: /china/rgl/requirements-and-process
       - title: Travellers from Malaysia
         url: /malaysia/overview
+      - title: Travellers from New Zealand
+        url: /newzealand/atp/requirements-and-process
   - title: Contact Us
     url: /contact-us
