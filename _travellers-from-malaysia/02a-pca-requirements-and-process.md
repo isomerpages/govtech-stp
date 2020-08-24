@@ -67,7 +67,7 @@ After immigration, employees will have to take their personal transport (e.g. mo
 
 <sup>*</sup><u>IMPORTANT:</u> Malaysian bus drivers are to <u><b>return immediately</b></u> to Malaysia after dropping off employees under the PCA scheme at their declared SHN accommodation. We will not hesitate to take disciplinary action against parties who do not comply with the above requirements.
 
-The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19.
+The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19, whichever is later.
 
 The employee will only be permitted to leave his/her declared place of residence for SHN to the designated testing facility for his/her COVID-19 PCR test on the assigned date and appointment time of swabbing. The employee is required to bring along and present his/her work pass and a copy of the COVID-19 PCR test confirmation email/SMS for his/her COVID-19 PCR test. The employee must return immediately to his/her declared place of residence for SHN after the test.
 
