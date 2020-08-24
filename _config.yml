@@ -21,13 +21,13 @@ colors:
 
 #collections
 collections:
-  travellers-from-brunei:
+  travellers-from-brunei-darussalam:
     output: true
   travellers-from-china:
     output: true
   travellers-from-malaysia:
     output: true
-  travellers-from-newzealand:
+  travellers-from-new-zealand:
     output: true
 
 ##################################################################################################################
