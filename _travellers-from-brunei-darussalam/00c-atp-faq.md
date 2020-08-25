@@ -70,12 +70,7 @@ Visitors may refer to the Immigration and Checkpoints Authority of Singapore’s
 
 #### 12. What are the ATP conditions of travel?
 
-Visitors must, among other conditions:
-- have spent the last 14 consecutive days in Brunei Darussalam or New Zealand before departing for Singapore;
-- travel to Singapore on direct flights without transit;
-- undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore and remain isolated at their self-declared accommodation until the test result is confirmed to be negative;
-- download the TraceTogether app on their mobile device;
-- bear the full cost, including for tests and isolation imposed on him/her for public health reasons, should he/she require medical treatment for COVID-19 while in Singapore
+Visitors must comply with the ATP Conditions [here](/brunei/atp/conditions).
 
 #### 13. Why must visitors take direct flights without transit to Singapore?
 
