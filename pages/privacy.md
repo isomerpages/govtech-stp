@@ -16,7 +16,7 @@ permalink: /privacy/
 - we will not share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services, or except where authorised or permitted under our Terms of Use.
 - For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
-5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
+5. To safeguard your personal data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
 
 6. This site may contain links to non-Government sites with data protection and privacy practices that may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
