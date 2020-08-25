@@ -1,6 +1,6 @@
 ---
-title: Terms & Conditions
-permalink: /brunei/atp/terms-and-conditions
+title: Conditions
+permalink: /brunei/atp/conditions
 third_nav_title: Air Travel Pass
 ---
 
