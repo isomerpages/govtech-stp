@@ -92,4 +92,3 @@ To facilitate contact tracing, visitors must keep the TraceTogether app activate
 <sup>4</sup> The following groups are not required to download the TraceTogether app:
 - Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian
 - Those unable to use a mobile device due to a certified disability and/or special need
-
