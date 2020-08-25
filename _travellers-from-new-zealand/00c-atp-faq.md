@@ -92,6 +92,8 @@ The accommodation must be non-residential and must be an individual room with an
 
 Visitors are required to bear the cost of their accommodation in Singapore.
 
+Visitors may refer to the Singapore Hotel Associate (SHA) [website](https://www.sha.org.sg) for the list of hotels approved to receive visitors travelling to Singapore.
+
 #### 16. Do children need to undergo a post-arrival COVID-19 PCR test?
 
 Children aged 12 or younger in that calendar year are not required to undergo a post-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
