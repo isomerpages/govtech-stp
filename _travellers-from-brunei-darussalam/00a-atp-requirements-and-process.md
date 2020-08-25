@@ -48,7 +48,7 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
 
 When checking in at the departure airport, the visitor must present to the airline staff:
-- a valid Air Travel Pass approval letter (electronic or physical copy) for the intended period of entry into Singapore;
+- a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
 - a mobile device with the TraceTogether app downloaded.
 
@@ -59,7 +59,7 @@ A visitor who does not have any of the above may be refused boarding by the airl
 #### Arrival
 
 At arrival immigration in Singapore, the visitor must present to the ICA officer:
-- a valid Air Travel Pass approval letter (electronic or physical copy) for the intended period of entry into Singapore;
+- a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
 - a mobile device with the TraceTogether app downloaded.
 
@@ -73,7 +73,7 @@ If the visitor tests negative for COVID-19, the visitor can leave his/her accomm
 
 Visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing.
 
-To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. They are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the 14 days after leaving Singapore.
+To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. They are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore.
 
 -----
 
