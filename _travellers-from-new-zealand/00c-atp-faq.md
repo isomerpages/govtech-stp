@@ -151,3 +151,9 @@ A visitor who does not have any of the above may be refused boarding by the airl
 #### 25. Can visitors use the ATP to transit/transfer through Singapore?
 
 No, the ATP is for visitors who intend to enter Singapore.
+
+-----
+
+<sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders. 
+
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore from Brunei Darussalam and New Zealand are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
