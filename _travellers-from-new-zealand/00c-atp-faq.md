@@ -141,7 +141,7 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app downloaded. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with disabilities and/or special needs with a valid medical certificate are also exempted.
+- a mobile device with the TraceTogether app downloaded. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
