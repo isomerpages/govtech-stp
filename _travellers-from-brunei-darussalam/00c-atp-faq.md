@@ -20,7 +20,7 @@ Visitors can apply for an ATP from 1 September 2020, 1200hrs, Singapore time (GM
 
 #### 3. How can visitors apply for an ATP?
 
-Visitors can apply for the ATP here <https://safetravel.ica.gov.sg>
+Visitors can apply for the ATP from 1 September 2020, 1200hrs, Singapore time (GMT +8).
 
 Applications for the ATP can be made between seven and 30 calendar days prior to the intended date of entry into Singapore.
 
