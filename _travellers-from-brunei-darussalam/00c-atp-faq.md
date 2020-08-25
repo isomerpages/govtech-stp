@@ -118,13 +118,13 @@ The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling
 
 Yes, all visitors to Singapore must download the TraceTogether app. They must do so prior to departing for Singapore.
 
-Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with disabilities and/or special needs with a valid medical certificate are also exempted.
+Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 #### 21. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
 All visitors must have a mobile device to download the TracetTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app, and may be refused boarding and entry into Singapore if they are unable to download the TraceTogether app on their mobile devices.
 
-Children  aged  12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with disabilities and/or special needs with a valid medical certificate are also exempted from this requirement.
+Children  aged  12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 #### 22. Can visitors switch off their mobile devices while in Singapore?
 
