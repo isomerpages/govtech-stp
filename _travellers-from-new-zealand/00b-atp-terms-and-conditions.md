@@ -1,6 +1,6 @@
 ---
-title: Terms & Conditions
-permalink: /newzealand/atp/terms-and-conditions
+title: Conditions
+permalink: /newzealand/atp/conditions
 third_nav_title: Air Travel Pass
 ---
 
