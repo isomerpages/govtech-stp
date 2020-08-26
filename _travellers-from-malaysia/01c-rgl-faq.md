@@ -19,7 +19,7 @@ third_nav_title: Reciprocal Green Lane
 
 Persons of all nationalities who are legal residents in Malaysia, who need to make single-entry, <u>short-term</u> essential travel for business and official purposes, between Singapore and Malaysia.
 
-#### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder<sup>*</sup> who is resident in Malaysia. Am I eligible to apply for the fast lane?
+#### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder<sup>*</sup> who is resident in Malaysia. Am I eligible to apply for the RGL?
 
 Yes. All residents in Malaysia who need to make <u>short-term</u> essential business or official travel between Singapore and Malaysia are eligible to apply for the RGL.
 
@@ -35,77 +35,114 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in Malaysia apply for a SafeTravel Pass to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit?
 
-Residents in Malaysia seeking to travel to Singapore for short-term essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can self-sponsor and file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency.<sup>1</sup> The application for the SafeTravel Pass will be open from one to four weeks before the traveller’s intended week of departure.
-
-From 10 August 2020, only business or official travellers sponsored by a Singapore Government agency may submit applications to use the Singapore-Malaysia Reciprocal Green Lane. Applications for company-sponsored travellers to use the Singapore-Malaysia Reciprocal Green Lane can be submitted in end-August.
+Residents in Malaysia seeking to travel to Singapore for short-term essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency.<sup>1</sup> Host companies submitting applications for a SafeTravel Pass directly can do so at <https://go.gov.sg/rglapp>.
 
 When applying for the SafeTravel Pass, Proof of Residency in Malaysia is required. Malaysian Citizens should present a copy of their passport for submission. Non-Malaysian Citizens who are resident in Malaysia should present a copy of their Malaysian long-term pass ID for submission.
 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email within 3 working days.
+The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned departure. The processing of the application can take up to 7 working days. Applications submitted less than 7 working days from planned departure will not be accepted. You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
-With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
+When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email within 3 working days. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
 
 Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian citizens) will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card (<https://eservices.ica.gov.sg/sgarrivalcard/>), within 3 days prior to the date of arrival in Singapore.
 
-The sponsoring company or government agency should log onto the SafeTravel Pass portal within 2 days before the traveller’s departure to submit the traveller’s negative COVID-19 PCR test result and controlled itinerary (of maximum 14 days’ stay) in Singapore.
+Within 72 hours before the traveller’s departure from Malaysia, the sponsoring company or government agency should submit the traveller’s **negative COVID-19 test result and controlled itinerary** in Singapore at <https://go.gov.sg/rglsuppdocs>.
 
-The traveller is required to produce a valid SafeTravel Pass, a valid visa (for visa-required passport holders), and a negative COVID-19 polymerase chain reaction (PCR) test result obtained within 72 hours before departure for pre-boarding checks at the airlines’ check-in counter. Otherwise, he/she may be refused boarding.
+Travellers by air are required to produce a valid SafeTravel Pass, a valid visa (for visa-required passport holders), and a negative COVID-19 PCR test result obtained within 72 hours before departure for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
-For travellers departing via land checkpoints, the traveller is required to produce a valid SafeTravel Pass, a valid visa (for visa-required passport holders), and a negative COVID-19 PCR test result obtained within 72 hours.
+Travellers departing via land checkpoints are required to produce a valid SafeTravel Pass, a valid visa (for visa-required passport holders), and a negative COVID-19 PCR test result obtained within 72 hours.
 
-#### 5. Can tourists apply for SafeTravel Passes?
+#### 5. What are the responsibilities of the host company who is self-sponsoring?
+
+When a company is sponsoring a traveller, it will have to be responsible for the application of the SafeTravel Pass on behalf of the traveller as well as the timely submission of the accompanying documents.
+
+The host company should also ensure that the traveller abides by the terms and conditions of the Singapore-Malaysia RGL, and the prevailing health measures during his/her stay in Singapore. Authorities may ask for proof of adherence, including physical verification or SafeEntry Pass records (e.g. screenshots), to the controlled itinerary and other terms and conditions when the traveller is in Singapore.
+
+You can access the terms and conditions of the Singapore-Malaysia RGL at <https://safetravel.ica.gov.sg/malaysia/rgl/terms-and-conditions>. Actions will be taken against the traveller and the host company in the event of non-compliance.
+
+#### 6. What qualifies as a “controlled itinerary”?
+
+The controlled itinerary should consist of the time and location of the traveller’s whereabouts during his stay in Singapore. During the traveller’s stay in Singapore, the traveller can only commute between his/her non-residential accommodation and the workplace via private hire cars/taxis or cohorted company transport<sup>2</sup> (i.e., no public transport allowed). The controlled itinerary should reflect these requirements.
+
+The host company will need to supervise the controlled itinerary of the traveller and report any changes, and provide private transport for the traveller during his/her stay in Singapore.
+
+#### 7. Can tourists apply for SafeTravel Passes?
 
 SafeTravel Passes are only issued to travellers making short-term essential business and official travel. These passes are not applicable for tourists.
 
-#### 6. Can my SafeTravel Pass be transferred to my family member, friend, colleague or business partner?
+#### 8. Can my SafeTravel Pass be transferred to my family member, friend, colleague or business partner?
 
 SafeTravel Passes are not transferable to others.
 
-#### 7. Do I need to pay to apply for a SafeTravel Pass?
+#### 9. Do I need to pay to apply for a SafeTravel Pass?
 
 No payment is required.
 
-#### 8. Is there a limit to the number of times I can apply for a SafeTravel Pass?
+#### 10. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
 There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application.
 
-However, a traveller with a valid SafeTravel Pass for a specific week of travel cannot apply for another SafeTravel Pass for the week of travel immediately before or after the specified week of travel.
-
 If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
 
-#### 9. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
+One traveller can only hold one valid SafeTravel Pass **for a single entry into Singapore** at any one point in time. Please refrain from submitting multiple SafeTravel Pass applications or submitting new applications when you already have a valid SafeTravel Pass on hand. Duplicate applications will be rejected.
+
+#### 11. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
 
 Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
 
 Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian citizens) will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
-#### 10. Can I use the RGL to come to Singapore for long-term work?
+#### 12. How can I further extend my Visit Pass / stay when I am in Singapore, if necessary?
+
+All applications for extension of Visit Pass must be submitted online using ICA’s e-Service (<https://eservices.ica.gov.sg/esvclandingpage/extend>) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits.
+
+#### 13. My travel plans have changed/I incorrectly entered some information in my application. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
+
+Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
+
+#### 14. What if I have changes to my controlled itinerary?
+
+The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://go.gov.sg/rglsuppdocs>. This should be done even if the traveller is already in Singapore.
+
+#### 15. Why was my application rejected?
+
+SafeTravel Pass applications may be rejected for reasons, including the following:
+- The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
+- Application filed out of permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
+- Inadequate information provided.
+
+#### 16. I have submitted the necessary supporting documents prior to my departure from Malaysia to Singapore. Why did I receive a notification that the submission was unsuccessful?
+
+You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from Malaysia. You should submit only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 72 hours</u> of departure from Malaysia. Please resubmit the necessary documents within the stipulated window prior to departure.
+
+Do also ensure that the supporting documents submitted are in the correct format (pdf., jpeg.).
+
+#### 17. Can I use the RGL to come to Singapore for long-term work?
 
 The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website (<https://safetravel.ica.gov.sg>) for more information on the Periodic Commuting Arrangement (PCA), or visit [www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits) for more information on a separate scheme.
 
-#### 11. Can I use the RGL to come to Singapore for long-term study?
+#### 18. Can I use the RGL to come to Singapore for long-term study?
 
 The RGL is only for short-term essential business and official travel, and not for long-term study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders> for more information.
 
-#### 12. Are there restrictions on how I can travel to Singapore?
+#### 19. Are there restrictions on how I can travel to Singapore?
 
 Under the RGL, travellers can travel to Singapore by air via any non-stop flight route between airports in Singapore and Malaysia, as well as by land via the Causeway and Second Link.
 
-#### 13. Can I use the RGL to transit through Singapore?
+#### 20. Can I use the RGL to transit through Singapore?
 
 The RGL is only for short-term essential business and official travel between Singapore and Malaysia, and not for transit through Singapore.
 
 ### **Pre-Departure Measures in Malaysia**
 
-#### 14. What health measures must I take in Malaysia before departing for Singapore?
+#### 21. What health measures must I take in Malaysia before departing for Singapore?
 
 Travellers must remain in Malaysia and have not travelled out of the country for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Malaysia, undergo a pre-departure PCR test in Malaysia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the accredited laboratories by the Ministry of Health Malaysia [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf).
 
 The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia that conduct the COVID-19 test can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
 
-#### 15. What documentation do I need to present before I depart from Malaysia to Singapore?
+#### 22. What documentation do I need to present before I depart from Malaysia to Singapore?
 
 Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
 1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
@@ -114,37 +151,45 @@ Travellers by air and land are required to produce the following documents to th
 
 ### **Test Arrangements Upon Arrival in Singapore**
 
-#### 16. What COVID-19 tests will I be subject to upon arrival in Singapore?
+#### 23. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
 
-The traveller will undergo a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore.
+RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, the Traveller must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance.
 
-For travellers entering Singapore by air, travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
+Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
 
-For travellers entering Singapore by land, travellers will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the land checkpoints.
+Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the land checkpoints.
 
-#### 17. What if I test positive for COVID-19 in Singapore?
+#### 24. What if I test positive for COVID-19 in Singapore?
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.  Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.  Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller.
 
 Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost.
 
 ### **Health Measures in Singapore**
 
-#### 18. What health measures will I be subjected to upon arrival in Singapore?
+#### 25. What health measures will I be subjected to upon arrival in Singapore?
 
-RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) for one to two days until negative test results are released. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) for one to two days until negative test results are released. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>3</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
 
-#### 19. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
+
+#### 26. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
-More information on the app can be found at [tracetogether.gov.sg](https://www.tracetogether.gov.sg).
+The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
+
+#### 27. What is SafeEntry?
+
+SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
+
+More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Malaysia**
 
-#### 20. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
+#### 28. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
 
 RGL returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
 
@@ -156,9 +201,13 @@ Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19
 
 The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
 
-<sup>2</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
+<sup>2</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
 
-<sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+<sup>3</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
+
+<sup>4</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+
+<sup>5</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or [a recommended QR scanner app](https://www.safeentry.gov.sg/individual_help).
 
 -----
 
@@ -243,7 +292,7 @@ For travellers departing via land checkpoints, the traveller is required to prod
 
 After undergoing a PCR test upon arrival, the traveller must remain under isolation until the test results are released. The traveller will be required to be transported directly by the sponsor to a non-residential accommodation, and be isolated while awaiting the test result. The traveller has to bear the costs of the post-arrival test and the isolation in the designated accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Malaysia.
+If the <u>traveller tests</u> negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Malaysia.
 
 #### 12. What other health measures will I be subject to in Malaysia? What would qualify as a “controlled itinerary” in Malaysia?
 
@@ -259,7 +308,7 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 #### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane may be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
+Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, without the need to appeal, if they:
 - Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Malaysia, and obtain the negative test result prior to departure; and
 - Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 
@@ -283,7 +332,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. [Updated] Which clinics can I get the PCR tests from?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following clinics for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for green/fast lane arrangements may only be performed at the following clinics for eligible RGL travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
