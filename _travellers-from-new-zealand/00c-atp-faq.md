@@ -92,7 +92,7 @@ The accommodation must be non-residential and must be an individual room with an
 
 Visitors are required to bear the cost of their accommodation in Singapore.
 
-Visitors may refer to the Singapore Hotel Associate (SHA) [website](https://www.sha.org.sg) for the list of hotels approved to receive visitors travelling to Singapore.
+Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg) for the list of hotels approved to receive visitors travelling to Singapore.
 
 #### 16. Do children need to undergo a post-arrival COVID-19 PCR test?
 
@@ -122,7 +122,7 @@ Children aged 12 or younger in that calendar year and travelling with parent/gua
 
 #### 21. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
-All visitors must have a mobile device to download the TracetTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app, and may be refused boarding and entry into Singapore if they are unable to download the TraceTogether app on their mobile devices.
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app, and may be refused boarding and entry into Singapore if they are unable to download the TraceTogether app on their mobile devices.
 
 Children  aged  12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
