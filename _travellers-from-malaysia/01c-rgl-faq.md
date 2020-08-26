@@ -410,7 +410,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
   <tr>
     <td style="text-align: center;">3</td>
     <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
-    <td>Weekdays:<br>All Weekdays: 8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu: 6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
+    <td>Weekdays:<br>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu: 6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
     <td style="text-align: center;">Yes<br>0-12 years</td>
     <td style="text-align: center;">$200</td>
     <td style="text-align: center;">68516233</td>
