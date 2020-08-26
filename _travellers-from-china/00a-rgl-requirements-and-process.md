@@ -12,8 +12,6 @@ On 28 May 2020, Singapore and China agreed to create a Fast Lane to facilitate e
 
 Business or official travellers seeking to make essential travel via the Fast Lane to Singapore from the above-mentioned six Chinese provinces and municipalities must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel pass.
 
-From 8 June 2020, only business or official travellers sponsored by a Singapore Government agency may submit applications to use the Singapore-China Fast Lane. Applications for company-sponsored travellers to use the Singapore-China Fast Lane can be submitted at a later phase to be announced.
-
 IMPORTANT
 
 Travellers without a valid SafeTravel Pass will be refused entry into Singapore.
