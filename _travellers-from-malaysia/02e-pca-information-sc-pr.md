@@ -4,11 +4,11 @@ permalink: /malaysia/pca/information-sc-pr
 third_nav_title: Periodic Commuting Arrangement
 ---
 
-*This page provides information for Singapore Citizens and Permanent Residents who work in Malaysia or intend to return to Singapore for short-term home leave under the terms of the PCA. For Singapore-based companies that wish to apply for their Malaysian employees to enter/re-enter Singapore under the PCA, click [here](malaysia/pca/requirements-and-process) instead for more information.*
+*This page provides information for Singapore Citizens and Permanent Residents who work in Malaysia and intend to return to Singapore for short-term home leave under the terms of the PCA. For Singapore-based companies that wish to apply for their Malaysian employees to enter/re-enter Singapore under the PCA, click [here](malaysia/pca/requirements-and-process) instead for more information.*
 
 ### **Periodic Commuting Arrangement (PCA) - For Singapore Citizens and  Permanent Residents applying to enter Malaysia**
 
-The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Singapore Citizens and Permanent Residents (PRs) with valid Malaysia work passes should remain in Malaysia for at least 90 days before returning to Singapore for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore.
+The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Singapore Citizens and Singapore Permanent Residents (PRs) who hold valid Malaysian Long-Term Social Visit Passes (i.e. Employment Pass or Professional Visit Pass) for business or work purposes may apply to enter Malaysia under the PCA. Under the PCA, they should remain in Malaysia to work for at least 90 days before returning to Singapore for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint.
 
 For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia under the PCA, please visit the Immigration Department of Malaysia's website [here](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html). For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
 
@@ -16,20 +16,24 @@ For Malaysian citizens and Malaysia n PRs residing in Singapore who wish to retu
 
 ### **Waiver of Stay-Home Notice when returning to Singapore on Short-Term Home Leave**
 
-Singapore Citizens and PRs holding Malaysia-issued PCA passes (MyTravelPass) may apply for waiver of Stay-Home Notice (SHN) for short-term home leave in Singapore, after spending at least 90 days working in Malaysia. The intent of the Malaysia-issued PCA passes is to allow Singapore Citizens and PRs to re-enter Malaysia after their home leave, to continue with their business or work. In lieu of SHN, the returnee on home leave will undergo a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore, at their own cost.
+Singapore Citizens and PRs that have applied for or granted a Malaysia-issued PCA pass (MyTravelPass) may apply for waiver of Stay-Home Notice (SHN) for short-term home leave in Singapore, after spending at least 90 days working in Malaysia. The intent of the Malaysia-issued PCA passes is to allow Singapore Citizens and PRs to re-enter Malaysia after their home leave, to continue with their business or work. In lieu of SHN, the returnee on home leave will undergo a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore, at their own cost.
 
-Applications for waiver of SHN will be open from 10 August 2020 and must be submitted online via the SafeTravel Portal (<https://safetravel.ica.gov.sg>) at least 7 days before the entry date. The applicant is required to upload a PDF copy of the Malaysia-issued PCA pass or approval to apply for the waiver of SHN and make payment for a swab-on-arrival COVID-19 PCR test at the land checkpoints (S$200 per person, inclusive of GST). Upon successful application of the waiver, an approval letter will be sent via email to the traveller, stating the Terms & Conditions for the waiver, which the traveller must comply with. These include: (i) adhere to the date, time and land checkpoint which he/she has selected for return to Singapore, (ii) undergo the COVID-19 PCR test upon arrival, and (iii) self-isolation at the declared place of residence upon entry into Singapore, until a negative test result is conveyed to the traveller.
+Applications for waiver of SHN will be open from 10 August 2020 onwards and must be submitted online via the SafeTravel Portal (https://safetravel.ica.gov.sg) at least 7 days before the intended entry date. To apply for SHN waiver, an applicant is required to submit in PDF, the following documents and indicate his/her intended date of return to Malaysia under the PCA:
+1. Malaysia-issued PCA pass (MyTravelPass), or the MyTravelPass application acknowledgement slip; and
+2. Malaysia-issued Long-term Social Visit Passes for business or work purposes (e.g. Employment Pass or Professional Visit Pass).
 
-**Singapore Citizens and PRs holding Malaysia-issued PCA passes who do not apply for a SHN waiver on <https://safetravel.ica.gov.sg> before their return to Singapore will be subject to the prevailing public health measures for incoming travellers.** Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
+Successful applicants will receive an approval letter containing the Terms & Conditions for the waiver granted, which the traveller is required to comply. These include the traveller’s obligation to (i) undergo the COVID-19 PCR test, which he/she will also pay for upon arrival<sup>1</sup>; and (ii) remain in self-isolation at his/her declared place of residence upon entry into Singapore, until a negative test result is conveyed to the traveller.
+
+**Singapore Citizens and PRs that (i) have applied for or granted a Malaysia-issued PCA passes; and (ii) are holders of a Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass), can apply for a SHN waiver on <https://safetravel.ica.gov.sg> before their return to Singapore. Otherwise, the prevailing public health measures for such travellers will apply.** Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
 
 ### **Eligibility**
 
-Singapore Citizens and PRs who wish to apply for a waiver of SHN when returning to Singapore on short-term home leave must fulfil the following criteria:
-1. Be a Singapore Citizen / PR;
-2. Be working in Malaysia under the PCA; and
-3. Have spent at least 90 days working in Malaysia.
+Singapore Citizens and PRs that wish to apply for a waiver of SHN when returning to Singapore on short-term home leave must fulfil the following criteria:
+1. Be a Singapore Citizen / Singapore Permanent Resident;
+2. Be working in Malaysia under the PCA and applied for or granted  the Malaysia-issued MyTravel Pass; and
+3. Have spent at least 90 days working in Malaysia and holding a Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass).
 
-<b><u>Singapore Citizens and PRs who do not meet the criteria above for the PCA can still return to Singapore.</u></b> However, they will be subject to Singapore’s prevailing public health measures for incoming travellers. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
+<b><u>Singapore Citizens and PRs that do not meet the criteria above for the PCA can still return to Singapore.</u></b> However, they will be subject to Singapore’s prevailing public health measures for incoming travellers. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
 
 ## **Process Overview**
 
@@ -41,13 +45,14 @@ Singapore Citizens and PRs can apply for SHN waiver for their short-term home le
 3. Intended land checkpoint (Woodlands Checkpoint or Tuas Checkpoint) to enter Singapore from, subject to availability of COVID-19 PCR swab services at the respective Checkpoints;
 4. Date of expected re-entry to Malaysia;
 5. A valid Malaysia-issued PCA pass (MyTravelPass) or approval certifying that the traveller has been or will continue working in Malaysia under the PCA; and
-6. An email address for ICA to respond to.
+6. A Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass), and
+7. An email address for ICA to respond to.
 
 If the application is approved, the applicant is required to make payment online for a swab-on-arrival COVID-19 PCR test at the land checkpoints (S$200 per person, inclusive of GST). Thereafter, an approval letter will be sent via email.
 
 The traveller should bring a copy of the approval letter to Woodlands Checkpoint or Tuas Checkpoint in Singapore on the date of return for home leave, along with the necessary travel documents.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Citizens and PRs currently working in Malaysia and do not have a Malaysia-issued PCA pass yet should apply for a PCA pass (MyTravelPass) from the Malaysian authorities, before submitting their application to ICA for SHN waiver. This Malaysia-issued PCA pass or approval would certify that the traveller has confirmed his/her re-entry into Malaysia at a later date, to continue working in Malaysia under the PCA.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Citizens and PRs currently working in Malaysia and do not have a Malaysia-issued PCA pass yet may apply for a PCA pass (MyTravelPass) from the Malaysian authorities, before submitting their application to ICA for SHN waiver. This Malaysia-issued PCA pass (MyTravelPass) or approval will serve as the document supporting that the traveller has confirmed his/her re-entry into Malaysia at a later date, to continue working in Malaysia under the PCA. <b>Without the Malaysia-issued PCA pass (MyTravelPass) or approval as well as the Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass), the traveller will not be granted a waiver from SHN.</b></em></p>
 
 ### **Arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore**
 
@@ -73,3 +78,7 @@ To qualify for the waiver of SHN in Singapore under the Periodic Commuting Arran
 5. To use either taxis/private hire vehicles and personal vehicles for travel from land checkpoint to home (i.e. no buses/MRT). For taxis/private hire vehicles, please use dedicated taxi hotlines or ride-hail applications to hire the service, and not flag down a taxi.
 
 The terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
+
+-----
+
+<sup>1</sup> $200 per person, including GST.
