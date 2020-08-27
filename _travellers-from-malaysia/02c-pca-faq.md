@@ -230,7 +230,7 @@ Payment for the mandatory COVID-19 PCR test for each employee is required at the
 
 The employee under the PCA is required to undergo a COVID-19 PCR test on the assigned date of swabbing before the end of his/her SHN period. The point of contact provided by the employer will receive an email and SMS message indicating their employee’s test date, time of test and designated test site for the COVID-19 PCR test.
 
-COVID-19 PCR test results will be sent to employers within 2 days of the test. Should there be a need for a second test, employers will be informed. While awaiting test results, individuals should continue to observe the SHN period in his/her declared SHN residence.
+COVID-19 PCR test results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. While awaiting test results, individuals should continue to observe the SHN period in his/her declared SHN residence.
 
 If the employer does not receive a notification containing the results of the employee’s COVID-19 PCR test results <u>within 2 days</u> of the test, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number.
 
