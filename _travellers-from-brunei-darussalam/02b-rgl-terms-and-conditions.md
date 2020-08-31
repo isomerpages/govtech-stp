@@ -12,7 +12,7 @@ third_nav_title: Reciprocal Green Lane
 
 **“Host”** refers to the company or government agency that receives the traveller in Singapore. For company-sponsored travellers, the sponsor is the host.
 
-**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for his/her stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
+**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for the first 14 days in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
 
 ### **A. Terms & Conditions for Sponsor**
 
@@ -22,11 +22,13 @@ third_nav_title: Reciprocal Green Lane
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy/>.
 
-2. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a health centre authorised by the Government of Brunei Darussalam and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between work and accommodation, with limited contact with the community.
+2. At the point of application, the Sponsor should submit the following information if already available: confirmed flight itinerary (including flight booking reference number, flight number), and proof of accommodation of the traveller. The chosen place of accommodation of the traveller in Singapore must be a non-residential address and an individual room with en-suite toilet.
 
-3. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a health centre authorised by the Government of Brunei Darussalam and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
 
-4. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
+4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
+
+5. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
 ### **B. Terms & Conditions for Traveller**
 
@@ -58,7 +60,7 @@ third_nav_title: Reciprocal Green Lane
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid visa (for visa-required passport holders); and
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam; and
-: d. A return air ticket or proof of other transportation arrangements to depart Singapore.
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
 
 #### Post-Arrival in Singapore
 
@@ -68,7 +70,7 @@ third_nav_title: Reciprocal Green Lane
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid Visa (for visa-required passport holders); and
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam; and
-: d. A return air ticket or proof of other transportation arrangements to depart Singapore.
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
 
 14. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
