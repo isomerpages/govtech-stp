@@ -12,7 +12,7 @@ third_nav_title: Reciprocal Green Lane
 
 **“Host”** refers to the company or government agency that receives the traveller in Singapore. For company-sponsored travellers, the sponsor is the host.
 
-**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for his/her stay in Singapore, which is limited to travel between work and accommodation, with limited contact with the community.
+**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for his/her stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
 
 ### **A. Terms & Conditions for Sponsor**
 
@@ -22,7 +22,7 @@ third_nav_title: Reciprocal Green Lane
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy/>.
 
-2. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a medical institution accredited by the Ministry of Health Malaysia and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (with a maximum duration of 14 days); and (iii) confirmed arrival details in Singapore including flight number (if by air travel) and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between work and accommodation, with limited contact with the community.
+2. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a medical institution accredited by the Ministry of Health Malaysia and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (with a maximum duration of 14 days); and (iii) confirmed arrival details in Singapore including flight number (if by air travel) and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
 
 3. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
 
@@ -79,8 +79,8 @@ third_nav_title: Reciprocal Green Lane
 : b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
-: e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures at workplaces, and additionally comply with the following measures:
-  : i. Travellers shall have meals alone; and
+: e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
+  : i. Travellers shall have meals alone, with the exception of business-hosted meals in accordance with SMM; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 
 #### Post-Departure from Singapore
@@ -89,7 +89,7 @@ third_nav_title: Reciprocal Green Lane
 
 19. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
 
-20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TT data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
+20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
 
 ### **C. Terms & Conditions for Host**
 
@@ -99,15 +99,15 @@ third_nav_title: Reciprocal Green Lane
 
 2. The Host of the traveller must arrange for transportation to transport the traveller directly from the airport/land checkpoints to the traveller’s declared place of accommodation.
 
-3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall inform the Sponsor, or Ministry of Trade and Industry (henceforth referred to as “MTI”) in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
+3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall inform the government agency Sponsor, or the Singapore Ministry of Trade and Industry (henceforth referred to as “MTI”) in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
 
-4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
+4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
 
 5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app and SafeEntry during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
 
 6. Where the Host had provided a TraceTogether-compatible device to the traveller, it shall ensure that the TraceTogether app remains installed in the device, and all TraceTogether data is retained, for at least 14 days after the departure of the traveller.
 
-7. Where the Host had provided a TraceTogether-compatible device to the traveller, the Host will be required to upload TT data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
+7. Where the Host had provided a TraceTogether-compatible device to the traveller, the Host will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
 
 8. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
 
