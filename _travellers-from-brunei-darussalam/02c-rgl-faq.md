@@ -623,3 +623,5 @@ For those travelling to Brunei Darussalam, sponsors may seek exemption from the 
 You will receive your PCR test results and memo at least 3 hours before your flight.
 
 The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
