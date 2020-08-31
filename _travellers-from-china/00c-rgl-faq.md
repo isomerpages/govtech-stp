@@ -180,16 +180,6 @@ SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobi
 
 More information can be found at <https://www.safeentry.gov.sg>.
 
-### **Returning to China**
-
-#### 28. Do I need to be tested again in Singapore before I return to China? Do I need to be quarantined or be tested again upon return to China?
-
-Fast lane returnees to China currently do not need to be tested again in Singapore before returning to China.
-
-Upon their arrival back in China, they must adhere to the prevailing COVID-19 prevention and control measures of the Chinese government. This may include a 14-day quarantine or COVID-19 tests at the returnee’s cost, as required by most provinces/municipalities for international arrivals into China.
-
-As the specific requirements may vary amongst provinces/municipalities, the returnee should verify the latest requirements with the relevant provincial/municipal authorities.
-
 -----
 
 <sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.
