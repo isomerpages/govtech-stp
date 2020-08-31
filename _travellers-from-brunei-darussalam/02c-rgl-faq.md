@@ -1,5 +1,5 @@
 ---
-title: Terms & Conditions
+title: Frequently Asked Questions
 permalink: /brunei/rgl/faq
 third_nav_title: Reciprocal Green Lane
 ---
@@ -188,6 +188,4 @@ The term “host” refers to the company or government agency that receives the
 
 <sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
 
-<sup>4</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a recommended QR code scanner app.
-
-<sup>5</sup> 
+<sup>4</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a [recommended QR code scanner app](Frequently Asked Questions).
