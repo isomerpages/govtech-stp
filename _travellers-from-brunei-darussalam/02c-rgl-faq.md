@@ -164,6 +164,8 @@ Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
+The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
+
 #### 23. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
@@ -177,6 +179,8 @@ More information can be found at <https://www.safeentry.gov.sg>.
 RGL returnees to Brunei currently do not need to be tested again in Singapore before returning to Brunei.
 
 Upon their arrival back in Brunei, travellers will be subject to a 14-day Isolation Notice, which will be served at the airport, with costs to be borne by the travellers or sponsoring agency. However, returning travellers may qualify for a shortened isolation period upon submitting a negative result from a COVID-19 RT-PCR test taken within 72 hours prior to departure in Singapore.
+
+As the specific requirements may change over time, the returnee should verify the latest requirements with the Brunei government.
 
 -----
 
@@ -228,9 +232,9 @@ For those seeking to enter Brunei for purposes other than essential business and
 
 #### 6. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The traveller departing for Brunei can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+The RGL traveller departing for Brunei can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **<a href="#annex">ANNEX</a>**. An eligible RGL traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **<a href="#annex">ANNEX</a>**. Testing for fast lane arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -257,6 +261,8 @@ If tested positive for COVID-19 in Brunei, the traveller will be accorded the ne
 #### 10. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Brunei?
 
 Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa, proof of installation of the BruHealth application, a valid boarding pass, valid proof of payment for post-arrival COVID-19 PCR test, proof of hotel reservation in Brunei, and the approved Entry Travel Pass issued by the Bruneian government specifically for essential business or official travel under the RGL.
+
+As the specific requirements may evolve over time, the traveller should seek an update on the latest requirements with his/her local host company or government agency.
 
 ### **Health Measures in Brunei**
 
