@@ -93,7 +93,7 @@ third_nav_title: Reciprocal Green Lane
 
 20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Brunei Darussalam.
 
-### **Terms & Conditions for Host**
+### **C. Terms & Conditions for Host**
 
 #### General
 
