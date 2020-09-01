@@ -1,6 +1,6 @@
 ---
 title: Pre-Departure Test Application
-permalink: /pre-departure-test/
+permalink: /pre-departure-test
 ---
 
 ## **Application for Pre-Departure COVID-19 PCR Test**
