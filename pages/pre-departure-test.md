@@ -7,7 +7,7 @@ permalink: /pre-departure-test
 
 This application is for travellers who wish to apply for a pre-departure COVID-19 PCR test. 
 
-Travellers who have received approval to travel under Singapore’s Reciprocal Green Lanes (RGL) with other countries or who hold a My TravelPass under the RGL with Malaysia <u>need not apply</u> as they are already eligible to book a pre-departure test as part of the RGL approvals.
+Travellers who have received approval to travel under Singapore’s Green/Fast Lane arrangements  with other countries or who hold a My TravelPass under the Reciprocal Green Lane (RGL) with Malaysia <u>need not apply</u> as they are already eligible to book a pre-departure test as part of the RGL approvals.
 
 All other travellers must apply to be eligible for a pre-departure COVID-19 PCR test. Clinics and testing centres will not administer the test unless approval has been granted.
 
