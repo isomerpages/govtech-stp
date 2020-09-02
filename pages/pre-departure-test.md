@@ -7,7 +7,7 @@ permalink: /pre-departure-test
 
 This application is for travellers who wish to apply for a pre-departure COVID-19 PCR test. 
 
-Travellers who have received approval to travel under Singapore’s Green/Fast Lane arrangements  with other countries or who hold a My TravelPass under the Reciprocal Green Lane (RGL) with Malaysia <u>need not apply</u> as they are already eligible to book a pre-departure test as part of the RGL approvals.
+Travellers who have received approval to travel under Singapore’s Green/Fast Lane arrangements with other countries or who hold a My TravelPass under the Reciprocal Green Lane (RGL) with Malaysia <u>need not apply</u> as they are already eligible to book a pre-departure test as part of the RGL approvals.
 
 All other travellers must apply to be eligible for a pre-departure COVID-19 PCR test. Clinics and testing centres will not administer the test unless approval has been granted.
 
@@ -76,7 +76,7 @@ Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a 
 
 Please have the following information on hand when making an appointment for your test:
 1. Approval email to take the pre-departure PCR swab test
-2. Identity card number or passport number
+2. Identity card number and passport number
 3. Departure flight timing (if applicable)
 4. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
 5. Address in Singapore 
