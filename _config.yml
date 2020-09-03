@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: 
+notification: Scheduled maintenance will be taking place on 4 September, from 11am to 12pm.<br>During this time, application services for the Air Travel Pass and Periodic Commuting Arrangement remain available.
 
 # Site colors
 colors:
@@ -28,6 +28,8 @@ collections:
   travellers-from-malaysia:
     output: true
   travellers-from-new-zealand:
+    output: true
+  travellers-from-republic-of-korea:
     output: true
 
 ##################################################################################################################
