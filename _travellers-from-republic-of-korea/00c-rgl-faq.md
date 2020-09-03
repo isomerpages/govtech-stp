@@ -324,8 +324,8 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 #### Point-of-Contact for Fast Lane Travel by Singapore Residents to the ROK
 
-Embassy of the Republic of Korea in Singapore 
-Phone: +65-6256-1188
+**Embassy of the Republic of Korea in Singapore**<br>
+Phone: +65-6256-1188<br>
 Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for Fast Lane-related matters)
 
 <div id="annexb"></div>
