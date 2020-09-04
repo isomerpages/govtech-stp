@@ -16,7 +16,7 @@ IMPORTANT
 
 Travellers without a valid SafeTravel Pass will be refused entry into Singapore.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/china/rgl/terms-and-conditions).
 
 ## **Process Overview**
 
@@ -69,7 +69,7 @@ SafeTravel Pass travellers to Singapore are required to download and use the **T
 
 In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a **controlled itinerary** that is supervised by the host company or government agency for the first 14 days. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here]({{site.baseurl}}/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/china/rgl/terms-and-conditions).
 
 ----
 
