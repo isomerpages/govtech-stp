@@ -18,10 +18,10 @@ The cost of the PCR test is to be borne by the applicant.
 Approval for pre-departure tests may be granted only for travellers from Singapore who are travelling to a destination country that has a <u>mandatory</u> requirement for travellers to produce a negative COVID-19 PCR test result prior to <u>entry</u> into the country.
 
 You may apply for a pre-departure test using the corresponding application form based on your reason for travel:
-- Travel related to attending essential business-related work, or taking up employment overseas – at <https://form.gov.sg/5efafbff4e0f740011e66aef>
-- Ship crew sign-on for foreign-going ships – at <https://form.gov.sg/5f3de8c64432ea001163404c>
+- Travel related to attending essential business-related work, or taking up employment overseas – at <https://go.gov.sg/mti-pdt>
+- Ship crew sign-on for foreign-going ships – at <https://go.gov.sg/mpa-pdt>
 - For Chinese nationals with live or cancelled work permits and S-Passes returning to China – at <https://www.mom.gov.sg/covid-19/sending-workers-home>
-- For travel related to long-term education, compassionate reasons, or otherwise – at <https://form.gov.sg/5f472150a270e10012adf418>
+- For travel related to long-term education, compassionate reasons, or otherwise – at <https://go.gov.sg/moh-pdt>
 
 ### **Responses on Application**
 
@@ -32,7 +32,7 @@ Successful applicants will be notified of the approval via the email registered 
 **Please note that applicants are to fill in and submit the application form that corresponds to the travellers’ reason for travel listed above.** If you have any additional queries, you may contact the following agencies:
 - Travel related to business and employment – the Ministry of Trade and Industry at <COVID_SafeTravelEnquiries@mti.gov.sg>.  
 - Ship crew sign-on for foreign-going ships – the Maritime & Port Authority of Singapore at <Crew_change@mpa.gov.sg>.
-- For travel related to education, compassionate reasons, or otherwise – the Ministry of Health at <MOH_QSM@moh.gov.sg>.
+- For travel related to education, compassionate reasons, or otherwise – the Ministry of Health at <COVID_Swab_Enquiries@moh.gov.sg>.
 
 ### **Booking an Appointment**
 
