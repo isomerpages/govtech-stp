@@ -17,7 +17,7 @@ third_nav_title: Reciprocal Green Lane
 
 #### 1. Who is eligible to apply to travel to Singapore under the RGL?
 
-Persons of all nationalities who are legal residents in Malaysia, who need to make single-entry, <u>short-term</u> essential travel for business and official purposes, between Singapore and Malaysia.
+Persons of all nationalities who are legally resident in Malaysia, who need to make single-entry, <u>short-term</u> essential travel for business and official purposes, between Singapore and Malaysia.
 
 #### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder<sup>*</sup> who is resident in Malaysia. Am I eligible to apply for the RGL?
 
@@ -27,7 +27,7 @@ Yes. All residents in Malaysia who need to make <u>short-term</u> essential busi
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass allows residents in Malaysia to seek <u>short-term</u> entry into Singapore under the RGL. It will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to <u>14 days</u>. For example, if the traveller’s SafeTravel Pass is valid from 6 to 12 July 2020, he/she must seek entry into Singapore within this period, and can stay for up to 14 days from the date of arrival.
+A SafeTravel Pass is required for residents in Malaysia to seek <u>short-term</u> entry into Singapore under the RGL. It is non-transferable and will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to <u>14 days</u>.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
@@ -35,7 +35,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in Malaysia apply for a SafeTravel Pass to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit?
 
-Residents in Malaysia seeking to travel to Singapore for short-term essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly, or through a sponsoring government agency.<sup>1</sup> Host companies submitting applications for a SafeTravel Pass directly can do so at <https://go.gov.sg/rglapp>.
+Residents in Malaysia seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://go.gov.sg/rglapp>, or through a sponsoring government agency.<sup>1</sup>.
 
 When applying for the SafeTravel Pass, Proof of Residency in Malaysia is required. Malaysian Citizens should present a copy of their passport for submission. Non-Malaysian Citizens who are resident in Malaysia should present a copy of their Malaysian long-term pass ID for submission.
 
@@ -47,11 +47,11 @@ Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian c
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card (<https://eservices.ica.gov.sg/sgarrivalcard/>), within 3 days prior to the date of arrival in Singapore.
 
-Within 72 hours before the traveller’s departure from Malaysia, the sponsoring company or government agency should submit the traveller’s **negative COVID-19 test result and controlled itinerary** in Singapore at <https://go.gov.sg/rglsuppdocs>.
+Prior to the traveller’s departure from Malaysia, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 test taken within 72 hours before departure and controlled itinerary** in Singapore at <https://go.gov.sg/rglsuppdocs>.
 
-Travellers by air are required to produce a valid SafeTravel Pass, a valid visa (for visa-required passport holders), and a negative COVID-19 PCR test result obtained within 72 hours before departure for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
+Travellers by air are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
-Travellers departing via land checkpoints are required to produce a valid SafeTravel Pass, a valid visa (for visa-required passport holders), and a negative COVID-19 PCR test result obtained within 72 hours.
+Travellers departing via land checkpoints are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), and negative result for COVID-19 PCR test result.
 
 #### 5. What are the responsibilities of the host company who is self-sponsoring?
 
@@ -61,25 +61,19 @@ The host company should also ensure that the traveller abides by the terms and c
 
 You can access the terms and conditions of the Singapore-Malaysia RGL at <https://safetravel.ica.gov.sg/malaysia/rgl/terms-and-conditions>. Actions will be taken against the traveller and the host company in the event of non-compliance.
 
-#### 6. What qualifies as a “controlled itinerary”?
-
-The controlled itinerary should consist of the time and location of the traveller’s whereabouts during his stay in Singapore. During the traveller’s stay in Singapore, the traveller can only commute between his/her non-residential accommodation and the workplace via private hire cars/taxis or cohorted company transport<sup>2</sup> (i.e., no public transport allowed). The controlled itinerary should reflect these requirements.
-
-The host company will need to supervise the controlled itinerary of the traveller and report any changes, and provide private transport for the traveller during his/her stay in Singapore.
-
-#### 7. Can tourists apply for SafeTravel Passes?
+#### 6. Can tourists apply for SafeTravel Passes?
 
 SafeTravel Passes are only issued to travellers making short-term essential business and official travel. These passes are not applicable for tourists.
 
-#### 8. Can my SafeTravel Pass be transferred to my family member, friend, colleague or business partner?
+#### 7. Can my SafeTravel Pass be transferred to my family member, friend, colleague or business partner?
 
 SafeTravel Passes are not transferable to others.
 
-#### 9. Do I need to pay to apply for a SafeTravel Pass?
+#### 8. Do I need to pay to apply for a SafeTravel Pass?
 
 No payment is required.
 
-#### 10. Is there a limit to the number of times I can apply for a SafeTravel Pass?
+#### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
 There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application.
 
@@ -87,62 +81,64 @@ If the traveller’s SafeTravel Pass has expired, he/she should submit a new app
 
 One traveller can only hold one valid SafeTravel Pass **for a single entry into Singapore** at any one point in time. Please refrain from submitting multiple SafeTravel Pass applications or submitting new applications when you already have a valid SafeTravel Pass on hand. Duplicate applications will be rejected.
 
-#### 11. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
+#### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
 
 Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
 
 Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian citizens) will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
-#### 12. How can I further extend my Visit Pass / stay when I am in Singapore, if necessary?
+#### 11. How can I further extend my Visit Pass / stay when I am in Singapore, if necessary?
 
 All applications for extension of Visit Pass must be submitted online using ICA’s e-Service (<https://eservices.ica.gov.sg/esvclandingpage/extend>) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits.
 
-#### 13. My travel plans have changed/I incorrectly entered some information in my application. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
+#### 12. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
 
 Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
 
-#### 14. What if I have changes to my controlled itinerary?
+#### 13. What if I have changes to my controlled itinerary?
 
 The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://go.gov.sg/rglsuppdocs>. This should be done even if the traveller is already in Singapore.
 
-#### 15. Why was my application rejected?
+#### 14. Why was my application rejected?
 
 SafeTravel Pass applications may be rejected for reasons, including the following:
 - The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
 - Application filed out of permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
 - Inadequate information provided.
 
-#### 16. I have submitted the necessary supporting documents prior to my departure from Malaysia to Singapore. Why did I receive a notification that the submission was unsuccessful?
+#### 15. I have submitted the necessary supporting documents prior to my departure from Malaysia to Singapore. Why did I receive a notification that the submission was unsuccessful?
 
 You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from Malaysia. You should submit only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 72 hours</u> of departure from Malaysia. Please resubmit the necessary documents within the stipulated window prior to departure.
 
 Do also ensure that the supporting documents submitted are in the correct format (pdf., jpeg.).
 
-#### 17. Can I use the RGL to come to Singapore for long-term work?
+#### 16. Can I use the RGL to come to Singapore for long-term work?
 
 The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website (<https://safetravel.ica.gov.sg>) for more information on the Periodic Commuting Arrangement (PCA), or visit [www.mom.gov.sg/passes-and-permits](https://www.mom.gov.sg/passes-and-permits) for more information on a separate scheme.
 
-#### 18. Can I use the RGL to come to Singapore for long-term study?
+#### 17. Can I use the RGL to come to Singapore for long-term study?
 
 The RGL is only for short-term essential business and official travel, and not for long-term study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders> for more information.
 
-#### 19. Are there restrictions on how I can travel to Singapore?
+#### 18. Are there restrictions on how I can travel to Singapore?
 
-Under the RGL, travellers can travel to Singapore by air via any non-stop flight route between airports in Singapore and Malaysia, as well as by land via the Causeway and Second Link.
+Under the RGL, travellers can travel to Singapore on a non-stop flight from any airport in Malaysia, as well as by land via the Causeway and Second Link.
 
-#### 20. Can I use the RGL to transit through Singapore?
+For travel by land, travellers may drive into Singapore in their own vehicle (including Malaysia-registered vehicles, subject to LTA's regulations and fees as outlined on the [One Motoring website](https://onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html).
+
+#### 19. Can I use the RGL to transit through Singapore?
 
 The RGL is only for short-term essential business and official travel between Singapore and Malaysia, and not for transit through Singapore.
 
 ### **Pre-Departure Measures in Malaysia**
 
-#### 21. What health measures must I take in Malaysia before departing for Singapore?
+#### 20. What health measures must I take in Malaysia before departing for Singapore?
 
 Travellers must remain in Malaysia and have not travelled out of the country for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Malaysia, undergo a pre-departure PCR test in Malaysia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the accredited laboratories by the Ministry of Health Malaysia [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf).
 
 The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia that conduct the COVID-19 test can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
 
-#### 22. What documentation do I need to present before I depart from Malaysia to Singapore?
+#### 21. What documentation do I need to present before I depart from Malaysia to Singapore?
 
 Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
 1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
@@ -151,7 +147,7 @@ Travellers by air and land are required to produce the following documents to th
 
 ### **Test Arrangements Upon Arrival in Singapore**
 
-#### 23. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
+#### 22. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
 
 RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, the Traveller must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance.
 
@@ -159,7 +155,7 @@ Travellers entering Singapore by air are encouraged to pre-register and pre-pay 
 
 Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the land checkpoints.
 
-#### 24. What if I test positive for COVID-19 in Singapore?
+#### 23. What if I test positive for COVID-19 in Singapore?
 
 Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.  Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller.
 
@@ -167,21 +163,21 @@ Note that all Short-Term Pass Holders will be accorded the necessary medical tre
 
 ### **Health Measures in Singapore**
 
-#### 25. What health measures will I be subjected to upon arrival in Singapore?
+#### 24. What health measures will I be subjected to upon arrival in Singapore?
 
-RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) for one to two days until negative test results are released. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>3</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) until negative test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>3</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
-#### 26. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 25. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
 The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
-#### 27. What is SafeEntry?
+#### 26. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -189,7 +185,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Malaysia**
 
-#### 28. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
+#### 27. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
 
 RGL returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
 
@@ -252,13 +248,17 @@ Those seeking to enter Malaysia for purposes other than essential business and o
 
 Under the RGL, travellers can travel to Malaysia by air via any non-stop flight route between airports in Singapore and Malaysia, as well as by land via the Causeway and Second Link.
 
+#### 6. Who can I contact for more information on the arrangements in Malaysia, e.g., accommodation and transport?
+
+The traveller may contact his/her host company or government agency in Malaysia to make the necessary arrangements in Malaysia.
+
 ### **Testing Arrangements**
 
-#### 6. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+#### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-A RGL traveller departing for Malaysia can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **[ANNEX A](#annexa)**. Testing for RGL travel can only be carried out at these clinics currently. An eligible RGL traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **[ANNEX A](#annexa)**. Testing for RGL travel should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
 
@@ -266,21 +266,21 @@ The traveller must present at the clinic, a copy of the Malaysia-issued travel p
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
-#### 7. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
+#### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
 Travellers with ARI symptoms should not travel. They should postpone their travel plans.
 
-#### 8. What tests will I be subject to upon arrival in Malaysia? Will I be subject to a serology test in Malaysia?
+#### 9. What tests will I be subject to upon arrival in Malaysia? Will I be subject to a serology test in Malaysia?
 
 A RGL traveller to Malaysia will be subject to a COVID-19 PCR test at the point of entry or within 24 hours upon arrival.
 
-#### 9. What if I test positive for COVID-19 in Malaysia?
+#### 10. What if I test positive for COVID-19 in Malaysia?
 
 If tested positive for COVID-19 in Malaysia, the traveller will be accorded the necessary medical treatment by the Malaysian government at his/her cost.
 
 ### **Pre-Departure in Singapore**
 
-#### 10. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Malaysia?
+#### 11. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Malaysia?
 
 Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Malaysian government specifically for essential business or official travel under the RGL.
 
@@ -288,13 +288,13 @@ For travellers departing via land checkpoints, the traveller is required to prod
 
 ### **Health Measures in Malaysia**
 
-#### 11. Do I need to be quarantined upon arrival in Malaysia?
+#### 12. Do I need to be quarantined upon arrival in Malaysia?
 
 After undergoing a PCR test upon arrival, the traveller must remain under isolation until the test results are released. The traveller will be required to be transported directly by the sponsor to a non-residential accommodation, and be isolated while awaiting the test result. The traveller has to bear the costs of the post-arrival test and the isolation in the designated accommodation.
 
 If the <u>traveller tests</u> negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Malaysia.
 
-#### 12. What other health measures will I be subject to in Malaysia? What would qualify as a “controlled itinerary” in Malaysia?
+#### 13. What other health measures will I be subject to in Malaysia? What would qualify as a “controlled itinerary” in Malaysia?
 
 The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in Malaysia, including downloading the MySejahtera contact tracing apps as required by the Malaysian authorities.
 
@@ -306,7 +306,7 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 ### **Returning to Singapore**
 
-#### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
+#### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
 Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, without the need to appeal, if they:
 - Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Malaysia, and obtain the negative test result prior to departure; and
@@ -314,11 +314,13 @@ Singapore-based travellers returning from their travel on the Singapore-Malaysia
 
 The list of accredited laboratories by the Ministry of Health Malaysia can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf). The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
 
+You may wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for inbound travellers.
+
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
-#### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
+#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled to Malaysia on the Singapore-Malaysia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Malaysia on the Singapore-Malaysia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Malaysia-issued travel pass which confirms that he/she was granted approval by the relevant authorities to travel to Malaysia under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Malaysia via the RGL.
 
@@ -330,240 +332,11 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### Booking an appointment
 
-##### 1. [Updated] Which clinics can I get the PCR tests from?
+##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for green/fast lane arrangements may only be performed at the following clinics for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible fast lane travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
-
-##### Northeast
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Intemedical (Kovan)</b><br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
-    <td>Weekdays/Weekends/PH:<br>8am-12 midnight</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$199</td>
-    <td style="text-align: center;">62433036</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
-    <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$199</td>
-    <td style="text-align: center;">68864768</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
-    <td><b>Parkway Shenton Medical</b><br><b>Group</b><br><br>Blk 681, Punggol Drive,<br>#01-01, Singapore 820681</td>
-    <td>Weekdays:<br>8am-1pm<br>2pm-5pm<br>7pm-10pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62248324</td>
-  </tr>
-</tbody>
-</table>
-
-##### Northwest
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Doctors Clinic & Surgery</b><br><br>Block 305, Woodlands<br>Street 31, #01-91,<br>Singapore 730305</td>
-    <td>Weekdays:<br>8.30am-12pm<br>2pm-4.30pm<br>6.30pm-9pm<br><br>Weekends: 8.30am-12pm<br><br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$185</td>
-    <td style="text-align: center;">62691017</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
-    <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">65094480</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
-    <td><b>Shenton Medical Group</b><br><br>Block 160, Yishun Street 11,<br>#01-200, Singapore 760160</td>
-    <td>Weekdays:<br>All Weekdays:<br>8.30am-1pm<br>2pm-5.30pm<br>----<br>Only Mon & Thu: 6.30pm-9pm<br><br>Weekends/PH:<br>Sat: 8.30am-12.30pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">68516233</td>
-  </tr>
-</tbody>
-</table>
-
-##### Central
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Silver Cross Medical</b><br><br>275A Holland Avenue<br>(Clinic located on 2nd storey),<br>Singapore 278993</td>
-    <td>Weekdays/Weekends/PH:<br>8am-10pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$197.95</td>
-    <td style="text-align: center;">64622818</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>Raffles Medical<br>Group@Raffles City</b><br><br>252 North Bridge Road<br>#02-17, Raffles City Shopping Centre,<br>Singapore 179103</td>
-    <td>Weekdays:<br>7.30am-1pm<br>2pm-5.30pm<br><br>Weekends/PH:<br>Sat: 7.30am-1pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
-    <td><b>Raffles Medical<br>Group@Shaw Centre</b><br><br>1 Scotts Road, #04-09 to 14,<br>Shaw Centre,<br>Singapore 228208</td>
-    <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">4</td>
-    <td><b>Raffles Medical<br>Group@Holland Village</b><br><br>118 Holland Ave, Level 5,<br>Raffles Holland V,<br>Singapore 278997</td>
-    <td>Weekdays: 8.30am-9.30pm<br><br>Weekends/PH:<br>8.30am-1pm<br>2pm-5.30pm<br>6.30pm-9.30pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">5</td>
-    <td><b>1 Medical Teck Ghee</b><br><br>410 Ang Mo Kio Avenue 10,<br>#01-837, Singapore 560410</td>
-    <td>Weekdays:<br>7am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>7am-1pm<br>6pm-11pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62517030</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">6</td>
-    <td><b>Braddell Medical Clinic</b><br><br>124 Toa Payoh Lorong 1<br>#01-489, Singapore 310124</td>
-    <td>Weekdays:<br>8am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>8am-1pm<br>6pm-11pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$192.60</td>
-    <td style="text-align: center;">62536288</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">7</td>
-    <td><b>EJ Family Clinic & Surgery</b><br><br>Block 109, Toa Payoh Lorong 1,<br>#01-314, Singapore 310109</td>
-    <td>Weekdays:<br>8am-2pm<br>6pm-9pm<br><br>Weekends/PH:<br>Sat: 8am-11am<br>Sun: 8am-2pm<br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">63530811</td>
-  </tr>
-</tbody>
-</table>
-
-##### Southwest
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Raffles Medical<br>Group@Harbourfront</b><br><br>1 Maritime Square, #03-56,<br>Harbourfront Centre,<br>Singapore 099253</td>
-    <td>Weekdays:<br>Mon: 8.30am-7pm<br>Tues-Fri: 8.30am-5.30pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-</tbody>
-</table>
-
-##### Southeast
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Crossroads Family Clinic</b><br><br>Blk 601B, Tampines Ave 9,<br>#01-10, Singapore 522601</td>
-    <td>Weekdays:<br>Mon-Fri: 8am-12.30pm<br>Mon-Wed & Fri: 2pm-4pm<br>Mon & Wed: 5.30pm-8.30pm<br><br>Weekends/PH:<br>Sat: 8am-12.30pm<br>Sun: 5.30pm-8.30pm<br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">65927080</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>True Medical Clinic<br>Tampines West</b><br><br>Blk 824, Tampines St 81,<br>#01-26, Singapore 520824</td>
-    <td>Weekdays: 8am-2pm<br><br>Weekends/PH: 6pm-11pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">69090324</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
-    <td><b>Raffles Medical<br>Group@Changi Airport<br>Terminal 3 B2</b><br><br>Singapore Changi Airport<br>65 Airport Boulevard, #B2-01,<br>Singapore 819663</td>
-    <td>Weekdays/Weekends/PH: 24h</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">4</td>
-    <td><b>Temasek Clinic & Surgery</b><br><br>73 Bedok South Ave 3,<br>#01-460, Singapore 460073</td>
-    <td>Weekdays:<br>Mon-Thu:<br>8.45am-2pm<br>6pm-9pm<br>----<br>Fri: 8.45am-2pm<br><br>Weekends/PH:<br>Sat & Sun: 8.45am-12pm<br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">64436113</td>
-  </tr>
-</tbody>
-</table>
 
 ##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
 
