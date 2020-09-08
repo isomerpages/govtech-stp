@@ -198,7 +198,7 @@ The term “host” refers to the company or government agency that receives the
 
 #### 1. Who is eligible to apply to travel to China under the fast lane?
 
-Residents in Singapore (i.e., Singapore Citizens, Permanent Residents, Long-Term Pass holders) who need to make essential business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
+Persons of all nationalities who are legally resident in Singapore (i.e., Singapore Citizens, Permanent Residents, Long-Term Pass holders) who need to make single-entry, short term essential travel for business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
 The relevant Chinese government authorities will assess each application on a case-by-case basis.
 
@@ -208,7 +208,7 @@ Residents in Singapore seeking to travel to China for essential business or offi
 
 If the application is approved, a Letter of Invitation specifically for essential business or official travel under the fast lane will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the fast lane requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 48 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details.
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the fast lane requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 48 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
 
 #### 3. What visas will I be eligible for under the fast lane, and what is the visa duration in China?
 
@@ -244,9 +244,9 @@ The traveller may contact his/her host company or government agency in China to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-A fast lane traveller departing for China can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 48 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+The fast lane traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 48 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for fast lane arrangements can only be carried out at these clinics at the moment. An eligible fast lane traveller can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for fast lane arrangements should only be carried out at these clinics at the moment. An eligible fast lane traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -254,21 +254,25 @@ The traveller must also obtain a letter from the PRC Embassy in Singapore which 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
-#### 9.	What tests will I be subject to upon arrival in China? Will I be subject to a serology test in China?
+#### 9. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
-A fast lane traveller to China will be subject to one PCR test and one serology test upon arrival.<sup>1</sup>
+Travellers with ARI symptoms should not travel. They should postpone their travel plans.
 
-#### 10. What if I test positive for COVID-19 in China?
+#### 10.	What tests will I be subject to upon arrival in China? Will I be subject to a serology test in China?
+
+A fast lane traveller to China will be subject to a PCR test and a serology test upon arrival.<sup>1</sup>
+
+#### 11. What if I test positive for COVID-19 in China?
 
 If tested positive for COVID-19 in China, the traveller will be accorded the necessary medical treatment by the local government at his/her cost.
 
-#### 11. I have completely recovered from COVID-19, but may still test positive on the post-arrival serology test in China. May I still travel to China?
+#### 12. I have completely recovered from COVID-19, but may still test positive on the post-arrival serology test in China. May I still travel to China?
 
 The Chinese authorities require a traveller to test negative for both the post-arrival PCR test and serology test before the traveller can proceed with his/her travel plans in China.
 
 ### **Pre-Departure in Singapore**
 
-#### 12. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
+#### 13. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
 
 Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the fast lane.
 
@@ -276,13 +280,13 @@ As the specific requirements may vary amongst provinces/municipalities, the trav
 
 ### **Health Measures in China**
 
-#### 13. Do I need to be quarantined upon arrival in China?
+#### 14. Do I need to be quarantined upon arrival in China?
 
 After undergoing a PCR test and serology test upon arrival, the traveller must remain in a centralised quarantine area designated by the local provincial/municipal government for one to two days until the test results are released. The traveller has to bear the costs of the post-arrival tests and the one to two days’ stay in the designated location.
 
 If the traveller tests negative for both COVID-19 tests, the host company or government agency will transport the traveller directly from the above-mentioned location designated by the local provincial/municipal government to the workplace or residence.
 
-#### 14. What other health measures will I be subject to in China? What would qualify as a “controlled itinerary” in China?
+#### 15. What other health measures will I be subject to in China? What would qualify as a “controlled itinerary” in China?
 
 The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in China, including downloading the local health QR code used in the province/municipality.
 
@@ -296,20 +300,22 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 
 ### **Returning to Singapore**
 
-#### 15. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
+#### 16. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
 
-Singapore-based travellers returning from their travel on the Singapore-China Fast Lane may be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
+Singapore-based travellers returning from their travel on the Singapore-China Fast Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, without the need to appeal, if they:
 - Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 48 hours prior to their departure from China, and obtain the negative test result prior to departure; and
 - Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 - Produce the following two documents to ICA at Singapore Immigration (a) the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane; and (b) negative COVID-19 PCR test result obtained 48 hours prior to departure from China.
 
 The list of medical institutions designated by the relevant authorities in China for pre-departure COVID-19 testing can be found [here](http://bmfw.www.gov.cn/mhsjcjgcx/index.html).
 
+Please refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for returning travellers.
+
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
-##### 16.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
+##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to China on the Singapore-China fast lane may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to China on the Singapore-China fast lane may tap on their usual financing arrangements, such as foreign worker insurance.
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the fast lane.
 
@@ -338,228 +344,15 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at the following clinics for eligible fast lane travellers.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible fast lane travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
-
-##### Northeast
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Intemedical (Kovan)</b><br><br>Blk 210, Hougang Street 21,<br>#01-233, Singapore 530210</td>
-    <td>Weekdays/Weekends/PH:<br>8am-12 midnight</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$199</td>
-    <td style="text-align: center;">62433036</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>Prohealth Medical Group</b><br><b>@Fernvale Pte Ltd</b><br><br>33 Sengkang West Avenue,<br>#B1-18, The Seletar Mall,<br>Singapore 797653</td>
-    <td>Weekdays: 8am-10pm<br><br>Weekends: 8am-1pm<br><br>PH: 9am-10pm</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$199</td>
-    <td style="text-align: center;">68864768</td>
-  </tr>
-</tbody>
-</table>
-
-##### Northwest
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Doctors Clinic & Surgery</b><br><br>Block 305, Woodlands<br>Street 31, #01-91,<br>Singapore 730305</td>
-    <td>Weekdays:<br>8.30am-12pm<br>2pm-4.30pm<br>6.30pm-9pm<br><br>Weekends: 8.30am-12pm<br><br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$185</td>
-    <td style="text-align: center;">62691017</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>Clover Medical Clinic Pte Ltd</b><br><br>21 Choa Chu Kang North 6,<br>#01-01, Yew Tee Point,<br>Singapore 689578</td>
-    <td>Weekdays:<br>Mon-Thurs: 8am-4pm<br>----<br>Fri: 9am-12pm<br><br>Weekends/PH:<br>Sat: 9am-12pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">65094480</td>
-  </tr>
-</tbody>
-</table>
-
-##### Central
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Silver Cross Medical</b><br><br>275A Holland Avenue<br>(Clinic located on 2nd storey),<br>Singapore 278993</td>
-    <td>Weekdays/Weekends/PH:<br>8am-10pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$197.95</td>
-    <td style="text-align: center;">64622818</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>Raffles Medical<br>Group@Raffles City</b><br><br>252 North Bridge Road<br>#02-17, Raffles City Shopping Centre,<br>Singapore 179103</td>
-    <td>Weekdays:<br>7.30am-1pm<br>2pm-5.30pm<br><br>Weekends/PH:<br>Sat: 7.30am-1pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
-    <td><b>Raffles Medical<br>Group@Shaw Centre</b><br><br>1 Scotts Road, #04-09 to 14,<br>Shaw Centre,<br>Singapore 228208</td>
-    <td>Weekdays: 8.30am-6pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">4</td>
-    <td><b>Raffles Medical<br>Group@Holland Village</b><br><br>118 Holland Ave, Level 5,<br>Raffles Holland V,<br>Singapore 278997</td>
-    <td>Weekdays: 8.30am-9.30pm<br><br>Weekends/PH:<br>8.30am-1pm<br>2pm-5.30pm<br>6.30pm-9.30pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">5</td>
-    <td><b>1 Medical Teck Ghee</b><br><br>410 Ang Mo Kio Avenue 10,<br>#01-837, Singapore 560410</td>
-    <td>Weekdays:<br>7am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>7am-1pm<br>6pm-11pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">62517030</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">6</td>
-    <td><b>Braddell Medical Clinic</b><br><br>124 Toa Payoh Lorong 1<br>#01-489, Singapore 310124</td>
-    <td>Weekdays:<br>8am-1pm<br>6pm-11pm<br><br>Weekends/PH:<br>8am-1pm<br>6pm-11pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$192.60</td>
-    <td style="text-align: center;">62536288</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">7</td>
-    <td><b>EJ Family Clinic & Surgery</b><br><br>Block 109, Toa Payoh Lorong 1,<br>#01-314, Singapore 310109</td>
-    <td>Weekdays:<br>8am-2pm<br>6pm-9pm<br><br>Weekends/PH:<br>Sat: 8am-11am<br>Sun: 8am-2pm<br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">63530811</td>
-  </tr>
-</tbody>
-</table>
-
-##### Southwest
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Raffles Medical<br>Group@Harbourfront</b><br><br>1 Maritime Square, #03-56,<br>Harbourfront Centre,<br>Singapore 099253</td>
-    <td>Weekdays:<br>Mon: 8.30am-7pm<br>Tues-Fri: 8.30am-5.30pm<br><br>Weekends/PH:<br>Sat: 8.30am-1pm<br>Sun & PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-</tbody>
-</table>
-
-##### Southeast
-
-<table>
-<thead>
-  <tr>
-    <th style="text-align: center;">S/N</th>
-    <th style="text-align: center;">Clinic Name</th>
-    <th style="text-align: center;">Clinic Hours<br><em>PH = Public Holiday</em></th>
-    <th style="text-align: center;">Able to swab children?</th>
-    <th style="text-align: center;">Charge</th>
-    <th style="text-align: center;">Clinic Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style="text-align: center;">1</td>
-    <td><b>Crossroads Family Clinic</b><br><br>Blk 601B, Tampines Ave 9,<br>#01-10, Singapore 522601</td>
-    <td>Weekdays:<br>Mon-Fri: 8am-12.30pm<br>Mon-Wed & Fri: 2pm-4pm<br>Mon & Wed: 5.30pm-8.30pm<br><br>Weekends/PH:<br>Sat: 8am-12.30pm<br>Sun: 5.30pm-8.30pm<br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">65927080</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">2</td>
-    <td><b>True Medical Clinic<br>Tampines West</b><br><br>Blk 824, Tampines St 81,<br>#01-26, Singapore 520824</td>
-    <td>Weekdays: 8am-2pm<br><br>Weekends/PH: 6pm-11pm</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">69090324</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">3</td>
-    <td><b>Raffles Medical<br>Group@Changi Airport<br>Terminal 3 B2</b><br><br>Singapore Changi Airport<br>65 Airport Boulevard, #B2-01,<br>Singapore 819663</td>
-    <td>Weekdays/Weekends/PH: 24h</td>
-    <td style="text-align: center;">Yes<br>0-12 years</td>
-    <td style="text-align: center;">$186</td>
-    <td style="text-align: center;">63111111</td>
-  </tr>
-  <tr>
-    <td style="text-align: center;">4</td>
-    <td><b>Temasek Clinic & Surgery</b><br><br>73 Bedok South Ave 3,<br>#01-460, Singapore 460073</td>
-    <td>Weekdays:<br>Mon-Thu:<br>8.45am-2pm<br>6pm-9pm<br>----<br>Fri: 8.45am-2pm<br><br>Weekends/PH:<br>Sat & Sun: 8.45am-12pm<br>PH: Closed</td>
-    <td style="text-align: center;">Yes<br>6-12 years</td>
-    <td style="text-align: center;">$200</td>
-    <td style="text-align: center;">64436113</td>
-  </tr>
-</tbody>
-</table>
 
 ##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
 You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment.
 
-You must be present at least two hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
+You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
 
 | Flight departure time | Latest Cut-off Test Timing |
 |-----------------------|-----------------------------------------|
@@ -578,7 +371,7 @@ Please call the clinic and book your test slot before the Cut-Off Test Timing in
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and fast lane requirements are confirmed.
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and your fast lane application is approved.
 
 Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the fast lane requirements.
 
