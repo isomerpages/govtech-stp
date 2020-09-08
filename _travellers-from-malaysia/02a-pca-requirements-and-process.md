@@ -57,7 +57,9 @@ Prior to arrival at the immigration checkpoints, employees approved under the PC
 - Bring along their passport and work pass when entering Singapore.
 - Please ensure that your employee has a copy (electronic or hardcopy) of the PCA approval letter, which may be required as proof during immigration clearance at Malaysia's checkpoint.
 
-Employees approved under the PCA can commute from Malaysia’s immigration checkpoint to Singapore via personal transport, via private buses that only ferry Malaysian passengers who will be serving SHN, or by foot. Do note that all prevailing Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for personal transport modes. More details of such fees can be found at: <https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html>.
+Employees approved under the PCA can commute from Malaysia’s immigration checkpoint to Singapore via personal transport, via private buses that only ferry Malaysian passengers who will be serving SHN, or by foot.
+
+<sup>*</sup><u>IMPORTANT:</u> Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for all personal transport modes. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> To avoid accumulating your VEP fees, you are encouraged to pay your VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only). Please click here for more information about VEP payment methods.
 
 ### **Arrival in Singapore**
 
