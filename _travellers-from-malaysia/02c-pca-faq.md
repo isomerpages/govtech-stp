@@ -177,13 +177,9 @@ The Singapore Government will not arrange or bear the costs of an employee’s a
 
 There is no list of pre-approved hotels for SHN. If you wish to serve your SHN in a hotel, you may do so in a hotel of your choice. Please indicate to the properties you approach that you/your employee will be serving SHN.
 
-#### 34. If I am feeling unwell during my SHN period, who can I contact to receive medical attention?
+#### 34. What should I do if I am feeling unwell on the date of my COVID-19 PCR swab appointment?
 
-To obtain emergency medical treatment or other medical treatment that is of a pressing nature (e.g. cardiac arrest, active seizures, breathlessness, major traumas, stroke, etc), please call 995 directly for assistance.
-
-For all other non-emergency medical needs (such as cough, fever, runny nose, or follow-up visits for chronic conditions, refilling of prescriptions, etc.), you may contact your employer, or your Singapore employment agency.
-
-If you are feeling unwell on the day of your COVID-19 PCR swab appointment, <u><b>do not proceed to the appointed test site</b></u>, and seek the appropriate medical attention via the above-mentioned means.
+If you are feeling unwell on the day of your COVID-19 PCR swab appointment, <b><u>do not proceed to the appointed test site</u></b>. Please refer to the following link for the terms and conditions of your swab appointment, including the available means to seek appropriate medical attention: <https://go.gov.sg/tc>.
 
 ### **Health Measures**
 
