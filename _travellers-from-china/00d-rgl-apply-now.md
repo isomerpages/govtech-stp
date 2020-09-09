@@ -4,7 +4,7 @@ permalink: /china/rgl/apply-now
 third_nav_title: Singapore-China Fast Lane
 ---
 
-<div style="border:2px solid #ffc848; background-color:#fff9f0; padding:20px; margin-bottom:20px;">
+<div style="border:5px solid #ffc848; background-color:#fff9f0; padding:20px; margin-bottom:20px;">
   <p>Applications are open between 7 to 20 clear working days before your intended date of entry. Please note that the processing of the application can take up to 7 working days. You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures.</p>
 </div>
 
