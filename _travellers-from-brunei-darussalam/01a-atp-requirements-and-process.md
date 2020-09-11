@@ -79,7 +79,7 @@ To facilitate contact tracing, visitors must keep the TraceTogether app activate
 
 <sup>1</sup> Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.
 
-<sup>2</sup> Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for the list of hotels approved to receive visitors travelling to Singapore.
+<sup>2</sup> Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.
 
 <sup>3</sup> Mobile devices that are incompatible with the TraceTogether app include:
 - Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.)
