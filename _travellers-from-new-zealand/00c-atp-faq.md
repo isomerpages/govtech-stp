@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /brunei/atp/faq
+permalink: /newzealand/atp/faq
 third_nav_title: Air Travel Pass
 ---
 
