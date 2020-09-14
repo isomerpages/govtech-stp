@@ -205,6 +205,7 @@ Travellers should make an appointment that fits your required testing window, an
 : b. PDF copy of the SafeTravel Pass
 
 : c. Softcopy showing your departure flight timing 
+
 -----
 
 <sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.
