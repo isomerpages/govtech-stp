@@ -190,7 +190,7 @@ Please call the clinic and book your test slot before the Cut-Off Test Timing in
 
 Travellers should make an appointment that fits your required testing window, and present at the clinic early for the appointment.
 
-<u>Travellers must be present at least 2 hours prior to,  and no later than,  the stipulated cut-off timing in the table below.</u> Travellers are responsible for checking for, and scheduling a test within their required window. Travellers who do not adhere to this cut-off timing will <b>not</b> be able to obtain the results in time for departure.
+<u>Travellers must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers are responsible for checking for, and scheduling a test within their required window. Travellers who do not adhere to this cut-off timing will <b>not</b> be able to obtain the results in time for departure.
 
 | Flight departure time | Latest Cut-off Test Timing |
 |-----------------------|-----------------------------------------|
