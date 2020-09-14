@@ -193,7 +193,7 @@ Travellers should make an appointment that fits your required testing window, an
 <u>Travellers must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers are responsible for checking for, and scheduling a test within their required window. Travellers who do not adhere to this cut-off timing will <b>not</b> be able to obtain the results in time for departure.
 
 | Flight departure time | Latest Cut-off Test Timing |
-|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------|-----------------------------------------|
 | 12.00 am to 9:29 am | 10.00 am two calendar days before flight |
 | 9:30am to 3:29pm | 4:00pm two calendar days before flight |
 | 3:30pm to 11.59pm | 10.00am the day before flight |
