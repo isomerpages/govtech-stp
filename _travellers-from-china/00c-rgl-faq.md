@@ -200,7 +200,6 @@ Travellers should make an appointment that fits your required testing window, an
 
 <br>
 
-
 Please bring the following when you present at the clinic for testing:
 
 : a. Identity card or passport
