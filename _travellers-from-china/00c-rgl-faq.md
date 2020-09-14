@@ -199,6 +199,7 @@ Travellers should make an appointment that fits your required testing window, an
 | 3:30pm to 11.59pm | 10.00am the day before flight |
 
 <br>
+
 Please bring the following when you present at the clinic for testing:
 
 : a. Identity card or passport
