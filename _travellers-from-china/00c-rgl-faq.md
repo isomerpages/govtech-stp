@@ -198,11 +198,11 @@ Travellers should make an appointment that fits your required testing window, an
 | 9:30am to 3:29pm | 4:00pm two calendar days before flight |
 | 3:30pm to 11.59pm | 10.00am the day before flight |
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;"> Please bring the following when you present at the clinic for testing: 
+<p style="font-size: 1.0rem; line-height: 1.8rem;"> Please bring the following when you present at the clinic for testing: </p>
 : a. Identity card or passport
 : b. PDF copy of the SafeTravel Pass
 : c. Softcopy showing your departure flight timing 
-</p>
+
 -----
 
 <sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.
