@@ -337,7 +337,7 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 
 #### 16. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
 
-Singapore-based travellers returning from their travel on the Singapore-China Fast Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, without the need to appeal, if they:
+Singapore-based travellers returning from their travel on the Singapore-China Fast Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 - Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 48 hours prior to their departure from China, and obtain the negative test result prior to departure; and
 - Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 - Produce the following two documents to ICA at Singapore Immigration (a) the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane; and (b) negative COVID-19 PCR test result obtained 48 hours prior to departure from China.
