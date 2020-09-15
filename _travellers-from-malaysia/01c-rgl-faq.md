@@ -304,7 +304,7 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 #### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, without the need to appeal, if they:
+Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 - Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Malaysia, and obtain the negative test result prior to departure; and
 - Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 
