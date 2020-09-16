@@ -318,15 +318,7 @@ Please refer to <https://www.ica.gov.sg/covid-19> for the latest details and upd
 
 Travellers are also reminded to submit their health declarations via ICA’s SG Arrival Card e-Service up to three days prior to their arrival in Singapore.
 
-The authorised health centres designated by the Government of Brunei for pre-departure COVID-19 testing are as follows:
-1. Sports Complex Swab Centre RIPAS Hospital
-2. SARI Centre, Suri Seri Begawan Hospital
-3. Berakas Health Centre
-4. PAPHMWHB Gadong Health Centre
-5. Pengkalan Batu Health Centre
-6. Seria Health Centre
-
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.
 
 #### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei?
 
