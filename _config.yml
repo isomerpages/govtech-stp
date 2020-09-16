@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: Scheduled maintenance will be taking place on 20 September 2020, from 12mn to 8am. During this period, application services for Air Travel Pass will not be available.
+notification: Scheduled maintenance will be taking place on:<ul><li>18 September 2020, from 10am to 12pm. During this period, application services for Fast/Green Lane will not be available</li><li>20 September 2020, from 12mn to 8am. During this period, application services for Air Travel Pass will not be available.</li></ul>
 
 # Site colors
 colors:
