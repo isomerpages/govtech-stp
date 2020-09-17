@@ -247,4 +247,181 @@ The RGL is for travel between Singapore and Japan, though the only entry/exit po
 
 The traveller may contact his/her host company or government agency in Japan to make the necessary arrangements in Japan.
 
+### **Test Arrangements**
+
+#### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+
+An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
+
+The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
+
+Prior to the test, the traveller must obtain a letter from the Embassy of Japan in Singapore which confirms that he/she has been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan  RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered. 
+
+The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+
+#### 9. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
+
+Travellers with ARI symptoms should not travel. They should postpone their travel plans.
+
+#### 10. What tests will I be subject to upon arrival in Japan? Will I be subject to a serology test in Japan?
+
+An RGL traveller to Japan will be subject to a COVID-19 test in Japan. There is no requirement for a serology test in Japan.  
+
+#### 11. What if I test positive for COVID-19 in Japan?
+
+If tested positive for COVID-19 in Japan, the traveller will be accorded the necessary medical treatment by the Japanese Government.
+
+### **Pre-Departure in Singapore**
+
+#### 12.	What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Japan?
+
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result and a valid visa.
+
+As the specific requirements may evolve over time, the traveller should seek an update on the latest requirements from his/her local host company or government agency.
+
+### **Arrival in Japan**
+
+#### 13.	What documentation do I need to present upon arrival in Japan?
+
+Travellers are required to present their declaration form, itinerary in Japan, a health questionnaire, and their negative pre-departure COVID-19 test result upon arrival.
+
+### **Health Measures in Japan**
+
+#### 14. Do I need to be quarantined upon arrival in Japan?
+
+After undergoing a PCR test upon arrival at the airport in Japan, the traveller must remain at a designated location (designated waiting areas in the airport, the travellers’ own residence, or private accommodation facilities) until the results are released and negative. 
+
+If the traveller tests negative, he/she must refrain from using public transportation for 14 days after entry, and obtain permission from the relevant authorities to conduct activities according to his/her declared itinerary. 
+
+#### 15.	What other health measures will I be subject to in Japan? 
+
+The traveller must follow all local COVID-19 prevention and social distancing guidelines for the entire duration of his/her stay in Japan. This includes any period of time spent in Japan after the 14-day controlled itinerary.
+
+The traveller must adhere to the Japanese Government’s requirement to install and activate the messaging application LINE and the contact-tracing application COCOA, as well as keep location services switched on for the first 14 days of his/her stay in Japan.
+
+The traveller must keep to the controlled itinerary that is supervised by the receiving enterprise or government agency in Japan for the first 14 days. 
+
+### **Returning to Singapore**
+
+#### 16.	What health measures will I be subject to upon returning to Singapore after my RGL travel? 
+
+Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they: 
+
+- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Japan, and obtain the negative test result prior to departure; and 
+- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
+- Produce the following two documents to ICA at Singapore Immigration: (a) the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL; and (b) negative COVID-19 PCR test result obtained 72 hours prior to departure from Japan.  
+
+Please visit <https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf>  or approach the Embassy of Japan in Singapore for further details on the medical institutions at which pre-departure COVID-19 testing in Japan can be conducted.  
+
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.  If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN.  For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>
+
+#### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
+
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled  to Japan on the Singapore-Japan RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to Japan on the Singapore-Japan RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+
+Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the Embassy of Japan in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to Japan via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Japan via the RGL.
+
+### **ANNEX A**
+
+#### Point-of-Contact for RGL/Business Track Travel by Singapore Residents to Japan
+
+Embassy of Japan in Singapore 
+Phone: +65- 6235-8855 
+Email: <fastlane@sn.mofa.go.jp>
+
+### **ANNEX B**
+
+#### Pre-Departure COVID-19 Tests in Singapore
+
+##### Booking an appointment
+
+##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
+
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [Selected clinics](https://www.safetravel.ica.gov.sg/pre-departure-test) for eligible RGL travellers.
+
+Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+
+
+##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
+
+You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment.
+
+<u>You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
+
+| Flight departure time | Latest Cut-off Test Timing |
+|-----------------------|-----------------------------------------|
+| 12:00am to 9:29am | 10.00am two calendar days before flight |
+| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
+| 3.30pm to 11.59pm | 10:00am the day before flight |
+
+*Example:*
+*If a traveller’s departure flight time is 12pm on 20 August and the required test must be done within 72 hours of departure, the traveler should take the swab from 12pm on 17 August onwards, until the cut-off timing*
+
+*The latest the traveller can present himself/herself is by 4pm on 18 August.*
+
+##### 3.	How can I make an appointment for pre-departure PCR testing?
+
+For RGL travel to Japan, the pre-departure PCR test must be done within 72 hours prior to departure.
+
+Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
+
+##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
+
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. 
+
+Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements. 
+
+If you do not make a prior appointment, please note that:  
+: a.	There is no guarantee that there will be a test slot for you; and 
+: b. You may not get your results in time for your flight to qualify for RGL arrangements. 
+
+Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
+
+##### 5. What details will I need to book an appointment for the PCR test? 
+
+Please have the following information on hand when making an appointment for your test:
+: a.	Identity card number or passport number
+: b.	Departure flight timing
+: c.	Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
+: d.	Address in Singapore 
+: e.	Contact number 
+: f.	Email address 
+
+##### 6.	What documents should I bring for my appointment?
+
+Please bring the following:
+: a.	Identity card or passport 
+: b.	Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japn RGL. 
+: c.	Softcopy booking reference showing your departure flight timing
+
+##### Testing
+
+##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
+
+Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.  
+
+Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
+
+##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
+
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
+
+##### Test Results
+
+##### 9.	When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your flight. 
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+
+
+
+
+
+
+
+
+
 
