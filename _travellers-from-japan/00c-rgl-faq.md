@@ -385,27 +385,38 @@ Due to limited slots, please make your appointment with the clinic as early as p
 
 Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements. 
 
-If you do not make a prior appointment, please note that:  
+<span class="test" style="font-size:20px;"> If you do not make a prior appointment, please note that: </span>
+
 : a.	There is no guarantee that there will be a test slot for you; and 
+
 : b. You may not get your results in time for your flight to qualify for RGL arrangements. 
 
 Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
 
 ##### 5. What details will I need to book an appointment for the PCR test? 
 
-Please have the following information on hand when making an appointment for your test:
+<span class="test" style="font-size:20px;">  Please have the following information on hand when making an appointment for your test: </span>
+
 : a.	Identity card number or passport number
+
 : b.	Departure flight timing
+
 : c.	Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
+
 : d.	Address in Singapore 
+
 : e.	Contact number 
+
 : f.	Email address 
 
 ##### 6.	What documents should I bring for my appointment?
 
-Please bring the following:
+<span class="test" style="font-size:20px;"> Please bring the following: </span>
+
 : a.	Identity card or passport 
+
 : b.	Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japn RGL. 
+
 : c.	Softcopy booking reference showing your departure flight timing
 
 ##### Testing
