@@ -67,10 +67,10 @@ third_nav_title: Singapore-Japan Fast Lane
 12. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport. 
 
 13. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
-:a. Valid SafeTravel Pass approval letter for the intended week of travel;
-:b. Valid Visa (for visa-required passport holders); and
-:c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from authorities designated by the Japan government.
-:d. Return air ticket or proof of other transportation arrangements to depart Singapore.
+: a. Valid SafeTravel Pass approval letter for the intended week of travel;
+: b. Valid Visa (for visa-required passport holders); and
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from authorities designated by the Japan government.
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
 
 14. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation. 
  
