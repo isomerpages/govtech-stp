@@ -57,7 +57,6 @@ third_nav_title: Singapore-Japan Fast Lane
 10. The traveller must undertake a COVID-19 PCR test, at his/her own cost, within 72 hours prior to departure from Japan, and obtain a certificate of having tested negative for COVID-19 from authorities designated by the Japan Government prior to departure. 
 
 11. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
-
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid visa (for visa-required passport holders); and
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from authorities designated by the Japan government.
@@ -68,7 +67,6 @@ third_nav_title: Singapore-Japan Fast Lane
 12. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport. 
 
 13. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
-
 :a. Valid SafeTravel Pass approval letter for the intended week of travel;
 :b. Valid Visa (for visa-required passport holders); and
 :c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from authorities designated by the Japan government.
@@ -81,7 +79,6 @@ third_nav_title: Singapore-Japan Fast Lane
 16. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance. 
 
 17. For the duration of the traveller’s stay in Singapore, the traveller must:
-
 : a. download and utilise relevant mobile applications and technology solutions, including TraceTogether and SafeEntry, to facilitate contact tracing;
 : b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
