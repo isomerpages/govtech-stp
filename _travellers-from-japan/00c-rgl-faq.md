@@ -414,7 +414,7 @@ Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a 
 
 : a.	Identity card or passport 
 
-: b.	Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japn RGL. 
+: b.	Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. 
 
 : c.	Softcopy booking reference showing your departure flight timing
 
