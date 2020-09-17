@@ -91,7 +91,7 @@ Travellers who are granted entry into Singapore are generally issued with a Visi
 
 #### 11. How can I further extend my Visit Pass / stay when I am in Singapore, if necessary? 
 
-All applications for extension of Visit Pass must be submitted online using ICA’s e-Service <https://eservices.ica.gov.sg/esvclandingpage/extend> at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits.
+All applications for extension of Visit Pass must be submitted online using [ICA’s e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits.
 
 #### 12. My travel plans have changed/ some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/ approved SafeTravel Pass?
 
