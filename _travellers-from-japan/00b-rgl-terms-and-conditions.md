@@ -84,8 +84,8 @@ third_nav_title: Singapore-Japan Fast Lane
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
-: i. Travellers shall have meals alone, with the exception of business-hosted meals in accordance with SMM; and
-: ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
+  : i. Travellers shall have meals alone, with the exception of business-hosted meals in accordance with SMM; and
+  : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 
 #### Post-Departure from Singapore
 
