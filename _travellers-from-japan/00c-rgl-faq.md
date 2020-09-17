@@ -324,6 +324,8 @@ Travellers will be responsible for charges for COVID-19 treatment if symptoms de
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the Embassy of Japan in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to Japan via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Japan via the RGL.
 
+<div id="annexa"></div>
+
 ### **ANNEX A**
 
 #### Point-of-Contact for RGL/Business Track Travel by Singapore Residents to Japan
@@ -331,6 +333,8 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 Embassy of Japan in Singapore 
 Phone: +65- 6235-8855 
 Email: <fastlane@sn.mofa.go.jp>
+
+<div id="annexb"></div>
 
 ### **ANNEX B**
 
