@@ -170,7 +170,7 @@ Note that all Short-Term Pass Holders will be accorded the necessary medical tre
 
 #### 24. What health measures will I be subjected to upon arrival in Singapore?
 
-RGL travellers from Brunei must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) until negative test results are released (typically within 48 hours). Transportation from the airport/s to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2<sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Brunei must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) until negative test results are released (typically within 48 hours). Transportation from the airport/s to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for up to 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
 
