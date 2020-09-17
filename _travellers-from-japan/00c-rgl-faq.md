@@ -83,7 +83,7 @@ One traveller can only hold one valid SafeTravel Pass for a single entry into Si
 
 #### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore? 
 
-Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status here <https://eservices.ica.gov.sg/esvclandingpage/save>. 
+Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status [here](https://eservices.ica.gov.sg/esvclandingpage/save). 
 
 Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
