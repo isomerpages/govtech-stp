@@ -135,6 +135,7 @@ Please visit [](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.p
 
 <span class="test" style="font-size:20px;">The traveller is required to produce the following documents for pre-boarding checks:</span>
 
+
 : a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
 
 : b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
@@ -387,6 +388,7 @@ Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book
 
 <span class="test" style="font-size:20px;"> If you do not make a prior appointment, please note that: </span>
 
+
 : a.	There is no guarantee that there will be a test slot for you; and 
 
 : b. You may not get your results in time for your flight to qualify for RGL arrangements. 
@@ -396,6 +398,7 @@ Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a 
 ##### 5. What details will I need to book an appointment for the PCR test? 
 
 <span class="test" style="font-size:20px;">  Please have the following information on hand when making an appointment for your test: </span>
+
 
 : a.	Identity card number or passport number
 
@@ -412,6 +415,7 @@ Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a 
 ##### 6.	What documents should I bring for my appointment?
 
 <span class="test" style="font-size:20px;"> Please bring the following: </span>
+
 
 : a.	Identity card or passport 
 
