@@ -33,6 +33,20 @@ With the SafeTravel Pass approval, an approved applicant who is a visa-required 
 
 The approved applicant will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the **SG Arrival Card**, before departing for Singapore.  The SG Arrival Card can also be accessed via the **Visit Singapore Travel Guide App**.
 
+#### Pre-Departure Measures
+
+Prior to travelling to Singapore, approved SafeTravel Pass travellers must: 
+
+- Monitor their health status and defer travel if feeling unwell;
+- Have not travelled out of Japan in the entirety of the 14 days days prior to departure;
+- Take a polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19, at the traveller’s own cost. The certificate must be issued by medical institutions designated by the Government of Japan. 
+
+At pre-boarding checks, approved SafeTravel Pass travellers must produce:
+
+-	A valid SafeTravel Pass for the intended week of travel; 
+-	A valid visa to enter Singapore (for visa-required passport holders);
+-	A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; 
+-	A return air ticket or proof of other transportation arrangements (e.g. private transportation) to depart Singapore.
 
 
 
