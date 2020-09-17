@@ -49,7 +49,7 @@ Those who did not require a visa prior to the COVID-19 pandemic will not need to
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card, within 3 days prior to the date of arrival in Singapore.
 
-Prior to the traveller’s departure from Japan, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and the controlled itinerary in Singapore at <https://go.gov.sg/rglsuppdocs>
+Prior to the traveller’s departure from Japan, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and the controlled itinerary in Singapore at <https://go.gov.sg/rglsuppdocs>.
 
 The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 polymerase chain reaction (PCR) test which should be in English or accompanied by an English translation, return air ticket or proof of other transportation arrangements to depart Singapore, and valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
@@ -83,7 +83,7 @@ One traveller can only hold one valid SafeTravel Pass for a single entry into Si
 
 #### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore? 
 
-Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status [](https://eservices.ica.gov.sg/esvclandingpage/save). 
+Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
 
 Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
@@ -91,7 +91,7 @@ Travellers who are granted entry into Singapore are generally issued with a Visi
 
 #### 11. How can I further extend my Visit Pass / stay when I am in Singapore, if necessary? 
 
-All applications for extension of Visit Pass must be submitted online using [ICA’s e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits.
+All applications for extension of Visit Pass must be submitted online using ICA’s e-Service (<https://eservices.ica.gov.sg/esvclandingpage/extend>) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits.
 
 #### 12. My travel plans have changed/ some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/ approved SafeTravel Pass?
 
@@ -103,13 +103,10 @@ The host company should be responsible for monitoring and reporting any deviatio
 
 #### 14. Why was my application rejected?
 
-<span class="test" style="font-size:20px;"> SafeTravel Pass applications may be rejected for reasons, including the following:</span>
-
- : a. The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
- 
- : b. Application exceeds permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
- 
- : c. Inadequate information provided.
+SafeTravel Pass applications may be rejected for reasons, including the following:
+- **The quota for the week of entry that the application was submitted was fully utilised.** In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
+- **Application exceeds permissible window, i.e. not within 20 to 7 working days prior to departure.** In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
+- **Inadequate information provided.**
  
 #### 15. Can I use the RGL to come to Singapore for long-term work? 
 
@@ -123,7 +120,6 @@ The RGL is only for short-term essential business and official travel, and not f
 
 The RGL is only for short-term essential business and official travel between Singapore and Japan, and not for transit through Singapore.
 
-
 ### **Pre-Departure Measures in Japan**
 
 #### 18. What health measures must I take in Japan before departing for Singapore?
@@ -133,15 +129,11 @@ Please visit <https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf
 
 #### 19. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
-<span class="test" style="font-size:20px;">The traveller is required to produce the following documents for pre-boarding checks:</span>
-
-: a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
-
-: b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-
-: c. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from one of the medical institutions designated by the Japanese Government and should be in English or accompanied by an English translation); and 
-
-: d. A return air ticket or proof of other transportation arrangements to depart Singapore. 
+The traveller is required to produce the following documents for pre-boarding checks:
+- A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
+- A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
+- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from one of the medical institutions designated by the Japanese Government and should be in English or accompanied by an English translation); and 
+- A return air ticket or proof of other transportation arrangements to depart Singapore. 
 
 Otherwise, the traveller may be refused boarding.
 
@@ -173,7 +165,7 @@ Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
 
-The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>
+The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
 #### 24. What is SafeEntry?
 
@@ -249,7 +241,7 @@ Those seeking to enter Japan for purposes other than essential business and offi
 
 #### 6.	Where in Japan may I travel to? What are the approvals which I will need to obtain to do so?
 
-The RGL is for travel between Singapore and Japan, though the only entry/exit points to/from Japan are Tokyo (Narita International Airport and Haneda International Airport) and Osaka (Kansai International Airport) at the moment.  Regardless, according to the Government of Japan, there are no controls on inter-prefectural movement in Japan, although travellers must refrain from using public transport in the first 14 days of their visit.  There is therefore no need for RGL travellers from Singapore to acquire from the local government of his next destination prior approval for entry.  Japan will inform the Singapore Government beforehand if there are additional measures or significant changes.
+The RGL is for travel between Singapore and Japan, though the only entry/exit points to/from Japan are Tokyo (Narita International Airport and Haneda International Airport) and Osaka (Kansai International Airport) at the moment. Regardless, according to the Government of Japan, there are no controls on inter-prefectural movement in Japan, although travellers must refrain from using public transport in the first 14 days of their visit. There is therefore no need for RGL travellers from Singapore to acquire from the local government of his next destination prior approval for entry. Japan will inform the Singapore Government beforehand if there are additional measures or significant changes.
 
 #### 7.	Who can I contact for more information on the arrangements in Japan, e.g., accommodation and transport?
 
@@ -337,8 +329,8 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 #### Point-of-Contact for RGL/Business Track Travel by Singapore Residents to Japan
 
-Embassy of Japan in Singapore 
-Phone: +65- 6235-8855 
+Embassy of Japan in Singapore<br>
+Phone: +65-6235-8855<br>
 Email: <fastlane@sn.mofa.go.jp>
 
 <div id="annexb"></div>
@@ -384,39 +376,28 @@ Due to limited slots, please make your appointment with the clinic as early as p
 
 Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements. 
 
-<span class="test" style="font-size:20px;"> If you do not make a prior appointment, please note that: </span>
-
-: a.	There is no guarantee that there will be a test slot for you; and 
-
-: b. You may not get your results in time for your flight to qualify for RGL arrangements. 
+If you do not make a prior appointment, please note that:
+1. There is no guarantee that there will be a test slot for you; and 
+2. You may not get your results in time for your flight to qualify for RGL arrangements. 
 
 Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
 
 ##### 5. What details will I need to book an appointment for the PCR test? 
 
-<span class="test" style="font-size:20px;">  Please have the following information on hand when making an appointment for your test: </span>
-
-: a.	Identity card number or passport number
-
-: b.	Departure flight timing
-
-: c.	Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
-
-: d.	Address in Singapore 
-
-: e.	Contact number 
-
-: f.	Email address 
+Please have the following information on hand when making an appointment for your test:
+1. Identity card number or passport number
+2. Departure flight timing
+3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
+4. Address in Singapore 
+5. Contact number 
+6. Email address 
 
 ##### 6.	What documents should I bring for my appointment?
 
-<span class="test" style="font-size:20px;"> Please bring the following: </span>
-
-: a.	Identity card or passport 
-
-: b.	Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. 
-
-: c.	Softcopy booking reference showing your departure flight timing
+Please bring the following:
+1. Identity card or passport 
+2. Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. 
+3. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
 
