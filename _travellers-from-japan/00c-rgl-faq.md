@@ -104,7 +104,7 @@ The host company should be responsible for monitoring and reporting any deviatio
 #### 14. Why was my application rejected?
 
 SafeTravel Pass applications may be rejected for reasons, including the following:
-
+<br>
  : a. The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
  : b. Application exceeds permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
  : c. Inadequate information provided.
