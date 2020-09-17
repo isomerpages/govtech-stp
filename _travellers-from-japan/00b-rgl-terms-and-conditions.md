@@ -1,7 +1,7 @@
 ---
 title: Terms & Conditions
 permalink: /japan/rgl/terms-and-conditions
-third_nav_title: Singapore-Japan Fast Lane
+third_nav_title: Reciprocal Green Lane
 ---
 
 ### **Terms & Conditions of SafeTravel Pass (For Residents in Japan using the  Business Track / Reciprocal Green Lane (RGL) for the Short-Term Movement of Essential Personnel Between Singapore and Japan <sup>1</sup> to Travel to Singapore)<sup>2</sup>**
