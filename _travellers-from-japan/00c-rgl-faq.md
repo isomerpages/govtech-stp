@@ -133,11 +133,14 @@ Please visit [](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.p
 
 #### 19. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
-The traveller is required to produce the following documents for pre-boarding checks:
+<span class="test" style="font-size:20px;">The traveller is required to produce the following documents for pre-boarding checks:</span>
 
 : a. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
+
 : b. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
+
 : c. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from one of the medical institutions designated by the Japanese Government and should be in English or accompanied by an English translation); and 
+
 : d. A return air ticket or proof of other transportation arrangements to depart Singapore. 
 
 Otherwise, the traveller may be refused boarding.
