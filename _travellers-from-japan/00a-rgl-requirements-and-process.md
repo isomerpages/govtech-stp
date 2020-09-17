@@ -17,7 +17,7 @@ Business or official travellers seeking to travel via the RGL to Singapore must 
 IMPORTANT
 
 Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass will be refused entry into Singapore.
-For more information on the Terms and Conditions of the SafeTravel Pass, please [click here](https://safetravel.ica.gov.sg/japan/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please [click here](/japan/rgl/terms-and-conditions).
 
 ## **Process Overview**
 
@@ -29,9 +29,9 @@ When the SafeTravel Pass application is approved, an approval letter will be iss
 
 With the SafeTravel Pass approval, an approved applicant who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels.  If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa.  The applicant can check his/her visa status through [this page](https://eservices.ica.gov.sg/esvclandingpage/save). 
 
-**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.**  Please refer to <https://www.ica.gov.sg/entryanddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.  
+**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.** Please refer to <https://www.ica.gov.sg/entryanddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.  
 
-The approved applicant will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the **SG Arrival Card**, before departing for Singapore.  The SG Arrival Card can also be accessed via the **Visit Singapore Travel Guide App**.
+The approved applicant will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the **SG Arrival Card**, before departing for Singapore. The SG Arrival Card can also be accessed via the **Visit Singapore Travel Guide App**.
 
 #### Pre-Departure Measures
 
@@ -75,7 +75,7 @@ SafeTravel Pass travellers to Singapore must subscribe to the relevant contact t
 
 In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a controlled itinerary that is supervised by the host company or government agency for the first 14 days.  The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please [click here](https://safetravel.ica.gov.sg/japan/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please [click here](/japan/rgl/terms-and-conditions).
 
 ----
 
