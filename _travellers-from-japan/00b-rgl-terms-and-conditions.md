@@ -123,7 +123,3 @@ third_nav_title: Singapore-Japan Fast Lane
 
 <sup>2</sup> The Terms and Conditions in this document are specific to the Business Track/RGL for the Short-Term Movement of Essential Personnel Between Singapore and Japan. Green/Fast Lanes are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary among the countries/regions.
 
-
-
-
-
