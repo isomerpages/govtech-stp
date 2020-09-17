@@ -43,7 +43,7 @@ The application for the SafeTravel Pass will be open 20 working days (excluding 
 
 You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test before departure for Singapore.
 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant and the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status [here](https://eservices.ica.gov.sg/esvclandingpage/save)
+When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant and the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status [here](https://eservices.ica.gov.sg/esvclandingpage/save).
 
 Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
@@ -129,7 +129,7 @@ The RGL is only for short-term essential business and official travel between Si
 #### 18. What health measures must I take in Japan before departing for Singapore?
 
 Travellers must have remained in Japan for 14 days prior to departure for Singapore. They must monitor their health status before departure from Japan, undergo a pre-departure PCR test in Japan at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Japan. 
-Please visit [](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf) for a list of designated medical institutions. [Note: Website only in Japan; enquiries in English can be made via phone (+65- 6235-8855) or email (<fastlane@sn.mofa.go.jp>) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
+Please visit <https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf> for a list of designated medical institutions. [Note: Website only in Japan; enquiries in English can be made via phone (+65- 6235-8855) or email (<fastlane@sn.mofa.go.jp>) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
 
 #### 19. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
@@ -229,7 +229,7 @@ The relevant Japanese Government authorities will assess each application on a c
 
 #### 2.	How do Singapore residents apply to travel to Japan under the RGL?
 
-Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore. As part of the visa application, the applicant has to submit a declaration form [](https://www.mofa.go.jp/mofaj/files/100090267.pdf) signed by the receiving enterprise or government agency, as well as a detailed visit itinerary. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. 
+Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore. As part of the visa application, the applicant has to submit a declaration form <https://www.mofa.go.jp/mofaj/files/100090267.pdf> signed by the receiving enterprise or government agency, as well as a detailed visit itinerary. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. 
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a pre-departure COVID-19 PCR test and obtaining private medical insurance (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure, and 
 
@@ -318,12 +318,12 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they: 
 
 - Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Japan, and obtain the negative test result prior to departure; and 
-- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
+- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
 - Produce the following two documents to ICA at Singapore Immigration: (a) the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL; and (b) negative COVID-19 PCR test result obtained 72 hours prior to departure from Japan.  
 
-Please visit [](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf)  or approach the Embassy of Japan in Singapore for further details on the medical institutions at which pre-departure COVID-19 testing in Japan can be conducted.  
+Please visit <https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf> or approach the Embassy of Japan in Singapore for further details on the medical institutions at which pre-departure COVID-19 testing in Japan can be conducted.  
 
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.  If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN.  For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>
 
 #### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
 
@@ -351,7 +351,7 @@ Email: <fastlane@sn.mofa.go.jp>
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [Selected clinics](https://safetravel.ica.gov.sg/pre-departure-test) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://safetravel.ica.gov.sg/pre-departure-test) for eligible RGL travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
@@ -437,4 +437,3 @@ If you are unable to receive the test, you may wish to reschedule your flight, i
 You will receive your PCR test results and memo at least three hours before your flight. 
 
 The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
-
