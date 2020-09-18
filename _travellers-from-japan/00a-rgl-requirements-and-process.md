@@ -12,7 +12,7 @@ The SafeTravel Pass is a mandatory document for in-bound travellers seeking to m
 
 ### **Application**
 
-Business or official travellers seeking to travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel Pass
+Business or official travellers seeking to travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the applicant for a SafeTravel Pass.
 
 IMPORTANT
 
@@ -29,7 +29,7 @@ When the SafeTravel Pass application is approved, an approval letter will be iss
 
 With the SafeTravel Pass approval, an approved applicant who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels.  If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa.  The applicant can check his/her visa status through [this page](https://eservices.ica.gov.sg/esvclandingpage/save). 
 
-**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.** Please refer to <https://www.ica.gov.sg/entryanddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.  
+**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.** Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.  
 
 The approved applicant will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/), before departing for Singapore. The SG Arrival Card can also be accessed via the [Visit Singapore Travel Guide App](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/).
 
@@ -38,7 +38,7 @@ The approved applicant will have to electronically submit pre-trip health and tr
 Prior to travelling to Singapore, approved SafeTravel Pass travellers must: 
 
 - Monitor their health status and defer travel if feeling unwell;
-- Have not travelled out of Japan in the entirety of the 14 days days prior to departure;
+- Have not travelled out of Japan in the entirety of the 14 days prior to departure;
 - Take a polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19, at the traveller’s own cost. The certificate must be issued by medical institutions designated by the Government of Japan. 
 
 At pre-boarding checks, approved SafeTravel Pass travellers must produce:
