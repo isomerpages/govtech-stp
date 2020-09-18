@@ -14,7 +14,7 @@ Business or official travellers seeking to make essential travel via the Fast La
 
 IMPORTANT
 
-Travellers without a valid SafeTravel Pass will be refused entry into Singapore.
+Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass will be refused entry into Singapore.
 
 For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/china/rgl/terms-and-conditions).
 
