@@ -125,7 +125,7 @@ The RGL is only for short-term essential business and official travel between Si
 #### 18. What health measures must I take in Japan before departing for Singapore?
 
 Travellers must have remained in Japan for 14 days prior to departure for Singapore. They must monitor their health status before departure from Japan, undergo a pre-departure PCR test in Japan at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Japan. 
-Please visit <https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf> for a list of designated medical institutions. [Note: Website only in Japan; enquiries in English can be made via phone (+65- 6235-8855) or email (<fastlane@sn.mofa.go.jp>) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
+Please visit <https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf> for a list of designated medical institutions. [Note: Website only in Japanese; enquiries in English can be made via phone (+65- 6235-8855) or email (<fastlane@sn.mofa.go.jp>) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
 
 #### 19. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
@@ -179,7 +179,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 According to the Government of Japan, RGL returnees to Japan are required to take a pre-departure COVID 19 PCR test in Singapore within 72 hours of their return to Japan. They may be exempted from this requirement if they are Japanese nationals and (a) the duration of their stay in Singapore does not exceed 15 days, or (b) if they agree to serve a 14-day quarantine upon their return to Japan.  
 
-Upon their arrival back in Japan, RGL returnees to Japan must adhere to the prevailing COVID-19 prevention and control measures of the Japanese Government. This may include a 14-day quarantine or COVID-19 tests. Returnees may wish to check on the specific measures taken upon entry into Japan at the website of the Ministry of Foreign Affairs of Japan (<https://www.mofa.go.jp/ca/cp/page25e_000337.html>).
+Upon their arrival back in Japan, RGL returnees to Japan must adhere to the prevailing COVID-19 prevention and control measures of the Japanese Government. This may include a 14-day quarantine or COVID-19 tests. Returnees may wish to check on the specific measures taken upon entry into Japan at the website of the Ministry of Foreign Affairs of Japan (<https://www.mofa.go.jp/a_o/na/page22e_000928.html>).
 
 As the specific requirements may change over time, the returnee should verify the latest requirements with the Government of Japan.
 
@@ -221,7 +221,7 @@ The relevant Japanese Government authorities will assess each application on a c
 
 #### 2.	How do Singapore residents apply to travel to Japan under the RGL?
 
-Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore. As part of the visa application, the applicant has to submit a declaration form <https://www.mofa.go.jp/mofaj/files/100090267.pdf> signed by the receiving enterprise or government agency, as well as a detailed visit itinerary. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. 
+Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore. As part of the visa application, the applicant has to submit a declaration form <https://www.mofa.go.jp/mofaj/files/100094426.pdf> signed by the receiving enterprise or government agency, as well as a detailed visit itinerary. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. 
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a pre-departure COVID-19 PCR test and obtaining private medical insurance (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure, and 
 
