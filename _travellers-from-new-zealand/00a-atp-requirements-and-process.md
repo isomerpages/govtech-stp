@@ -45,7 +45,9 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>; and 
 - submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to his/her date of arrival in Singapore.
 
-Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
+
+In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
 
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
