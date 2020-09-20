@@ -55,7 +55,7 @@ Travellers who do not produce the documents above at pre-boarding checks can be 
 
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test at the airport checkpoint upon arrival in Singapore. The SafeTravel Pass traveller will bear the costs of the post-arrival COVID-19 PCR test in Singapore.
 
-At arrival immigration, approved SafeTravel Pass travellers should declare he/she is a SafeTravel Pass holder, and must produce
+At arrival immigration, approved SafeTravel Pass travellers should declare he/she is a SafeTravel Pass holder, and must produce:
 
 - A valid SafeTravel Pass for the intended week of travel,
 - A valid visa (for visa-required passport holders),
