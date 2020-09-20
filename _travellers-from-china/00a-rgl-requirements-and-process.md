@@ -58,7 +58,7 @@ At arrival immigration, approved SafeTravel Pass travellers should declare he/sh
 - A negative COVID-19 PCR test result,
 - A return air ticket.
 
-Applicants without these documents can be refused entry.
+Approved travellers without these documents will be refused entry into Singapore under the RGL arrangement.
 
 The host<sup>2</sup> company or government agency will transport the traveller directly from the airport to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until the test result is released.
 
