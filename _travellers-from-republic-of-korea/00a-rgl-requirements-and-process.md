@@ -41,6 +41,8 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 - Have not travelled out of the ROK in the entirety of the 14 days prior to departure; and
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be from the medical institutions designated by the ROK Government. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test based on the prevailing guidelines of the ROK Government.
 
+Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
+
 At pre-boarding checks, approved SafeTravel Pass travellers must produce:
 - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
