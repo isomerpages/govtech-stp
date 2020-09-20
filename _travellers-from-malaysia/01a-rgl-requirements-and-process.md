@@ -54,7 +54,14 @@ Travellers by air who do not produce the documents above at pre-boarding checks 
 
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test at the airport/land checkpoint upon arrival in Singapore. The SafeTravel Pass traveller will bear the costs of the post-arrival COVID-19 PCR test in Singapore.
 
-The applicant must present a valid SafeTravel Pass for the intended week of travel, a valid visa (for visa-required passport holders) and the above-mentioned negative COVID-19 PCR test result to arrival immigration. Applicants without these documents will be refused entry into Singapore under the RGL arrangement. Applicants who meet the prevailing entry requirements will be granted up to 14 days’ stay in Singapore.
+At arrival immigration, approved SafeTravel Pass travellers should declare he/she is a SafeTravel Pass holder, and must produce:
+
+- A valid SafeTravel Pass for the intended week of travel,
+- A valid visa (for visa-required passport holders),
+- A negative COVID-19 PCR test result,
+- **For arrivals by air**, a return air ticket must be produced.
+
+Approved travellers without these documents will be refused entry into Singapore under the RGL arrangement. 
 
 The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/land checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until a negative test result from the post-arrival COVID-19 PCR test is released. Thereafter, the traveller can proceed on the pre-declared controlled itinerary. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary.
 
