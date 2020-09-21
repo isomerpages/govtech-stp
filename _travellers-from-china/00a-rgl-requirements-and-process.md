@@ -39,7 +39,9 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 - Have not travelled out of China in the entirety of the 7 days prior to departure. 
 - Take a polymerase chain reaction (PCR) test within 48 hours before departure and obtain a certificate of having tested negative for COVID-19. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test.
 
-Travellers are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+Travellers are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
+
+In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
 
 At pre-boarding checks, approved SafeTravel Pass travellers must produce:
   - A valid SafeTravel Pass for the intended week of travel,
