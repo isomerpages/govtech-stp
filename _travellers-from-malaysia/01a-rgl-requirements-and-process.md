@@ -41,7 +41,9 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 - Have not travelled out of Malaysia in the entirety of the 14 days prior to departure; 
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be from the accredited laboratories by the Ministry of Health Malaysia. The SafeTravel Pass applicant will bear the cost of the pre-departure PCR test.
 
-Travellers by air are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+Travellers by air are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
+
+In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
 
 Travellers by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
 - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
