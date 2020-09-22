@@ -44,7 +44,12 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 - Monitor their health status and refrain from travelling to Singapore if feeling unwell;
 - Have not travelled out of Brunei in the entirety of the 14 days prior to departure;
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be issued by an authorised health centre designated by the Government of Brunei. The SafeTravel Pass traveller will bear the cost of the pre-departure PCR test.
-- At pre-boarding checks, approved SafeTravel Pass travellers must produce:
+
+Travellers are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
+
+In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+
+At pre-boarding checks, approved SafeTravel Pass travellers must produce:
   - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
   - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
   - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised health centre designated by the Government of Brunei); and
@@ -58,7 +63,14 @@ Otherwise, the traveller can be refused boarding.
 
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test upon arrival in Singapore. The SafeTravel Pass traveller will bear the costs of the post-arrival COVID-19 PCR test in Singapore.
 
-The approved traveller must present a valid SafeTravel Pass for the intended week of travel, a valid visa (for visa-required passport holders) and the above-mentioned negative COVID-19 PCR test result to arrival immigration. Approved travellers without these documents will be refused entry into Singapore under the RGL arrangement.
+At arrival immigration, approved SafeTravel Pass travellers should declare he/she is a SafeTravel Pass holder, and must produce:
+
+- A valid SafeTravel Pass for the intended week of travel,
+- A valid visa (for visa-required passport holders),
+- A negative COVID-19 PCR test result,
+- A return air ticket.
+
+Approved travellers without these documents will be refused entry into Singapore under the RGL arrangement.
 
 The host<sup>2</sup> company or government agency will transport the traveller directly from the airport to the declared self-sourced accommodation using private transport, adhering to prevailing health measures. The approved traveller must remain in the declared accommodation (non-residential address only) until a negative test result from the post-arrival COVID-19 PCR test is released. Thereafter, he/she can proceed on the pre-declared controlled itinerary. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary.
 

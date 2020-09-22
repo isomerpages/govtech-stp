@@ -47,6 +47,8 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
 
+In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and

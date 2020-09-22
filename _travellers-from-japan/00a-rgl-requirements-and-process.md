@@ -41,6 +41,10 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers must:
 - Have not travelled out of Japan in the entirety of the 14 days prior to departure;
 - Take a polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19, at the traveller’s own cost. The certificate must be issued by medical institutions designated by the Government of Japan. 
 
+Travellers are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
+
+In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+
 At pre-boarding checks, approved SafeTravel Pass travellers must produce:
 
 -	A valid SafeTravel Pass for the intended week of travel; 
@@ -56,7 +60,7 @@ Travellers who do not produce the documents above at pre-boarding or immigration
 
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test upon arrival in Singapore at his/her own cost. 
 
-At on-arrival immigration checks, approved SafeTravel Pass travellers must produce:
+At arrival immigration, approved SafeTravel Pass travellers should declare he/she is a SafeTravel Pass holder, and must produce:
 
 -	A valid SafeTravel Pass for the intended week of travel;
 -	A valid visa to enter Singapore (for visa-required passport holders);
