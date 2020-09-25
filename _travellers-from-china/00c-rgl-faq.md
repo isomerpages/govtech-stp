@@ -102,7 +102,7 @@ SafeTravel Pass applications may be rejected for reasons, including the followin
 
 #### 15. I have submitted the necessary supporting documents prior to my departure from China to Singapore. Why did I receive a notification that the submission was unsuccessful?
 
-You might have submitted the supporting documents earlier than the 48-hour window before the declared date of departure from China. You should submit the supporting documents only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 48 hours</u> of departure from China. Please resubmit the necessary documents within the stipulated window prior to departure.
+You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from China. You should submit the supporting documents only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 72 hours</u> of departure from China. Please resubmit the necessary documents within the stipulated window prior to departure.
 
 Do also ensure that the supporting documents submitted are in the correct format (pdf., jpeg.).
 
@@ -122,7 +122,7 @@ The fast lane is only for short-term essential business and official travel betw
 
 #### 19. What health measures must I take in China before departing for Singapore?
 
-Travellers must remain in any of the sending fast lane regions (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for seven days prior to departure for Singapore. They must monitor their health status before departure from the fast lane regions in China, undergo a pre-departure PCR test in China at least once within 48 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the relevant provincial/municipal government in China.
+Travellers must remain in any of the sending fast lane regions (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for seven days prior to departure for Singapore. They must monitor their health status before departure from the fast lane regions in China, undergo a pre-departure PCR test in China at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the relevant provincial/municipal government in China.
 
 The list of medical institutions designated by the relevant authorities in China for pre-departure COVID-19 testing can be found [here](http://bmfw.www.gov.cn/mhsjcjgcx/index.html).
 
@@ -131,7 +131,7 @@ The list of medical institutions designated by the relevant authorities in China
 The traveller is required to produce the following documents for pre-boarding checks:
 1. A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
 2. A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-3. A valid certificate of negative result for a COVID-19 PCR test taken within 48 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and
+3. A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from the medical institutions designated by the relevant provincial/municipal government in China); and
 4. A return air ticket or proof of other transportation arrangements to depart Singapore.
 
 Otherwise, the traveller may be refused boarding.
@@ -243,7 +243,7 @@ Residents in Singapore seeking to travel to China for essential business or offi
 
 If the application is approved, a Letter of Invitation specifically for essential business or official travel under the fast lane will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the fast lane requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 48 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the fast lane requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
 
 #### 3. What visas will I be eligible for under the fast lane, and what is the visa duration in China?
 
@@ -279,7 +279,7 @@ The traveller may contact his/her host company or government agency in China to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The fast lane traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 48 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+The fast lane traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
 The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for fast lane arrangements should only be carried out at these clinics at the moment. An eligible fast lane traveller should contact the clinic directly for testing.
 
@@ -338,11 +338,8 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 #### 16. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
 
 Singapore-based travellers returning from their travel on the Singapore-China Fast Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
-- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 48 hours prior to their departure from China, and obtain the negative test result prior to departure; and
 - Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
-- Produce the following two documents to ICA at Singapore Immigration (a) the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane; and (b) negative COVID-19 PCR test result obtained 48 hours prior to departure from China.
-
-The list of medical institutions designated by the relevant authorities in China for pre-departure COVID-19 testing can be found [here](http://bmfw.www.gov.cn/mhsjcjgcx/index.html).
+- Produce the the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane; 
 
 Please refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for returning travellers.
 
@@ -396,11 +393,11 @@ You must be present at least 2 hours prior to, and no later than, the stipulated
 | 3.30pm to 11.59pm | 10:00am the day before flight |
 
 *Example:*
-*If a traveller’s departure flight time for China is 12pm on 20 August, the required test must be done within 48 hours of departure, i.e., the traveller should take the test from 12pm on 18 August onwards, until the cut-off timing at 4pm on 18 August.*
+*If a traveller’s departure flight time for China is 12pm on 30 September, the required test must be done within 72 hours of departure, i.e., the traveller should take the test from 12pm on 27 September onwards, until the cut-off timing at 4pm on 28 September.*
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
-For fast lane travel to China, the pre-departure PCR test must be done within 48 hours prior to departure.
+For fast lane travel to China, the pre-departure PCR test must be done within 72 hours prior to departure.
 
 Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the fast lane requirements.
 
