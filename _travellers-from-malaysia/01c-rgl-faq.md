@@ -305,10 +305,7 @@ The traveller should verify the latest requirements of the Malaysian authorities
 #### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
 Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
-- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Malaysia, and obtain the negative test result prior to departure; and
 - Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
-
-The list of accredited laboratories by the Ministry of Health Malaysia can be found [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf). The list of accredited private clinics and private hospitals by the Ministry of Health Malaysia can be found [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).
 
 You may wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for inbound travellers.
 
@@ -347,9 +344,9 @@ You should make an appointment that fits your required testing window, and be pr
 | 3.30pm to 11.59pm | 10:00am the day before flight |
 
 *Example:*
-*If a traveller’s departure flight time is 12pm on 20 August and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 17 August onwards, until the cut-off timing.*
+*If a traveller’s departure flight time is 12pm on 30 September and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 27 September onwards, until the cut-off timing.*
 
-*The latest the traveller can present himself/herself is by 4pm on 18 August.*
+*The latest the traveller can present himself/herself is by 4pm on 28 September.*
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
