@@ -309,11 +309,8 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they: 
 
-- Undertake a COVID-19 PCR test at their own cost at accredited laboratories, clinics and hospitals within 72 hours prior to their departure from Japan, and obtain the negative test result prior to departure; and 
 - Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
-- Produce the following two documents to ICA at Singapore Immigration: (a) the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL; and (b) negative COVID-19 PCR test result obtained 72 hours prior to departure from Japan.  
-
-Please visit this [link](https://www.meti.go.jp/press/2020/09/20200918006/20200918006-3.pdf) or approach the Embassy of Japan in Singapore for further details on the medical institutions at which pre-departure COVID-19 testing in Japan can be conducted.  
+- Produce the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL; 
 
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>
 
