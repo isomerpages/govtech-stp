@@ -79,7 +79,7 @@ There is no limit to the number of times a traveller can apply for a SafeTravel 
 
 If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
 
-One traveller can only hold one valid SafeTravel Pass.
+One traveller can only hold one valid SafeTravel Pass for the stipulated week of entry.
 
 #### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
 
