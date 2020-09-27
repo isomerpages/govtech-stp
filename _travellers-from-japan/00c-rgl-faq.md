@@ -97,7 +97,7 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What can I do if I have changes to my controlled itinerary? 
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <http://eservices.ica.gov.sg>. Please have the approved STP reference number and documents on hand for submission. 
+The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <http://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission. 
 
 #### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
