@@ -39,7 +39,7 @@ Yes, Brunei citizens and residents travelling to Singapore under the RGL will st
 
 #### 5. How do residents in Brunei apply for a SafeTravel Pass to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit?
 
-Residents in Brunei seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://go.gov.sg/rglapp>, or through a sponsoring government agency.<sup>1</sup>.
+Residents in Brunei seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>.
 
 When applying for the SafeTravel Pass, Proof of Residency in Brunei is required. Bruneian Citizens should present a copy of their passport or their yellow ID card for submission. Non-Bruneian Citizens who are resident in Brunei should present a copy of their Bruneian long-term pass ID for submission. Accepted Brunei ID cards include (a) purple ID cards issued to Permanent Residents who are holders of foreign passports and Certificates of Identity, and (b) green ID cards issued to foreigners residing more than 3 months (e.g. holder of employment pass, dependent pass, student pass and visit pass).
 
