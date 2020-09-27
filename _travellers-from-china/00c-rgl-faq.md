@@ -37,15 +37,17 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in China apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
-Residents in China seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://go.gov.sg/rglapp>, or through a sponsoring government agency.<sup>1</sup>
+Residents in China seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
-The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned departure. The processing of the application can take up to 7 working days. Applications submitted less than 7 working days from planned departure will not be accepted. You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test before departure for Singapore.
+The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days. (excluding the day of application) You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test before departure for Singapore.
 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant and the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
+When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card (<https://eservices.ica.gov.sg/sgarrivalcard/>), within 3 days prior to the date of arrival in Singapore.
 
-Within 48 hours of the traveller’s departure from China, the sponsoring company or government agency should submit the traveller’s **negative COVID-19 test result and controlled itinerary** in Singapore at <https://go.gov.sg/rglsuppdocs>. The traveller is required to produce a valid SafeTravel Pass, a negative COVID-19 PCR test result, a return air ticket, and a valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
+Prior to the traveller’s departure from China, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>.
+
+The Travellers is required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
 #### 5. What are the responsibilities of the host company who is self-sponsoring?
 
@@ -69,9 +71,11 @@ No payment is required.
 
 #### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application.
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application.
 
 If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
+
+One traveller can only hold one valid SafeTravel Pass for the stipulated week of entry  
 
 #### 10. What visa will I be eligible for under the fast lane, and what is the duration of stay that I will be eligible for in Singapore?
 
@@ -87,24 +91,23 @@ All applications for extension of Visit Pass must be submitted online using ICA�
 
 #### 12. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
 
-The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://go.gov.sg/rglsuppdocs>. This should be done even if the traveller is already in Singapore.
+Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
 
 #### 13. What if I have changes to my controlled itinerary?
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://go.gov.sg/rglsuppdocs>. This should be done even if the traveller is already in Singapore.
+The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <http://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission.
 
-#### 14. Why was my application rejected?
+#### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
+
+The sponsoring company/agency or traveller may enquire the status of their application(s) via <http://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
+
+#### 15. Why was my application rejected?
 
 SafeTravel Pass applications may be rejected for reasons, including the following:
-1. The quota for the week of entry that the application was submitted was fully utilised. In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
-2. Application exceeds permissible window, i.e. not within 20 to 7 working days prior to departure. In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
-3. Inadequate information provided.
 
-#### 15. I have submitted the necessary supporting documents prior to my departure from China to Singapore. Why did I receive a notification that the submission was unsuccessful?
-
-You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from China. You should submit the supporting documents only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 72 hours</u> of departure from China. Please resubmit the necessary documents within the stipulated window prior to departure.
-
-Do also ensure that the supporting documents submitted are in the correct format (pdf., jpeg.).
+- Inadequate justifications provided for reason of travelinformation provided.
+- Non-compliant controlled itinerary submitted.
+- Wrong proof of residency submitted.
 
 #### 16. Can I use the fast lane to come to Singapore for long-term work?
 
