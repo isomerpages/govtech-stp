@@ -37,7 +37,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in the ROK apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
-Residents in the ROK seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://go.gov.sg/rglapp>, or through a sponsoring government agency.
+Residents in the ROK seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.
 
 The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
