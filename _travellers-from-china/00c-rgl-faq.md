@@ -39,7 +39,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 Residents in China seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
-The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days. (excluding the day of application) You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test before departure for Singapore.
+The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
@@ -49,7 +49,7 @@ Prior to the traveller’s departure from China, the sponsoring company or gover
 
 The Travellers is required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
-#### 5. What are the responsibilities of the host company who is self-sponsoring?
+#### 5. What are the responsibilities of the host company?
 
 When a company is sponsoring a traveller, it will have to be responsible for the application of the SafeTravel Pass on behalf of the traveller as well as the timely submission of the accompanying documents.
 
