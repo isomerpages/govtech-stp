@@ -101,7 +101,7 @@ The sponsoring company/agency or traveller may enquire the status of their appli
 
 #### 14. Why was my application rejected?
 
-SafeTravel Pass applications may be rejected for reasons, including the following:
+<span class="test" style="font-size:20px;"> SafeTravel Pass applications may be rejected for reasons, including the following: </span>
 
 : a. Inadequate justifications provided for reason of travelinformation provided.
 : b. Non-compliant controlled itinerary submitted.
