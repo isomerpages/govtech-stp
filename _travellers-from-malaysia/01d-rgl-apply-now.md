@@ -13,11 +13,11 @@ third_nav_title: Reciprocal Green Lane
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><a href="http://eservices.ica.gov.sg/STO"><span class="center" style="text-align:center;">http://eservices.ica.gov.sg/STO</span></a></td>
+      <td width="50%"><a href="https://eservices.ica.gov.sg/STO"><span class="center" style="text-align:center;">https://eservices.ica.gov.sg/STO</span></a></td>
     <!--  <td width="50%"><a href="https://go.gov.sg/rglsuppdocs">https://go.gov.sg/rglsuppdocs</a></td>-->
     </tr>
     <tr>
-      <td><a href="http://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="http://eservices.ica.gov.sg/STO" title="http://eservices.ica.gov.sg/STO" style="width:50%;height:50%;"></a></td>
+      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:50%;height:50%;"></a></td>
      <!-- <td><a href="https://go.gov.sg/rglsuppdocs"><img src="/images/qr-rglsuppdocs.png" alt="https://go.gov.sg/rglsuppdocs" title="https://go.gov.sg/rglsuppdocs"></a></td>-->
     </tr>
     <tr>
