@@ -39,7 +39,7 @@ If the visitor already has an existing valid visa which has been suspended due t
 #### Pre-Departure
 
 Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
-- remain in New Zealand in the last 14 consecutive days before departing for Singapore;
+- remain in Australia in the last 14 consecutive days before departing for Singapore;
 - monitor his/her health status before departure;
 - book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet; 
 - check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>; and 
