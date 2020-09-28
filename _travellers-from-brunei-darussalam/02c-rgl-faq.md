@@ -83,7 +83,6 @@ There is no limit to the number of times a traveller can apply for a SafeTravel 
 
 If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
 
-
 #### 11. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore? 
 
 Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the approved traveller already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The traveller can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
