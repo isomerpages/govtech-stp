@@ -95,7 +95,7 @@ The host company should be responsible for monitoring and reporting any deviatio
 
 #### 13. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-The sponsoring company/agency or traveller may enquire the status of their application(s) via <http://eservices.ica.gov.sg/STO>. Please have on hand the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
+The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please have on hand the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
 
 #### 14. Why was my application rejected?
 
