@@ -7,7 +7,7 @@ third_nav_title: Reciprocal Green Lane
 <table>
   <thead>
     <tr>
-      <th>Apply for SafeTravel Pass and Submit Supporting Documents</th>
+      <th style="text-align:center">Apply for SafeTravel Pass and Submit Supporting Documents</th>
     <!--  <th>Submission of Supporting Documents for SafeTravel Pass Application</th>-->
     </tr>
   </thead>
