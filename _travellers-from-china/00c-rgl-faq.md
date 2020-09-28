@@ -39,6 +39,8 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 Residents in China seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
+When applying for the SafeTravel Pass, Proof of Residency in China is required. Chinese nationals should present a copy of their passport for submission. Foreign residents in China should provide a copy of their China residence permit. The applicant will also be required to submit the controlled itinerary for the traveller(s)’ first 14 days of stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
+
 The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
@@ -71,11 +73,9 @@ No payment is required.
 
 #### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application.
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application. 
 
-If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
-
-One traveller can only hold one valid SafeTravel Pass for the stipulated week of entry  
+If the traveller’s SafeTravel Pass has expired, he/she should submit a new application. 
 
 #### 10. What visa will I be eligible for under the fast lane, and what is the duration of stay that I will be eligible for in Singapore?
 
