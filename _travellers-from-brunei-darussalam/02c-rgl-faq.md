@@ -35,27 +35,27 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. Do Bruneian citizens and residents still need to apply to exit the country?
 
-Yes, Brunei citizens and residents travelling to Singapore under the RGL will still need to apply for Exit Travel via Brunei’s PMO. Information on the application can be found on <http://www.pmo.gov.bn/travelportal/Home.aspx>.
+Yes, Brunei citizens and residents travelling to Singapore under the RGL will still need to apply for Exit Travel via Brunei’s PMO. Information on the application can be found on <https://www.pmo.gov.bn/travelportal/Home.aspx>.
 
 #### 5. How do residents in Brunei apply for a SafeTravel Pass to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit?
 
-Residents in Brunei seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://go.gov.sg/rglapp>, or through a sponsoring government agency.<sup>1</sup>.
+Residents in Brunei seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>.
 
-When applying for the SafeTravel Pass, Proof of Residency in Brunei is required. Bruneian Citizens should present a copy of their passport or their yellow ID card for submission. Non-Bruneian Citizens who are resident in Brunei should present a copy of their Bruneian long-term pass ID for submission. Accepted Brunei ID cards include (a) purple ID cards issued to Permanent Residents who are holders of foreign passports and Certificates of Identity, and (b) green ID cards issued to foreigners residing more than 3 months (e.g. holder of employment pass, dependent pass, student pass and visit pass).
+When applying for the SafeTravel Pass, Proof of Residency in Brunei is required. Bruneian Citizens should present a copy of their passport or their yellow ID card for submission. Non-Bruneian Citizens who are resident in Brunei should present a copy of their Bruneian long-term pass ID for submission. Accepted Brunei ID cards include (a) purple ID cards issued to Permanent Residents who are holders of foreign passports and Certificates of Identity, and (b) green ID cards issued to foreigners residing more than 3 months (e.g. holder of employment pass, dependent pass, student pass and visit pass). The applicant will also be required to submit the controlled itinerary for the traveller(s)’ first 14 days of stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
 
-The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned departure. The processing of the application can take up to 7 working days. Applications submitted less than 7 working days from planned departure will not be accepted. You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test before departure for Singapore.
+The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant and the sponsoring company / government agency by email. With this letter, an approved traveller who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the approved traveller already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The traveller can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. 
+When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. With this letter, an approved traveller who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the approved traveller already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The traveller can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. 
 
 Those who do not require a visa prior to the COVID-19 pandemic (e.g. Bruneian citizens) will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
 The approved traveller will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card (<https://eservices.ica.gov.sg/sgarrivalcard/>), within 3 days prior to the date of arrival in Singapore.
 
-Prior to the traveller's departure from Brunei, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and controlled itinerary in Singapore at <https://go.gov.sg/rglsuppdocs>.
+Prior to the traveller's departure from Brunei, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 test** taken within 72 hours before departure and **latest controlled itinerary** at <https://eservices.ica.gov.sg/STO>.
 
 The traveller is required to present his/her valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter. Otherwise, he/she may be refused boarding.
 
-#### 6. What are the responsibilities of the host company who is self-sponsoring?
+#### 6. What are the responsibilities of the host company?
 
 When a company applies for the SafeTravel Pass on behalf of the traveller, it is also responsible for the timely submission of the accompanying documents.
 
@@ -79,11 +79,9 @@ No payment is required.
 
 #### 10. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application.
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application. 
 
 If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
-
-One traveller can only hold one valid SafeTravel Pass **for a single entry into Singapore** at any point in time. Please refrain from submitting multiple SafeTravel Pass applications or submitting new applications when you already have a valid SafeTravel Pass on hand. Duplicate applications will be rejected.
 
 #### 11. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore? 
 
@@ -101,22 +99,21 @@ All applications for extension of Visit Pass must be submitted online using ICA�
 
 Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
 
-#### 14. What can I do if I have changes to my controlled itinerary?
+#### 14. What if I have changes to my controlled itinerary?
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://go.gov.sg/rglsuppdocs>. This should be done even if the traveller is already in Singapore. Please ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
+The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
 
-#### 15. Why was my application rejected?
+#### 15. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-SafeTravel Pass applications may be rejected for reasons, including the following:
-- **The quota for the week of entry that the application was submitted was fully utilised.** In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
-- **Application exceeds permissible window, i.e. not within 20 to 7 working days prior to departure.** In this situation, please ensure that you submit the application 20 working days prior to the date of entry into Singapore at the earliest, and 7 working days before the date of entry into Singapore at the latest.
-- **Inadequate information provided.**
+The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please have on hand the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.    
 
-#### 16. I have submitted the necessary supporting documents prior to my departure from Brunei to Singapore. Why did I receive a notification that the submission was unsuccessful?
+#### 16. Why was my application rejected?
 
-You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from Brunei. You should submit the supporting documents only after receiving the results of the COVID-19 PCR test which has to be taken within <u>72 hours</u> prior to departure from Brunei. Please resubmit the necessary documents within the stipulated window prior to departure.
+SafeTravel Pass applications may be rejected for reasons, including the following
 
-Do also ensure that the supporting documents submitted are in the correct format (pdf., jpeg.).
+- Inadequate justifications provided for reason of travelinformation provided.
+- Non-compliant controlled itinerary submitted.
+- Wrong proof of residency submitted.
 
 #### 17. Can I use the RGL to come to Singapore for long-term work?
 

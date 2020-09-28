@@ -37,23 +37,23 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in the ROK apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
-Residents in the ROK seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://go.gov.sg/rglapp>, or through a sponsoring government agency.
+Residents in the ROK seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.
 
-The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned departure. The processing of the application can take up to 7 working days. Applications submitted less than 7 working days from the planned departure will not be accepted.
+When applying for the SafeTravel Pass, Proof of Residency in the ROK is required. ROK citizens should present a copy of their passport page for submission, while foreign residents in ROK should present a copy of their Certificate of Alien Registration. The applicant will also be required to submit the controlled itinerary for the traveller(s)’ first 14 days of stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
 
-You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test before departure for Singapore.
+The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the applicant and the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status [here](https://eservices.ica.gov.sg/esvclandingpage/save).
+When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email within 3 working days. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through [here](https://eservices.ica.gov.sg/esvclandingpage/save).
 
 Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card, within 3 days prior to the date of arrival in Singapore.
 
-Prior to the traveller’s departure from the ROK, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 test taken within 72 hours before departure** and the **controlled itinerary in Singapore** at <https://go.gov.sg/rglsuppdocs>.
+Prior to the traveller’s departure from the ROK, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 test** taken within 72 hours before departure and **latest** controlled itinerary at <https://eservices.ica.gov.sg/STO>.
 
-The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 polymerase chain reaction (PCR) test, return air ticket or proof of other transportation arrangements to depart Singapore, and valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
+Travellers by air are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
-#### 5. What are the responsibilities of the host company who is self-sponsoring?
+#### 5. What are the responsibilities of the host company?
 
 When a company applies for the SafeTravel Pass on behalf of the traveller, it is also responsible for the timely submission of the accompanying documents.
 
@@ -75,11 +75,9 @@ No payment is required.
 
 #### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application.
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application. 
 
 If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
-
-One traveller can only hold one valid SafeTravel Pass **for a single entry into Singapore** at any one point in time. Please refrain from submitting multiple SafeTravel Pass applications or submitting new applications when you already have a valid SafeTravel Pass on hand. Duplicate applications will be rejected.
 
 #### 10. What visa will I be eligible for under the fast lane, and what is the duration of stay that I will be eligible for in Singapore?
 
@@ -99,20 +97,19 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What can I do if I have changes to my controlled itinerary?
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://go.gov.sg/rglsuppdocs>. This should be done even if the traveller is already in Singapore. Please ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
+The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. 
 
-#### 14. Why was my application rejected?
+#### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-SafeTravel Pass applications may be rejected for reasons, including the following:
-- **The quota for the week of entry that the application was submitted was fully utilised.** In this situation, you may consider submitting an application for a SafeTravel Pass for a different week of entry.
-- **Application exceeds permissible window, i.e. not within 20 to 7 working days prior to departure.** In this situation, please ensure that you submit the application earliest 20 working days prior to the date of entry into Singapore, and latest 7 working days before the date of entry into Singapore.
-- **Inadequate information provided.**
+The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.
 
-#### 15. I have submitted the necessary supporting documents prior to my departure from the ROK to Singapore. Why did I receive a notification that the submission was unsuccessful?
+#### 15. Why was my application rejected?
 
-You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from the ROK. You should submit the supporting documents only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 72 hours</u> of departure from the ROK. Please resubmit the necessary documents within the stipulated window prior to departure.
+SafeTravel Pass applications may be rejected for reasons, including the following
 
-Do also ensure that the supporting documents submitted are in the correct format (pdf., jpeg).
+- Inadequate justifications provided for reason of travelinformation provided.
+- Non-compliant controlled itinerary submitted.
+- Wrong proof of residency submitted.
 
 #### 16. Can I use the fast lane to come to Singapore for long-term work?
 
@@ -130,7 +127,7 @@ The fast lane is only for short-term essential business and official travel betw
 
 #### 19. What health measures must I take in the ROK before departing for Singapore?
 
-Travellers must have remained in the ROK for 14 days prior to departure for Singapore. They must monitor their health status before departure from the ROK, undergo a pre-departure PCR test in the ROK at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the ROK. Please note that it may take around three days to take a pre-departure PCR test after applying to do so. Please approach the ROK Business Travel Support Center (<http://www.btsc.or.kr> / (+82) 1566-8110 / <btsc@kita.net>) for further details on the medical institutions. [Note: Website only in Korean; enquiries in English can be made via phone or email.]
+Travellers must have remained in the ROK for 14 days prior to departure for Singapore. They must monitor their health status before departure from the ROK, undergo a pre-departure PCR test in the ROK at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the ROK. Please note that it may take around three days to take a pre-departure PCR test after applying to do so. Please approach the ROK Business Travel Support Center (<https://www.btsc.or.kr> / (+82) 1566-8110 / <btsc@kita.net>) for further details on the medical institutions. [Note: Website only in Korean; enquiries in English can be made via phone or email.]
 
 #### 20. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from the ROK to Singapore?
 
@@ -222,7 +219,7 @@ The relevant ROK Government authorities will assess each application on a case-b
 
 #### 2. How do Singapore residents apply to travel to the ROK under the fast lane?
 
-Residents in Singapore seeking to travel to the ROK for short-term essential business or official travel via the fast lane must be sponsored by either a company or a government agency in the ROK, which will apply for isolation exemption approval on behalf of the applicant with the relevant government agencies in the ROK. If approved, the applicant is required to apply for a visa at the ROK Embassy in Singapore, should they hold a visa-required passport [click](http://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1). The approved applicant is also required to submit documents [click](http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) to the ROK Embassy in Singapore via email to <fastlanesg@mofa.go.kr> in order to receive the endorsed Isolation Exemption Certificate and the letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. The approved applicant will be notified within 2 working days on the document pick-up date. Please [click here](http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275) or contact the ROK Embassy in Singapore (contact details at **<a href="#annexa">ANNEX A</a>**) for more details on the requirements for ROK-Singapore Fast Lane Essential Travel.
+Residents in Singapore seeking to travel to the ROK for short-term essential business or official travel via the fast lane must be sponsored by either a company or a government agency in the ROK, which will apply for isolation exemption approval on behalf of the applicant with the relevant government agencies in the ROK. If approved, the applicant is required to apply for a visa at the ROK Embassy in Singapore, should they hold a visa-required passport [click](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1). The approved applicant is also required to submit documents [click](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) to the ROK Embassy in Singapore via email to <fastlanesg@mofa.go.kr> in order to receive the endorsed Isolation Exemption Certificate and the letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. The approved applicant will be notified within 2 working days on the document pick-up date. Please [click here](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275) or contact the ROK Embassy in Singapore (contact details at **<a href="#annexa">ANNEX A</a>**) for more details on the requirements for ROK-Singapore Fast Lane Essential Travel.
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the fast lane requirements of the ROK authorities prior to departure for the ROK. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. This may also include other requirements such as keeping the ROK authorities informed of the traveller’s flight details.
 
@@ -310,8 +307,10 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 Singapore-based travellers returning from their travel on the Singapore-ROK Fast Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
 
-- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
-- Produce the letter issued by the Embassy of the Republic of Korea in Singapore which confirms that he/she was granted approval to travel under the Singapore-ROK Fast Lane; 
+- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
+- Produce the letter issued by the Embassy of the Republic of Korea in Singapore which confirms that he/she was granted approval to travel under the Singapore-ROK Fast Lane, to ICA at Singapore Immigration. 
+
+Please approach the ROK Business Travel Support Center ( <https://www.btsc.or.kr> / (+82) 1566-8110 / <btsc@kita.net>) for further details on the medical institutions at which pre-departure COVID-19 testing in the ROK can be conducted. [Note: Website only in Korean; enquiries in English can be made via phone or email.]
 
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.  If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN.  For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
