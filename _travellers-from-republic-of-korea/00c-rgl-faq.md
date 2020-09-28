@@ -307,8 +307,10 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 Singapore-based travellers returning from their travel on the Singapore-ROK Fast Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
 
-- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>.
-- Produce the letter issued by the Embassy of the Republic of Korea in Singapore which confirms that he/she was granted approval to travel under the Singapore-ROK Fast Lane; 
+- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
+- Produce the letter issued by the Embassy of the Republic of Korea in Singapore which confirms that he/she was granted approval to travel under the Singapore-ROK Fast Lane, to ICA at Singapore Immigration. 
+
+Please approach the ROK Business Travel Support Center ( <www.btsc.or.kr> / (+82) 1566-8110 / <btsc@kita.net>) for further details on the medical institutions at which pre-departure COVID-19 testing in the ROK can be conducted. [Note: Website only in Korean; enquiries in English can be made via phone or email.]
 
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.  If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN.  For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
