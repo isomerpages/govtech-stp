@@ -17,7 +17,7 @@ third_nav_title: Reciprocal Green Lane
     <!--  <td width="50%"><a href="https://go.gov.sg/rglsuppdocs">https://go.gov.sg/rglsuppdocs</a></td>-->
     </tr>
     <tr>
-      <td><div style="text-align:center;"><a href="http://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="http://eservices.ica.gov.sg/STO" title="http://eservices.ica.gov.sg/STO" style="width:50%;height:50%;"></a></div></td>
+      <td style="padding-left:50px;"><a href="http://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="http://eservices.ica.gov.sg/STO" title="http://eservices.ica.gov.sg/STO" style="width:50%;height:50%;"></a></td>
      <!-- <td><a href="https://go.gov.sg/rglsuppdocs"><img src="/images/qr-rglsuppdocs.png" alt="https://go.gov.sg/rglsuppdocs" title="https://go.gov.sg/rglsuppdocs"></a></td>-->
     </tr>
     <tr>
