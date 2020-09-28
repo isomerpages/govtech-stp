@@ -39,15 +39,13 @@ If the visitor already has an existing valid visa which has been suspended due t
 #### Pre-Departure
 
 Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
-- remain in Australia in the last 14 consecutive days before departing for Singapore;
+- remain in Australia (excluding Victoria state) in the last 14 consecutive days before departing for Singapore;
 - monitor his/her health status before departure;
 - book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet; 
 - check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>; and 
 - submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to his/her date of arrival in Singapore.
 
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
-
-In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
 
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
@@ -67,7 +65,7 @@ At arrival immigration in Singapore, the visitor must present to the ICA officer
 
 A visitor who does not have any of the above may be refused entry into Singapore by ICA.
 
-A visitor holding an Air Travel Pass will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, the visitor must take private transportation, taxi, or private hire car to travel from the airport to his/her declared accommodation, and remain in isolation at that accommodation until he/she is notified that his/her test result is negative. The visitor shall also bear any transportation and accommodation costs incurred.
+A visitor holding an Air Travel Pass will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, the visitor must take private transportation, taxi, or private hire car to travel from the airport to his/her declared accommodation and remain in isolation at that accommodation until he/she is notified that his/her test result is negative. The visitor shall also bear any transportation and accommodation costs incurred.
 
 If the visitor tests negative for COVID-19, the visitor can leave his/her accommodation and go about his/her activities in Singapore. Visitors must be responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
 
