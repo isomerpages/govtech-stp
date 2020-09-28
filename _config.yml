@@ -21,6 +21,8 @@ colors:
 
 #collections
 collections:
+  travellers-from-australia:
+    output: true
   travellers-from-brunei-darussalam:
     output: true
   travellers-from-china:
