@@ -13,7 +13,7 @@ third_nav_title: Reciprocal Green Lane
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><a href="http://eservices.ica.gov.sg/STO" style="align:center">http://eservices.ica.gov.sg/STO</a></td>
+      <td width="50%"><a href="http://eservices.ica.gov.sg/STO" style="text-align:center">http://eservices.ica.gov.sg/STO</a></td>
     <!--  <td width="50%"><a href="https://go.gov.sg/rglsuppdocs">https://go.gov.sg/rglsuppdocs</a></td>-->
     </tr>
     <tr>
