@@ -25,7 +25,8 @@ third_nav_title: Reciprocal Green Lane
       </td>
     </tr>
     <tr>
-      <td colspan="2"><i>* For SafeTravel Pass applications submitted before 28 Sep 2020, please submit supporting documents at <a href="https://go.gov.sg/rglsuppdocs">https://go.gov.sg/rglsuppdocs</a>, instead of the link above.</td>
+      <td colspan="2"><i>* For SafeTravel Pass applications submitted before 28 Sep 2020, please submit supporting documents at <a href="https://go.gov.sg/rglsuppdocs">https://go.gov.sg/rglsuppdocs</a>, instead of the link above.
+        </td>
     </tr>   
   </tbody>
 </table>
