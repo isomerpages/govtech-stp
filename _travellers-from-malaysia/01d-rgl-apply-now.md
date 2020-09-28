@@ -23,8 +23,6 @@ third_nav_title: Reciprocal Green Lane
     <tr>
       <td colspan="2">Applications for travel from Malaysia to Singapore are open between <b><u>2 to 5 weeks</u></b> before your intended date of entry. Please note that the processing of the application can take up to <b><u>7 days</u></b>(excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures.</td>
     </tr>
-     <tr><td colspan="2"><i>* For SafeTravel Pass applications submitted before 28 Sep 2020, please submit supporting documents at <a href="https://go.gov.sg/rglsuppdocs"> https://go.gov.sg/rglsuppdocs </a></td></i>
-    </tr>
   </tbody>
 </table>
 
