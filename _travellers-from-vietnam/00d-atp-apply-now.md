@@ -1,6 +1,6 @@
 ---
 title: Apply Now
-permalink: /brunei/atp/apply-now
+permalink: /vietnam/atp/apply-now
 third_nav_title: Air Travel Pass
 ---
 
