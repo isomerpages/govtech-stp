@@ -3,7 +3,9 @@ logo: /images/logo-stp.png
 links:
   - title: Get Started
     sublinks:
-      - title: Travellers from Brunei Darussalam
+      - title: Travellers from Australia
+        url: /australia/atp/requirements-and-process
+     - title: Travellers from Brunei Darussalam
         url: /brunei/overview
       - title: Travellers from China
         url: /china/rgl/requirements-and-process
