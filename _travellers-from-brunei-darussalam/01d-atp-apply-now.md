@@ -16,7 +16,6 @@ third_nav_title: Air Travel Pass
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/atpsg"><img src="/images/qr-atpsg.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
-      test
     </tr>
   </tbody>
 </table>
