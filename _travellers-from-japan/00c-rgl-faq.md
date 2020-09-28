@@ -37,7 +37,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in Japan apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
-Residents in Japan seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
+Residents in Japan seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
 When applying for the SafeTravel Pass, Proof of Residency in Japan is required. Japanese nationals should present a copy of their passport page, while foreign residents in Japan should present a copy of their Residence Cards. The applicant will also be required to submit the controlled itinerary for the traveller(s)’ first 14 days of stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
 
@@ -49,7 +49,7 @@ Those who did not require a visa prior to the COVID-19 pandemic will not need to
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card, within 3 days prior to the date of arrival in Singapore.
 
-Prior to the traveller’s departure from Japan, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 PCR test** taken within 72 hours before departure and **latest** controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>.
+Prior to the traveller’s departure from Japan, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 PCR test** taken within 72 hours before departure and **latest** controlled itinerary in Singapore at <https://eservices.ica.gov.sg/STO>.
 
 The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 polymerase chain reaction (PCR) test which should be in English or accompanied by an English translation, return air ticket or proof of other transportation arrangements to depart Singapore, and valid visa (for visa-required passport holders) for pre-boarding checks at the airlines check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
@@ -98,11 +98,11 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What if I have changes to my controlled itinerary? 
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <http://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
+The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
 
 #### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-The sponsoring company/agency or traveller may enquire the status of their application(s) via <http://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
+The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
 
 #### 15. Why was my application rejected?
 
