@@ -21,8 +21,6 @@ colors:
 
 #collections
 collections:
-  travellers-from-australia:
-    output: true
   travellers-from-brunei-darussalam:
     output: true
   travellers-from-china:
@@ -34,8 +32,6 @@ collections:
   travellers-from-republic-of-korea:
     output: true
   travellers-from-japan:
-    output: true
-  travellers-from-vietnam:
     output: true
 
 ##################################################################################################################
