@@ -3,8 +3,6 @@ logo: /images/logo-stp.png
 links:
   - title: Get Started
     sublinks:
-      - title: Travellers from Australia
-        url: /australia/atp/requirements-and-process
       - title: Travellers from Brunei Darussalam
         url: /brunei/overview
       - title: Travellers from China
@@ -17,8 +15,6 @@ links:
         url: /newzealand/atp/requirements-and-process
       - title: Travellers from Republic of Korea
         url: /rok/rgl/requirements-and-process
-      - title: Travellers from Vietnam
-        url: /vietnam/atp/requirements-and-process
   - title: Pre-Departure Test Application
     url: /pre-departure-test
   - title: Contact Us
