@@ -14,7 +14,7 @@ Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass 
 
 From 1 September 2020, foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore on or after 8 September 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
-Visitors must comply with the [Conditions](/brunei/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
+Visitors must comply with the [Conditions](/brunei/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email. 
 
 Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected.
 
@@ -45,9 +45,7 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>; and 
 - submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to his/her date of arrival in Singapore.
 
-Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
-
-In the event that the visitor is unable to payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
 
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
