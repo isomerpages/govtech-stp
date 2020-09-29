@@ -8,7 +8,7 @@ third_nav_title: Air Travel Pass
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Australia (excluding Victoria state) to seek entry into Singapore.
+An ATP allows visitors<sup>1</sup> travelling from Australia (excluding Victoria State) to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
@@ -165,4 +165,4 @@ No, the ATP is for visitors who intend to enter Singapore and is not applicable 
 
 <sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders. 
 
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore from Australia (excluding Victoria state), Brunei Darussalam, New Zealand and Vietnam are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore from Australia (excluding Victoria State), Brunei Darussalam, New Zealand and Vietnam are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
