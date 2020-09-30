@@ -27,7 +27,7 @@ Yes. All residents in Malaysia who need to make <u>short-term</u> essential busi
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass is required for residents in Malaysia to seek <u>short-term</u> entry into Singapore under the RGL. It is non-transferable and will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to <u>14 days</u>.
+A SafeTravel Pass is required for residents in Malaysia to seek <u>short-term</u> entry into Singapore under the RGL. It is non-transferable and will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
@@ -49,9 +49,11 @@ The approved applicant will have to submit pre-trip health and travel history de
 
 Prior to the traveller’s departure from Malaysia, the sponsoring company or government agency should submit the traveller’s **certificate of negative result for COVID-19 test** taken within 72 hours before departure and **latest controlled itinerary in Singapore** at <https://eservices.ica.gov.sg/STO>.
 
-Travellers by air are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
+Travellers arriving in Singapore by air are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), return air ticket and negative result for a COVID-19 PCR test for pre-boarding checks at the airlines’ check-in counter and immigration counter. Otherwise, he/she may be refused boarding.
 
-Travellers departing via land checkpoints are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), and negative result for COVID-19 PCR test result.
+Travellers arriving in Singapore via land checkpoints are required to present their valid SafeTravel Pass, valid visa (for visa-required passport holders), and negative result for COVID-19 PCR test result.
+
+Travellers who are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
 #### 5. What are the responsibilities of the host company?
 
@@ -84,6 +86,8 @@ If the traveller’s SafeTravel Pass has expired, he/she should submit a new app
 Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
 
 Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian citizens) will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
+
+Travellers who are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
 #### 11. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
 
@@ -227,27 +231,23 @@ The traveller should work with his/her local host company or government agency t
 
 Please check with the [Malaysian Immigration Department](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html) for more information on entering Malaysia under the RGL.
 
-#### 3. What is the maximum stay duration in Malaysia?
-
-The maximum period of stay is 14 days.
-
-#### 4. Is the RGL meant for long-term work and study?
+#### 3. Is the RGL meant for long-term work and study?
 
 The RGL is only for short-term essential business and official travel, and not for long-term work or study.
 
 Those seeking to enter Malaysia for purposes other than essential business and official travel should contact the Malaysian High Commission in Singapore for further details.
 
-#### 5. Are there restrictions on how I can travel to Malaysia?
+#### 4. Are there restrictions on how I can travel to Malaysia?
 
 Under the RGL, travellers can travel to Malaysia by air via any non-stop flight route between airports in Singapore and Malaysia, as well as by land via the Causeway and Second Link.
 
-#### 6. Who can I contact for more information on the arrangements in Malaysia, e.g., accommodation and transport?
+#### 5. Who can I contact for more information on the arrangements in Malaysia, e.g., accommodation and transport?
 
 The traveller may contact his/her host company or government agency in Malaysia to make the necessary arrangements in Malaysia.
 
 ### **Testing Arrangements**
 
-#### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+#### 6. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
 The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
@@ -259,21 +259,21 @@ The traveller must present at the clinic, a copy of the Malaysia-issued travel p
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
-#### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
+#### 7. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
 Travellers with ARI symptoms should not travel. They should postpone their travel plans.
 
-#### 9. What tests will I be subject to upon arrival in Malaysia? Will I be subject to a serology test in Malaysia?
+#### 8. What tests will I be subject to upon arrival in Malaysia? Will I be subject to a serology test in Malaysia?
 
 A RGL traveller to Malaysia will be subject to a COVID-19 PCR test at the point of entry or within 24 hours upon arrival.
 
-#### 10. What if I test positive for COVID-19 in Malaysia?
+#### 9. What if I test positive for COVID-19 in Malaysia?
 
 If tested positive for COVID-19 in Malaysia, the traveller will be accorded the necessary medical treatment by the Malaysian government at his/her cost.
 
 ### **Pre-Departure in Singapore**
 
-#### 11. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Malaysia?
+#### 10. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Malaysia?
 
 Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Malaysian government specifically for essential business or official travel under the RGL.
 
@@ -281,13 +281,13 @@ For travellers departing via land checkpoints, the traveller is required to prod
 
 ### **Health Measures in Malaysia**
 
-#### 12. Do I need to be quarantined upon arrival in Malaysia?
+#### 11. Do I need to be quarantined upon arrival in Malaysia?
 
 After undergoing a PCR test upon arrival, the traveller must remain under isolation until the test results are released. The traveller will be required to be transported directly by the sponsor to a non-residential accommodation, and be isolated while awaiting the test result. The traveller has to bear the costs of the post-arrival test and the isolation in the designated accommodation.
 
 If the <u>traveller tests</u> negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Malaysia.
 
-#### 13. What other health measures will I be subject to in Malaysia? What would qualify as a “controlled itinerary” in Malaysia?
+#### 12. What other health measures will I be subject to in Malaysia? What would qualify as a “controlled itinerary” in Malaysia?
 
 The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in Malaysia, including downloading the MySejahtera contact tracing apps as required by the Malaysian authorities.
 
@@ -299,7 +299,7 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 ### **Returning to Singapore**
 
-#### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel?
+#### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
 Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 - Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
@@ -309,7 +309,7 @@ You may wish to refer to <https://www.ica.gov.sg/covid-19> for the latest detail
 
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
 
-#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
+#### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
 
 Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled to Malaysia on the Singapore-Malaysia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Malaysia on the Singapore-Malaysia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
 

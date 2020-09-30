@@ -8,9 +8,7 @@ third_nav_title: Air Travel Pass
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from the following countries to seek entry into Singapore:
-- Brunei Darussalam
-- New Zealand
+An ATP allows visitors<sup>1</sup> travelling from New Zealand to seek entry into Singapore:
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
@@ -19,8 +17,6 @@ The ATP comes with conditions of travel that the applicant must comply with.
 Visitors can apply for an ATP from 1 September 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 September 2020, 0001hrs.
 
 #### 3. How can visitors apply for an ATP?
-
-Visitors can apply for the ATP from 1 September 2020, 1200hrs, Singapore time (GMT +8).
 
 Applications for the ATP can be made between seven and 30 calendar days prior to the intended date of entry into Singapore.
 
@@ -169,4 +165,4 @@ No, the ATP is for visitors who intend to enter Singapore and is not applicable 
 
 <sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders. 
 
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore from Brunei Darussalam and New Zealand are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore from Australia, Brunei Darussalam, New Zealand and Vietnam are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
