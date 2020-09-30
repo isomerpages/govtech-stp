@@ -8,7 +8,7 @@ third_nav_title: Air Travel Pass
 
 On 21 August 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Brunei Darussalam. Foreigners who are short-term visitors travelling from Brunei Darussalam may seek entry into Singapore by applying for an Air Travel Pass.
 
-Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an Air Travel Pass to travel to Singapore from Brunei Darussalam. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
+Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are <b><u>not</u></b> required to apply for an Air Travel Pass to travel to Singapore from Brunei Darussalam. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
 
 ### **Application**
 
