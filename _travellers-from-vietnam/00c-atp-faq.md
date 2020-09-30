@@ -8,7 +8,7 @@ third_nav_title: Air Travel Pass
 
 #### 1. What is an ATP?
 
-An ATP allows visitors <sup>1</sup> travelling from Vietnam to seek entry into Singapore.
+An ATP allows visitors<sup>1</sup> travelling from Vietnam to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
@@ -58,7 +58,7 @@ No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not 
 
 For information on border control measures, please refer to the Singapore Immigration & Checkpoints Authority (ICA) website [here](https://www.ica.gov.sg/covid-19).
 
-#### 12. Can travel agents apply for Air Travel Pass on behalf of their clients?
+#### 12. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
 No. Visitors will need to submit the application themselves as they are required to agree to the conditions of the ATP, read and agree to the Privacy Statement, as well as verify all submitted information.
 
@@ -76,7 +76,7 @@ Visitors may refer to the Singapore Immigration & Checkpoints Authority (ICA) we
 
 #### 14. What are the ATP conditions of travel?
 
-Visitors must comply with the ATP Conditions [here](/vietnam/atp/conditions)
+Visitors must comply with the ATP Conditions [here](/vietnam/atp/conditions).
 
 #### 15. Why must visitors take direct flights without transit to Singapore?
 
@@ -90,7 +90,7 @@ Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Rea
 
 After taking the COVID-19 PCR test, visitors are to take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
-To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>
+To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
 #### 17. What types of accommodation do visitors need to use while waiting for their test results?
 
