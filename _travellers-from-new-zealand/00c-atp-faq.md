@@ -90,7 +90,7 @@ Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Rea
 
 After taking the COVID-19 PCR test, visitors are to take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
-To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>
+To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
 #### 17. What types of accommodation do visitors need to use while waiting for their test results?
 
@@ -114,7 +114,7 @@ Children aged 12 or younger in that calendar year are not required to undergo a 
 
 The cost of the COVID-19 PCR test is S$300 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
 
-To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>
+To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
 #### 21. What happens if visitors refuse to undergo the post-arrival COVID-19 PCR test?
 
