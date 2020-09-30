@@ -58,7 +58,7 @@ No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not 
 
 For information on border control measures, please refer to the Singapore Immigration & Checkpoints Authority (ICA) website [here](https://www.ica.gov.sg/covid-19).
 
-#### 12. Can travel agents apply for Air Travel Pass on behalf of their clients?
+#### 12. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
 No. Visitors will need to submit the application themselves as they are required to agree to the conditions of the ATP, read and agree to the Privacy Statement, as well as verify all submitted information.
 
