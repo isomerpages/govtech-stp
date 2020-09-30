@@ -45,7 +45,7 @@ Prior to travelling to Singapore, approved SafeTravel Pass travellers are requir
 
 Travellers entering Singapore by air are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
 
-In the event that the visitor is unable to make payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
+In the event that the visitors is unable to make payment before departing to Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to the phone.
 
 Travellers entering Singapore by air and land are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
 - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
