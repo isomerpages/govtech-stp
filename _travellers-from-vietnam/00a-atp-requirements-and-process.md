@@ -8,7 +8,7 @@ third_nav_title: Air Travel Pass
 
 On 30 September 2020 , Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Vietnam. Foreigners who are short-term visitors travelling from Vietnam may seek entry into Singapore by applying for an Air Travel Pass.
 
-Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an Air Travel Pass to travel to Singapore from Vietnam. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
+Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are <b><u>not</u></b> required to apply for an Air Travel Pass to travel to Singapore from Vietnam. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
 
 ### **Application**
 
