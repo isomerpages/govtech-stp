@@ -18,7 +18,7 @@ Visitors can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT 
 
 #### 3. How can visitors apply for an ATP?
 
-Applications for the ATP can be made between seven and 30 calendar days prior to the intended date of entry into Singapore.
+Applications for the ATP can be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
 
 For example, visitors who intend to enter Singapore on 31 October 2020 must apply for an ATP between 1 October 2020 and 24 October 2020.
 
@@ -76,7 +76,7 @@ Visitors may refer to the Singapore Immigration & Checkpoints Authority (ICA) we
 
 #### 14. What are the ATP conditions of travel?
 
-Visitors must comply with the ATP Conditions [here](https://govtech-stp-staging.netlify.app/vietnam/atp/conditions)
+Visitors must comply with the ATP Conditions [here](/vietnam/atp/conditions)
 
 #### 15. Why must visitors take direct flights without transit to Singapore?
 
@@ -136,11 +136,11 @@ Children aged 12 or younger in that calendar year and travelling with parent/gua
 
 All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app, and may be refused boarding and entry into Singapore if they are unable to download the TraceTogether app on their mobile devices.
 
-Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
+Children aged 12 or younger in that calendar year and travelling with a parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 #### 25. Can visitors switch off their mobile devices while in Singapore?
 
-No, visitors must keep mobile devices and the Bluetooth function switched on at all times while in Singapore.
+No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
 #### 26. Can visitors uninstall the TraceTogether app upon departing from Singapore?
 
