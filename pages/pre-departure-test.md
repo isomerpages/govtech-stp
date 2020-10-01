@@ -46,17 +46,9 @@ Pre-departure COVID-19 PCR tests for your travel may only be performed at [selec
 
 #### 2. How can I make an appointment for pre-departure PCR testing?
 
-Please call the clinic to book your test slot.
+Please call the clinic to book your test slot. 
 
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment. **You are responsible for checking for your testing window that is in line with your destination country’s requirement. Please ensure you have obtained prior approval from a Singapore government agency before calling the clinic to make the appointment.**
-
-<u>You must be present at least two hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure. You are advised to present as early as possible, within your required testing window.
-
-| Flight departure time | Latest Cut-off Test Timing |
-|-----------------------|-----------------------------------------|
-| 12:00am to 9:29am | 10.00am two calendar days before flight |
-| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
-| 3.30pm to 11.59pm | 10:00am the day before flight |
+You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking for your testing window that is in line with your destination country’s requirement. Please ensure you have obtained prior approval from a Singapore government agency before calling the clinic to make the appointment.
 
 <u>Please ensure you have the approval letter before presenting at the clinic. Persons without prior approval will not be allowed to purchase a pre-departure test.</u>
 

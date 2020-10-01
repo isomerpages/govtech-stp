@@ -167,9 +167,9 @@ Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
-The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://tracetogether.gov.sg>.
+The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above.  More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
-#### 27. What is SafeEntry?
+#### 25. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -177,7 +177,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to China**
 
-#### 28. Do I need to be tested again in Singapore before I return to China?
+#### 26. Do I need to be tested again in Singapore before I return to China?
 
 Yes, China requires <u>all</u> travellers departing for/returning to China from Singapore to be subject to a pre-departure PCR test. As such, fast lane returnees will have to be tested again in Singapore before returning to China.
 
@@ -186,29 +186,18 @@ A fast lane traveller returning to China can make an appointment in advance at c
 According to the guidelines by the Chinese government, the validity period of the negative certificate held by travellers from Singapore to China will be adjusted from 5 days to 3 days from 11 September 2020. Please refer to the guidelines by the Chinese government at <http://www.chinaembassy.org.sg/eng/gdxw/t1812116.htm>.
 
 The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for fast lane arrangements can only be carried out at these clinics at the moment.
- 
-The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
-Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule below. This is to ensure that you will have sufficient time to meet the pre-departure testing requirements.
+Travellers should make an appointment that fits your required testing window, and present at the clinic early for the appointment. Travellers should make an appointment that fits their required testing window, and present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
-Travellers should make an appointment that fits your required testing window, and present at the clinic early for the appointment.
-
-<u>Travellers must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers are responsible for checking for, and scheduling a test within their required window. Travellers who do not adhere to this cut-off timing will <b>not</b> be able to obtain the results in time for departure.
-
-| Flight departure time | Latest Cut-off Test Timing |
-|-----------------------|-----------------------------------------|
-| 12.00 am to 9:29 am | 10.00 am two calendar days before flight |
-| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
-| 3:30pm to 11.59pm | 10.00am the day before flight |
-
-<br>
-<span class ="test" style="Font-size:20px;" >Please bring the following when you present at the clinic for testing: </span>
+<span class ="test" style="Font-size:20px;" >The traveller should bring the following when presenting at the clinic for testing: </span>
 
 : a. Identity card or passport
 
 : b. PDF copy of the SafeTravel Pass
 
 : c. Softcopy showing your departure flight timing 
+
+The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 -----
 
