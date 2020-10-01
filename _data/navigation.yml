@@ -23,6 +23,7 @@ links:
     url: /pre-departure-test
   - title: COVID-19 Border Control Measures
     url: https://www.ica.gov.sg/covid-19
+    external: true
   - title: Contact Us
     url: /contact-us
     
