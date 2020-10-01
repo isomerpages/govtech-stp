@@ -1,7 +1,7 @@
 logo: /images/ica-stp.png
 
 links:
-  - title: Arriving from
+  - title: Short-Term Entry From
     sublinks:
       - title: Australia
         url: /australia/atp/requirements-and-process
@@ -27,14 +27,11 @@ links:
       - title: Student's Pass Holders
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c
         external: true
-      - title: Long-Term Visit Pass
+      - title: Long-Term Visit Pass Holders
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c
         external: true
   - title: Pre-Departure Test
     url: /pre-departure-test
-  - title: COVID-19 Border Control Measures
-    url: https://www.ica.gov.sg/covid-19
-    external: true
   - title: Contact Us
     url: /contact-us
     
