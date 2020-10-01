@@ -19,7 +19,7 @@ links:
         url: /rok/rgl/requirements-and-process
       - title: Vietnam
         url: /vietnam/atp/requirements-and-process
-  - title: Entry for Long-Term Pass Holders
+  - title: Long-Term Pass Holder Entry
     sublinks:
       - title: MOM Work Pass Holders
         url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
@@ -35,3 +35,16 @@ links:
   - title: Contact Us
     url: /contact-us
     
+key-highlights:
+  - title: Before Entering Singapore
+    description: Information on what to do before entering Singapore
+    url: https://www.ica.gov.sg/covid-19/enteringsg
+    external: true
+  - title: Arrival in Singapore
+    description: What to expect on arrival in Singapore
+    url: https://www.ica.gov.sg/covid-19/ArrivalSG
+    external: true
+  - title: Stay-Home Notice (SHN) and Post-Arrival Swab
+    description: Details on SHN and subsequent health monitoring within Singapore after arrival
+    url: https://www.ica.gov.sg/covid-19/SHN
+    external: true
