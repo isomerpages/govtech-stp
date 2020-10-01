@@ -193,10 +193,13 @@ The list of clinics that can perform pre-departure COVID-19 tests and details on
 
 The traveller should make an appointment with the clinic that fits the required testing window, and present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
-The traveller should bring the following when presenting at the clinic for testing:
- - Identity card or passport 
- - PDF copy of the SafeTravel Pass 
- - Softcopy showing departure flight timing
+<span class ="test" style="Font-size:20px;" >The traveller should bring the following when presenting at the clinic for testing: </span>
+
+: a. Identity card or passport
+
+: b. PDF copy of the SafeTravel Pass
+
+: c. Softcopy showing your departure flight timing 
  
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
