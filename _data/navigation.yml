@@ -1,26 +1,28 @@
 logo: /images/ica-stp.png
 
 links:
-  - title: Get Started
+  - title: Arriving from:
     sublinks:
-      - title: Travellers from Australia
+      - title: Australia
         url: /australia/atp/requirements-and-process
-      - title: Travellers from Brunei Darussalam
+      - title: Brunei Darussalam
         url: /brunei/overview
-      - title: Travellers from China
+      - title: China
         url: /china/rgl/requirements-and-process
-      - title: Travellers from Japan
+      - title: Japan
         url: /japan/rgl/requirements-and-process
-      - title: Travellers from Malaysia
+      - title: Malaysia
         url: /malaysia/overview
-      - title: Travellers from New Zealand
+      - title: New Zealand
         url: /newzealand/atp/requirements-and-process
-      - title: Travellers from Republic of Korea
+      - title: Republic of Korea
         url: /rok/rgl/requirements-and-process
-      - title: Travellers from Vietnam
+      - title: Vietnam
         url: /vietnam/atp/requirements-and-process
   - title: Pre-Departure Test Application
     url: /pre-departure-test
+  - title: COVID-19 Border Control Measures
+    url: https://www.ica.gov.sg/covid-19
   - title: Contact Us
     url: /contact-us
     
