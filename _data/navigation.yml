@@ -1,7 +1,7 @@
 logo: /images/ica-stp.png
 
 links:
-  - title: Short-Term Entry From
+  - title: Short-Term Entry (by origin Country)
     sublinks:
       - title: Australia
         url: /australia/atp/requirements-and-process
@@ -21,7 +21,7 @@ links:
         url: /vietnam/atp/requirements-and-process
   - title: Long-Term Pass Holder Entry
     sublinks:
-      - title: MOM Work Pass Holders
+      - title: Work Pass Holders
         url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
         external: true
       - title: Student's Pass Holders
