@@ -129,14 +129,14 @@ The RGL is only for short-term essential business and official travel between Si
 #### 19. What health measures must I take in Japan before departing for Singapore?
 
 Travellers must have remained in Japan for 14 days prior to departure for Singapore. They must monitor their health status before departure from Japan, undergo a pre-departure PCR test in Japan at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Japan. 
-Please visit this [link](https://www.meti.go.jp/policy/investment/tecot/top.html) for a list of designated medical institutions. [Note: Website only in Japanese; enquiries in English can be made via phone (+65- 6235-8855) or email (<fastlane@sn.mofa.go.jp>) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
+Please visit this [link](https://www.meti.go.jp/policy/investment/tecot/top.html) for a list of designated medical institutions. [Note: Website only in Japan; enquiries in English can be made via phone (+65 6830 3513) or email (atsuki.swata@mofa.go.jp) to Mr Sawata Atsuki at the Japanese Embassy.] The certificate should be in English or accompanied by an English translation.
 
 #### 20. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
 The traveller is required to produce the following documents for pre-boarding checks:
 - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from one of the medical institutions designated by the Japanese Government and should be in English or accompanied by an English translation); and 
+- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from one of the medical institutions designated by the Japanese Government <b><u>and</u></b> should be in English or accompanied by an English translation); and 
 - A return air ticket or proof of other transportation arrangements to depart Singapore. 
 
 Otherwise, the traveller may be refused boarding.
@@ -183,18 +183,21 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 According to the Government of Japan, RGL returnees to Japan are required to take a pre-departure COVID 19 PCR test in Singapore within 72 hours of their return to Japan. They may be exempted from this requirement if they are Japanese nationals and (a) the duration of their stay in Singapore does not exceed 15 days, or (b) if they agree to serve a 14-day quarantine upon their return to Japan.  
 
-Upon their arrival back in Japan, RGL returnees to Japan must adhere to the prevailing COVID-19 prevention and control measures of the Japanese Government. This may include a 14-day quarantine or COVID-19 tests. Returnees may wish to check on the specific measures taken upon entry into Japan at the website of the Ministry of Foreign Affairs of Japan (<https://www.mofa.go.jp/a_o/na/page22e_000928.html>).
+Upon their arrival back in Japan, RGL returnees to Japan must adhere to the prevailing COVID-19 prevention and control measures of the Japanese Government. This may include a 14-day quarantine or COVID-19 tests. Returnees may wish to check on the specific measures taken upon entry into Japan at the website of the Ministry of Foreign Affairs of Japan (https://www.mofa.go.jp/ca/cp/page25e_000337.html).
 
 As the specific requirements may change over time, the returnee should verify the latest requirements with the Government of Japan.
 
 A RGL returnee to Japan can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test and obtain a health certificate of having tested negative for COVID-19. 
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements can only be carried out at these clinics at the moment. An eligible RGL returnee can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements can only be carried out at these clinics at the moment. 
 
-The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight. 
+The traveller should make an appointment with the clinic that fits the required testing window, and present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
-The traveller must also display his/her SafeTravel Pass, which will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. The SafeTravel Pass must be presented at the clinic before the test can be administered. 
-
+The traveller should bring the following when presenting at the clinic for testing:
+ - Identity card or passport 
+ - PDF copy of the SafeTravel Pass 
+ - Softcopy showing departure flight timing
+ 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 -----
