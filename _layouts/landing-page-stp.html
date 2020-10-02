@@ -90,61 +90,6 @@ layout: skeleton
 {
 	display: block;
 }
-
-/* Pen-specific styles */
-* {
-  box-sizing: border-box;
-}
-body {
-  font-size: 1.25rem;
-  font-family: sans-serif;
-  line-height: 150%;
-}
-
-
-#test1 {
-  height: 20%;
-}
-
-#test2{
-
-height:20%;
-
-}
-
-article {
-  position: absolute;
-  top:20%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
-  padding: 20px;
-}
-
-h1 {
-  font-size: 1.75rem;
-  margin: 0 0 0.75rem 0;
-}
-
-/* Pattern styles */
-.container {
-  display: table;
-  width: 100%;
-}
-
-.left-half {
-  position: absolute;
-  left: 400px;
-  width: 20%;
-}
-
-.right-half {
-  position: absolute;
-  right: 500px;
-  width: 20%;
-}
-	
-	
   
 </style>
 
@@ -179,36 +124,23 @@ h1 {
 	      </div>
       </div>
     </div>
-  </div>
-	<section class="container">
-  <div id="test1" class="left-half key-highlights-text" style="padding-left:200px;">
-    <article>
-     <ul id="menu">
-  <li><a href="#">Dropdown list for countries</a>
-    <ul>
-      <li><a href="https://safetravel.ica.gov.sg/malaysia/overview">Malaysia</a></li>
-      <li><a href="https://safetravel.ica.gov.sg/china/rgl/requirements-and-process">China</a></li>
-    </ul>
-</li>
-    </article>
-  </div>
-  <div id="test2"class="right-half" style="padding-left:200px;">
-    <article>
-    <ul id="menu">
-  <li><a href="#">Dropdown list for countries</a>
-    <ul>
-      <li><a href="https://safetravel.ica.gov.sg/malaysia/overview">Malaysia</a></li>
-      <li><a href="https://safetravel.ica.gov.sg/china/rgl/requirements-and-process">China</a></li>
-    </ul>
-</li>
-    </article>
-  </div>
-</section>
-	
-	
-	
+	</div>
 </section>
 
+<section id="key-highlights" class="bp-section is-paddingless">
+  <div class="bp-container">
+    <div class="row is-gapless has-text-centered">
+       <div class="col">
+        <a href="https://www.ica.gov.sg/covid-19/enteringsg" class="is-highlight">
+          <div class="key-highlights-text">
+            <p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Before Entering Singapore</p>
+            <p class="has-text-white-trans padding--bottom--sm">Information on what to do before entering Singapore</p>
+          </div>
+        </a>
+      </div>
+	  </div>
+	</div>
+</section>
 
 
 <!--New Key Highlights for ICA border control measures--> 
