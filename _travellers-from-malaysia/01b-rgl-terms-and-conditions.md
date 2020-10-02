@@ -22,7 +22,7 @@ third_nav_title: Reciprocal Green Lane
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy/>.
 
-2. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a medical institution accredited by the Ministry of Health Malaysia and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (with a maximum duration of 14 days); and (iii) confirmed arrival details in Singapore including flight number (if by air travel) and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
+2. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a medical institution accredited by the Ministry of Health Malaysia and within 72 hours from departure; (ii) Controlled Itinerary in Singapore; and (iii) confirmed arrival details in Singapore including flight number (if by air travel) and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
 
 3. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
 
@@ -36,7 +36,7 @@ third_nav_title: Reciprocal Green Lane
 
 2. Any Visit Pass issued to a traveller holding the SafeTravel Pass is also subject to these terms and conditions. Non-compliance with any of these terms and conditions may result in the traveller having his/her Visit Pass cancelled and being refused entry.
 
-3. The SafeTravel Pass is meant solely for short-term essential business/official travel and the traveller must exit Singapore within 14 days from date of arrival.
+3. The SafeTravel Pass is meant solely for short-term essential business/official travel.
 
 4. The traveller agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR test results to the Sponsor, Host, and relevant government authorities in Singapore.
 
