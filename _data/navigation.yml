@@ -1,4 +1,4 @@
-logo: /images/logo-stp.png
+logo: /images/ica-stp.png
 
 links:
   - title: Safe Travel Lanes (by Country)
@@ -19,17 +19,17 @@ links:
         url: /rok/rgl/requirements-and-process
       - title: Vietnam
         url: /vietnam/atp/requirements-and-process
-  - title: Long-Term Pass Holders
-    sublinks:
-      - title: Work Pass Holders
-        url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
-        external: true
-      - title: Student's Pass Holders
-        url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c
-        external: true
-      - title: Long-Term Visit Pass Holders
-        url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c
-        external: true
+  #- title: Long-Term Pass Holders
+  #  sublinks:
+  #    - title: Work Pass Holders
+  #      url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
+  #      external: true
+  #    - title: Student's Pass Holders
+  #      url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c
+  #      external: true
+  #    - title: Long-Term Visit Pass Holders
+  #      url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c
+  #      external: true 
   - title: Pre-Departure Test
     url: /pre-departure-test
   - title: Singapore Citizens/PRs and Family
