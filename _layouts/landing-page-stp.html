@@ -38,6 +38,116 @@ layout: skeleton
     max-height: 50px;
   }
   
+#menu, #menu ul
+{
+	list-style: none;
+	border: 1px solid #000;
+	background-color: #F8DDDE;
+	padding: 0 0 50px 0;
+	margin: 0;
+	width:500px;
+}
+#menu li
+{
+	float: left;
+	margin-right: 3px;
+	border: 1px solid #F8DDDE;
+	position: relative;
+}
+#menu ul
+{
+	position: absolute;
+	top: 30px;
+	left: -1px;
+	width: 180px;
+	padding: 0;
+	display: none;
+}
+#menu ul li
+{
+	float: none;
+	margin: 0;
+	padding: 0;
+	line-height: 15px;
+}
+#menu a:link, #menu a:visited
+{
+	display: block;
+	font-family: Tahoma;
+	font-size: 0.75em;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: none;
+	color: #000;
+	padding: 5px;
+}
+#menu li:hover
+{
+	background-color: #f5a9ac;
+	border: 1px solid #000;
+}
+#menu li:hover ul
+{
+	display: block;
+}
+
+/* Pen-specific styles */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 1.25rem;
+  font-family: sans-serif;
+  line-height: 150%;
+  text-shadow: 0 2px 2px #b6701e;
+}
+
+
+#test1 {
+  height: 50%;
+}
+
+#test2{
+
+height:50%;
+
+}
+
+article {
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.75rem;
+  margin: 0 0 0.75rem 0;
+}
+
+/* Pattern styles */
+.container {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  background-color: #ff9e2c;
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
+
+.right-half {
+  background-color: #b6701e;
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+	
+	
   
 </style>
 
@@ -72,6 +182,31 @@ layout: skeleton
 	      </div>
       </div>
     </div>
+  </div>
+</section>
+
+<section class="container">
+  <div id="test1" class="left-half">
+    <article>
+     <ul id="menu">
+  <li><a href="#">Dropdown list for countries</a>
+    <ul>
+      <li><a href="https://safetravel.ica.gov.sg/malaysia/overview">Malaysia</a></li>
+      <li><a href="https://safetravel.ica.gov.sg/china/rgl/requirements-and-process">China</a></li>
+    </ul>
+</li>
+    </article>
+  </div>
+  <div id="test2"class="right-half">
+    <article>
+    <ul id="menu">
+  <li><a href="#">Dropdown list for countries</a>
+    <ul>
+      <li><a href="https://safetravel.ica.gov.sg/malaysia/overview">Malaysia</a></li>
+      <li><a href="https://safetravel.ica.gov.sg/china/rgl/requirements-and-process">China</a></li>
+    </ul>
+</li>
+    </article>
   </div>
 </section>
 
