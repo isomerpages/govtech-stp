@@ -37,6 +37,61 @@ layout: skeleton
   .isomer-agency-logo {
     max-height: 50px;
   }
+  
+#menu, #menu ul
+{
+	list-style: none;
+	border: 1px solid #000;
+	background-color: #ecffec;
+	padding: 0 0 26px 0;
+	margin: 0;
+}
+#menu li
+{
+	float: left;
+	margin-right: 3px;
+	border: 1px solid #ecffec;
+	position: relative;
+}
+#menu ul
+{
+	position: absolute;
+	top: 25px;
+	left: -1px;
+	width: 200px;
+	padding: 0;
+	display: none;
+}
+#menu ul li
+{
+	float: none;
+	margin: 0;
+	padding: 0;
+	line-height: 15px;
+}
+#menu a:link, #menu a:visited
+{
+	display: block;
+	font-family: Tahoma;
+	font-size: 0.75em;
+	font-weight: bold;
+	text-align: left;
+	text-decoration: none;
+	color: #000;
+	padding: 5px;
+}
+#menu li:hover
+{
+	background-color: #ffd98a;
+	border: 1px solid #000;
+}
+#menu li:hover ul
+{
+	display: block;
+}
+  
+  
+  
 </style>
 
 {%- assign notification = site.notification | strip -%}
@@ -67,14 +122,22 @@ layout: skeleton
       <div class="row is-vcentered is-centered ma">
         <div class="col is-6 has-text-centered">
           <h3>As Singapore progressively reopens amid the COVID-19 pandemic, Singapore has implemented special travel arrangements with some countries/regions to facilitate travel while safeguarding public health.</h3>
-          <label for="cars">Choose a car:</label>
-  <select name="cars" id="cars">
-    <option value="Select Cars"></option>
-    <option value="volvo" hr><a href="https://www.google.com">Volvo</a></option>
-    <option value="saab">Saab</option>
-    <option value="opel">Opel</option>
-    <option value="audi">Audi</option>
-  </select>
+          <div>
+<ul id="menu">
+  <li><a href="#">TEST DROPDOWN FUNCTION</a>
+    <ul>
+      <li><a href="https://www.ica.gov.sg">ICA WEBSITE</a></li>
+      <li><a href="https://www.google.gov.sg">Google website </a></li>
+    </ul>
+  </li>
+  <li><a href="#">Test second dropdown function</a>
+    <ul>
+      <li><a href="#">Border control measures</a></li>
+      <li><a href="#">Singaporean and PR </a></li>
+    </ul>
+  </li>
+</ul>
+</div>
         </div>
       </div>
     </div>
