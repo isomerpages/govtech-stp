@@ -36,7 +36,7 @@ third_nav_title: Reciprocal Green Lane
 
 2. Any Visit Pass issued to a traveller holding the SafeTravel Pass is also subject to these terms and conditions. Non-compliance with any of these terms and conditions may result in the traveller having his/her Visit Pass cancelled and being refused entry.
 
-3. The SafeTravel Pass is meant solely for short-term essential business/official travel.
+3. The SafeTravel Pass is meant solely for short-term essential business/official travel and the traveller must exit Singapore on or before his/her declared date of departure, unless an extension of stay has been granted.
 
 4. The traveller agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR test results to the Sponsor, Host, and relevant government authorities in Singapore.
 
