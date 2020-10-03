@@ -1,28 +1,26 @@
 ---
 title: Requirements & Process
-permalink: /brunei/rgl/requirements-and-process
+permalink: /rgl/requirements-and-process
 third_nav_title: Reciprocal Green Lane
 ---
 
-On 1 September 2020, Singapore and Brunei agreed to implement the Reciprocal Green Lane (RGL) to facilitate short-term essential business and official travel between both countries.
+The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between countries/regions.
 
-The SafeTravel Pass is a mandatory document for in-bound travellers for short-term essential business and official travel from Brunei to Singapore via the Singapore-Brunei RGL.
+The SafeTravel Pass is a mandatory document for in-bound travellers for short-term essential business and official travel using the RGL.
 
-The RGL is only applicable for travel between airports in Singapore and Brunei which have available non-stop flight routes.
+The RGL is only applicable for travel to Singapore using non-stop flight routes (no transit in other countries).
 
 ### **Application**
 
-Business or official travellers seeking to make essential travel via the RGL to Singapore from Brunei must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass.
+Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass.
 
 ### **Important**
 
 Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass or Air Travel Pass will be refused entry into Singapore.
 
-Singapore will permit general travel from Brunei commencing 1 September 2020. Non-RGL travellers will need to apply for an Air Travel Pass to enter Singapore. This is a separate arrangement from the RGL with different requirements and processes.
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/rgl/terms-and-conditions).
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/Brunei/rgl/terms-and-conditions).
-
-For more information on the Air Travel Pass, please click [here](https://safetravel.ica.gov.sg/brunei/atp/requirements-and-process).
+For more information on the Air Travel Pass, please click [here](https://safetravel.ica.gov.sg/atp/requirements-and-process).
 
 ## **Process Overview**
 
@@ -42,8 +40,8 @@ The approved traveller will have to electronically submit pre-trip health and tr
 
 Prior to travelling to Singapore, approved SafeTravel Pass travellers are required to:
 - Monitor their health status and refrain from travelling to Singapore if feeling unwell;
-- Have not travelled out of Brunei in the entirety of the 14 days prior to departure;
-- Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be issued by an authorised health centre designated by the Government of Brunei. The SafeTravel Pass traveller will bear the cost of the pre-departure PCR test.
+- Have not travelled out of <country> in the entirety of the 14 days prior to departure;
+- Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be issued by an authorised health centre designated by the Government of <country>. The SafeTravel Pass traveller will bear the cost of the pre-departure PCR test.
 
 Travellers are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
 
@@ -52,7 +50,7 @@ In the event that the visitor is unable to payment before departing to Singapore
 At pre-boarding checks, approved SafeTravel Pass travellers must produce:
   - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
   - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-  - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised health centre designated by the Government of Brunei); and
+  - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised health centre designated by the Government of <country>); and
   - A return air ticket or proof of other transportation arrangements to depart Singapore.
 
 Otherwise, the traveller can be refused boarding.
@@ -80,7 +78,7 @@ If tested positive for COVID-19, the traveller will undergo medical treatment at
 
 SafeTravel Pass travellers to Singapore must subscribe to the relevant contact tracing mobile applications and technology solutions that are in place at the time of travel, including TraceTogether and SafeEntry for the entire duration of their stay in Singapore. A traveller who does not have a TraceTogether-compatible device should be provided with one by his/her host, for the duration of his/her stay in Singapore. If the traveller subsequently tests positive for COVID-19 while in Singapore or within 14 days after departure from Singapore, he/she will be required to upload his/her TraceTogether data. In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a controlled itinerary for the duration of their stay for the first 14 days. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/brunei/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/rgl/terms-and-conditions).
 
 -----
 
