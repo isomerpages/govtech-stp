@@ -1,6 +1,6 @@
 ---
 title: Apply Now
-permalink: /atp/apply-now
+permalink: /stl/atp/apply-now
 third_nav_title: Air Travel Pass
 ---
 
