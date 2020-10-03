@@ -5,6 +5,6 @@ permalink: brunei/SCPR
 
 # Returning Singapore Citizens and PRs
 
-## Eligibility
+(some summary)
 
-For more details and to apply for this lane, click [here](/SCPR/requirements-and-process).
+For more details click [here](/SCPR/requirements-and-process).
