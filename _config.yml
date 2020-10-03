@@ -39,6 +39,14 @@ collections:
     output: true
   air-travel-pass:
     output: true
+  reciprocal-green-lane:
+    output: true 
+  periodic-commuting-arrangement:
+    output: true
+  work-pass-holder-lane:
+    output: true       
+  student-pass-holder-lane:
+    output: true  
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
