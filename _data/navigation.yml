@@ -27,7 +27,9 @@ links:
     sublinks:
       - title: Apply for PDT (For Travellers)
         url: /pre-departure-test
-      - title: Info on PDT Digital Certification 
+      - title: Info on PDT Digital Certification
+        url: https://opencerts.io/
+        external: true
   - title: Inbound Health Control Measures
     url: https://www.ica.gov.sg/covid-19
     external: true 
