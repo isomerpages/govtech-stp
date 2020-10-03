@@ -1,6 +1,6 @@
 ---
 title: Conditions
-permalink: /australia/atp/conditions
+permalink: /atp/conditions
 third_nav_title: Air Travel Pass
 ---
 
