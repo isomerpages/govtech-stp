@@ -1,6 +1,6 @@
 ---
 title: Terms & Conditions
-permalink: /brunei/rgl/terms-and-conditions
+permalink: /rgl/terms-and-conditions
 third_nav_title: Reciprocal Green Lane
 ---
 
