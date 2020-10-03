@@ -19,13 +19,7 @@ links:
       - title: Long Term Pass Holder Lane
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c 
         external: true   
-   - title: Pre-Departure Test (PDT)
-     sublinks:
-      - title: PDT Application (For Travellers)
-        url: /pre-departure-test
-      - title: PDT Certification (For Clinics)
-        url: https://opencerts.io/
-        external: true 
+  - title: Pre-Departure Test (PDT)
   - title: Singapore Citizen/PR 
   - title: Border Health Control
          
