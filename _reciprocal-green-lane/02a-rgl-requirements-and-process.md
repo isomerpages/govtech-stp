@@ -1,7 +1,6 @@
 ---
 title: Requirements & Process
 permalink: /rgl/requirements-and-process
-third_nav_title: Reciprocal Green Lane
 ---
 
 The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between countries/regions.
