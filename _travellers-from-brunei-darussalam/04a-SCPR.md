@@ -7,4 +7,4 @@ permalink: brunei/SCPR
 
 (some summary)
 
-For more details click [here](/SCPR/requirements-and-process).
+For more details click [here](/SC-PR/info).
