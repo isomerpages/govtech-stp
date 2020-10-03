@@ -1,6 +1,6 @@
 ---
 title: Conditions
-permalink: /atp/conditions
+permalink: /stl/atp/conditions
 third_nav_title: Air Travel Pass
 ---
 
