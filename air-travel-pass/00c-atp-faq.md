@@ -1,7 +1,8 @@
 ---
 title: Frequently Asked Questions
 permalink: /atp/faq
-third_nav_title: Air Travel Pass
+breadcrumb: Frequently Asked Questions
+collection_name: Air Travel Pass
 ---
 
 ### **Air Travel Pass (ATP)**
