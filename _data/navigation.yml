@@ -7,7 +7,6 @@ links:
       - title: Reciprocal Green Lane
       - title: Air Travel Pass
       - title: Periodic Commuting Arrangement
-        url: /malaysia/pca/requirements-and-process
       - title: Work Pass Holder Lane
         url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
         external: true
@@ -21,7 +20,7 @@ links:
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c 
         external: true   
    - title: Pre-Departure Test (PDT)
-    sublinks:
+     sublinks:
       - title: PDT Application (For Travellers)
         url: /pre-departure-test
       - title: PDT Certification (For Clinics)
