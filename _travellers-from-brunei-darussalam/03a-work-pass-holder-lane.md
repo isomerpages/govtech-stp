@@ -1,7 +1,7 @@
 ---
 title: Work Pass Holder Lane
 permalink: /work-pass-holder-lane/summary
-third_nav_title: Singapore Work Pass Holder
+third_nav_title: Singapore Long Term Pass Holder
 ---
 
 # Work Pass Holder Lane
