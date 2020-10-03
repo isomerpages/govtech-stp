@@ -20,6 +20,9 @@ links:
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c 
         external: true   
   - title: Pre-Departure Test (PDT)
+    sublinks:
+      - title: Apply for PDT (For Travellers)
+      - title: Info on PDT Digital Certification 
   - title: Singapore Citizen/PR 
   - title: Border Health Control
          
