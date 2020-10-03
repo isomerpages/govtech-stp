@@ -6,7 +6,7 @@ links:
       - title: Singapore Citizen/PR General Entry Lane
       - title: Reciprocal Green Lane
       - title: Air Travel Pass
-        url: /australia/atp/requirements-and-process
+        url: /atp/requirements-and-process
       - title: Periodic Commuting Arrangement
       - title: Work Pass Holder Lane
         url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
@@ -25,8 +25,8 @@ links:
       - title: Apply for PDT (For Travellers)
       - title: Info on PDT Digital Certification 
   - title: Inbound Health Control Measures
-        url: https://www.ica.gov.sg/covid-19
-        external: true 
+    url: https://www.ica.gov.sg/covid-19
+    external: true 
         
   #- title: Long-Term Pass Holders
   #  sublinks:
