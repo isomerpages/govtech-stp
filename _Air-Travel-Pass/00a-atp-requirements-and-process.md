@@ -1,6 +1,6 @@
 ---
 title: Requirements & Process
-permalink: /atp/requirements-and-process
+permalink: stl/atp/requirements-and-process
 third_nav_title: Air Travel Pass
 ---
 
