@@ -1,6 +1,6 @@
 ---
 title: Requirements & Process
-permalink: /australia/atp/requirements-and-process
+permalink: /atp/requirements-and-process
 third_nav_title: Air Travel Pass
 ---
 
