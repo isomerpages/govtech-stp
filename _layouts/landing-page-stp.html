@@ -37,6 +37,8 @@ layout: skeleton
   .isomer-agency-logo {
     max-height: 50px;
   }
+
+
 ul {     
     padding:0;     
     margin:0    
@@ -79,11 +81,10 @@ li:hover ul {
     background-color:#0072BA    
 }  	
 	
-	
-	
-  
+	  
 </style>
 
+<!-- Notification Bar for maintenance -->
 {%- assign notification = site.notification | strip -%}
 {%- if notification != "" -%}
 <div id="notification-bar" class="bp-notification bg-secondary is-marginless">
@@ -113,14 +114,17 @@ li:hover ul {
         <div class="col is-6 has-text-centered">
           <h3>As Singapore progressively reopens amid the COVID-19 pandemic, Singapore has implemented special travel arrangements with some countries/regions to facilitate travel while safeguarding public health.</h3>
 	      <div>
-		      <select name="forma" onchange=" location = this.value;">
- <option value="https://safetravel.ica.gov.sg/malaysia/overview">Malaysia</option>
- <option value="Contact.php">Contact</option>
- <option value="Sitemap.php">Sitemap</option>
+	<!--
+	<select name="forma" onchange=" location = this.value;">
+	 <option value="https://safetravel.ica.gov.sg/malaysia/overview">Malaysia</option>
+	 <option value="Contact.php">Contact</option>
+	 <option value="Sitemap.php">Sitemap</option>
+	-->
 </select>
 
 		</div>
-		
+
+<!--
 		<div style="left:50px;">
 <ul id='menu' style="position:absolute; z-index: 9; margin: 20px;">    
    <li><a href='#'>I am travelling from...</a>    
@@ -140,17 +144,15 @@ li:hover ul {
      </ul>    
    </li>    
 </ul> 
-</div>
-	      
-	      
-	      
-	      </div>
-      </div>
-    </div>
+-->	
+	</div>
+	</div>
+      	</div>
+   	</div>
 	</div>
 </section>
 
-<!--New Key Highlights for ICA border control measures--> 
+<!--
 
 <section id="key-highlights" class="bp-section is-paddingless">
   <div class="bp-container">
@@ -182,10 +184,10 @@ li:hover ul {
     </div>
   </div>
 </section>
-
+--> 
 
 <!--Old Key highlights by country for easy restoration--> 
-<!--
+
 <section id="key-highlights" class="bp-section is-paddingless">
   <div class="bp-container">
     <div class="row is-gapless has-text-centered">
@@ -302,7 +304,7 @@ li:hover ul {
     </div>
   </div>
 </section>
---> 
+
 
 <!--Collaboration bottom--> 
 <section id="collaboration" class="bp-section">
