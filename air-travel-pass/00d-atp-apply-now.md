@@ -3,6 +3,12 @@ title: Apply Now
 permalink: /atp/apply-now
 third_nav_title: Air Travel Pass
 ---
+---
+title: Apply Now
+permalink: /atp/apply-now
+breadcrumb: Apply Now
+collection_name: Air Travel Pass
+---
 
 <table>
   <thead>
