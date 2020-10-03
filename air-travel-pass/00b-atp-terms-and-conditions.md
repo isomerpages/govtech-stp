@@ -1,7 +1,8 @@
 ---
 title: Conditions
 permalink: /atp/conditions
-third_nav_title: Air Travel Pass
+breadcrumb: Conditions
+collection_name: Air Travel Pass
 ---
 
 ### **Conditions of Air Travel Pass**
