@@ -4,11 +4,13 @@ links:
   - title: Safe Travel Lanes
     sublinks:
       - title: Singapore Citizen/PR General Entry Lane
+        url: /SC-PR/info
       - title: Reciprocal Green Lane
         url: /rgl/requirements-and-process
       - title: Air Travel Pass
         url: /atp/requirements-and-process
       - title: Periodic Commuting Arrangement
+        url: /pca/requirements-and-process
       - title: Work Pass Holder Lane
         url: https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore
         external: true
