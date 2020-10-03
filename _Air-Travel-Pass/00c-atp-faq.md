@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /atp/faq
+permalink: /generic/atp/faq
 third_nav_title: Air Travel Pass
 ---
 
