@@ -4,17 +4,17 @@ permalink: /atp/requirements-and-process
 third_nav_title: Air Travel Pass
 ---
 
-### **Overview**
-
-On 30 September 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Australia (excluding Victoria State). Foreigners who are short-term visitors travelling from Australia (excluding Victoria State) may seek entry into Singapore by applying for an Air Travel Pass.
-
-Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are <b><u>not</u></b> required to apply for an Air Travel Pass to travel to Singapore from Australia. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
-
 ### **Application**
 
-From 1 October 2020, foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore on or after 8 October 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
+From 1 October 2020, foreigners who are short-term visitors arriving from the following countries may apply for an Air Travel Pass for entry into Singapore on or after 8 October 2020:
+- Australia
+- Brunei Darussalam
+- New Zealand
+- Vietnam
 
-Visitors must comply with the [Conditions](/australia/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
+They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
+
+Visitors must comply with the [Conditions](/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
 
 Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected.
 
