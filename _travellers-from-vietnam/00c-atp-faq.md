@@ -161,8 +161,21 @@ A visitor who does not have any of the above may be refused boarding by the airl
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
+#### 29. Vietnam has temporarily suspended entry of all foreigners and overseas Vietnamese via commercial flights. All travellers may only return to Vietnam via repatriation flights arranged by the Vietnam Government. Will visitors be allowed to enter Singapore without a return flight ticket?
+
+If a traveller intends to return to Vietnam after his/her stay in Singapore, he/she is strongly advised to obtain the necessary approvals from the relevant Vietnamese authorities to re-enter Vietnam **before** applying for an ATP to travel to Singapore. 
+The ATP does **not** guarantee that visitors will be able to return to Vietnam.
+
+#### 30. What is the maximum duration of stay in Singapore that I will be eligible for? Will I be able to extend this duration if I am unable to get a return flight to Vietnam?
+
+Please note that the ATP is **not** an immigration visit pass. It only allows you to travel to and seek entry into Singapore within a specified period.
+
+Visitors who are granted entry into Singapore will be issued with a visit pass by ICA at the immigration checkpoints. The duration of stay in Singapore is generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic. The actual duration of the ICA visit pass is assessed and determined by ICA officers at the checkpoints, at the point of entry.
+
+All applications for extension of visit pass must be submitted online using ICA’s e-service (<https://eservices.ica.gov.sg/esvclandingpage/extend>) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is **no** guarantee that an extension will be granted.
+
 -----
 
 <sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders.
 
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore from Australia, Brunei Darussalam, New Zealand and Vietnam are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
