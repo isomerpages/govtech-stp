@@ -1,22 +1,7 @@
 ---
-title: Requirements & Process
+title: Malaysian Citizens and PRs Holding Singapore Work Pass
 permalink: /pca/requirements-and-process
 ---
-
-*This page provides information for Singapore-based companies that wish to apply for their Malaysian employees to enter or re-enter Singapore under the terms of the PCA. For Singapore citizens and Singapore Permanent Residents working in Malaysia, click [here](/malaysia/pca/information-sc-pr) for more information on arrangements for returning to Singapore under the PCA.*
-
-### **Attention**
-Singapore Citizens/PRs <b><u>do not</u></b> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
-
-For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
-
-The Periodic Commuting Arrangement (PCA) is a scheme agreed between Singapore and Malaysia to allow work and business-related travel between the two countries via the land border crossings at the Johor-Singapore Causeway and Malaysia-Singapore Second Link. Under the PCA, Malaysia Citizens and Malaysia Permanent Residents (PRs) with valid Singapore work passes should remain in Singapore for at least 90 days before returning to Malaysia for home leave. The entry and exit between Singapore and Malaysia must be via Woodlands Checkpoint or Tuas Checkpoint in Singapore. Work pass holders approved under the PCA scheme will serve at least 7-day Stay-Home Notice (SHN) and undertake a COVID-19 PCR test.
-
-Singapore-based companies that wish to apply for the PCA for their employees may submit their applications from 10 August 2020, 1200 hours onwards at <https://safetravel.ica.gov.sg/malaysia/pca/apply-now>.
-
-Singapore Citizens/PRs <u><b>do not</b></u> need the PCA to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice (SHN) requirements after arriving in Singapore. Please refer to [www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
-
-For Malaysian citizens and Malaysia PRs who want to return to Malaysia, your entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs ([www.kln.gov.my](https://www.kln.gov.my)), the Malaysian Immigration Department ([www.imi.gov.my](https://www.imi.gov.my)) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice.
 
 ### **Eligibility**
 
