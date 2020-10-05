@@ -1,5 +1,5 @@
 ---
-title: Singapore Citizens/PRs Holding Malaysian Work Pass
+title: Singapore Citizens/PRs Holding Malaysia Work Pass
 permalink: /malaysia/pca/information-sc-pr
 ---
 
