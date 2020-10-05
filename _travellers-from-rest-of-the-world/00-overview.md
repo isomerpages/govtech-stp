@@ -1,5 +1,5 @@
 ---
-title: Rest of the World - Overview
+title: Travelling from Rest of the World - Overview
 permalink: /rotw/overview
 ---
 
