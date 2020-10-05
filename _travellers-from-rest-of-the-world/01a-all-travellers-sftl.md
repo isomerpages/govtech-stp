@@ -1,6 +1,6 @@
 ---
 title: Singaporean Familial Ties Lane
-permalink: /brunei/singaporean-ftl
+permalink: /rest-of-world/singaporean-ftl
 third_nav_title: All Travellers
 ---
 
