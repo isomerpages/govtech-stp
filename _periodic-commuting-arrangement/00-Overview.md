@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Periodic Commuting Arrangement - Overview
 permalink: /pca/overview
 ---
 
