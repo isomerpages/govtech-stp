@@ -18,4 +18,4 @@ The application for the SHN waiver can be found [here](https://go.gov.sg/pcasgpr
 Click [here](/rgl/requirements-and-process) for details on health requirements.
 
 ## SC/SPR General Entry into Singapore
-SC/SPRs that are not travelling under any particular Safe Travel Lanes can still return to Singapore. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](https://www.ica.gov.sg/covid-19) for more information.
+SC/SPRs can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](https://www.ica.gov.sg/covid-19) for more information.
