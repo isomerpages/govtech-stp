@@ -52,7 +52,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 Visitors who are granted entry into Singapore will be issued with a visit pass by ICA at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
-Please note that the ATP is **not(( an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
+Please note that the ATP is **not** an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
 
 #### 11. Are visitors able to extend their duration of stay in Singapore?
 
