@@ -31,7 +31,7 @@ links:
         url: https://opencerts.io/
         external: true
   - title: Inbound Health Control Measures
-    url: https://www.ica.gov.sg/covid-19/enteringsg
+    url: https://www.ica.gov.sg/covid-19
     external: true 
     sublinks:
       -title: Before Arriving in Singapore
