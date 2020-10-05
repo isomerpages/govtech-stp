@@ -1,6 +1,6 @@
 ---
 title: Periodic Commuting Arrangement
-permalink: /pca/summary
+permalink: /malaysia/pca
 third_nav_title: Singapore Work Pass Holder
 ---
 
