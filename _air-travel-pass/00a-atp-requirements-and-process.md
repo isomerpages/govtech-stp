@@ -17,8 +17,6 @@ Visitors must comply with the [Conditions](/atp/conditions) of the Air Travel Pa
 
 Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected.
 
-Personal data will be collected for Air Travel Pass applications. Please click [here](/privacy) to view the Privacy Statement.
-
 For enquiries, please email <COVID_ATP_Enquiries@caas.gov.sg>.
 
 ### **Important**
