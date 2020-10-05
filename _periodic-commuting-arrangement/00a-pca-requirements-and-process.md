@@ -1,6 +1,7 @@
 ---
-title: Malaysian Citizens and PRs Holding Singapore Work Pass
+title: Eligibility and Application Process
 permalink: /pca/requirements-and-process
+third_nav_title: Malaysian Citizens and PRs Holding Singapore Work Pass
 ---
 
 ### **Eligibility**
