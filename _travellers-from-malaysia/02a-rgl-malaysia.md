@@ -4,8 +4,9 @@ permalink: /malaysia/rgl
 third_nav_title: Business and Official Travellers
 ---
 
-# Travellers Entering Singapore under Reciprocal Green Lane (Malaysia)
+# Reciprocal Green Lane (Malaysia)
 
+## Malaysia-based Travellers Entering Singapore
 A traveller sponsored by a Singapore-based company or Singapore government agency can apply to enter Singapore via the sponsor if he/she is: 
 
 - A resident in Malaysia holding a valid passport of any nationality;
@@ -14,7 +15,7 @@ A traveller sponsored by a Singapore-based company or Singapore government agenc
 
 For more details and to apply for the Reciprocal Green Lane (Malaysia), please click [here](/rgl/requirements-and-process)
 
-## Travellers Returning to Singapore after RGL travel in Malaysia
+## Singapore-based Travellers Returning to Singapore
 
 Singapore-based travellers returning from their travel to Malaysia on the Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 
