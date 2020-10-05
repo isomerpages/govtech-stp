@@ -1,6 +1,6 @@
 ---
 title: Work Pass Holder Lane
-permalink: /work-pass-holder-lane/summary
+permalink: /rotw/work-pass-holder-lane
 third_nav_title: Singapore Long Term Pass Holder
 ---
 
