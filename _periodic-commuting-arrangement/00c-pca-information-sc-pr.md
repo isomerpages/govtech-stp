@@ -3,8 +3,6 @@ title: Singapore Citizens and Permanent Residents Holding Malaysian Work Pass
 permalink: /malaysia/pca/information-sc-pr
 ---
 
-*This page provides information for Singapore Citizens and Permanent Residents who work in Malaysia and intend to return to Singapore for short-term home leave under the terms of the PCA. For Singapore-based companies that wish to apply for their Malaysian employees to enter/re-enter Singapore under the PCA, click [here](malaysia/pca/requirements-and-process) instead for more information.*
-
 ### **Singapore Citizens and Permanent Residents Applying to Work in Malaysia**
 
 For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia to work under the PCA, please visit the Immigration Department of Malaysia's website [here](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html). For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
