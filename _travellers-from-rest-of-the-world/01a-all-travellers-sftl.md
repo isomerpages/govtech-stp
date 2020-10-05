@@ -1,6 +1,6 @@
 ---
 title: Singaporean Familial Ties Lane
-permalink: /rest-of-world/singaporean-ftl
+permalink: /rotw/singaporean-ftl
 third_nav_title: All Travellers
 ---
 
