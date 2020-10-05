@@ -5,7 +5,7 @@ permalink: malaysia/SCPR
 
 # Returning Singapore Citizens and PRs
 
-## For Singapore Citizens and Singapore PRs Holding Malaysian Work Passes 
+## Singapore Citizens and Singapore PRs Holding Malaysian Work Passes 
 
 Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who are holders of the Malaysia-issued MyTravelPass can apply for a waiver of Stay-Home Notice (SHN) using SingPass, if he/she:
 
