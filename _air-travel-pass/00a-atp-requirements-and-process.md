@@ -5,8 +5,8 @@ permalink: /atp/requirements-and-process
 
 ### **Application**
 
-From 1 October 2020, foreigners who are short-term visitors arriving from the following countries may apply for an Air Travel Pass for entry into Singapore on or after 8 October 2020:
-- Australia
+From 1 October 2020, foreigners who are short-term visitors arriving from the following countries/regions may apply for an Air Travel Pass for entry into Singapore on or after 8 October 2020:
+- Australia (excluding Victoria)
 - Brunei Darussalam
 - New Zealand
 - Vietnam
