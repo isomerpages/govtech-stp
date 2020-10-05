@@ -43,6 +43,6 @@ links:
       - title: Post-Arrival Stay Home Notice and Swab Test
         url: https://www.ica.gov.sg/covid-19/SHN
         external: true     
-      - title: Apply Now
-        url: /apply-now
+   - title: Apply Now
+     url: /apply-now
         
