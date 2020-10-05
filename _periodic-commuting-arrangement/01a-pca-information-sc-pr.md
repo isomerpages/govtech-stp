@@ -25,7 +25,7 @@ To apply for SHN waiver, an applicant is required to submit the following  infor
 6. A Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass), and
 7. An email address for ICA to respond to.
 
-Applications for waiver of SHN must be submitted online [here](https://go.gov.sg/pcasgpr) at least 7 days before the intended entry date, otherwise the [prevailing public health measures](www.ica.gov.sg/covid-19) will apply. 
+Applications for waiver of SHN must be submitted online [here](https://go.gov.sg/pcasgpr) at least 7 days before the intended entry date, otherwise the [prevailing public health measures](https://www.ica.gov.sg/covid-19) will apply. 
 
 If the application is approved, the applicant is required to make payment online for a swab-on-arrival COVID-19 PCR test at the land checkpoints (S$200 per person, inclusive of GST). Thereafter, an approval letter will be sent via email.
 
