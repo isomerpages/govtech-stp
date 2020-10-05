@@ -23,13 +23,6 @@ links:
       - title: Long Term Visit Pass Holder Lane
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c 
         external: true   
-  - title: Departing Singapore
-    sublinks:
-      - title: Apply for Pre-Departure Test (PDT)
-        url: /pre-departure-test
-      - title: Info on PDT Digital Certification (for Clinics)
-        url: https://opencerts.io/
-        external: true
   - title: Arrival Health Control Measures
     url: https://www.ica.gov.sg/covid-19/enteringsg
     external: true 
@@ -43,6 +36,13 @@ links:
       - title: Post-Arrival Stay Home Notice and Swab Test
         url: https://www.ica.gov.sg/covid-19/SHN
         external: true     
+  - title: Departing from Singapore
+    sublinks:
+      - title: Apply for Pre-Departure Test (PDT)
+        url: /pre-departure-test
+      - title: Info on PDT Digital Certification (for Clinics)
+        url: https://opencerts.io/
+        external: true
   - title: Apply Now
     url: /apply-now
         
