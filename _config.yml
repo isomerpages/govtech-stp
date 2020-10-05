@@ -37,6 +37,8 @@ collections:
     output: true
   travellers-from-vietnam:
     output: true
+  travellers-from-rest-of-the-world:
+    output: true
   air-travel-pass:
     output: true
   reciprocal-green-lane:
