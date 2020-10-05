@@ -3,7 +3,8 @@ title: Additional Work Pass Conditions for PCA Travellers
 permalink: /pca/terms-and-conditions
 ---
 
-### **Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
+
+### **Conditions for Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
 
 1. Prior to submitting the entry application on behalf of the Malaysia employee (“**foreign employee**”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
 : a. has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;
