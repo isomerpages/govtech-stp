@@ -3,7 +3,7 @@ title: Requirements & Process
 permalink: /rgl/requirements-and-process
 ---
 
-The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between countries/regions.
+The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and another country/region.
 
 The SafeTravel Pass is a mandatory document for in-bound travellers for short-term essential business and official travel using the RGL.
 
@@ -13,14 +13,6 @@ The RGL is only applicable for travel to Singapore using non-stop flight routes 
 
 Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass.
 
-### **Important**
-
-Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass or Air Travel Pass will be refused entry into Singapore.
-
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/rgl/terms-and-conditions).
-
-For more information on the Air Travel Pass, please click [here](https://safetravel.ica.gov.sg/atp/requirements-and-process).
-
 ## **Process Overview**
 
 ### **Before Entering Singapore**
@@ -29,9 +21,9 @@ For more information on the Air Travel Pass, please click [here](https://safetra
 
 When the SafeTravel Pass application is approved, an approval letter will be sent via email to the sponsoring company or government agency.
 
-With the SafeTravel Pass approval, an approved traveller who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels. If the approved traveller already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The approved traveller can check his/her visa status through [this page](https://eservices.ica.gov.sg/esvclandingpage/save).
+With the SafeTravel Pass approval, an approved traveller who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels. If the approved traveller already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The approved traveller can check his/her visa status [here](https://eservices.ica.gov.sg/esvclandingpage/save).
 
-**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.** Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
+**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.** Please click [here](https://www.ica.gov.sg/enteranddeparting/before/entryvisa/) for more information on Singapore’s visa requirements.
 
 The approved traveller will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/), before departing for Singapore. The SG Arrival Card can also be accessed via the [Visit Singapore Travel Guide App](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/).
 
@@ -49,7 +41,7 @@ In the event that the visitor is unable to payment before departing to Singapore
 At pre-boarding checks, approved SafeTravel Pass travellers must produce:
   - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
   - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore);
-  - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised health centre designated by the Government of <country>); and
+  - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised health centre designated by the Government of the country/region the traveller is departing from); and
   - A return air ticket or proof of other transportation arrangements to depart Singapore.
 
 Otherwise, the traveller can be refused boarding.
