@@ -14,8 +14,8 @@ Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who ar
 
 The application for the SHN waiver can be found [here](https://go.gov.sg/pcasgpr).
 
-## For Singapore Citizens and Singapore PRs on Return Leg of RGL
-Click [here](/rgl/requirements-and-process) for details on health requirements.
+## For Singapore Citizens and Singapore PRs on Return Leg of Reciprocal Green Lane (RGL)
+Click [here](/rgl/requirements-and-process) for details on health requirements for SC/PRs who have travelled out of Singapore on an RGL arrangement and are returning to Singapore.
 
 ## SC/SPR General Entry into Singapore
 SC/SPRs can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](https://www.ica.gov.sg/covid-19) for more information.
