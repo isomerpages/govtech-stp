@@ -4,7 +4,7 @@ permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
 
-### **Eligibility**
+## **Eligibility**
 
 Employers can apply for the PCA on behalf of their employees using CorpPass if their employees fulfil the following criteria:
 1. Are a Malaysia Citizen or a Malaysia Permanent Resident;
@@ -48,6 +48,8 @@ Employees approved under the PCA can commute from Malaysia’s immigration check
 
 ### **Arrival in Singapore**
 
+Employees without an entry approval under the PCA or other channels will be refused entry into Singapore.
+
 #### Post-Arrival Measures
 
 After immigration, employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN<sup>*</sup>, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. They will need to identify themselves as a person/persons subject to a SHN when making the booking and when boarding the vehicle. When travelling in the taxi or private-hire car, they should sit alone in the back seat (if alone) and could sit together as 3 people in the back seats (family or individuals serving SHN at the same facility), with windows down and the air-conditioning turned off. The employee should not take public trains or buses or flag down a taxi while serving the SHN. Enforcement action may be taken if the employee is found to have not adhered to the transport advisory.
@@ -72,9 +74,7 @@ The employee will be required to act on MOM’s SMS, which will be sent within 1
 
 The employee will be allowed to use public transportation only after completing their SHN period and having tested negative for COVID-19.
 
-### **Important Information**
-
-Employees without an entry approval under the PCA or other channels will be refused entry into Singapore.
+### **Contact**
 
 For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
