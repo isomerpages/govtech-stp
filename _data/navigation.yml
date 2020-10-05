@@ -34,15 +34,15 @@ links:
     url: https://www.ica.gov.sg/covid-19/enteringsg
     external: true 
     sublinks:
-    -title: Before Arriving in Singapore
-     url: https://www.ica.gov.sg/covid-19/enteringsg
-     external: true 
-    -title: On Arrival in Singapore
-     url: https://www.ica.gov.sg/covid-19/ArrivalSG
-     external: true 
-    -title: Post-Arrival Stay Home Notice and Swab Test
-     url: https://www.ica.gov.sg/covid-19/SHN
-     external: true     
+      -title: Before Arriving in Singapore
+       url: https://www.ica.gov.sg/covid-19/enteringsg
+       external: true 
+      -title: On Arrival in Singapore
+       url: https://www.ica.gov.sg/covid-19/ArrivalSG
+       external: true 
+      -title: Post-Arrival Stay Home Notice and Swab Test
+       url: https://www.ica.gov.sg/covid-19/SHN
+       external: true     
      
   #- title: Long-Term Pass Holders
   #  sublinks:
