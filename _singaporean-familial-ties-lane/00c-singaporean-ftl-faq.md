@@ -1,9 +1,9 @@
 ---
 title: Frequently Asked Questions
-permalink: /atp/faq
+permalink: /singaporean-familial-ties-lane/faq
 ---
 
-### **Air Travel Pass (ATP)**
+### **Singaporean Familial Ties Lane**
 
 #### 1. What is an ATP?
 
