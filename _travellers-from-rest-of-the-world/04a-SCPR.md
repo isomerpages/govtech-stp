@@ -1,6 +1,6 @@
 ---
 title: Returning Singapore Citizen/PR
-permalink: brunei/SCPR
+permalink: rotw/SCPR
 ---
 
 # Returning Singapore Citizens and PRs
