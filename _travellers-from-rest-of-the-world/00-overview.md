@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /brunei/overview
+permalink: /world/overview
 ---
 
 Please click your traveller profile on the navigation menu to find out which lanes you may be eligible for, or navigate via the table below.
