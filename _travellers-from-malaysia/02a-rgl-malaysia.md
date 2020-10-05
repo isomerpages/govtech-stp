@@ -12,4 +12,4 @@ A traveller sponsored by a Singapore-based company or Singapore government agenc
 - Seeking to make a single-entry, short-term essential travel; and
 - Travelling for business and official purposes between Singapore and Malaysia.
 
-For more details and to apply for the Reciprocal Green Lane (Brunei), please click [here](/rgl/requirements-and-process)
+For more details and to apply for the Reciprocal Green Lane (Malaysia), please click [here](/rgl/requirements-and-process)
