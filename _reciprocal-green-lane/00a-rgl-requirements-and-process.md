@@ -3,9 +3,12 @@ title: Requirements & Process
 permalink: /rgl/requirements-and-process
 ---
 
-The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and another country/region.
-
-The SafeTravel Pass is a mandatory document for in-bound travellers for short-term essential business and official travel using the RGL.
+The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following countries/regions:
+- Brunei Darussalam
+- China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
+- Japan
+- Malaysia
+- Republic of Korea
 
 The RGL is only applicable for travel to Singapore using non-stop flight routes (no transit in other countries).
 
