@@ -5,7 +5,7 @@ permalink: /apply-now
 
 ### Safe Travel Lane Application Links 
 
-|Safe Travel Lanes | Application Timeline | 
+|Application Links | Application Timeline | 
 | ------------- |-------------------| 
 | [Air Travel Pass](https://go.gov.sg/atpsg) |   |
 | [Periodic Commuting Arrangement](https://eservices.ica.gov.sg/STO) |  |
