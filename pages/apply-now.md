@@ -3,7 +3,7 @@ title: Apply Now
 permalink: /apply-now
 ---
 
-### Safe Travel Lane Application Links 
+### Safe Travel Lane Application 
 
 |Application Links | Application Timeline | 
 | ------------- |-------------------| 
