@@ -35,7 +35,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. Do Bruneian citizens and residents still need to apply to exit the country?
 
-Yes, Brunei citizens and residents travelling to Singapore under the RGL will still need to apply for Exit Travel via Brunei’s PMO. Information on the application can be found on <https://www.pmo.gov.bn/travelportal/Home.aspx>.
+Yes, Brunei citizens and residents travelling to Singapore under the RGL will still need to apply for Exit Travel via Brunei’s PMO. Information on the application can be found on <http://www.pmo.gov.bn/travelportal/Home.aspx>
 
 #### 5. How do residents in Brunei apply for a SafeTravel Pass to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit?
 
