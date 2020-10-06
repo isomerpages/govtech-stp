@@ -3,15 +3,6 @@ title: Requirements & Process
 permalink: /rgl/requirements-and-process
 ---
 
-The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following countries/regions:
-- Brunei Darussalam
-- China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
-- Japan
-- Malaysia
-- Republic of Korea
-
-The RGL is only applicable for travel to Singapore using non-stop flight routes (no transit in other countries).
-
 ### **Application**
 
 Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass.
