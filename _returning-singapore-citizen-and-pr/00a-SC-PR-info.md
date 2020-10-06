@@ -18,6 +18,6 @@ Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who ar
 For more details and to apply for the SHN waiver under the PCA, click [here](/malaysia/pca/information-sc-pr).
 
 ## Singapore Citizens and PRs on Reciprocal Green Lane (RGL)
-Click [here](/rgl/requirements-and-process) for details on travel using the Singapore-Malaysia RGL.
+Click [here](/rgl/requirements-and-process) for details on travel using the RGL.
 
 
