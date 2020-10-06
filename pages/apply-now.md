@@ -13,6 +13,6 @@ Please click on the relevant application link to apply for a Safe Travel Pass,
 
 ### Note
 
-<sup>Applications under the **Reciprocal Green Lane** are open between 2 to 5 weeks before the intended date of entry. Please note that the processing of the application can take up to 7 days (excluding the day of application). Applicants are encouraged to apply for SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures. 
+Applications under the **Reciprocal Green Lane** are open between 2 to 5 weeks before the intended date of entry. Please note that the processing of the application can take up to 7 days (excluding the day of application). Applicants are encouraged to apply for SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures. 
 
-<i> * For SafeTravel Pass applications submitted before 28 Sep 2020, please submit supporting documents at <https://go.gov.sg/rglsuppdocs>, instead of the link above.</i> </sup>
+<i> * For SafeTravel Pass applications submitted before 28 Sep 2020, please submit supporting documents at <https://go.gov.sg/rglsuppdocs>, instead of the link above.</i>
