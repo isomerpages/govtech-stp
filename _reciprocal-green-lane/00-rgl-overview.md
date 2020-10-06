@@ -1,5 +1,5 @@
 ---
-title: Reciprocal Green Lane Overview
+title: Reciprocal Green Lane - Overview
 permalink: /rgl/overview
 ---
 
@@ -12,7 +12,7 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 
 The RGL is only applicable for travel between Singapore and the foreign RGL counterpart using non-stop flight routes (no transit in other countries).
 
-The RGL is also known by other names as used by Singapore's RGL counterpart countries/regions. Please refer to the table below for comparison and links to the foreign counterparts' websites. Applications to travel to these counterpart RGL countries will be via the foreign counterpart's website.
+The RGL is also known by other names as used by Singapore's RGL counterpart countries/regions. Please refer to the table below for comparison and links to the foreign counterparts' websites. Details and applications to travel to these counterpart RGL countries/regions will be via the foreign counterpart's website.
 
 | Singapore Nomenclature |  Foreign Counterpart's Nomenclature  | Link to Counterpart's website |
 |------------------------|----------------------------|-------------------------------|
@@ -20,4 +20,4 @@ The RGL is also known by other names as used by Singapore's RGL counterpart coun
 |RGL(China)   |   Chinese + English   |               |
 |RGL(Japan) |    Japanese + English  |                |
 |RGL(Malaysia)   |   RGL (Malaysia)    |            |
-|RGL(Republic of Korea)  | Korean + English    |                 |
+|RGL(Republic of Korea)  | Korean + English |                 |
