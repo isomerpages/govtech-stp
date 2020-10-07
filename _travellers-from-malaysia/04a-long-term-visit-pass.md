@@ -1,6 +1,6 @@
 ---
 title: Long Term Visit Pass Holder Lane
-permalink: malaysia/LTVP-lane
+permalink: malaysia/LTVP
 third_nav_title: Singapore Long Term Visit or Student's Pass Holder
 ---
 
