@@ -16,4 +16,4 @@ Travellers who are Singapore Long Term Pass Holders in the following categories 
 - EntrePass holders and their dependants
 - Personalised Employment Pass holders (who do not have an employer) and their dependants
 
-For more details and to apply for this lane, click [here](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore).
+For more details and to apply for travel using this lane, click [here](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore).
