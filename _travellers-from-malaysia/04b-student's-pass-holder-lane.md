@@ -1,10 +1,10 @@
 ---
-title: Student Pass Holder Lane
+title: Student's Pass Holder Lane
 permalink: malaysia/student-pass-holder-lane
-third_nav_title: Singapore Long Term Visit or Student's Pass Holder
+third_nav_title: Singapore Student's Pass Holder
 ---
 
-# Student Pass Holder Lane
+# Student's Pass Holder Lane
 
 ## Eligibility
 
