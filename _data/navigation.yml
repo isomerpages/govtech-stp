@@ -21,7 +21,7 @@ links:
         url: /vietnam/atp/requirements-and-process
  - title: Departing from Singapore
     sublinks:
-     - title: Apply for Pre-Departure Test(PDT)
+      - title: Apply for Pre-Departure Test(PDT)
         url: /pre-departure-test
   - title: Contact Us
     url: /contact-us
