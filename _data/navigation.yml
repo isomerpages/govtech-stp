@@ -38,8 +38,7 @@ links:
       - title: Apply for Pre-Departure Test (PDT)
         url: /pre-departure-test
       - title: Info on using PDT Digital Certification 
-        url: https://opencerts.io/
-        external: true
+        url: /pdt-digital-certification
   - title: Apply Now
     url: /apply-now
         
