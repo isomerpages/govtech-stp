@@ -19,8 +19,12 @@ links:
         url: /rok/rgl/requirements-and-process
       - title: Travellers from Vietnam
         url: /vietnam/atp/requirements-and-process
-  - title: Pre-Departure Test Application
-    url: /pre-departure-test
+ - title: Departing from Singapore
+    sublinks:
+      - title: Apply for Pre-Departure Test (PDT)
+        url: /pre-departure-test
+      - title: Info on using PDT Digital Certification 
+        url: /pdt-digital-certification
   - title: Contact Us
     url: /contact-us
     
