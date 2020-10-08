@@ -20,7 +20,9 @@ links:
       - title: Travellers from Vietnam
         url: /vietnam/atp/requirements-and-process
   - title: Pre Departure Test Application
-    url: /pre-departure-test
+    sublinks:
+          - title: Apply for Pre-Departure Test (PDT)
+            url: /pre-departure-test
   - title: Contact Us
     url: /contact-us
 
