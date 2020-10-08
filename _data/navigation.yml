@@ -33,12 +33,8 @@ links:
       - title: Post-Arrival Stay Home Notice and Swab Test
         url: https://www.ica.gov.sg/covid-19/SHN
         external: true     
-  - title: Departing from Singapore
-    sublinks:
-      - title: Apply for Pre-Departure Test (PDT)
+  - title: Pre-Departure Test Application
         url: /pre-departure-test
-      - title: Info on using PDT Digital Certification 
-        url: /pdt-digital-certification
   - title: Apply Now
     url: /apply-now
         
