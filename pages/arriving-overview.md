@@ -3,10 +3,10 @@ title: Arriving - Overview
 permalink: /arriving/overview
 ---
 
-Singapore is still open to travellers, but eligibility and health requirements will differ depending on the country of departure and traveller type. Please find the Safe Travel Lanes you may be eligible for via the tables below, arranged by country/region and traveller type.
+Singapore is still open to arriving travellers, but eligibility and health requirements will differ depending on the country of departure and traveller type. Please find the Safe Travel Lanes you may be eligible for via the tables below, arranged by country/region and traveller type.
 
 ## All Countries/Regions
-For all countries/regions, the following Safe Travel Lanes are applicable for general entry into Singapore. 
+For all countries/regions, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
 |Country/Region of Departure |Returning Singapore Citizen/PR | Singapore Long Term Pass Holder<sup>1</sup> | Relatives/friends of Singapore Citizens/PRs needing Short Term Entry for Extenuating Reasons|
 |-------------------|-------------|-------------------|-------------------|
