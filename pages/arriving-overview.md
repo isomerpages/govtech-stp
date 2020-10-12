@@ -3,7 +3,7 @@ title: Arriving - Overview
 permalink: /arriving/overview
 ---
 
-Please find the lanes you may be eligible for via the tables below.
+Please find the lanes you may be eligible for via the tables below, arranged by country/region and traveller type.
 
 ## All Countries/Regions
 For all countries/regions, the following Safe Travel Lanes apply for general entry into Singapore. 
