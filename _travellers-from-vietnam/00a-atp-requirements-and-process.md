@@ -42,7 +42,7 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - remain in Vietnam in the last 14 consecutive days before departing for Singapore;
 - monitor his/her health status before departure;
 - book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result <sup>1</sup>. The accommodation <sup>2</sup> must be non-residential and must be an individual room with an attached toilet;
-- check that his/her mobile device is compatible <sup>3</sup> with the [TraceTogether app](https://www.tracetogether.gov.sg/) and download it on his/her mobile device <sup>4</sup>; and
+- check that his/her mobile device is compatible <sup>3</sup> with the [TraceTogether app](https://www.tracetogether.gov.sg/) and download it on his/her mobile device <sup>4</sup>, register his/her mobile number and personal details on the app; and
 - submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to his/her date of arrival in Singapore.
 
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
@@ -50,7 +50,7 @@ Visitors are also strongly encouraged to [register and pre-pay](https://safetrav
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app downloaded.
+- a mobile device with the TraceTogether app already downloaded and registered.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
@@ -61,7 +61,7 @@ A visitor who does not have any of the above may be refused boarding by the airl
 At arrival immigration in Singapore, the visitor must present to the ICA officer:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app downloaded.
+- a mobile device with the TraceTogether app already downloaded and registered.
 
 A visitor who does not have any of the above may be refused entry into Singapore by ICA.
 
