@@ -17,7 +17,7 @@ The RGL is also known by other names as used by Singapore's RGL counterpart coun
 | Singapore Nomenclature |  Foreign Counterpart's Nomenclature  | Link to Counterpart's website |
 |------------------------|----------------------------|-------------------------------|
 |RGL(Brunei)  |  RGL(Brunei)        |             |
-|RGL(China)   |   Chinese + English   |               |
-|RGL(Japan) |    Japanese + English  |                |
+|RGL(China)   | 新中快捷通道（Singapore-China Fast Lane）   |               |
+|RGL(Japan) |    ビジネストラック (Singapore-Japan Business Track)  |                |
 |RGL(Malaysia)   |   RGL (Malaysia)    |            |
-|RGL(Republic of Korea)  | Korean + English |                 |
+|RGL(Republic of Korea)  | ビジネストラック (ROK-Singapore Fast Lane for Essential Travel) |                 |
