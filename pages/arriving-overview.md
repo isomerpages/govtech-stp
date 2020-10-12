@@ -1,19 +1,28 @@
 ---
-title: Arriving - Overview by Country
+title: Arriving - Overview 
 permalink: /arriving/overview
 ---
 
-Please click your traveller profile on the navigation menu to find out which lanes you may be eligible for, or navigate via the table below.
+Please find the lanes you may be eligible for via the tables below.
 
-|Country/Region | All Travellers | Short Business & Official Trip | Singapore Long Term Pass Holder<sup>1</sup> | Returning Singpaore Citizen/PR
+## All Countries/Regions
+For all countries/regions, the following lanes apply:
+|Country/Region | Singapore Long Term Pass Holder<sup>1</sup> | Returning Singpaore Citizen/PR |
+| -------------------|-------------|-------------------|
+|All countries| [Singaporean Familial Ties Lane](/scpr-familial-ties-lane) for extenuating reasons if you need to visit a Singapore Citizen/PR in Singapore|  | [- Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [- Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
+
+**Note:** Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder Lane, or for entry under extenuating reasons under the Singaporean Familial Ties Lane.*
+
+## Additional Safe Travel Lanes with Specific Countries/Regions
+Singapore has arranged additional Safe Travel Lanes with the following countries to facilitate short visits to Singapore:
+|Country/Region | All Short Term Travellers | Short Business & Official Trip | Others |
 | ------------- |-------------------| -------------------|-------------|-------------------|
-|Australia| [Air Travel Pass](/atp/requirements-and-process) |  |[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|Brunei Darussalam| [Air Travel Pass](/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang| | [Reciprocal Green Lane](/rgl/overview)|[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|Japan|  | [Reciprocal Green Lane](/rgl/overview)|[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|New Zealand| [Air Travel Pass](/atp/requirements-and-process) |  |[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
-|Vietnam| [Air Travel Pass](/atp/requirements-and-process) |  |[Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
+|Australia| [Air Travel Pass](/atp/requirements-and-process) |  |  | 
+|Brunei Darussalam| [Air Travel Pass](/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
+|China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang| | [Reciprocal Green Lane](/rgl/overview)|  |
+|Japan|  | [Reciprocal Green Lane](/rgl/overview)| |  |
+|Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
+|New Zealand| [Air Travel Pass](/atp/requirements-and-process) |  | |
+|Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  |  |
+|Vietnam| [Air Travel Pass](/atp/requirements-and-process) |  |  |
 
-<sup>1</sup> *Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder Lane, or for entry under extenuating reasons under the Singaporean Familial Ties Lane.*
