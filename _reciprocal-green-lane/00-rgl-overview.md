@@ -20,4 +20,4 @@ The RGL is also known by other names as used by Singapore's RGL counterpart coun
 |RGL(China)   | 新中快捷通道（Singapore-China Fast Lane）   |               |
 |RGL(Japan) |    ビジネストラック (Singapore-Japan Business Track)  |                |
 |RGL(Malaysia)   |   RGL (Malaysia)    |            |
-|RGL(Republic of Korea)  | ビジネストラック (ROK-Singapore Fast Lane for Essential Travel) |                 |
+|RGL(Republic of Korea)  | 한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) |                 |
