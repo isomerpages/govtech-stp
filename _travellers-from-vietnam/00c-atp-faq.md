@@ -144,32 +144,46 @@ Yes, all visitors to Singapore must download the TraceTogether app. They must do
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 26. What happens if visitors do not have mobile devices to download the TraceTogether app?
+#### 26. After downloading the TraceTogether app, how do i activate it? 
+
+After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
+
+If you requrie assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
+
+#### 27. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
+
+If you change your mobile device, you are required to download the TraceTogether app again and activate it by following the instructions that appear when you launch the app. 
+
+If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
+
+Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
+
+#### 28. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
 All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app, and may be refused boarding and entry into Singapore if they are unable to download the TraceTogether app on their mobile devices.
 
 Children aged 12 or younger in that calendar year and travelling with a parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 27. Can visitors switch off their mobile devices while in Singapore?
+#### 29. Can visitors switch off their mobile devices while in Singapore?
 
 No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 28. Can visitors uninstall the TraceTogether app upon departing from Singapore?
+#### 30. Can visitors uninstall the TraceTogether app upon departing from Singapore?
 
 Visitors must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if visitors are tested positive for COVID-19.
 
 ### **Others**
 
-#### 29. What must visitors present to airline staff during check-in at the departure airport for Singapore?
+#### 31. What must visitors present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app downloaded. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
+- a mobile device with the TraceTogether app already downloaded and registered. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-#### 30. Can visitors use the ATP to transit/transfer through Singapore?
+#### 32. Can visitors use the ATP to transit/transfer through Singapore?
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
