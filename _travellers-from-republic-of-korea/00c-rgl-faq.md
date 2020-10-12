@@ -109,7 +109,7 @@ SafeTravel Pass applications may be rejected for reasons, including the followin
 
 - Inadequate justifications provided for reason of travelinformation provided.
 - Non-compliant controlled itinerary submitted.
-- Wrong proof of residency submitted.
+- Invalid proof of residency submitted.
 
 #### 16. Can I use the fast lane to come to Singapore for long-term work?
 
@@ -157,7 +157,7 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 #### 23. What health measures will I be subjected to upon arrival in Singapore?
 
-Fast lane travellers from the ROK must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) until their test results are released (typically within 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
+Fast lane travellers from the ROK must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). The traveller's accommodation throughout the entire duration of his/her stay in Singapore must be a non-residential address and he/she may not reside in a residential address at any point in time. Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
 
