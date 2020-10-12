@@ -7,22 +7,22 @@ Please find the lanes you may be eligible for via the tables below.
 
 ## All Countries/Regions
 For all countries/regions, the following lanes apply:
-|Country/Region | Singapore Long Term Pass Holder<sup>1</sup> | Returning Singpaore Citizen/PR |
-| -------------------|-------------|-------------------|
-|All countries| [Singaporean Familial Ties Lane](/scpr-familial-ties-lane) for extenuating reasons if you need to visit a Singapore Citizen/PR in Singapore|  | [- Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> [- Student's Pass Holder Lane](/malaysia/work-pass-holder-lane)| [Returning Singapore Citizen/PR](/sc-pr/info)|
+|Country/Region |Returning Singpaore Citizen/PR | Singapore Long Term Pass Holder<sup>1</sup> | Relatives/friends of Singapore Citizens/PRs|
+| -------------------|-------------|-------------------|-------------------|
+|All countries| [Returning Singapore Citizen/PR](/sc-pr/info)| - [Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> - [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane) |[Singaporean Familial Ties Lane](/scpr-familial-ties-lane) for extenuating reasons if you need to visit a Singapore Citizen/PR in Singapore |
 
 **Note:** Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder Lane, or for entry under extenuating reasons under the Singaporean Familial Ties Lane.*
 
 ## Additional Safe Travel Lanes with Specific Countries/Regions
 Singapore has arranged additional Safe Travel Lanes with the following countries to facilitate short visits to Singapore:
 |Country/Region | All Short Term Travellers | Short Business & Official Trip | Others |
-| ------------- |-------------------| -------------------|-------------|-------------------|
+| ------------- |-------------------| -------------------|-------------|
 |Australia| [Air Travel Pass](/atp/requirements-and-process) |  |  | 
 |Brunei Darussalam| [Air Travel Pass](/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
 |China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang| | [Reciprocal Green Lane](/rgl/overview)|  |
-|Japan|  | [Reciprocal Green Lane](/rgl/overview)| |  |
+|Japan|  | [Reciprocal Green Lane](/rgl/overview)| |
 |Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
 |New Zealand| [Air Travel Pass](/atp/requirements-and-process) |  | |
-|Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  |  |
+|Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
 |Vietnam| [Air Travel Pass](/atp/requirements-and-process) |  |  |
 
