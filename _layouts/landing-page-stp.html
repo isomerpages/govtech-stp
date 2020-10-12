@@ -52,12 +52,36 @@ layout: skeleton
 	  display: inline-block;
 	  font-size: 16px;
 	  margin: 4px 2px;
+	  transition-duration: 0.4s;
 	  cursor: pointer;
         }
 
 .button1 {background-color: #153855;} /* ICA Blue */
 .button2 {background-color: #cd0000;} /* ICA Red */
-	  
+
+.button1 {
+  background-color: #153855; 
+  color: white; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: #cd0000; 
+  color: white; 
+  border: 2px solid #153855;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+	
 </style>
 
 <!-- Notification Bar for maintenance -->
@@ -91,7 +115,7 @@ layout: skeleton
           	<h3> Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the COVID-19 pandemic.</h3>
         	<br>
 		<h3> Click the buttons below to find out which Safe Travel Lanes are applicable when entering Singapore from a specific Country/Region.</h3>
-		<a href="/arriving/overview">Arriving overview by country (Test)</a>
+		<a href="/arriving/overview" class="button button1">Travelling to Singapore (Test)</a>
 		<!--
 		<div>
 
