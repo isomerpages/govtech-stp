@@ -51,6 +51,8 @@ collections:
     output: true
   returning-singapore-citizen-and-pr:
     output: true
+  arriving:
+    output: true
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
