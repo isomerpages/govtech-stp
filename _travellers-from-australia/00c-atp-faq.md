@@ -54,9 +54,9 @@ Visitors who are granted entry into Singapore will be issued with a visit pass b
 
 Please note that the ATP is **not** an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period. 
 
-#### 11. Are visitors able to extend their duration of stay in Singapore? 
+#### 11. Are visitors able to extend their duration of stay in Singapore?
 
-All applications for extension of visit pass must be submitted online using ICA's [e-service](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted. 
+All applications for extension of visit pass must be submitted online using ICA’s e-service (<https://eservices.ica.gov.sg/esvclandingpage/extend>) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
 
 #### 12. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
@@ -150,7 +150,7 @@ If you change your mobile device, you are required to download the TraceTogether
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
-Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore. 
+Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
 
 #### 27. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
