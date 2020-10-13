@@ -8,7 +8,7 @@ third_nav_title: Air Travel Pass
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Australia (excluding Victoria State) to seek entry into Singapore.
+An ATP allows visitors<sup>1</sup> travelling from Australia to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
