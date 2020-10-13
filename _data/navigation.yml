@@ -23,11 +23,11 @@ links:
   - title: Health Control Measures
     url: /health/overview
     sublinks:
-      - title: Arriving in singapore
+      - title: Arriving in Singapore
         url: /health/before-arriving
       - title: Departing from Singapore
-        url: /pre-departure-test
+        url: /health/pre-departure-test
       - title: COVID-19 Test Digital Certification
-        url: /pdt-digital-certification
+        url: /health/pdt-digital-certification
   - title: Apply Now
     url: /apply-now
