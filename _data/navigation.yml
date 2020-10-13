@@ -20,19 +20,15 @@ links:
       - title: Singaporean Familial Ties Lane
         url: https://form.gov.sg/#!/5e3648e9405c180011dc5f9c 
         external: true
-  - title: Arrival Health Control Measures
-    url: https://www.ica.gov.sg/covid-19/enteringsg
-    external: true 
+  - title: Health Control Measures
+    url: /health/overview
     sublinks:
-      - title: Before Arriving in Singapore
-        url: https://www.ica.gov.sg/covid-19/enteringsg
-        external: true 
-      - title: Arrival in Singapore
-        url: https://www.ica.gov.sg/covid-19/ArrivalSG
-        external: true 
-      - title: Post-Arrival Stay Home Notice and Swab Test
-        url: https://www.ica.gov.sg/covid-19/SHN
-        external: true     
+      - title: Arriving in singapore
+        url: /health/before-arriving
+      - title: Departing from Singapore
+        url: /pre-departure-test
+      - title: COVID-19 Test Digital Certification
+        url: /pdt-digital-certification
   - title: Departing from Singapore
     sublinks:
       - title: Apply for Pre-Departure Test(PDT)
