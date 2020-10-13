@@ -132,17 +132,17 @@ If visitors refuse to undergo the post-arrival COVID-19 PCR test, they may be re
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby mobile devices running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s mobile device, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
-#### 24. Must every visitor download the TraceTogether app?
+#### 24. Must every visitor download and activate the TraceTogether app?
 
-Yes, all visitors to Singapore must download the TraceTogether app. They must do so prior to departing for Singapore.
+Yes, all visitors to Singapore must download and activate the TraceTogether app. They must do so prior to departing for Singapore.
 
 Children aged 12 or younger in that calendar year and travelling with a parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 #### 25. After downloading the TraceTogether app, how do i activate it? 
 
-After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
+After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
 
-If you requrie assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
+If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
 #### 26. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
 
@@ -150,7 +150,7 @@ If you change your mobile device, you are required to download the TraceTogether
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
-Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
+Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
 
 #### 27. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
