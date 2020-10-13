@@ -1,6 +1,7 @@
 ---
-title: Information on using PDT Digital Certification 
-permalink: /pdt-digital-certification
+title: PDT Digital Certification 
+permalink: /health/pdt-digital-certification
+third_nav_title: Departing from Singapore
 ---
 
 Approved entities administering the pre-departure test may choose to issue digital COVID-19 test results certificates to provide digital travel credentials based on Singapore’s HealthCert schema and standards. Using such standards will ensure a smooth travel process with its interoperability and ease of verification as they are in line with international standards and the Singapore Government’s requirements. Please approach your healthcare provider for more details on whether they provide such digital certificates, and how to present these certificates for travel purposes.
