@@ -308,6 +308,7 @@ The traveller should verify the latest requirements of the Malaysian authorities
 Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 - Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
 - Produce the MyTravelPass issued by the Malaysia Immigration Department which confirms that he/she was granted approval to travel under the Singapore-Malaysia RGL to ICA at Singapore Immigration;
+- Do not have a travel history in the past 14 days to Sabah.
 
 You may wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for inbound travellers.
 
