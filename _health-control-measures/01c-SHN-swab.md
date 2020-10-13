@@ -1,7 +1,7 @@
 ---
 title: Post-Arrival SHN and Swab
 permalink: /health/shn
-third_nav_title Arriving in Singapore
+third_nav_title: Arriving in Singapore
 ---
 All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test.
 
