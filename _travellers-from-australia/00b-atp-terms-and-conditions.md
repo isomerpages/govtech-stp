@@ -7,7 +7,7 @@ third_nav_title: Air Travel Pass
 ### **Conditions of Air Travel Pass**
 
 1. An Air Travel Pass holder must:
-: a. have been in any place in Australia, except Victoria State, in the last 14 consecutive days before departing for Singapore;
+: a. have been in any place in Australia, in the last 14 consecutive days before departing for Singapore;
 : b. travel to Singapore on a direct flight without transit;
 : c. undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, take private transportation, taxi, or private hire car from the airport to the declared place of accommodation (which must be non-residential and an individual room with attached toilet) and remain isolated at the accommodation until the test result is confirmed to be negative;
 : d. disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;
