@@ -55,6 +55,8 @@ collections:
     output: true
   departing:
     output: true
+  health-control-measures:
+    output: true
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
