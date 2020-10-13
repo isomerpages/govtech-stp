@@ -9,7 +9,7 @@ third_nav_title: Arriving in Singapore
 Upon arrival in Singapore, you may be served an SHN during immigration clearance. To ensure smooth clearance, please present the following documents to the immigration officer:
 
 - Passport/Travel Document that is valid for at least six months
-= SG Arrival Card acknowledgement email
+- SG Arrival Card acknowledgement email
 - Approval Letter of Entry from relevant authority (if applicable)
 - SafeTravel Pass / Periodic Commuting Arrangement Pass / Air Travel Pass (if applicable)
 - Long-Term pass (In-Principle Approval) letter (if applicable)
