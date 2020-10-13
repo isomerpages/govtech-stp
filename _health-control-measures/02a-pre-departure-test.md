@@ -1,7 +1,7 @@
 ---
 title: Pre-Departure Test Application
 permalink: health/pre-departure-test
-third_nav_title: Departing From Singapore
+third_nav_title: Departing from Singapore
 ---
 
 ## **Application for Pre-Departure COVID-19 PCR Test**
