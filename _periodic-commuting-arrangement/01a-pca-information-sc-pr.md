@@ -1,6 +1,6 @@
 ---
 title: Returning to Singapore for Short-Term Home Leave
-permalink: /malaysia/pca/information-sc-pr
+permalink: /pca/SC-PR-leave
 third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 ---
 
