@@ -15,7 +15,7 @@ Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who ar
 1.	Is a holder of a Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass); and
 2.	Has spent at least 90 days working in Malaysia.
 
-For more details and to apply for the SHN waiver under the PCA, click [here](/malaysia/pca/information-sc-pr).
+For more details and to apply for the SHN waiver under the PCA, click [here](/pca/sc-pr-leave).
 
 ## Singapore Citizens and PRs on Reciprocal Green Lane (RGL)
 Click [here](/rgl/requirements-and-process) for details on travel using the RGL.
