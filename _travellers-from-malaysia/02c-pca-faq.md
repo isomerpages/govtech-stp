@@ -167,15 +167,21 @@ Yes. Cohorting is allowed for up to four pax, provided that the employees arrive
 
 Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room.
 
+Please note that the above SHN requirements do <u>not<u> apply to employees who have a travel history to Sabah in the past 14 days before entry into Singapore. Such employees will serve their SHN in dedicated SHN facilities instead.
+
 #### 32. May I serve my Stay-Home Notice (SHN) at a family member or relatives’ house?
 
 Your SHN place of residence must fulfil the prevailing SHN advisory and guidelines. To curb community spread, you are allowed to serve your SHN only in premises occupied by immediate family members (i.e. parents, siblings, spouse and children). You may refer to MOH’s website (<http://www.moh.gov.sg/covid-19>) for the latest updates.
+
+Please note that the above SHN requirements do <u>not<u> apply to employees who have a travel history to Sabah in the past 14 days before entry into Singapore. Such employees will serve their SHN in dedicated SHN facilities instead.
 
 #### 33. What are the accommodation arrangements for Stay-Home Notice (SHN)? Will the Government be paying for the hotel/accommodation for SHN? Is there a list of pre-approved hotels?
 
 The Singapore Government will not arrange or bear the costs of an employee’s accommodation for the SHN. The employer/employee is expected to arrange and bear the costs of the employee’s accommodation for the SHN.
 
 There is no list of pre-approved hotels for SHN. If you wish to serve your SHN in a hotel, you may do so in a hotel of your choice. Please indicate to the properties you approach that you/your employee will be serving SHN.
+
+Please note that the above SHN requirements do <u>not<u> apply to employees who have a travel history to Sabah in the past 14 days before entry into Singapore. Such employees will serve their SHN in dedicated SHN facilities instead.
 
 #### 34. What should I do if I am feeling unwell on the date of my COVID-19 PCR swab appointment?
 
@@ -196,6 +202,8 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 #### 37. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
 
 Your employee is required to undergo a COVID-19 PCR test on the 5th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 3rd day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
+
+If your employee has a travel history to Sabah in the past 14 days before entry into Singapore, he/she will undergo a COVID-19 PCR test on the 11th day of his/her SHN period instead. An SMS message and email notification will be sent to the employer/employee by the 8th day of the employee’s SHN period.
 
 If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 3rd day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number. 
 
@@ -249,6 +257,8 @@ The employee may <u>only</u> take the following modes of transport:
 
 The employee is also required to travel <u>directly</u> from the declared SHN place of residence to the designated test site, and back to the declared SHN place of residence from the test site, without stopping at any other destination along the journey.
 
+Please note that the above guidelines do not apply to employees with a travel history to Sabah in the past 14 days before entry into Singapore. Such employees will undergo their COVID-19 PCR test at their SHN dedicated facility.
+
 #### 46. Can my employee hail a taxi from the street while travelling in Singapore during the SHN period?
 
 No. The employee should only use dedicated taxi hotlines (provided below) or ride-hail applications to hire the taxis or private hire cars. The employee should identify himself/herself as a person subject to SHN when making the phone application booking and when boarding the vehicle. When travelling in the taxi or private hire car, he/she should sit alone in the back seat, with windows down and the air-conditioning turned off.
@@ -262,6 +272,8 @@ No. The employee should only use dedicated taxi hotlines (provided below) or rid
 | 5 | Premier | 6681 9462 |
 | 6 | HDT | 9832 2428 |
 | 7 | Go-Jek, Ryde, MVL(TADA) | via respective mobile applications |
+
+Please note that the above guidelines do not apply to employees with a travel history to Sabah in the past 14 days before entry into Singapore. There will be transport provided for these employees from the Singapore land checkpoints to the designated SHN facility.
 
 #### 47. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
 
@@ -325,3 +337,24 @@ Should your employee need to return to Malaysia before the end of the 3 months (
 #### 50. Who should I contact should I have any feedback or queries?
 
 You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>. We will endeavour to reply you within 3-5 working days.
+
+### **SHN in SHN Dedicated Facilities – Employees with Travel History to Sabah in the past 14 days**
+
+#### 51. What are dedicated SHN facilities?
+
+To prevent potential spread of infection from PCA travellers who have a travel history to Sabah in the past 14 days, the Government has worked with hotel operators to provide dedicated facilities for the affected PCA travellers to serve their 14-day SHN. 
+Transportation will be arranged to send the PCA travellers directly from the border checkpoint to the hotels. Each will have their own room/toilet, and will be provided all their meals, so that they may avoid physical contact with other individuals.
+
+SHN dedicated hotels will be assigned to affected PCA travellers upon their arrival in Singapore. There will be no booking required.
+
+#### 52. What are the costs for utilising the dedicated SHN facilities?
+
+A 14-day SHN at the dedicated SHN facility will cost S$2000 (inclusive of GST). 
+
+#### 53. Can I change the PCA entry date for employees who have a travel history in the past 14 days to Sabah, Malaysia?
+
+No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. Please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry. 
+
+#### 54. I have pre-booked a hotel/other accommodation to serve out my SHN prior to this announcement. Can I stay in my original hotel? Can I seek a refund? 
+
+Affected PCA travellers are required to serve their SHN in the dedicated SHN facility, even if they have pre-booked other accommodation. Those who have arranged to serve out their SHN at other accommodation should inform their accommodation provider accordingly and discuss possible options for refund.
