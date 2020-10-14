@@ -1,6 +1,7 @@
 ---
-title: Returning to Singapore after RGL Trip to Foreign Counterpart
+title: Returning to Singapore
 permalink: /rgl/returning-to-singapore
+third_nav_title: Using RGL to Visit Counterpart Countries/Regions
 ---
 
 Travellers returning to Singapore after using the Reciprocal Green Lane (RGL)/Fast Lane to travel to specific countries/regions can be exempted from prevailing border health control measures (see the table below). 
