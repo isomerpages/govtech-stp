@@ -8,10 +8,10 @@ third_nav_title: Periodic Commuting Arrangement
 
 1. Prior to submitting the entry application on behalf of the Malaysia employee (“**foreign employee**”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
 : a. has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;
-: b. has read and understood the following additional work pass conditions applicable to him/her (in Annex B); and
+: b. has read and understood the following additional work pass conditions applicable to him/her (in Annex B or Annex D); and
 : c. agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore.
 
-2. If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in Annexes A and B will be imposed on:
+2. If the foreign employee is approved for the Periodic Commuting Arrangement (“**PCA**”) Scheme, additional work pass conditions in Annexes A and B will be imposed on:
 : a. the Employer of the foreign employee; and
 : b. the foreign employee by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
 
@@ -32,10 +32,10 @@ third_nav_title: Periodic Commuting Arrangement
 *After the foreign employee arrives in Singapore*
 
 3. If the foreign employee does not drive/ride their personal vehicles into Singapore, the employer must arrange for transportation for the foreign employee to commute directly:
-: a. from Malaysia to Singapore’s immigration checkpoints; and 
-: b. from Singapore’s immigration checkpoint to the foreign employee’s declared place of residence for the duration of the SHN.
+: a. from Malaysia to Singapore’s immigration land checkpoints; and 
+: b. from Singapore’s immigration land checkpoint to the foreign employee’s declared place of residence for the duration of the SHN.
 
-4. The Employer shall ensure that the foreign employee is transferred directly from Singapore’s immigration checkpoint using private vehicle, taxi or private hire car to the foreign employee's SHN place of residence during the SHN period, immediately upon his/her arrival in Singapore. The Employer shall ensure that the foreign employee does not take public trains and buses to his/her declared place of residence for SHN.
+4. The Employer shall ensure that the foreign employee is transferred directly from Singapore’s immigration land checkpoint using private vehicle, taxi or private hire car to the foreign employee's SHN place of residence during the SHN period, immediately upon his/her arrival in Singapore. The Employer shall ensure that the foreign employee does not take public trains and buses to his/her declared place of residence for SHN.
 
 5. The Employer shall ensure that the foreign employee complies with the SHN period which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day 1) and will be effective until:
 : a. 7 subsequent days thereafter and will end at 12 noon on the 8th day; or
@@ -69,7 +69,7 @@ third_nav_title: Periodic Commuting Arrangement
 : a. 7 subsequent days thereafter and will end at 12 noon on the 8th day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whichever is later.
 
-2. The foreign employee shall proceed from the Singapore immigration checkpoint directly to his/her SHN place of residence to serve his/her SHN.
+2. The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her SHN place of residence to serve his/her SHN.
 
 3. On the determination of the Controller, the foreign employee shall serve his/her SHN at such dedicated facilities as the Controller shall specify.
 
@@ -86,3 +86,4 @@ third_nav_title: Periodic Commuting Arrangement
 9. The foreign employee shall act responsibly in line with any advisories (as amended from time to time) issued by the Government of Singapore during the SHN period.
 
 10. The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to the employer at least one day prior to the foreign employee’s COVID-19 test. The foreign employee shall travel from his/her SHN place of residence to the designated testing facility on the scheduled date and arrive punctually, and return to the SHN place of residence immediately after the test, using private vehicle, taxi or private hire car booked via dedicated hotlines or ride-hail applications. Public transport or flagging down of taxi must be avoided. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee’s work pass may also be revoked.
+

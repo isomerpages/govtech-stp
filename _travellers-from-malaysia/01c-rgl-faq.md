@@ -109,7 +109,7 @@ The sponsoring company/agency or traveller may enquire the status of their appli
 
 SafeTravel Pass applications may be rejected for reasons, including the following
 
-- Inadequate justifications provided for reason of travelinformation provided.
+- Inadequate justifications provided for reason of travel.
 - Non-compliant controlled itinerary submitted.
 - Wrong proof of residency submitted.
 
