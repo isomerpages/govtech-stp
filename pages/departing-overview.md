@@ -29,3 +29,7 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 - Republic of Korea
 
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
+
+## Travel to Malaysia under the Periodic Commuting Arrangement
+
+Singapore has agreed with Malaysia on a Periodic Commuting Arrangement (PCA) for Singapore Citizens and PRs who hold Malaysian work passes. For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia to work under the PCA, please visit the Immigration Department of Malaysia’s website [here](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html). For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
