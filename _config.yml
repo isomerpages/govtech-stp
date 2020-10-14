@@ -57,6 +57,8 @@ collections:
     output: true
   health-control-measures:
     output: true
+  work-pass-holder-lane:
+    output: true
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
