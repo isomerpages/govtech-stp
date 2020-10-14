@@ -45,10 +45,6 @@ collections:
     output: true 
   periodic-commuting-arrangement:
     output: true
-  work-pass-holder-lane:
-    output: true       
-  student-pass-holder-lane:
-    output: true
   returning-singapore-citizen-and-pr:
     output: true
   arriving:
@@ -60,6 +56,8 @@ collections:
   work-pass-holder-lane:
     output: true
   student-pass-holder-lane:
+    output: true
+  singaporean-familial-ties-lane:
     output: true
     
 ##################################################################################################################
