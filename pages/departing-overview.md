@@ -28,4 +28,4 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 - Malaysia
 - Republic of Korea
 
-These RGLs have specific departure requirements and application processes which can be found [here](/rgl/visiting-rgl-counterparts)
+These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
