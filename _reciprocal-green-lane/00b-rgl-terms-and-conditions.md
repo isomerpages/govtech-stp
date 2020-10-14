@@ -1,6 +1,7 @@
 ---
 title: Terms & Conditions
 permalink: /rgl/terms-and-conditions
+third_nav_link: RGL Visitors to Singapore
 ---
 
 ### **Terms & Conditions of SafeTravel Pass - Reciprocal Green Lane<sup>1</sup>**
