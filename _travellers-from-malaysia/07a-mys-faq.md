@@ -1,5 +1,5 @@
 ---
-title: RGL FAQ
+title: Frequently Asked Questions
 permalink: /malaysia/rgl/faq
 
 ---
