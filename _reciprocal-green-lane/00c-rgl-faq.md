@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /rgl/faq
+third_nav_title: RGL Visitors to Singapore
 ---
 
 <div id="faq-top"></div>
