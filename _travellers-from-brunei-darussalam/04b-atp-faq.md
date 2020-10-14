@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /brunei/atp/faq
-third_nav_title: Frequently Asked Questions
+third_nav_title: ATP FAQ
 ---
 
 ### **Air Travel Pass (ATP)**
