@@ -1,7 +1,7 @@
 ---
-title: RGL FAQ
+title: Frequently Asked Questions
 permalink: /brunei/rgl/faq
-third_nav_title: Frequently Asked Questions
+third_nav_title: RGL FAQ
 ---
 
 <div id="faq-top"></div>
