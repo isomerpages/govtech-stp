@@ -1,7 +1,7 @@
 ---
 title: Requirements & Process
 permalink: /rgl/requirements-and-process
-third_nav_link: RGL Visitors to Singapore
+third_nav_title: RGL Visitors to Singapore
 ---
 
 ### **Application**
