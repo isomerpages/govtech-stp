@@ -1,9 +1,9 @@
 ---
-title: Overview and Application
+title: Overview 
 permalink: /wphl/overview
 ---
 
-### Overview
+### Overview and Application
 
 All pass holders (work pass holders and dependents) must obtain entry approvals from the relevant government agencies to enter Singapore. Singapore Work Pass Holders and their dependants must obtain [MOM's entry approval](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) to enter Singapore. 
 
@@ -13,3 +13,6 @@ For:
 - Existing work pass holders who are Malaysians or Malaysia permanent residents and entering Singapore by land, employers can sponsor their entry under the [Periodic Commuting Arrangement (PCA)](/pca/overview).
 - All other pass holders, including those on In-Principle Approval, Dependant's Pass, Long Term Visit Pass and Letter of Consent, must continue to obtain [MOM's entry approval](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) to enter Singapore. 
 
+## Arrival Health Control Measures 
+
+Further details on health control measures on arrival in Singapore can be found [here](/health/overview).
