@@ -4,7 +4,7 @@ permalink: /departing/overview
 ---
 
 Singapore does not impose any mandatory health requirements on travellers for departure to other countries. However, the following is advised:
-- Check the [MFA website](www.mfa.gov.sg) for the latest travel advisories to other countries/regions
+- Check the [MFA website](https://www.mfa.gov.sg) for the latest travel advisories to other countries/regions
 - Check with the immigraiton authority or embassy of the destination country/region on the relevant health requirements imposed on travellers from Singapore
 
 ## Travellers Departing to Countries/Regions that Require COVID-19 Pre-Departure Test (PDT)
