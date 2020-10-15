@@ -13,3 +13,7 @@ All Long-Term pass and IPA holders with recent travel history to the following c
 This requirement will apply on top of the existing requirements of a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities and a negative COVID-19 test before the end of their SHN.
 
 *With effect from 19 October 2020, 2359 hours 
+
+## Arrival Health Control Measures 
+
+Further details on health control measures on arrival in Singapore can be found [here](/health/overview).
