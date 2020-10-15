@@ -7,7 +7,7 @@ permalink: /apply-now
 
 |Safe Travel Lane | Application Form| Lane requirements and details |
 | ------------- |-------------------| -----------------------------|
-|Air Travel Pass| [Apply](https://go.gov.sg/atpsg) | [Details](/atp/requirements-and-process  |
+|Air Travel Pass| [Apply](https://go.gov.sg/atpsg) | [Details](/atp/requirements-and-process)  |
 |Periodic Commuting Arrangement (Singapore Work Pass Holders)| [Apply](https://eservices.ica.gov.sg/STO) |  [Details](/pca/requirements-and-process)|
 |Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)| [Apply](https://go.gov.sg/pcasgpr) | [Details](/pca/sc-pr-leave)|
 |Reciprocal Green Lane| [Apply](https://eservices.ica.gov.sg/STO) | [Details](/rgl/overview) |   
