@@ -16,8 +16,6 @@ A summary of the ATP application and travel process can be found in the diagram 
 
 ![ATP Process](/images/atp-process.png)
 
-<sup>1</sup>Children aged 12 years old or younger and are travelling with a parent/guardian or travellers that are unable to use a mobile device due to a certified disability and/or special need do not need to download the TraceTogether App.
-
 Click [here](https://www.sha.org.sg/) for the list of hotels currently accepting ATP-approved travellers.
 
 ### **Before Travelling to Singapore**
