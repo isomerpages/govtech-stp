@@ -3,15 +3,21 @@ title: Requirements & Process
 permalink: /rgl/requirements-and-process
 third_nav_title: RGL Visitors to Singapore
 ---
-## **Process Overview**
+### Eligibility
 
-### **Application**
+Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass. The traveller must be:
 
-Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass.
+- A resident holding a valid passport of any nationality in the country of departure with an RGL arrangement with Singapore;
+- Seeking to make a single-entry, short-term essential travel; and
+- Travelling for business and official purposes between Singapore and country of departure.
+
+### Application
+
+The application process is summarised in the diagram below.
 
 ![RGL Application Process](/images/RGL-application-process.png)
 
-### **Before Entering Singapore**
+### Before Entering Singapore
 
 #### Visa Requirements
 
