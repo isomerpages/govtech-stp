@@ -34,24 +34,43 @@ Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab 
 
 Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on their registered mobile number regarding the details of their allotted swab test appointment. PSHNs will be notified of the test result generally within 1 to 4 days after the day of the swab. PSHNs should continue to adhere to the terms of the SHN.
 
-For more information on payment request by ICA for COVID-19 swab test, please click here.
+For more information on payment request by ICA for COVID-19 swab test, please click [here](https://www.ica.gov.sg/covid-19/shn).
 
-As Singapore's border restriction measures evolve with the global situation, you are advised to check the MOH's website for the latest updates.
+As Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
 
 
-## ICA's Electronic Monitoring Device
+## SHN Electronic Monitoring Device
 
-To aid ICA's efforts to enforce the SHN requirement, travellers entering Singapore from 10 August 2020, 2359hrs onwards, and are not serving their SHN at the SDFs, will be required to wear an electronic monitoring device.
+To aid efforts to enforce the SHN requirement, travellers entering Singapore from 10 August 2020, 2359hrs onwards, and are not serving their SHN at the SDFs, will be required to wear an electronic monitoring device.
 
 This device must be worn for the full duration of the SHN period. Travellers aged 12 or younger (in that calendar year) are exempted from wearing the device.
 
-**Issuance of ICA's Electronic Monitoring Device**
+** ICA's Electronic Monitoring Device**
 Eligible travellers will be given the following once they have cleared through Singapore's immigration checkpoints:
 
 - Electronic wristband;
 - Gateway device; and
-- User Setup Guide.
-Persons placed on SHN (PSHNs) who have received an electronic wristband are required to activate their wristbands upon reaching their place of residence/ accommodation where they will serve their SHN ("SHN residence"). Investigations will be conducted if the wristband is found to be damaged or tampered, and/or when a PSHN is found to have left his/her SHN residence.
+- [User Setup Guide](https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf).
+
+Persons placed on SHN (PSHNs) who have received an electronic wristband are required to activate their wristbands upon reaching their place of residence/ accommodation where they will serve their SHN ("SHN residence"). Investigations will be conducted if the wristband is found to be damaged or tampered, and/or when a PSHN is found to have left his/her SHN residence. 
+
+PSHNs can refer to the video below on activating the electronic wristbands.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+** MOM's Electronic Monitoring Device**
+
+Travellers entering Singapore with Ministry of Manpower (MOM) issued long-term passes (work pass) will be monitored by MOM using a different monitoring device.
+
+** Return and Disposal of Devices After SHN **
+After the completion of the SHN, the wristband can be removed and disposed of according to the proper e-waste disposal methods. 
+
+Our officers will contact the PSHNs for the collection of the gateway device.
+
+** Helplines **
+PSHNs who have problems with their device or do not have access to a smartphone with internet connection may call the StayHome@SG Helpdesk at 6962 2516 for technical assistance.
+
+Those who require other types of assistance may call the SHN Helpline at 6812 5555.
 
 ## Enforcement measures
 
