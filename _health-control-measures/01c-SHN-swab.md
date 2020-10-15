@@ -18,15 +18,15 @@ The following groups of travellers will be exempted from the SHN requirement and
 - Foreign travellers who enter Singapore with a valid Air Travel Pass; and
 - Singapore residents and Long-Term Pass holders (with Approval Letter of Entry) who spent at least 14 days prior to arriving from Australia (excluding Victoria State), Brunei Darussalam, New Zealand or Vietnam.
 
-For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in this form at go.gov.sg/shnhotelneeds.
+For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in this form at <https://go.gov.sg/shnhotelneeds>.
 
 For SHN-related enquiries or assistance, you may contact the SHN Helpline at 6812 5555.
 
-Please visit go.gov.sg/govsg-shn for more information on SHN. Travellers that are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
+Please visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travellers that are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
 
 View a video below on SHN requirements and click here for a health advisory for persons placed on SHN.
 
-[embed video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## COVID-19 Swab Test
 
@@ -68,7 +68,7 @@ If travellers receive a call from us and wish to verify the authenticity of the 
 The Government will continue to implement surveillance and enforcement measures to ensure compliance with the SHN, so that the well-being of the community is not put at risk.
 
 Anyone can report a Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor who did not comply with the SHN to ICA via
-- go.gov.sg/reportshnbreach; or
+- <https://go.gov.sg/reportshnbreach>; or
 - 6812 5555.
 
 ## Penalties for breach of SHN
