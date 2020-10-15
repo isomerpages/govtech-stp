@@ -19,7 +19,7 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 
 Singapore has arranged additional Safe Travel Lanes with the following countries to facilitate shorter term entry into Singapore.
 
-|Country/Region of Departure | All Short Term Travellers | Short Business & Official Trip | Periodic Commuting for Singapore/Malaysia Work Pass Holders|
+|Country/Region of Departure | All Short Term Travellers | Short Business & Official Trip | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
 |-------------|-------------------|-------------------|-------------|
 |Australia| [Air Travel Pass](/atp/requirements-and-process) |  |  | 
 |Brunei Darussalam| [Air Travel Pass](/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
