@@ -71,7 +71,7 @@ Anyone can report a Singapore citizen, permanent resident, Long-Term Visit Pass 
 - <https://go.gov.sg/reportshnbreach>; or
 - 6812 5555.
 
-## Penalties for breach of SHN
+## Penalties for Breach of SHN
 
 Those who fail to comply with the Stay-Home Notice requirements can be prosecuted under the Infectious Diseases Act and its Regulations, and face a fine up to $10,000, or up to six months’ imprisonment, or both.
 
