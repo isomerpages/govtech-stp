@@ -5,7 +5,7 @@ permalink: /wphl/overview
 
 ### Overview
 
-All pass holders (work pass holders and dependents) must obtain entry approvals from the relevant government agencies to enter Singapore. Singapore Work Pass Holders must obtain [MOM's entry approval](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) to enter Singapore. 
+All pass holders (work pass holders and dependents) must obtain entry approvals from the relevant government agencies to enter Singapore. Singapore Work Pass Holders and their dependants must obtain [MOM's entry approval](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) to enter Singapore. 
 
 However, those conveying essential services or supplies (E.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea crossing are exempted from the entry approval requirement. 
 
