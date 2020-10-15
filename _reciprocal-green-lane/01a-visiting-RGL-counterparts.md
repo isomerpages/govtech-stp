@@ -6,7 +6,7 @@ third_nav_title: Using RGL to Visit Counterpart Countries/Regions
 
 The RGL is also known by other names as used by Singapore's RGL counterpart countries/regions. Please refer to the table below for comparison and links to the foreign counterparts' websites. Details and applications to travel to these counterpart RGL countries/regions will be via the foreign counterpart's website.
 
-| Singapore Nomenclature |  Foreign Counterpart's Nomenclature  | Application process and instructions |
+| Singapore Nomenclature |  Foreign Counterpart's Nomenclature  | Application Process and Instructions |
 |------------------------|----------------------------|-------------------------------|
 |RGL (Brunei)  |  Entry Travel Pass       | Instructions under *Entry Travel for Foreigners* at the Brunei PMO [website](http://www.pmo.gov.bn/travelportal/Home.aspx) |
 |RGL (China)   | 新中快捷通道（Singapore-China Fast Lane）   |Instructions from the Embassy of the People's Republic of China [website](http://www.chinaembassay.org.sg/eng/Isfw/fhqz/)|
