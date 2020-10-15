@@ -8,7 +8,7 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 
 |Country/Region of Departure |Returning Singapore Citizen/PR | Singapore Long Term Pass Holder<sup>1</sup> | Relatives/friends of Singapore Citizens/PRs needing Short Term Entry for Extenuating Reasons|
 |-------------------|-------------|-------------------|-------------------|
-|All countries| [Returning Singapore Citizen/PR](/sc-pr/info)| - [Work Pass Holder Lane](/work-pass-holder-lane/overview) <br> - [Student's Pass Holder Lane](/malaysia/work-pass-holder-lane) |[Singaporean Familial Ties Lane](/scpr-familial-ties-lane) |
+|All countries| [Returning Singapore Citizen/PR](/sc-pr/info)| - [Work Pass Holder Lane](/wphl/overview) <br> - [Student's Pass Holder Lane](/stpl/overview) |[Singaporean Familial Ties Lane](/scpr-familial-ties-lane/overview) |
 
 <sup>1</sup> *Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder Lane, or for entry under extenuating reasons under the Singaporean Familial Ties Lane.*
 
