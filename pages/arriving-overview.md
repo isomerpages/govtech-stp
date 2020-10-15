@@ -15,7 +15,6 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 <sup>1</sup> *Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder Lane, or for entry under extenuating reasons under the Singaporean Familial Ties Lane.*
 
 ## Additional Safe Travel Lanes for Arrival from Specific Countries/Regions
-*Correct as at (date)*
 
 Singapore has arranged additional Safe Travel Lanes with the following countries to facilitate shorter term entry into Singapore.
 
