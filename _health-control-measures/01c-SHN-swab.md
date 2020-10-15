@@ -63,11 +63,13 @@ PSHNs can refer to the video below on activating the electronic wristbands.
 Travellers entering Singapore with Ministry of Manpower (MOM) issued long-term passes (work pass) will be monitored by MOM using a different monitoring device.
 
 **Return and Disposal of Devices After SHN**
+
 After the completion of the SHN, the wristband can be removed and disposed of according to the proper e-waste disposal methods. 
 
 Our officers will contact the PSHNs for the collection of the gateway device.
 
 **Helplines**
+
 PSHNs who have problems with their device or do not have access to a smartphone with internet connection may call the StayHome@SG Helpdesk at 6962 2516 for technical assistance.
 
 Those who require other types of assistance may call the SHN Helpline at 6812 5555.
