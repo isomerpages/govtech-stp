@@ -2,28 +2,27 @@
 title: Requirements & Process
 permalink: /atp/requirements-and-process
 ---
+## Eligibility 
 
-### **Application**
-
-From 1 October 2020, foreigners who are short-term visitors arriving from the following countries/regions may apply for an Air Travel Pass for entry into Singapore on or after 8 October 2020:
+Foreigners who have stayed in the following countries/regions for at least 14 consecutive days before arriving from the following countries/regions may apply for an Air Travel Pass for short-term entry into Singapore:
 - Australia (excluding Victoria)
 - Brunei Darussalam
 - New Zealand
 - Vietnam
 
-They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
+## ATP Application and Travel Process
+
+A summary of the ATP application and travel process can be found in the diagram below.
+
+![ATP Process](/images/atp-process.png)
 
 Visitors must comply with the [Conditions](/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
 
 Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected.
 
-For enquiries, please email <COVID_ATP_Enquiries@caas.gov.sg>.
-
-### **Important**
-
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
 
-## **Process Overview**
+For enquiries, please email <COVID_ATP_Enquiries@caas.gov.sg>.
 
 ### **Before Travelling to Singapore**
 
