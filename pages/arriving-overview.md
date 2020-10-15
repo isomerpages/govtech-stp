@@ -23,6 +23,8 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 |Australia| [Air Travel Pass](/atp/requirements-and-process) |  |  | 
 |Brunei Darussalam| [Air Travel Pass](/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
 |China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang| | [Reciprocal Green Lane](/rgl/overview)|  |
+|Germany|  | [Reciprocal Green Lane](/rgl/overview)| |
+|Indonesia| | [Reciprocal Green Lane](/rgl/overview)| |
 |Japan|  | [Reciprocal Green Lane](/rgl/overview)| |
 |Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
 |New Zealand| [Air Travel Pass](/atp/requirements-and-process) |  | |
