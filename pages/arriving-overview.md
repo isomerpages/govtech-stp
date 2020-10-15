@@ -3,8 +3,6 @@ title: Arriving - Overview
 permalink: /arriving/overview
 ---
 
-Singapore is still open to  travellers, but eligibility and health requirements will differ depending on the country of departure and traveller type. Please find the Safe Travel Lanes you may be eligible for via the tables below, arranged by country/region and traveller type. Click the links to find out more about the specific Safe Travel Lanes.
-
 ## Arriving from All Countries/Regions
 For all countries/regions, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
