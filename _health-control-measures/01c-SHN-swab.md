@@ -45,7 +45,7 @@ To aid efforts to enforce the SHN requirement, travellers entering Singapore fro
 
 This device must be worn for the full duration of the SHN period. Travellers aged 12 or younger (in that calendar year) are exempted from wearing the device.
 
-** ICA's Electronic Monitoring Device**
+** ICA's Electronic Monitoring Device **
 Eligible travellers will be given the following once they have cleared through Singapore's immigration checkpoints:
 
 - Electronic wristband;
@@ -58,7 +58,7 @@ PSHNs can refer to the video below on activating the electronic wristbands.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-** MOM's Electronic Monitoring Device**
+** MOM's Electronic Monitoring Device **
 
 Travellers entering Singapore with Ministry of Manpower (MOM) issued long-term passes (work pass) will be monitored by MOM using a different monitoring device.
 
