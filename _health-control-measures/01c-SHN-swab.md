@@ -45,7 +45,7 @@ To aid efforts to enforce the SHN requirement, travellers entering Singapore fro
 
 This device must be worn for the full duration of the SHN period. Travellers aged 12 or younger (in that calendar year) are exempted from wearing the device.
 
-** ICA's Electronic Monitoring Device **
+**ICA's Electronic Monitoring Device**
 Eligible travellers will be given the following once they have cleared through Singapore's immigration checkpoints:
 
 - Electronic wristband;
@@ -58,16 +58,16 @@ PSHNs can refer to the video below on activating the electronic wristbands.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-** MOM's Electronic Monitoring Device **
+**MOM's Electronic Monitoring Device**
 
 Travellers entering Singapore with Ministry of Manpower (MOM) issued long-term passes (work pass) will be monitored by MOM using a different monitoring device.
 
-** Return and Disposal of Devices After SHN **
+**Return and Disposal of Devices After SHN**
 After the completion of the SHN, the wristband can be removed and disposed of according to the proper e-waste disposal methods. 
 
 Our officers will contact the PSHNs for the collection of the gateway device.
 
-** Helplines **
+**Helplines**
 PSHNs who have problems with their device or do not have access to a smartphone with internet connection may call the StayHome@SG Helpdesk at 6962 2516 for technical assistance.
 
 Those who require other types of assistance may call the SHN Helpline at 6812 5555.
