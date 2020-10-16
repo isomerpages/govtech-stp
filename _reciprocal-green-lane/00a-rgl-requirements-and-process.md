@@ -66,6 +66,8 @@ The approved traveller will have to electronically submit pre-trip health and tr
 
 ### **4. Arrival in Singapore**
 
+**Immigration Checks**
+
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test at the airport/land checkpoint upon arrival in Singapore.  The SafeTravel Pass traveller will bear the costs of the post-arrival COVID-19 PCR test in Singapore. 
 
 At arrival immigration, approved SafeTravel Pass travellers should declare he/she is a SafeTravel Pass holder, and must produce:
@@ -76,6 +78,7 @@ At arrival immigration, approved SafeTravel Pass travellers should declare he/sh
 
 Approved travellers without these documents will be refused entry into Singapore under the RGL arrangement.
 
+**Transport to Accomodation**
 The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/land checkpoint (in the case of Malaysia) to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until a negative test result from the post-arrival COVID-19 PCR test is released, usually in about 48 hours. Thereafter, the traveller can proceed on the pre-declared controlled itinerary. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary. 
 
 If tested positive for COVID-19, the traveller will receive medical treatment at his/her own expense. 
