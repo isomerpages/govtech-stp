@@ -17,15 +17,15 @@ third_nav_title: Periodic Commuting Arrangement
 
 by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
 
- 3. If the foreign employee is approved for the Periodic Commuting Arrangement (“**PCA**”) Scheme <b><u>has</u></b> travelled to/from the Excluded Place(s) stated in the Schedule below 14 days prior to their entry to Singapore, additional work pass conditions in **[Annexes C](/pdf/pca-annex-c.pdf)** and **[D](/pdf/pca-annex-d.pdf)** will be imposed on:
+<p>3. If the foreign employee is approved for the Periodic Commuting Arrangement (“**PCA**”) Scheme <b><u>has</u></b> travelled to/from the Excluded Place(s) stated in the Schedule below 14 days prior to their entry to Singapore, additional work pass conditions in **[Annexes C](/pdf/pca-annex-c.pdf)** and **[D](/pdf/pca-annex-d.pdf)** will be imposed on:</p>
 : a. the Employer of the foreign employee; and
 : b. the foreign employee 
 
 by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
 
-4. The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.
+<p>4. The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.</p>
 
-5. All terms used in the additional work pass conditions below shall have the same meaning as defined in the EFMA and its subsidiary legislation.
+<p>5. All terms used in the additional work pass conditions below shall have the same meaning as defined in the EFMA and its subsidiary legislation.</p>
 
 ### **Schedule**
 
