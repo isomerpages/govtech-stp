@@ -94,6 +94,10 @@ In addition to abiding by prevailing local public health and safe management mea
 
 SafeTravel Pass travellers to Singapore are required to download and use the TraceTogether app for the duration of their stay.  If a traveller does not have a TraceTogether-compatible device, the host company or government agency shall provide one to the traveller.
 
+### **6. Departure from Singapore**
+
+Travellers are required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore.
+
 -----
 
 <sup>1</sup> The term “Sponsor” refers to the company or government agency making the application on behalf of the traveller.
