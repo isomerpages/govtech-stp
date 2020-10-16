@@ -16,6 +16,7 @@ third_nav_title: Periodic Commuting Arrangement
 : b. the foreign employee 
 
 by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
+
 <br/>
 3. If the foreign employee is approved for the Periodic Commuting Arrangement (“**PCA**”) Scheme <b><u>has</u></b> travelled to/from the Excluded Place(s) stated in the Schedule below 14 days prior to their entry to Singapore, additional work pass conditions in **[Annexes C](/pdf/pca-annex-c.pdf)** and **[D](/pdf/pca-annex-d.pdf)** will be imposed on:
 : a. the Employer of the foreign employee; and
