@@ -5,18 +5,18 @@ links:
     sublinks:
       - title: Returning Singapore Citizen/PR
         url: /SC-PR/info
-      - title: Reciprocal Green Lane
-        url: /rgl/overview
-      - title: Air Travel Pass
-        url: /atp/requirements-and-process
-      - title: Periodic Commuting Arrangement
-        url: /pca/overview
       - title: Work Pass Holder Lane
         url: /wphl/overview
       - title: Student's Pass Holder Lane
         url: /stpl/overview
       - title: Singaporean Familial Ties Lane
         url: /scpr-familial-ties-lane/overview
+      - title: Reciprocal Green Lane (For Business/Official Short Term Travel)
+        url: /rgl/overview
+      - title: Air Travel Pass (For General Short Term Travel)
+        url: /atp/requirements-and-process
+      - title: Periodic Commuting Arrangement (For Workers Commuting between Singapore and Malaysia) 
+        url: /pca/overview
   - title: Health Control Measures
     url: /health/overview
     sublinks:
