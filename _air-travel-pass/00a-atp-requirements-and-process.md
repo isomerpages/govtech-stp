@@ -2,7 +2,7 @@
 title: Requirements & Process
 permalink: /atp/requirements-and-process
 ---
-## **1. Eligibility** 
+### **1. Eligibility** 
 
 Foreigners who have stayed in the following countries/regions for at least 14 consecutive days before arriving from the following countries/regions may apply for an Air Travel Pass for short-term entry into Singapore:
 - Australia (excluding Victoria)
@@ -10,7 +10,7 @@ Foreigners who have stayed in the following countries/regions for at least 14 co
 - New Zealand
 - Vietnam
 
-## **2. ATP Application**
+### **2. ATP Application**
 
 **Preparation of application**
 
