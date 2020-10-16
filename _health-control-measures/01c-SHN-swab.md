@@ -3,10 +3,9 @@ title: Post-Arrival SHN and Swab
 permalink: /health/shn
 third_nav_title: Arriving in Singapore
 ---
-All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test.
+All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test. A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary-161020.pdf).
 
-
-## Stay-Home Notice (SHN)
+### Stay-Home Notice (SHN)
 
 A Stay-Home Notice is issued, to all travellers who are granted entry into Singapore, as a precautionary measure taken to minimise the risk of additional imported cases of COVID-19.
 
@@ -18,17 +17,17 @@ The following groups of travellers will be exempted from the SHN requirement and
 - Foreign travellers who enter Singapore with a valid Air Travel Pass; and
 - Singapore residents and Long-Term Pass holders (with Approval Letter of Entry) who spent at least 14 days prior to arriving from Australia (excluding Victoria State), Brunei Darussalam, New Zealand or Vietnam.
 
+You can visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travellers that are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
+
 For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in this form at <https://go.gov.sg/shnhotelneeds>.
-
-For SHN-related enquiries or assistance, you may contact the SHN Helpline at 6812 5555.
-
-Please visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travellers that are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
 
 View a video below on SHN requirements and click here for a health advisory for persons placed on SHN.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## COVID-19 Swab Test
+For SHN-related enquiries or assistance, you may contact the SHN Helpline at 6812 5555.
+
+### COVID-19 Swab Test
 
 Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab test at a designated community testing facility. Children aged 12 or younger (in that calendar year) need not take a COVID-19 swab test unless their close contacts are found to be COVID-19 positive.
 
@@ -37,7 +36,6 @@ Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on the
 For more information on payment request by ICA for COVID-19 swab test, please click [here](https://www.ica.gov.sg/covid-19/shn).
 
 As Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
-
 
 ## SHN Electronic Monitoring Device
 
@@ -82,15 +80,15 @@ Persons placed on SHN (PSHNs) may be contacted via calls or WhatsApp to verify t
 
 In addition, PSHNs may receive house visits. All our officers performing house visits will produce their warrant cards or ICA authorisation letter as a form of identification.
 
-Please be informed that ICA will not ask for any financial information. 
-
-If travellers receive a call from us and wish to verify the authenticity of the phone call, they can call the SHN helpline at 6812 5555.
-
 The Government will continue to implement surveillance and enforcement measures to ensure compliance with the SHN, so that the well-being of the community is not put at risk.
 
 Anyone can report a Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor who did not comply with the SHN to ICA via
 - <https://go.gov.sg/reportshnbreach>; or
 - 6812 5555.
+
+**Scam Warning**
+
+ICA will not ask for any financial information. If travellers receive a call from us and wish to verify the authenticity of the phone call, they can call the SHN helpline at 6812 5555.
 
 ## Penalties for Breach of SHN
 
