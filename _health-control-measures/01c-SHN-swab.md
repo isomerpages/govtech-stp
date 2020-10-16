@@ -5,7 +5,7 @@ third_nav_title: Arriving in Singapore
 ---
 All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test. 
 
-A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary-161020.pdf).
+A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary-161020.pdf). However,as Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
 
 ### Stay-Home Notice (SHN)
 
@@ -36,8 +36,6 @@ Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab 
 Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on their registered mobile number regarding the details of their allotted swab test appointment. PSHNs will be notified of the test result generally within 1 to 4 days after the day of the swab. PSHNs should continue to adhere to the terms of the SHN.
 
 For more information on payment request by ICA for COVID-19 swab test, please click [here](https://www.ica.gov.sg/covid-19/shn).
-
-As Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
 
 ## SHN Electronic Monitoring Device
 
