@@ -19,7 +19,7 @@ by the Controller of Work Passes pursuant to section 7(4A) of the Employment of 
 
 <p>3. If the foreign employee is approved for the Periodic Commuting Arrangement (“<b>PCA</b>”) Scheme <b><u>has</u></b> travelled to/from the Excluded Place(s) stated in the Schedule below 14 days prior to their entry to Singapore, additional work pass conditions in <a href="/pdf/pca-annex-c.pdf"><b>Annexes C</b></a> and <a href="/pdf/pca-annex-d.pdf"><b>D</b></a> will be imposed on:</p>
 
-<ol style="list-style-type: lower-roman; font-size:medium;"> 
+<ol list-style-type:"lower-roman;" style="font-size:medium;"> 
   <li> the Employer of the foreign employee; and </li>
   <li> the foreign employee </li>
   </ol>
