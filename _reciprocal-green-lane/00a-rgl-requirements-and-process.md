@@ -3,7 +3,7 @@ title: Requirements & Process
 permalink: /rgl/requirements-and-process
 third_nav_title: RGL Visitors to Singapore
 ---
-### Eligibility
+### **1. Eligibility**
 
 Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored<sup>1</sup> by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass. The traveller must be:
 
@@ -11,7 +11,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
 - Seeking to make a single-entry, short-term essential travel; and
 - Travelling for business and official purposes between Singapore and country of departure.
 
-### Application
+### **2. Application**
 
 **Preparation of application**
 
@@ -26,9 +26,9 @@ Singapore-based companies or Singapore government agencies (i.e. applicants) mus
 
 Sponsors may apply for RGL on behalf of their travellers [here](rgl/apply-now). The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned arrival in Singapore. <u>Applications submitted less than 7 working days from the planned date of arrivval will not be accepted.</u>
 
-### Before Entering Singapore
+### **3. Things to Prepare Before Entering Singapore**
 
-#### Visa Requirements
+#### Apply for Visa if Required
 
 After the SafeTravel Pass application is approved, an approval letter will be sent via email to the sponsoring company or government agency.
 
@@ -61,7 +61,7 @@ Travellers by air who do not produce the above documents at pre-boarding checks 
 
 The approved traveller will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the [SG Arrival Card e-service](https://eservices.ica.gov.sg/sgarrivalcard/), before departing for Singapore. The SG Arrival Card can also be accessed via the [Visit Singapore Travel Guide App](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/).
 
-### **Arrival and Stay in Singapore**
+### **4. Arrival and Stay in Singapore**
 
 #### Post-Arrival Measures
 
