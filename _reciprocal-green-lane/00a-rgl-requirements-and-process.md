@@ -13,9 +13,17 @@ Business or official travellers seeking to make essential travel via the RGL to 
 
 ### Application
 
-The application process is summarised in the diagram below.
+**Preparation of application**
 
-![RGL Application Process](/images/RGL-application-process.png)
+Singapore-based companies or Singapore government agencies (i.e. applicants) must have on hand the following:
+- Traveller’s FIN;
+- Traveller’s long-term pass expiry date;
+- Traveller’s intended date of entry into Singapore;
+- Address of Traveller’s accommodation to complete their on-arrival swab isolation (approximately 48 hours); and
+- Details of Contact Person in company or agency (e.g. Name, Mobile Number, Email Address)
+
+**Application Submission**
+Sponsors may apply for RGL on behalf of their travellers [here](rgl/apply-now). The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned arrival in Singapore. <u>Applications submitted less than 7 working days from the planned date of arrivval will not be accepted.</u>
 
 ### Before Entering Singapore
 
@@ -63,7 +71,7 @@ At arrival immigration, approved SafeTravel Pass travellers should declare he/sh
 
 Approved travellers without these documents will be refused entry into Singapore under the RGL arrangement.
 
-The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/land checkpoint (in the case of Malaysia) to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until a negative test result from the post-arrival COVID-19 PCR test is released. Thereafter, the traveller can proceed on the pre-declared controlled itinerary. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary. 
+The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/land checkpoint (in the case of Malaysia) to the declared self-sourced accommodation, adhering to prevailing health measures. The applicant must remain in the declared accommodation (non-residential address only) until a negative test result from the post-arrival COVID-19 PCR test is released, usually in about 48 hours. Thereafter, the traveller can proceed on the pre-declared controlled itinerary. The host company or government agency is responsible for monitoring the traveller’s adherence to the controlled itinerary. 
 
 If tested positive for COVID-19, the traveller will receive medical treatment at his/her own expense. 
 
