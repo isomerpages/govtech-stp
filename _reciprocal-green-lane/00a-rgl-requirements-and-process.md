@@ -34,7 +34,7 @@ After the SafeTravel Pass application is approved, an approval letter will be se
 
 With the SafeTravel Pass approval, an approved traveller who is a visa-required passport holder can proceed to apply for a visa for travel to Singapore through the usual channels. If the approved traveller already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The approved traveller can check his/her visa status [here](https://eservices.ica.gov.sg/esvclandingpage/save).
 
-**Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.** Please click [here](https://www.ica.gov.sg/enteranddeparting/before/entryvisa/) for more information on Singapore’s visa requirements.
+Please click [here](https://www.ica.gov.sg/enteranddeparting/before/entryvisa/) for more information on Singapore’s visa requirements. <u>Those who do not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for Green/Fast Lane travel.</u>
 
 #### Pre-Departure Requirements
 
@@ -85,7 +85,6 @@ If tested positive for COVID-19, the traveller will receive medical treatment at
 **Controlled Itinerary and Transport**
 
 In addition to abiding by prevailing local public health and safe management measures, the SafeTravel Pass traveller must adhere to a controlled itinerary for the duration of stay. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
-
 
 **TraceTogether App**
 
