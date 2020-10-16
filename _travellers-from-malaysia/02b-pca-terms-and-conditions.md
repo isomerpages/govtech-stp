@@ -21,7 +21,7 @@ by the Controller of Work Passes pursuant to section 7(4A) of the Employment of 
 <br/>
 
  : a. the Employer of the foreign employee; and
- <span style="font-size:medium;"> : b. the foreign employee </span>
+ : b. the foreign employee 
 
 by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
 
