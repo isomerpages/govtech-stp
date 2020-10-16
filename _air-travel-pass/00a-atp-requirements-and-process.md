@@ -46,8 +46,8 @@ If the visitor already has an existing valid visa which has been suspended due t
 
 Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - remain in the ATP-eligible country/region for at least 14 consecutive days before departing for Singapore;
-- monitor his/her health status before departure;
-- book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet. Click [here](https://www.sha.org.sg/) for a list of hotels currently accepting ATP-approved travellers.
+- monitor their health status before departure;
+- book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet. Click [here](https://www.sha.org.sg/) for a list of hotels currently accepting ATP-approved travellers.
 
 **Payment for Swab**
 
