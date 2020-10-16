@@ -22,7 +22,6 @@ by the Controller of Work Passes pursuant to section 7(4A) of the Employment of 
 a. the Employer of the foreign employee; and
 b. the foreign employee 
 
-  
 by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("**EFMA**") (Cap. 91A).
 
 <p>4. The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.</p>
