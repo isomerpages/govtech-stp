@@ -23,6 +23,7 @@ Singapore-based companies or Singapore government agencies (i.e. applicants) mus
 - Details of Contact Person in company or agency (e.g. Name, Mobile Number, Email Address)
 
 **Application Submission**
+
 Sponsors may apply for RGL on behalf of their travellers [here](rgl/apply-now). The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned arrival in Singapore. <u>Applications submitted less than 7 working days from the planned date of arrivval will not be accepted.</u>
 
 ### Before Entering Singapore
