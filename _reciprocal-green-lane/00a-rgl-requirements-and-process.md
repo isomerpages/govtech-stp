@@ -26,7 +26,7 @@ Singapore-based companies or Singapore government agencies (i.e. applicants) mus
 
 Sponsors may apply for RGL on behalf of their travellers [here](rgl/apply-now). The application for the SafeTravel Pass will be open 20 working days (excluding the date of application and date of entry) before the day of the traveller’s planned arrival in Singapore. <u>Applications submitted less than 7 working days from the planned date of arrivval will not be accepted.</u>
 
-### **3. Things to Prepare Before Entering Singapore**
+### **3. Preparation Before Entering Singapore**
 
 #### Apply for Visa if Required
 
@@ -39,15 +39,18 @@ With the SafeTravel Pass approval, an approved traveller who is a visa-required 
 #### Pre-Departure Requirements
 
 **Health Requirements**
+
 Prior to travelling to Singapore, approved SafeTravel Pass travellers are required to:
 - Monitor their health status and refrain from travelling to Singapore if feeling unwell;
 - Have not travelled out of <country> in the entirety of the 14 days prior to departure;
 - Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours from departure and obtain a certificate of having tested negative for COVID-19. The certificate must be issued by an authorised health centre designated by the Government of <country>. The SafeTravel Pass traveller will bear the cost of the pre-departure PCR test.
 
 **Payment for Swab**
+
 Travellers are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. If the traveller is unable to make pre-payment before departing for Singapore, please ensure that he/she has a mobile phone with an activated line upon arrival, as on-site payment would typically require an OTP being sent to a registered mobile line. 
 
 **Present Documents for Departure**
+
 Travellers by air and land (in the case of Malaysia) are required to produce the following documents to the airline for pre-boarding checks and at the immigration counter respectively:
 
   - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;
@@ -61,9 +64,7 @@ Travellers by air who do not produce the above documents at pre-boarding checks 
 
 The approved traveller will have to electronically submit pre-trip health and travel history declarations and declare his/her accommodation in Singapore via the [SG Arrival Card e-service](https://eservices.ica.gov.sg/sgarrivalcard/), before departing for Singapore. The SG Arrival Card can also be accessed via the [Visit Singapore Travel Guide App](https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/).
 
-### **4. Arrival and Stay in Singapore**
-
-#### Post-Arrival Measures
+### **4. Arrival in Singapore**
 
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test at the airport/land checkpoint upon arrival in Singapore.  The SafeTravel Pass traveller will bear the costs of the post-arrival COVID-19 PCR test in Singapore. 
 
@@ -79,12 +80,16 @@ The host<sup>2</sup> company or government agency will transport the traveller d
 
 If tested positive for COVID-19, the traveller will receive medical treatment at his/her own expense. 
 
-#### Measures during stay in Singapore
+### **5. Controlled Itinerary in Singapore**
 
-SafeTravel Pass travellers to Singapore are required to download and use the TraceTogether app for the duration of their stay.  If a traveller does not have a TraceTogether-compatible device, the host company or government agency shall provide one to the traveller.
+**Controlled Itinerary and Transport**
 
 In addition to abiding by prevailing local public health and safe management measures, the SafeTravel Pass traveller must adhere to a controlled itinerary for the duration of stay. The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
 
+
+**TraceTogether App**
+
+SafeTravel Pass travellers to Singapore are required to download and use the TraceTogether app for the duration of their stay.  If a traveller does not have a TraceTogether-compatible device, the host company or government agency shall provide one to the traveller.
 
 -----
 
