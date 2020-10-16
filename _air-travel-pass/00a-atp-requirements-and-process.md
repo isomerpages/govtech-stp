@@ -21,6 +21,7 @@ Travellers must have on hand the following:
 - Contact details in Singapore (e.g. Name, Mobile Number, Email Address)
 
 **ATP application**
+
 Travellers can apply for the ATP [here](/atp/apply-now).
 
 Visitors must comply with the [Conditions](/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
@@ -30,7 +31,6 @@ Visitors who do not meet the Air Travel Pass conditions may be refused entry int
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
 
 For ATP application enquiries, please email <COVID_ATP_Enquiries@caas.gov.sg>.
-
 
 ### **3. Before Travelling to Singapore**
 
