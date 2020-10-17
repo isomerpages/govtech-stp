@@ -68,7 +68,7 @@ All applications for extension of visit pass must be submitted online using ICA�
 
 No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
 
-For information on border control measures, please refer to the Singapore Immigration & Checkpoints Authority (ICA) website [here](https://www.ica.gov.sg/covid-19).
+For information on border control measures, please refer to ICA’s website [here](https://www.ica.gov.sg/covid-19).
 
 #### 14. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
@@ -76,13 +76,13 @@ No. Visitors will need to submit the application themselves as they are required
 
 ### **Visa Application**
 
-#### 15. Do visitors with a valid ATP need to apply for a separate visa to enter Singapore?
+#### 15. Do visitors with a valid ATP need to apply separately for a visa to enter Singapore?
 
-Visitors who are visa-required passport holders must separately obtain a visa for entry into Singapore. Such visitors can apply for their visa two working days after receiving their ATP approval letter.
+Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore.
 
-If visitors already have existing visas, the visa suspension will be lifted when the ATP is approved. There is no need to apply for a new visa. Visitors who were not required to obtain a visa for entry prior to the COVID-19 pandemic do not have to obtain a visa.
+ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa.
 
-Visitors may refer to the Singapore Immigration & Checkpoints Authority (ICA) website <https://www.ica.gov.sg/visitor/visitor_entryvisa> for information on visa requirements and application.
+Visitors may refer to ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
 
 ### **ATP Conditions of Travel**
 
