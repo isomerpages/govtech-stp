@@ -76,7 +76,7 @@ Visitors, who are holding a passport that requires a visa for travel to Singapor
 
 ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa. 
 
-Visitors may refer to the Singapore Immigration & Checkpoints Authority (ICA) [website](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
+Visitors may refer to ICA [website](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
 
 ### **ATP Conditions of Travel**
 
