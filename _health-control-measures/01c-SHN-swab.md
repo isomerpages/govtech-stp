@@ -5,21 +5,22 @@ third_nav_title: Arriving in Singapore
 ---
 All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test. 
 
-A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary-161020.pdf). However,as Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
+A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary-161020.pdf). 
 
-### Stay-Home Notice (SHN)
+However,as Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
 
-A Stay-Home Notice is issued, to all travellers who are granted entry into Singapore, as a precautionary measure taken to minimise the risk of additional imported cases of COVID-19.
+### Stay-Home Notice (SHN) - If Applicable
+
+A Stay-Home Notice (SHN) of 7 or 14 days is issued to travellers who are granted entry into Singapore, as a precautionary measure taken to minimise the risk of additional imported cases of COVID-19. An SHN duration calculator can be found [here](https://www.ica.gov.sg/covid-19/shn-calculator) to determine the expected end of SHN.
 
 The following groups of travellers will be exempted from the SHN requirement and subjected to COVID-19 test post-arrival in Singapore:
-
 - All travellers who enter Singapore with a valid SafeTravel Pass ;
 - Singapore residents holding a Malaysia-issued MyTravelPass (Reciprocal Green Lane);
 - Singapore residents holding a Malaysia-issued MyTravelPass (Periodic Commuting Arrangement), and have an approved SHN waiver for short-term leave in Singapore;
 - Foreign travellers who enter Singapore with a valid Air Travel Pass; and
 - Singapore residents and Long-Term Pass holders (with Approval Letter of Entry) who spent at least 14 days prior to arriving from Australia (excluding Victoria State), Brunei Darussalam, New Zealand or Vietnam.
 
-You can visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travellers that are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
+You can visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travellers who are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
 
 For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in this form at <https://go.gov.sg/shnhotelneeds>.
 
@@ -29,15 +30,7 @@ View a video below on SHN requirements and click here for a health advisory for 
 
 For SHN-related enquiries or assistance, you may contact the SHN Helpline at 6812 5555.
 
-### COVID-19 Swab Test
-
-Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab test at a designated community testing facility. Children aged 12 or younger (in that calendar year) need not take a COVID-19 swab test unless their close contacts are found to be COVID-19 positive.
-
-Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on their registered mobile number regarding the details of their allotted swab test appointment. PSHNs will be notified of the test result generally within 1 to 4 days after the day of the swab. PSHNs should continue to adhere to the terms of the SHN.
-
-For more information on payment request by ICA for COVID-19 swab test, please click [here](https://www.ica.gov.sg/covid-19/shn).
-
-## SHN Electronic Monitoring Device
+### 2. SHN Electronic Monitoring Device - If applicable
 
 To aid efforts to enforce the SHN requirement, travellers entering Singapore from 10 August 2020, 2359hrs onwards, and are not serving their SHN at the SDFs, will be required to wear an electronic monitoring device.
 
@@ -72,7 +65,15 @@ PSHNs who have problems with their device or do not have access to a smartphone 
 
 Those who require other types of assistance may call the SHN Helpline at 6812 5555.
 
-## Enforcement measures
+### COVID-19 Swab Test
+
+Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab test at a designated community testing facility. Children aged 12 or younger (in that calendar year) need not take a COVID-19 swab test unless their close contacts are found to be COVID-19 positive.
+
+Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on their registered mobile number regarding the details of their allotted swab test appointment. PSHNs will be notified of the test result generally within 1 to 4 days after the day of the swab. PSHNs should continue to adhere to the terms of the SHN.
+
+Travellers under Air Travel Pass, Reciprocal Green Lane or Periodic Commuting Arrangement (Returning Singaporeans) will have swabi0arrive quitemnr=rts.
+
+### Enforcement measures
 
 From the day of arrival in Singapore, ICA will be conducting mandatory checks on Singapore citizens, permanent residents, Long-Term Visit Pass holders and short-term visitors who are placed on the Stay-Home Notice (SHN).
 
@@ -90,7 +91,7 @@ Anyone can report a Singapore citizen, permanent resident, Long-Term Visit Pass 
 
 ICA will not ask for any financial information. If travellers receive a call from us and wish to verify the authenticity of the phone call, they can call the SHN helpline at 6812 5555.
 
-## Penalties for Breach of SHN
+### Penalties for Breach of SHN
 
 Those who fail to comply with the Stay-Home Notice requirements can be prosecuted under the Infectious Diseases Act and its Regulations, and face a fine up to $10,000, or up to six months’ imprisonment, or both.
 
