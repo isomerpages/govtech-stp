@@ -6,12 +6,16 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 
 ### **Waiver of Stay-Home Notice when returning to Singapore on Short-Term Home Leave**
 
+#### 1. Eligibility
+
 Singapore Citizens and PRs that have applied for or granted a Malaysia-issued PCA pass (MyTravelPass) may apply for waiver of Stay-Home Notice (SHN) for short-term home leave in Singapore, after spending at least 90 days working in Malaysia. The intent of the Malaysia-issued PCA passes is to allow Singapore Citizens and PRs to re-enter Malaysia after their home leave, to continue with their business or work. In lieu of SHN, the returnee on home leave will undergo a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore, at their own cost.
 
 Singapore Citizens and PRs that wish to apply for a waiver of SHN when returning to Singapore on short-term home leave must fulfil the following criteria:
 1. Be a Singapore Citizen / Singapore Permanent Resident;
 2. Be working in Malaysia under the PCA and applied for or granted  the Malaysia-issued MyTravel Pass; and
 3. Have spent at least 90 days working in Malaysia and holding a Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass).
+
+#### 2. Application
 
 To apply for SHN waiver, an applicant is required to submit the following  information and documents:
 1. Personal details (including NRIC number);
@@ -28,11 +32,14 @@ If the application is approved, the applicant is required to make payment online
 
 Successful applicants will receive an approval letter containing the Terms & Conditions for the waiver granted, which the traveller is required to comply. These include the traveller’s obligation to (i) undergo the COVID-19 PCR test, which he/she will also pay for upon arrival<sup>1</sup>; and (ii) remain in self-isolation at his/her declared place of residence upon entry into Singapore, until a negative test result is conveyed to the traveller.
 
-### **Arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore**
+#### 3. Arrival at Woodlands Checkpoint or Tuas Checkpoint in Singapore
 
 Travellers should enter Singapore via the land checkpoint stated in their SHN waiver approval letter, and on the scheduled date and time. No refunds will be available for the COVID-19 PCR test if travellers fail to arrive within the approved entry date and checkpoint. 
 
-Upon arrival at the land checkpoints, Singapore Citizens and PRs holding Malaysia-issued PCA passes and valid approval for waiver of SHN will undergo passport, customs and security clearance, followed by a COVID-19 PCR test at the land checkpoints. Upon completion of the COVID-19 PCR test, the traveller should proceed directly to his/her declared place of residence, and remain isolated in his/her residence until a negative test result is conveyed to Him/Her. The traveller should not use public transport for travelling from the land checkpoints to the residence, with the exception of taxis/private hire vehicles and personal vehicles. The traveller should use dedicated taxi hotlines or ride-hail applications to hire the taxis and private hire cars, and should not flag down a taxi.
+Upon arrival at the land checkpoints, Singapore Citizens and PRs holding Malaysia-issued PCA passes and valid approval for waiver of SHN will undergo passport, customs and security clearance, followed by a COVID-19 PCR test at the land checkpoints. 
+
+### 4. Transport to Accomodation and Isolation
+Upon completion of the COVID-19 PCR test, the traveller should proceed directly to his/her declared place of residence, and remain isolated in his/her residence until a negative test result is conveyed to Him/Her. The traveller should not use public transport for travelling from the land checkpoints to the residence, with the exception of taxis/private hire vehicles and personal vehicles. The traveller should use dedicated taxi hotlines or ride-hail applications to hire the taxis and private hire cars, and should not flag down a taxi.
 
 If the traveller tests positive for COVID-19, he/she will be given medical treatment accordingly. For Singapore Citizens and PRs who last departed Singapore before 27 March 2020 and are returning to Singapore, they will not be required to pay for the charges for COVID-19 treatment. For all other travellers, they will be responsible for charges for COVID-19 treatment if symptoms develop within 14 day of return, but Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. They should furnish the relevant supporting documents to indicate their status as a PCA traveler.
 
