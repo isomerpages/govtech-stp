@@ -12,3 +12,7 @@ However, those conveying essential services or supplies (E.g. lorry drivers or v
 For: 
 - Existing work pass holders who are Malaysians or Malaysia permanent residents and entering Singapore by land, employers can sponsor their entry under the [Periodic Commuting Arrangement (PCA)](/pca/overview).
 - All other pass holders, including those on In-Principle Approval, Dependant's Pass, Long Term Visit Pass and Letter of Consent, must continue to obtain [MOM's entry approval](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) to enter Singapore. 
+
+## Border and Health Requirements
+
+For Work Pass Holders entering Singapore, please ensure you take note of the border and health measures for entering Singapore found [here](health/overview).
