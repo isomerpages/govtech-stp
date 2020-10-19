@@ -50,7 +50,7 @@ Visitors are also strongly encouraged to [register and pre-pay](https://safetrav
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and registered.
+- a mobile device with the TraceTogether app already downloaded and activated.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
@@ -61,7 +61,7 @@ A visitor who does not have any of the above may be refused boarding by the airl
 At arrival immigration in Singapore, the visitor must present to the ICA officer:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and registered.
+- a mobile device with the TraceTogether app already downloaded and activated.
 
 A visitor who does not have any of the above may be refused entry into Singapore by ICA.
 
