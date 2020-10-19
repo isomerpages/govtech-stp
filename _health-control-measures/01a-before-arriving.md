@@ -28,7 +28,7 @@ Returning Singapore Citizens and PRs are not subject to this requirement.
 
 *With effect from 19 October 2020, 2359 hours
 
-### 4. Declaration of Recovery from COVID (If Applicable)
+### 4. Declaration of Recovery from COVID-19 (If Applicable)
 
 (text)
 
