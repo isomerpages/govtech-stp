@@ -32,9 +32,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### Visa Requirements
 
-Visitors who hold a visa-required passport must separately obtain a valid visa prior to departure for Singapore. Such visitors are strongly encouraged to apply for their Air Travel Pass early.
+Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore. Such visitors are strongly encouraged to apply for their visas early.
 
-If the visitor already has an existing valid visa which has been suspended due to COVID-19, ICA will lift the suspension and there is no need to obtain a new visa. Information on visa requirements and application can be found on ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa).
+ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa. Information on visa requirements and application can be found on ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa).
 
 #### Pre-Departure
 
