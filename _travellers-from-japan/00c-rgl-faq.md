@@ -29,7 +29,7 @@ Yes. All residents in Japan who need to make short-term essential business or of
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass is required for residents in Japan to seek entry into Singapore under the RGL. It is non-transferable and will be valid for a single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore.
+A SafeTravel Pass is required to seek entry into Singapore under the RGL. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore. 
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
@@ -75,10 +75,7 @@ No payment is required.
 
 #### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application. 
-
-If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
-
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass.  Every entry to Singapore requires a new SafeTravel Pass application. However, please note that there may be penalties for repeated non-utilisation.
 
 #### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore? 
 
@@ -98,11 +95,12 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What if I have changes to my controlled itinerary? 
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
+
+The host company should be responsible for promptly monitoring and reporting any deviation in your controlled itinerary. The host company should email the updated controlled itinerary on behalf of the traveller to <COVID_SafeTravelEnquiries@mti.gov.sg>. Please include the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. A non-compliant controlled itinerary may result in the withdrawal of the STP and termination of the Visit Pass if not immediately rectified.
 
 #### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
+The sponsoring company/agency or traveller may make enquiries about the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
 
 #### 15. Why was my application rejected?
 
@@ -129,7 +127,7 @@ The RGL is only for short-term essential business and official travel between Si
 #### 19. What health measures must I take in Japan before departing for Singapore?
 
 Travellers must have remained in Japan for 14 days prior to departure for Singapore. They must monitor their health status before departure from Japan, undergo a pre-departure PCR test in Japan at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Japan. 
-Please visit this [link](https://www.meti.go.jp/policy/investment/tecot/top.html) for a list of designated medical institutions. [Note: Website only in Japanese; enquiries in English can be made via phone (+65 6235 8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
+Please visit this [link](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1) for a list of designated medical institutions. [Note: Website only in Japanese; enquiries in English can be made via phone (+65 6235 8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
 
 #### 20. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
@@ -145,7 +143,7 @@ Otherwise, the traveller may be refused boarding.
 
 #### 21.	What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
 
-Travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, the traveller must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance. 
+Travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For RGL travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance. 
 
 Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
 
@@ -159,9 +157,9 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 #### 23.	What health measures will I be subjected to upon arrival in Singapore? 
 
-RGL travellers from Japan must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). The traveller's accommodation throughout the entire duration of his/her stay in Singapore must be a non-residential address and he/she may not reside in a residential address at any point in time. Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Japan must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller's accommodation throughout the entire duration of his/her stay in Singapore must be a non-residential address and he/she may not reside in a residential address at any point in time. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 

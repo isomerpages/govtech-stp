@@ -27,7 +27,7 @@ Yes. All residents in Malaysia who need to make <u>short-term</u> essential busi
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass is required for residents in Malaysia to seek <u>short-term</u> entry into Singapore under the RGL. It is non-transferable and will be valid for one single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week.
+A Safetravel Pass is required to seek entry into Singapore under the fast lane. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
@@ -77,9 +77,7 @@ No payment is required.
 
 #### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application. 
-
-If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application. However, please note that there may be penalties for repeated non-utilisation.
 
 #### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
 
@@ -99,11 +97,11 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What if I have changes to my controlled itinerary?
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines.
+The host company should be responsible for promptly monitoring and reporting any deviation in your controlled itinerary. The host company should email the updated controlled itinerary on behalf of the traveller to <COVID_SafeTravelEnquiries@mti.go.sg>. Please include the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. A non-compliant controlled itinerary may result in the withdrawal of the STP and termination of the Visit Pass if not immediately rectified.
 
 #### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please have on hand the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.  
+The sponsoring company/agency or traveller may make enquiries about the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.
 
 #### 15. Why was my application rejected?
 
@@ -150,7 +148,7 @@ Travellers by air and land are required to produce the following documents to th
 
 #### 22. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
 
-RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, the Traveller must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance.
+RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore. For RGL travelers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance.
 
 Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
 
@@ -166,9 +164,9 @@ Note that all Short-Term Pass Holders will be accorded the necessary medical tre
 
 #### 24. What health measures will I be subjected to upon arrival in Singapore?
 
-RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until negative test results are released (typically within 48 hours). The traveller's accommodation throughout the entire duration of his/her stay in Singapore must be a non-residential address and he/she may not reside in a residential address at any point in time. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>3</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>4</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller's accommodation throughout the entire duration of his/her stay in Singapore must be a non-residential address and he/she may not reside in a residential address at any point in time. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
