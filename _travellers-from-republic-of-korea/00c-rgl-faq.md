@@ -29,7 +29,7 @@ Yes. All residents in the ROK who need to make short-term essential business or 
 
 #### 3. What is a SafeTravel Pass?
 
-A Safetravel Pass is required to seek entry into Singapore under the fast lane. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore
+A Safetravel Pass is required to seek entry into Singapore under the fast lane. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
