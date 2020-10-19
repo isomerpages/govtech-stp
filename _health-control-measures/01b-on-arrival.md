@@ -4,7 +4,7 @@ permalink: /health/on-arrival
 third_nav_title: Arriving in Singapore
 ---
 
-## What to Expect at Singapore’s Immigration Counters
+### What to Expect at Singapore’s Immigration Counters
 
 Upon arrival in Singapore, you may be served a Stay Home Notice during immigration clearance. To ensure smooth clearance, please present the following documents to the immigration officer:
 
