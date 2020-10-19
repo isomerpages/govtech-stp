@@ -4,7 +4,7 @@ permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
 
-## **Eligibility**
+### **1. Eligibility**
 
 Employers can apply for the PCA on behalf of their employees using CorpPass if their employees fulfil the following criteria:
 1. Are a Malaysia Citizen or a Malaysia Permanent Resident;
@@ -13,9 +13,7 @@ Employers can apply for the PCA on behalf of their employees using CorpPass if t
 
 <p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Long-Term Pass holders eligible for the PCA are holders of the following MOM-issued work passes: (i) Employment Pass; (ii) EntrePass; (iii) Personalised Employment Pass; (iv) S Pass; and (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</em></p>
 
-## **Process Overview**
-
-### **Application Process**
+### **2. Application**
 
 The PCA application has to be submitted by the employer on behalf of their employees from 10 August 2020, 1200 hours onwards. Employers may choose a date of entry within a 60-day window of their application. All applications will be processed on a first-come, first-served basis. Employers must submit their applications at least 7 calendar days before their employees’ entry into Singapore.
 
@@ -30,9 +28,9 @@ Employers are advised to have the following information of each employee on hand
 
 Applications will only be processed after payment for the COVID-19 PCR test has been made. Payment must be made via credit card. An email alert will be sent to the employer through the contact provided if the PCA application for their employee is successful. The employer will also be informed of the details for their employee’s COVID-19 PCR test.
 
-### **Pre-departure from Malaysia**
+### **3. Pre-departure from Malaysia**
 
-#### Prior to Arrival
+**Prepare for Entry**
 
 Prior to arrival at the immigration checkpoints, employees approved under the PCA are required to:
 - Monitor their health status and refrain from travelling to Singapore if feeling unwell;
@@ -42,21 +40,27 @@ Prior to arrival at the immigration checkpoints, employees approved under the PC
 - Bring along their passport and work pass when entering Singapore.
 - Please ensure that your employee has a copy (electronic or hardcopy) of the PCA approval letter, which may be required as proof during immigration clearance at Malaysia's checkpoint.
 
+**Transport from Malaysia to Singapore**
+
 Employees approved under the PCA can commute from Malaysia’s immigration checkpoint to Singapore via personal transport, via private buses that only ferry Malaysian passengers who will be serving SHN, or by foot.
 
 <sup>*</sup><u>IMPORTANT:</u> Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for all personal transport modes. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> To avoid accumulating your VEP fees, you are encouraged to pay your VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only). Please click here for more information about VEP payment methods.
 
-### **Arrival in Singapore**
+### **4. Arrival in Singapore**
 
 Employees without an entry approval under the PCA or other channels will be refused entry into Singapore.
 
-#### Post-Arrival Measures
+### **5. SHN and PCR Test**
+
+**Transport to SHN Accomodation**
 
 After immigration, employees will have to take their personal transport (e.g. motorbikes), private buses that only ferry Malaysian passengers who are serving SHN<sup>*</sup>, or taxis and private-hire cars directly from the immigration checkpoint to the declared SHN accommodation, without stopping at any other destination along the journey. They will need to identify themselves as a person/persons subject to a SHN when making the booking and when boarding the vehicle. When travelling in the taxi or private-hire car, they should sit alone in the back seat (if alone) and could sit together as 3 people in the back seats (family or individuals serving SHN at the same facility), with windows down and the air-conditioning turned off. The employee should not take public trains or buses or flag down a taxi while serving the SHN. Enforcement action may be taken if the employee is found to have not adhered to the transport advisory.
 
 <sup>*</sup><u>IMPORTANT:</u> Malaysian bus drivers are to <u><b>return immediately</b></u> to Malaysia after dropping off employees under the PCA scheme at their declared SHN accommodation. We will not hesitate to take disciplinary action against parties who do not comply with the above requirements.
 
 The employee must remain in the declared SHN accommodation for at least 7 days from the date of entry into Singapore and test negative for COVID-19, whichever is later.
+
+**PCR Test**
 
 The employee will only be permitted to leave his/her declared place of residence for SHN to the designated testing facility for his/her COVID-19 PCR test on the assigned date and appointment time of swabbing. The employee is required to bring along and present his/her work pass and a copy of the COVID-19 PCR test confirmation email/SMS for his/her COVID-19 PCR test. The employee must return immediately to his/her declared place of residence for SHN after the test.
 
@@ -66,7 +70,7 @@ Once the employee has served his/her SHN and tested negative for COVID-19, the e
 
 The employer/employee will bear the costs of the employee’s accommodation for the SHN and post-arrival COVID-19 PCR test in Singapore, subject to prevailing MOM requirements.
 
-#### Measures during stay in Singapore
+### **6. Post-SHN Measures during Stay in Singapore**
 
 The employee will be required to abide by prevailing local public health requirements and safe distancing measures throughout his/her entire stay in Singapore.
 
@@ -80,8 +84,3 @@ For general enquiries on the PCA, please contact us at <COVID_SafeTravelEnquirie
 
 For appeals, please contact us at <COVID_SafeTravelAppeals@mti.gov.sg>.
 
-### **Infographics on the PCA can be found below:**
-
-- <a href="/pdf/pca-application-process.pdf" target="_blank">Employers’ Guide to the Periodic Commuting Arrangement (PCA) Application Process</a>
-- <a href="/pdf/pca-employers-guide.pdf" target="_blank">Employers’ Guide to the Periodic Commuting Arrangement (PCA) - Responsibilities and Obligations</a>
-- <a href="/pdf/pca-travellers-guide.pdf" target="_blank">Travellers’ Guide to the Periodic Commuting Arrangement (PCA) - Responsibilities and Obligations</a>
