@@ -1,5 +1,5 @@
 ---
-title: Health Control Measures - Overview
+title: Overview
 permalink: /health/overview
 ---
 
@@ -10,5 +10,5 @@ Travellers planning to enter Singapore should be prepared to be subjected to the
 Some countries also require Pre-Departure Tests prior to travellers leaving Singapore. Details on taking pre-departure tests can be found in the departure section of the health control measures.
 
 Travellers may also refer to the following websites for more COVID-19 related information:
-- MOH website for updates on the COVID-19 local situation and the relevant advisories; and
-- MCI’s COVID-19 Info Bot for summarised information from various government agencies.
+- [MOH website](https://www.moh.gov.sg) for updates on the COVID-19 local situation and the relevant advisories; and
+- [MCI’s COVID-19 Info Bot](https://www.gov.sg/infobot) for summarised information from various government agencies.
