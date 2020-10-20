@@ -24,7 +24,7 @@ You can visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travell
 
 For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in this form at <https://go.gov.sg/shnhotelneeds>.
 
-View a video below on SHN requirements and click here for a health advisory for persons placed on SHN.
+View a video below on SHN requirements and click [here](https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf) for a health advisory for persons placed on SHN.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -45,9 +45,13 @@ Eligible travellers will be given the following once they have cleared through S
 
 Persons placed on SHN (PSHNs) who have received an electronic wristband are required to activate their wristbands upon reaching their place of residence/ accommodation where they will serve their SHN ("SHN residence"). Investigations will be conducted if the wristband is found to be damaged or tampered, and/or when a PSHN is found to have left his/her SHN residence. 
 
-PSHNs can refer to the video below on activating the electronic wristbands.
+![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-2.png)
+
+PSHNs can refer to the video and infographic below on activating the electronic wristbands.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-1.png)
 
 **MOM's Electronic Monitoring Device**
 
