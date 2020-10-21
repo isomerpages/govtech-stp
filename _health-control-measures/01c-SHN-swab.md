@@ -75,7 +75,7 @@ Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab 
 
 Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on their registered mobile number regarding the details of their allotted swab test appointment. PSHNs will be notified of the test result generally within 1 to 4 days after the day of the swab. PSHNs should continue to adhere to the terms of the SHN.
 
-Travellers under Air Travel Pass, Reciprocal Green Lane or Periodic Commuting Arrangement (Returning Singaporeans) will have swabi0arrive quitemnr=rts.
+Travellers under [Air Travel Pass](/atp/requirements-and-process), [Reciprocal Green Lane](/rgl/requirements-and-process) or [Periodic Commuting Arrangement (Returning Singaporeans)](/pca/sc-pr-leave) will be swabbed on arrival and must remain in isolation until their test result is out.
 
 ### Enforcement measures
 
