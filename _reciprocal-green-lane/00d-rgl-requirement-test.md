@@ -76,13 +76,33 @@ third_nav_title: RGL Visitors to Singapore
       <table>
         <thead>
          <tr>
-    <th style="font-size:16px;">Country</th>
-    <th style="font-size:16px;">Links</th>
+    <th style="font-size:13px;">Country</th>
+    <th style="font-size:13px;">Links</th>
   </tr>
         </thead>
         <tbody>
           <tr>
             <td> Brunei Darussalam</td>
+            <td> xxx </td>
+          </tr>
+                    <tr>
+            <td> Germany</td>
+            <td> xxx </td>
+          </tr>
+                    <tr>
+            <td> Indonesia</td>
+            <td> xxx </td>
+          </tr>
+                    <tr>
+            <td> Japan</td>
+            <td> xxx </td>
+          </tr>
+                    <tr>
+            <td> Malaysia</td>
+            <td> xxx </td>
+          </tr>
+                    <tr>
+            <td>Republic of Korea</td>
             <td> xxx </td>
           </tr>
         </tbody>
