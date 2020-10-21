@@ -50,7 +50,7 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   <tr>
   <td style="font-size:13px;"><b> Prospective RGL travellers from a visa-required country to apply through the usual channels for a visa to travel to Singapore. </b>
-    <p style="margin-top:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
+    <p style=" font-size:13px; margin-top:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
    </td>
   </tr>
 </tbody>
