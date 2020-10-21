@@ -16,8 +16,8 @@ third_nav_title: RGL Visitors to Singapore
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">Preparation of application</td>
-    <td>Waive</td>
+    <td rowspan="2"><b>Preparation of application</b></td>
+    <td><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b></td>
   </tr>
   <tr>
     <td></td>
