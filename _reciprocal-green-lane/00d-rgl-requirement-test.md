@@ -158,41 +158,43 @@ Business or official travellers seeking to make essential travel via the RGL to 
 </thead>
 <tbody>
   <tr>
-    <td style="font-size:13px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
+    <td  style="font-size:13px;"><b>Immigration clearance</b></td>
+    <td style="font-size:13px;"><b>An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel pass holder and be able to produce the following:</b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
-      </ol>      
+      <li style="font-size:13px; margin-top:0px;">Valid SafeTravel Pass for the intended week of travel;</li>
+             <li style="font-size:13px; margin-top:0px;">Valid visa (for visa-required passport holders);</li>
+             <li style="font-size:13px; margin-top:0px;">Negative COVID-19 PCR test result; and</li>
+             <li style="font-size:13px; margin-top:0px;">A return air ticket.</li>
+      </ol> 
+     <p style="font-size:13px; margin-top:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the airport/land or sea checkpoint. Travellers that have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
       </td>
   </tr>
-   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>1 to 0 Calendar Days</u></b> before planned date of entry into Singapore
+    <td rowspan="2" style="font-size:13px;"><b>Post-Immigration clearance</b></td>
+    <td style="font-size:13px;"><b>A local host* is to: </b>
+      <ol style="margin-top:0px;">
+      <li style="font-size:13px; margin-top:0px;">Arrange for transport for the traveller to commute directly from the airport/land and sea checkpoint to the declared self-sourced accommodation; and</li>
+             <li style="font-size:13px; margin-top:0px;">•	Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
+      </ol> 
+     <p style="font-size:13px; margin-top:0px;"><i>[*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.]</i></p>
+      </td>
+  </tr>
+ <tr>
+    <td style="font-size:13px;"><b>An approved RGL traveller must download and use the TraceTogether app throughout their stay in Singapore.</b>
+      </td>
+  </tr>
+    <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Days 0 to 2</u></b> of planned entry into Singapore
        </th>
   </tr>
   </thead>
    <tr>
-    <td style="font-size:13px;"><b>Submission of declarations and payments</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers should:</b>
-   <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>;and</li>
-      <li style="font-size:13px; margin-top:0px;">Register and pre-pay for their post arrival COVID-19 PCR test <a href="https://www.safetravel.changiairport.com">here</a>. </li>
-      </ol>        
+    <td style="font-size:13px;"><b>Self-isolation</b></td>
+    <td style="font-size:13px;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (approximately 48 hours).</b>
+     <p style="font-size:13px; margin-top:0px;"><i>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </i> </p>
     </td>
-  </tr>
-   <tr>
-    <td style="font-size:13px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore:</b>
-   <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
-      <li style="font-size:13px; margin-top:0px;">Valid visa to enter Singapore (for visa-required passport holders); </li>
-     <li style="font-size:13px; margin-top:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
-      <li style="font-size:13px; margin-top:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
-      </ol>
-     <b style="margin-top:0px;"> These documents will be presented to the airline for pre-boarding checks by an air traveller; immigration counter by a land traveller; and XXX by a sea traveller.</b>
-    </td>
-  </tr>
-  
+ </tr>  
 </tbody>
 </table>
 
