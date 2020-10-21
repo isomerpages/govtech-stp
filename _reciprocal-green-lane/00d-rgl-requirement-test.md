@@ -28,9 +28,9 @@ third_nav_title: RGL Visitors to Singapore
     </td>
   </tr>
   <tr>
-  <td style="font-size:13px;"><b> Prospective RGL travellers should</b>
+  <td style="font-size:13px;"><b> Prospective RGL travellers should:</b>
  <ol style="margin-top:0px;">
-      <li style="font-size:13px;"> Check on his/her visa status <a href="https://wwww.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
+      <li style="font-size:13px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
       <li style="font-size:13px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
       <li style="font-size:13px;"> Monitor their health status.</li>
       </ol>        
@@ -44,16 +44,14 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   </thead>
   <tr>
-    <td></td>
-    <td></td>
+    <td rowspan="2" style="font-size:13px;"><b>Submission of application</b></td>
+    <td style="font-size:13px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>
+    </td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
+  <td style="font-size:13px;"><b> Prospective RGL travellers from a visa-required country to apply through the usual channels for a visa to travel to Singapore. </b>
+    <p style="margin-top:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
+   </td>
   </tr>
 </tbody>
 </table>
