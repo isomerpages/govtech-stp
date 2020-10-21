@@ -119,7 +119,7 @@ third_nav_title: RGL Visitors to Singapore
     <td style="font-size:13px;"><b>Submission of declarations and payments</b></td>
     <td style="font-size:13px;"><b>Approved RGL travellers should:</b>
    <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>; and </li>
+      <li style="font-size:13px; margin-top:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>;and</li>
       <li style="font-size:13px; margin-top:0px;">Register and pre-pay for their post arrival COVID-19 PCR test <a href="https://www.safetravel.changiairport.com">here</a>. </li>
       </ol>        
     </td>
