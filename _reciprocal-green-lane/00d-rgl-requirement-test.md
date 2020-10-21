@@ -16,7 +16,7 @@ third_nav_title: RGL Visitors to Singapore
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:20px;"><b>Preparation of application</b></td>
+    <td rowspan="2" style="font-size:20px; vertical-align:center;"><b>Preparation of application</b></td>
     <td style="font-size:20px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
       <p><ol>
       <li> Traveller's FIN number;</li>
