@@ -23,23 +23,23 @@ Business or official travellers seeking to make essential travel via the RGL to 
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:13px;"><b>Preparation of application</b></td>
-    <td style="font-size:13px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
+    <td rowspan="2" style="font-size:16px;"><b>Preparation of application</b></td>
+    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Traveller's FIN number;</li>
-      <li style="font-size:13px; margin-top:0px;"> Traveller's Long-Term Pass expiry date;</li>
-      <li style="font-size:13px; margin-top:0px;"> Traveller's intended date of entry into Singapore;</li>
-      <li style="font-size:13px; margin-top:0px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
-      <li style="font-size:13px; margin-top:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address)</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's FIN number;</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's Long-Term Pass expiry date;</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's intended date of entry into Singapore;</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address)</li>
       </ol>      
     </td>
   </tr>
   <tr>
-  <td style="font-size:13px;"><b> Prospective RGL travellers should:</b>
+  <td style="font-size:16px;"><b> Prospective RGL travellers should:</b>
  <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
-      <li style="font-size:13px; margin-top:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
-      <li style="font-size:13px; margin-top:0px;"> Monitor their health status.</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Monitor their health status.</li>
       </ol>        
    </td>
   </tr>
@@ -51,13 +51,13 @@ Business or official travellers seeking to make essential travel via the RGL to 
   </tr>
   </thead>
   <tr>
-    <td rowspan="2" style="font-size:13px;"><b>Submission of application</b></td>
-    <td style="font-size:13px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>
+    <td rowspan="2" style="font-size:16px;"><b>Submission of application</b></td>
+    <td style="font-size:16px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>
     </td>
   </tr>
   <tr>
-  <td style="font-size:13px;"><b> Prospective RGL travellers from a visa-required country to apply through the usual channels for a visa to travel to Singapore. </b>
-    <p style=" font-size:13px; margin-top:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
+  <td style="font-size:16px;"><b> Prospective RGL travellers from a visa-required country to apply through the usual channels for a visa to travel to Singapore. </b>
+    <p style=" font-size:13px; margin-top:0px; margin-bottom:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
    </td>
   </tr>
 </tbody>
@@ -75,10 +75,10 @@ Business or official travellers seeking to make essential travel via the RGL to 
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:13px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
+    <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
+    <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
       </ol>      
       <table style="margin-top:0px;">
         <thead>
@@ -123,24 +123,24 @@ Business or official travellers seeking to make essential travel via the RGL to 
   </tr>
   </thead>
    <tr>
-    <td style="font-size:13px;"><b>Submission of declarations and payments</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers should:</b>
+    <td style="font-size:16px;"><b>Submission of declarations and payments</b></td>
+    <td style="font-size:16px;"><b>Approved RGL travellers should:</b>
    <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>;and</li>
-      <li style="font-size:13px; margin-top:0px;">Register and pre-pay for their post arrival COVID-19 PCR test <a href="https://www.safetravel.changiairport.com">here</a>. </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>;and</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Register and pre-pay for their post arrival COVID-19 PCR test <a href="https://www.safetravel.changiairport.com">here</a>. </li>
       </ol>        
     </td>
   </tr>
    <tr>
-    <td style="font-size:13px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore:</b>
+    <td style="font-size:16px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
+    <td style="font-size:16px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore:</b>
    <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
-      <li style="font-size:13px; margin-top:0px;">Valid visa to enter Singapore (for visa-required passport holders); </li>
-     <li style="font-size:13px; margin-top:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
-      <li style="font-size:13px; margin-top:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid visa to enter Singapore (for visa-required passport holders); </li>
+     <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
       </ol>
-     <b style="margin-top:0px;"> These documents will be presented to the airline for pre-boarding checks by an air traveller; immigration counter by a land traveller; and XXX by a sea traveller.</b>
+     <b style="margin-top:0px; margin-bottom:0px;"> These documents will be presented to the airline for pre-boarding checks by an air traveller; immigration counter by a land traveller; and XXX by a sea traveller.</b>
     </td>
   </tr>
 </tbody>
@@ -158,25 +158,25 @@ Business or official travellers seeking to make essential travel via the RGL to 
 </thead>
 <tbody>
   <tr>
-    <td  style="font-size:13px;"><b>Immigration clearance</b></td>
-    <td style="font-size:13px;"><b>An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel pass holder and be able to produce the following:</b>
+    <td  style="font-size:16px;"><b>Immigration clearance</b></td>
+    <td style="font-size:16px;"><b>An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel pass holder and be able to produce the following:</b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;">Valid SafeTravel Pass for the intended week of travel;</li>
-             <li style="font-size:13px; margin-top:0px;">Valid visa (for visa-required passport holders);</li>
-             <li style="font-size:13px; margin-top:0px;">Negative COVID-19 PCR test result; and</li>
-             <li style="font-size:13px; margin-top:0px;">A return air ticket.</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid SafeTravel Pass for the intended week of travel;</li>
+             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid visa (for visa-required passport holders);</li>
+             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Negative COVID-19 PCR test result; and</li>
+             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">A return air ticket.</li>
       </ol> 
-     <p style="font-size:13px; margin-top:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the airport/land or sea checkpoint. Travellers that have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
+     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the airport/land or sea checkpoint. Travellers that have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
       </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-size:13px;"><b>Post-Immigration clearance</b></td>
-    <td style="font-size:13px;"><b>A local host* is to: </b>
+    <td rowspan="2" style="font-size:16px;"><b>Post-Immigration clearance</b></td>
+    <td style="font-size:16px;"><b>A local host* is to: </b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;">Arrange for transport for the traveller to commute directly from the airport/land and sea checkpoint to the declared self-sourced accommodation; and</li>
-             <li style="font-size:13px; margin-top:0px;">Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Arrange for transport for the traveller to commute directly from the airport/land and sea checkpoint to the declared self-sourced accommodation; and</li>
+             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
       </ol> 
-     <p style="font-size:13px; margin-top:0px;"><i>[*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.]</i></p>
+     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.]</i></p>
       </td>
   </tr>
  <tr>
@@ -190,7 +190,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
   </tr>
   </thead>
    <tr>
-    <td style="font-size:13px;"><b>Self-isolation</b></td>
+    <td style="font-size:16px;"><b>Self-isolation</b></td>
     <td style="font-size:13px;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (approximately 48 hours).</b>
      <p style="font-size:13px; margin-top:0px;"><i>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </i> </p>
     </td>
@@ -202,11 +202,11 @@ Business or official travellers seeking to make essential travel via the RGL to 
   </tr>
   </thead>
    <tr>
-    <td style="font-size:13px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:13px;"><b>All approved RGL travellers must:</b>
+    <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:16px;"><b>All approved RGL travellers must:</b>
     <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px;">Adhere to the controlled itinerary for the duration of stay; and</li>
-             <li style="font-size:13px; margin-top:0px;">Commute using private hire cars/taxis or cohorted company transport (commuting via public transport is prohibited).</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Adhere to the controlled itinerary for the duration of stay; and</li>
+             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Commute using private hire cars/taxis or cohorted company transport (commuting via public transport is prohibited).</li>
       </ol> 
     </td>
  </tr>  
@@ -225,7 +225,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
 </thead>
 <tbody>
   <tr>
-    <td  style="font-size:13px;"><b>Retention of TraceTogether app</b></td>
+    <td  style="font-size:16px;"><b>Retention of TraceTogether app</b></td>
     <td style="font-size:13px;"><b>Approved RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.</b>
      <p style="font-size:13px; margin-top:0px;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore is required to upload all data in the TraceTogether app upon request by the Singapore Ministry of Health.</p>
       </td>
