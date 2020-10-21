@@ -116,7 +116,7 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   </thead>
    <tr>
-    <td rowspan="2" style="font-size:13px;"><b>Submission of declarations and payments</b></td>
+    <td style="font-size:13px;"><b>Submission of declarations and payments</b></td>
     <td style="font-size:13px;">Approved RGL travellers should:</b>
    <ol style="margin-top:0px;">
       <li style="font-size:13px; margin-top:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>; and </li>
@@ -124,11 +124,5 @@ third_nav_title: RGL Visitors to Singapore
       </ol>        
     </td>
   </tr>
-  <tr>
-  <td style="font-size:13px;"><b> Prospective RGL travellers from a visa-required country to apply through the usual channels for a visa to travel to Singapore. </b>
-    <p style=" font-size:13px; margin-top:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
-   </td>
-  </tr>
-  
 </tbody>
 </table>
