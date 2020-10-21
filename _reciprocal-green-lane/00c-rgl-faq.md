@@ -119,13 +119,7 @@ Travellers must remain in and have not travelled out of the country for at least
 
 |RGL Travellers From | List of Testing Facilities |
 |-----------------|--------------------|
-|Brunei Darussalam| Please refer to the list of authorised health centres designated by the Government of Brunei Darussalam:
-(i.)	Sports Complex Swab Centre RIPAS Hospital
-(ii.)	SARI Centre, Suri Seri Begawan Hospital
-(iii.)	Berakas Health Centre
-(iv.)	PAPHMWHB Gadong Health Centre
-(v.)	Pengkalan Batu Health Centre
-(vi.)	Seria Health Centre |
+|Brunei Darussalam | Please refer to the list of authorised health centres designated by the Government of Brunei Darussalam:<p> Sports Complex Swab Centre RIPAS Hospital <p> SARI Centre, Suri Seri Begawan Hospital <p> Berakas Health Centre <p> PAPHMWHB Gadong Health Centre <p> Pengkalan Batu Health Centre <p>Seria Health Centre |
 |China  | Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw.www.gov.cn/hsjcjgcx/index.html)|
 |Japan | Please refer to the list of medical institutions designated by the government of Japan [here](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1.pdf). **Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.** The certificate should be in English or accompanied by an English translation. |
 |Malaysia |Please refer to the list of accredited laboratories by the Ministry of Health Malaysia [here](http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf) and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia [here](http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19).  |
