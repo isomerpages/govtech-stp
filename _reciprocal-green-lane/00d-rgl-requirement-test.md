@@ -6,7 +6,7 @@ third_nav_title: RGL Visitors to Singapore
 
 ### 2. Preparation for entry into Singapore
 
-<table style="font-size:10px;">
+<table>
 <thead>
   <tr>
     <th colspan="2"><b>14 Calendar Days</b> before planned date of entry into Singapore</th>
