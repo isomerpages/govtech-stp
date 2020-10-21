@@ -6,17 +6,17 @@ third_nav_title: RGL Visitors to Singapore
 
 ### 2. Preparation for entry into Singapore
 
-<table>
+<table style="font-size:10px;">
 <thead>
   <tr>
-    <th colspan="2" style="font-size:20px;"><b>14 Calendar Days</b> before planned date of entry into Singapore</th>
+    <th colspan="2"><b>14 Calendar Days</b> before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:20px; vertical-align:center;"><b>Preparation of application</b></td>
+    <td rowspan="2" style="vertical-align:center;"><b>Preparation of application</b></td>
     <td style="font-size:20px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
       <p><ol>
       <li> Traveller's FIN number;</li>
@@ -29,7 +29,7 @@ third_nav_title: RGL Visitors to Singapore
     </td>
   </tr>
   <tr>
-  <td style="font-size:20px;"><b> Prospective RGL travellers should</b>
+  <td><b> Prospective RGL travellers should</b>
   <p> <ol>
       <li> Check on his/her visa status <a href="https://wwww.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
       <li> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
@@ -39,7 +39,7 @@ third_nav_title: RGL Visitors to Singapore
    </td>
   </tr>
   <tr>
-     <th colspan="2" style="font-size:20px; text-align:center;"><b>7 Calendar Days</b> before planned date of entry into Singapore
+     <th colspan="2"><b>7 Calendar Days</b> before planned date of entry into Singapore
        <p><i>[<b><u>Important:</u></b> Applications submitted less than seven calendar days from the planned date of entry into Singapore will not be accepted.]</i></p>
        </th>
   </tr>
