@@ -3,6 +3,7 @@ title: Requirements and Process
 permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
+**Notice for PCA travellers from Sabah:** *As there has been a recent increase in COVID-19 cases in Sabah, PCA travellers entering Singapore from 14 October 2020, 2359hrs, who have a travel history to Sabah in the past 14 days, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers from all other parts of Malaysia without such travel history will continue to serve a 7-day SHN as per the prevailing policy.* 
 
 ### **1. Eligibility**
 
@@ -51,6 +52,8 @@ Employees approved under the PCA can commute from Malaysia’s immigration check
 Employees without an entry approval under the PCA or other channels will be refused entry into Singapore.
 
 ### **5. SHN and PCR Test**
+
+
 
 **Transport to SHN Accomodation**
 
