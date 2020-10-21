@@ -18,7 +18,7 @@ third_nav_title: RGL Visitors to Singapore
   <tr>
     <td rowspan="2" style="font-size:13px;"><b>Preparation of application</b></td>
     <td style="font-size:13px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
-      <p><ol>
+      <p><ol style="margin-top:0px;">
       <li style="font-size:13px;"> Traveller's FIN number;</li>
       <li style="font-size:13px;"> Traveller's Long-Term Pass expiry date;</li>
       <li style="font-size:13px;"> Traveller's intended date of entry into Singapore;</li>
@@ -30,7 +30,7 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   <tr>
   <td style="font-size:13px;"><b> Prospective RGL travellers should</b>
-  <p> <ol>
+  <p> <ol style="margin-top:0px;">
       <li style="font-size:13px;"> Check on his/her visa status <a href="https://wwww.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
       <li style="font-size:13px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
       <li style="font-size:13px;"> Monitor their health status.</li>
@@ -41,7 +41,7 @@ third_nav_title: RGL Visitors to Singapore
   <thead>
   <tr>
      <th colspan="2" style="font-size:13px;"><b>7 Calendar Days</b> before planned date of entry into Singapore
-       <p style="font-size:13px;"><i>[<b><u>Important:</u></b> Applications submitted less than seven calendar days from the planned date of entry into Singapore will not be accepted.]</i></p>
+       <p style="font-size:13px; margin-top:0px;"><i>[<b><u>Important:</u></b> Applications submitted less than seven calendar days from the planned date of entry into Singapore will not be accepted.]</i></p>
        </th>
   </tr>
   </thead>
