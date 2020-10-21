@@ -53,6 +53,7 @@ third_nav_title: RGL Visitors to Singapore
     <p style=" font-size:13px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
    </td>
   </tr>
+  <tr></tr>
 </tbody>
 </table>
 
