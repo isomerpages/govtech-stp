@@ -53,10 +53,41 @@ third_nav_title: RGL Visitors to Singapore
     <p style=" font-size:13px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
    </td>
   </tr>
-  <tr></tr>
 </tbody>
 </table>
 
 ### 3. Pre-departure for Singapore
 
-
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b>3 Calendar Days</b> before planned date of entry into Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2" style="font-size:13px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
+    <td style="font-size:13px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
+      <ol style="margin-top:0px;">
+      <li style="font-size:13px; margin-top:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
+      </ol>      
+      <table>
+        <thead>
+         <tr>
+    <th style="font-size:16px;">Country</th>
+    <th style="font-size:16px;">Links</th>
+  </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td> Brunei Darussalam</td>
+            <td> xxx </td>
+          </tr>
+        </tbody>
+        </table>
+      </td>
+  </tr>
+</tbody>
+</table>
