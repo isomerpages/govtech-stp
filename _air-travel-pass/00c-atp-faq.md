@@ -13,7 +13,7 @@ An ATP allows visitors<sup>1</sup> travelling from ATP regions below to seek ent
 - New Zealand
 - Vietnam
 
-The ATP comes with conditions of travel that the applicant must comply with.
+The ATP comes with [conditions of travel](/atp/conditions) that the applicant must comply with.
 
 #### 2. How far in advance can visitors apply for an ATP?
 
