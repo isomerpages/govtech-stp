@@ -7,7 +7,7 @@ ICA-issued Long-Term Visit Pass holders and short-term visitors who belong to th
 
 - An immediate family member or relative of a Singapore Citizen or a Singapore Permanent Resident (PR);
 - A spouse-to-be of a Singapore Citizen or a Singapore PR;
-- A Signapore PR or ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities; or
+- A Singapore PR or ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities; or
 - A non-resident who has exceptional reasons for seeking entry to Singapore (e.g. death of a family member in Singapore).
 
 To apply for entry approval under this lane, please click the link [here](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c).
