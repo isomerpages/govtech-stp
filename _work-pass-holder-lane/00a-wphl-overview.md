@@ -15,4 +15,4 @@ For:
 
 ### Border and Health Requirements
 
-For Work Pass Holders entering Singapore, please ensure you take note of the border and health measures for entering Singapore found [here](health/overview).
+Please ensure you take note of the border and health measures for entering Singapore found [here](health/overview).
