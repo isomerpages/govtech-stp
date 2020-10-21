@@ -12,7 +12,7 @@ permalink: /stpl/overview
  
  : b. <span style="font-size:20px;"> STPs studying in the <b>Institute of Technical Education, Polytechnics, Autonomous Universities, Art Institutions, PEIs, and other schools/institutions</b> will need to submit their application to their respective institutions which will apply on their behalf to MOE. STP holders may approach their respective institutions for more information. </span>
 
-### Border and Health Requirements
+### **Border and Health Control Measures**
 
 Please ensure you take note of the border and health control measures for entering Singapore found [here](health/overview).
 
