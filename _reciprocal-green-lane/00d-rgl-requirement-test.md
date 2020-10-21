@@ -73,7 +73,7 @@ third_nav_title: RGL Visitors to Singapore
       <ol style="margin-top:0px;">
       <li style="font-size:13px; margin-top:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
       </ol>      
-      <table>
+      <table style="margin-top:0px;">
         <thead>
          <tr>
     <th style="font-size:13px;">Country</th>
