@@ -78,7 +78,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
     <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
+      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
       </ol>      
       <table style="margin-top:0px;">
         <thead>
@@ -160,7 +160,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
   <tr>
     <td  style="font-size:16px;"><b>Immigration clearance</b></td>
     <td style="font-size:16px;"><b>An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel pass holder and be able to produce the following:</b>
-      <ol style="margin-top:0px;">
+      <ol style="margin-top:0px; margin-bottom:0px;">
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid SafeTravel Pass for the intended week of travel;</li>
              <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid visa (for visa-required passport holders);</li>
              <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Negative COVID-19 PCR test result; and</li>
@@ -172,7 +172,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Post-Immigration clearance</b></td>
     <td style="font-size:16px;"><b>A local host* is to: </b>
-      <ol style="margin-top:0px;">
+      <ol style="margin-top:0px; margin-bottom:0px;">
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Arrange for transport for the traveller to commute directly from the airport/land and sea checkpoint to the declared self-sourced accommodation; and</li>
              <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
       </ol> 
