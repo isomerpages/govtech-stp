@@ -25,8 +25,8 @@ Business or official travellers seeking to make essential travel via the RGL to 
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Preparation of application</b></td>
     <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
-      <ol style="margin-top:0px; list-style-type: lower-alpha;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px; "> Traveller's FIN number;</li>
+      <ol style="margin-top:0px; ">
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px; list-style-type: lower-alpha; "> Traveller's FIN number;</li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's Long-Term Pass expiry date;</li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's intended date of entry into Singapore;</li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
