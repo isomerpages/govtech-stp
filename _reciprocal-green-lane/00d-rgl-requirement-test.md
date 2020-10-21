@@ -174,7 +174,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
     <td style="font-size:13px;"><b>A local host* is to: </b>
       <ol style="margin-top:0px;">
       <li style="font-size:13px; margin-top:0px;">Arrange for transport for the traveller to commute directly from the airport/land and sea checkpoint to the declared self-sourced accommodation; and</li>
-             <li style="font-size:13px; margin-top:0px;">•	Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
+             <li style="font-size:13px; margin-top:0px;">Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
       </ol> 
      <p style="font-size:13px; margin-top:0px;"><i>[*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.]</i></p>
       </td>
@@ -193,6 +193,21 @@ Business or official travellers seeking to make essential travel via the RGL to 
     <td style="font-size:13px;"><b>Self-isolation</b></td>
     <td style="font-size:13px;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (approximately 48 hours).</b>
      <p style="font-size:13px; margin-top:0px;"><i>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </i> </p>
+    </td>
+ </tr>  
+  <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Days 2 to 14</u></b> of entry into Singapore
+       </th>
+  </tr>
+  </thead>
+   <tr>
+    <td style="font-size:13px;"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:13px;"><b>All approved RGL travellers must:</b>
+    <ol style="margin-top:0px;">
+      <li style="font-size:13px; margin-top:0px;">Adhere to the controlled itinerary for the duration of stay; and</li>
+             <li style="font-size:13px; margin-top:0px;">Commute using private hire cars/taxis or cohorted company transport (commuting via public transport is prohibited).</li>
+      </ol> 
     </td>
  </tr>  
 </tbody>
