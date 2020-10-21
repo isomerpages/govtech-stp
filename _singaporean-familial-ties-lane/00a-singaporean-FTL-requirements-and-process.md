@@ -1,6 +1,6 @@
 ---
-title: Requirements & Process
-permalink: /scpr-familial-ties-lane/requirements-and-process
+title: Overview
+permalink: /scpr-familial-ties-lane/overview
 ---
 
 ### **Application**
