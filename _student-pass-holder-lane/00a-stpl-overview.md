@@ -14,4 +14,5 @@ permalink: /stpl/overview
 
 ### Border and Health Requirements
 
-Please ensure you take note of the border and health measures for entering Singapore found [here](health/overview).
+Please ensure you take note of the border and health control measures for entering Singapore found [here](health/overview).
+
