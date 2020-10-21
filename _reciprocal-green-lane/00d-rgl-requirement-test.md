@@ -6,11 +6,12 @@ third_nav_title: RGL Visitors to Singapore
 
 ### 1. Eligibility 
 
-Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored by either a Singapore-based company or a Singapore Government agency, 1 which will file an application on behalf of the traveller for a SafeTravel Pass. The traveller must be:
- - A resident holding a valid passport of any nationality in the country of departure with an RGL arrangement with Singapore;
- - Seeking to make a single-entry, short-term essential travel; and
- - Travelling for business and official purposes between Singapore and country of departure.
-
+<span class="font-size:16px;">Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored by either a Singapore-based company or a Singapore Government agency, 1 which will file an application on behalf of the traveller for a SafeTravel Pass. The traveller must be:</span>
+<ol style="list-style-type: disc;">
+ <li style="font-size:16px;>A resident holding a valid passport of any nationality in the country of departure with an RGL arrangement with Singapore;</li>
+            <li style="font-size:16px;>Seeking to make a single-entry, short-term essential travel; and</li>
+ <li style="font-size:16px;>Travelling for business and official purposes between Singapore and country of departure.</li>
+            </ol>
 ### 2. Preparation for entry into Singapore
 
 <table>
@@ -25,8 +26,8 @@ Business or official travellers seeking to make essential travel via the RGL to 
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Preparation of application</b></td>
     <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
-      <ol style="margin-top:0px; ">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px; list-style-type: lower-alpha; "> Traveller's FIN number;</li>
+      <ol style="margin-top:0px; list-style-type: lower-alpha;">
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "> Traveller's FIN number;</li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's Long-Term Pass expiry date;</li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's intended date of entry into Singapore;</li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
@@ -77,7 +78,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
     <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
-      <ol style="margin-top:0px;">
+      <ol style="margin-top:0px; list-style-type:square;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
       </ol>      
       <table style="margin-top:0px;">
