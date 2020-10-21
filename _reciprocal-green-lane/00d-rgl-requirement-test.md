@@ -9,7 +9,7 @@ third_nav_title: RGL Visitors to Singapore
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:13px;"><b>14 Calendar Days</b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b>14 Calendar Days</b> before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
@@ -38,7 +38,7 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   <thead>
   <tr>
-     <th colspan="2" style="font-size:13px;"><b>7 Calendar Days</b> before planned date of entry into Singapore
+     <th colspan="2" style="font-size:16px;"><b>7 Calendar Days</b> before planned date of entry into Singapore
        <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[<b><u>Important:</u></b> Applications submitted less than seven calendar days from the planned date of entry into Singapore will not be accepted.]</i></p>
        </th>
   </tr>
