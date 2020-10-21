@@ -4,6 +4,7 @@ permalink: /rgl/requirement-test
 third_nav_title: RGL Visitors to Singapore
 ---
 
+### 2. Preparation for entry into Singapore
 
 <table>
 <thead>
