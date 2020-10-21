@@ -19,20 +19,20 @@ third_nav_title: RGL Visitors to Singapore
     <td rowspan="2" style="font-size:13px;"><b>Preparation of application</b></td>
     <td style="font-size:13px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
       <ol style="margin-top:0px;">
-      <li style="font-size:13px;"> Traveller's FIN number;</li>
-      <li style="font-size:13px;"> Traveller's Long-Term Pass expiry date;</li>
-      <li style="font-size:13px;"> Traveller's intended date of entry into Singapore;</li>
-      <li style="font-size:13px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
-      <li style="font-size:13px;"> Details of contact person in company or agency (e.g. name, mobile number, email address)</li>
+      <li style="font-size:13px; margin-top:0px;"> Traveller's FIN number;</li>
+      <li style="font-size:13px; margin-top:0px;"> Traveller's Long-Term Pass expiry date;</li>
+      <li style="font-size:13px; margin-top:0px;"> Traveller's intended date of entry into Singapore;</li>
+      <li style="font-size:13px; margin-top:0px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
+      <li style="font-size:13px; margin-top:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address)</li>
       </ol>      
     </td>
   </tr>
   <tr>
   <td style="font-size:13px;"><b> Prospective RGL travellers should:</b>
  <ol style="margin-top:0px;">
-      <li style="font-size:13px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
-      <li style="font-size:13px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
-      <li style="font-size:13px;"> Monitor their health status.</li>
+      <li style="font-size:13px; margin-top:0px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
+      <li style="font-size:13px; margin-top:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
+      <li style="font-size:13px; margin-top:0px;"> Monitor their health status.</li>
       </ol>        
    </td>
   </tr>
@@ -55,3 +55,7 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
 </tbody>
 </table>
+
+### 3. Pre-departure for Singapore
+
+
