@@ -38,11 +38,13 @@ third_nav_title: RGL Visitors to Singapore
     </p>
    </td>
   </tr>
+  <thead>
   <tr>
      <th colspan="2"><b>7 Calendar Days</b> before planned date of entry into Singapore
        <p><i>[<b><u>Important:</u></b> Applications submitted less than seven calendar days from the planned date of entry into Singapore will not be accepted.]</i></p>
        </th>
   </tr>
+  </thead>
   <tr>
     <td></td>
     <td></td>
