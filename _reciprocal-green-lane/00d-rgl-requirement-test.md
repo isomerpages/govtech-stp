@@ -140,7 +140,7 @@ Business or official travellers seeking to make essential travel via the RGL to 
      <li style="font-size:13px; margin-top:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
       <li style="font-size:13px; margin-top:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
       </ol>
-     <b> These documents will be presented to the airline for pre-boarding checks by an air traveller; immigration counter by a land traveller; and XXX by a sea traveller.</b>
+     <b style="margin-top:0px;"> These documents will be presented to the airline for pre-boarding checks by an air traveller; immigration counter by a land traveller; and XXX by a sea traveller.</b>
     </td>
   </tr>
   
