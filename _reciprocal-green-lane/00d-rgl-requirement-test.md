@@ -29,7 +29,14 @@ third_nav_title: RGL Visitors to Singapore
     </td>
   </tr>
   <tr>
-    <td></td>
+  <td><b> Prospective RGL travellers should</b>
+  <p> <ol>
+      <li> Check on his/her visa status <a href="https://wwww.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
+      <li> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
+      <li> Monitor their health status.</li>
+      </ol>        
+    </p>
+   </td>
   </tr>
   <tr>
     <td></td>
