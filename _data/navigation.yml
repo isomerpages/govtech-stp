@@ -11,11 +11,11 @@ links:
         url: /stpl/overview
       - title: Singaporean Familial Ties Lane
         url: /scpr-familial-ties-lane/overview
-      - title: Reciprocal Green Lane (For Business/Official Short Term Travel)
+      - title: Reciprocal Green Lane (Business/Official Short Term Travel)
         url: /rgl/overview
-      - title: Air Travel Pass (For General Short Term Travel)
+      - title: Air Travel Pass (General Short Term Travel)
         url: /atp/requirements-and-process
-      - title: Periodic Commuting Arrangement (For Workers Commuting between Singapore and Malaysia) 
+      - title: Periodic Commuting Arrangement (Workers Commuting between Singapore and Malaysia) 
         url: /pca/overview
   - title: Border and Health Control Measures
     url: /health/overview
@@ -24,8 +24,6 @@ links:
         url: /health/before-arriving
       - title: Departing from Singapore
         url: /health/pre-departure-test
-      - title: COVID-19 Test Digital Certification
-        url: /health/pdt-digital-certification
   - title: Apply Now
     url: /apply-now
   - title: FAQ
