@@ -26,7 +26,6 @@ third_nav_title: RGL Visitors to Singapore
   <tr>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </tbody>
 </table>
