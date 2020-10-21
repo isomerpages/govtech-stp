@@ -12,6 +12,7 @@ third_nav_title: RGL Visitors to Singapore
             <li style="font-size:16px;>Seeking to make a single-entry, short-term essential travel; and</li>
  <li style="font-size:16px;>Travelling for business and official purposes between Singapore and country of departure.</li>
             </ol>
+            
 ### 2. Preparation for entry into Singapore
 
 <table>
