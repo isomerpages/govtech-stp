@@ -213,7 +213,25 @@ Business or official travellers seeking to make essential travel via the RGL to 
 </tbody>
 </table>
 
+### 5. Post-departure from Singapore
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Day 0 to 14</u></b> from departure from Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td  style="font-size:13px;"><b>Retention of TraceTogether app</b></td>
+    <td style="font-size:13px;"><b>Approved RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.</b>
+     <p style="font-size:13px; margin-top:0px;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore is required to upload all data in the TraceTogether app upon request by the Singapore Ministry of Health.</p>
+      </td>
+ </tr>
+</tbody>
+</table>
 
 
 
