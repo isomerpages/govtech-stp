@@ -14,7 +14,7 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
             </ol>
  <span class="font-size:16px;"><i>* Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Empployment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</i></span>
  
- ### 2. Preparation for entry into Singapore
+### 2. Preparation for entry into Singapore
 
 <table>
 <thead>
