@@ -61,30 +61,18 @@ third_nav_title: RGL Visitors to Singapore
      </ol>
     </td>
   </tr>
-  <tr>
-  <td style="font-size:16px;"><b> Prospective RGL travellers should:</b>
- <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Monitor their health status.</li>
-      </ol>        
-   </td>
-  </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>7 Calendar Days</u></b> before planned date of entry into Singapore
-       <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[<b><u>Important:</u></b> Applications submitted less than seven calendar days from the planned date of entry into Singapore will not be accepted.]</i></p>
-       </th>
+    <th colspan="2" style="font-size:16px;"><b><u>At least 7 days </u></b> before planned date of entry into Singapore</th>
   </tr>
   </thead>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submission of application</b></td>
-    <td style="font-size:16px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>
+    <td style="font-size:16px;"><b>Travellers to Submit Visa Application (if Required) </b></td>
+    <!--<td style="font-size:16px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>-->
     </td>
   </tr>
   <tr>
-  <td style="font-size:16px;"><b> Prospective RGL travellers from a visa-required country to apply through the usual channels for a visa to travel to Singapore. </b>
-    <p style=" font-size:13px; margin-top:0px; margin-bottom:0px;"><i>For more information on Singapore's visa requirements, please click <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here </a></i> </p>
+  <td style="font-size:16px;">Only after the SafeTravel Pass-RGL is approved and sent to the sponsor, prospective RGL travellers who are visa-required passport holders should apply through the usual channels for a visa to travel to Singapore. 
    </td>
   </tr>
 </tbody>
