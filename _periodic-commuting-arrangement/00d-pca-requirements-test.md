@@ -114,9 +114,13 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
   </thead>
       <tbody>
        <tr>
-    <td style="font-size:16px;">* Vehicle Entry Permit (VEP) fees will apply to a PCA-approved traveller/employee throughout his/her stay in Singapore, if he/she commutes with his/her personal vehicle. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> Travellers are encouraged to pay for their VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only) to avoid accumulating VEP fees. Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.</td>
+    <td rowspan="2" style="font-size:16px;">* Vehicle Entry Permit (VEP) fees will apply to a PCA-approved traveller/employee throughout his/her stay in Singapore, if he/she commutes with his/her personal vehicle. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> Travellers are encouraged to pay for their VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only) to avoid accumulating VEP fees. Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.</td>
+       </tr>
+       <tr>
         <td style="font-size:16px;">** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.</td>
-         <td style="font-size:16px;">*** Travellers are prohibited from flagging down a taxi.</td>
+       </tr>
+       <tr>
+           <td style="font-size:16px;">*** Travellers are prohibited from flagging down a taxi.</td>
        </tr>
        </tbody>
      </table>
