@@ -18,7 +18,7 @@ third_nav_title: Reciprocal Green Lane
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:60%;"></a></td>
-      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/rglsuppdocs"></a></td>
+      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/rglsuppdocs" style="width:60%;"></a></td>
     </tr>
      <thead>
     <tr>
