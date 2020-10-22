@@ -14,4 +14,4 @@ To apply for entry approval under this lane, please click the link [here](https:
 
 ### Border and Health Control Measures
 
-Please ensure you take note of the border and health control measures for entering Singapore found [here](health/overview).
+Please ensure you take note of the border and health control measures for entering Singapore found [here](/health/overview).
