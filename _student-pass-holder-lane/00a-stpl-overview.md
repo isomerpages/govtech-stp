@@ -13,5 +13,5 @@ b. STPs studying in the <b>Institute of Technical Education, Polytechnics, Auton
 
 ### **Border and Health Control Measures**
 
-Please ensure you take note of the border and health control measures for entering Singapore found [here](health/overview).
+Please ensure you take note of the border and health control measures for entering Singapore found [here](/health/overview).
 
