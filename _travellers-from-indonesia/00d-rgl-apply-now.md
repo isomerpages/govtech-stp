@@ -26,6 +26,12 @@ third_nav_title: Reciprocal Green Lane
    <!--  <th style="text-align:center;">Submission of Supporting Documents for SafeTravel Pass Application</th>-->
     </tr>
   </thead>
+     <thead>
+    <tr>
+      <th colspan="2" style="text-align:center;"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO"></a></th>
+   <!--  <th style="text-align:center;">Submission of Supporting Documents for SafeTravel Pass Application</th>-->
+    </tr>
+  </thead>
       <tr>
       <td colspan="2"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://go.gov.sg/indonrgl" title="https://eservices.ica.gov.sg/STO" style="width:60%;"></a></td>
     <!--  <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-rglsuppdocs.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/rglsuppdocs"></a></td>-->
