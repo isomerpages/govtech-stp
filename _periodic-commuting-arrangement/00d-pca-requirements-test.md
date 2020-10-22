@@ -33,18 +33,30 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Obtain from the employee, his/her acknowledgement of; and
         <ol style="margin-top:0px; list-style-type: lower-alpha;">
          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Posessing a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> The additional work pass conditions that he/she is subjected to under the PCA (click <b><u>here</u></b>); and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Consenting to the disclosure of his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider</li>
          </ol>   
        </li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's intended date of entry into Singapore;</li>
-      </ol>      
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Have on hand, the following details:
+        <ol style="margin-top:0px; list-style-type: lower-alpha;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Employee’s Long-Term Pass expiry date; </li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Address of employee’s accommodation to complete his/her Stay-Home Notice (SHN); * and </li>
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
+         </ol>   
+       </li>
+      </ol>   
+     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Cohorting/sharing (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> 
     </td>
   </tr>
   <tr>
-  <td style="font-size:16px;"><b> Prospective RGL travellers should:</b>
+  <td style="font-size:16px;"><b> Prospective PCA travellers must:</b>
  <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Check on his/her visa status <a href="https://www.eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Monitor their health status.</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Ensure that his/her Singapore-issued long-term pass is valid for at least 15 days from the planned date of entry into Singapore; </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">  Read the additional work pass conditions that he/she is subjected to under the PCA (click <b><u>here</u></b>); </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and </li>
+  <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Monitor their health status. </li>
       </ol>        
    </td>
   </tr>
