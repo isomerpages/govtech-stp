@@ -75,3 +75,25 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
   </tr>
 </tbody>
 </table>
+
+### 3. Pre-Departure for Singapore
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>7 Calendar Days</u></b> before planned date of entry into Singapore
+       <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[<b><u>Important:</u></b>  The Singapore Government reserves the right to refuse applications submitted less than seven calendar days from the planned date of entry into Singapore.]</i></p>
+       </th>
+  </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td rowspan="2" style="font-size:16px;"><b>Submission of application</b></td>
+    <td style="font-size:16px;"><b>Application sponsor to submit an application for PCA here <a href="/apply-now"> here</a></b>
+     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"> <i><b>Important:</b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.</i></p>
+    </td>
+  </tr>
+ </tbody>
+ </table>
+
+
