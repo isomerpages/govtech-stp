@@ -1,8 +1,4 @@
----
-title: Apply Now
-permalink: /australia/atp/apply-now
-third_nav_title: Air Travel Pass
----
+
 
 <table>
   <thead>
