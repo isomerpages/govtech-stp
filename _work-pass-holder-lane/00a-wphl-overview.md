@@ -15,4 +15,4 @@ For:
 
 ### Border and Health Control Measures
 
-Please ensure you take note of the border and health control measures for entering Singapore found [here](health/overview).
+Please ensure you take note of the border and health control measures for entering Singapore found [here](/health/overview).
