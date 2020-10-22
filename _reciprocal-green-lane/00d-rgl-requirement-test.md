@@ -96,6 +96,23 @@ third_nav_title: RGL Visitors to Singapore
     <td style="font-size:16px;"><b> Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b> Travellers can check <a href="/rgl/pre-departure-health-measures">here</a> for the overseas health centres.
       </td>
   </tr>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Up to 3 calendar days</u></b> before planned date of entry into Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+ <tr>
+    <td style="font-size:16px;"><b>Submission of Health Declarations and Payment for Arrival Swab </b></td>
+    <td style="font-size:16px;"><b> Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, they should: </b>
+      <ol style="margin-top:0px; list-style-type: lower-alpha;">
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.  </li>
+      </ol>          
+      </td>
+  </tr>
+ 
    <thead>
   <tr>
     <th colspan="2" style="font-size:16px;"><b><u>1 to 0 Calendar Days</u></b> before planned date of entry into Singapore
