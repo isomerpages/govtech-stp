@@ -112,35 +112,25 @@ third_nav_title: RGL Visitors to Singapore
       </ol>          
       </td>
   </tr>
- 
    <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>1 to 0 Calendar Days</u></b> before planned date of entry into Singapore
+    <th colspan="2" style="font-size:16px;"><b><u>Day of Departure</u></b> to Singapore 
        </th>
   </tr>
   </thead>
    <tr>
-    <td style="font-size:16px;"><b>Submission of declarations and payments</b></td>
-    <td style="font-size:16px;"><b>Approved RGL travellers should:</b>
-   <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://www.eservices.ica.gov.sg/sgarrivalcard">here</a>;and</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Register and pre-pay for their post arrival COVID-19 PCR test <a href="https://www.safetravel.changiairport.com">here</a>. </li>
-      </ol>        
-    </td>
-  </tr>
-   <tr>
     <td style="font-size:16px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
-    <td style="font-size:16px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore:</b>
+    <td style="font-size:16px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore: </b>
    <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid visa to enter Singapore (for visa-required passport holders); </li>
-     <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
-      </ol>
-     <b style="margin-top:0px; margin-bottom:0px;"> These documents will be presented to the airline for pre-boarding checks by an air traveller; immigration counter by a land traveller; and XXX by a sea traveller.</b>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore; </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid visa to enter Singapore (for visa-required passport holders);  </li>
+    <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and   </li>
+    <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
+      </ol>    
+    <p style="font-size:16px;"> Travellers who do not produce the above documents at preboarding checks may be refused boarding by the airline or transport company. </p>
     </td>
   </tr>
-</tbody>
+ </tbody>
 </table>
 
 ### 4. Arrival in Singapore
