@@ -15,6 +15,21 @@ third_nav_title: RGL Visitors to Singapore
  <li style="font-size:18px;">Travelling for business and official purposes between Singapore and country of departure.</li>
             </ol>
             
+<table>
+<thead>
+  <tr>
+    <th style="font-size:16px;">Brunei, China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), Germany, Japan, Malaysia, Republic of Korea</th>
+    <th>Indonesia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+   <td>Be a resident holding a valid passport of any nationality </td>
+   <td>Be a citizen of Indonesia </td>
+ </tr>
+ </tbody>
+ </table>
+            
 ### 2. Preparation for entry into Singapore
 
 <table>
