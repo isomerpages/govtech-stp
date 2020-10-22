@@ -8,37 +8,38 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 
 <span class="font-size:16px;">Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass on behalf of their employees using CorpPass if the employees fulfil the following criteria:</span>
 <ol style="list-style-type: disc;">
- <li style="font-size:18px;">Are a Malaysian Citizen or a Malaysia Permanent Resident;</li>
+ <li style="font-size:16px;">Are a Malaysian Citizen or a Malaysia Permanent Resident;</li>
             <li style="font-size:18px;">Hold a valid long-term passes* for business and work purposes in Singapore; and</li>
- <li style="font-size:18px;">Are willing to spend at least 90 days in Singapore for work upon entry.</li>
+ <li style="font-size:16px;">Are willing to spend at least 90 days in Singapore for work upon entry.</li>
             </ol>
- <span class="font-size:16px;"><i>* Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Empployment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</i></span>
+ <span class="font-size:13px;"><i>* Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Empployment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</i></span>
  
 ### 2. Preparation for entry into Singapore
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>14 Calendar Days</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b><u>At least 7 calendar days</u></b> before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Preparation of application</b></td>
-    <td style="font-size:16px;"><b>Singapore-based companies (i.e. application sponsors) must</b>
-      <ol style="margin-top:0px; ">
-       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "><b>Read and acknowledge the additional work pass conditions imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the employment of Foreign Manpower Act (EFMA);</b></li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Obtain from the employee, his/her acknowledgement of; and
-        <ol style="margin-top:0px; list-style-type: lower-alpha;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Posessing a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> The additional work pass conditions that he/she is subjected to under the PCA (click <b><u>here</u></b>); and</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Consenting to the disclosure of his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider</li>
+    <td rowspan="2" style="font-size:16px;"><b>Submit PCA application</b></td>
+    <td style="font-size:16px;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application <a href="/apply-now">here</a>.</b>[<b><u>Important:</u></b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.]
+     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;">Application sponsors should: </p> 
+  <ol style="margin-top:0px; list-style-type:lower-alpha;">
+       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "><b>Read and acknowledge the additional work pass conditions imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</b></li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Obtain his/her employees’ acknowledgement for the following; and
+        <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Possession of a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Additional work pass conditions that he/she is subjected to under the PCA (click <a href ="">here</a>); and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Consent given to disclose his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider.</li>
          </ol>   
        </li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Have on hand, the following details:
-        <ol style="margin-top:0px; list-style-type: lower-alpha;">
+        <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
           <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Employee’s Long-Term Pass expiry date; </li>
           <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
@@ -50,29 +51,6 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
      <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Cohorting/sharing (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> 
     </td>
   </tr>
-  <tr>
-  <td style="font-size:16px;"><b> Prospective PCA travellers must:</b>
- <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Ensure that his/her Singapore-issued long-term pass is valid for at least 15 days from the planned date of entry into Singapore; </li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">  Read the additional work pass conditions that he/she is subjected to under the PCA (click <b><u>here</u></b>); </li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Avoid any overseas travel 14 days prior to the expected date of arrival in Singapore; and </li>
-  <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Monitor their health status. </li>
-      </ol>        
-   </td>
-  </tr>
-  <thead>
-  <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>7 Calendar Days</u></b> before planned date of entry into Singapore
-       <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[<b><u>Important:</u></b>  The Singapore Government reserves the right to refuse applications submitted less than seven calendar days from the planned date of entry into Singapore.]</i></p>
-       </th>
-  </tr>
-  </thead>
-  <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submission of application</b></td>
-    <td style="font-size:16px;"><b>Application sponsor to submit an application for PCA here <a href="/apply-now"> here</a></b>
-     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"> <i><b>Important:</b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.</i></p>
-    </td>
-  </tr>
 </tbody>
 </table>
 
@@ -81,18 +59,27 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>7 Calendar Days</u></b> before planned date of entry into Singapore
-       <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[<b><u>Important:</u></b>  The Singapore Government reserves the right to refuse applications submitted less than seven calendar days from the planned date of entry into Singapore.]</i></p>
-       </th>
+    <th colspan="2" style="font-size:16px;"><b><u>1 calendar day</u></b> before planned date of entry into Singapore</th>
   </tr>
   </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submission of application</b></td>
-    <td style="font-size:16px;"><b>Application sponsor to submit an application for PCA here <a href="/apply-now"> here</a></b>
-     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"> <i><b>Important:</b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.</i></p>
+    <td rowspan="2" style="font-size:16px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications</b></td>
+    <td style="font-size:16px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b>
+        <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Install and activate the TraceTogether, Homer and WhatsApp mobile applications on their mobile phone. </li>
+         </ol>   
     </td>
   </tr>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Day of Departure</u></b> to Singapore</th>
+  </tr>
+   <tr>
+    <td style="font-size:16px;"><b>Pre-departure clearance</b></td>
+  </tr>
+  </thead>
  </tbody>
  </table>
 
