@@ -134,7 +134,7 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Up to 3 days after arriving</u></b>in Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b><u>Up to 3 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
