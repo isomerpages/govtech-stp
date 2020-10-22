@@ -69,4 +69,5 @@ For more information on the Terms and Conditions of the SafeTravel Pass, please 
 -----
 
 <sup>1</sup>The term “Sponsor” refers to the company or government agency making the application on behalf of the traveller. 
+
 <sup>2</sup>The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.  
