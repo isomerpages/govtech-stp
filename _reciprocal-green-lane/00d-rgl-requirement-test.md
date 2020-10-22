@@ -8,11 +8,11 @@ third_nav_title: RGL Visitors to Singapore
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored by either a Singapore-based company or a Singapore Government agency, <sup>1</sup>which will file an application on behalf of the traveller for a SafeTravel Pass. The traveller must be:</span>
+<span class="font-size:16px;">Business or official travellers seeking to make essential travel via the RGL to Singapore must be sponsored by either a Singapore-based company or a Singapore Government agency, which will file an application on behalf of the traveller for a SafeTravel Pass. The traveller must:</span>
 <ol style="list-style-type: disc;">
- <li style="font-size:18px;">A resident holding a valid passport of any nationality in the country of departure with an RGL arrangement with Singapore;</li>
-            <li style="font-size:18px;">Seeking to make a single-entry, short-term essential travel; and</li>
- <li style="font-size:18px;">Travelling for business and official purposes between Singapore and country of departure.</li>
+ <li style="font-size:18px;">Be seeking to make a single-entry, short-term essential travel; </li>
+            <li style="font-size:18px;">Be travelling for business and official purposes between Singapore and country/region of departure; and</li>
+ <li style="font-size:18px;">Fulfil the RGL residency/passport requirements depending on the country/region of departure: </li>
             </ol>
             
 <table>
@@ -30,27 +30,34 @@ third_nav_title: RGL Visitors to Singapore
  </tbody>
  </table>
             
-### 2. Preparation for entry into Singapore
+### 2. Submit Approvals for Entry into Singapore
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>14 Calendar Days</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b><u>At least 14 calendar day</u></b> before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Preparation of application</b></td>
-    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) should have on hand, the following details:</b>
-      <ol style="margin-top:0px; list-style-type: lower-alpha;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "> Traveller's FIN number;</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's Long-Term Pass expiry date;</li>
+    <td rowspan="2" style="font-size:16px;"><b>Submit RGL application </b></td>
+    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) to submit an RGL application <a href="">here</a>.</b> Applications for travel are open between 2-5 weeks before the intended date of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b> Applications submitted less than 7 days from the intended date of entry will not be processed. </b>
+     <p style="font-size:16px; margin-top:0px; margin-bottom:opx;">  Application sponsors should: </p>
+      <ol style="margin-top:0px;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "> Have on hand the following details as part of the submission: 
+        <ol style="margin-top:0px; list-style-type: lower-alpha;">
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "> Traveller’s passport details, FIN number (if applicable) and Long Term Pass expiry date (if applicable); </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller’s intended date of entry into Singapore; </li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Traveller's intended date of entry into Singapore;</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Address of Traveller's accommodation to complete on-arrival isolation (approximately 48 hours); and</li>
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address)</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Address of Traveller’s accommodation to complete on-arrival isolation (approximately 48 hours); </li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address); and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Details of 14-day itinerary in Singapore.* </li>
       </ol>      
+       </li>
+     </ol>
+    <p style="font-size:16px; margin-top:0px; margin-bottom:opx;"> * RGL travellers from Indonesia are required to submit their 10-day itinerary. </p>     
     </td>
   </tr>
   <tr>
