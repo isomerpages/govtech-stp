@@ -4,7 +4,7 @@ permalink: /rgl/requirement-test
 third_nav_title: RGL Visitors to Singapore
 ---
 
-- [Question Link test](/rgl/faq/#application)
+<!--- [Question Link test](/rgl/faq/#application)-->
 
 ### 1. Eligibility 
 
