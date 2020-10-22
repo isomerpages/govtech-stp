@@ -1,6 +1,6 @@
 ---
 title: Table Test
-permalink: /pca/requirement-test
+permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
 
