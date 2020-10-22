@@ -125,7 +125,52 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
        </tbody>
      </table>
          </td>
-  </tr>
+ </tr>
   </tbody>
  </table>
-
+ 
+ ### 5. Post-Arrival
+ 
+ <table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Up to 3 days after arriving</u></b>in Singapore</th>
+  </tr>
+  </thead>
+<tbody>
+ <tr>
+    <td style="font-size:16px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:16px;"><b>Application sponsors must:</b>
+        <ol style="margin-top:0px; list-style-type: lower-roman;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment is sent to the application sponsor via email and SMS;</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Ensure that their employees show up for their test appointment; and</li>
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Ensure that their employees return to their SHN accommodation immediately after their test, where they will remain until the end of the 7-day SHN or when a negative COVID-19 test is conveyed, whichever later.</li>
+         </ol>   
+    </td>
+  </tr>
+ <tr>
+    <td style="font-size:16px;"><b>Self-isolation</b></td>
+    <td style="font-size:16px;"><b>Approved PCA travellers must remain in their declared SHN accommodation for the duration of their SHN, except if they are:</b>
+        <ol style="margin-top:0px; list-style-type: lower-roman;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore, whichever later.</li>
+         <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </p>
+         </ol>   
+    </td>
+  </tr>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>After completion of isolation or receipt of negative COVID-19 PCR test, whichever later</u></b></th>
+  </tr>
+  </thead> 
+  <tr>
+    <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:16px;"><b>All approved PCA travellers must:</b>
+        <ol style="margin-top:0px; list-style-type: lower-roman;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications.</li>
+         </ol>   
+    </td>
+ </tr>
+ </tbody>
+ </table>
