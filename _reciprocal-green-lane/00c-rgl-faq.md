@@ -17,6 +17,8 @@ The following FAQs apply to persons resident in the following counterpart countr
 
 As the specific requirements may change over time, RGL travelers returning to their country/region of depauture should verify the latest requirements with the respective country/region’s government.
 
+<div id="application"></div>
+
 ### Application Requirements
 
 #### 1.	What is the SafeTravel Pass under the RGL arrangement for travel to Singapore?
