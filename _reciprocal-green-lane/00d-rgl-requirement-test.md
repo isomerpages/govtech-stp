@@ -67,13 +67,10 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   </thead>
   <tr>
-    <td style="font-size:16px;"><b>Travellers to Submit Visa Application (if Required) </b></td>
+    <td style="font-size:16px;"><b>Travellers to Submit Visa Application (if Required) </b>
     <!--<td style="font-size:16px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>-->
     </td>
-  </tr>
-  <tr>
-  <td style="font-size:16px;">Only after the SafeTravel Pass-RGL is approved and sent to the sponsor, prospective RGL travellers who are visa-required passport holders should apply through the usual channels for a visa to travel to Singapore. 
-   </td>
+    <td style="font-size:16px;">Only after the SafeTravel Pass-RGL is approved and sent to the sponsor, prospective RGL travellers who are visa-required passport holders should apply through the usual channels for a visa to travel to Singapore. </td>
   </tr>
 </tbody>
 </table>
