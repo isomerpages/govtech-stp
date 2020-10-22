@@ -59,6 +59,8 @@ collections:
     output: true
   singaporean-familial-ties-lane:
     output: true
+    travellers-from-indonesia:
+    output: true
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
