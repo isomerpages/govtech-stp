@@ -161,13 +161,29 @@ third_nav_title: RGL Visitors to Singapore
     <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation. Use of public transport is not allowed. 
       </td>
   </tr>
-     <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Days 0 to 2</u></b> of planned entry into Singapore
+    <td  style="font-size:16px;"><b>TraceTogether App/Token </b></td>
+    <td style="font-size:16px;">The local host* is required to: 
+      <ol style="margin-top:0px; margin-bottom:0px;">
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Ensure that the approved RGL traveller uses the TraceTogether app or device throughout their stay in Singapore; and </li>
+             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
+      </ol>     
+      </td>
+  </tr>
+ </tbody>
+</table>
+
+### 5. Post-Arrival
+
+ <table>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Up to 2 days after arriving</u></b> in Singapore 
        </th>
   </tr>
   </thead>
-   <tr>
+<tbody>
+<tr>
     <td style="font-size:16px;"><b>Self-isolation</b></td>
     <td style="font-size:13px;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (approximately 48 hours).</b>
      <p style="font-size:13px; margin-top:0px;"><i>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </i> </p>
@@ -175,7 +191,7 @@ third_nav_title: RGL Visitors to Singapore
  </tr>  
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Days 2 to 14</u></b> of entry into Singapore
+    <th colspan="2" style="font-size:16px;"><b><u>After completion of isolation </u></b>
        </th>
   </tr>
   </thead>
@@ -183,7 +199,7 @@ third_nav_title: RGL Visitors to Singapore
     <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:16px;"><b>All approved RGL travellers must:</b>
     <ol style="margin-top:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Adhere to the controlled itinerary for the duration of stay; and</li>
+      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Adhere to the submitted itinerary for the duration of stay; and</li>
              <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Commute using private hire cars/taxis or cohorted company transport (commuting via public transport is prohibited).</li>
       </ol> 
     </td>
@@ -191,12 +207,12 @@ third_nav_title: RGL Visitors to Singapore
 </tbody>
 </table>
 
-### 5. Post-departure from Singapore
+### 6. Departure from Singapore
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day 0 to 14</u></b> from departure from Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b><u>Up to 14 days after departure </u></b> from Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
@@ -204,8 +220,9 @@ third_nav_title: RGL Visitors to Singapore
 <tbody>
   <tr>
     <td  style="font-size:16px;"><b>Retention of TraceTogether app</b></td>
-    <td style="font-size:13px;"><b>Approved RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.</b>
-     <p style="font-size:13px; margin-top:0px;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore is required to upload all data in the TraceTogether app upon request by the Singapore Ministry of Health.</p>
+    <td style="font-size:13px;"><b>RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore. </b> Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore is required to upload all data in the TraceTogether app upon request by the Singapore Ministry of Health.       
+     <p style="font-size:13px; margin-top:0px;"><b>Travellers who used TraceTogether tokens</b> and returned them to the host on departure are required to inform the Singapore host if they subsequently test positive for COVID-19. The host is subsequently required to upload the TraceTogether data to MOH in order to facilitate contact tracing. 
+ </p>
       </td>
  </tr>
 </tbody>
