@@ -70,7 +70,7 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submission of application</b></td>
     <td style="font-size:16px;"><b>Application sponsor to submit an application for PCA here <a href="/apply-now"> here</a></b>
-     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"> <i><b>Important:</b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.</i></p>
+     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"> <i><b>Important:</b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.</i></p>
     </td>
   </tr>
 </tbody>
