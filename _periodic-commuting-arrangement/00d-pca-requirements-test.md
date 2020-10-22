@@ -28,7 +28,7 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Preparation of application</b></td>
     <td style="font-size:16px;"><b>Singapore-based companies (i.e. application sponsors) must</b>
-      <ol style="margin-top:0px; list-style-type: lower-alpha;">
+      <ol style="margin-top:0px; ">
        <li style="font-size:13px; margin-top:0px; margin-bottom:0px;  "><b>Read and acknowledge the additional work pass conditions imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the employment of Foreign Manpower Act (EFMA);</b></li>
       <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Obtain from the employee, his/her acknowledgement of; and
         <ol style="margin-top:0px; list-style-type: lower-alpha;">
