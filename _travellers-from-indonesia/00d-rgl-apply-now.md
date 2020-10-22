@@ -14,11 +14,11 @@ third_nav_title: Reciprocal Green Lane
   <tbody>
     <tr>
       <td style="text-align:center;"><a href="https://go.gov.sg/indonrgl">https://go.gov.sg/indonrgl</a></td>
-      <td width="50%"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>
+      <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>
     </tr>
     <tr>
-      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://go.gov.sg/indonrgl" title="https://eservices.ica.gov.sg/STO" style="width:60%;"></a></td>
-      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-rglsuppdocs.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/rglsuppdocs"></a></td>
+      <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a></td>
+      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
     </tr>
      <thead>
     <tr>
@@ -33,7 +33,7 @@ third_nav_title: Reciprocal Green Lane
     </tr>
   </thead>
       <tr>
-      <td colspan="2"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://go.gov.sg/indonrgl" title="https://eservices.ica.gov.sg/STO" style="width:60%;"></a></td>
+      <td colspan="2"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:40%;"></a></td>
     <!--  <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-rglsuppdocs.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/rglsuppdocs"></a></td>-->
     </tr>
     <tr>
