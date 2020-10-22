@@ -76,12 +76,17 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
   <tr>
     <th colspan="2" style="font-size:16px;"><b><u>Day of Departure</u></b> to Singapore</th>
   </tr>
+   </thead>
    <tr>
     <td style="font-size:16px;"><b>Pre-departure clearance</b></td>
-     <td style="font-size:16px;">Approved PCA travellers must be able to produce the following documents when leaving Malaysia for Singapore:</td>
+     <td style="font-size:16px;">Approved PCA travellers must be able to produce the following documents when leaving Malaysia for Singapore:
+    <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
+         </ol>      
+    </td>
   </tr>
-  </thead>
- </tbody>
+  </tbody>
  </table>
 
 
