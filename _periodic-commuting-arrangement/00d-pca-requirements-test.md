@@ -64,7 +64,7 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
   </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications</b></td>
+    <td style="font-size:16px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications</b></td>
     <td style="font-size:16px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and</li>
