@@ -7,7 +7,7 @@ third_nav_title: Reciprocal Green Lane
 <table>
   <thead>
     <tr>
-      <th  style="text-align:center;">Apply for SafeTravel Pass and Submit Supporting Documents</th>
+      <th  style="text-align:center;">Apply SafeTravel Pass here for travellers entering Singapore from 02-08 November 2020 </th>
      <th style="text-align:center;">Submission of Supporting Documents for SafeTravel Pass Application</th>
     </tr>
   </thead>
@@ -22,7 +22,7 @@ third_nav_title: Reciprocal Green Lane
     </tr>
      <thead>
     <tr>
-      <th colspan="2" style="text-align:center;">Apply for SafeTravel Pass and Submit Supporting Documents</th>
+      <th colspan="2" style="text-align:center;">Apply for SafeTravel Pass here for travellers entering Singapore after 09 Nov 2020</th>
    <!--  <th style="text-align:center;">Submission of Supporting Documents for SafeTravel Pass Application</th>-->
     </tr>
   </thead>
