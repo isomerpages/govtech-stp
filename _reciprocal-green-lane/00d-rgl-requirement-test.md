@@ -138,7 +138,7 @@ third_nav_title: RGL Visitors to Singapore
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day 0</u></b> of planned entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b><u>Day of entry</u></b> into Singapore </th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
@@ -157,20 +157,11 @@ third_nav_title: RGL Visitors to Singapore
       </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Post-Immigration clearance</b></td>
-    <td style="font-size:16px;"><b>A local host* is to: </b>
-      <ol style="margin-top:0px; margin-bottom:0px;">
-      <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Arrange for transport for the traveller to commute directly from the airport/land and sea checkpoint to the declared self-sourced accommodation; and</li>
-             <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Provide a TraceTogether token to the traveller if the latter does not have a TraceTogether-compatible device.</li>
-      </ol> 
-     <p style="font-size:13px; margin-top:0px; margin-bottom:0px;"><i>[*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.]</i></p>
+    <td  style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation. Use of public transport is not allowed. 
       </td>
   </tr>
- <tr>
-    <td style="font-size:13px;"><b>An approved RGL traveller must download and use the TraceTogether app throughout their stay in Singapore.</b>
-      </td>
-  </tr>
-    <thead>
+     <thead>
   <tr>
     <th colspan="2" style="font-size:16px;"><b><u>Days 0 to 2</u></b> of planned entry into Singapore
        </th>
