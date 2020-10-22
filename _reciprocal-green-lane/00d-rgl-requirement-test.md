@@ -92,45 +92,8 @@ third_nav_title: RGL Visitors to Singapore
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
-    <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b>
-      <ol style="margin-top:0px; list-style-type:square;">
-      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Travellers can access the links below for more information on the list of desingated overseas health centres:</li>
-      </ol>      
-      <table style="margin-top:0px;">
-        <thead>
-         <tr>
-    <th style="font-size:13px;">Country</th>
-    <th style="font-size:13px;">Links</th>
-  </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td> Brunei Darussalam</td>
-            <td> xxx </td>
-          </tr>
-                    <tr>
-            <td> Germany</td>
-            <td> xxx </td>
-          </tr>
-                    <tr>
-            <td> Indonesia</td>
-            <td> xxx </td>
-          </tr>
-                    <tr>
-            <td> Japan</td>
-            <td> xxx </td>
-          </tr>
-                    <tr>
-            <td> Malaysia</td>
-            <td> xxx </td>
-          </tr>
-                    <tr>
-            <td>Republic of Korea</td>
-            <td> xxx </td>
-          </tr>
-        </tbody>
-        </table>
+    <td style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction(PCR) Test</b></td>
+    <td style="font-size:16px;"><b> Approved RGL travellers must take a COVID-19 PCR test within 72 hours from the planned date of entry into Singapore, at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.</b> Travellers can check <a href="/rgl/pre-departure-health-measures">here</a> for the overseas health centres.
       </td>
   </tr>
    <thead>
