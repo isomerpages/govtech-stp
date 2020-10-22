@@ -1,6 +1,6 @@
 ---
-title: Test table
-permalink: /rgl/requirement-test
+title: Requirements and Process
+permalink: /rgl/requirements-and-process
 third_nav_title: RGL Visitors to Singapore
 ---
 
