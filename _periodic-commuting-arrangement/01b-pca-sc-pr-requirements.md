@@ -77,3 +77,42 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
    </tbody>
   </table>
   
+  ### 4. Arrival in Singapore
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Day of entry</u></b>into Singapore</th>
+  </tr>
+  </thead>
+<tbody>
+   <tr>
+    <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td style="font-size:16px;"><b>Immediately after clearing the checkpoint, approved PCA travellers must make their way directly to their SHN accommodation.</b>
+     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their Stay-Home Notice (SHN) accommodation in Singapore. However, they are permitted to commute via:</p>
+        <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Personal transport (e.g. motorbikes),* private buses ferrying only Malaysian passengers serving SHN**; or</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars.***</li>
+         </ol> 
+     <table>
+      <thead>
+  <tr>
+    <th style="font-size:16px;">Important</th>
+  </tr>
+  </thead>
+      <tbody>
+       <tr>
+    <td style="font-size:16px;">* Vehicle Entry Permit (VEP) fees will apply to a PCA-approved traveller/employee throughout his/her stay in Singapore, if he/she commutes with his/her personal vehicle. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> Travellers are encouraged to pay for their VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only) to avoid accumulating VEP fees. Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.</td>
+       </tr>
+       <tr>
+        <td style="font-size:16px;">** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.</td>
+       </tr>
+       <tr>
+           <td style="font-size:16px;">*** Travellers are prohibited from flagging down a taxi.</td>
+       </tr>
+       </tbody>
+     </table>
+         </td>
+ </tr>
+  </tbody>
+ </table>
