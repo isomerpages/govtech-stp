@@ -77,7 +77,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
    </tbody>
   </table>
   
-  ### 4. Arrival in Singapore
+### 4. Arrival in Singapore
 
 <table>
 <thead>
