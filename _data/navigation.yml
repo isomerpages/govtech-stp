@@ -5,11 +5,11 @@ links:
     sublinks:
       - title: Returning Singapore Citizen/PR
         url: /SC-PR/info
-      - title: Work Pass Holder Lane
+      - title: Work Pass Holder General Lane
         url: /wphl/overview
       - title: Student's Pass Holder Lane
         url: /stpl/overview
-      - title: Singaporean Familial Ties Lane
+      - title: Singapore Citizen/Permanent Resident Familial Ties Lane
         url: /scpr-familial-ties-lane/overview
       - title: Reciprocal Green Lane (Business/Official Short Term Travel)
         url: /rgl/overview
@@ -28,7 +28,4 @@ links:
     url: /apply-now
   - title: FAQ
     url: /FAQ
-  - title: ICA Website
-    url: https://www.ica.gov.sg/
-    external: true
 
