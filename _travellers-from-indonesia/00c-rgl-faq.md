@@ -7,7 +7,7 @@ third_nav_title: Reciprocal Green Lane
 <div id="faq-top"></div>
 
 - [Application Process for Residents in Indonesia](#faq-residents-indonesia)
-- [Application Process for Residents in Singapore](#faq-residents-singapore)
+- [Application Process for Travellers from Singapore](#faq-residents-singapore)
 
 <div id="faq-residents-indonesia"></div>
 
@@ -187,7 +187,7 @@ If a RGL returnee subsequently tests positive for COVID-19 within 14 days after 
  
 <div id="faq-residents-singapore"></div>
 
-## **Application Process for Residents in Indonesia**
+## **Application Process for Travellers from Singapore**
 
 ### **Application**
  
