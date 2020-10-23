@@ -116,3 +116,10 @@ third_nav_title: Reciprocal Green Lane
 8. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation. 
 
 9. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health. 
+
+-----
+
+<sup>1</sup> The Green Lane/Travel Corridor Arrangement to/from Indonesia is currently only limited to entry/exit through Batam Center Ferry Terminal or Soekarno-Hatta International Airport. 
+
+<sup>2</sup> The Terms and Conditions in this document are specific to the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel Between Singapore and Indonesia. Green Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions. 
+
