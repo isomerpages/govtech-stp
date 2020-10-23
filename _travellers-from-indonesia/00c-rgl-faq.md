@@ -226,7 +226,7 @@ RGL travellers are allowed to travel to other provinces in Indonesia after arriv
 
 The traveller may contact his/her Indonesian sponsor to make the necessary arrangements in Indonesia. 
 
-### **Testing Arrangements **
+### **Testing Arrangements**
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance? 
 
@@ -276,7 +276,7 @@ The traveller should abide by the prevailing public health regulations required 
  
 The traveller should verify the latest requirements of the Indonesian authorities with his/her Indonesian sponsor. 
 
-### **Returning to Singapore ** 
+### **Returning to Singapore** 
 
 #### 15. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
@@ -369,7 +369,7 @@ Please bring the following:
 2. E-visa confirming that you have been granted approval by the relevant authorities in Indonesia to travel to Indonesia under the Singapore-Indonesia RGL. 
 3. Softcopy booking reference showing your departure flight timing. 
 
-### **Testing **
+### **Testing**
 
 #### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
 
@@ -381,7 +381,7 @@ Please make arrangements early for your test slot so that you can qualify for th
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement. 
 
-### **Test Results **
+### **Test Results**
 
 #### 9. When can I expect to get my PCR test results? 
 
