@@ -53,7 +53,7 @@ When a company applies for the SafeTravel Pass on behalf of the traveller, it is
  
 The host company should also ensure that the traveller abides by the terms and conditions of the Singapore-Indonesia RGL, and the prevailing health measures during his/her stay in Singapore. Authorities may ask for proof of adherence to the controlled itinerary, including physical verification or SafeEntry Pass records (e.g. screenshots), and other terms and conditions when the traveller is in Singapore.  
  
-You can access the terms and conditions of the Singapore-Indonesia RGL at: <https://safetravel.ica.gov.sg/indonesia/rgl/terms-and-conditions>. Action will be taken against the traveller and the host company in the event of non-compliance. 
+You can access the terms and conditions of the Singapore-Indonesia RGL [here](https://safetravel.ica.gov.sg/indonesia/rgl/terms-and-conditions). Action will be taken against the traveller and the host company in the event of non-compliance. 
 
 #### 6. Can tourists apply for SafeTravel Passes? 
 
@@ -62,4 +62,30 @@ SafeTravel Passes are only issued to travellers making short-term essential busi
 #### 7. Can my SafeTravel Pass be transferred to my family member, friend, colleague or business partner? 
 
 SafeTravel Passes are not transferable to others.
+
+#### 8. Do I need to pay to apply for a SafeTravel Pass? 
+
+No payment is required. 
+
+#### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass? 
+
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application. 
+ 
+If the traveller’s SafeTravel Pass has expired, he/she should submit a new application. One traveller can only hold one valid SafeTravel Pass for a single entry into Singapore at any one point in time. Please refrain from submitting multiple SafeTravel Pass applications or submitting new applications when you already have a valid SafeTravel Pass on hand. Duplicate applications will be rejected. 
+
+#### 10.  What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
+
+The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance will result in enforcement action taken against the traveller, including not being able to apply for travel under the RGL again.   
+
+#### 11. What is the duration of stay that I will be eligible for in Singapore? 
+
+A traveller using the RGL scheme may stay for up to 10 days in Singapore. 
+
+
+
+
+
+
+
+
 
