@@ -82,7 +82,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day of entry</u></b>into Singapore</th>
+    <th colspan="2" style="font-size:16px;"><b><u>Day of entry</u></b> into Singapore</th>
   </tr>
   </thead>
 <tbody>
@@ -116,3 +116,34 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
  </tr>
   </tbody>
  </table>
+
+### 5. Post-Arrival
+ 
+ <table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Up to 2 days after arriving</u></b> in Singapore</th>
+  </tr>
+  </thead>
+<tbody>
+ <tr>
+    <td style="font-size:16px;"><b>Self-isolation</b></td>
+    <td style="font-size:16px;"><b>All approved travellers must remain in self-isolation until a negative COVID-19 PCR test result is conveyed.</b>
+    </td>
+  </tr>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>After receipt of negative COVID-19 PCR test</u></b></th>
+  </tr>
+  </thead>
+<tbody>
+ <tr>
+    <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:16px;"><b>All travellers must</b> abide by prevailing local public health requirements and safe distancing measures.
+     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">If the traveller tests positive for COVID-19, he/she will be given medical treatment accordingly. Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. They should furnish the relevant supporting documents to indicate their status as a PCA traveller. Click <a href="">here</a> for more details. </p>
+    </td>
+  </tr>
+ </tbody>
+ </table>
+
+
