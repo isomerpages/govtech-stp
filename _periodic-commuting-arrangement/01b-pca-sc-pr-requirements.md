@@ -60,7 +60,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 <tbody>
    <tr>
     <td style="font-size:16px;"><b>Pre-departure payment for post-arrival COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;"><b>Successful travellers (i.e. those waived of their SHN) should make an online payment for the swab-on-arrival COVID-19 Polymerase Chain Reaction (PCR) test <a href="">here.</a></b>
+    <td style="font-size:16px;">Successful travellers (i.e. those waived of their SHN) should </b>make an online payment for the swab-on-arrival COVID-19 Polymerase Chain Reaction (PCR) test <a href="">here.</a></b>
     </td>
   </tr>
  <thead>
@@ -71,7 +71,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 <tbody>
    <tr>
     <td style="font-size:16px;"><b>Pre-departure clearance</b></td>
-    <td style="font-size:16px;"><b>Approved PCA travellers should travel to Singapore on the date, time and land checkpoint selected during the application.</a></b>
+    <td style="font-size:16px;">Approved PCA travellers should travel to Singapore on the date, time and land checkpoint selected during the application.</a>
     </td>
   </tr>
    </tbody>
