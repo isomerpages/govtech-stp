@@ -5,7 +5,7 @@ third_nav_title: Arriving in Singapore
 ---
 All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test. 
 
-A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary-161020.pdf). 
+A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary.pdf). 
 
 However,as Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
 
