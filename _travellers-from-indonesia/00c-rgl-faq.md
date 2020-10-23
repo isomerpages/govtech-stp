@@ -226,7 +226,7 @@ RGL travellers are allowed to travel to other provinces in Indonesia after arriv
 
 The traveller may contact his/her Indonesian sponsor to make the necessary arrangements in Indonesia. 
 
-### **Testing Arrangements **
+### **Testing Arrangements**
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance? 
 
@@ -262,7 +262,7 @@ Minimally, a traveller should have on hand his/her negative COVID-19 PCR test re
 
 Minimally, a traveller should present his/her negative COVID-19 PCR test result, a valid e-visa and a valid return or outgoing air/ferry ticket. Otherwise, the traveller may be denied entry into Indonesia. The traveller is also advised to verify the latest requirements with his/her Indonesian sponsor. 
 
-### **Health Measures in Indonesia **
+### **Health Measures in Indonesia**
 
 #### 13. Do I need to be quarantined upon arrival in Indonesia? 
 
@@ -276,7 +276,7 @@ The traveller should abide by the prevailing public health regulations required 
  
 The traveller should verify the latest requirements of the Indonesian authorities with his/her Indonesian sponsor. 
 
-### **Returning to Singapore ** 
+### **Returning to Singapore** 
 
 #### 15. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
@@ -369,7 +369,7 @@ Please bring the following:
 2. E-visa confirming that you have been granted approval by the relevant authorities in Indonesia to travel to Indonesia under the Singapore-Indonesia RGL. 
 3. Softcopy booking reference showing your departure flight timing. 
 
-### **Testing **
+### **Testing**
 
 #### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
 
@@ -381,10 +381,20 @@ Please make arrangements early for your test slot so that you can qualify for th
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement. 
 
-### **Test Results **
+### **Test Results**
 
 #### 9. When can I expect to get my PCR test results? 
 
 You will receive your PCR test results and memo at least three hours before your flight. 
 
 The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself. 
+
+-----
+
+<sup>1</sup>The term “sponsor” refers to the Singapore company or government agency making the application on behalf of the traveller. The term “host” refers to the Singapore company or government agency that receives the traveller in the destination country/region.  For company-sponsored travellers, the sponsor will also be the host company.
+
+<sup>2</sup>Travellers are allowed to use private hire cars or taxis, but not public transport. 
+
+<sup>3</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle. 
+
+<sup>4</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using a recommended QR scanner app on phones with local data sim cards, or by submitting their passport numbers to businesses to be manually keyed into the “SafeEntry for Business” app.  
