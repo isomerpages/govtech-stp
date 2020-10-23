@@ -135,7 +135,6 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
     <th colspan="2" style="font-size:16px;"><b><u>After receipt of negative COVID-19 PCR test</u></b></th>
   </tr>
   </thead>
-<tbody>
  <tr>
     <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:16px;"><b>All travellers must</b> abide by prevailing local public health requirements and safe distancing measures.
