@@ -46,7 +46,34 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
      <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
     </td>
   </tr>
-  
   </tbody>
+  </table>
+  
+### 3. Pre-Departure to Singapore
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>1 calendar day</u></b> before planned date of entry into Singapore</th>
+  </tr>
+  </thead>
+<tbody>
+   <tr>
+    <td style="font-size:16px;"><b>Pre-departure payment for post-arrival COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:16px;"><b>Successful travellers (i.e. those waived of their SHN) should make an online payment for the swab-on-arrival COVID-19 Polymerase Chain Reaction (PCR) test <a href="">here.</a></b>
+    </td>
+  </tr>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;"><b><u>Day of Departure</u></b> to Singapore</th>
+  </tr>
+  </thead>
+<tbody>
+   <tr>
+    <td style="font-size:16px;"><b>Pre-departure clearance</b></td>
+    <td style="font-size:16px;"><b>Approved PCA travellers should travel to Singapore on the date, time and land checkpoint selected during the application.</a></b>
+    </td>
+  </tr>
+   </tbody>
   </table>
   
