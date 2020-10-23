@@ -28,4 +28,7 @@ links:
     url: /apply-now
   - title: FAQ
     url: /FAQ
+  - title: ICA Website
+    url: https://www.ica.gov.sg/
+    external: true
 
