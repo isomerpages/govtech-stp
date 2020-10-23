@@ -262,7 +262,7 @@ Minimally, a traveller should have on hand his/her negative COVID-19 PCR test re
 
 Minimally, a traveller should present his/her negative COVID-19 PCR test result, a valid e-visa and a valid return or outgoing air/ferry ticket. Otherwise, the traveller may be denied entry into Indonesia. The traveller is also advised to verify the latest requirements with his/her Indonesian sponsor. 
 
-### **Health Measures in Indonesia **
+### **Health Measures in Indonesia**
 
 #### 13. Do I need to be quarantined upon arrival in Indonesia? 
 
