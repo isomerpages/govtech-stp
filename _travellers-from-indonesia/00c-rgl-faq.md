@@ -81,8 +81,54 @@ The Singapore Government takes a serious view of non-compliance with SafeTravel 
 
 A traveller using the RGL scheme may stay for up to 10 days in Singapore. 
 
+#### 12. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
 
+Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
 
+#### 13.  What can I do if I have changes to my controlled itinerary? 
+
+The host company or government agency should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company or government agency should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. 
+ 
+#### 14.  Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application? 
+
+The sponsoring company/agency or traveller may make enquires about the status of their application(s) at <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry into Singapore as declared in the STP application.  
+ 
+#### 15. Why was my application rejected? 
+
+SafeTravel Pass applications may be rejected for reasons, including the following: 
+ - Inadequate justifications provided for reason of travel.
+ - Non-compliant controlled itinerary submitted. 
+ - Wrong proof of residency submitted. 
+ 
+#### 16. Can I use the RGL to come to Singapore for long-term work? 
+
+The RGL is only for short-term essential business and official travel, and not for longterm work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme. 
+
+#### 17. Can I use the RGL to come to Singapore for long-term study? 
+
+The RGL is only for short-term essential business and official travel, and not for longterm study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/mediarelease/entry-approval-required-for-all-long-term-pass-holders> for more information.  
+   
+#### 18. Can I use the RGL to come to Singapore to seek medical treatment? 
+
+The RGL is only for short-term essential business and official travel, and not for seeking medical treatment. Enforcement action will be taken against travellers found to have abused the RGL to seek medical treatment in Singapore, including not being able to apply for travel under the RGL again. 
+ 
+Travellers who are short-term visit pass holders from other countries seeking to enter Singapore for medical treatment should appy for entry approval through their Singapore doctors.   
+
+#### 19.  Can I use the RGL to transit through Singapore? 
+
+The RGL is only for short-term essential business and official travel between Singapore and Indonesia, and not for transit through Singapore. 
+
+#### 20. Are there restrictions on how I can travel to Singapore? 
+
+Under the RGL, travellers can depart from Soekarno-Hatta International Airport by plane, and arrive at Changi International Airport. Travellers can also depart from Batam Center Ferry Terminal by ferry, and arrive at Tanah Merah Ferry Terminal. 
+ 
+RGL travellers from Indonesia are allowed to travel from other provinces in Indonesia to Jakarta or Batam, and depart for Singapore via Soekarno-Hatta International Airport or Batam Center Ferry Terminal, respectively. RGL travellers that are travelling from other provinces must also fulfil Indonesia’s requirements for domestic travel. 
+
+### **Pre-Departure Measures in Indonesia**
+
+#### 21. What health measures must I take in Indonesia before departing for Singapore? 
+
+Travellers must have remained in Indonesia for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Indonesia, and not depart for Singapore if feeling unwell. They must also undergo a pre-departure PCR test in Indonesia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from healthcare institutions in Indonesia listed at [ANNEX A](#annexa). 
 
 
 
