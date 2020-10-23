@@ -18,7 +18,7 @@ links:
       - title: Periodic Commuting Arrangement (Workers Commuting between Singapore and Malaysia) 
         url: /pca/overview
   - title: Border and Health Control Measures
-    url: /health/overview
+    url: /health
     sublinks:
       - title: Arriving in Singapore
         url: /health/before-arriving
