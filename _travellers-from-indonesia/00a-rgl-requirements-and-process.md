@@ -4,9 +4,9 @@ permalink: /indonesia/rgl/requirements-and-process
 third_nav_title: Reciprocal Green Lane
 ---
 
-On 12 October 2020, Singapore and Indonesia agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries for up to 10 days.
+On 12 October 2020, Singapore and Indonesia agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries.
 
-The Singapore – Indonesia RGL is only applicable to all residents in Singapore travelling to Indonesia, and Indonesian citizens travelling to Singapore through Jakarta (Soekarno-Hatta International Airport (Tangerang)) or Batam (Batam Center Ferry Terminal).  
+The Singapore – Indonesia RGL is only applicable to all residents in Singapore travelling to Indonesia, and Indonesian citizens travelling to Singapore through Jakarta (Soekarno-Hatta International Airport (Tangerang) or Batam (Batam Center Ferry Terminal).  
 
 The SafeTravel Pass is a mandatory document for inbound travellers for essential business or official travel from Indonesia to Singapore under Green Lane arrangements. 
 
@@ -19,6 +19,7 @@ When the SafeTravel Pass application is approved, an approval letter will be iss
 IMPORTANT 
 
  - Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass will be refused entry into Singapore. 
+ 
 For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/indonesia/rgl/terms-and-conditions).
 
 ## **Process Overview**
@@ -54,11 +55,11 @@ At on-arrival immigration checks, approved SafeTravel Pass travellers must produ
 
 Applicants without these documents can be refused entry into Singapore under the RGL arrangement. 
 
-The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/ferry terminal to the declared self-sourced accommodation (nonresidential address only), adhering to prevailing health measures. The traveller must remain isolated in the declared accommodation until the test result is released. 
+The host<sup>2</sup> company or government agency will transport the traveller directly from the airport/ferry terminal to the declared self-sourced accommodation (non-residential address only), adhering to prevailing health measures. The traveller must remain isolated in the declared accommodation until the test result is released. 
 
 If the result indicates that the traveller has tested negative for COVID-19, the traveller can proceed on the pre-declared controlled itinerary. If tested positive for COVID-19, the traveller will undergo prescribed medical treatment at his/her cost. 
 
-#### Measures during stay in Singapor
+#### Measures during stay in Singapore
 
 SafeTravel Pass travellers to Singapore must subscribe to the relevant contact tracing mobile applications and technology solutions that are in place at the time of travel, including TraceTogether and SafeEntry for the entire duration of their stay in Singapore. A traveller who does not have a TraceTogether-compatible device should be provided with one by his/her host, for the duration of his/her stay in Singapore. If the traveller subsequently tests positive for COVID-19 while in Singapore or within 14 days after departure from Singapore, he/she will be required to upload his/her TraceTogether data.
 
