@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /health/overview
+permalink: /health
 ---
 
 As the COVID-19 situation evolves, Singapore will continue to update our border measures, taking into account our understanding of the virus and the developments in other countries/regions.
