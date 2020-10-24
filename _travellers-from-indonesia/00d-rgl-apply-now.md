@@ -9,7 +9,7 @@ third_nav_title: Reciprocal Green Lane
 <table>
   <thead>
     <tr>
-      <th  style="text-align:center;"><b>Between <u>02-08</u> November 2020 </b> </th>
+      <th  style="text-align:center;"><b>Between <span style="font-color:red"><u>02-08</u></span> November 2020 </b> </th>
       <th style="text-align:center;"><b>After <u>09</u> November 2020</b></th>
     </tr>
   </thead>
@@ -21,12 +21,10 @@ third_nav_title: Reciprocal Green Lane
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a></td>
-      <!--<td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>-->
       <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
     </tr>
        <tr>
       <td style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td>
-     <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
       <td width="50%" style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td>
     </tr>
     <tr>
