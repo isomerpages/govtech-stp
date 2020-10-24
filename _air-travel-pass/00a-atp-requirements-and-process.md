@@ -148,7 +148,7 @@ permalink: /atp/requirements-and-process
  </tbody>
  </table>
  
- ### 6. Departure from Singapore
+### 6. Departure from Singapore
  
  <table>
 <thead>
