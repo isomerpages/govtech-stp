@@ -17,7 +17,7 @@ third_nav_title: Reciprocal Green Lane
     <tr>
       <td style="text-align:center;">Apply for Safetravel Pass here</td>
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
-      <td width="50%" style="text-align:center;">Apply for Safetravel Pass here</td>
+      <td width="50%" style="text-align:center;">Apply & Submit supporting documents for Safetravel Pass here</td>
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a></td>
@@ -25,11 +25,11 @@ third_nav_title: Reciprocal Green Lane
     </tr>
        <tr>
       <td style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td>
-      <td width="50%" style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td>
+      <!--<td width="50%" style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td> -->
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
-      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
+    <!--  <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>-->
     </tr>
     <tr>
       <td colspan="2">Please note that the processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures.<br/><br/>
