@@ -9,8 +9,8 @@ third_nav_title: Reciprocal Green Lane
 <table>
   <thead>
     <tr>
-      <th  style="text-align:center;"><b>Between <span style="font-color:red"><u>02-08</u></span> November 2020 </b> </th>
-      <th style="text-align:center;"><b>After <u>09</u> November 2020</b></th>
+      <th  style="text-align:center;"><b>Between <span style="color:red"><u>02-08</u></span> November 2020 </b> </th>
+      <th style="text-align:center;"><b>After <span style="color:red"><u>09</u></span> November 2020</b></th>
     </tr>
   </thead>
   <tbody>
@@ -32,7 +32,7 @@ third_nav_title: Reciprocal Green Lane
       <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
     </tr>
     <tr>
-      <td colspan="2">Please note that the processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures.<br/>
+      <td colspan="2">Please note that the processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for pre-departure measures.<br/><br/>
         Note: Changes to the Controlled Itinerary after submission of the final copy should be kept to the minimum. For any <b>re-submission</b> of Controlled Itinerary , please email them to <a href="COVID_SafeTravelEnquiries@mti.gov.sg">COVID_SafeTravelEnquiries@mti.gov.sg</a>. Please include the approved SafeTravel Pass reference number and documents on hand for submission, and ensure that the amendments from the controlled itinerary are in accordance with the stipulated guidelines. 
       </td>
     </tr>
