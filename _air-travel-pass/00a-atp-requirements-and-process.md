@@ -27,7 +27,7 @@ permalink: /atp/requirements-and-process
     <td rowspan="2" style="font-size:16px;"><b>Submit ATP application</b></td>
     <td style="font-size:16px;"><b>Foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore at no charge <a href="">here</a>. </b>Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.<br/><br/>
       Visitors must comply with the <a href="/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
-      Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/>
+      Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
       For enquiries, please email COVID_ATP_Enquiries@caas.gov.sg.
     </td>
   </tr>
@@ -131,7 +131,7 @@ permalink: /atp/requirements-and-process
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Self-isolation</b></td>
-    <td style="font-size:16px;"><b>All approved ATP travellers must remain in isolation in his/her declared accommodation, and until notified that his/her COVID-19 PCR test result is negative, when he will be allowed to go about his/her activities in Singapore. </b> <br/>
+    <td style="font-size:16px;"><b>All approved ATP travellers must remain in isolation in his/her declared accommodation, and until notified that his/her COVID-19 PCR test result is negative, when he will be allowed to go about his/her activities in Singapore. </b> <br/><br/>
     <i>  Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</i>
     </td>
   </tr>
