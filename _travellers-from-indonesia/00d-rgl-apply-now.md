@@ -15,9 +15,9 @@ third_nav_title: Reciprocal Green Lane
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;"><a href="https://go.gov.sg/indonrgl">https://go.gov.sg/indonrgl</a></td>
+      <td style="text-align:center;">Apply for Safetravel Pass here</td>
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
-      <td width="50%" style="text-align:center;"><a href="https://eservices.ica.gov.sg/STO">https://eservices.ica.gov.sg/STO</a></td>
+      <td width="50%" style="text-align:center;">Apply for Safetravel Pass here</td>
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a></td>
