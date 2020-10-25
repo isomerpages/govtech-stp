@@ -122,3 +122,4 @@ third_nav_title: Reciprocal Green Lane
 <sup>1</sup> The Green Lane/Travel Corridor Arrangement to/from Indonesia is currently only limited to entry/exit through Batam Center Ferry Terminal or Soekarno-Hatta International Airport. 
 
 <sup>2</sup> The Terms and Conditions in this document are specific to the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel Between Singapore and Indonesia. Green Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions. 
+
