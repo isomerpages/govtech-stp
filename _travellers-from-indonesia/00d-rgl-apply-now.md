@@ -24,8 +24,14 @@ third_nav_title: Reciprocal Green Lane
       <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
     </tr>
        <tr>
-      <td style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td>
-      <td width="50%" style="text-align:center;">Submission of Supporting Documents (final controlled itinerary and pre-departure test results) here: </td>
+      <td style="text-align:center;">Submission of Supporting Documents here: 
+        <br/> &bull; Fianl controlled itinerary
+        <br/> &bull; Pe-departure test results
+         </td>
+      <td width="50%" style="text-align:center;">Submission of Supporting Documents here:
+         <br/> &bull; Final controlled itinerary
+        <br/> &bull;  Pre-departure test results
+        </td>
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
