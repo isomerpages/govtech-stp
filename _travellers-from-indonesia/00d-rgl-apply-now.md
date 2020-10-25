@@ -10,14 +10,14 @@ third_nav_title: Reciprocal Green Lane
   <thead>
     <tr>
       <th  style="text-align:center;"><b>Between <span style="color:red"><u>02-08</u></span> November 2020 </b> </th>
-      <th style="text-align:center;"><b>After <span style="color:red"><u>09</u></span> November 2020</b></th>
+      <th style="text-align:center; border-left: 1px solid #D8D8D8;"><b>After <span style="color:red"><u>09</u></span> November 2020</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center;">Apply for Safetravel Pass here</td>
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
-      <td width="50%" style="text-align:center;">Apply for Safetravel Pass; and<br/>
+      <td width="50%" style="text-align:center; border-left: 1px solid #D8D8D8;">Apply for Safetravel Pass; and<br/>
         Submission of Supporting Documents here:
     <!--  <br/> &bull; Final controlled itinerary
         <br/> &bull; Pe-departure test results-->
