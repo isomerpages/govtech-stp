@@ -17,17 +17,17 @@ third_nav_title: Reciprocal Green Lane
 
 #### 1. Who is eligible to apply to travel to Singapore under the RGL? 
 
-Indonesian Citizens who need to make single-entry, short-term essential travel from Indonesia to Singapore for business or official purposes.
+Indonesian Citizens who need to make single-entry, short-term essential travel from Indonesia to Singapore for business or official purposes. 
 
 #### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder who is resident in Indonesia. Am I eligible to apply for the RGL to travel from Indonesia to Singapore? 
 
-Under the RGL, only Indonesian Citizens who need to make essential business or official travel are allowed to travel from Indonesia to Singapore. These would include Indonesian citizens who are also Singapore Permanent Residents or Singapore LongTerm Pass holders.   
+Under the RGL, only Indonesian Citizens who need to make essential business or official travel are allowed to travel from Indonesia to Singapore. These would include Indonesian citizens who are also Singapore Permanent Residents or Singapore Long-Term Pass holders.  
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass is required for travellers from Indonesia to seek entry into Singapore under the RGL. It is non-transferable and will be valid for a single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to 10 days.  
- 
-SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases. 
+A SafeTravel Pass is required for travellers from Indonesia to seek entry into Singapore under the RGL. It is non-transferable and will be valid for a single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for up to 10 days. 
+
+SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
  
 Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have further queries related to the SafeTravel Pass
 
@@ -35,17 +35,17 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
-The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 working days (excluding the day of application).  
- 
-You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, and taking a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore. 
- 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. Singapore’s visa-free entry policies prior to COVID-19 will apply for Indonesian Citizens travelling under the RGL.       
+The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 working days (excluding the day of application). 
+
+You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, and taking a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore.
+
+When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. Singapore’s visa-free entry policies prior to COVID-19 will apply for Indonesian Citizens travelling under the RGL.     
  
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eserviecs.ica.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
  
 Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>. 
  
-The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 Polymerase Chain Reaction (PCR) test (in English), a  valid return air/ferry ticket or proof of other transport arrangements to depart from Singapore for pre-boarding checks at the airlines/ferries check-in counter and immigration counter. Otherwise, he/she may be refused boarding. Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Singapore. 
+The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 Polymerase Chain Reaction (PCR) test (in English), a  valid return air/ferry ticket or proof of other transport arrangements to depart from Singapore for pre-boarding checks at the airlines/ferries check-in counter and immigration counter. Otherwise, he/she may be refused boarding. Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Singapore.
 
 #### 5. What are the responsibilities of the host company? 
 
@@ -199,9 +199,9 @@ The relevant Indonesian Government authorities will assess each application on a
 
 #### 2. How do Singapore residents apply to travel to Indonesia under the RGL? 
 
-Residents in Singapore seeking to travel to Indonesia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Indonesia. On behalf of the traveller, the sponsor will apply online for an Indonesian visa from the Directorate General of Immigration of Indonesia at <https://visa-online.imigrasi.go.id/>. After the visa application is approved, the visa will be sent electronically to the traveller. 
+Residents in Singapore seeking to travel to Indonesia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Indonesia. On behalf of the traveller, the sponsor will apply online for an Indonesian visa from the Directorate General of Immigration of Indonesia at <https://visa-online.imigrasi.go.id/>. The visa application should be submitted at least 7 working days before the intended date of entry into Indonesia. Visa requirements include: (a) health certificate indicating that the traveller is free of respiratory symptoms and fit to travel; (b) consent letter to undergo mandatory self-isolation or medical treatment, if the traveller is tested positive for COVID-19 upon arrival in Indonesia; (c) consent letter to be monitored during quarantine or self-isolation in accordance with Indonesian laws and regulations; (d) health or travel insurance covering medical expenses and/or a declaration letter to bear the cost of medical treatment if the traveller contracts COVID-19 in Indonesia; and (e) proof of funds by the sponsor (at least US$10,000) to support the traveller’s living expenses in Indonesia. After the visa application is approved, the visa will be sent electronically to the traveller. 
 
-The traveller should work with his/her Indonesian sponsor to verify that he/she has fulfilled the RGL requirements of the Indonesian authorities prior to departure for Indonesia. This includes taking a pre-departure COVID-19 PCR test at least once within 72 hours before departure, and obtaining a negative test result from healthcare institutions in Singapore listed at [ANNEX C](#annexc). The traveller must have remained in Singapore for at least 14 days prior to departure, monitor their health status before departure from Singapore, and not depart for Indonesia if feeling unwell. The traveller must also submit pre-trip health and travel history declarations to Indonesia’s e-HAC application as well as the negative COVID-19 PCR swab test result and controlled itinerary via the e-HAC, before departure. 
+The traveller should work with his/her Indonesian sponsor to verify that he/she has fulfilled the RGL requirements of the Indonesian authorities prior to departure for Indonesia. This includes taking a pre-departure COVID-19 PCR test at least once within 72 hours before departure, and obtaining a negative test result from healthcare institutions in Singapore listed at [ANNEX C](#annexc). The traveller must have remained in Singapore for at least 14 days prior to departure, monitor their health status before departure from Singapore, and not depart for Indonesia if feeling unwell. The traveller must also submit pre-trip health and travel history declarations to Indonesia’s e-HAC application as well as the negative COVID-19 PCR swab test result and controlled itinerary via the e-HAC, before departure 
 
 A point-of-contact for enquiries regarding travel to Indonesia under the SingaporeIndonesia RGL is at [ANNEX B](#annexb). 
 
@@ -220,7 +220,11 @@ Commented
 
 There are currently two entry points under the RGL. <u>First</u>, travellers can depart from Changi International Airport by plane, and arrive in Soekarno-Hatta International Airport. <u>Second</u>, travellers can depart from Tanah Merah Ferry Terminal by ferry, and arrive in Batam Center Ferry Terminal. 
  
-RGL travellers are allowed to travel to other provinces in Indonesia after arriving in Jakarta and Batam. RGL travellers that are travelling to other provinces must also fulfil Indonesia’s requirements for domestic travel. These include submitting details of domestic travel to Indonesia’s e-HAC application, and having a health certificate indicating that the travellers are COVID-19 free. The negative result of the PCR test taken by the RGL travellers prior to departure for Indonesia can be used as the health certificate. Please note that the health certificate is only valid for 14 days since the date of issuance, for the RGL travellers to make domestic travel. If RGL travellers intend to travel domestically in Indonesia after 14 days, they are required to renew their health certificate, by undergoing a new PCR/rapid test at designated healthcare facilities. For more information on Indonesia’s requirements for domestic travel, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb).
+RGL travellers are allowed to travel to other provinces in Indonesia after arriving in Jakarta and Batam. RGL travellers that are travelling to other provinces must also fulfil Indonesia’s requirements for domestic travel.  
+
+For travel via domestic flights, requirements include submitting details of domestic travel to Indonesia’s e-HAC application, and having a health certificate indicating that the travellers are COVID-19 free. The negative result of the PCR test taken by the RGL travellers prior to departure for Indonesia can be used as the health certificate. Please note that the health certificate is only valid for 14 days since the date of issuance, for the RGL travellers to make domestic travel. If RGL travellers intend to travel domestically in Indonesia after 14 days, they are required to renew their health certificate, by undergoing a new PCR/rapid test at designated healthcare facilities. 
+
+For more information on Indonesia’s requirements for domestic travel, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb) ).
 
 #### 6.  Who can I contact for more information on the arrangements in Indonesia, e.g., accommodation and transport?
 
@@ -254,21 +258,23 @@ If tested positive for COVID-19 in Indonesia, the traveller will be accorded the
 
 #### 11.  What documentation do I need to present to the airline staff or ferry operator at check-in, before I will be allowed to board a flight or ferry from Singapore to Indonesia?
 
-Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid e-visa and a valid return or outgoing air/ferry ticket. Otherwise, the traveller may be refused boarding. The traveller is also advised to verify the latest requirements with his/her Indonesian sponsor. 
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a certificate showing that he/she is free of respiratory symptoms and fit to travel, a valid e-visa and a valid return or outgoing air/ferry ticket. Otherwise, the traveller may be refused boarding. The traveller is also advised to verify the latest requirements with his/her Indonesian sponsor. 
 
 ### **Arrival in Indonesia**
   
 #### 12. What documentation do I need to present upon arrival in Indonesia? 
 
-Minimally, a traveller should present his/her negative COVID-19 PCR test result, a valid e-visa and a valid return or outgoing air/ferry ticket. Otherwise, the traveller may be denied entry into Indonesia. The traveller is also advised to verify the latest requirements with his/her Indonesian sponsor. 
+Minimally, a traveller should present his/her negative COVID-19 PCR test result, a certificate showing that he/she is free of respiratory symptoms and fit to travel, a valid e-visa and a valid return or outgoing air/ferry ticket. Otherwise, the traveller may be denied entry into Indonesia. The traveller is also advised to verify the latest requirements with his/her Indonesian sponsor.
 
 ### **Health Measures in Indonesia**
 
 #### 13. Do I need to be quarantined upon arrival in Indonesia? 
 
-After undergoing a PCR test upon arrival at the airport or ferry terminal in Indonesia, the traveller must remain in isolation until the test results are released.  The traveller will bear the costs of the post-arrival COVID-19 PCR test in Indonesia. The estimated cost of testing is between 1 to 2 million IDR. Payment can be made either by cash or debit card.  
+After undergoing a PCR test upon arrival at the airport or ferry terminal in Indonesia, the traveller must remain in isolation until the test results are released.  The traveller will bear the costs of the post-arrival COVID-19 PCR test in Indonesia. The estimated cost of testing is between 1 to 2 million IDR. Payment can be made by cash, credit card or debit card. 
  
-If the traveller tests negative for COVID-19, the traveller may proceed with his/her controlled itinerary, with private transportation arranged by the sponsor. If the traveller tests positive for COVID-19, he/she will be accorded medical treatment by the Indonesian Government. The traveller will bear the cost of medical treatment in Indonesia. 
+If the traveller tests negative for COVID-19, the traveller may proceed with his/her controlled itinerary, with private transportation arranged by the sponsor. If the traveller tests positive for COVID-19, he/she will be accorded medical treatment by the Indonesian Government. The traveller will bear the cost of medical treatment in Indonesia.
+
+Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Indonesia.
 
 #### 14. What other health measures will I be subject to in Indonesia? 
  
@@ -280,15 +286,15 @@ The traveller should verify the latest requirements of the Indonesian authoritie
 
 #### 15. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore-Indonesia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Indonesia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>. 
+Singapore-based travellers returning from their travel on the Singapore-Indonesia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Indonesia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>. Singapore-based travellers returning to Singapore from their travel on the Singapore-Indonesia RGL are also exempted from the requirement for travellers in Indonesia to undergo pre-departure testing before they depart for Singapore. 
 
-You may also wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid19/ArrivalSG> for information on the prevailing health measures for inbound travellers. 
+You may also wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for inbound travellers.
 
 #### 16. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia? 
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival in Singapore. Singapore Citizens and Permanent Residents who travelled to Indonesia on the Singapore-Indonesia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Indonesia on the SingaporeIndonesia RGL may tap on their usual financing arrangements, such as foreign worker insurance. 
- 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL. 
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival in Singapore. Singapore Citizens and Permanent Residents who travelled to Indonesia on the Singapore-Indonesia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Indonesia on the Singapore-Indonesia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+
+Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The e-visa is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL.
  
 <div id="annexa"> </div>
 
