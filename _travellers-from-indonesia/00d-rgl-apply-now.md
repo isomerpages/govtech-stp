@@ -25,12 +25,12 @@ third_nav_title: Reciprocal Green Lane
     </tr>
        <tr>
       <td style="text-align:center;">Submission of Supporting Documents here: 
-        <br/> &bull; final controlled itinerary
-        <br/> &bull;  pre-departure test results
+        <br/> &bull; Fianl controlled itinerary
+        <br/> &bull; Pe-departure test results
          </td>
       <td width="50%" style="text-align:center;">Submission of Supporting Documents here:
-         <br/> &bull; final controlled itinerary
-        <br/> &bull;  pre-departure test results
+         <br/> &bull; Final controlled itinerary
+        <br/> &bull;  Pre-departure test results
         </td>
     </tr>
     <tr>
