@@ -28,7 +28,7 @@ third_nav_title: Reciprocal Green Lane
       <td style="border-left: 1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
     </tr>
        <tr>
-      <td width="50%" style="text-align:center;">Submission of Supporting Documents here: 
+      <td width="50%" style="text-align:center; border-right: 1px solid #D8D8D8;">Submission of Supporting Documents here: 
         <br/> &bull; Final controlled itinerary
         <br/> &bull; Pe-departure test results
          </td>
@@ -38,7 +38,7 @@ third_nav_title: Reciprocal Green Lane
         </td>-->
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
+      <td style="border-right: 1px solid #D8D8D8;" ><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
     <!--  <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>-->
     </tr>
     <tr>
