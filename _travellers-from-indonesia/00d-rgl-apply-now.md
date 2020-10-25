@@ -25,9 +25,9 @@ third_nav_title: Reciprocal Green Lane
     </tr>
        <tr>
       <td style="text-align:center;">Submission of Supporting Documents here: 
-         <ol>
-          <li> final controlled itinerary</li>
-            <li> pre-departure test results</li>
+         <ol style="margin-top:0px; margin-bottom:0px;">
+          <li style="text-align:left;"> final controlled itinerary</li>
+            <li style="text-align:left;"> pre-departure test results</li>
         </ol>
          </td>
       <td width="50%" style="text-align:center;">Submission of Supporting Documents here:
