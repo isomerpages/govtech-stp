@@ -19,8 +19,8 @@ third_nav_title: Reciprocal Green Lane
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
       <td width="50%" style="text-align:center;">Apply for Safetravel Pass; and<br/>
         Submission of Supporting Documents here:
-      <br/> &bull; Final controlled itinerary
-        <br/> &bull; Pe-departure test results
+    <!--  <br/> &bull; Final controlled itinerary
+        <br/> &bull; Pe-departure test results-->
       </td>
     </tr>
     <tr>
