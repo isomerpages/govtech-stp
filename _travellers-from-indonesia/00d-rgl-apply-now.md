@@ -28,7 +28,7 @@ third_nav_title: Reciprocal Green Lane
       <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
     </tr>
        <tr>
-      <td style="text-align:center;">Submission of Supporting Documents here: 
+      <td width="50%" style="text-align:center;">Submission of Supporting Documents here: 
         <br/> &bull; Final controlled itinerary
         <br/> &bull; Pe-departure test results
          </td>
