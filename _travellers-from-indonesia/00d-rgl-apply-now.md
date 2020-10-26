@@ -15,7 +15,7 @@ third_nav_title: Reciprocal Green Lane
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;  border-right:3px solid #D8D8D8;">Apply for Safetravel Pass here</td>
+      <td style="text-align:center;  border-right:1px solid #D8D8D8;">Apply for Safetravel Pass here</td>
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
       <td width="50%" style="text-align:center;">Apply for Safetravel Pass; and<br/>
         Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here:
@@ -24,7 +24,7 @@ third_nav_title: Reciprocal Green Lane
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; border-right:3px solid #D8D8D8;"><a href="https://go.gov.sg/idnrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/idnrgl" title="https://go.gov.sg/idnrgl" style="width:75%;"></a>
+      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/idnrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/idnrgl" title="https://go.gov.sg/idnrgl" style="width:75%;"></a>
         <br/> <a href="https://go.gov.sg/idnrgl"> https://go.gov.sg/idnrgl</a>
       </td>
       <td style="text-align:center;"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a>
@@ -32,7 +32,7 @@ third_nav_title: Reciprocal Green Lane
       </td>
     </tr>
        <tr>
-      <td width="50%" style="text-align:center;  border-right:3px solid #D8D8D8;">Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here: 
+      <td width="50%" style="text-align:center;  border-right:1px solid #D8D8D8;">Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here: 
        <!-- <br/> &bull; 
         <br/> &bull; -->
          </td>
@@ -42,7 +42,7 @@ third_nav_title: Reciprocal Green Lane
         </td>-->
     </tr>
     <tr>
-      <td style="text-align:center;  border-right:3px solid #D8D8D8;"><a href="https://go.gov.sg/idnrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/idnrgl2" title="https://go.gov.sg/idnrgl2" style="width:75%;"></a>  <br/> <a href="https://go.gov.sg/idnrgl2"> https://go.gov.sg/idnrgl2</a>
+      <td style="text-align:center;  border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/idnrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/idnrgl2" title="https://go.gov.sg/idnrgl2" style="width:75%;"></a>  <br/> <a href="https://go.gov.sg/idnrgl2"> https://go.gov.sg/idnrgl2</a>
       </td>
     <!--  <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>-->
     </tr>
