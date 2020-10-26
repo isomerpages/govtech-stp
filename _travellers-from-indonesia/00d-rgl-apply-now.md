@@ -9,7 +9,7 @@ third_nav_title: Reciprocal Green Lane
 <table>
   <thead>
     <tr>
-      <th  style="text-align:center;"><b>Between <span style="color:red"><u>02-08</u></span> November 2020 </b> </th>
+      <th  style="text-align:center; border-top 3px color #D8D8D8 "><b>Between <span style="color:red"><u>02-08</u></span> November 2020 </b> </th>
       <th style="text-align:center;"><b>After <span style="color:red"><u>09</u></span> November 2020</b></th>
     </tr>
   </thead>
