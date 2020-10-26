@@ -108,6 +108,7 @@ SafeTravel Pass applications may be rejected for reasons, including the followin
 - Inadequate justifications provided for reason of travel.
 - Non-compliant controlled itinerary submitted.
 - Invalid proof of residency submitted.
+- Quota limit reached for intended week of entry.
 
 #### 16. I have submitted the necessary supporting documents prior to my departure from the ROK to Singapore. Why did i receive a notification thatthe submission was unsuccessful? 
 
