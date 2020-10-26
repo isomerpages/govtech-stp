@@ -23,5 +23,17 @@ The ATP scheme enables short-term visitors from the above-mentioned countries en
     <td><b>Australia</b></td>
     <td><a href="/australia/atp/requirements-and-process">Click here</a></td>
   </tr>
+    <tr>
+    <td><b>Brunei Darussalam</b></td>
+    <td><a href="/brunei/overview">Click here</a></td>
+  </tr>
+   <tr>
+    <td><b>New Zealand</b></td>
+    <td><a href="/newzealand/atp/requirements-and-process">Click here</a></td>
+  </tr>
+     <tr>
+    <td><b>Vietnam</b></td>
+    <td><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
+  </tr>
   </tbody>
   </table>
