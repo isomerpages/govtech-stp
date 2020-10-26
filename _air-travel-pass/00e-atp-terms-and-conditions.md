@@ -7,9 +7,9 @@ Please refer to the relevant Terms and Conditions for travel to Singapore under 
 
 | ATP Country/Region  | Terms and Conditions |
 |----------|---------------------|
-|Australia | PDF |
-| Brunei Darussalam   | PDF|
-|New Zealand |   PDF  |
-|Vietnam  |   PDF     |
+|Australia | [here](/australia/atp/conditions) |
+| Brunei Darussalam   | [here](/brunei/atp/conditions)|
+|New Zealand |   [here](/newzealand/atp/conditions)  |
+|Vietnam  |   [here](/vietnam/atp/conditions)     |
 
 
