@@ -7,10 +7,10 @@ Please refer to the relevant Frequently Asked Questions for travel to Singapore 
 
 | ATP Country/Place  | FAQ |
 |----------|---------------------|
-|Australia | PDF |
-|Brunei Darussalam | PDF|
-|New Zealand |   PDF  |
-|Vietnam  |   PDF     |
+|Australia | [here](/australia/atp/faq) |
+|Brunei Darussalam | [here](/brunei/atp/faq)|
+|New Zealand |   [here](/newzealand/atp/faq)  |
+|Vietnam  |   [here](/vietnam/atp/faq)    |
 
 
 ### **Air Travel Pass (ATP)**
