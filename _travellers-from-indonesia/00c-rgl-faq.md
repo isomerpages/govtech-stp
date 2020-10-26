@@ -6,7 +6,7 @@ third_nav_title: Reciprocal Green Lane
 
 <div id="faq-top"></div>
 
-- [Application Process for Residents in Indonesia](#faq-residents-indonesia)
+- [Application Process for Travellers in Indonesia](#faq-residents-indonesia)
 - [Application Process for Travellers from Singapore](#faq-residents-singapore)
 
 <div id="faq-residents-indonesia"></div>
@@ -33,17 +33,17 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do applicants in Indonesia apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit? 
 
-Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
+Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. For applications for entry into Singapore from 9 Nov 2020 onwards, the host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
-The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 working days (excluding the day of application). 
+The processing of the application can take up to 7 working days (excluding the day of application). 
 
 You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, and taking a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore.
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. Singapore’s visa-free entry policies prior to COVID-19 will apply for Indonesian Citizens travelling under the RGL.     
  
-The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eserviecs.ica.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
+The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eservices.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
  
-Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>. 
+Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>, for applications for entry into Singapore from 9 Nov 2020 onwards. For applications for entry into Singapore between 2 to 8 Nov 2020, please submit the supporting documents via this link: <https://go.gov.sg/indonrgl2>. 
  
 The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 Polymerase Chain Reaction (PCR) test (in English), a  valid return air/ferry ticket or proof of other transport arrangements to depart from Singapore for pre-boarding checks at the airlines/ferries check-in counter and immigration counter. Otherwise, he/she may be refused boarding. Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Singapore.
 
@@ -87,11 +87,15 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13.  What can I do if I have changes to my controlled itinerary? 
 
-The host company or government agency should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company or government agency should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submission of Supporting Documents for SafeTravel Pass Application’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. 
+The host company or government agency should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company or government agency should email the updated controlled itinerary on behalf of the traveller to <COVID_SafeTravelEnquiries@mti.gov.sg>. Please include the approved STP reference number and have the necessary documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. 
  
 #### 14.  Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application? 
 
-The sponsoring company/agency or traveller may make enquires about the status of their application(s) at <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry into Singapore as declared in the STP application.  
+For applications for entry into Singapore from 9 Nov 2020, the sponsoring company/agency or traveller may make enquires about the status of their application(s) at <https://eservices.ica.gov.sg/STO>. 
+
+For applications for entry into Singapore from 2 to 8 Nov 2020. Please email <COVID_SafeTravelEnquiries@mti.gov.sg>.
+
+Please prepare the traveller’s identification details and intended date of entry into Singapore as declared in the STP application.  
  
 #### 15. Why was my application rejected? 
 
@@ -99,6 +103,7 @@ SafeTravel Pass applications may be rejected for reasons, including the followin
  - Inadequate justifications provided for reason of travel.
  - Non-compliant controlled itinerary submitted. 
  - Wrong proof of residency submitted. 
+ - Quota limit reached for intended week of entry.
  
 #### 16. Can I use the RGL to come to Singapore for long-term work? 
 
