@@ -30,9 +30,9 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit PCA application</b></td>
     <td style="font-size:16px;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application <a href="/apply-now">here</a>.</b>[<b><u>Important:</u></b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.]
-     <p style="font-size:14px; margin-top:0px; margin-bottom:0px;">Application sponsors should: </p> 
+     <p style="font-size:14px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;  "><b>Read and acknowledge the additional work pass conditions imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</b></li>
+       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the additional work pass conditions imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</li>
       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Obtain his/her employees’ acknowledgement for the following; and
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Possession of a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
