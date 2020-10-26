@@ -7,9 +7,9 @@ As the COVID-19 situation evolves, Singapore will continue to update our border 
 
 Travellers planning to enter Singapore should be prepared to be subjected to the prevailing border control measures and public health requirements which are summarised in the document <a href="/files/SHN-and-swab-summary.pdf" target="_blank">here</a>. Details can be found in the pages related to arriving in Singapore.
 
-<div style="text-align:left;">
+<div style="float:left;">
 <a href="/files/SHN-and-swab-summary.pdf">
-<img alt="SHN Summary" title="SHN Summary" src="/images/SHN-table-thumbnail.png" style="width:20% " >
+<img alt="SHN Summary" title="SHN Summary" src="/images/SHN-table-thumbnail.png" style="width:30% " >
 </a>
   </div>
 
