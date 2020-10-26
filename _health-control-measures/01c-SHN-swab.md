@@ -5,13 +5,13 @@ third_nav_title: Arriving in Singapore
 ---
 All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test. 
 
-A summary of the prevailing SHN and swab requirements for travellers can be found [here](/files/SHN-and-swab-summary.pdf). 
+A summary of the prevailing SHN and swab requirements for travellers can be found <a href="/files/SHN-and-swab-summary.pdf" target="_blank">here</a>.
 
-However,as Singapore's border restriction measures evolve with the global situation, you are advised to check [MOH's website](https://www.moh.gov.sg/covid-19) for the latest updates.
+However,as Singapore's border restriction measures evolve with the global situation, you are advised to check <a href="https://www.moh.gov.sg/covid-19" target="_blank">MOH's website</a> for the latest updates.
 
 ### Stay-Home Notice (SHN) - If Applicable
 
-A Stay-Home Notice (SHN) of 7 or 14 days is issued to travellers who are granted entry into Singapore, as a precautionary measure taken to minimise the risk of additional imported cases of COVID-19. An SHN duration calculator can be found [here](https://www.ica.gov.sg/covid-19/shn-calculator) to determine the expected end of SHN.
+A Stay-Home Notice (SHN) of 7 or 14 days is issued to travellers who are granted entry into Singapore, as a precautionary measure taken to minimise the risk of additional imported cases of COVID-19. An SHN duration calculator can be found <a href="https://www.ica.gov.sg/covid-19/shn-calculator" target="_blank">here</a> to determine the expected end of SHN.
 
 The following groups of travellers will be exempted from the SHN requirement and subjected to COVID-19 test post-arrival in Singapore:
 - All travellers who enter Singapore with a valid SafeTravel Pass ;
@@ -20,11 +20,11 @@ The following groups of travellers will be exempted from the SHN requirement and
 - Foreign travellers who enter Singapore with a valid Air Travel Pass; and
 - Singapore residents and Long-Term Pass holders (with Approval Letter of Entry) who spent at least 14 days prior to arriving from Australia (excluding Victoria State), Brunei Darussalam, New Zealand or Vietnam.
 
-You can visit <https://go.gov.sg/govsg-shn> for more information on SHN. Travellers who are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
+You can visit <a href="https://go.gov.sg/govsg-shn" target="_blank">here</a> for more information on SHN. Travellers who are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
 
-For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in this form at <https://go.gov.sg/shnhotelneeds>.
+For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this form</a>.
 
-View a video below on SHN requirements and click [here](https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf) for a health advisory for persons placed on SHN.
+View a video below on SHN requirements and click <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">here</a> for a health advisory for persons placed on SHN.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -41,7 +41,7 @@ Eligible travellers will be given the following once they have cleared through S
 
 - Electronic wristband;
 - Gateway device; and
-- [User Setup Guide](https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf).
+- <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a>.
 
 Persons placed on SHN (PSHNs) who have received an electronic wristband are required to activate their wristbands upon reaching their place of residence/ accommodation where they will serve their SHN ("SHN residence"). Investigations will be conducted if the wristband is found to be damaged or tampered, and/or when a PSHN is found to have left his/her SHN residence. 
 
@@ -88,7 +88,7 @@ In addition, PSHNs may receive house visits. All our officers performing house v
 The Government will continue to implement surveillance and enforcement measures to ensure compliance with the SHN, so that the well-being of the community is not put at risk.
 
 Anyone can report a Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor who did not comply with the SHN to ICA via
-- <https://go.gov.sg/reportshnbreach>; or
+- <a href="https://go.gov.sg/reportshnbreach" target="_blank">This form</a>; or
 - 6812 5555.
 
 **Scam Warning**
