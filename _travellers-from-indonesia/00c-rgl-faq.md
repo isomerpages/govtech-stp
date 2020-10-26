@@ -6,7 +6,7 @@ third_nav_title: Reciprocal Green Lane
 
 <div id="faq-top"></div>
 
-- [Application Process for Travellers in Indonesia](#faq-residents-indonesia)
+- [Application Process for Travellers from Indonesia](#faq-residents-indonesia)
 - [Application Process for Travellers from Singapore](#faq-residents-singapore)
 
 <div id="faq-residents-indonesia"></div>
