@@ -307,7 +307,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ### **Pre-Departure COVID-19 Tests in Indonesia** 
 
-Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](). 
+Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_list_26102020.pdf). 
 
 <div id="annexb"> </div>
 
