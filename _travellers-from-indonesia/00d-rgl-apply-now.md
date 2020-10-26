@@ -9,28 +9,32 @@ third_nav_title: Reciprocal Green Lane
 <table>
   <thead>
     <tr>
-      <th  style="text-align:center; border-top: 2px solid #D8D8D8;"><b>Between <span style="color:red"><u>02-08</u></span> November 2020 </b> </th>
-      <th style="text-align:center; border-left: 1px solid #D8D8D8; border-top: 2px solid #D8D8D8;"><b>After <span style="color:red"><u>09</u></span> November 2020</b></th>
+      <th  style="text-align:center;"><b>Between <span style="color:red"><u>02-08</u></span> November 2020 </b> </th>
+      <th style="text-align:center;"><b>After <span style="color:red"><u>09</u></span> November 2020</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center;">Apply for Safetravel Pass here</td>
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
-      <td width="50%" style="text-align:center; border-left: 1px solid #D8D8D8;">Apply for Safetravel Pass; and<br/>
-        Submission of Supporting Documents here:
+      <td width="50%" style="text-align:center;">Apply for Safetravel Pass; and<br/>
+        Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here:
     <!--  <br/> &bull; Final controlled itinerary
         <br/> &bull; Pe-departure test results-->
       </td>
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a></td>
-      <td style="border-left: 1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
+      <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a>
+        <br/> <a href="https://go.gov.sg/indonrgl"> https://go.gov.sg/indonrgl</a>
+      </td>
+      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a>
+      <br/> <a href="https://eservices.ica.gov.sg/STO">https://eservices.ica.gov.sg/STO</a>
+      </td>
     </tr>
        <tr>
-      <td width="50%" style="text-align:center; border-right: 1px solid #D8D8D8;">Submission of Supporting Documents here: 
-        <br/> &bull; Final controlled itinerary
-        <br/> &bull; Pe-departure test results
+      <td width="50%" style="text-align:center;">Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here: 
+       <!-- <br/> &bull; 
+        <br/> &bull; -->
          </td>
      <!-- <td width="50%" style="text-align:center;">Submission of Supporting Documents here:
          <br/> &bull; Final controlled itinerary
@@ -38,7 +42,7 @@ third_nav_title: Reciprocal Green Lane
         </td>-->
     </tr>
     <tr>
-      <td style="border-right: 1px solid #D8D8D8;" ><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
+      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
     <!--  <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>-->
     </tr>
     <tr>
