@@ -18,19 +18,23 @@ third_nav_title: Reciprocal Green Lane
       <td style="text-align:center;">Apply for Safetravel Pass here</td>
      <!-- <td width="50%" style="text-align:center;"><a href="https://go.gov.sg/indonrgl2">https://go.gov.sg/indonrgl2</a></td>-->
       <td width="50%" style="text-align:center;">Apply for Safetravel Pass; and<br/>
-        Submission of Supporting Documents here:
+        Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here:
     <!--  <br/> &bull; Final controlled itinerary
         <br/> &bull; Pe-departure test results-->
       </td>
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a></td>
-      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>
+      <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a>
+        <br/> <a href="https://go.gov.sg/indonrgl"> https://go.gov.sg/indonrgl</a>
+      </td>
+      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a>
+      <br/> <a href="https://eservices.ica.gov.sg/STO">https://eservices.ica.gov.sg/STO</a>
+      </td>
     </tr>
        <tr>
-      <td width="50%" style="text-align:center;">Submission of Supporting Documents here: 
-        <br/> &bull; Final controlled itinerary
-        <br/> &bull; Pe-departure test results
+      <td width="50%" style="text-align:center;">Submission of Supporting Documents (Final controlled itinerary & Pre-departure test results) here: 
+       <!-- <br/> &bull; 
+        <br/> &bull; -->
          </td>
      <!-- <td width="50%" style="text-align:center;">Submission of Supporting Documents here:
          <br/> &bull; Final controlled itinerary
