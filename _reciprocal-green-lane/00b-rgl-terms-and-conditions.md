@@ -10,6 +10,8 @@ Please refer to the relevant Terms and Conditions for travel to Singapore under 
 |----------|---------------------|
 |RGL (Brunei)  | PDF |
 |RGL (China)   | PDF|
+|RGL (Germany) |   PDF  |
+|RGL (Indonesia) |   PDF  |
 |RGL (Japan) |   PDF  |
 |RGL (Malaysia)   |   PDF     |
 |RGL (Republic of Korea)  | PDF|
