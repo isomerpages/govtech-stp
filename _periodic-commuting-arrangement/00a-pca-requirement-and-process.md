@@ -33,7 +33,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
     <br>
     <p style="font-size:14px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the [additional work pass conditions](/pca/terms-and-conditions) imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</li>
+       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/pca/terms-and-conditions">additional work pass conditions</a> imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</li>
       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Obtain his/her employees’ acknowledgement for the following; and
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Possession of a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
