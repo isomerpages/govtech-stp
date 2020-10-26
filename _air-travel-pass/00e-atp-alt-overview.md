@@ -15,7 +15,7 @@ The ATP scheme enables short-term visitors from the above-mentioned countries en
 <thead>
   <tr>
     <th>Air Travel Pass Country</th>
-    <th>Requiirements & Details</th>
+    <th>Requirements & Details</th>
   </tr>
 </thead>
 <tbody>
