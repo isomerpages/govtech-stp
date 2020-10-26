@@ -37,6 +37,8 @@ collections:
     output: true
   travellers-from-vietnam:
     output: true
+  travellers-from-indonesia:
+    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

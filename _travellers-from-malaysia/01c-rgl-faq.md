@@ -110,6 +110,7 @@ SafeTravel Pass applications may be rejected for reasons, including the followin
 - Inadequate justifications provided for reason of travel.
 - Non-compliant controlled itinerary submitted.
 - Wrong proof of residency submitted.
+- Quota limit reached for intended week of entry.
 
 #### 16. Can I use the RGL to come to Singapore for long-term work?
 
