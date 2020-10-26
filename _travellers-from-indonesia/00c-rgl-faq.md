@@ -325,7 +325,7 @@ The Embassy of the Republic of Indonesia in Singapore can be contacted at (+65) 
 
 #### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at selected clinics  for eligible RGL travellers. 
+Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at [selected clinics](/pre-departure-test) for eligible RGL travellers. 
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility. 
 
