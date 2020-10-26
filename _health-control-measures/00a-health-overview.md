@@ -5,7 +5,7 @@ permalink: /health
 
 As the COVID-19 situation evolves, Singapore will continue to update our border measures, taking into account our understanding of the virus and the developments in other countries/regions.
 
-Travellers planning to enter Singapore should be prepared to be subjected to the prevailing border control measures and public health requirements which are summarised in the document [here](/files/SHN-and-swab-summary.pdf). Details can be found in the pages related to arriving in Singapore.
+Travellers planning to enter Singapore should be prepared to be subjected to the prevailing border control measures and public health requirements which are summarised in the document <a href="/files/SHN-and-swab-summary.pdf" target="_blank">here</a>. Details can be found in the pages related to arriving in Singapore.
 
 <a href="/files/SHN-and-swab-summary.pdf">
 <img alt="SHN Summary" title="SHN Summary" src="/images/SHN-table-thumbnail.png" width="50" >
