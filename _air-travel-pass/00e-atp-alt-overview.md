@@ -33,7 +33,7 @@ The ATP scheme enables short-term visitors from the above-mentioned countries en
   </tr>
      <tr>
     <td><b>Vietnam</b></td>
-    <td><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
+    <td style="border:1px solid; color:#D8D8D8;"><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
   </tr>
   </tbody>
   </table>
