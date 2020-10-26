@@ -11,10 +11,10 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass on behalf of their employees using CorpPass if the employees fulfil the following criteria:
 
 - Are a Malaysian Citizen or a Malaysia Permanent Resident;
-- Hold a valid long-term passes* for business and work purposes in Singapore; and
+- Hold a valid long-term pass* for business and work purposes in Singapore; and
 - Are willing to spend at least 90 days in Singapore for work upon entry.
 
-<span class="font-size: 13px"><i> *Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Empployment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</i></span>
+<span class="font-size: 13px;"><i> *Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Empployment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</i></span>
  
 ### 2. Preparation for entry into Singapore
 
