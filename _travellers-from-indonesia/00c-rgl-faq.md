@@ -11,7 +11,7 @@ third_nav_title: Reciprocal Green Lane
 
 <div id="faq-residents-indonesia"></div>
 
-## **Application Process for Travellers in Indonesia**
+## **Application Process for Travellers from Indonesia**
 
 ### **Application**
 
