@@ -5,16 +5,21 @@ permalink: /atp/overview
 
 ## Overview 
 
-The Air Travel Pass (ATP) schemes address the needs of different groups of cross-border travellers between Australia, Brunei Darussalam, Mainland China, New Zealand, Vietnam  and Singapore.
+The Air Travel Pass (ATP) enables non-Singaporean short-term visitors from the countries/places below entry into Singapore. 
+- Australia 
+- Brunei Darussalam 
+- Mainland China 
+- New Zealand 
+- Vietnam 
 
-The ATP scheme enables short-term visitors from the above-mentioned countries entry into Singapore. Short-term visitors under the ATP scheme are required to apply for an ATP, and comply with the conditions of the ATP. These include undergoing a COVID-19 PCR test upon arrival in Singapore, in lieu of a Stay-Home Notice (SHN), and downloading and using TraceTogether for their entire period of stay.
+Short-term visitors are required to apply for an ATP, and comply with the conditions of the ATP. These include undergoing a COVID-19 PCR test upon arrival in Singapore, in lieu of a Stay-Home Notice (SHN), and downloading and using TraceTogether for their entire period of stay. Click the links below for details on the requirements and process for travellers departing from each ATP-eligible country/place.
 
 ## Countries Eligible for Air Travel Pass
 
 <table>
 <thead>
   <tr>
-    <th>Air Travel Pass Country</th>
+    <th>Air Travel Pass Country/Place</th>
     <th>Requirements & Process</th>
   </tr>
 </thead>
