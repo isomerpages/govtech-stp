@@ -24,11 +24,11 @@ third_nav_title: Reciprocal Green Lane
       </td>
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a>
+      <td style="text-align:center;"><a href="https://go.gov.sg/indonrgl"><img src="/images/qr-indonrgl.png" alt="https://go.gov.sg/indonrgl" title="https://go.gov.sg/indonrgl" style="width:75%;"></a>
         <br/> <a href="https://go.gov.sg/indonrgl"> https://go.gov.sg/indonrgl</a>
       </td>
-      <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a>
-      <br/> <a href="https://eservices.ica.gov.sg/STO">https://eservices.ica.gov.sg/STO</a>
+      <td style="text-align:center;"><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a>
+      <br/> <a href="https://eservices.ica.gov.sg/STO" >https://eservices.ica.gov.sg/STO</a>
       </td>
     </tr>
        <tr>
@@ -42,7 +42,8 @@ third_nav_title: Reciprocal Green Lane
         </td>-->
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a></td>
+      <td style="text-align:center;"><a href="https://go.gov.sg/indonrgl2"><img src="/images/qr-indonrgl2.png" alt="https://go.gov.sg/indonrgl2" title="https://go.gov.sg/indonrgl2" style="width:75%;"></a>  <br/> <a href="https://go.gov.sg/indonrgl2"> https://go.gov.sg/indonrgl2</a>
+      </td>
     <!--  <td><a href="https://eservices.ica.gov.sg/STO"><img src="/images/qr-rglapp.png" alt="https://eservices.ica.gov.sg/STO" title="https://eservices.ica.gov.sg/STO" style="width:75%;"></a></td>-->
     </tr>
     <tr>
