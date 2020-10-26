@@ -7,11 +7,10 @@ As the COVID-19 situation evolves, Singapore will continue to update our border 
 
 Travellers planning to enter Singapore should be prepared to be subjected to the prevailing border control measures and public health requirements which are summarised in the document [here](/files/SHN-and-swab-summary.pdf). Details can be found in the pages related to arriving in Singapore.
 
-<!--
 <a href="/files/SHN-and-swab-summary.pdf">
-<img border="2" alt="SHN Summary" src="/images/SHN-table-thumbnail.png" width="50" >
+<img alt="SHN Summary" title="SHN Summary" src="/images/SHN-table-thumbnail.png" width="50" >
 </a>
--->
+
 
 Some countries also require Pre-Departure Tests prior to travellers leaving Singapore. Details on taking pre-departure tests can be found in the departure section of the health control measures.
 
