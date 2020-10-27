@@ -30,7 +30,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit PCA application</b></td>
     <td style="font-size:18px;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application <a href="/apply-now">here</a>.</b>[<b><u>Important:</u></b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.]
-    <br>
+    <br/><br/>
     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/pca/terms-and-conditions">additional work pass conditions</a> imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</li>
@@ -68,7 +68,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
 <tbody>
   <tr>
     <td style="font-size:18px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:18px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b>
+    <td style="font-size:18px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b><br/><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the TraceTogether, Homer and WhatsApp mobile applications on their mobile phone. </li>
@@ -82,7 +82,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
    </thead>
    <tr>
     <td style="font-size:18px;"><b>Pre-departure clearance</b></td>
-     <td style="font-size:18px;">Approved PCA travellers must be able to produce the following documents when leaving Malaysia for Singapore:
+     <td style="font-size:18px;">Approved PCA travellers must be able to produce the following documents when leaving Malaysia for Singapore:<br/><br/>
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
@@ -104,7 +104,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
    <tr>
     <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:18px;"><b>Immediately after clearing the checkpoint, approved PCA travellers must make their way directly to their SHN accommodation.</b>
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their Stay-Home Notice (SHN) accommodation in Singapore. However, they are permitted to commute via:</p>
+     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their Stay-Home Notice (SHN) accommodation in Singapore. However, they are permitted to commute via:</p> <br/><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (e.g. motorbikes),* private buses ferrying only Malaysian passengers serving SHN**; or</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars.***</li>
@@ -168,7 +168,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
   </thead> 
   <tr>
     <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;"><b>All approved PCA travellers must:</b>
+    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications.</li>
