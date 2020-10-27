@@ -21,13 +21,12 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td rowspan="2">Country/Place of Departure</td>
   <td colspan="2">Short Term Travel</td>
-  <td>Periodic Commuting</td>
+  <td>Singapore or Malaysia Work Pass Holders</td>
  </tr>
  <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td>Any Purpose of Travel </td>
+  <td>Business & Official Travel</td>
+  <td>Periodic Commuting Between Malaysia and Singapore</td>
  </tr>
  <tr>
   <td>&nbsp;</td>
