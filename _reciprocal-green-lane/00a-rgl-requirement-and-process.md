@@ -18,14 +18,14 @@ third_nav_title: RGL Visitors to Singapore
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px;">Brunei, China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), Germany, Japan, Malaysia, Republic of Korea</th>
-    <th style="font-size:18px;">Indonesia</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8;">Brunei, China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), Germany, Japan, Malaysia, Republic of Korea</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8;">Indonesia</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-   <td style="font-size:18px;">Be a resident holding a valid passport of any nationality </td>
-   <td style="font-size:18px;">Be a citizen of Indonesia </td>
+   <td style="font-size:18px; border-bottom:3px solid #D8D8D8;">Be a resident holding a valid passport of any nationality </td>
+   <td style="font-size:18px; border-bottom:3px solid #D8D8D8;">Be a citizen of Indonesia </td>
  </tr>
  </tbody>
  </table>
