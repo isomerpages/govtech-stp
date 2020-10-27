@@ -152,7 +152,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
   </tr>
  <tr>
     <td style="font-size:18px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:18px;"><b>Application sponsors must: </b><br/>
+    <td style="font-size:18px;"><b>Application sponsors must: </b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
@@ -167,7 +167,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
   </thead> 
   <tr>
     <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/>
+    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the necessary mobile applications (e.g. TraceTogether).</li>
