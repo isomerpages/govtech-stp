@@ -18,7 +18,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 
 
 <table>
- <tr>
+ <tr><b>
   <td rowspan="2">Country/Place of Departure</td>
   <td colspan="2">Short Term Travel</td>
   <td>Singapore or Malaysia Work Pass Holders</td>
@@ -27,7 +27,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>Any Purpose of Travel </td>
   <td>Business & Official Travel</td>
   <td>Periodic Commuting Between Malaysia and Singapore</td>
- </tr>
+ </tr></b>
  <tr>
   <td>Australia</td>
   <td><a href="/australia/atp/requirements-and-process">Air Travel Pass</a></td>
