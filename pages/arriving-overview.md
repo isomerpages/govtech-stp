@@ -36,7 +36,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td>Brunei Darussalam</td>
-  <td>&nbsp;</td>
+  <td><a href="australia/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
