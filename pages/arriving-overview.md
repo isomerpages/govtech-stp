@@ -18,15 +18,15 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 
 |Country/Region of Departure | Any Purpose of Travel | Business & Official Trip | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
 |-------------|-------------------|-------------------|-------------|
-|Australia| [Air Travel Pass](australia/atp/requirements-and-process) |  |  | 
-|Brunei Darussalam| [Air Travel Pass](brunei/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Mainland China | [Air Travel Pass](china/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)<sup>2</sup>|  |
+|Australia| [Air Travel Pass](/australia/atp/requirements-and-process) |  |  | 
+|Brunei Darussalam| [Air Travel Pass](/brunei/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
+|Mainland China | [Air Travel Pass](/china/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)<sup>2</sup>|  |
 |Germany|  | [Reciprocal Green Lane](/rgl/overview)| |
 |Indonesia| | [Reciprocal Green Lane](/rgl/overview)| |
 |Japan|  | [Reciprocal Green Lane](/rgl/overview)| |
 |Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
-|New Zealand| [Air Travel Pass](newzealand/atp/requirements-and-process) |  | |
+|New Zealand| [Air Travel Pass](/newzealand/atp/requirements-and-process) |  | |
 |Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Vietnam| [Air Travel Pass](vietnam/atp/requirements-and-process) |  |  |
+|Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |
 
 <sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
