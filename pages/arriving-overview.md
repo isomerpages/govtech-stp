@@ -30,19 +30,19 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
  <tr>
   <td>Australia</td>
-  <td>&nbsp;</td>
+  <td><a href="/australia/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
   <td>Brunei Darussalam</td>
-  <td><a href="australia/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td><a href="/brunei/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
   <td>Mainland China</td>
-  <td>&nbsp;</td>
+  <td><a href="/china/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/overview">Reciprocal Green Lane</a><sup>2</sup></td>
   <td>&nbsp;</td>
  </tr>
@@ -72,7 +72,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
  <tr>
   <td>New Zealand</td>
-  <td>&nbsp;</td>
+  <td><a href="/newzealand/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
@@ -84,13 +84,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
  <tr>
   <td>Vietnam</td>
-  <td>&nbsp;</td>
+  <td><a href="/vietnam/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
 </table>
 
-
+<!--
 |Country/Place of Departure | Any Purpose of Travel | Business & Official Travel | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
 |-------------|-------------------|-------------------|-------------|
 |Australia| [Air Travel Pass](australia/atp/requirements-and-process) |  |  | 
@@ -102,6 +102,6 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 |Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
 |New Zealand| [Air Travel Pass](newzealand/atp/requirements-and-process) |  | |
 |Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |
+|Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |-->
 
 <sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
