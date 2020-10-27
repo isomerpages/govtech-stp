@@ -1,5 +1,5 @@
 ---
-title: Requirement and Process
+title: Returning to Singapore for Short-Term Home Leave
 permalink: /pca/scpr-requirement-and-process
 third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 ---
