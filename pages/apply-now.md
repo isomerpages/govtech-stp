@@ -5,7 +5,7 @@ permalink: /apply-now
 
 ## Safe Travel Lanes for Entry to Singapore
 
-|Safe Travel Lane | Application Form| Lane Requirements and Details |
+|Safe Travel Lane | Application Form| Requirements and Details |
 | ------------- |-------------------| -----------------------------|
 |Air Travel Pass| [Apply](https://go.gov.sg/atpsg) | [Details](/atp/overview)  |
 |Periodic Commuting Arrangement (Singapore Work Pass Holders)| [Apply](https://eservices.ica.gov.sg/STO) |  [Details](/pca/requirements-and-process)|
