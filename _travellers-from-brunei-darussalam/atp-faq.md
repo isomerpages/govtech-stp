@@ -1,8 +1,4 @@
----
-title: ATP FAQ
-permalink: /brunei/atp/faq
 
----
 
 ### **Air Travel Pass (ATP)**
 
