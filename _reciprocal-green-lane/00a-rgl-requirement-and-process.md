@@ -185,8 +185,8 @@ third_nav_title: RGL Visitors to Singapore
 <tbody>
 <tr>
     <td style="font-size:18px;"><b>Self-isolation</b></td>
-    <td style="font-size:16px;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (approximately 48 hours).</b>
-     <p style="font-size:16px; margin-top:0px;"><i>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </i> </p>
+    <td style="font-size:16px;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (approximately 48 hours).</b><br/><br/>
+     <i>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </i> 
     </td>
  </tr>  
   <thead>
@@ -221,7 +221,7 @@ third_nav_title: RGL Visitors to Singapore
   <tr>
     <td  style="font-size:18px;"><b>Retention of TraceTogether app</b></td>
     <td style="font-size:16px;"><b>RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore. </b> Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore is required to upload all data in the TraceTogether app upon request by the Singapore Ministry of Health. 
-     <br/>
+     <br/><br/>
     <b>Travellers who used TraceTogether tokens</b> and returned them to the host on departure are required to inform the Singapore host if they subsequently test positive for COVID-19. The host is subsequently required to upload the TraceTogether data to MOH in order to facilitate contact tracing. 
       </td>
  </tr>
