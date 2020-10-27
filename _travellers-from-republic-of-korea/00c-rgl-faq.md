@@ -29,7 +29,7 @@ Yes. All residents in the ROK who need to make short-term essential business or 
 
 #### 3. What is a SafeTravel Pass?
 
-A SafeTravel Pass is required for residents in the ROK to seek entry into Singapore under the fast lane. It is non-transferable and will be valid for a single entry into Singapore anytime within the stipulated week (0000hrs Monday to 2359hrs Sunday). Travellers must enter Singapore within this stipulated week, and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore.
+A Safetravel Pass is required to seek entry into Singapore under the fast lane. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
@@ -75,9 +75,7 @@ No payment is required.
 
 #### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. However, please note that there may be penalties for repeated non-utilisation. Every entry to Singapore requires a new SafeTravel Pass application. 
-
-If the traveller’s SafeTravel Pass has expired, he/she should submit a new application.
+There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application. However, please note that there may be penalties for repeated non-utilisation.
 
 #### 10. What visa will I be eligible for under the fast lane, and what is the duration of stay that I will be eligible for in Singapore?
 
@@ -97,39 +95,46 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What can I do if I have changes to my controlled itinerary?
 
-The host company should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company should resubmit the updated controlled itinerary on behalf of the traveller via the ‘Submit Supporting Documents’ Form, at <https://eservices.ica.gov.sg/STO>. Please have the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. 
+The host company should be responsible for promptly monitoring and reporting any deviation in your controlled itinerary. The host company should email the updated controlled itinerary on behalf of the traveller to <COVID_SafeTravelEnquiries@mti.gov.sg>. Please include the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. A non-compliant controlled itinerary may result in the withdrawal of the STP and termination of the Visit Pass if not immediately rectified. 
 
 #### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
 
-The sponsoring company/agency or traveller may enquire the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.
+The sponsoring company/agency or traveller may make enquiries about the status of their application(s) via <https://eservices.ica.gov.sg/STO>. Please prepare the traveller’s identification details and intended date of entry in Singapore as declared in the STP application.
 
 #### 15. Why was my application rejected?
 
 SafeTravel Pass applications may be rejected for reasons, including the following
 
-- Inadequate justifications provided for reason of travelinformation provided.
+- Inadequate justifications provided for reason of travel.
 - Non-compliant controlled itinerary submitted.
-- Wrong proof of residency submitted.
+- Invalid proof of residency submitted.
+- Quota limit reached for intended week of entry.
 
-#### 16. Can I use the fast lane to come to Singapore for long-term work?
+#### 16. I have submitted the necessary supporting documents prior to my departure from the ROK to Singapore. Why did i receive a notification thatthe submission was unsuccessful? 
+
+You might have submitted the supporting documents earlier than the 72-hour window before the declared date of departure from the ROK. You should submit the suporting documents only after receiving the results of the COVID-19 PCR test which has to be taken <u>within 72 hours</u> of departure from the ROK. Please resubmit the necessary documents within the sitpulated window prior to departure. 
+
+Do also ensure that the supporting documents submitted are in the correct format (.pdf,.jpeg). 
+
+#### 17. Can I use the fast lane to come to Singapore for long-term work?
 
 The fast lane is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme.
 
-#### 17. Can I use the fast lane to come to Singapore for long-term study?
+#### 18. Can I use the fast lane to come to Singapore for long-term study?
 
 The fast lane is only for short-term essential business and official travel, and not for long-term study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders> for more information.
 
-#### 18. Can I use the fast lane to transit through Singapore?
+#### 19. Can I use the fast lane to transit through Singapore?
 
 The fast lane is only for short-term essential business and official travel between Singapore and ROK, and not for transit through Singapore.
 
 ### **Pre-Departure Measures in the ROK**
 
-#### 19. What health measures must I take in the ROK before departing for Singapore?
+#### 20. What health measures must I take in the ROK before departing for Singapore?
 
 Travellers must have remained in the ROK for 14 days prior to departure for Singapore. They must monitor their health status before departure from the ROK, undergo a pre-departure PCR test in the ROK at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the ROK. Please note that it may take around three days to take a pre-departure PCR test after applying to do so. Please approach the ROK Business Travel Support Center (<https://www.btsc.or.kr> / (+82) 1566-8110 / <btsc@kita.net>) for further details on the medical institutions. [Note: Website only in Korean; enquiries in English can be made via phone or email.]
 
-#### 20. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from the ROK to Singapore?
+#### 21. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from the ROK to Singapore?
 
 The traveller is required to produce the following documents for pre-boarding checks:
 - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter);
@@ -141,13 +146,13 @@ Otherwise, the traveller may be refused boarding.
 
 ### **Testing Arrangements Upon Arrival in Singapore**
 
-#### 21. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
+#### 22. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
 
-Travellers coming in on the fast lane will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, the traveller must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance. 
+Travellers coming in on the fast lane will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For fast lane travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, the traveller must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance. 
 
 Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
 
-#### 22. What if I test positive for COVID-19 in Singapore?
+#### 23. What if I test positive for COVID-19 in Singapore?
 
 Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of his/her arrival in Singapore. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as a fast lane traveller.
 
@@ -155,21 +160,21 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 ### **Health Measures in Singapore**
 
-#### 23. What health measures will I be subjected to upon arrival in Singapore?
+#### 24. What health measures will I be subjected to upon arrival in Singapore?
 
-Fast lane travellers from the ROK must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation (non-residential address only) until their test results are released (typically within 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
+Fast lane travellers from the ROK must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced non residential accommodation until their test results are released (typically 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup>Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation 
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
-#### 24. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 25. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
 The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
-#### 25. What is SafeEntry?
+#### 26. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -177,7 +182,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to the ROK**
 
-#### 26. Do I need to be tested again in Singapore before I return to the ROK? Do I need to be quarantined or be tested again upon return to the ROK?
+#### 27. Do I need to be tested again in Singapore before I return to the ROK? Do I need to be quarantined or be tested again upon return to the ROK?
 
 Fast lane returnees to the ROK currently do not need to be tested again in Singapore before returning to the ROK.
 
@@ -185,7 +190,7 @@ Upon their arrival back in the ROK, they must adhere to the prevailing COVID-19 
 
 As the specific requirements may change over time, the returnee should verify the latest requirements with the ROK Government.
 
-#### 27. What are the requirements for re-entry into the ROK?
+#### 28. What are the requirements for re-entry into the ROK?
 
 Foreign nationals with long-term residency in the ROK are required to obtain a re-entry permit before leaving the ROK. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click [here](http://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761457&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) for more information on the re-entry permit.
 
