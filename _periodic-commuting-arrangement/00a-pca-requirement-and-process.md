@@ -21,33 +21,33 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>At least 7 calendar days</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>At least 7 calendar days</u></b> before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submit PCA application</b></td>
-    <td style="font-size:16px;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application <a href="/apply-now">here</a>.</b>[<b><u>Important:</u></b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.]
+    <td rowspan="2" style="font-size:18px;"><b>Submit PCA application</b></td>
+    <td style="font-size:18px;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application <a href="/apply-now">here</a>.</b>[<b><u>Important:</u></b> Applications will only be processed after credit card payment is made for the COVID-19 Polymerase Chain Reaction (PCR) test.]
     <br>
-    <p style="font-size:14px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
+    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:14px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/pca/terms-and-conditions">additional work pass conditions</a> imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</li>
-      <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Obtain his/her employees’ acknowledgement for the following; and
+       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/pca/terms-and-conditions">additional work pass conditions</a> imposed on him/her by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA);</li>
+      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Obtain his/her employees’ acknowledgement for the following; and
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Possession of a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
-          <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Additional work pass conditions that he/she is subjected to under the PCA (click <a href ="">here</a>); and</li>
-          <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Consent given to disclose his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Possession of a work pass that is valid for at least 15 days from the expected date of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Additional work pass conditions that he/she is subjected to under the PCA (click <a href ="">here</a>); and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent given to disclose his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider.</li>
          </ol>   
        </li>
-      <li style="font-size:14px; margin-top:0px; margin-bottom:0px;">Have on hand, the following details:
+      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand, the following details:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
-         <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Employee’s Long-Term Pass expiry date; </li>
-         <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
-         <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Address of employee’s accommodation to complete his/her Stay-Home Notice (SHN); * and </li>
-         <li style="font-size:14px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s Long-Term Pass expiry date; </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Address of employee’s accommodation to complete his/her Stay-Home Notice (SHN); * and </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
       </ol>   
@@ -62,16 +62,16 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>1 calendar day</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>1 calendar day</u></b> before planned date of entry into Singapore</th>
   </tr>
   </thead>
 <tbody>
   <tr>
-    <td style="font-size:16px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:16px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b>
+    <td style="font-size:18px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications</b></td>
+    <td style="font-size:18px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b>
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Install and activate the TraceTogether, Homer and WhatsApp mobile applications on their mobile phone. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the TraceTogether, Homer and WhatsApp mobile applications on their mobile phone. </li>
          </ol>   
     </td>
   </tr>
@@ -81,11 +81,11 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
   </tr>
    </thead>
    <tr>
-    <td style="font-size:16px;"><b>Pre-departure clearance</b></td>
-     <td style="font-size:16px;">Approved PCA travellers must be able to produce the following documents when leaving Malaysia for Singapore:
+    <td style="font-size:18px;"><b>Pre-departure clearance</b></td>
+     <td style="font-size:18px;">Approved PCA travellers must be able to produce the following documents when leaving Malaysia for Singapore:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
          </ol>      
     </td>
   </tr>
@@ -97,22 +97,22 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day of entry</u></b>into Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>Day of entry</u></b>into Singapore</th>
   </tr>
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;"><b>Immediately after clearing the checkpoint, approved PCA travellers must make their way directly to their SHN accommodation.</b>
-     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their Stay-Home Notice (SHN) accommodation in Singapore. However, they are permitted to commute via:</p>
+    <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td style="font-size:18px;"><b>Immediately after clearing the checkpoint, approved PCA travellers must make their way directly to their SHN accommodation.</b>
+     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their Stay-Home Notice (SHN) accommodation in Singapore. However, they are permitted to commute via:</p>
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Personal transport (e.g. motorbikes),* private buses ferrying only Malaysian passengers serving SHN**; or</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars.***</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (e.g. motorbikes),* private buses ferrying only Malaysian passengers serving SHN**; or</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars.***</li>
          </ol> 
      <table>
       <thead>
   <tr>
-    <th style="font-size:16px;">Important</th>
+   <th style="font-size:18px;"><b>Important</b></th>
   </tr>
   </thead>
       <tbody>
@@ -137,41 +137,41 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Up to 3 days after arriving</u></b> in Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>Up to 3 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
-    <td style="font-size:16px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;"><b>Application sponsors must:</b>
+    <td style="font-size:18px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:18px;"><b>Application sponsors must:</b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment is sent to the application sponsor via email and SMS;</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> Ensure that their employees show up for their test appointment; and</li>
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Ensure that their employees return to their SHN accommodation immediately after their test, where they will remain until the end of the 7-day SHN or when a negative COVID-19 test is conveyed, whichever later.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment is sent to the application sponsor via email and SMS;</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Ensure that their employees show up for their test appointment; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees return to their SHN accommodation immediately after their test, where they will remain until the end of the 7-day SHN or when a negative COVID-19 test is conveyed, whichever later.</li>
          </ol>   
     </td>
   </tr>
  <tr>
-    <td style="font-size:16px;"><b>Self-isolation</b></td>
-    <td style="font-size:16px;"><b>Approved PCA travellers must remain in their declared SHN accommodation for the duration of their SHN, except if they are:</b>
+    <td style="font-size:18px;"><b>Self-isolation</b></td>
+    <td style="font-size:18px;"><b>Approved PCA travellers must remain in their declared SHN accommodation for the duration of their SHN, except if they are:</b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore, whichever later.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore, whichever later.</li>
          <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense. </p>
          </ol>   
     </td>
   </tr>
  <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>After completion of isolation or receipt of negative COVID-19 PCR test, whichever later</u></b></th>
+    <th colspan="2" style="font-size:18px;"><b><u>After completion of isolation or receipt of negative COVID-19 PCR test, whichever later</u></b></th>
   </tr>
   </thead> 
   <tr>
-    <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;"><b>All approved PCA travellers must:</b>
+    <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:18px;"><b>All approved PCA travellers must:</b>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications.</li>
          </ol>   
     </td>
  </tr>
