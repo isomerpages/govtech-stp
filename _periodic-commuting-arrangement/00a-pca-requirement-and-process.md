@@ -144,7 +144,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 7-day SHN, whichever later</li>
          </ol>   
     <br/>
-     <p style-"font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
+     <p style-"font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.</p>
      <br/>
      *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.
      </p>
