@@ -56,7 +56,8 @@ third_nav_title: RGL Visitors to Singapore
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Details of 14-day itinerary in Singapore.* </li>
       </ol>      
        </li>
-        <p style="font-size:18px;"> * RGL travellers from Indonesia are required to submit their 10-day itinerary. </p>     
+       <br/><br/>
+        * RGL travellers from Indonesia are required to submit their 10-day itinerary.
        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "> Inform the traveller of the relevant RGL terms and conditions as part of the application, found <a href="/rgl/terms-and-conditions">here.</a></li>       
      </ol>
     </td>
