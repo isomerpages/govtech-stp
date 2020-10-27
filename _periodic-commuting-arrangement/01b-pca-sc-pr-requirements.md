@@ -70,7 +70,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
   </thead>
    <tr>
     <td style="font-size:18px;"><b>Pre-departure clearance</b></td>
-    <td style="font-size:18px;">Approved PCA travellers should travel to Singapore on the date, time and land checkpoint selected during the application.</a>
+    <td style="font-size:18px;">Approved PCA travellers should travel to Singapore on the date, time and land checkpoint selected during the application.
     </td>
   </tr>
    </tbody>
