@@ -1,6 +1,7 @@
 ---
-title: Air Travel Pass - Overview
+title: Overview
 permalink: /atp/overview
+third_nav_title: Air Travel Pass
 ---
 
 The Air Travel Pass (ATP) enables non-Singaporean short-term visitors from the countries/places below to enter Singapore. 
