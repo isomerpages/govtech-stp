@@ -24,8 +24,8 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>Singapore or Malaysia Work Pass Holders</td>
  </tr>
  <tr>
-  <td  style="border-left:1px solid #D8D8D8;">Any Purpose of Travel </td>
-  <td style="border-right:1px solid #D8D8D8;">Business & Official Travel</td>
+  <td>Any Purpose of Travel </td>
+  <td>Business & Official Travel</td>
   <td>Periodic Commuting Between Malaysia and Singapore</td>
  </tr>
  <tr>
