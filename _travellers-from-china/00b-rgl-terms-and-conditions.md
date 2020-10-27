@@ -52,7 +52,7 @@ third_nav_title: Singapore-China Fast Lane
 
 7. The traveller must remain in any of the Relevant Qualifying Regions in the 7 days prior to his/her departure for Singapore (exclusive of the day of arrival).
 
-8. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet.
+8. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns. 
 
 9. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
