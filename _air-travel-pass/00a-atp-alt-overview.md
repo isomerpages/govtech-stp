@@ -31,6 +31,10 @@ Click the links below for details on the requirements and process for travellers
     <td><b>Brunei Darussalam</b></td>
     <td><a href="/brunei/overview">Click here</a></td>
   </tr>
+    <tr>
+    <td><b>Mainland China</b></td>
+    <td><a href="/china/overview">Click here</a></td>
+  </tr>
    <tr>
     <td><b>New Zealand</b></td>
     <td><a href="/newzealand/atp/requirements-and-process">Click here</a></td>
