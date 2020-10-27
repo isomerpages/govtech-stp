@@ -83,10 +83,10 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Vietnam</td>
-  <td><a href="/vietnam/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="border-bottom:1px solid #D8D8D8;">Vietnam</td>
+  <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
+  <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
  </tr>
 </table>
 
