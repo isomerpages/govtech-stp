@@ -37,7 +37,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td>Brunei Darussalam</td>
   <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
@@ -49,20 +49,20 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td>Germany/td>
   <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
   <td>Indonesia</td>
   <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
   <td>Malaysia</td>
   <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
+  <td><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
  </tr>
  <tr>
   <td>New Zealand</td>
@@ -73,7 +73,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td>Republic of Korea</td>
   <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
