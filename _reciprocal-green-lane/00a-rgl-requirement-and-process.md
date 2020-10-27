@@ -70,7 +70,7 @@ third_nav_title: RGL Visitors to Singapore
     <td style="font-size:18px;"><b>Travellers to Submit Visa Application (if Required) </b>
     <!--<td style="font-size:16px;"><b>Application sponsors to submit an RGL application <a href="/apply-now"> here</a></b>-->
     </td>
-    <td style="font-size:16px;">Only after the SafeTravel Pass-RGL is approved and sent to the sponsor, prospective RGL travellers who are visa-required passport holders should apply through the usual channels for a visa to travel to Singapore. <br/>
+    <td style="font-size:16px;">Only after the SafeTravel Pass-RGL is approved and sent to the sponsor, prospective RGL travellers who are visa-required passport holders should apply through the usual channels for a visa to travel to Singapore. <br/><br/> 
     <ol style="margin-top:0px; list-style-type: lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "> Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa"> here</a>; and</li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Travellers who are existing visa holders can check their status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid). </li>
@@ -105,7 +105,7 @@ third_nav_title: RGL Visitors to Singapore
 </thead>
  <tr>
     <td style="font-size:18px;"><b>Submission of Health Declarations and Payment for Arrival Swab </b></td>
-    <td style="font-size:18px;"><b> Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, they should: </b><br/>
+    <td style="font-size:18px;"><b> Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, they should: </b><br/><br/> 
       <ol style="margin-top:0px; list-style-type: lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "> Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and </li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.  </li>
@@ -120,7 +120,7 @@ third_nav_title: RGL Visitors to Singapore
   </thead>
    <tr>
     <td style="font-size:18px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
-    <td style="font-size:18px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore: </b><br/>
+    <td style="font-size:18px;"><b>Approved RGL travellers must produce the following documents when leaving for Singapore: </b><br/><br/> 
    <ol style="margin-top:0px;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the period of entry stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore; </li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid visa to enter Singapore (for visa-required passport holders);  </li>
@@ -146,7 +146,7 @@ third_nav_title: RGL Visitors to Singapore
 <tbody>
   <tr>
     <td  style="font-size:18px;"><b>Immigration clearance</b></td>
-    <td style="font-size:18px;"><b>An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel pass holder and be able to produce the following:</b><br/>
+    <td style="font-size:18px;"><b>An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel pass holder and be able to produce the following:</b><br/><br/> 
       <ol style="margin-top:0px; margin-bottom:0px;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid SafeTravel Pass for the intended week of travel;</li>
              <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid visa (for visa-required passport holders);</li>
@@ -197,7 +197,7 @@ third_nav_title: RGL Visitors to Singapore
   </thead>
    <tr>
     <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;"><b>All approved RGL travellers must:</b><br/>
+    <td style="font-size:18px;"><b>All approved RGL travellers must:</b><br/><br/> 
     <ol style="margin-top:0px;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Adhere to the submitted itinerary for the duration of stay; and</li>
              <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Commute using private hire cars/taxis or cohorted company transport (commuting via public transport is prohibited).</li>
