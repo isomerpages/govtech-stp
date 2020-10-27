@@ -127,7 +127,7 @@ third_nav_title: RGL Visitors to Singapore
     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and   </li>
     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">A return air ticket or proof of other transportation arrangements to depart from Singapore. </li>
       </ol>    
-    <p style="font-size:18px;"> Travellers who do not produce the above documents at preboarding checks may be refused boarding by the airline or transport company. </p>
+    <p style="font-size:18px; margin-top:1px; margin-bottom:0px;"> Travellers who do not produce the above documents at preboarding checks may be refused boarding by the airline or transport company. </p>
     </td>
   </tr>
  </tbody>
