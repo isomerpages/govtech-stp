@@ -1,7 +1,4 @@
----
-title: Overview
-permalink: /china/overview
----
+
 
 The Reciprocal Green Lane (RGL) and Air Travel Pass (ATP) schemes address the needs of different groups of cross-border travellers between Mainland China and Singapore.
 
