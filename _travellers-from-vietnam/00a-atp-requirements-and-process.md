@@ -32,9 +32,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### Visa Requirements
 
-Visitors who hold a visa-required passport must separately obtain a valid visa prior to departure for Singapore. Such visitors are strongly encouraged to apply for their Air Travel Pass early.
+Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore. Such visitors are strongly encouraged to apply for their visas early.
 
-If the visitor already has an existing valid visa which has been suspended due to COVID-19, ICA will lift the suspension and there is no need to obtain a new visa. Information on visa requirements and application can be found on ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa)
+ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa. Information on visa requirements and application can be found on ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa)
 
 #### Pre-Departure
 
@@ -42,7 +42,7 @@ Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
 - remain in Vietnam in the last 14 consecutive days before departing for Singapore;
 - monitor his/her health status before departure;
 - book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result <sup>1</sup>. The accommodation <sup>2</sup> must be non-residential and must be an individual room with an attached toilet;
-- check that his/her mobile device is compatible <sup>3</sup> with the [TraceTogether app](https://www.tracetogether.gov.sg/) and download it on his/her mobile device <sup>4</sup>, register his/her mobile number and personal details on the app; and
+- check that his/her mobile device is compatible <sup>3</sup> with the TraceTogether app, [download](https://www.tracetogether.gov.sg/) it on his/her mobile device <sup>4</sup>, register his/her mobile number and personal details on the app; and
 - submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to his/her date of arrival in Singapore.
 
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore.
@@ -50,7 +50,7 @@ Visitors are also strongly encouraged to [register and pre-pay](https://safetrav
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and registered.
+- a mobile device with the TraceTogether app already downloaded and activated.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
@@ -61,7 +61,7 @@ A visitor who does not have any of the above may be refused boarding by the airl
 At arrival immigration in Singapore, the visitor must present to the ICA officer:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and registered.
+- a mobile device with the TraceTogether app already downloaded and activated.
 
 A visitor who does not have any of the above may be refused entry into Singapore by ICA.
 
