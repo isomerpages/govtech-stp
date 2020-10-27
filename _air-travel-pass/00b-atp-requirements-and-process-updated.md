@@ -1,6 +1,6 @@
 ---
 title: Requirements & Process
-permalink: /atp/requirements-and-process
+permalink: /atp/requirements-and-process-test
 ---
 
 ### 1. Eligibility 
