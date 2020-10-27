@@ -16,17 +16,39 @@ For all countries/places, the following traveller types and Safe Travel Lanes ar
 
 Singapore has arranged additional Safe Travel Lanes with the following countries/places to facilitate shorter term entry into Singapore.
 
-|Country/Region of Departure | Any Purpose of Travel | Business & Official Trip | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
+
+<table>
+ <tr>
+  <td rowspan="2">Country/Place of Departure</td>
+  <td colspan="2">Short Term Travel</td>
+  <td>Periodic Commuting</td>
+ </tr>
+ <tr>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+</table>
+
+
+|Country/Place of Departure | Any Purpose of Travel | Business & Official Travel | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
 |-------------|-------------------|-------------------|-------------|
-|Australia| [Air Travel Pass](/australia/atp/requirements-and-process) |  |  | 
-|Brunei Darussalam| [Air Travel Pass](/brunei/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Mainland China | [Air Travel Pass](/china/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)<sup>2</sup>|  |
+|Australia| [Air Travel Pass](/atp/australia/requirements-and-process) |  |  | 
+|Brunei Darussalam| [Air Travel Pass](/atp/brunei/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
+|Mainland China | [Air Travel Pass](/atp/china/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)<sup>2</sup>|  |
 |Germany|  | [Reciprocal Green Lane](/rgl/overview)| |
 |Indonesia| | [Reciprocal Green Lane](/rgl/overview)| |
 |Japan|  | [Reciprocal Green Lane](/rgl/overview)| |
 |Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
-|New Zealand| [Air Travel Pass](/newzealand/atp/requirements-and-process) |  | |
+|New Zealand| [Air Travel Pass](/atp/newzealand/requirements-and-process) |  | |
 |Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |
+|Vietnam| [Air Travel Pass](atp/vietnam/requirements-and-process) |  |  |
 
 <sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
