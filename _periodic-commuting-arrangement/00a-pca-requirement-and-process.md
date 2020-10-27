@@ -143,7 +143,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 7-day SHN, whichever later</li>
          </ol>   
-    <br/><br/>
+    <br/>
      <p style-"font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
      <br/>
      *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.
@@ -152,7 +152,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
   </tr>
  <tr>
     <td style="font-size:18px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:18px;"><b>Application sponsors must: </b><br/><br/>
+    <td style="font-size:18px;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
@@ -167,7 +167,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
   </thead> 
   <tr>
     <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/><br/>
+    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the necessary mobile applications (e.g. TraceTogether).</li>
