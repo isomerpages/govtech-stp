@@ -4,7 +4,7 @@ permalink: /atp/overview
 third_nav_title: Air Travel Pass
 ---
 
-The Air Travel Pass (ATP) enables non-Singaporean short-term visitors from the countries/places below to enter Singapore. 
+The Air Travel Pass (ATP) enables non-Singaporean short-term visitors departing from the countries/places below to enter Singapore. 
 - Australia 
 - Brunei Darussalam 
 - Mainland China 
@@ -13,7 +13,7 @@ The Air Travel Pass (ATP) enables non-Singaporean short-term visitors from the c
 
 Click the links below for details on the requirements and process for travellers departing from each ATP-eligible country/place.
 
-## Countries Eligible for Air Travel Pass
+## Countries/Places Eligible for Air Travel Pass
 
 <table>
 <thead>
