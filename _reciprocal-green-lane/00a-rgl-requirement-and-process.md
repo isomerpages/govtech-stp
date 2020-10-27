@@ -18,8 +18,8 @@ third_nav_title: RGL Visitors to Singapore
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Brunei, China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), Germany, Japan, Malaysia, Republic of Korea</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8;  border-right:1px solid #D8D8D8;">Indonesia</th>
+    <th style="font-size:18px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Brunei, China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), Germany, Japan, Malaysia, Republic of Korea</th>
+    <th style="font-size:18px; border-top:1px solid #D8D8D8;  border-right:1px solid #D8D8D8;">Indonesia</th>
   </tr>
 </thead>
 <tbody>
