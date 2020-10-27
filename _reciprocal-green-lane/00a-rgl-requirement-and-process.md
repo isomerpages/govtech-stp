@@ -163,7 +163,7 @@ third_nav_title: RGL Visitors to Singapore
   </tr>
   <tr>
     <td  style="font-size:18px;"><b>TraceTogether App/Token </b></td>
-    <td style="font-size:18px;">The local host* is required to: <br/>
+    <td style="font-size:18px;">The local host* is required to: <br/> <br/>
       <ol style="margin-top:0px; margin-bottom:0px;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that the approved RGL traveller uses the <a href="https://www.tracetogether.gov.sg">TraceTogether App</a> or device throughout their stay in Singapore; and </li>
              <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
