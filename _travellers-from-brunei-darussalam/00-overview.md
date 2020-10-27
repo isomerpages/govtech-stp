@@ -1,5 +1,5 @@
 ---
-title: Travelling from Brunei - Overview
+title: Overview
 permalink: /brunei/overview
 ---
 
