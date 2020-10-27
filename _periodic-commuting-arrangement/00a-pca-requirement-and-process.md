@@ -31,7 +31,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
     <td rowspan="2" style="font-size:18px;"><b>Submit PCA application</b></td>
     <td style="font-size:18px;"><b>Singapore-based companies (i.e. application sponsors) to submit a
 PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">here</a>, including
-payment for the employees’ COVID-19 Polymerase Chain Reaction (PCR) test.
+     payment for the employees’ COVID-19 Polymerase Chain Reaction (PCR) test.</b>
     <br/><br/>
     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
