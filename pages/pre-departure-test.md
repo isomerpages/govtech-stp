@@ -36,11 +36,11 @@ Successful applicants will be notified of the approval via the email registered 
 
 ### **Booking an Appointment**
 
-Pre-departure COVID-19 PCR testing is only done at [selected clinics as listed](/pdf/clinic_listing_01102020.pdf). Please note that receipt of an application approval is not a guarantee of an appointment slot on your preferred date/time at any of the clinics. Once you have been notified of the approval via email, please contact a listed clinic directly to make an appointment. **You are responsible for checking for your testing window that is in line with your destination country’s requirement.**
+Pre-departure COVID-19 PCR testing is only done at [selected clinics as listed](/pdf/clinic_listing_27102020.pdf). Please note that receipt of an application approval is not a guarantee of an appointment slot on your preferred date/time at any of the clinics. Once you have been notified of the approval via email, please contact a listed clinic directly to make an appointment. **You are responsible for checking for your testing window that is in line with your destination country’s requirement.**
 
 #### 1. Where can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](/pdf/clinic_listing_01102020.pdf). The cost of the pre-departure test at each clinic is also listed.
+Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](/pdf/clinic_listing_27102020.pdf). The cost of the pre-departure test at each clinic is also listed.
 
 **Please ensure you have the approval letter** before you proceed to the clinic. Persons without prior approval will not be allowed to purchase a pre-departure test.
 
