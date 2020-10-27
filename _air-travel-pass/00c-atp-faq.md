@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /atp/faq
----
+
 
 Please refer to the relevant Frequently Asked Questions for travel to Singapore under the ATP from the various countries/places below.
 
