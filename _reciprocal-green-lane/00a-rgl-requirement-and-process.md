@@ -44,7 +44,7 @@ third_nav_title: RGL Visitors to Singapore
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit RGL application </b></td>
     <td style="font-size:18px;"><b>Singapore-based companies or Singapore Government Agencies (i.e. application sponsors) to submit an RGL application <a href="/rgl/apply-now">here</a>.</b> Applications for travel are open between 2-5 weeks before the intended date of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b> Applications submitted less than 7 days from the intended date of entry will not be processed. </b>
-     <p style="font-size:18px; margin-top:0px; margin-bottom:opx;">  Application sponsors should: </p>
+     <br/><br/>  Application sponsors should:
       <ol style="margin-top:0px;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "> Have on hand the following details as part of the submission: 
         <ol style="margin-top:0px; list-style-type: lower-alpha;">
