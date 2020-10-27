@@ -1,8 +1,4 @@
----
-title: Air Travel Pass
-permalink: /brunei/atp
-third_nav_title: All Travellers
----
+
 
 # Air Travel Pass
 
