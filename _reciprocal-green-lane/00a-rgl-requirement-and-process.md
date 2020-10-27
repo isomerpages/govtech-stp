@@ -221,7 +221,7 @@ third_nav_title: RGL Visitors to Singapore
   <tr>
     <td  style="font-size:18px;"><b>Retention of TraceTogether app</b></td>
     <td style="font-size:16px;"><b>RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore. </b> Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore is required to upload all data in the TraceTogether app upon request by the Singapore Ministry of Health.       
-     <p style="font-size:13px; margin-top:0px;"><b>Travellers who used TraceTogether tokens</b> and returned them to the host on departure are required to inform the Singapore host if they subsequently test positive for COVID-19. The host is subsequently required to upload the TraceTogether data to MOH in order to facilitate contact tracing. 
+     <p style="font-size:16px; margin-top:0px;"><b>Travellers who used TraceTogether tokens</b> and returned them to the host on departure are required to inform the Singapore host if they subsequently test positive for COVID-19. The host is subsequently required to upload the TraceTogether data to MOH in order to facilitate contact tracing. 
  </p>
       </td>
  </tr>
