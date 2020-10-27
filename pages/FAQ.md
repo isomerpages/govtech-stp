@@ -6,9 +6,9 @@ permalink: /FAQ
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; ">Country</th>
-    <th style="font-size:18px;  ">Safe Travel Lanes</th>
-    <th style="font-size:18px;  ">Frequently Asked Questions</th>
+    <th style="font-size:18px;">Country</th>
+    <th style="font-size:18px; ">Safe Travel Lanes</th>
+    <th style="font-size:18px; ">Frequently Asked Questions</th>
   </tr>
 </thead>
 <tbody>
