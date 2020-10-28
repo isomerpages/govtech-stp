@@ -1,3 +1,7 @@
+---
+title: Pre-Departure Measures
+permalink: /rgl/pre-departure-measures
+---
 
 
 ### Pre-Departure Measures in Country/Region of Departure
