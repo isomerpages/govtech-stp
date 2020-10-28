@@ -3,33 +3,47 @@ title: Before Arriving in Singapore
 permalink: /health/before-arriving
 third_nav_title: Arriving in Singapore
 ---
+## Pre-Departure to Singapore
 
-### 1. Obtain Entry Approval (If Applicable)
+### 1. Obtain Entry Approval
 
-Make sure you have obtained approval for entry to Singapore via the various Safe Travel Lanes if required. Each Safe Travel Lane may have its own specific health requirements. If unsure what entry lanes and health requirements are applicable to you to enter Singapore depending on your country of departure and traveller type, please click [here](/arriving/overview) to find out more.
+With the exception of Singapore citizens and permanent residents, all travellers must obtain an entry approval to enter Singapore. Approvals can be obtained from the relevant government agencies (e.g. MOE, MOM), or via the application for a Safe Travel pass (details here). Travellers without an entry approval will be denied entry and may have their existing work passes revoked.
 
-### 2. Visa Application (If Applicable)
-ICA will resume the issuance of new visas from 18 October 2020, 2359 hours. Visitors who require a visa to enter Singapore can apply for visas through a local contact, Singapore Overseas Mission, or authorised visa agent. Check <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> regarding visa requirements to enter Singapore.
+If unsure what entry lanes and health requirements are applicable to you to enter Singapore depending on your country of departure and traveller type, please click [here](/arriving/overview) to find out more.
 
-Visitors who had already been issued with visas which are still valid, as well as those who are eligible for the visa-free transit facility, do not need to re-apply/apply.
+### 2. Apply for Visa (If Applicable)
 
-Possession of a valid visa alone does not guarantee entry into Singapore. All short-term visitors must still seek prior approval via appropriate COVID-19 travel channels (e.g. obtain a Safe Travel Pass under Green/Fast Lane arrangements, or Air Travel Pass) before they can enter Singapore.
+Travellers that have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> should apply for a visa through a local sponsor, <a href="https://www.mfa.gov.sg/Overseas-MissionsSingapore" target="_blank">Overseas Mission</a> or through its authorised visa agent.
+
+ICA will resume the issuance of new visas from 18 October 2020, 2359 hours. Visitors who require a visa to enter Singapore can apply for visas through a local contact, Singapore Overseas Mission, or authorised visa agent. Check regarding visa requirements to enter Singapore.
+
+Existing valid visa holders, do not need to re-apply/apply for a visa. Click <a href="https://eservices.ica.gov.sg/esvclandingpage/save" target="_blank">here</a> to check if your visa remains valid.
 
 ### 3. COVID-19 Test before departing for Singapore (If Applicable)
-All Short-Term visitors, Long Term Pass Holders and In-Principle Approval holders with recent travel history to the following countries/places within the last 14 days prior to entry will be required to take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before departure. These travellers will need to present a valid negative COVID-19 test result as a condition of approval to enter Singapore.
 
-- Philippines*
-- Indonesia*
-- India
+Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane), he/she may be required to take a COVID-19 PCR test before departing for Singapore. Whether a traveller needs to be tested before departing for Singapore is set out in the Terms and Conditions of the Safe Travel passes governing entry into Singapore.
 
-This requirement will apply on top of the existing requirements of a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities and a negative COVID-19 test before the end of their SHN.
+Travellers who have been approved for entry will be required to take a COVID-19 PCR test **within 72 hours before departure** for Singapore, if he/she:
+- Is a non-Singapore citizen or non-Singapore permanent resident; and
+- Has a recent travel history to <u>India, Indonesia, or Philippines within the last 14 days prior to entry into Singapore</u>.
 
-Returning Singapore Citizens and PRs are not subject to this requirement.
+These travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result must contain the following details:
+- Date the test was taken
+- Particulars of traveller as indicated in the passport (Name, Date of Birth, nationality and passport number)
 
-*With effect from 19 October 2020, 2359 hours
+Children who are 12 years old and below do not need to take the COVID-19 PCR test.
 
-### 4. Submission of Health Declaration
+Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN.
 
-All travellers are required to submit a health declaration within 3 days prior to the date of arrival. The health declaration can be submitted via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a>.
+### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
+With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan, Norway, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+
+Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
+Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
+Applications must be made prior to arrival in Singapore. Applications can be submitted starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+
+### 5. Submission of Health Declaration
+
+All travellers must submit a pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> 3 days before arrival in Singapore.
 
 
