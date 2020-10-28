@@ -5,7 +5,7 @@ permalink: /china/atp/requirements-and-process
 
 ### **Overview**
 
-On 29 October 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Mainland China. Foreigners who are short-term visitors travelling from mainland China may seek entry into Singapore by applying for an Air Travel Pass.
+On 29 October 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Mainland China. Foreigners who are short-term visitors travelling from Mainland China may seek entry into Singapore by applying for an Air Travel Pass.
 
 Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an Air Travel Pass to travel to Singapore from Mainland China. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
 
