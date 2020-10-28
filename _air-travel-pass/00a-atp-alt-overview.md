@@ -21,27 +21,27 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
 <tbody>
   <tr>
     <td><b>Australia</b></td>
-    <td><a href="/australia/atp/requirements-and-process">Click here</a></td>
-     <td><a href="/australia/atp/conditions">Click here</a></td>
-      <td><a href="/australia/atp/faq">Click here</a></td>
+    <td style="text-align:center;"><a href="/australia/atp/requirements-and-process">Click here</a></td>
+     <td style="text-align:center;"><a href="/australia/atp/conditions">Click here</a></td>
+      <td style="text-align:center;"><a href="/australia/atp/faq">Click here</a></td>
   </tr>
     <tr>
     <td><b>Brunei Darussalam</b></td>
-      <td><a href="/brunei/atp/requirements-and-process">Click here</a></td>
-      <td><a href="/brunei/atp/conditions">Click here</a></td>
-      <td><a href="/brunei/atp/faq">Click here</a></td>
+      <td style="text-align:center;"><a href="/brunei/atp/requirements-and-process">Click here</a></td>
+      <td style="text-align:center;"><a href="/brunei/atp/conditions">Click here</a></td>
+      <td style="text-align:center;"><a href="/brunei/atp/faq">Click here</a></td>
   </tr>
     <tr>
     <td><b>Mainland China</b></td>
-    <td><a href="/china/atp/requirements-and-process">Click here</a></td>
-      <td><a href="/china/atp/conditions">Click here</a></td>
-      <td><a href="/china/atp/faq">Click here</a></td>
+    <td style="text-align:center;"><a href="/china/atp/requirements-and-process">Click here</a></td>
+      <td style="text-align:center;"><a href="/china/atp/conditions">Click here</a></td>
+      <td style="text-align:center;"><a href="/china/atp/faq">Click here</a></td>
   </tr>
    <tr>
-    <td><b>New Zealand</b></td>
-    <td><a href="/newzealand/atp/requirements-and-process">Click here</a></td>
-     <td><a href="/newzealand/atp/conditions">Click here</a></td>
-     <td><a href="/newzealand/atp/faq">Click here</a></td>
+    <td ><b>New Zealand</b></td>
+    <td style="text-align:center;"><a href="/newzealand/atp/requirements-and-process">Click here</a></td>
+     <td style="text-align:center;"><a href="/newzealand/atp/conditions">Click here</a></td>
+     <td style="text-align:center;"><a href="/newzealand/atp/faq">Click here</a></td>
   </tr>
      <tr>
     <td style="border-bottom:1px solid #D8D8D8; "><b>Vietnam</b></td>
