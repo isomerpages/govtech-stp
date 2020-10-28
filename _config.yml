@@ -23,7 +23,7 @@ colors:
 collections:
   travellers-from-australia:
     output: true
-  travellers-from-brunei-darussalam:
+  atp-brunei:
     output: true
   travellers-from-china:
     output: true
