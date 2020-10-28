@@ -73,8 +73,8 @@ PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">h
     <td style="font-size:18px;"><b>Approved PCA travellers should monitor their health and avoid
 travelling if feeling unwell. If the traveller is healthy, he/she should: </b><br/><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg">TraceTogether</a>,<a href="https://www.homer.gov.sg"> Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phone. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.homer.gov.sg" target="_blank"> Homer</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
          </ol>   
     </td>
   </tr>
@@ -117,7 +117,7 @@ travellers must make their way directly to their SHN accommodation. </b>
             <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street). </li>
          </ol> 
      <br/>
-      <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Vehicle Entry Permit (VEP) fees will apply to a PCA-approved traveller/employee throughout his/her stay in Singapore, if he/she commutes with his/her personal vehicle. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> Travellers are encouraged to pay for their VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only) to avoid accumulating VEP fees. Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.
+      <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Vehicle Entry Permit (VEP) fees will apply to a PCA-approved traveller/employee throughout his/her stay in Singapore, if he/she commutes with his/her personal vehicle. <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> Travellers are encouraged to pay for their VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only) to avoid accumulating VEP fees. Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html" target="_blank">here</a> for more information about VEP payment methods.
        <br/>
      ** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
      </p>
