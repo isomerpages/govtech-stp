@@ -7,7 +7,7 @@ permalink: /china/atp/faq
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Mainland China to seek entry into Singapore:
+An ATP allows visitors<sup>1</sup> travelling from Mainland China to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
@@ -143,13 +143,13 @@ After downloading the TraceTogether app, you need to activate it by following th
 
 If you requrie assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
-#### 26. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
+#### 26. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
 If you change your mobile device, you are required to download the TraceTogether app again and activate it by following the instructions that appear when you launch the app. 
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
-Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
+Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
 
 #### 27. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
