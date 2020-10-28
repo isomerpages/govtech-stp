@@ -11,6 +11,8 @@ Singapore’s border and health control measures are updated in response to the 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 You may visit these websites for more COVID-19 related information in Singapore:
 - <a href="https://www.moh.gov.sg" target="_blank">MOH Website</a> for updates on the COVID-19 local situation and the relevant advisories; and
