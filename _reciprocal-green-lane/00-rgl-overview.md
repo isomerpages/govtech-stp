@@ -1,5 +1,5 @@
 ---
-title: Reciprocal Green Lane - Overview
+title: Overview
 permalink: /rgl/overview
 ---
 
