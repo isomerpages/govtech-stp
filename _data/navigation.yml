@@ -1,32 +1,31 @@
-logo: /images/logo-stp.png
+logo: /images/ICA-STP-3.png
 
 links:
-  - title: Get Started
+  - title: Safe Travel Lanes
     sublinks:
-      - title: Travellers from Australia
-        url: /australia/atp/requirements-and-process
-      - title: Travellers from Brunei Darussalam
-        url: /brunei/overview
-      - title: Travellers from China
-        url: /china/rgl/requirements-and-process
-      - title: Travellers from Indonesia
-        url: /indonesia/rgl/requirements-and-process
-      - title: Travellers from Japan
-        url: /japan/rgl/requirements-and-process
-      - title: Travellers from Malaysia
-        url: /malaysia/overview
-      - title: Travellers from New Zealand
-        url: /newzealand/atp/requirements-and-process
-      - title: Travellers from Republic of Korea
-        url: /rok/rgl/requirements-and-process
-      - title: Travellers from Vietnam
-        url: /vietnam/atp/requirements-and-process
-  - title: Departing from Singapore
+      - title: Returning Singapore Citizen/Permanent Resident
+        url: /SC-PR/info
+      - title: Work Pass Holder General Lane
+        url: /wphl/overview
+      - title: Student's Pass Holder Lane
+        url: /stpl/overview
+      - title: Singapore Citizen/Permanent Resident Familial Ties Lane
+        url: /scpr-familial-ties-lane/overview
+      - title: Reciprocal Green Lane (Business/Official Short Term Travel)
+        url: /rgl/overview
+      - title: Air Travel Pass (Any Purpose of Travel)
+        url: /atp/overview
+      - title: Periodic Commuting Arrangement (Workers Commuting between Singapore and Malaysia) 
+        url: /pca/overview
+  - title: Border and Health Control Measures
+    url: /health
     sublinks:
-          - title: Apply for Pre-Departure Test (PDT)
-            url: /pre-departure-test
-          - title: Info on using PDT Digital Certification
-            url: /pdt-digital-certification
-  - title: Contact Us
-    url: /contact-us
+      - title: Arriving in Singapore
+        url: /health/before-arriving
+      - title: Departing from Singapore
+        url: /health/pre-departure-test
+  - title: Apply Now
+    url: /apply-now
+  - title: FAQ
+    url: /FAQ
 
