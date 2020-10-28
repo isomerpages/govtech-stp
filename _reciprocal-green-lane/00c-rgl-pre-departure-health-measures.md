@@ -3,7 +3,6 @@ title: Pre-Departure Measures
 permalink: /rgl/pre-departure-measures
 ---
 
-
 ### Pre-Departure Measures in Country/Region of Departure
 
 Travellers must remain in and have not travelled out of the country for at least 14 days, or the region (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) in the case of China for at least seven days prior to departure for Singapore. Travellers must also monitor their health status before departure from the country/region, undergo a COVID-19 PCR test in the country/region within 72 hours before departure, and obtain a certificate of negative test result for COVID-19 issued by an authorised COVID-19 testing facility designated by the Government of the country/region the traveller is departing from.
