@@ -10,8 +10,8 @@ permalink: /apply-now
 |Air Travel Pass| [Apply](https://go.gov.sg/atpsg) | [Details](/atp/overview)  |
 |Periodic Commuting Arrangement (Singapore Work Pass Holders)| [Apply](https://eservices.ica.gov.sg/STO) |  [Details](/pca/requirements-and-process)|
 |Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)| [Apply](https://go.gov.sg/pcasgpr) | [Details](/pca/sc-pr-leave)|
-|Reciprocal Green Lane (Brunei, China<sup>2</sup>, Japan, Malaysia and ROK) | [Apply](https://eservices.ica.gov.sg/STO) | [Details](/rgl/overview) |   
-|Reciprocal Green Lane - Indonesia| [Apply](/indonesia/rgl/apply-now) | [Details](indonesia/rgl/requirements-and-process) | 
+|Reciprocal Green Lane - <b>Brunei, China<sup>2</sup>, Japan, Malaysia and ROK</b> | [Apply](https://eservices.ica.gov.sg/STO) | [Details](/rgl/overview) |   
+|Reciprocal Green Lane - <b>Indonesia</b>| [Apply](/indonesia/rgl/apply-now) | [Details](indonesia/rgl/requirements-and-process) | 
 |Singaporean Familial Ties Lane| [Apply](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c)| [Details](/scpr-familial-ties-lane/requirements-and-process) |  
 |Singapore Work Pass Holder Lane| [Apply](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) | [Details](/wphl/requirements-and-process)|
 |Singapore Student's Pass Holder Lane| [Apply](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c) | [Details](/stpl/requirements-and-process) |
