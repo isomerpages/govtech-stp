@@ -4,7 +4,7 @@ permalink: /SC-PR/info
 ---
 
 ### Singapore Citizens and PRs General Entry into Singapore
-SC/SPRs can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](/health/shn) for more information on the prevailing SHN and swab requirements.
+SC/SPRs can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](/health) for more information on the prevailing SHN and swab requirements.
 
 ### Singapore Citizens and PRs on Periodic Commuting Arrangement (PCA) with Malaysia
 
