@@ -1,6 +1,7 @@
 ---
-title: Visiting RGL Counterpart Countries/Regions
+title: Application Process
 permalink: /rgl/visiting-rgl-counterparts
+third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
 ### RGL Application to Foreign Authorities
