@@ -1,7 +1,6 @@
 ---
 title: Terms & Conditions
 permalink: /rok/rgl/terms-and-conditions
-third_nav_title: Singapore-ROK Fast Lane
 ---
 
 ### **Terms & Conditions of SafeTravel Pass (For Residents in the Republic of Korea using the Fast Lane for the Movement of Essential Personnel Between Singapore and the Republic of Korea to Travel to Singapore)<sup>1</sup>**
