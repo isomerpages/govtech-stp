@@ -1,20 +1,21 @@
 ---
 title: Frequently Asked Questions
 permalink: /australia/atp/faq
-third_nav_title: Air Travel Pass
 ---
 
 ### **Air Travel Pass (ATP)**
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Australia (excluding Victoria State) to seek entry into Singapore.
+An ATP allows visitors<sup>1</sup> travelling from Australia to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0001hrs.
+Visitors travelling from Australia (excluding Victoria State) can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0001hrs. 
+
+Visitors travelling from Australia (Victoria State) can apply for an ATP from 30 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 6 November 2020, 0001hrs. 
 
 #### 3. How can visitors apply for an ATP?
 
@@ -50,7 +51,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### 10. How long can visitors stay in Singapore?
 
-Visitors who are granted entry into Singapore will be issued with a visit pass by the Singapore Immigration & Checkpoints Authority (ICA) at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
+Visitors who are granted entry into Singapore will be issued with a visit pass by ICA at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic. 
 
 Please note that the ATP is **not** an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period. 
 
@@ -62,7 +63,7 @@ All applications for extension of visit pass must be submitted online using ICAâ
 
 No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
 
-For information on border control measures, please refer to the (ICA) website [here](https://www.ica.gov.sg/covid-19).
+For information on border control measures, please refer to the Singapore Immigration & Checkpoints Authority (ICA) website [here](https://www.ica.gov.sg/covid-19).
 
 #### 13. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
@@ -70,13 +71,13 @@ No. Visitors will need to submit the application themselves as they are required
 
 ### **Visa Application**
 
-#### 14. Do visitors with a valid ATP need to apply separately for a visa to enter Singapore?
+#### 14. Do visitors with a valid ATP need to apply for a separate visa to enter Singapore?
 
-Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore.
+Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore. 
 
 ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa. 
 
-Visitors may refer to ICA [website](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
+Visitors may refer to ICA website (<https://www.ica.gov.sg/visitor/visitor_entryvisa>) for information on visa requirements and application.
 
 ### **ATP Conditions of Travel**
 
@@ -132,17 +133,17 @@ If visitors refuse to undergo the post-arrival COVID-19 PCR test, they may be re
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby mobile devices running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the userâ€™s mobile device, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
-#### 24. Must every visitor download and activate the TraceTogether app?
+#### 24. Must every visitor download the TraceTogether app?
 
-Yes, all visitors to Singapore must download and activate the TraceTogether app. They must do so prior to departing for Singapore.
+Yes, all visitors to Singapore must download the TraceTogether app. They must do so prior to departing for Singapore.
 
 Children aged 12 or younger in that calendar year and travelling with a parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 #### 25. After downloading the TraceTogether app, how do i activate it? 
 
-After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
+After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
 
-If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
+If you requrie assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
 #### 26. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
 
@@ -150,7 +151,7 @@ If you change your mobile device, you are required to download the TraceTogether
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
-Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
 
 #### 27. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
@@ -185,4 +186,4 @@ No, the ATP is for visitors who intend to enter Singapore and is not applicable 
 
 <sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders. 
 
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore. 
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
