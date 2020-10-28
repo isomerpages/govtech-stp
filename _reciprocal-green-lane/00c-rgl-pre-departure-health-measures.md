@@ -1,6 +1,7 @@
 ---
 title: Pre-Departure Measures
 permalink: /rgl/pre-departure-measures
+third_nav_title: RGL Visitors to Singapore
 ---
 
 ### Pre-Departure Measures in Country/Region of Departure
