@@ -22,7 +22,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 <table>
  <tr>
   <td rowspan="2"><b>Country/Place of Departure</b></td>
-  <td colspan="2"><b>Short Term Travel</b></td>
+  <td colspan="2"><b>Short Term Visitors</b></td>
   <td><b>Singapore or Malaysia Work Pass Holders</b></td>
  </tr>
  <tr>
