@@ -29,8 +29,6 @@ collections:
     output: true
   rgl-malaysia:
     output: true
-  pca-malaysia:
-    output: true
   atp-new-zealand:
     output: true
   rgl-republic-of-korea:
@@ -66,6 +64,8 @@ collections:
   rgl-brunei:
     output: true
   rgl-china:
+    output: true
+  travellers-from-malaysia:
     output: true
 
     
