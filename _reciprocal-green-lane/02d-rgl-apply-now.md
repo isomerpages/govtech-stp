@@ -1,7 +1,4 @@
----
-title: Apply Now
-permalink: /rgl/apply-now
----
+
 
 <table>
   <thead>
