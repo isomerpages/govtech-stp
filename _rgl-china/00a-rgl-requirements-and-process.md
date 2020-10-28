@@ -1,7 +1,6 @@
 ---
 title: Requirements & Process
 permalink: /china/rgl/requirements-and-process
-third_nav_title: Singapore-China Fast Lane
 ---
 
 The SafeTravel Pass is a mandatory document for inbound travellers from approved countries/regions seeking to make essential business and official travel to Singapore under Green/ Fast Lane arrangements.
