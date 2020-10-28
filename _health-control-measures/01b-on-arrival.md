@@ -1,10 +1,10 @@
 ---
 title: On Arrival in Singapore
 permalink: /health/on-arrival
-third_nav_title: Arriving in Singapore
+third_nav_title: Arrival in Singapore
 ---
 
-### What to Expect at Singapore’s Immigration Counters
+### Arrival In Singapore
 
 Depending on the traveller’s travel history, he/she may receive a Stay-Home Notice (SHN) and/or an electronic monitoring device during immigration clearance. To ensure a smooth clearance process, travellers must present the following documents to the immigration officer:
 
