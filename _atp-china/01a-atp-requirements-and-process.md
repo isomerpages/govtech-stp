@@ -5,9 +5,9 @@ permalink: /china/atp/requirements-and-process
 
 ### **Overview**
 
-On 29 October 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from mainland China. Foreigners who are short-term visitors travelling from mainland China may seek entry into Singapore by applying for an Air Travel Pass.
+On 29 October 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Mainland China. Foreigners who are short-term visitors travelling from mainland China may seek entry into Singapore by applying for an Air Travel Pass.
 
-Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an Air Travel Pass to travel to Singapore from mainland China. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
+Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an Air Travel Pass to travel to Singapore from Mainland China. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
 
 ### **Application**
 
@@ -38,7 +38,7 @@ ICA has lifted the visa suspension and resumed issuance of new visas from 18 Oco
 #### Pre-Departure
 
 Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
-- Remain in mainland China in the last 14 consecutive days before departing for Singapore;
+- Remain in Mainland China in the last 14 consecutive days before departing for Singapore;
 - Monitor his/her health status before departure;
 - Book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet;
 - Check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://www.tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>, register his/her mobile number and personal details on the app; and
