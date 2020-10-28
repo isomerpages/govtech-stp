@@ -1,7 +1,6 @@
 ---
 title: Apply Now
 permalink: /vietnam/atp/apply-now
-third_nav_title: Air Travel Pass
 ---
 
 <table>
@@ -18,5 +17,5 @@ third_nav_title: Air Travel Pass
       <td><a href="https://go.gov.sg/atpsg"><img src="/images/qr-atpsg.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
     </tr>
   </tbody>
-</table>   
+</table>
  
