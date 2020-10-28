@@ -44,10 +44,10 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
      <td><a href="/newzealand/atp/faq">Click here</a></td>
   </tr>
      <tr>
-    <td style="border-bottom:1px solid #D8D8D8;"><b>Vietnam</b></td>
-       <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
-       <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/conditions">Click here</a></td>
-    <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/faq">Click here</a></td>
+    <td style="border-bottom:1px solid #D8D8D8; "><b>Vietnam</b></td>
+       <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
+       <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/vietnam/atp/conditions">Click here</a></td>
+    <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/vietnam/atp/faq">Click here</a></td>
   </tr>
   </tbody>
   </table>
