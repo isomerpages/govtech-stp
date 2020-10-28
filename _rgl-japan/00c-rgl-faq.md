@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions
 permalink: /japan/rgl/faq
-third_nav_title: Reciprocal Green Lane
 ---
 
 <div id="faq-top"></div>
