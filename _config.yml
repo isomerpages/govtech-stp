@@ -33,7 +33,7 @@ collections:
     output: true
   travellers-from-republic-of-korea:
     output: true
-  travellers-from-japan:
+  rgl-japan:
     output: true
   travellers-from-vietnam:
     output: true
