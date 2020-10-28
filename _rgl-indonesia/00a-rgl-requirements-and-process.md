@@ -19,7 +19,7 @@ IMPORTANT
 
  - Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass will be refused entry into Singapore. 
  
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/indonesia/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/indonesia/rgl/terms-and-conditions).
 
 ## **Process Overview**
 
@@ -64,7 +64,7 @@ SafeTravel Pass travellers to Singapore must subscribe to the relevant contact t
 
 In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a pre-submitted controlled itinerary that is supervised by the host company or government agency for his/her stay in Singapore (with a maximum duration of 10 days).  The traveller is prohibited from using public transportation during his/her stay, with the exception of private hire cars/taxis or cohorted company transport 
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/indonesia/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/indonesia/rgl/terms-and-conditions).
 
 -----
 
