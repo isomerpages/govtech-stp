@@ -10,11 +10,11 @@ ICA-issued Long-Term Visit Pass (LTVP) holders and short-term visitors who belon
 - PR and ICA-LTVP IPA holders seeking to complete formalities for their long-term immigration facilities; or
 - A non-resident who has exceptional reasons for seeking entry to Singapore (e.g. death of a family member in Singapore).
 
-To apply for entry approval under this lane, please click the link [here](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c).
+To apply for entry approval under this lane, please click the link <a href="https://form.gov.sg/#!/5e3648e9405c180011dc5f9c" target="_blank">here</a>.
 
 ### Border and Health Control Measures
 
-Please ensure you take note of the border and health control measures for entering Singapore found [here](/health/overview).
+Please ensure you take note of the border and health control measures for entering Singapore found [here](/health).
 
 -----
 
