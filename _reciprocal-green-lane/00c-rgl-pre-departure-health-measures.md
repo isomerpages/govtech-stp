@@ -1,8 +1,4 @@
----
-title: Pre-Departure Health Measures
-permalink: /rgl/pre-departure-health-measures
-third_nav_title: RGL Visitors to Singapore
----
+
 
 ### Pre-Departure Measures in Country/Region of Departure
 
