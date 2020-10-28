@@ -1,8 +1,4 @@
----
-title: Requirements and Process
-permalink: /rgl/requirements-and-process
-third_nav_title: RGL Visitors to Singapore
----
+
 
 <!--- [Question Link test](/rgl/faq/#application)-->
 
