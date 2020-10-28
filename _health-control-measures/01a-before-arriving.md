@@ -35,10 +35,9 @@ Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home No
 
 ### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
 With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan, Norway, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
-
-Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
-Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
-Applications must be made prior to arrival in Singapore. Applications can be submitted starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+- Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
+- Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
+- Applications must be made prior to arrival in Singapore. Applications can be submitted starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
 ### 5. Submission of Health Declaration
 
