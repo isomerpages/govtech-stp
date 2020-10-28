@@ -6,8 +6,9 @@ permalink: /health
 Singapore’s border and health control measures are updated in response to the evolving global COVID-19 situation. Travellers planning to enter Singapore must comply with the prevailing border control measures and public health requirements, a summary of the measures can be obtained by clicking the image below.
 <br/><br/>
 <a href="/files/SHN-and-swab-summary.pdf" target="_blank">
-<img border="0" alt="SHN Summary" src="/images/SHN-summary-thumbnail.jpeg" style="width:350px; float:left;">
+<img border="0" alt="SHN Summary" src="/images/SHN-summary-thumbnail.jpeg" style="width:370px; float:left;">
 </a>
+<br/>
 <br/>
 <br/>
 <br/>
