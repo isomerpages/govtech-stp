@@ -1,7 +1,6 @@
 ---
 title: Requirements & Process
 permalink: /rok/rgl/requirements-and-process
-third_nav_title: Singapore-ROK Fast Lane
 ---
 
 On 2 September 2020, Singapore and the Republic of Korea (ROK) agreed to implement the Fast Lane for essential business and official travel between Singapore and the ROK.
