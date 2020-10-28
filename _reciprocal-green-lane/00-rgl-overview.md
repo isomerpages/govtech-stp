@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /rgl/overview
+permalink: /rgl/visiting-rgl-counterparts
 third_nav_title: RGL Visitors to Singapore
 ---
 
