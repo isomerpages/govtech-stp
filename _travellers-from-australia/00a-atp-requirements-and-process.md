@@ -1,18 +1,17 @@
 ---
 title: Requirements & Process
 permalink: /australia/atp/requirements-and-process
-third_nav_title: Air Travel Pass
 ---
 
 ### **Overview**
 
-On 30 September 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Australia (excluding Victoria State). Foreigners who are short-term visitors travelling from Australia (excluding Victoria State) may seek entry into Singapore by applying for an Air Travel Pass.
+On 30 September 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from Australia (excluding Victoria State). With effect from 29 October 2020, Singapore has also lifted border restrictions to allow entry of visitors travelling from Victoria State. Foreigners who are short-term visitors travelling from Australia may seek entry into Singapore by applying for an Air Travel Pass.
 
 Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are <b><u>not</u></b> required to apply for an Air Travel Pass to travel to Singapore from Australia. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
 
 ### **Application**
 
-From 1 October 2020, foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore on or after 8 October 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
+From 30 October 2020, foreigners who are short-term visitors travelling from Australia including Victoria State, may apply for an Air Travel Pass for entry into Singapore on or after 6 November 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
 Visitors must comply with the [Conditions](/australia/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
 
@@ -32,17 +31,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### Visa Requirements
 
-Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore. Such visitors are strongly encouraged to apply for their visas early.
+Visitors who hold a visa-required passport must separately obtain a valid visa prior to departure for Singapore. Such visitors are strongly encouraged to apply for their Air Travel Pass early.
 
-ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa. Information on visa requirements and application can be found on ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa).
+If the visitor already has an existing valid visa which has been suspended due to COVID-19, ICA will lift the suspension and there is no need to obtain a new visa. Information on visa requirements and application can be found on ICA’s [website](https://www.ica.gov.sg/visitor/visitor_entryvisa).
 
 #### Pre-Departure
 
 Prior to departing for Singapore, a visitor holding an Air Travel Pass must:
-- remain in any place in Australia, except Victoria State, in the last 14 consecutive days before departing for Singapore;
+- remain in Australia, in the last 14 consecutive days before departing for Singapore;
 - monitor his/her health status before departure;
 - book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet; 
-- check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app, [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>, register his/her mobile number and personal details on the app; and 
+- check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app and [download](https://tracetogether.gov.sg/) it on his/her mobile device<sup>4</sup>, register his/her mobile number and personal details on the app; and 
 - submit his/her health, travel history, and accommodation declarations electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard), no earlier than three days prior to his/her date of arrival in Singapore.
 
 Visitors are also strongly encouraged to [register and pre-pay](https://safetravel.changiairport.com/#/) for their post-arrival COVID-19 PCR test prior to departing for Singapore. 
@@ -50,7 +49,7 @@ Visitors are also strongly encouraged to [register and pre-pay](https://safetrav
 When checking in at the departure airport, the visitor must present to the airline staff:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and activated.
+- a mobile device with the TraceTogether app already downloaded and registered.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
@@ -61,7 +60,7 @@ A visitor who does not have any of the above may be refused boarding by the airl
 At arrival immigration in Singapore, the visitor must present to the ICA officer:
 - a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and activated.
+- a mobile device with the TraceTogether app already downloaded and registered.
 
 A visitor who does not have any of the above may be refused entry into Singapore by ICA.
 
