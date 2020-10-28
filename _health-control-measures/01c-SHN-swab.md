@@ -9,7 +9,7 @@ A summary of the prevailing SHN and swab requirements for travellers can be foun
 
 ### 1. Stay-Home Notice (SHN) - If Applicable
 
-Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://www.ica.gov.sg/covid-19/shn-calculator" target="_blank">here</a> to calculate the last day of your SHN.
+Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
 
 ICA will conduct checks on travellers placed on SHN. These entails house visits, calls or WhatsApp. During the call, a traveller will be asked for the last four digits of his/her Identity Card/ travel document to ascertain his/her identity. For house visits, an ICA officer will produce their warrant cards or ICA authorisation letter as a proof of their identity.
 
