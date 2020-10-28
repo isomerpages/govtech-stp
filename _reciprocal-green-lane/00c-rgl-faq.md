@@ -1,8 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /rgl/faq
-third_nav_title: RGL Visitors to Singapore
----
+
 
 ### FAQ FOR RESIDENTS IN RGL COUNTERPART COUNTRIES/REGIONS
 
