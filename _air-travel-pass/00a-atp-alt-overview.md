@@ -27,7 +27,6 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
   </tr>
     <tr>
     <td><b>Brunei Darussalam</b></td>
-    <td><a href="/brunei/overview">Click here</a></td>
       <td><a href="/brunei/atp/requirements-and-process">Click here</a></td>
       <td><a href="/brunei/atp/conditions">Click here</a></td>
       <td><a href="/brunei/atp/faq">Click here</a></td>
