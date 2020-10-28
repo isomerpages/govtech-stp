@@ -1,7 +1,6 @@
 ---
 title: Apply Now
 permalink: /china/rgl/apply-now
-third_nav_title: Singapore-China Fast Lane
 ---
 
 <table>
