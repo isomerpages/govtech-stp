@@ -34,12 +34,13 @@ Watch the video below on the SHN requirements and <a href="https://www.moh.gov.s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-2.png)
+
 ### 3. SHN Electronic Monitoring Device
 
 Eligible travellers will be issued an electronic monitoring device at the immigration checkpoints by ICA or MOM. These devices must be activated immediately by the traveller upon reaching his/her SHN accommodation. Click here for the <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a>. Travellers who are 12 years old and below will not receive the electronic monitoring device.
 
 Information on the device can be found in the video and infographic below.
-![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-2.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
