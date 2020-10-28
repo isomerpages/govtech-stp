@@ -11,7 +11,7 @@ Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass 
 
 ### **Application**
 
-From 29 October 2020, foreigners who are short-term visitors travelling from Australia including Victoria State, may apply for an Air Travel Pass for entry into Singapore on or after 6 November 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
+From 30 October 2020, foreigners who are short-term visitors travelling from Australia including Victoria State, may apply for an Air Travel Pass for entry into Singapore on or after 6 November 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
 Visitors must comply with the [Conditions](/australia/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
 
