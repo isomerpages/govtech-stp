@@ -1,7 +1,6 @@
 ---
 title: Requirements & Process
 permalink: /brunei/atp/requirements-and-process
-third_nav_title: Air Travel Pass
 ---
 
 ### **Overview**
