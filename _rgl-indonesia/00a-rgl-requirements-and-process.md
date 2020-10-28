@@ -1,7 +1,6 @@
 ---
 title: Requirements & Process
 permalink: /indonesia/rgl/requirements-and-process
-third_nav_title: Reciprocal Green Lane
 ---
 
 On 12 October 2020, Singapore and Indonesia agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries.
