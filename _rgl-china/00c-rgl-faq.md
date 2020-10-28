@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions
 permalink: /china/rgl/faq
-third_nav_title: Singapore-China Fast Lane
 ---
 
 <div id="faq-top"></div>
