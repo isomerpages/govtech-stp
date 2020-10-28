@@ -48,7 +48,7 @@ PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">h
     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain employees’ acknowledgement for the following:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Additional work pass conditions that he/she is subjected to under the PCA (click <a href="/pca/terms-and-conditions">here</a>); and </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose his/her COVID-19 Polymerase Chain Reaction (PCR) test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose their COVID-19 PCR test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
          </ol>   
        </li>
       </ol>   
