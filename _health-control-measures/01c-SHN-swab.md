@@ -3,105 +3,58 @@ title: Post-Arrival SHN and Swab
 permalink: /health/shn
 third_nav_title: Arriving in Singapore
 ---
-All travellers are required to comply with the prevailing public health regulations and requirements in Singapore. These may include (i) serving a Stay-Home Notice (SHN), and/or (ii) taking the COVID-19 test. 
+All travellers are required to comply with the <a href="https://www.moh.gov.sg/covid-19" target="_blank"> prevailing public health regulations and requirements</a> in Singapore. For example, the use of the mandatory mobile application (e.g. TraceTogether), as well as serving Stay-Home Notice (SHN) and taking the COVID-19 test (if required).
 
 A summary of the prevailing SHN and swab requirements for travellers can be found <a href="/files/SHN-and-swab-summary.pdf" target="_blank">here</a>.
 
-However,as Singapore's border restriction measures evolve with the global situation, you are advised to check <a href="https://www.moh.gov.sg/covid-19" target="_blank">MOH's website</a> for the latest updates.
+### 1. Stay-Home Notice (SHN) - If Applicable
 
-### Stay-Home Notice (SHN) - If Applicable
+Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://www.ica.gov.sg/covid-19/shn-calculator" target="_blank">here</a> to calculate the last day of your SHN.
 
-A Stay-Home Notice (SHN) of 7 or 14 days is issued to travellers who are granted entry into Singapore, as a precautionary measure taken to minimise the risk of additional imported cases of COVID-19. An SHN duration calculator can be found <a href="https://www.ica.gov.sg/covid-19/shn-calculator" target="_blank">here</a> to determine the expected end of SHN.
+ICA will conduct checks on travellers placed on SHN. These entails house visits, calls or WhatsApp. During the call, a traveller will be asked for the last four digits of his/her Identity Card/ travel document to ascertain his/her identity. For house visits, an ICA officer will produce their warrant cards or ICA authorisation letter as a proof of their identity.
 
-The following groups of travellers will be exempted from the SHN requirement and subjected to COVID-19 test post-arrival in Singapore:
-- All travellers who enter Singapore with a valid SafeTravel Pass ;
-- Singapore residents holding a Malaysia-issued MyTravelPass (Reciprocal Green Lane);
-- Singapore residents holding a Malaysia-issued MyTravelPass (Periodic Commuting Arrangement), and have an approved SHN waiver for short-term leave in Singapore;
-- Foreign travellers who enter Singapore with a valid Air Travel Pass; and
-- Singapore residents and Long-Term Pass holders (with Approval Letter of Entry) who spent at least 14 days prior to arriving from Australia (excluding Victoria State), Brunei Darussalam, New Zealand or Vietnam.
+Travellers who fail to comply with the SHN requirements can be reported to ICA via <a href="https://go.gov.sg/reportshnbreach" target="_blank">this form</a> or 6812 5555. Errant travellers prosecuted under the Infectious Diseases Act and its regulations, can be fined up to $10,000, and/or imprisoned for up to six months. Additional penalties such as the revocation of the immigration or work passes can also be imposed.
 
-You can visit <a href="https://go.gov.sg/govsg-shn" target="_blank">here</a> for more information on SHN. Travellers who are serving their SHN are not allowed to leave their place of residence or SDF for the duration of the SHN period.
+**SHN Helpline**
 
-For those with extenuating circumstances, such as medical conditions or mobility issues that make it difficult for them to stay at their own accommodation or at an SHN Dedicated Facility (SDF), they should provide the details in <a href="https://go.gov.sg/shnhotelneeds" target="_blank">this form</a>.
+For SHN-related enquiries or assistance, travellers can contact the SHN Helpline at <u>6812 5555</u>.
 
-View a video below on SHN requirements and click <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">here</a> for a health advisory for persons placed on SHN.
+
+### 2. Dedicated Stay-Home Notice (SHN) Facility
+Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) due to extenuating circumstances (e.g. serious medical conditions or mobility issues), can provide the details using <a href="https://go.gov.sg/shnhotelneeds" target="_blank"> this form</a> for assistance.
+
+With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan, Norway, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+
+- Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
+- Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
+
+Applications must be made prior to arrival in Singapore. Applications can be submitted starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+
+Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">read the requirements for persons placed on SHN</a>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For SHN-related enquiries or assistance, you may contact the SHN Helpline at 6812 5555.
+### 3. SHN Electronic Monitoring Device
 
-### 2. SHN Electronic Monitoring Device - If applicable
+Eligible travellers will be issued an electronic monitoring device at the immigration checkpoints by ICA or MOM. These devices must be activated immediately by the traveller upon reaching his/her SHN accommodation. Click here for the <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a>. Travellers who are 12 years old and below will not receive the electronic monitoring device.
 
-To aid efforts to enforce the SHN requirement, travellers entering Singapore from 10 August 2020, 2359hrs onwards, and are not serving their SHN at the SDFs, will be required to wear an electronic monitoring device.
-
-This device must be worn for the full duration of the SHN period. Travellers aged 12 or younger (in that calendar year) are exempted from wearing the device.
-
-**ICA's Electronic Monitoring Device**
-Eligible travellers will be given the following once they have cleared through Singapore's immigration checkpoints:
-
-- Electronic wristband;
-- Gateway device; and
-- <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a>.
-
-Persons placed on SHN (PSHNs) who have received an electronic wristband are required to activate their wristbands upon reaching their place of residence/ accommodation where they will serve their SHN ("SHN residence"). Investigations will be conducted if the wristband is found to be damaged or tampered, and/or when a PSHN is found to have left his/her SHN residence. 
-
+Information on the device can be found in the video and infographic below.
 ![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-2.png)
-
-PSHNs can refer to the video and infographic below on activating the electronic wristbands.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-1.png)
 
-**MOM's Electronic Monitoring Device**
+**Return and Disposal of Electronic Monitoring Devices After SHN**
 
-Travellers entering Singapore with Ministry of Manpower (MOM) issued long-term passes (work pass) will be monitored by MOM using a different monitoring device.
+Upon completion of SHN, travellers are to remove the electronic wristband and dispose of it based on <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste" target="_blank">existing e-waste disposal methods</a>.
 
-**Return and Disposal of Devices After SHN**
+ICA officers will contact the traveller to collect the gateway device issued by ICA. Please <u>do not dispose the gateway device</u>.
 
-After the completion of the SHN, the wristband can be removed and disposed of according to the proper e-waste disposal methods. 
 
-Our officers will contact the PSHNs for the collection of the gateway device.
+### 4. Post-Arrival COVID-19 PCR Test
+Depending on the traveller’s scheme of travel, he/she may be required to take the COVID-19 PCR test upon arrival in Singapore, or before the completion of his/her SHN. In general, children aged 12 and below (based on year of birth) do not need to take the COVID-19 PCR swab test, unless their close contacts are found to be COVID-19 positive.
 
-**Helplines**
+Travellers serving their SHN will receive the details of their test appointments at their registered mobile numbers. The swab results will be conveyed within 1 to 4 days. All travellers, including those tested on arrival, must remain in self-isolation until a negative COVID-19 test result is conveyed.
 
-PSHNs who have problems with their device or do not have access to a smartphone with internet connection may call the StayHome@SG Helpdesk at 6962 2516 for technical assistance.
 
-Those who require other types of assistance may call the SHN Helpline at 6812 5555.
-
-### COVID-19 Swab Test
-
-Before the end of SHN, all travellers will be scheduled to take a COVID-19 swab test at a designated community testing facility. Children aged 12 or younger (in that calendar year) need not take a COVID-19 swab test unless their close contacts are found to be COVID-19 positive.
-
-Persons placed on SHN (PSHNs) will receive a call and/or SMS notification on their registered mobile number regarding the details of their allotted swab test appointment. PSHNs will be notified of the test result generally within 1 to 4 days after the day of the swab. PSHNs should continue to adhere to the terms of the SHN.
-
-Travellers under [Air Travel Pass](/atp/requirements-and-process), [Reciprocal Green Lane](/rgl/requirements-and-process) or [Periodic Commuting Arrangement (Returning Singaporeans)](/pca/sc-pr-leave) will be swabbed on arrival and must remain in isolation until their test result is out.
-
-### Enforcement measures
-
-From the day of arrival in Singapore, ICA will be conducting mandatory checks on Singapore citizens, permanent residents, Long-Term Visit Pass holders and short-term visitors who are placed on the Stay-Home Notice (SHN).
-
-Persons placed on SHN (PSHNs) may be contacted via calls or WhatsApp to verify their location. During the audio and/or video call via WhatsApp, PSHNs may be requested to show their immediate surroundings to verify their location. During the call, PSHNs will be asked to provide the last four digits of their Identity Card/ travel document to ascertain their identity.
-
-In addition, PSHNs may receive house visits. All our officers performing house visits will produce their warrant cards or ICA authorisation letter as a form of identification.
-
-The Government will continue to implement surveillance and enforcement measures to ensure compliance with the SHN, so that the well-being of the community is not put at risk.
-
-Anyone can report a Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor who did not comply with the SHN to ICA via
-- <a href="https://go.gov.sg/reportshnbreach" target="_blank">This form</a>; or
-- 6812 5555.
-
-**Scam Warning**
-
-ICA will not ask for any financial information. If travellers receive a call from us and wish to verify the authenticity of the phone call, they can call the SHN helpline at 6812 5555.
-
-### Penalties for Breach of SHN
-
-Those who fail to comply with the Stay-Home Notice requirements can be prosecuted under the Infectious Diseases Act and its Regulations, and face a fine up to $10,000, or up to six months’ imprisonment, or both.
-
-In addition, if the person is a:
-
-- **Singapore permanent resident or long-term pass holder** (Long-Term Visit Pass/ Dependant’s Pass/ Student’s Pass), the Re-Entry Permit or passes may be revoked, or the validity shortened and the person may be barred from entering Singapore in future.
-- **Short-term visitor**, the visit pass may be cancelled and the person may be barred from entering Singapore.
-- **Work pass holder**, the work pass may be revoked.
-- **Full-time student** attending a preschool, school or other educational institution in Singapore, the person might be subject to disciplinary action, including suspension or dismissal.
