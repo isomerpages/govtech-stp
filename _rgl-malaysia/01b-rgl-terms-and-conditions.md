@@ -1,7 +1,6 @@
 ---
 title: Terms & Conditions
 permalink: /malaysia/rgl/terms-and-conditions
-third_nav_title: Reciprocal Green Lane
 ---
 
 ### **Terms & Conditions of SafeTravel Pass (For Residents in Malaysia using the Reciprocal Green Lane for the Movement of Essential Business/Official Travellers Between Singapore and Malaysia to Travel to Singapore)<sup>1</sup>**
