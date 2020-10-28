@@ -1,7 +1,6 @@
 ---
 title: Overview
 permalink: /atp/overview
-third_nav_title: Air Travel Pass
 ---
 
 ## Air Travel Pass
