@@ -58,7 +58,7 @@ third_nav_title: Reciprocal Green Lane
 
 10. The traveller must undertake a COVID-19 PCR test from a medical institution designated by the Government of Indonesia and recognised by Singapore, at his/her own cost, within 72 hours prior to departure from Indonesia, and obtain the negative test results prior to departure.
 
-11. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter: 
+11. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airlines/ferries check-in counter: 
 : a. Valid SafeTravel Pass approval letter for the intended week of travel; 
 : b. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the Government of Indonesia and recognised by Singapore; and 
 : c. Return air/ferry ticket or proof of other transportation arrangements to depart Singapore 
