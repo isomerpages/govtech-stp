@@ -29,7 +29,7 @@ collections:
     output: true
   travellers-from-malaysia:
     output: true
-  travellers-from-new-zealand:
+  atp-new-zealand:
     output: true
   travellers-from-republic-of-korea:
     output: true
