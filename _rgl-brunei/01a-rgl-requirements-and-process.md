@@ -1,7 +1,6 @@
 ---
 title: Requirements & Process
 permalink: /brunei/rgl/requirements-and-process
-third_nav_title: Reciprocal Green Lane
 ---
 
 On 1 September 2020, Singapore and Brunei agreed to implement the Reciprocal Green Lane (RGL) to facilitate short-term essential business and official travel between both countries.
