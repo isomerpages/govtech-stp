@@ -48,13 +48,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td><a href="/rgl/overview">Reciprocal Green Lane</a><sup>2</sup></td>
   <td>&nbsp;</td>
  </tr>
-  <tr>
-  <td>Germany</td>
-  <td>&nbsp;</td>
-  <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
- </tr>
-  <tr>
+ <tr>
   <td>Indonesia</td>
   <td>&nbsp;</td>
   <td><a href="/rgl/overview">Reciprocal Green Lane</a></td>
@@ -106,4 +100,5 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 |Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
 |Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |-->
 
-<sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+<font size="3"> <i><sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+</i></font>
