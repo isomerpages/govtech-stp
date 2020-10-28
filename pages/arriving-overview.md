@@ -86,6 +86,10 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
 </table>
 
+
+<font size="3"> <i><sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+</i></font>
+
 <!--
 |Country/Place of Departure | Any Purpose of Travel | Business & Official Travel | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
 |-------------|-------------------|-------------------|-------------|
@@ -100,5 +104,4 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 |Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
 |Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |-->
 
-<font size="3"> <i><sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
-</i></font>
+
