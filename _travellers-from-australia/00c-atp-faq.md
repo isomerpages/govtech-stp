@@ -14,7 +14,9 @@ The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0001hrs.
+Visitors travelling from Australia (excluding Victoria State) can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0001hrs. 
+
+Visitors travelling from Australia (Victoria State) can apply for an ATP from 30 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 6 November 2020, 0001hrs. 
 
 #### 3. How can visitors apply for an ATP?
 
@@ -72,11 +74,11 @@ No. Visitors will need to submit the application themselves as they are required
 
 #### 14. Do visitors with a valid ATP need to apply for a separate visa to enter Singapore?
 
-Visitors who are visa-required passport holders must separately obtain a visa for entry into Singapore. Such visitors can apply for their visa two working days after receiving their ATP approval letter.
+Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa prior to departure for Singapore. 
 
-If visitors already have existing visas, the visa suspension will be lifted when the ATP is approved. There is no need to apply for a new visa. Visitors who were not required to obtain a visa for entry prior to the COVID-19 pandemic do not have to obtain a visa.
+ICA has lifted the visa suspension and resumed issuance of new visas from 18 October 2020, 2359hrs onwards. If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to reapply or apply for a visa. 
 
-Visitors may refer to the Singapore Immigration & Checkpoints Authority (ICA) website (<https://www.ica.gov.sg/visitor/visitor_entryvisa>) for information on visa requirements and application.
+Visitors may refer to ICA website (<https://www.ica.gov.sg/visitor/visitor_entryvisa>) for information on visa requirements and application.
 
 ### **ATP Conditions of Travel**
 
@@ -173,7 +175,7 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;
 - a valid visa (for visa-required passport holders); and
-- a mobile device with the TraceTogether app already downloaded and registered. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
+- a mobile device with the TraceTogether app already downloaded and activated. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
