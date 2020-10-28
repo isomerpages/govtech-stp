@@ -21,7 +21,7 @@ colors:
 
 #collections
 collections:
-  travellers-from-australia:
+  atp-australia:
     output: true
   atp-brunei:
     output: true
