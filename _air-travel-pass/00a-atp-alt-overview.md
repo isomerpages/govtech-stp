@@ -4,44 +4,51 @@ permalink: /atp/overview
 third_nav_title: Air Travel Pass
 ---
 
-The Air Travel Pass (ATP) enables non-Singaporean short-term visitors departing from the countries/places below to enter Singapore. 
-- Australia 
-- Brunei Darussalam 
-- Mainland China 
-- New Zealand 
-- Vietnam 
+## Air Travel Pass
 
-Click the links below for details on the requirements and process for travellers departing from each ATP-eligible country/place.
+The Air Travel Pass (ATP) enables foreigners who are short-term visitors departing from the countries/places listed below to seek entry into Singapore. Please click on the relevant links below for more information about the ATP. 
 
-## Countries/Places Eligible for Air Travel Pass
 
 <table>
 <thead>
   <tr>
-    <th>Air Travel Pass Country/Place</th>
+    <th>Country/Place</th>
     <th>Requirements & Process</th>
+    <th>ATP Conditions</th>
+    <th>Frequently Asked Questions</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td><b>Australia</b></td>
     <td><a href="/australia/atp/requirements-and-process">Click here</a></td>
+     <td><a href="/australia/atp/conditions">Click here</a></td>
+      <td><a href="/australia/atp/faq">Click here</a></td>
   </tr>
     <tr>
     <td><b>Brunei Darussalam</b></td>
     <td><a href="/brunei/overview">Click here</a></td>
+      <td><a href="/brunei/atp/requirements-and-process">Click here</a></td>
+      <td><a href="/brunei/atp/conditions">Click here</a></td>
+      <td><a href="/brunei/atp/faq">Click here</a></td>
   </tr>
     <tr>
     <td><b>Mainland China</b></td>
-    <td><a href="/china/overview">Click here</a></td>
+    <td><a href="/china/atp/requirements-and-process">Click here</a></td>
+      <td><a href="/china/atp/conditions">Click here</a></td>
+      <td><a href="/china/atp/faq">Click here</a></td>
   </tr>
    <tr>
     <td><b>New Zealand</b></td>
     <td><a href="/newzealand/atp/requirements-and-process">Click here</a></td>
+     <td><a href="/newzealand/atp/conditions">Click here</a></td>
+     <td><a href="/newzealand/atp/faq">Click here</a></td>
   </tr>
      <tr>
     <td style="border-bottom:1px solid #D8D8D8;"><b>Vietnam</b></td>
-    <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
+       <td><a href="/vietnam/atp/requirements-and-process">Click here</a></td>
+       <td><a href="/vietnam/atp/conditions">Click here</a></td>
+    <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/faq">Click here</a></td>
   </tr>
   </tbody>
   </table>
