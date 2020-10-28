@@ -5,13 +5,13 @@ permalink: /china/atp/requirements-and-process
 
 ### **Overview**
 
-On **29 October 2020**, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from mainland China. Foreigners who are short-term visitors travelling from mainland China may seek entry into Singapore by applying for an Air Travel Pass.
+On 29 October 2020, Singapore announced the lifting of border restrictions to allow entry of visitors travelling from mainland China. Foreigners who are short-term visitors travelling from mainland China may seek entry into Singapore by applying for an Air Travel Pass.
 
 Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an Air Travel Pass to travel to Singapore from mainland China. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore. Please refer to <https://www.ica.gov.sg/covid-19/arrivalsg> for the prevailing health measures applicable to you upon entry into Singapore.
 
 ### **Application**
 
-From **30 October 2020**, foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore on or after 6 November 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
+From 30 October 2020, foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore on or after 6 November 2020. They can apply for an Air Travel Pass at no charge. Applications must be made between seven and thirty calendar days prior to the visitor’s intended date of entry into Singapore. The Air Travel Pass is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
 Visitors must comply with the [Conditions](/china/atp/conditions) of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. When the Air Travel Pass application is approved, an approval letter will be sent to the applicant via email.
 
