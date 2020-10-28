@@ -1,6 +1,7 @@
 ---
-title: Reciprocal Green Lane
+title: Overview
 permalink: /brunei/rgl/overview
+third_nav_title: Reciprocal Green Lane
 ---
 
 The Reciprocal Green Lane (RGL) schemes address the needs of different groups of cross-border travellers between Brunei Darussalam and Singapore.
