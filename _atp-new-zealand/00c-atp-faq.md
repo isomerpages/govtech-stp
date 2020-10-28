@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions
 permalink: /newzealand/atp/faq
-third_nav_title: Air Travel Pass
 ---
 
 ### **Air Travel Pass (ATP)**
