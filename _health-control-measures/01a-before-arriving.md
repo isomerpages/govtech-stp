@@ -7,7 +7,7 @@ third_nav_title: Arriving in Singapore
 
 ### 1. Obtain Entry Approval
 
-With the exception of Singapore citizens and permanent residents, all travellers must obtain an entry approval to enter Singapore. Approvals can be obtained from the relevant government agencies (e.g. MOE, MOM), or via the application for a Safe Travel pass (details here). Travellers without an entry approval will be denied entry and may have their existing work passes revoked.
+With the exception of Singapore citizens and permanent residents, all travellers must obtain an entry approval to enter Singapore. Approvals can be obtained from the relevant government agencies (e.g. MOE, MOM), or via the application for a Safe Travel pass (details [here](/apply-now)). Travellers without an entry approval will be denied entry and may have their existing work passes revoked.
 
 If unsure what entry lanes and health requirements are applicable to you to enter Singapore depending on your country of departure and traveller type, please click [here](/arriving/overview) to find out more.
 
