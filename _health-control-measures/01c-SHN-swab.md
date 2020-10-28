@@ -11,6 +11,14 @@ A summary of the prevailing SHN and swab requirements for travellers can be foun
 
 Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
 
+Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">read the requirements for persons placed on SHN</a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![SHN](/images/stayhomesg-infographics-2.png)
+
+**SHN Enforcement**
+
 ICA will conduct checks on travellers placed on SHN. These entails house visits, calls or WhatsApp. During the call, a traveller will be asked for the last four digits of his/her Identity Card/ travel document to ascertain his/her identity. Officers conducting house visits will produce their warrant cards or ICA authorisation letter as a proof of their identity.
 
 Travellers who fail to comply with the SHN requirements can be reported to ICA via <a href="https://go.gov.sg/reportshnbreach" target="_blank">this form</a> or 6812 5555. Errant travellers prosecuted under the Infectious Diseases Act and its regulations, can be fined up to $10,000, and/or imprisoned for up to six months. Additional penalties such as the revocation of the immigration or work passes can also be imposed.
@@ -21,7 +29,7 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 
 ### 2. Dedicated Stay-Home Notice (SHN) Facility
-Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) due to extenuating circumstances (e.g. serious medical conditions or mobility issues), can provide the details using <a href="https://go.gov.sg/shnhotelneeds" target="_blank"> this form</a> for assistance.
+Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) due to extenuating circumstances (e.g. serious medical conditions or mobility issues) can use <a href="https://go.gov.sg/shnhotelneeds" target="_blank"> this form</a> for further information and assistance.
 
 With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan, Norway, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
@@ -29,12 +37,6 @@ With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan,
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
 
 Applications must be made prior to arrival in Singapore. Applications can be submitted starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
-
-Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">read the requirements for persons placed on SHN</a>.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-2.png)
 
 ### 3. SHN Electronic Monitoring Device
 
