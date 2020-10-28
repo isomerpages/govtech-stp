@@ -10,9 +10,9 @@ For all countries/places, the following traveller types and Safe Travel Lanes ar
 |-------------------|-------------|-------------------|-------------------|
 |All countries| [Returning Singapore Citizen/PR](/sc-pr/info)| - [Work Pass Holder Lane](/wphl/overview) <br> - [Student's Pass Holder Lane](/stpl/overview) |[Singapore Citizen/Permanent Resident Familial Ties Lane](/scpr-familial-ties-lane/overview) |
 
-<font size="1"> 
-<sup>1</sup> *Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder General Lane, Parent/Guardian of a Student's Pass Holder under the Student's Pass Holder Lane, or for entry under the Singapore Citizen/Permanent Resident Familial Ties Lane.*
-</font>
+<font size="1"> <i>
+<sup>1</sup> Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder General Lane, Parent/Guardian of a Student's Pass Holder under the Student's Pass Holder Lane, or for entry under the Singapore Citizen/Permanent Resident Familial Ties Lane.
+ </i></font>
 
 ## Additional Safe Travel Lanes for Arrival from Specific Countries/Places
 
