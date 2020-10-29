@@ -19,17 +19,19 @@ permalink: /china/rgl/terms-and-conditions
 
 #### General
 
-1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller has read and understood:
+1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller has read and acknowledged:
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy>.
 
-2. At the point of application, the Sponsor should submit the following information if already available: confirmed flight itinerary (including flight booking reference number, flight number), and proof of accommodation of the traveller. The chosen place of accommodation of the traveller in Singapore must be a non-residential address and an individual room with en-suite toilet.
+2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in Singapore.
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken from a medical institution designated by the relevant provincial/municipal government in China and within 72 hours from departure; and (ii) Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken from a medical institution designated by the relevant provincial/municipal government in China and within 72 hours from departure; and (ii) final Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. 
 
-4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
+4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the host.
 
-5. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
+5. Should there be any changes in the information provided, such as the arrival date or time of the traveller, the Sponsor shall promptly inform the Singapore Ministry of Trade and Industry (henceforth referred to as "MTI") immediately via <COVID_SafeTravelEnquiries@mti.gov.sg>.
+
+6. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
 ### **B. Terms & Conditions for Traveller**
 
@@ -43,7 +45,7 @@ permalink: /china/rgl/terms-and-conditions
 
 4. The traveller agrees to disclose, or for the medical provider to disclose, his/her COVID-19 PCR test results to the Sponsor, Host, and relevant government authorities in Singapore.
 
-5. he traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
+5. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
 
 6. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
@@ -85,7 +87,7 @@ permalink: /china/rgl/terms-and-conditions
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
-  : i. Travellers shall have meals alone, with the exception of business-hosted meals in accordance with SMM; and
+  : i. Travellers shall have meals alone, with the exception of business-hosted meals with the same travel delegation to Singapore; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 
 #### Post-Departure from Singapore
