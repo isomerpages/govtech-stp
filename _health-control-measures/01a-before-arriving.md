@@ -9,11 +9,11 @@ third_nav_title: Arriving in Singapore
 
 With the exception of Singapore citizens and permanent residents, all travellers must obtain an entry approval to enter Singapore. Approvals can be obtained from the relevant government agencies (e.g. MOE, MOM), or via the application for a Safe Travel pass (details [here](/arriving/overview). Travellers without an entry approval will be denied entry and may have their existing work passes revoked.
 
-If unsure what entry lanes and health requirements are applicable to you to enter Singapore depending on your country of departure and traveller type, please click [here](/arriving/overview) to find out more.
+If unsure which entry lanes and health requirements are applicable to you to enter Singapore depending on your country of departure and traveller type, please click [here](/arriving/overview) to find out more.
 
 ### 2. Apply for Visa (If Applicable)
 
-Travellers that have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> should apply for a visa through a local sponsor, <a href="https://www.mfa.gov.sg/Overseas-MissionsSingapore" target="_blank">Singapore Overseas Mission</a> or through its authorised visa agent.
+Travellers who have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> should apply for a visa through a local sponsor, <a href="https://www.mfa.gov.sg/Overseas-MissionsSingapore" target="_blank">Singapore Overseas Mission</a> or through its authorised visa agent.
 
 Existing valid visa holders do not need to re-apply/apply for a visa. Click <a href="https://eservices.ica.gov.sg/esvclandingpage/save" target="_blank">here</a> to check if your visa remains valid.
 
