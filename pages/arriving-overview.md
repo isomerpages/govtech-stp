@@ -3,7 +3,7 @@ title: Travelling to Singapore
 permalink: /arriving/overview
 ---
 
-## Arriving from All Countries/Places
+## Arriving from All Countries/Regions
 For all countries/places, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
 <table>
@@ -36,7 +36,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 
 <table>
  <tr>
-  <td rowspan="2"><b>Country/Place of Departure</b></td>
+  <td rowspan="2"><b>Country/Region of Departure</b></td>
   <td colspan="2"><b>Short Term Visitors</b></td>
   <td><b>Singapore or Malaysia Work Pass Holders</b></td>
  </tr>
