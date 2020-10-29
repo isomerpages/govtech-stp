@@ -21,7 +21,7 @@ Please click on the relevant links below for more information about the ATP
 <table>
 <thead>
   <tr>
-    <th>Country/Place</th>
+    <th>Country/Region</th>
     <th>Requirements & Process</th>
     <th>RGL Terms & Conditions</th>
     <th>Frequently Asked Questions</th>
