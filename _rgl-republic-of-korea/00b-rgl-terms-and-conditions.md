@@ -19,15 +19,17 @@ permalink: /rok/rgl/terms-and-conditions
 
 #### General
 
-1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller has read and understood:
+1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller and the Host (if different from the sponsor) has read and understood:
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy/>.
 
-2. At the point of application, the Sponsor should submit the following information if already available: confirmed flight itinerary (including flight booking reference number, flight number), and proof of accommodation of the traveller. The chosen place of accommodation of the traveller in Singapore must be a non-residential address and an individual room with en-suite toilet.
+2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in Singapore. 
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate obtained from authorities designated by the ROK government and taken within 72 hours from departure; (ii) Controlled Itinerary in Singapore; and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate obtained from authorities designated by the ROK government and taken within 72 hours from departure; (ii) final Controlled Itinerary in Singapore; and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. The Controlled Itinerary of the traveller only allows for travel between places of business and accommodation, with limited contact with the community.
 
-4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
+4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
+
+5. Should there be any changes in the information proviuded, such as the arrival date or time of the traveller, the Sponsor shall promptly inform the Singapore Ministry of Trade and Industry (henceforth referred to as "MTI") immediately via <COVID_SafeTravelEnquiries@mti.gov.sg>. 
 
 5. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
@@ -35,7 +37,7 @@ permalink: /rok/rgl/terms-and-conditions
 
 #### General
 
-1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with. The burden of proving compliance with these terms and conditions, including adherence to the controlled itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include retention of screenshots of SafeEntry passes and prompt answering of phonecalls or text messages to verify the traveller’s location.
+1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host. The burden of proving compliance with these terms and conditions, including adherence to the controlled itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include retention of screenshots of SafeEntry passes and prompt answering of phonecalls or text messages to verify the traveller’s location.
 
 2. Any Visit Pass issued to a traveller holding the SafeTravel Pass is also subject to these terms and conditions. Non-compliance with any of these terms and conditions may result in the traveller having his/her Visit Pass cancelled and being refused entry.
 
@@ -77,7 +79,7 @@ permalink: /rok/rgl/terms-and-conditions
 
 15. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
 
-16. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance.
+16. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must promptly report any deviation from the Controlled Itinerary to his/her Host in advance.
 
 17. For the duration of the traveller’s stay in Singapore, the traveller must:
 : a. download and utilise relevant mobile applications and technology solutions, including TraceTogether and SafeEntry, to facilitate contact tracing;
@@ -85,7 +87,7 @@ permalink: /rok/rgl/terms-and-conditions
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
-  : i. Travellers shall have meals alone, with the exception of business-hosted meals in accordance with SMM; and
+  : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same travel delegation to Singapore; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 
 #### Post-Departure from Singapore
@@ -100,11 +102,11 @@ permalink: /rok/rgl/terms-and-conditions
 
 #### General
 
-1. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The Host is responsible for monitoring and ensuring that the traveller complies with these terms and conditions and the SafeTravel Pass may be revoked, and/or future applications by the Host rejected, if any of the terms and conditions are not complied with.
+1. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The Host is responsible for monitoring and ensuring that the traveller complies with these terms and conditions and the SafeTravel Pass may be revoked, and/or future applications by the Host rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
 2. The Host of the traveller must arrange for transportation to transport the traveller directly from the airport to the traveller’s declared place of accommodation.
 
-3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall inform the government agency Sponsor, or the Singapore Ministry of Trade and Industry (henceforth referred to as “MTI”) in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
+3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
 
 4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
 
