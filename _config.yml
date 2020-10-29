@@ -21,25 +21,46 @@ colors:
 
 #collections
 collections:
-  travellers-from-australia:
+  air-travel-pass:
     output: true
-  travellers-from-brunei-darussalam:
+  atp-australia:
     output: true
-  travellers-from-china:
+  atp-brunei:
     output: true
-  travellers-from-malaysia:
+  atp-china:
     output: true
-  travellers-from-new-zealand:
+  atp-new-zealand:
     output: true
-  travellers-from-republic-of-korea:
+  atp-vietnam:
     output: true
-  travellers-from-japan:
+  rgl-brunei:
     output: true
-  travellers-from-vietnam:
+  rgl-china:
     output: true
-  travellers-from-indonesia:
+  rgl-indonesia:
+    output: true
+  rgl-japan:
+    output: true
+  rgl-malaysia:
+    output: true
+  rgl-republic-of-korea:
+    output: true
+  reciprocal-green-lane:
+    output: true 
+  periodic-commuting-arrangement:
+    output: true
+  returning-singapore-citizen-and-pr:
+    output: true
+  health-control-measures:
+    output: true
+  work-pass-holder-lane:
+    output: true
+  student-pass-holder-lane:
+    output: true
+  singaporean-familial-ties-lane:
     output: true
 
+    
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
