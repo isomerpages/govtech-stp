@@ -4,18 +4,18 @@ permalink: /departing/overview
 ---
 
 Singapore does not impose any mandatory health requirements on travellers for departure to other countries. However, the following is advised:
-- Check the [MFA website](https://www.mfa.gov.sg) for the latest travel advisories to other countries/regions
-- Check with the immigraiton authority or embassy of the destination country/region on the relevant health requirements imposed on travellers from Singapore, such as Pre-Departure Tests to be taken
+- Check the <a href="https://www.mfa.gov.sg" target="_blank">MFA website</a> for the latest travel advisories to other countries/regions
+- Check with the immigraiton authority or embassy of the destination country/place on the relevant health requirements imposed on travellers from Singapore, such as Pre-Departure Tests to be taken
 
 ### Travellers Departing to Countries/Regions that Require COVID-19 Pre-Departure Test (PDT)
 
-Some countries/regions require a Pre-Departure Test (PDT) before travellers depart from Singapore. Approval for pre-departure tests may be granted only for travellers from Singapore who are travelling to a destination country that has a <u>mandatory</u> requirement for travellers to produce a negative COVID-19 PCR test result prior to <u>entry</u> into the country. 
+Some countries/places require a Pre-Departure Test (PDT) before travellers depart from Singapore. Approval for pre-departure tests may be granted only for travellers from Singapore who are travelling to a destination country/place that has a <u>mandatory</u> requirement for travellers to produce a negative COVID-19 PCR test result prior to entry into the country. 
 
 For more details on PDT, please click [here](/health/pre-departure-test).
 
 ### Travel Using Reciprocal Green Lane for Business/Official Travel
 
-Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following countries for short term business and official travel. 
+Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following countries/places for short term business and official travel. 
 - Brunei Darussalam
 - China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
 - Germany
@@ -28,4 +28,4 @@ These RGLs have specific departure requirements and application processes and mo
 
 ### Travel to Malaysia under the Periodic Commuting Arrangement
 
-Singapore has agreed with Malaysia on a Periodic Commuting Arrangement (PCA) for Singapore Citizens and PRs who hold Malaysian work passes. For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia to work under the PCA, please visit the Immigration Department of Malaysia’s website [here](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html). For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
+Singapore has agreed with Malaysia on a Periodic Commuting Arrangement (PCA) for Singapore Citizens and PRs who hold Malaysian work passes. For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia to work under the PCA, please visit the Immigration Department of Malaysia’s website <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">here</a>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
