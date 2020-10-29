@@ -16,7 +16,7 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 
 The RGL is only applicable for travel between Singapore and the foreign RGL counterpart using non-stop flight routes (no transit in other countries).
 
-Please click on the relevant links below for more information about the ATP
+Please click on the relevant links below for more information about the RGL
 
 <table>
 <thead>
