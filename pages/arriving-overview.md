@@ -4,7 +4,7 @@ permalink: /arriving/overview
 ---
 
 ## Arriving from All Countries/Regions
-For all countries/places, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
+For all countries/regions, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
 <table>
 <thead>
@@ -29,9 +29,9 @@ For all countries/places, the following traveller types and Safe Travel Lanes ar
 <sup>1</sup> Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder General Lane, Parent/Guardian of a Student's Pass Holder under the Student's Pass Holder Lane, or for entry under the Singapore Citizen/Permanent Resident Familial Ties Lane.
  </i></font>
 
-## Additional Safe Travel Lanes for Arrival from Specific Countries/Places
+## Additional Safe Travel Lanes for Arrival from Specific Countries/Region
 
-Singapore has arranged additional Safe Travel Lanes with the following countries/places to facilitate shorter term entry into Singapore.
+Singapore has arranged additional Safe Travel Lanes with the following countries/region to facilitate shorter term entry into Singapore.
 
 
 <table>
