@@ -13,7 +13,7 @@ If unsure what entry lanes and health requirements are applicable to you to ente
 
 ### 2. Apply for Visa (If Applicable)
 
-Travellers that have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> should apply for a visa through a local sponsor, <a href="https://www.mfa.gov.sg/Overseas-MissionsSingapore" target="_blank">Singapore Overseas Mission</a> or through its authorised visa agent.
+Travellers who have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> should apply for a visa through a local sponsor, <a href="https://www.mfa.gov.sg/Overseas-MissionsSingapore" target="_blank">Singapore Overseas Mission</a> or through its authorised visa agent.
 
 Existing valid visa holders do not need to re-apply/apply for a visa. Click <a href="https://eservices.ica.gov.sg/esvclandingpage/save" target="_blank">here</a> to check if your visa remains valid.
 
