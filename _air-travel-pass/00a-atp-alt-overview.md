@@ -10,7 +10,7 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
 <table>
 <thead>
   <tr>
-    <th>Country/Place</th>
+    <th>Country/Region</th>
     <th>Requirements & Process</th>
     <th>ATP Conditions</th>
     <th>Frequently Asked Questions</th>
