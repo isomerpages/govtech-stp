@@ -5,7 +5,7 @@ permalink: /atp/overview
 
 ## Air Travel Pass
 
-The Air Travel Pass (ATP) enables foreigners who are short-term visitors departing from the countries/places listed below to seek entry into Singapore. Please click on the relevant links below for more information about the ATP. 
+The Air Travel Pass (ATP) enables foreigners who are short-term visitors departing from the countries/regions listed below to seek entry into Singapore. Please click on the relevant links below for more information about the ATP. 
 
 <table>
 <thead>
