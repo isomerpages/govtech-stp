@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /SC-PR/opt-out
-third_nav_title: SC/PR Opt Out
+third_nav_title: SDF Opt-out for SC/PR
 ---
 
 ## Stay-Home Notice Dedicated Facility (SDF) Opt-out
