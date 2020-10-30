@@ -14,35 +14,35 @@ permalink: /china/rgl/faq
 
 ### **Application**
 
-#### 1. Who is eligible to apply to travel to Singapore under the fast lane?
+#### 1. Who is eligible to apply to travel to Singapore under the RGL?
 
-Persons of all nationalities who are legally resident in China, who need to make single-entry, short-term essential travel for business or official purposes travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang).
+Persons of all nationalities who are legally resident in China, who need to make single-entry, short-term essential travel for business or official purposes travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang).
 
-#### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder* who is resident in China. Am I eligible to apply for the fast lane?
+#### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder* who is resident in China. Am I eligible to apply for the RGL?
 
-Yes. All residents in China who need to make short-term essential business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) are eligible to apply for the fast lane.
+Yes. All residents in China who need to make short-term essential business or official travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) are eligible to apply for the RGL.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Long-Term Pass holders who are eligible to apply for fast lane travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Long-Term Pass holders who are eligible to apply for RGL travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependant’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>Long-Term Pass holders returning to Singapore after a visit to China via the fast lane should identify themselves as fast lane travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the fast lane region.</em></p>
+<p style="font-size: 1.0rem; line-height: 1.8rem;"><em>Long-Term Pass holders returning to Singapore after a visit to China via the RGL should identify themselves as RGL travellers during pre-departure airline checks in China and to ICA at Singapore immigration by presenting the Letter of Invitation issued by the Chinese provincial/municipal government of the RGL region.</em></p>
 
 #### 3. What is a SafeTravel Pass?
 
-A Safetravel Pass is required to seek entry into Singapore under the fast lane. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore.
+A Safetravel Pass is required to seek entry into Singapore under the RGL. It is non-transferable and will be valid for a single entry into Singapore. Travellers must enter Singapore within this stipulated week (0000hrs Monday to 2359hrs Sunday), and can stay in Singapore for the duration of their Visit Pass issued at the immigration checkpoint in Singapore.
 
 SafeTravel Passes will be issued on a limited basis in order to manage the risk of imported COVID-19 cases.
 
 Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have further queries related to the SafeTravel Pass.
 
-#### 4. How do residents in China apply to travel to Singapore under the fast lane? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
+#### 4. How do residents in China apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit?
 
-Residents in China seeking to travel to Singapore via the fast lane must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
+Residents in China seeking to travel to Singapore via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <http://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup>
 
 When applying for the SafeTravel Pass, Proof of Residency in China is required. Chinese nationals should present a copy of their passport for submission. Foreign residents in China should provide a copy of their China residence permit. The applicant will also be required to submit the controlled itinerary for the traveller(s)’ first 14 days of stay in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
 
 The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller’s planned departure. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as early as possible, factoring in the time necessary for the processing of the SafeTravel Pass application, visa application (if needed) and taking a pre-departure COVID-19 polymerase chain reaction (PCR) test.
 
-When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
+When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. With this letter, an approved applicant who is a visa-required passport holder will proceed to apply for a visa for travel to Singapore through the usual channels (Singapore overseas missions, authorised visa agents, local contact or companies) at least 4 working days before departure. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>. Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa/> for more information on Singapore’s visa requirements.
 
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the SG Arrival Card (<https://eservices.ica.gov.sg/sgarrivalcard/>), within 3 days prior to the date of arrival in Singapore.
 
@@ -54,9 +54,9 @@ The Travellers is required to present their valid SafeTravel Pass, valid visa (f
 
 When a company is sponsoring a traveller, it will have to be responsible for the application of the SafeTravel Pass on behalf of the traveller as well as the timely submission of the accompanying documents.
 
-The host company should also ensure that the traveller abides by the terms and conditions of the Singapore-China Fast Lane, and the prevailing health measures during his/her stay in Singapore. Authorities may ask for proof of adherence, including physical verification or SafeEntry Pass records (e.g. screenshots), to the controlled itinerary and other terms and conditions when the traveller is in Singapore.
+The host company should also ensure that the traveller abides by the terms and conditions of the Singapore-China RGL, and the prevailing health measures during his/her stay in Singapore. Authorities may ask for proof of adherence, including physical verification or SafeEntry Pass records (e.g. screenshots), to the controlled itinerary and other terms and conditions when the traveller is in Singapore.
 
-You can access the terms and conditions of the Singapore-China Fast Lane at <https://safetravel.ica.gov.sg/china/rgl/terms-and-conditions>. Actions will be taken against the traveller and the host company in the event of non-compliance.
+You can access the terms and conditions of the Singapore-China RGL at <https://safetravel.ica.gov.sg/china/rgl/terms-and-conditions>. Actions will be taken against the traveller and the host company in the event of non-compliance.
 
 #### 6.	Can tourists apply for SafeTravel Passes?
 
@@ -74,11 +74,11 @@ No payment is required.
 
 There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application. However, please note that there may be penalties for repeated non-utilisation.
 
-#### 10. What visa will I be eligible for under the fast lane, and what is the duration of stay that I will be eligible for in Singapore?
+#### 10. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore?
 
 Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa, the visa suspension will be lifted when the SafeTravel Pass is approved, and he/ she need not apply for a new visa. The applicant can check his/her visa status through <https://eservices.ica.gov.sg/esvclandingpage/save>.
 
-Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for fast lane travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa> for more information on Singapore’s visa requirements.
+Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for RGL travel. Please refer to <https://www.ica.gov.sg/enteranddeparting/before/entryvisa> for more information on Singapore’s visa requirements.
 
 Travellers who are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
@@ -107,23 +107,23 @@ SafeTravel Pass applications may be rejected for reasons, including the followin
 - Wrong proof of residency submitted.
 - Quota limit reached for intended week of entry.
 
-#### 16. Can I use the fast lane to come to Singapore for long-term work?
+#### 16. Can I use the RGL to come to Singapore for long-term work?
 
-The fast lane is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme.
+The RGL is only for short-term essential business and official travel, and not for long-term work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme.
 
-#### 17. Can I use the fast lane to come to Singapore for long-term study?
+#### 17. Can I use the RGL to come to Singapore for long-term study?
 
-The fast lane is only for short-term essential business and official travel, and not for long-term study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders> for more information.
+The RGL is only for short-term essential business and official travel, and not for long-term study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders> for more information.
 
-#### 18. Can I use the fast lane to transit through Singapore?
+#### 18. Can I use the RGL to transit through Singapore?
 
-The fast lane is only for short-term essential business and official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), and not for transit through Singapore.
+The RGL is only for short-term essential business and official travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang), and not for transit through Singapore.
 
 ### **Pre-Departure Measures in China**
 
 #### 19. What health measures must I take in China before departing for Singapore?
 
-Travellers must remain in any of the sending fast lane regions (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for seven days prior to departure for Singapore. They must monitor their health status before departure from the fast lane regions in China, undergo a pre-departure PCR test in China at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the relevant provincial/municipal government in China.
+Travellers must remain in any of the sending RGL regions (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for seven days prior to departure for Singapore. They must monitor their health status before departure from the RGL regions in China, undergo a pre-departure PCR test in China at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by the relevant provincial/municipal government in China.
 
 The list of medical institutions designated by the relevant authorities in China for pre-departure COVID-19 testing can be found [here](http://bmfw.www.gov.cn/mhsjcjgcx/index.html).
 
@@ -141,13 +141,13 @@ Otherwise, the traveller may be refused boarding.
 
 #### 21. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
 
-Fast lane travellers coming in on the fast lane will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For fast lane travelers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, the travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance.
+RGL travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For RGL travelers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, the travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance.
 
 Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
 
 #### 22. What if I test positive for COVID-19 in Singapore?
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of his/her arrival in Singapore. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as a fast lane traveller.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of his/her arrival in Singapore. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller.
 
 Note that all Short-Term Pass holders will be accorded the necessary medical treatment at his/her cost.
 
@@ -155,7 +155,7 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 #### 23. What health measures will I be subjected to upon arrival in Singapore?
 
-Fast lane travellers from China must take a PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced non residential accommodation until their test results are released (typically 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.2Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation
+RGL travellers from China must take a PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced non residential accommodation until their test results are released (typically 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.2Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.3
 
@@ -177,13 +177,13 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 #### 26. Do I need to be tested again in Singapore before I return to China?
 
-Yes, China requires <u>all</u> travellers departing for/returning to China from Singapore to be subject to a pre-departure PCR test. As such, fast lane returnees will have to be tested again in Singapore before returning to China.
+Yes, China requires <u>all</u> travellers departing for/returning to China from Singapore to be subject to a pre-departure PCR test. As such, RGL returnees will have to be tested again in Singapore before returning to China.
 
-A fast lane traveller returning to China can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test and obtain a health certificate of having tested negative for COVID-19.
+A RGL traveller returning to China can make an appointment in advance at certain clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test and obtain a health certificate of having tested negative for COVID-19.
 
 According to the guidelines by the Chinese government, the validity period of the negative certificate held by travellers from Singapore to China will be adjusted from 5 days to 3 days from 11 September 2020. Please refer to the guidelines by the Chinese government at <http://www.chinaembassy.org.sg/eng/gdxw/t1812116.htm>.
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for fast lane arrangements can only be carried out at these clinics at the moment.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements can only be carried out at these clinics at the moment.
 
 Travellers should make an appointment that fits your required testing window, and present at the clinic early for the appointment. Travellers should make an appointment that fits their required testing window, and present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
@@ -221,21 +221,21 @@ The term “host” refers to the company or government agency that receives the
 
 ### **Application**
 
-#### 1. Who is eligible to apply to travel to China under the fast lane?
+#### 1. Who is eligible to apply to travel to China under the RGL?
 
-Persons of all nationalities who are legally resident in Singapore (i.e., Singapore Citizens, Permanent Residents, Long-Term Pass holders) who need to make single-entry, short term essential travel for business or official travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
+Persons of all nationalities who are legally resident in Singapore (i.e., Singapore Citizens, Permanent Residents, Long-Term Pass holders) who need to make single-entry, short term essential travel for business or official travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
 The relevant Chinese government authorities will assess each application on a case-by-case basis.
 
-#### 2.	How do Singapore residents apply to travel to China under the fast lane?
+#### 2.	How do Singapore residents apply to travel to China under the RGL?
 
-Residents in Singapore seeking to travel to China for essential business or official travel via the fast lane must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **<a href="#annexa">ANNEX A</a>**.
+Residents in Singapore seeking to travel to China for essential business or official travel via the RGL must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **<a href="#annexa">ANNEX A</a>**.
 
-If the application is approved, a Letter of Invitation specifically for essential business or official travel under the fast lane will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
+If the application is approved, a Letter of Invitation specifically for essential business or official travel under the RGL will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the fast lane requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
 
-#### 3. What visas will I be eligible for under the fast lane, and what is the visa duration in China?
+#### 3. What visas will I be eligible for under the RGL, and what is the visa duration in China?
 
 The duration and type of the visas issued by China will be assessed on a case-by-case basis by the Chinese authorities.
 
@@ -243,21 +243,21 @@ The duration and type of the visas issued by China will be assessed on a case-by
 
 The traveller’s host company or government agency should contact the local Entry-Exit Administration Bureau for more information.
 
-#### 5.	Is the fast lane meant for long-term work and study?
+#### 5.	Is the RGL meant for long-term work and study?
 
-The fast lane is only for short-term essential business and official travel, and not for long-term work or study.
+The RGL is only for short-term essential business and official travel, and not for long-term work or study.
 
 Those seeking to enter China for purposes other than essential business and official travel should contact the PRC Embassy in Singapore for further details.
 
 #### 6.	Where in China may I travel to? What are the approvals which I will need to obtain to do so?
 
-The fast lane is for travel between Singapore and the six fast lane regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
+The RGL is for travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
-A traveller from Singapore who needs to travel between adjacent fast lane regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination.
+A traveller from Singapore who needs to travel between adjacent RGL regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination.
 
-The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other fast lane regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
+The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other RGL regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
 
-After the first 14 days, inter-provincial/municipal travel for the non-fast lane regions within China will be allowed for a fast lane traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned.
+After the first 14 days, inter-provincial/municipal travel for the non-RGL regions within China will be allowed for a RGL traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned.
 
 As some provinces/municipalities may require additional COVID-19 test(s) before the traveller is allowed to embark on inter-provincial/municipal travel, the traveller’s local host company or government agency should check with the relevant local provincial/municipality authorities if there are any such requirements.
 
@@ -269,13 +269,13 @@ The traveller may contact his/her host company or government agency in China to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The fast lane traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+The RGL traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for fast lane arrangements should only be carried out at these clinics at the moment. An eligible fast lane traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
-The traveller must also obtain a letter from the PRC Embassy in Singapore which confirms that he/she has been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
+The traveller must also obtain a letter from the PRC Embassy in Singapore which confirms that he/she has been granted approval by the relevant authorities in China to travel to China under the Singapore-China RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -285,7 +285,7 @@ Travellers with ARI symptoms should not travel. They should postpone their trave
 
 #### 10.	What tests will I be subject to upon arrival in China? Will I be subject to a serology test in China?
 
-A fast lane traveller to China will be subject to a PCR test and a serology test upon arrival.<sup>1</sup>
+A RGL traveller to China will be subject to a PCR test and a serology test upon arrival.<sup>1</sup>
 
 #### 11. What if I test positive for COVID-19 in China?
 
@@ -299,7 +299,7 @@ The Chinese authorities require a traveller to test negative for both the post-a
 
 #### 13. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
 
-Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the fast lane.
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the RGL.
 
 As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements with his/her local host company or government agency.
 
@@ -325,7 +325,7 @@ While a traveller no longer needs to adhere to a controlled itinerary after the 
 
 ### **Returning to Singapore**
 
-#### 16. What health measures will I be subject to upon returning to Singapore after my fast lane travel?
+#### 16. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
 Singapore-based travellers returning from their travel on the Singapore-China RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 - Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
@@ -337,17 +337,17 @@ Please disregard the electronic SHN which you may receive via email upon submiss
 
 ##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to China on the Singapore-China fast lane may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to China on the Singapore-China fast lane may tap on their usual financing arrangements, such as foreign worker insurance.
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to China on the Singapore-China RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to China on the Singapore-China RGL may tap on their usual financing arrangements, such as foreign worker insurance.
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the fast lane. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the fast lane.
+Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the RGL.
 
 <div id="annexa"></div>
 
 ### **ANNEX A**
 
-#### Points-of-Contact for Outbound Travel by Singapore Residents to Fast Lane Regions in China
+#### Points-of-Contact for Outbound Travel by Singapore Residents to RGL Regions in China
 
-| Fast Lane Region | Local Provincial/Municipal Authorities |
+| RGL Region | Local Provincial/Municipal Authorities |
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Chongqing | For business travellers: Commerce Bureaus of the relevant counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant counties/districts |
 | Guangdong | Foreign Affairs Offices of the relevant cities/counties/districts |
@@ -366,7 +366,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible fast lane travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible RGL travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
@@ -387,19 +387,19 @@ You must be present at least 2 hours prior to, and no later than, the stipulated
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
-For fast lane travel to China, the pre-departure PCR test must be done within 72 hours prior to departure.
+For RGL travel to China, the pre-departure PCR test must be done within 72 hours prior to departure.
 
-Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the fast lane requirements.
+Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and your fast lane application is approved.
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and your RGL application is approved.
 
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the fast lane requirements.
+Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
 
 If you do not make a prior appointment, please note that:
 1. There is no guarantee that there will be a test slot for you; and
-2. You may not get your results in time for your flight to qualify for fast lane arrangements.
+2. You may not get your results in time for your flight to qualify for RGL arrangements.
 
 Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
 
@@ -418,7 +418,7 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport
-2. Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China Fast Lane
+2. Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China RGL
 3. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
@@ -427,11 +427,11 @@ Please bring the following:
 
 Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight.
 
-Please make arrangements early for your test slot so that you can qualify for the fast lane arrangements.
+Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
 
 ##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
 
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the fast lane arrangement.
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
 
 ##### Test Results
 
