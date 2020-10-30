@@ -69,8 +69,6 @@ No. Visitors will need to submit the application themselves as they are required
 
 ### **Visa Application**
 
-#### 14. Do visitors with a valid ATP need to apply for a separate visa to enter Singapore?
-
 #### 14. Do visitors with a valid ATP need to apply separately for a visa to enter Singapore?
 
 Visitors, who are holding a passport that requires a visa for travel to Singapore, must separately obtain a valid visa after receiving their ATP approval and prior to departure for Singapore.
