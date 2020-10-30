@@ -4,7 +4,7 @@ permalink: /SC-PR/opt-out
 third_nav_title: SC/PR Opt Out
 ---
 
-## Stay-Home Notice (SHN) Opt Out
+## Stay-Home Notice Dedicated Facility (SDF) Opt-out
 
 1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve their 14-day SHN at a suitable place of residence.
 
