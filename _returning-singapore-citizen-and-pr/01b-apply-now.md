@@ -1,7 +1,7 @@
 ---
 title: Apply Now
 permalink: /SC-PR/opt-out/apply-now
-third_nav_title: SC/PR Opt Out
+third_nav_title: SDF Opt-out for SC/PR
 ---
 
 <table>
