@@ -2,7 +2,7 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;">Singapore Citizen & Singapore Permanent Resident SHN SDF opt out application</th>
+      <th style="text-align:center;">Singapore Citizen & Singapore Permanent Resident SHN SDF Opt-out application</th>
     </tr>
   </thead>
   <tbody>
@@ -14,3 +14,4 @@
     </tr>
   </tbody>
 </table>
+
