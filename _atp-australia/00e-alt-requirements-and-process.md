@@ -146,12 +146,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Adhere to prevailing public health measures in Singapore</b></td>
-    <td style="font-size:16px;"><b>During their stay in Singapore, visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing. </b>
+    <td style="font-size:16px;">During their stay in Singapore, visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing.
     </td>
   </tr>
   <tr>
     <td style="font-size:16px;"><b>Activation and retention of TraceTogether app</b></td>
-    <td style="font-size:16px;"><b>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. </b>
+    <td style="font-size:16px;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
     </td>
   </tr>
  </tbody>
