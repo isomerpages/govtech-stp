@@ -178,5 +178,5 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <sup>4</sup>The following groups are not required to download the TraceTogether app:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian. </li>
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">	Those unable to use a mobile device due to a certified disability and/or special need. </li></ol></span>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">	Those unable to use a mobile device due to a certified disability and/or special need. </li></ol>
 
