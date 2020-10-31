@@ -174,7 +174,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> 	Phones running on Blackberry OS or Symbian OS </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li>
  </ol></span>
-<br/><br/>
+<br/>
 <span style="font-size:16px;">
 <sup>4</sup>The following groups are not required to download the TraceTogether app:
  <ol style="margin-top:0px; list-style-type: disc;">
