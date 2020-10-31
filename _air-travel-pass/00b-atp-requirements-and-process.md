@@ -2,45 +2,52 @@
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">Foreigners who are short-term visitors travelling from Australia, Brunei Darussalam, Mainland China, New Zealand and Vietnam may seek entry into Singapore by applying for an Air Travel Pass (ATP). The traveller must:</span>
+<span class="font-size:16px;">Foreigners who are short-term visitors travelling from the following places may seek entry into Singapore by applying for an Air Travel Pass (ATP):</span>
 <ol style="list-style-type: disc;">
- <li style="font-size:18px;">Be seeking to make a short-term travel to Singapore;</li>
-            <li style="font-size:18px;">Departing from the list of ATP-approved countries; and</li>
-      <li style="font-size:18px;">Have remained in the ATP-approved country in the last 14 consecutive days before departing to Singapore.</li>
+ <li style="font-size:18px;">Australia</li>
+            <li style="font-size:18px;">Brunei Darussalam</li>
+  <li style="font-size:18px;">Mainland China</li>
+   <li style="font-size:18px;">New Zealand</li>
+   <li style="font-size:18px;">Vietnam</li>
             </ol>
+            
+<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/on-arrival">here</a> for the prevailing health measures applicable upon entry in Singapore.</span>
  
-### 2. Submit Approvals for Entry into Singapore
+### 2. Submit Applications for Air Travel Pass and Visa
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>At least 7 and 30 calendar days</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;">Between 7 and 30 calendar days before intended date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submit ATP application</b></td>
-    <td style="font-size:16px;"><b>Foreigners who are short-term visitors may apply for an Air Travel Pass for entry into Singapore at no charge <a href="">here</a>. </b>Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.<br/><br/>
+    <td rowspan="2" style="font-size:16px;"><b>Submit Air Travel Pass application</b></td>
+    <td style="font-size:16px;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge here. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
+     <br/><br/>
       Visitors must comply with the <a href="/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
       Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
       For enquiries, please email COVID_ATP_Enquiries@caas.gov.sg.
+     <br/><br/>
+     <b>IMPORTANT</b><br/>
+Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
     </td>
   </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b>At least 7 days before planned arrival in Singapore</b></th>
+    <th colspan="2" style="font-size:16px;">After Air Travel Pass has been approved</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Travellers to submit Visa Application (if Required)</b></td>
-    <td style="font-size:16px;"><b>After the ATP is approved and sent to the applicant via email, <u>prospective ATP travellers who are visa-required passport holders</u> should apply through the usual channels for a visa to travel to Singapore.</b>
+    <td rowspan="2" style="font-size:16px;"><b>Submit visa application (if required)</b></td>
+    <td style="font-size:16px;"> Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>.
       <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and </li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Travellers who are existing visa holders can check their status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid).</li>
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.
          </ol> 
     </td>
   </tr>
@@ -52,38 +59,39 @@
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Up to 3 calendar days </u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;">Prior to departure for Singapore</th>
   </tr>
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:16px;"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
-    <td style="font-size:16px;">Approved ATP travellers should monitor their health and avoid travelling if experiencing acute respiratory infection symptoms. If the traveller is healthy, he/she should:</b>
+    <td style="font-size:16px;"><b>Travel history <br/><br/> SG Arrival Card <br/><br/> Non-Residential accommodation and individual room with attached toilet <br/><br/> TraceTogether app <br/><br/> Registration and payment of on-arrival COVID-19 PCR test</b></td>
+    <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must:
    <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Submit his/her health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>; and </li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Remain in Mainland China in the last 14 consecutive days before departing for Singapore;</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Monitor their health status before departure;</li>
+     <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
+     <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result1 (the accommodation2 must be non-residential and an individual room with an attached toilet); and</li>
+     <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device4, and register their mobile number and personal details on the app.</li>
          </ol> 
+     <br/><br/>
+     Visitors should also <a href="https://safetravel.changiairport.com/#/ ">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.
     </td>
   </tr>
  <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day of Departure</u></b> to Singapore</th>
+    <th colspan="2" style="font-size:16px;">Day of Departure to Singapore</th>
   </tr>
   </thead>
    <tr>
-    <td style="font-size:16px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
-    <td style="font-size:16px;">Approved ATP travellers must prior to leaving for Singapore:</a>
+    <td style="font-size:16px;"><b>Check-in at departure airport</b></td>
+    <td style="font-size:16px;">When checking in at the departure airport, visitors must present to the airline staff:</a>
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">book an accommodation in Singapore to serve out his/her isolation period for 1-2 days while waiting for his/her post-arrival COVID-19 polymerase chain reaction (PCR) test result<sup>1</sup>. The accommodation<sup>2</sup> must be non-residential and must be an individual room with an attached toilet; and</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> check that his/her mobile device is compatible<sup>3</sup> with the TraceTogether app, download it on his/her mobile device<sup>4</sup>, register his/her mobile number and personal details on the app.</li>
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> a valid visa (for visa-required visitors); and</li>
+        <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
          </ol> 
-         Approved ATP travellers must produce the following documents during pre-boarding checks:
- <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:13px; margin-top:0px; margin-bottom:0px;"> a valid visa (for visa-required passport holders); and</li>
-  <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">•	a mobile device with the TraceTogether app already downloaded and <b>activated</b>.</li>
-         </ol> 
-         <b>Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</b>
+ <br/><br/>
+ Visitors who do not have any of the above may be refused boarding by the airline.
     </td>
   </tr>
    </tbody>
@@ -94,7 +102,7 @@
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day of entry</u></b> into Singapore</th>
+    <th colspan="2" style="font-size:16px;">Day of arrival in Singapore</th>
   </tr>
   </thead>
 <tbody>
@@ -110,64 +118,46 @@
          </td>
  </tr>
     <tr>
-    <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;">A visitor holding an Air Travel Pass will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, the visitor must take private transportation, taxi, or private hire car to travel from the airport to his/her declared accommodation and remain in isolation at that accommodation until he/she is notified that his/her test result is negative. The visitor shall also bear any transportation and accommodation costs incurred.
+    <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
+    <td style="font-size:16px;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+         </td>
+ </tr>
+  <tr>
+    <td style="font-size:16px;"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
+    <td style="font-size:16px;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<br/><br/>
+     Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
          </td>
  </tr>
   </tbody>
  </table>
 
-### 5. Post-Arrival
+### 5. During and After Stay in Singapore
  
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Up to 2 days after entry</u></b> in Singapore</th>
+    <th colspan="2" style="font-size:16px;">During stay in Singapore and up to 14 days after departure from Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
-    <td style="font-size:16px;"><b>Self-isolation</b></td>
-    <td style="font-size:16px;"><b>All approved ATP travellers must remain in isolation in his/her declared accommodation, and until notified that his/her COVID-19 PCR test result is negative, when he will be allowed to go about his/her activities in Singapore. </b> <br/><br/>
-    <i>  Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</i>
+    <td style="font-size:16px;"><b>Adhere to prevailing public health measures in Singapore</b></td>
+    <td style="font-size:16px;"><b>During their stay in Singapore, visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing. </b>
     </td>
   </tr>
- <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>After completion of isolation</u></b></th>
-  </tr>
-  </thead>
- <tr>
-    <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;">Visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing.
+    <td style="font-size:16px;"><b>Activation and retention of TraceTogether app</b></td>
+    <td style="font-size:16px;"><b>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. </b>
     </td>
   </tr>
  </tbody>
  </table>
  
-### 6. Departure from Singapore
- 
- <table>
-<thead>
-  <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Up to 14 days </u></b> after departure from Singapore</th>
-  </tr>
-  </thead>
-<tbody>
- <tr>
-    <td style="font-size:16px;"><b>Retention of TraceTogether app</b></td>
-    <td style="font-size:16px;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. They are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore.
-    </td>
-  </tr>
- </tbody>
- </table>
- 
-
 -----
 
 <sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.
 
-<sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) website for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.
+<sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.
 
 <sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
 •	Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.)
