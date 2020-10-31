@@ -6,7 +6,7 @@ third_nav_title: SDF Opt-out for SC/PR
 
 ## Stay-Home Notice Dedicated Facility (SDF) Opt-out
 
-1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve their 14-day SHN at a suitable place of residence.
+1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve their 14-day SHN at a suitable place of residence. <br/>
 
 2. From 2 Nov 20, travellers arriving from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may apply to opt-out of SHN dedicated facilities, and serve their 14-day Stay-Home Notice (SHN) at their place of residence, if they fulfil the following criteria:
 - travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
