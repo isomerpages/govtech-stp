@@ -51,7 +51,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td rowspan="2" style="font-size:16px;"><b>Submit visa application (if required)</b></td>
     <td style="font-size:16px;"> Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>.
       <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.
+         <li style="font-size:13px; margin-top:0px; margin-bottom:0px;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
          </ol> 
     </td>
   </tr>
