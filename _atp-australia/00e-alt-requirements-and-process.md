@@ -160,10 +160,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 -----
 <span style="font-size:16px;">
 <sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</span>
-
+<br/><br/>
 <span style="font-size:16px;">
 <sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.</span>
-
+<br/><br/>
 <span style="font-size:16px;">
 <sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
  <ol style="margin-top:0px; list-style-type: disc;">
@@ -174,7 +174,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> 	Phones running on Blackberry OS or Symbian OS </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li>
  </ol></span>
-
+<br/><br/>
 <span style="font-size:16px;">
 <sup>4</sup>The following groups are not required to download the TraceTogether app:
  <ol style="margin-top:0px; list-style-type: disc;">
