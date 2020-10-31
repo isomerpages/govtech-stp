@@ -158,20 +158,28 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </table>
  
 -----
+<span style="font-size:16px;">
+<sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</span>
 
-<sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.
+<span style="font-size:16px;">
+<sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.</span>
 
-<sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.
-
+<span style="font-size:16px;">
 <sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
-•	Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.)
-•	Non-camera phones
-•	Phones with Android version 5.0 and below
-•	Phones with iOS version 9 and below
-•	Phones running on Blackberry OS or Symbian OS
-•	Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)
+ <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> uawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.) </li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with Android version 5.0 and below </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> 	Phones running on Blackberry OS or Symbian OS </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li>
+ </ol></span>
 
+<span style="font-size:16px;">
 <sup>4</sup>The following groups are not required to download the TraceTogether app:
-•	Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian
-•	Those unable to use a mobile device due to a certified disability and/or special need
+ <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian. </li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">	Those unable to use a mobile device due to a certified disability and/or special need. </li>
+ </ol>
+ </span>
 
