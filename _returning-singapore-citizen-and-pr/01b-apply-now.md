@@ -1,8 +1,13 @@
+---
+title: Apply Now
+permalink: /SC-PR/opt-out/apply-now
+third_nav_title: SDF Opt-out for SC/PR
+---
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;">Singapore Citizen & Singapore Permanent Resident SHN opt out application</th>
+      <th style="text-align:center;">Singapore Citizen & Singapore Permanent Resident SHN SDF Opt-out application</th>
     </tr>
   </thead>
   <tbody>
