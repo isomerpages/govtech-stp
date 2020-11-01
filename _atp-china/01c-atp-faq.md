@@ -71,11 +71,11 @@ No. Visitors will need to submit the application themselves as they are required
 
 #### 14. Do visitors with a valid ATP need to apply separately for a visa to enter Singapore?
 
-Visitors, who require a visa for travel to Singapore, must separately obtain a visa after receiving their ATP approval and before departing for Singapore.
+Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their ATP approval and before departing for Singapore.
 
-If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
+If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.  
 
-Visitors may refer to the Singapore Immigration & Checkpoints Authority (ICA) website (<https://www.ica.gov.sg/visitor/visitor_entryvisa>) for information on visa requirements and application.
+Visitors may refer to ICA [website](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
 
 ### **ATP Conditions of Travel**
 
