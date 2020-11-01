@@ -1,3 +1,8 @@
+---
+title: Apply Now
+permalink: /SC-PR/opt-out/apply-now
+third_nav_title: SDF Opt-out for SC/PR
+---
 
 <table>
   <thead>
@@ -14,4 +19,3 @@
     </tr>
   </tbody>
 </table>
-
