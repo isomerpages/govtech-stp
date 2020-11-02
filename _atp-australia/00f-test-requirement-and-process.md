@@ -93,6 +93,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> a valid visa (for visa-required visitors); and</li>
         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
          </ol> 
+ </tbody>
+     <tbody>
  Visitors who do not have any of the above may be refused boarding
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit Air Travel Pass application</b></td>
