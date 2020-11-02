@@ -67,7 +67,7 @@ All applications for extension of visit pass must be submitted online using ICA�
 
 No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
 
-For information on border control measures, please refer to ICA’s website [here](https://www.ica.gov.sg/covid-19).
+For information on border control measures, please refer to ICA’s website [here](/health).
 
 #### 14. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
