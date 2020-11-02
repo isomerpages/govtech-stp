@@ -95,6 +95,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          </ol> 
      Visitors who do not have any of the above may be refused boarding
     </td>
+ </tr>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit Air Travel Pass application</b></td>
     <td style="font-size:16px;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge here. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
