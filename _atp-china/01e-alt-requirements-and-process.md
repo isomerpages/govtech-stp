@@ -70,7 +70,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Travel history <br/><br/> SG Arrival Card <br/><br/> Non-Residential accommodation and individual room with attached toilet <br/><br/> TraceTogether app <br/><br/> Registration and payment of on-arrival COVID-19 PCR test</b></td>
     <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must:
    <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in Brunei in the last 14 consecutive days before departing for Singapore;</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in Mainland China in the last 14 consecutive days before departing for Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure;</li>
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result1 (the accommodation2 must be non-residential and an individual room with an attached toilet); and</li>
