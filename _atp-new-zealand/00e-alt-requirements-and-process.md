@@ -15,7 +15,7 @@ permalink: /newzealand/atp/requirements-and-process-updated
    <li style="font-size:18px;">Vietnam</li>
             </ol>
             
-<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/on-arrival">here</a> for the prevailing health measures applicable upon entry in Singapore.</span>
+<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/on-arrival">here</a> for the prevailing health measures applicable upon entry into Singapore.</span>
  
 ### 2. Submit Applications for Air Travel Pass and Visa
 
