@@ -34,7 +34,7 @@ permalink: /australia/atp/requirements-and-process
      <br/><br/>
       Visitors must comply with the <a href="/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
       Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
-      For enquiries, please email COVID_ATP_Enquiries@caas.gov.sg.
+      For enquiries, please email <a href="COVID_ATP_Enquiries@caas.gov.sg">COVID_ATP_Enquiries@caas.gov.sg</a>.
      <br/><br/>
      <b>IMPORTANT</b><br/>
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
@@ -124,18 +124,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  Visitors who do not have any of the above may be refused boarding
  </td>
  </tr>
-  <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submit Air Travel Pass application</b></td>
-    <td style="font-size:16px;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge here. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
-     <br/><br/>
-      Visitors must comply with the <a href="/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
-      Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
-      For enquiries, please email COVID_ATP_Enquiries@caas.gov.sg.
-     <br/><br/>
-     <b>IMPORTANT</b><br/>
-Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes. by the airline.
-    </td>
-   </tr>
   </tbody>
 </table>
   
@@ -204,7 +192,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.</span>
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
-<sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:</p>
+<sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.) </li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
@@ -214,7 +202,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li></ol>
  <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px;">
- <sup>4</sup>The following groups are not required to download the TraceTogether app:</p>
+ <sup>4</sup>The following groups are not required to download the TraceTogether app:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian. </li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">	Those unable to use a mobile device due to a certified disability and/or special need. </li></ol>
