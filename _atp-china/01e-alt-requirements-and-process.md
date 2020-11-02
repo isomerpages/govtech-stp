@@ -36,8 +36,9 @@ permalink: /china/atp/requirements-and-process
       Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
       For enquiries, please email COVID_ATP_Enquiries@caas.gov.sg.
      <br/><br/>
-     <b>IMPORTANT</b><br/>
+   <span style="color:red;">  <b>IMPORTANT</b><br/>
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
+</span>
     </td>
   </tr>
   <thead>
