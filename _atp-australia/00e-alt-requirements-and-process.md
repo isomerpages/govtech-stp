@@ -93,7 +93,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
          </ol> 
- <br/><br/>
  Visitors who do not have any of the above may be refused boarding by the airline.
     </td>
   </tr>
@@ -117,6 +116,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated.</li>
          </ol> 
+     <br/>
       A visitor who does not have any of the above may be refused entry into Singapore by ICA.
          </td>
  </tr>
