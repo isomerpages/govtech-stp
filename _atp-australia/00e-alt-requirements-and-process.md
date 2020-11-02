@@ -109,6 +109,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
    </tbody>
   </table>
   
+  
 ### 4. Arrival in Singapore
 
 <table>
