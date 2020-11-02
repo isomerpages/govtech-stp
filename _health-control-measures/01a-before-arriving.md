@@ -1,7 +1,7 @@
 ---
 title: Before Arriving in Singapore
 permalink: /health/before-arriving
-third_nav_title: Arriving in Singapore
+third_nav_title: Travelling to Singapore
 ---
 ## Pre-Departure to Singapore
 
