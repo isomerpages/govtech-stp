@@ -166,6 +166,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </table>
  
 -----
+
 <span style="font-size:16px;">
 <sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</span>
 
