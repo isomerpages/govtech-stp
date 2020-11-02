@@ -75,7 +75,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Monitor their health status before departure;</li>
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result1 (the accommodation2 must be non-residential and an individual room with an attached toilet); and</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device4, and register their mobile number and personal details on the app.</li>
+     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>4</sup>, and register their mobile number and personal details on the app.</li>
          </ol> 
      <br/><br/>
      Visitors should also <a href="https://safetravel.changiairport.com/#/ ">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.
