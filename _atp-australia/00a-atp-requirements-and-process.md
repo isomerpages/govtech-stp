@@ -1,6 +1,6 @@
 ---
-title: Requirements & Process - updated
-permalink: /australia/atp/requirements-and-process-updated
+title: Requirements & Process
+permalink: /australia/atp/requirements-and-process
 ---
 
 
