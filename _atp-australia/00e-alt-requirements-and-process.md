@@ -71,13 +71,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Travel history <br/><br/> SG Arrival Card <br/><br/> Non-Residential accommodation and individual room with attached toilet <br/><br/> TraceTogether app <br/><br/> Registration and payment of on-arrival COVID-19 PCR test</b></td>
     <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must:
    <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Remain in Australia in the last 14 consecutive days before departing for Singapore;</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Monitor their health status before departure;</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result1 (the accommodation2 must be non-residential and an individual room with an attached toilet); and</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>4</sup>, and register their mobile number and personal details on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in Australia in the last 14 consecutive days before departing for Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure;</li>
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result1 (the accommodation2 must be non-residential and an individual room with an attached toilet); and</li>
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>4</sup>, and register their mobile number and personal details on the app.</li>
          </ol> 
-     <br/><br/>
      Visitors should also <a href="https://safetravel.changiairport.com/#/ ">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.
     </td>
   </tr>
@@ -90,9 +89,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Check-in at departure airport</b></td>
     <td style="font-size:16px;">When checking in at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> a valid visa (for visa-required visitors); and</li>
-        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
          </ol> 
  <br/><br/>
  Visitors who do not have any of the above may be refused boarding by the airline.
@@ -114,9 +113,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Immigration clearance</b></td>
     <td style="font-size:16px;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">a mobile device with the TraceTogether app downloaded and activated.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated.</li>
          </ol> 
       A visitor who does not have any of the above may be refused entry into Singapore by ICA.
          </td>
