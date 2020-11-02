@@ -88,7 +88,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
    <tr>
     <td style="font-size:16px;"><b>Check-in at departure airport</b></td>
-    <td style="font-size:16px;">When checking in at the departure airport, visitors must present to the airline staff:</a>
+    <td style="font-size:16px;">When checking in at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> a valid visa (for visa-required visitors); and</li>
