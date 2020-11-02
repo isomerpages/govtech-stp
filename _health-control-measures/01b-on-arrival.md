@@ -1,7 +1,7 @@
 ---
 title: On Arrival in Singapore
 permalink: /health/on-arrival
-third_nav_title: Arriving in Singapore
+third_nav_title: Travelling to Singapore
 ---
 
 ### Arrival In Singapore
