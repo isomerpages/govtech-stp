@@ -41,7 +41,7 @@ Pre-departure COVID-19 PCR testing is only done at [selected clinics as listed](
 
 #### 1. Where can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](/pdf/clinic_listing_02112020.pdf). The cost of the pre-departure test at each clinic is also listed.
+Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](/pdf/clinic_listing_02112020.pdf). 
 
 **Please ensure you have the approval letter** before you proceed to the clinic. Persons without prior approval will not be allowed to purchase a pre-departure test.
 
