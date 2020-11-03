@@ -20,8 +20,8 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
     <td><b>All countries</b></td>
     <td ><a href="/sc-pr/info">Returning Singapore Citizen/PR</a></td>
       <td ><ol style="margin-top:0px; margin-bottom:0px;">
-       <li style="list-style-type:disc"><a href="/wphl/overview">Work Pass Holder Lane</a> </li>
-          <li style="list-style-type:disc"><a href="/stpl/overview">Student's Pass Holder Lane</a></td> </li>
+       <li style="list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/wphl/overview">Work Pass Holder Lane</a> </li>
+          <li style="list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td> </li>
   </ol></td>
    <!--  <td ><a href="/wphl/overview">Work Pass Holder Lane</a><br/><br/><a href="/stpl/overview">Student's Pass Holder Lane</a></td>-->
    <td ><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
