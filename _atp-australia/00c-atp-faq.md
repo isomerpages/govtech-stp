@@ -135,7 +135,7 @@ Visitors must be transported directly to his or her declared place of accommodat
 - The visitor should sit alone in the back seat and the front passenger seat should be left unoccupied.
 - If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
-- After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
+- After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) [guidelines](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/guidelines/guidelines-for-environmental-cleaning-and-disinfection) for surface cleaning and disinfection.
 
 ### **Contact Tracing – TraceTogether App**
 
@@ -181,7 +181,7 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 
 #### 31. I require a pre-departure COVID-19 PCR test result certificate to meet the entry requirements of my next onward destination after my stay in Singapore. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
-The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed here.
+The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](/pdf/clinic_listing_02112020.pdf).
 
 You will need your ATP approval letter and a confirmed flight ticket for your next onward destination to be eligible to take a pre-departure COVID-19 PCR test in Singapore. There is no need to seek separate approval to take the test. 
 
