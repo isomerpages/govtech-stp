@@ -32,11 +32,11 @@ permalink: /brunei/atp/requirements-and-process
     <td rowspan="2" style="font-size:16px;"><b>Submit Air Travel Pass application</b></td>
     <td style="font-size:16px;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge <a href="https://go.gov.sg/atpsg">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
      <br/><br/>
-      Visitors must comply with the <a href="/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
-      Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
-      For enquiries, please email <a href="COVID_ATP_Enquiries@caas.gov.sg">COVID_ATP_Enquiries@caas.gov.sg</a>.
+Visitors must comply with the <a href="/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
+Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
+For enquiries, please email <a href="COVID_ATP_Enquiries@caas.gov.sg">COVID_ATP_Enquiries@caas.gov.sg</a>.
      <br/><br/>
-     <span style="color:red;"><b>IMPORTANT</b><br/>
+<span style="color:red;"><b>IMPORTANT</b><br/>
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
    </span> 
 </td>
@@ -122,7 +122,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
     </ol> 
- Visitors who do not have any of the above may be refused boarding
+ Visitors who do not have any of the above may be refused entry into Singapore by ICA. 
  </td>
  </tr>
   </tbody>
@@ -145,7 +145,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated.</li>
          </ol> 
-      A visitor who does not have any of the above may be refused entry into Singapore by ICA.
+      Visitors who do not have any of the above may be refused entry into Singapore by ICA. 
          </td>
  </tr>
     <tr>
