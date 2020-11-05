@@ -41,8 +41,6 @@ With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan,
 
 Applications must be made prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
-In light of the evolving COVID-19 situation, the list of countries/regions (as indicated in S/N 4 of the [table](/files/SHN-and-swab-summary.pdf)) where travellers are allowed to opt-out of dedicated SHN facilities will change from time to time. Please note that the prevailing SHN and swab requirements on the date of the traveller’s arrival, including mandatory stay at dedicated SHN facilities, will take precedence over any prior approvals given for opt-out from dedicated SHN facilities.
-
 ### 5. Submission of Health Declaration
 
 All travellers must submit a pre-trip health and travel history declaration via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) e-Service</a> 3 days before arrival in Singapore.
