@@ -13,11 +13,9 @@ If unsure which entry lanes and health requirements are applicable to you to ent
 
 ### 2. Apply for Visa (If Applicable)
 
-Travellers who require a [visa](https://www.ica.gov.sg/visitor/visitor_entryvisa) to enter Singapore should submit their visa applications after they have obtained the requisite entry approvals under the prevailing border control measure. Those previously issued with visas, which had been suspended due to COVID-19 and are still valid, do not need to apply for a new visa. 
+Travellers who have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed [here](https://www.ica.gov.sg/visitor/visitor_entryvisa) should apply for a visa through a local sponsor, [Singapore Overseas Mission](https://www.mfa.gov.sg/Overseas-MissionsSingapore) or through its authorised visa agent.
 
-Click [here](https://eservices.ica.gov.sg/esvclandingpage/save) to check if your visa remains valid.
-
-A requisite entry approval as well as a valid visa must be obtained prior to travelling to and seeking entry into Singapore.
+Existing valid visa holders do not need to re-apply/apply for a visa. Click [here](https://eservices.ica.gov.sg/esvclandingpage/save) to check if your visa remains valid.
 
 ### 3. COVID-19 Test before departing for Singapore (If Applicable)
 
@@ -36,14 +34,14 @@ Children who are 12 years old and below do not need to take the COVID-19 PCR tes
 Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN.
 
 ### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
-Travellers from Fiji, Finland, Japan, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan, Norway, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
 - Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
 
-Applications must be made at least three days prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+Applications must be made prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
-The [list](/files/SHN-and-swab-summary.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+The [list](/files/SHN-and-swab-summary2.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 ### 5. Submission of Health Declaration
 
