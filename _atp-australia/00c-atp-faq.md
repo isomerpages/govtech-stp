@@ -153,7 +153,7 @@ Children aged 12 or younger in that calendar year and travelling with a parent/g
 
 After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
 
-If you requrie assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
+If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
 #### 27. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
 
