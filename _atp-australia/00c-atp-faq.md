@@ -111,7 +111,7 @@ Visitors may refer to the Singapore Hotel Association (SHA) [website](https://ww
 
 Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 14 days prior to departure for Singapore.
 
-Please also note that if the visitor's test result is confirmed to be positive, all other persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
+Please also note that if the visitor's test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
 
 #### 20. Do children need to undergo a post-arrival COVID-19 PCR test?
 
@@ -131,7 +131,7 @@ If visitors refuse to undergo the post-arrival COVID-19 PCR test, they may be re
 
 Visitors entering Singapore on an approved Air Travel Pass may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the visitor up from the airport. 
 
-Visitors must be transported directly to his or her declared place of accommodation to await his or her COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
+Visitors must be transported directly to their declared place of accommodation to await their COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
 - The visitor should sit alone in the back seat and the front passenger seat should be left unoccupied.
 - If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
@@ -157,7 +157,7 @@ If you requrie assistance on how to download and activate the TraceTogether app,
 
 #### 27. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
 
-If you change your mobile device, you are required to download the TraceTogether app again and activate it by following the instructions that appear when you launch the app. 
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the ATP [Condition](/australia/atp/conditions) 1(e)(ii).
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
