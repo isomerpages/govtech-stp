@@ -29,7 +29,6 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 
 ### 2. Dedicated Stay-Home Notice (SHN) Facility
-Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) due to extenuating circumstances (e.g. serious medical conditions or mobility issues) can use <a href="https://go.gov.sg/shnhotelneeds" target="_blank"> this form</a> for further information and assistance.
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
@@ -39,6 +38,12 @@ With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan,
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
 
 Applications must be made prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+
+The [list](/files/SHN-and-swab-summary2.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+
+#### Travellers with extenuating circumstances serving SHN at Dedicated Facility 
+
+Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) due to extenuating circumstances (e.g. serious medical conditions or mobility issues) can use this [form](https://go.gov.sg/shnhotelneeds) for further information and assistance.
 
 ### 3. SHN Electronic Monitoring Device
 

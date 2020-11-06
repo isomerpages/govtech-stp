@@ -13,9 +13,9 @@ If unsure which entry lanes and health requirements are applicable to you to ent
 
 ### 2. Apply for Visa (If Applicable)
 
-Travellers who have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa" target="_blank">here</a> should apply for a visa through a local sponsor, <a href="https://www.mfa.gov.sg/Overseas-MissionsSingapore" target="_blank">Singapore Overseas Mission</a> or through its authorised visa agent.
+Travellers who have obtained the requisite entry approvals and hold travel documents (like passport) issued by one of the countries/regions listed [here](https://www.ica.gov.sg/visitor/visitor_entryvisa) should apply for a visa through a local sponsor, [Singapore Overseas Mission](https://www.mfa.gov.sg/Overseas-MissionsSingapore) or through its authorised visa agent.
 
-Existing valid visa holders do not need to re-apply/apply for a visa. Click <a href="https://eservices.ica.gov.sg/esvclandingpage/save" target="_blank">here</a> to check if your visa remains valid.
+Existing valid visa holders do not need to re-apply/apply for a visa. Click [here](https://eservices.ica.gov.sg/esvclandingpage/save) to check if your visa remains valid.
 
 ### 3. COVID-19 Test before departing for Singapore (If Applicable)
 
@@ -40,6 +40,8 @@ With effect from 4 November 2020, travellers from Estonia, Fiji, Finland, Japan,
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
 
 Applications must be made prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+
+The [list](/files/SHN-and-swab-summary2.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 ### 5. Submission of Health Declaration
 
