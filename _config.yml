@@ -21,35 +21,35 @@ colors:
 
 #collections
 collections:
+  air-travel-pass:
+    output: true
   atp-australia:
     output: true
   atp-brunei:
     output: true
   atp-china:
     output: true
-  rgl-malaysia:
-    output: true
   atp-new-zealand:
-    output: true
-  rgl-republic-of-korea:
-    output: true
-  rgl-japan:
     output: true
   atp-vietnam:
     output: true
-  travellers-from-rest-of-the-world:
+  rgl-brunei:
     output: true
-  air-travel-pass:
+  rgl-china:
+    output: true
+  rgl-indonesia:
+    output: true
+  rgl-japan:
+    output: true
+  rgl-malaysia:
+    output: true
+  rgl-republic-of-korea:
     output: true
   reciprocal-green-lane:
     output: true 
   periodic-commuting-arrangement:
     output: true
   returning-singapore-citizen-and-pr:
-    output: true
-  arriving:
-    output: true
-  departing:
     output: true
   health-control-measures:
     output: true
@@ -58,14 +58,6 @@ collections:
   student-pass-holder-lane:
     output: true
   singaporean-familial-ties-lane:
-    output: true
-  rgl-indonesia:
-    output: true
-  rgl-brunei:
-    output: true
-  rgl-china:
-    output: true
-  travellers-from-malaysia:
     output: true
 
     
