@@ -32,9 +32,9 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do applicants in Indonesia apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit? 
 
-Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup> 
+Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. For applications for entry into Singapore from 9 Nov 2020 onwards, the host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup> 
 
-The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of the traveller's planned departure.
+The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of traveller's planned departure. 
 
 The processing of the application can take up to 7 working days (excluding the day of application). 
 
