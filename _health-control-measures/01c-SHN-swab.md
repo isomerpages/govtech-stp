@@ -39,7 +39,7 @@ Travellers from Fiji, Finland, Japan, Republic of Korea, Sri Lanka, Thailand and
 
 Applications must be made at least three days prior  to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
-The [list](/files/SHN-and-swab-summary.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+The list of [countries/regions](/files/SHN-and-swab-summary.pdf) eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 #### Travellers with extenuating circumstances serving SHN at Dedicated Facility 
 
