@@ -68,3 +68,4 @@ permalink: /terms-of-use
 ### **Governing Law**
 
 22. These Terms and Conditions of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
