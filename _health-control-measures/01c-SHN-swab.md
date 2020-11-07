@@ -5,7 +5,7 @@ third_nav_title: Travelling to Singapore
 ---
 All travellers are required to comply with the <a href="https://www.moh.gov.sg/covid-19" target="_blank"> prevailing public health regulations and requirements</a> in Singapore. For example, the use of the mandatory mobile application (e.g. TraceTogether), as well as serving Stay-Home Notice (SHN) and taking the COVID-19 test (if required).
 
-A summary of the prevailing SHN and swab requirements for travellers can be found <a href="/files/SHN-and-swab-summary2.pdf" target="_blank">here</a>.
+A summary of the prevailing SHN and swab requirements for travellers can be found <a href="/files/SHN-and-swab-summary.pdf" target="_blank">here</a>.
 
 ### 1. Stay-Home Notice (SHN) - If Applicable
 
@@ -39,7 +39,7 @@ Travellers from Fiji, Finland, Japan, Republic of Korea, Sri Lanka, Thailand and
 
 Applications must be made at least three days prior  to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
-The [list](/files/SHN-and-swab-summary2.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+The [list](/files/SHN-and-swab-summary.pdf) of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 #### Travellers with extenuating circumstances serving SHN at Dedicated Facility 
 
