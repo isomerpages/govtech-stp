@@ -1,6 +1,10 @@
 ---
 title: Conditions
+<<<<<<< HEAD:_atp-china/01b-atp-terms-and-conditions.md
 permalink: /china/atp/conditions
+=======
+permalink: /brunei/atp/conditions
+>>>>>>> origin/Staging-backup-27102020:_atp-brunei/01b-atp-terms-and-conditions.md
 ---
 
 ### **Conditions of Air Travel Pass**
