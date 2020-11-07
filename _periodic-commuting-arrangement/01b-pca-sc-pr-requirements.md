@@ -27,7 +27,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit Waiver of Stay-Home Notice (SHN) application</b></td>
-    <td style="font-size:18px;"><b>The applicant (i.e. traveller) must submit the application (here) at least seven calendar days before the intended date of entry or the prevailing health measures will apply.</b>
+    <td style="font-size:18px;"><b>The applicant (i.e. traveller) must submit the application <a href="https://go.gov.sg/pcasgpr"> here</a> at least seven calendar days before the intended date of entry or the prevailing health measures will apply.</b>
       <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>The traveller should:</b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "><b>Read the Terms & Conditions for Waiver of Stay-Home Notice (SHN); and</b></li>
