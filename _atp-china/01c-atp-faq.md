@@ -133,7 +133,7 @@ Visitors must be transported directly to their declared place of accommodation t
 - The visitor should sit alone in the back seat and the front passenger seat should be left unoccupied.
 - If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
-- After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) [guidelines](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/guidelines/guidelines-for-environmental-cleaning-and-disinfection) for surface cleaning and disinfection.
+- After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) [guidelines](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19) for surface cleaning and disinfection.
 
 ### **Contact Tracing – TraceTogether App**
 
@@ -147,9 +147,9 @@ Yes, all visitors to Singapore must download the TraceTogether app. They must do
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 26. After downloading the TraceTogether app, how do i activate it? 
+#### 26. After downloading the TraceTogether app, how do I activate it? 
 
-After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://www.tracetogether.gov.sg/).
+After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
 
 If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
