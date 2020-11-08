@@ -108,7 +108,7 @@ In order to be eligible to take a designated flight, they are required to:
        <li style="font-size:18px; list-style-type:lower-roman;">Name of the testing institution where the test was taken.</li>
      </ol>
   </li>
-</ol><br/>
+</ol>
 The designated flights from Hong Kong SAR to Singapore are:
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
