@@ -160,11 +160,11 @@ If permission to land in Hong Kong SAR is given, the length of stay to be grante
 </b></td>
     <td style="font-size:16px;">There is no need to apply for an Air Travel Pass to enter Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.<br/>Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
        <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a flight designated by the Singapore Government and HKSAR Government; or </li>  
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a non-designated flight. </li>  
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; font-weight: bold; line-height:1.0;">a flight designated by the Singapore Government and HKSAR Government; or </li>  
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; font-weight: bold; line-height:1.0;">a non-designated flight. </li>  
       </ol>
       They must ensure that they meet the requirements of the type of flight that they are taking.
-      <br/>
+      <br/><br/>
       <b><u> (A) Designated Flights</u></b><br/>
 For those travelling from Hong Kong SAR to Singapore on a flight designated by the Singapore Government and HKSAR Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).<br/><br/>
 In order to be eligible to take a designated flight, they are required to:
