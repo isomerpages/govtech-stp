@@ -46,7 +46,6 @@ permalink: /hongkong/atb/requirements-and-process
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong SAR at one of the <a href="/pdf/clinic_listing_05112020.pdf">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
       </li>
          </ol> 
-      <br/>
      <i> Note: Those travelling to Hong Kong SAR under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the FAQs or more information on how to apply and make a test appointment.</i>
  </td>
   </tr>
