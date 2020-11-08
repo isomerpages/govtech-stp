@@ -199,7 +199,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
   <tr>
     <td style="font-size:16px;"><b>Entry Requirements for Hong Kong SAR</b></td>
-    <td style="font-size:16px;">Please refer here for information about travel from Singapore to Hong Kong SAR under the travel bubble arrangement.
+    <td style="font-size:16px;">Please refer [here](/hongkong/atb/requirements-and-process) for information about travel from Singapore to Hong Kong SAR under the travel bubble arrangement.
     </td>
   </tr>
   
