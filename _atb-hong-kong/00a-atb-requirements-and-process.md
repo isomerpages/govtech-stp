@@ -22,14 +22,14 @@ permalink: /hongkong/atb/requirements-and-process
 <tbody>
   Prior to departing for Hong Kong SAR, eligible travellers must fulfil the following requirements:
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Visa application (if required)</b></td>
+    <td style="font-size:16px;"><b>Visa application (if required)</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who require a visa for travel to Hong Kong SAR must obtain a valid visa before departing to Hong Kong SAR.</li>
          </ol> 
  </td>
   </tr>
     <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Designated flight</b></td>
+    <td style="font-size:16px;"><b>Designated flight</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket on one of the following flights designated by the HKSAR Government and Singapore Government:
       <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -41,7 +41,7 @@ permalink: /hongkong/atb/requirements-and-process
  </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 PCR Test</b></td>
+    <td style="font-size:16px;"><b>Pre-departure COVID-19 PCR Test</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong SAR at one of the <a href="/pdf/clinic_listing_05112020.pdf">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
       </li>
@@ -51,7 +51,7 @@ permalink: /hongkong/atb/requirements-and-process
  </td>
   </tr>
     <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Online Health & Quarantine Information Declaration form</b></td>
+    <td style="font-size:16px;"><b>Online Health & Quarantine Information Declaration form</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a> as required by the HKSAR Government. Note that making a false declaration is a criminal offence in Hong Kong SAR which is punishable by imprisonment and a fine.
       </li>
@@ -64,7 +64,7 @@ permalink: /hongkong/atb/requirements-and-process
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Check-in for designated flight at Changi airport</b></td>
+    <td  style="font-size:16px;"><b>Check-in for designated flight at Changi airport</b></td>
     <td style="font-size:16px;">When checking in for the designated flight at Changi airport, travellers must present to the airline staff:
       <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document</li>  
