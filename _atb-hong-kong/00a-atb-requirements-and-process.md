@@ -53,7 +53,7 @@ permalink: /hongkong/atb/requirements-and-process
     <tr>
     <td style="font-size:16px;"><b>Online Health & Quarantine Information Declaration form</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a> as required by the HKSAR Government. Note that making a false declaration is a criminal offence in Hong Kong SAR which is punishable by imprisonment and a fine.
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;"> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a> as required by the HKSAR Government. Note that making a false declaration is a criminal offence in Hong Kong SAR which is punishable by imprisonment and a fine.
       </li>
          </ol> 
  </td>
@@ -77,14 +77,13 @@ permalink: /hongkong/atb/requirements-and-process
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Respective long-term passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower for Long-Term Pass holders</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Singapore-issued approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li>  <br/>
          </ol>
-   <br/>
 <i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.] <i>                                                     
 </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests1 at Hong Kong International Airport</li>                                                           </ol> 
-<br/>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests1 at Hong Kong International Airport</li>                                                           
+       </ol> 
 Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong SAR in the last 14 days prior to departure to Hong Kong SAR. 
-<br/>
-<b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                               </td>
+<b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                              
+   </td>
   </tr>
   </tbody>
 </table>
