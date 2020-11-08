@@ -168,21 +168,21 @@ If permission to land in Hong Kong SAR is given, the length of stay to be grante
       <b><u> (A) Designated Flights</u></b><br/>
 For those travelling from Hong Kong SAR to Singapore on a flight designated by the Singapore Government and HKSAR Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).<br/><br/>
 In order to be eligible to take a designated flight, they are required to:
-      <ol style="font-size:16px; list-style-type:disc;"> 
-  <li style="font-size:16px; list-style-type:disc;">remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departure from Hong Kong SAR; and</li>
-   <li style="font-size:16px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore at one of the testing institutions recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
-     <ol style="font-size:16px; list-style-type:lower-roman;"> 
-       <li style="font-size:16px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
-       <li style="font-size:16px; list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
-       <li style="font-size:16px; list-style-type:lower-roman;">Date and time when the COVID-19 PCR test was taken; and</li>
-       <li style="font-size:16px; list-style-type:lower-roman;">Name of the testing institution where the test was taken.</li>
+      <ol style="font-size:16px; margin-top:0px; list-style-type:disc;"> 
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0; list-style-type:disc;">remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departure from Hong Kong SAR; and</li>
+   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore at one of the testing institutions recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+     <ol style="font-size:16px; margin-top:0px; list-style-type:lower-roman;"> 
+       <li style="font-size:16px;margin-top:10px; margin-bottom:0px;  line-height:1.0; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:lower-roman;">Date and time when the COVID-19 PCR test was taken; and</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:lower-roman;">Name of the testing institution where the test was taken.</li>
      </ol>
   </li>
 </ol><br/>
 The designated flights from Hong Kong SAR to Singapore are:
-  <ol style="font-size:16px; list-style-type:disc;"> 
-  <li style="font-size:16px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
-    <li style="font-size:16px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
+  <ol style="font-size:16px;margin-top:0px; list-style-type:disc;"> 
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol><br/><b><u> (B) Non-Designated Flights</u></b>
 For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website <a href="/health">here</a>.
 There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong SAR for those travelling on non-designated flights.
