@@ -26,8 +26,15 @@ permalink: /FAQ
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/brunei/atp/faq"> Link </a> <br/> <a href="/brunei/rgl/faq"> Link </a>
 </td>
  </tr>
+      <tr>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Hong Kong SAR</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Air Travel Pass <br/> Travel Bubble
+     </td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/hongkong/atp/faq"> Link </a> <br/> <a href="/hongkong/atb/faq"> Link </a>
+</td>
+ </tr> 
     <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">China</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Mainland China</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Air Travel Pass <br/> Reciprocal Green Lane 
      </td>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/china/atp/faq"> Link </a> <br/> <a href="/china/rgl/faq"> Link </a>
