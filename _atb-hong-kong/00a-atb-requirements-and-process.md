@@ -158,7 +158,7 @@ If permission to land in Hong Kong SAR is given, the length of stay to be grante
   <tr>
     <td style="font-size:16px;"><b>Singapore Citizens<br/> Singapore Permanent Residents<br/> Singapore Long-Term Pass holders
 </b></td>
-    <td style="font-size:16px;">There is no need to apply for an Air Travel Pass to enter Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.<br/>Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
+    <td style="font-size:16px;">There is no need to apply for an Air Travel Pass to enter Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.<br/>Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:<br/>
        <ol style="margin-top:0px; list-style-type: upper-alpha;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; font-weight: bold; line-height:1.0;">a flight designated by the Singapore Government and HKSAR Government; or </li>  
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; font-weight: bold; line-height:1.0;">a non-designated flight. </li>  
