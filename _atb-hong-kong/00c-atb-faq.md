@@ -145,8 +145,8 @@ You must present to the airline staff the following:
         </ol>
           <br/><i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.]</i>
        </li>     
-        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> •	documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>
-    </ol> <br/>Travellers who do not meet any of the above requirements may be refused boarding by the airline.
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>
+    </ol> Travellers who do not meet any of the above requirements may be refused boarding by the airline.
 
 #### 13. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong SAR, but I am travelling on a non-designated flight from Hong Kong SAR to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
 
