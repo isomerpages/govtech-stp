@@ -147,7 +147,7 @@ Yes, all visitors to Singapore must download and activate the TraceTogether app.
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 26. After downloading the TraceTogether app, how do i activate it? 
+#### 26. After downloading the TraceTogether app, how do I activate it? 
 
 After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
 
