@@ -82,7 +82,7 @@ In order to be eligible to take a designated flight, they are required to:
        <li style="font-size:18px; list-style-type:lower-roman;">Name of the testing institution where the test was taken.</li>
      </ol>
   </li>
-</ol><br/>
+</ol>
 The designated flights from Hong Kong SAR to Singapore are:
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
@@ -273,7 +273,6 @@ When checking in at the departure airport, visitors must present the following t
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
     </ol> 
-    <br/>
 Children aged 12 or younger in that calendar year and travelling with family are not required to have a mobile device with the TraceTogether app already downloaded and activated. Visitors with a certified disability or special need are also exempted.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
