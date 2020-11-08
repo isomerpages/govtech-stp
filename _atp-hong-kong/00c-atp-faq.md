@@ -62,9 +62,11 @@ All applications for extension of visit pass must be submitted online using ICA�
 No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong SAR to Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
-: A. a flight designated by the Singapore Government and HKSAR Government; or
-: B. a non-designated flight.
-
+<ol style="margin-top:0px; list-style-type: upper-alpha;">
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and HKSAR Government; or</li>
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a non-designated flight.</li>
+  </ol>
+  
 They must ensure that they meet the requirements of the type of flight that they are taking.
 
 #### (A) Designated Flights
@@ -89,7 +91,7 @@ The designated flights from Hong Kong SAR to Singapore are:
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
   
-  #### (B) Non-Designated Flights
+#### (B) Non-Designated Flights
   
 For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.
 
@@ -261,17 +263,17 @@ The clinic or testing centre will send the test result certificate to your email
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
   <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required visitors);</li>
-      <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
+      <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
         </ol>
        </li>     
-        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
     </ol> 
 Children aged 12 or younger in that calendar year and travelling with family are not required to have a mobile device with the TraceTogether app already downloaded and activated. Visitors with a certified disability or special need are also exempted.
 
