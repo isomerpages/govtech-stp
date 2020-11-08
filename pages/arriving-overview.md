@@ -62,6 +62,12 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>&nbsp;</td>
  </tr>
   <tr>
+  <td>Hong Kong SAR</td>
+  <td><a href="/hongkong/atp/requirements-and-process">Air Travel Pass</a><br/><a href="/hongkong/atb/requirements-and-process">Travel Bubble</a></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+  <tr>
   <td>Mainland China</td>
   <td><a href="/china/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/china/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
