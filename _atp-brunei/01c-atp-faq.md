@@ -153,7 +153,7 @@ After downloading the TraceTogether app, you need to activate it by following th
 
 If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
-#### 27. If I change my mobile device on SIM card when I arrive in Singapore, do i need to download the TraceTogether app again?
+#### 27. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
 If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the ATP [Condition](/brunei/atp/conditions) 1(e)(ii).
 
