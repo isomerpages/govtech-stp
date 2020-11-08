@@ -88,8 +88,10 @@ Short-term visitors are required to apply for an Air Travel Pass to seek entry i
 Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore.
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
-: A. a flight designated by the Singapore Government and HKSAR Government; or
-: B. a non-designated flight.
+<ol style="margin-top:0px; list-style-type: upper-alpha;">
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and HKSAR Government; or</li>
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a non-designated flight.</li>
+  </ol>
 
 They must ensure that they meet the requirements of the type of flight that they are taking.
 
