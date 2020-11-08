@@ -64,11 +64,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Designated flight</b> </td>
     <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have an air ticket on one of the following flights designated by the Singapore Government and the HKSAR Government:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have an air ticket on one of the following flights designated by the Singapore Government and the HKSAR Government:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">CX759 (HKG-SIN) operated by Cathay Pacific Airways
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">CX759 (HKG-SIN) operated by Cathay Pacific Airways
           </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">SQ891 (HKG-SIN) operated by Singapore Airlines
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SQ891 (HKG-SIN) operated by Singapore Airlines
           </li>
            </ol>
            <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong SAR to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong SAR to Singapore does not guarantee an ATP.</i>           
@@ -79,20 +79,20 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      <tr>
     <td style="font-size:16px;"><b>Travel history</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure;</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Monitor their health status before departure;</li>
      </ol>
     </td>     
  </tr>
   <tr>
     <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Date and time when the COVID-19 PCR test was taken; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Name of the testing institution where the test was taken</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken</li>
       </ol>
       </li>
      </ol>
@@ -102,7 +102,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>SG Arrival Card</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
      </ol>
     </td>
  </tr>
@@ -110,7 +110,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>2</sup>, and register their mobile number and personal details on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>2</sup>, and register their mobile number and personal details on the app.</li>
      </ol>
     </td>
  </tr>
@@ -123,17 +123,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Check-in for designated flight at departure airport</b></td>
     <td style="font-size:16px;"> When checking in for the designated flight at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required visitors);</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
         </ol>
        </li>     
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
     </ol> 
      <br/>
      <b>Visitors who do not have any of the above may be refused entry into Singapore by ICA. </b>
@@ -155,17 +155,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Immigration clearance</b></td>
     <td style="font-size:16px;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required visitors);</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
         </ol>
        </li>     
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
     </ol><br/>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b>
          </td>
