@@ -38,6 +38,7 @@ permalink: /hongkong/atp/conditions
   </li>
   <br/>
    <li style="font-size:20px; list-style-type:decimal;"> The Air Travel Pass is only valid for a single entry into Singapore. Such entry must be during the approved period stated in the Air Travel Pass approval. </li>
+  <br/>
   <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions or cancellation of the Air Travel Pass at short notice.</li><br/>
    <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder’s entry and stay in Singapore are subject to compliance with the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (“ICA”), including compliance with the conditions of the Air Travel Pass. Non-compliance with any of the prevailing immigration requirements or conditions of the Air Travel Pass may result in refusal of entry into Singapore and/or cancellation of the Air Travel Pass. In such an event, the Air Travel Pass holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future Air Travel Pass applications may also be rejected.</li>  
 </ol>
