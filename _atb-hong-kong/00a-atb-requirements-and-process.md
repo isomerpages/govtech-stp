@@ -100,16 +100,16 @@ Airlines will also check that travellers have no travel history to any place oth
     <td style="font-size:16px;"><b>Post-Arrival Requirements</b> </td>
     <td style="font-size:16px;">Upon arrival at the airport, travellers have to undergo temperature screening and be ready to present the following:
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid travel document </li>  
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (if required under the prevailing visa policy of Hong Kong SAR)
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document </li>  
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong SAR)
           </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">the QR code for their submitted online health & quarantine information declaration form
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the QR code for their submitted online health & quarantine information declaration form
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">their negative COVID-19 PCR test result (electronic or printed copy)
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">their negative COVID-19 PCR test result (electronic or printed copy)
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">(for non-Singapore Citizens) the relevant identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">(for non-Singapore Citizens) the relevant identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport
        </li>
      </ol>
 Travellers are subject to two post-arrival tests, namely a PCR test and a molecular-based rapid test, upon arrival at Hong Kong International Airport. Upon obtaining a negative test result of the rapid test, travellers may leave the airport restricted area. They will be recalled and admitted to a hospital if the PCR test should yield a positive result.<br/>
