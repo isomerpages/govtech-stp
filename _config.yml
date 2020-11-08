@@ -23,7 +23,7 @@ colors:
 collections:
   air-travel-pass:
     output: true
-  atb-hong-kong:
+  atp-hong-kong:
     output: true
   atp-australia:
     output: true
