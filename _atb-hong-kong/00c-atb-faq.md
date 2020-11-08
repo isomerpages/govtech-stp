@@ -117,7 +117,7 @@ The designated flights from Hong Kong SAR to Singapore are:
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
   
-  #### (B) Non-Designated Flights
+#### (B) Non-Designated Flights
   
 For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.
 
