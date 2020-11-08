@@ -28,3 +28,7 @@ These RGLs have specific departure requirements and application processes and mo
 ### Travel to Malaysia under the Periodic Commuting Arrangement
 
 Singapore has agreed with Malaysia on a Periodic Commuting Arrangement (PCA) for Singapore Citizens and PRs who hold Malaysian work passes. For details on the application procedures and requirements for Singapore Citizens and PRs to enter Malaysia to work under the PCA, please visit the Immigration Department of Malaysia’s website <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">here</a>. For queries related to entering Malaysia under the PCA, please approach the Immigration Department of Malaysia.
+
+### Travel to Hong Kong SAR under the Travel Bubble Arrangement 
+
+Under the travel bubble arrangement agreed between the Governments of Hong Kong SAR and Singapore, eligible persons can travel from Singapore to Hong Kong SAR and be exempted from the quarantine requirement upon arrival in Hong Kong SAR, if they meet certain requirements laid out by the HKSAR Government. For more information, please refer [here](/hongkong/atb/requirements-and-process).
