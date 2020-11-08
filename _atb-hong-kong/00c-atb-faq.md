@@ -135,19 +135,19 @@ If you are unable to get a flight ticket on a designated flight, you may still t
 
 You must present to the airline staff the following:
  <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid travel document</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required visitors);</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">the QR code of the submitted online health & quarantine information declaration form</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a negative COVID-19 PCR test result (electronic or physical copy)</li>
-        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">(for non-Singapore Citizens) the following identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore:
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">a valid visa (for visa-required visitors);</li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code of the submitted online health & quarantine information declaration form</li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a negative COVID-19 PCR test result (electronic or physical copy)</li>
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">(for non-Singapore Citizens) the following identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Identity Card for Singapore Permanent Residents</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Respective long-term passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower for Long-Term Pass holders</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li> 
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Identity Card for Singapore Permanent Residents</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">Respective long-term passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower for Long-Term Pass holders</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li> 
         </ol>
-          <br/><i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.]</i>
+<i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.]</i>
        </li>     
-        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;"> documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>
     </ol> Travellers who do not meet any of the above requirements may be refused boarding by the airline.
 
 #### 13. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong SAR, but I am travelling on a non-designated flight from Hong Kong SAR to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
