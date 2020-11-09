@@ -1,6 +1,6 @@
 ---
 title: Requirements & Process
-permalink: /hongkong/atb/requirements-and-process
+permalink: /hongkong/requirements-and-process
 ---
 
 ### 1. Eligibility 
