@@ -3,8 +3,6 @@ title: Apply Now
 permalink: /indonesia/rgl/apply-now
 ---
 
-## **For traveller(s) seeking entry into Singapore in the following time periods**
-
 <table>
   <thead>
     <tr>
