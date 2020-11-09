@@ -80,7 +80,7 @@ permalink: /hongkong/requirements-and-process
 </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests1 at Hong Kong International Airport</li>                                                           
        </ol> 
-Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong SAR in the last 14 days prior to departure to Hong Kong SAR. 
+Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong SAR in the last 14 days prior to departure to Hong Kong SAR. <br/>
 <b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                              
    </td>
   </tr>
