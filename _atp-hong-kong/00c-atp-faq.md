@@ -88,7 +88,7 @@ In order to be eligible to take a designated flight, they are required to:
 The designated flights from Hong Kong SAR to Singapore are:
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
-    <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
+    <li style="font-size:18px; list-style-type:disc;">SQ890 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
   
 #### (B) Non-Designated Flights
@@ -125,7 +125,7 @@ Visitors must comply with the ATP Conditions [here](/hongkong/atp/conditions).
 
 The designated flights from Hong Kong SAR to Singapore are:
 - CX759 (HKG-SIN) operated by Cathay Pacific Airways
-- SQ891 (HKG-SIN) operated by Singapore Airlines
+- SQ890 (HKG-SIN) operated by Singapore Airlines
 
 #### 17. Am I guaranteed a flight ticket on a designated flight from Hong Kong SAR to Singapore if I have an ATP?
 
