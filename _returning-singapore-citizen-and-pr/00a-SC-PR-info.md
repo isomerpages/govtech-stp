@@ -28,7 +28,7 @@ Singapore Citizens and Singapore Permanent Residents travelling to Singapore fro
 </ol>
 They must ensure that they meet the requirements of the type of flight that they are taking.
 
-#### (A) Designated Flights
+#### (A) Designated ATB Flights
 
 For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
 
