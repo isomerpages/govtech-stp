@@ -180,7 +180,7 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 </b></td>
     <td style="font-size:16px;">There is no need to apply for an Air Travel Pass to enter Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.<br/>Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:<br/>
        <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.0;"><b>(A)	a flight designated by the Singapore Government and Hong Kong Government under the ATB; or</b> </li>  
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.0;"><b>a flight designated by the Singapore Government and Hong Kong Government under the ATB; or</b> </li>  
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>a non-designated flight. </b></li>  
       </ol>
       They must ensure that they meet the requirements of the type of flight that they are taking.
