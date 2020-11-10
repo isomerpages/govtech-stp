@@ -17,7 +17,7 @@ For:
 
 Please ensure you take note of the border and health control measures for entering Singapore found [here](/health).
 
-### Travelling from Hong Kong under the Air Travel Bubble Arrangement
+### Travelling from Hong Kong under the Air Travel Bubble (ATB) Arrangement
 
 Pass holders travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:18px; list-style-type:upper-alpha;"> 
@@ -64,7 +64,7 @@ The designated ATB flights from Hong Kong to Singapore are:
 
 #### (B) Non-Designated Flights
 
-For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.  Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
