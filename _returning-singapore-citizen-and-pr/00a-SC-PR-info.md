@@ -62,9 +62,7 @@ The designated flights from Hong Kong SAR to Singapore are:
   
 #### (B) Non-Designated Flights
   
-For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
 
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong SAR for those travelling on non-designated flights.
-
-Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
+There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
    
