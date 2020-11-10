@@ -40,7 +40,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
         <ol style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight) </b>
           <ol style="margin-top:0<px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
           </ol>
                     </li>
            <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 onwards</b>
