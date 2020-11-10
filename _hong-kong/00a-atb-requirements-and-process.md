@@ -214,9 +214,9 @@ The designated flights from Hong Kong to Singapore are:
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
           </ol>
           </li>
-           </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/>
+           </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/><br/>
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to the Singapore Immigration & Checkpoints Authority’s (ICA) website <a href="/health">here</a>.
-
+<br/>
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
     </td>
   </tr>
