@@ -3,8 +3,8 @@ title: Overview
 permalink: /SC-PR/info
 ---
 
-### Singapore Citizens and PRs General Entry into Singapore
-SC/SPRs can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](/health) for more information on the prevailing SHN and swab requirements.
+### Singapore Citizens and Permanent Residents General Entry into Singapore
+Singapore Citizens and Permanent Residents can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](/health) for more information on the prevailing Stay-Home Notice (SHN) and swab requirements.
 
 ### Singapore Citizens and PRs on Periodic Commuting Arrangement (PCA) with Malaysia
 
@@ -15,13 +15,13 @@ Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who ar
 
 For more details and to apply for the SHN waiver under the PCA, click [here](/pca/scpr-requirement-and-process).
 
-### Singapore Citizens and PRs on Reciprocal Green Lane (RGL)
+### Singapore Citizens and Permanent Residents  on Reciprocal Green Lane (RGL)
 
 Click [here](/rgl/returning) for details on travel to Singapore using the RGL.
 
 ### Singapore Citizens and Permanent Residents Travelling From Hong Kong SAR on Travel Bubble Arrangement
 
-Singapore Citizens and Permanent Residents travelling to Singapore from Hong Kong SAR may take either:
+Singapore Citizens and Singapore Permanent Residents travelling to Singapore from Hong Kong SAR may take either:
 <ol style="font-size:20px; list-style-type:upper-alpha;"> 
   <li style="font-size:18px; list-style-type:upper-alpha;">a flight designated by the Singapore Government and HKSAR Government; or </li>
    <li style="font-size:18px; list-style-type:upper-alpha;"> a non-designated flight.</li>
@@ -44,11 +44,21 @@ In order to be eligible to take a designated flight, they are required to:
      </ol>
   </li>
 </ol>
+Travellers are responsible for making their own appointments with the testing institutions in Hong Kong to take their pre-departure COVID-19 PCR test. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
+
 The designated flights from Hong Kong SAR to Singapore are:
+
+On 22 November 2020 (inaugural flight)
+  <ol style="font-size:18px; list-style-type:disc;"> 
+  <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
+   <!-- <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>-->
+  </ol>
+  
+From 23 November 2020 onwards
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
-  </ol>
+  </ol> 
   
 #### (B) Non-Designated Flights
   
