@@ -56,8 +56,8 @@ The designated flights from Hong Kong to Singapore are:
 
 **From 23 November 2020 onwards**
 <ol style="font-size:18px; list-style-type:disc;"> 
-  <li style="font-size:18px; line-height:1.3;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
-    <li style="font-size:18px; line-height:1.3;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
+  <li style="font-size:18px; line-height:1.0;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
+    <li style="font-size:18px; line-height:1.0;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
 
 #### (B) Non-Designated Flights
