@@ -108,7 +108,9 @@ There is no travel history requirement and no need to undergo a pre-departure CO
 
 For work pass holders and their dependants, please refer to [MOM’s website](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) for more information on the entry approval requirements.
 
-For student’s pass holders, please approach your education institution for advice on the entry application process. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn).
+For student’s pass holders, please approach your education institution for advice on the entry application process. 
+
+For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn).
 
 #### 13. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
