@@ -99,7 +99,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Singapore-issued approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li>
          </ol>
                   </li>
-<i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong under this arrangement.] </i>                                                     
+<i style="font-size:16px;">[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong under this arrangement.] </i>                                                     
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code confirming booking and payment for the post-arrival COVID-19 PCR test at Hong Kong International Airport</li>                                                           
        </ol> 
 Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong in the last 14 days prior to departure to Hong Kong. <br/><br/>
