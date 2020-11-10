@@ -113,7 +113,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 
 <font size="3"> <i><sup>2</sup>Those travelling from Hong Kong to Singapore under the Air Travel Bubble arrangement are required to apply for an Air Travel Pass.
 </i></font>
-<font size="3"> <i><sup>3</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+<font size="3"> <i><sup>3</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianji and Zhejiang
 </i></font>
 
 <!--
