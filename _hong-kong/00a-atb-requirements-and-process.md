@@ -9,9 +9,9 @@ A summary of the requirements and process for those travelling to Hong Kong unde
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong SAR in the last 14 consecutive days before departing for Hong Kong SAR.</span>
+<span class="font-size:16px;">Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.</span>
             
-<span class="font-size:16px;">Persons travelling to Hong Kong SAR under the travel bubble arrangement must ensure that they meet the entry requirements of Hong Kong SAR. Please refer the website of the Immigration Department of Hong Kong SAR here.</span>
+<span class="font-size:16px;">Persons travelling to Hong Kong under the travel bubble arrangement must ensure that they meet the entry requirements of Hong Kong. Please refer the website of the Immigration Department of Hong Kong here.</span>
  
 ### 2. Submit Applications for Air Travel Pass and Visa
 
@@ -58,16 +58,16 @@ A summary of the requirements and process for those travelling to Hong Kong unde
     <td style="font-size:16px;"><b>Pre-departure COVID-19 PCR Test</b></td>
     <td style="font-size:16px;"> 
                 <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong SAR at one of the <a href="/pdf/clinic_listing_05112020.pdf">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of the <a href="/pdf/clinic_listing_05112020.pdf">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
       </li>
          </ol> 
-     <i> Note: Those travelling to Hong Kong SAR under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the FAQs or more information on how to apply and make a test appointment.</i>
+     <i> Note: Those travelling to Hong Kong under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the FAQs or more information on how to apply and make a test appointment.</i>
  </td>
   </tr>
     <tr>
     <td style="font-size:16px;"><b>Online Health & Quarantine Information Declaration form</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;"> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a> as required by the HKSAR Government. Note that making a false declaration is a criminal offence in Hong Kong SAR which is punishable by imprisonment and a fine.
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;"> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a> as required by the Hong Kong Government. Note that making a false declaration is a criminal offence in Hong Kong which is punishable by imprisonment and a fine.
       </li>
          </ol> 
  </td>
@@ -82,7 +82,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
   </tr>
    <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Day of departure to Hong Kong SAR</th>
+    <th colspan="2" style="font-size:16px;">Day of departure to Hong Kong</th>
   </tr>
 </thead>
   <tr>
@@ -90,7 +90,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
     <td style="font-size:16px;">When checking in for the designated flight at Changi airport, travellers must present to the airline staff:
       <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document</li>  
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong SAR)</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong )</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code of the submitted online health & quarantine information declaration form</li>
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a negative COVID-19 PCR test result (electronic or printed copy)</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">(for non-Singapore Citizens) the following identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore:
@@ -100,22 +100,22 @@ A summary of the requirements and process for those travelling to Hong Kong unde
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Singapore-issued approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li>
          </ol>
                   </li>
-<i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.] </i>                                                     
+<i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong under this arrangement.] </i>                                                     
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>                                                           
        </ol> 
-Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong SAR in the last 14 days prior to departure to Hong Kong SAR. <br/><br/>
+Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong in the last 14 days prior to departure to Hong Kong. <br/><br/>
 <b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                              
    </td>
   </tr>
   </tbody>
 </table>
   
-### 3. Arrival in Hong Kong SAR
+### 3. Arrival in Hong Kong
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Day of arrival in Hong Kong SAR</th>
+    <th colspan="2" style="font-size:16px;">Day of arrival in Hong Kong</th>
   </tr>
 </thead>
 <tbody>
@@ -124,7 +124,7 @@ Airlines will also check that travellers have no travel history to any place oth
     <td style="font-size:16px;">Upon arrival at the airport, travellers have to undergo temperature screening and be ready to present the following:
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document </li>  
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong SAR)
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong)
           </li>
            <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the QR code for their submitted online health & quarantine information declaration form
        </li>
@@ -142,23 +142,23 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
   </tbody>
 </table>
   
-### 4. During Stay in Hong Kong SAR
+### 4. During Stay in Hong Kong
  
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">During Stay in Hong Kong SAR</th>
+    <th colspan="2" style="font-size:16px;">During Stay in Hong Kong</th>
   </tr>
   </thead>
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Adhere to prevailing public health measures in Hong Kong</b></td>
-    <td style="font-size:16px;">Travellers will not be subject to a quarantine and there will be no restriction on movement. They must comply with the prevailing health and social distancing measures in Hong Kong SAR. Please refer here for information on the prevailing measures.
+    <td style="font-size:16px;">Travellers will not be subject to a quarantine and there will be no restriction on movement. They must comply with the prevailing health and social distancing measures in Hong Kong. Please refer here for information on the prevailing measures.
     </td>
   </tr>
   <tr>
     <td style="font-size:16px;"><b>Medical treatment for COVID-19 in Hong Kong if required</b></td>
-    <td style="font-size:16px;">Should travellers, who are non-Hong Kong residents, become COVID-19 positive while in Hong Kong, they will be accorded the necessary medical treatment by the HKSAR Government.  Such travellers will need to bear the full cost of any medical treatment provided to them. 
+    <td style="font-size:16px;">Should travellers, who are non-Hong Kong residents, become COVID-19 positive while in Hong Kong, they will be accorded the necessary medical treatment by the Hong Kong Government.  Such travellers will need to bear the full cost of any medical treatment provided to them. 
     </td>
   </tr>
  </tbody>
@@ -193,7 +193,7 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 In order to be eligible to take a designated flight, they are required to:
       <ol style="font-size:16px; margin-top:0px; list-style-type:disc;"> 
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
-   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:16px; margin-top:0px; list-style-type:lower-roman;"> 
        <li style="font-size:16px;margin-top:10px; margin-bottom:0px;  line-height:1.0; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
@@ -216,8 +216,8 @@ The designated flights from Hong Kong to Singapore are:
           </ol>
           </li>
            </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/>
-For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website <a href="/health">here</a>.
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong SAR for those travelling on non-designated flights.
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website <a href="/health">here</a>.
+There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
     </td>
   </tr>
  </tbody>
@@ -227,6 +227,6 @@ There is no travel history requirement and no need to undergo a pre-departure CO
 
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
-<sup>1</sup> Travellers can register for the post-arrival tests via a web-based application at XX.  It does not require a Hong Kong SAR mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code.  The QR code should be presented during check-in.
+<sup>1</sup> Travellers can register for the post-arrival tests via a web-based application at XX.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code.  The QR code should be presented during check-in.
  
 
