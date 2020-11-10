@@ -7,7 +7,7 @@ permalink: /hongkong/atp/faq
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Hong Kong to seek entry into Singapore under the Air Travel Bubble arrangement.
+An ATP allows short-term visitors<sup>1</sup> travelling from Hong Kong to seek entry into Singapore under the Air Travel Bubble arrangement.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
@@ -59,12 +59,12 @@ All applications for extension of visit pass must be submitted online using ICA�
 
 #### 12. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
-No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
+No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore. However, Long-Term Pass holders (including those who have been granted In-Principle Approval for Long-Term Pass) will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
   <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government; or</li>
-  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a non-designated flight.</li>
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  lineNo, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore. However, Long-Term Pass holders (including those who have been granted In-Principle Approval for Long-Term Pass) will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.-height:1.5;">a non-designated flight.</li>
   </ol>
   
 They must ensure that they meet the requirements of the type of flight that they are taking.
@@ -104,7 +104,11 @@ The designated flights from Hong Kong to Singapore are:
   
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn) 
 
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
+There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights. These travellers will be subject to the prevailing SHN regime and COVID-19 test requirements for entry into Singapore.
+
+For work pass holders and their dependants, please refer to [MOM’s website](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) for more information on the entry approval requirements.
+
+For student’s pass holders, please approach your education institution for advice on the entry application process. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn).
 
 #### 13. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
@@ -328,4 +332,4 @@ Note that the flights between Hong Kong and Singapore, which are designated by S
 
 <sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders. 
 
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders (including those who have been granted In-Principle Approval for Long-Term Pass)    will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
