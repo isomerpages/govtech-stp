@@ -13,7 +13,7 @@ The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors can apply for an ATP from 12 November 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore on or after 22 November 2020.
+Visitors can apply for an ATP from 11 November 2020, 1000hrs, Singapore time (GMT +8), for entry into Singapore on or after 22 November 2020.
 
 #### 3. How can visitors apply for an ATP?
 
@@ -59,7 +59,7 @@ All applications for extension of visit pass must be submitted online using ICA�
 
 #### 12. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
-No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore. However, Long-Term Pass holders (including those who have been granted In-Principle Approval for Long-Term Pass) will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
+No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore under the Air Travel Bubble (ATB) arrangement. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
@@ -69,14 +69,14 @@ Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take eit
   
 They must ensure that they meet the requirements of the type of flight that they are taking.
 
-#### (A) Designated Flights
+#### (A) Designated ATB Flights
 
-For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
+For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
 
-In order to be eligible to take a designated flight, they are required to:
+To be eligible to take a designated ATB flight, they are required to:
 <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
-   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore at one of the testing institutions recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:18px; list-style-type:lower-roman;"> 
        <li style="font-size:18px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:18px; list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
@@ -97,20 +97,14 @@ The designated flights from Hong Kong to Singapore are:
 **From 23 November 2020 onwards**
  <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
-    <li style="font-size:18px; list-style-type:disc;">SQ890 (HKG-SIN) operated by Singapore Airlines</li>
+    <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
 
 #### (B) Non-Designated Flights
   
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn) 
 
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights. These travellers will be subject to the prevailing SHN regime and COVID-19 test requirements for entry into Singapore.
-
-For work pass holders and their dependants, please refer to [MOM’s website](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) for more information on the entry approval requirements.
-
-For student’s pass holders, please approach your education institution for advice on the entry application process. 
-
-For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn).
+There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
 #### 13. Can travel agents apply for an Air Travel Pass on behalf of their clients?
 
@@ -134,13 +128,13 @@ Visitors must comply with the ATP Conditions [here](/hongkong/atp/conditions).
 
 ### **Designated Flights**
 
-#### 16. What are the flights designated by the Singapore Government and Hong Kong Government under the Air Travel Bubble arrangement?
+#### 16. What are the flights designated by the Singapore Government and Hong Kong Government under the Air Travel Bubble (ATB) arrangement?
 
-The designated flights from Hong Kong to Singapore are:
+The designated ATB flights are:
 
 **On 22 November 2020 (inaugural flights)**
 - CX759 (HKG-SIN) operated by Cathay Pacific Airways
-- SQ890 (HKG-SIN) operated by Singapore Airlines
+- SQ890 (SIN-HKG) operated by Singapore Airlines
 
 **From 23 November 2020 onwards**
 - CX734 (SIN–HKG) operated by Cathay Pacific Airways
@@ -159,22 +153,21 @@ As set out in ATP [Conditions](/hongkong/atp/conditions), an ATP holder must tra
 
 If you are not travelling on a designated flight from Hong Kong to Singapore, you will not be allowed to enter Singapore.
 
-#### 19. Why must visitors take designated flights from Hong Kong to Singapore?
+#### 19. Why must visitors take designated ATB flights from Hong Kong to Singapore?
 
 The number of visitors travelling from Hong Kong to Singapore is subject to a quota as a start, to allow for the reopening of cross-border air travel in a safe and progressive manner.
 
-The quota is allocated to designated flights, which have been agreed between the Singapore Government and Hong Kong Government under the Air Travel Bubble arrangement. This is to maintain control of cross-border passenger flows between Hong Kong and Singapore from the public health and epidemic control perspective.
-
+The quota is allocated to designated ATB flights, which have been agreed between the Singapore Government and Hong Kong Government under the Air Travel Bubble arrangement. This is to maintain control of cross-border passenger flows between Hong Kong and Singapore from the public health and epidemic control perspective.
 
 ### **Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test**
 
 #### 20. Are visitors required to take a pre-departure COVID-19 PCR test in Hong Kong?
 
-Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of their designated flight from Hong Kong to Singapore and be tested negative for COVID-19.
+Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of their designated ATB flight from Hong Kong to Singapore and be tested negative for COVID-19.
 
-For example, if the scheduled departure date and time of the visitor’s designated flight is 30 November 2020, 1030hrs, the test must be taken no earlier than 27 November 2020, 1030hrs.
+For example, if the scheduled departure date and time of the visitor’s designated ATB flight is 30 November 2020, 1030hrs, the test must be taken no earlier than 27 November 2020, 1030hrs.
 
-The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf). The test result certificate must be in English and state the following:
+The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf). The test result certificate must be in English and state the following:
 - Visitor’s name, date of birth, and passport number, as indicated in his/her passport;
 - a negative COVID-19 PCR test result;
 - the date and time when the COVID-19 PCR test was taken; and
@@ -186,7 +179,7 @@ Visitors, who are unable to produce a valid pre-departure COVID-19 PCR test resu
 
 #### 21. Do children need to undergo a pre-departure COVID-19 PCR test?
 
-Yes. All visitors, regardless of age, are required to undergo a pre-departure COVID-19 PCR test in Hong Kong within 72 hours before the scheduled departure time of their designated flight from Hong Kong to Singapore.
+Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.
 
 #### 22. Are visitors allowed to take a COVID-19 PCR test upon arrival in Singapore instead of a pre-departure COVID-19 PCR test in Hong Kong?
 
@@ -198,7 +191,7 @@ No. Without a valid pre-departure COVID-19 PCR test result certificate, visitors
 
 There are no restrictions on the type of accommodation that visitors can stay in while in Singapore. Visitors may stay in a hotel or a residential accommodation.
 
-Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels currently accepting visitors travelling to Singapore on the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation.
+Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels currently accepting visitors travelling from Hong Kong to Singapore under the ATB. The list is non-exhaustive and visitors may book other available accommodation.
 
 ### **Contact Tracing – TraceTogether App**
 
@@ -250,9 +243,7 @@ Such visitors are required to bear the full cost of medical treatment, tests and
 
 #### 32. I had travelled from Hong Kong to Singapore on an ATP. What are the requirements I need to meet if I intend to return to Hong Kong after my stay in Singapore?
 
-Information on the entry requirements for Hong Kong can be found on the website of the Immigration Department of Hong Kong [here](https://www.immd.gov.hk/eng/services/index.html).
-
-If you are travelling to Hong Kong under the travel bubble arrangement, please refer [here](/hongkong/atb/requirements-and-process).
+For information on travel to Hong Kong under the Air Travel Bubble arrangement, please refer [here](/hongkong/requirements-and-process)
 
 #### 33. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Hong Kong is within 72 hours before my departure from Singapore?
 
@@ -260,7 +251,7 @@ There is no need to take another COVID-19 PCR test in Singapore. You will need t
 
 #### 34. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
-The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](/pdf/clinic_listing_05112020.pdf).
+The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://go.gov.sg/covid19pcrtestproviders).
 
 You will need your ATP approval letter and a confirmed flight ticket for your next onward destination to be eligible to take a pre-departure COVID-19 PCR test in Singapore. There is no need to seek separate approval to take the test.
 
@@ -296,9 +287,13 @@ You will receive your COVID-19 PCR test results and certificate no later than 3 
 
 The clinic or testing centre will send the test result certificate to your email address. Please ensure that you have an electronic or physical copy of your test result certificate before heading to the airport for your departure flight.
 
+#### 38. Do children need to undergo a pre-departure COVID-19 PCR test in Singapore to travel to Hong Kong?
+
+Yes. All visitors, regardless of age, are required to undergo a pre-departure COVID-19 PCR test in Singapore within 72 hours before the scheduled departure time of their designated flight from Singapore to Hong Kong.
+
 ### **Others**
 
-#### 38. What must visitors present to airline staff during check-in at the departure airport for Singapore?
+#### 39. What must visitors present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
   <ol style="margin-top:0px; list-style-type: disc;">
@@ -318,20 +313,20 @@ Children aged 12 or younger in that calendar year and travelling with family are
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-#### 39. Can visitors use the ATP to transit/transfer through Singapore?
+#### 40. Can visitors use the ATP to transit/transfer through Singapore?
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
-Note that the flights between Hong Kong and Singapore, which are designated by Singapore Government and Hong Kong Government, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take non-designated flights.
+Note that the flights between Hong Kong and Singapore, that have been designated by Singapore Government and Hong Kong Government under the ATB, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take non-designated flights.
 
 #### 40. Do visitors, who are travelling from Hong Kong to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong?
 
 There is no need, but visitors are advised to check with their airline that the transfer route that they are taking has been approved by the Civil Aviation Authority of Singapore (CAAS).
 
-Note that the flights between Hong Kong and Singapore, which are designated by Singapore Government and Hong Kong Government, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take the flights that are not designated.
+Note that the flights between Hong Kong and Singapore, that have been designated by Singapore Government and Hong Kong Government under the ATB, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take the flights that are not designated.
 
 -----
 
 <sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders. 
 
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders (including those who have been granted In-Principle Approval for Long-Term Pass)    will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
