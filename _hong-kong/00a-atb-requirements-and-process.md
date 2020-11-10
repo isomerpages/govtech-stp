@@ -42,7 +42,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
           <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
           </ol>
-          </li>
+                    </li>
            <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 onwards</b>
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
@@ -54,7 +54,8 @@ A summary of the requirements and process for those travelling to Hong Kong unde
  </tr>
   <tr>
     <td style="font-size:16px;"><b>Pre-departure COVID-19 PCR Test</b></td>
-    <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;"> 
+                <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong SAR at one of the <a href="/pdf/clinic_listing_05112020.pdf">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
       </li>
          </ol> 
@@ -96,8 +97,8 @@ A summary of the requirements and process for those travelling to Hong Kong unde
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Respective long-term passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower for Long-Term Pass holders</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Singapore-issued approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li>
          </ol>
+                  </li>
 <i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.] </i>                                                     
-</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>                                                           
        </ol> 
 Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong SAR in the last 14 days prior to departure to Hong Kong SAR. <br/><br/>
