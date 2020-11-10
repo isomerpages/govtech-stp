@@ -76,7 +76,7 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 To be eligible to take a designated ATB flight, they are required to:
 <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
-   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:18px; list-style-type:lower-roman;"> 
        <li style="font-size:18px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:18px; list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
@@ -167,13 +167,13 @@ Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 
 
 For example, if the scheduled departure date and time of the visitor’s designated ATB flight is 30 November 2020, 1030hrs, the test must be taken no earlier than 27 November 2020, 1030hrs.
 
-The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf). The test result certificate must be in English and state the following:
+The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf). The test result certificate must be in English and state the following:
 - Visitor’s name, date of birth, and passport number, as indicated in his/her passport;
 - a negative COVID-19 PCR test result;
 - the date and time when the COVID-19 PCR test was taken; and
 - the name of the testing institution where the COVID-19 PCR test was taken.
 
-Visitors are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed testing institutions for the cost of the test.
+Visitors are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed [testing institutions](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf) for the cost of the test.
 
 Visitors, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport in Hong Kong, may be refused boarding by the airline. 
 
