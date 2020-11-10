@@ -3,6 +3,10 @@ title: Requirements & Process
 permalink: /hongkong/requirements-and-process
 ---
 
+### AIR TRAVEL BUBBLE ARRANGEMENT
+
+A summary of the requirements and process for those travelling to Hong Kong under the Air Travel Bubble (ATB) arrangement is provided below. Please refer to Hong Kong’s dedicated ATB website here for the full details. 
+
 ### 1. Eligibility 
 
 <span class="font-size:16px;">Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong SAR in the last 14 consecutive days before departing for Hong Kong SAR.</span>
@@ -14,32 +18,40 @@ permalink: /hongkong/requirements-and-process
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Pre-Departure to Hong Kong SAR</th>
+    <th colspan="2" style="font-size:16px;">Pre-Departure to Hong Kong</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
-  Prior to departing for Hong Kong SAR, eligible travellers must fulfil the following requirements:
+  Prior to departing for Hong Kong , eligible travellers must fulfil the following requirements:
   <tr>
     <td style="font-size:16px;"><b>Visa application (if required)</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who require a visa for travel to Hong Kong SAR must obtain a valid visa before departing to Hong Kong SAR.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who require a visa for travel to Hong Kong must obtain a valid visa before departing to Hong Kong. Please refer to Immigration Department of Hong Kong’s website here for more information.</li>
          </ol> 
  </td>
   </tr>
-    <tr>
-    <td style="font-size:16px;"><b>Designated flight</b></td>
-    <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket on one of the following flights designated by the HKSAR Government and Singapore Government:
-      <ol style="margin-top:0px; list-style-type: lower-roman;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
-           </ol>     
-      </li>
-         </ol> 
- </td>
-  </tr>
+     <tr>
+    <td style="font-size:16px;"><b>Designated flight</b> </td>
+    <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government:
+        <ol style="margin-top:0px; list-style-type: disc;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; text-decoration:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
+          <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
+          </ol>
+          </li>
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
+                         <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (SIN-HKG) operated by Cathay Pacific Airways</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
+          </ol>
+          </li>
+           </ol>
+    </td>
+ </tr>
   <tr>
     <td style="font-size:16px;"><b>Pre-departure COVID-19 PCR Test</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
@@ -53,6 +65,14 @@ permalink: /hongkong/requirements-and-process
     <td style="font-size:16px;"><b>Online Health & Quarantine Information Declaration form</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;"> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a> as required by the HKSAR Government. Note that making a false declaration is a criminal offence in Hong Kong SAR which is punishable by imprisonment and a fine.
+      </li>
+         </ol> 
+ </td>
+  </tr>
+             <tr>
+    <td style="font-size:16px;"><b>Book and pay for post-arrival COVID-19 PCR test</b></td>
+    <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;">Travellers can register and pay for their post-arrival COVID-19 PCR test at Hong Kong International Airport via a web-based application here.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code, which should be presented during check-in.
       </li>
          </ol> 
  </td>
@@ -78,7 +98,7 @@ permalink: /hongkong/requirements-and-process
          </ol>
 <i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.] </i>                                                     
 </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests1 at Hong Kong International Airport</li>                                                           
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>                                                           
        </ol> 
 Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong SAR in the last 14 days prior to departure to Hong Kong SAR. <br/><br/>
 <b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                              
@@ -109,11 +129,11 @@ Airlines will also check that travellers have no travel history to any place oth
        </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">(for non-Singapore Citizens) the relevant identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 test at Hong Kong International Airport
        </li>
      </ol>
-Travellers are subject to two post-arrival tests, namely a PCR test and a molecular-based rapid test, upon arrival at Hong Kong International Airport. Upon obtaining a negative test result of the rapid test, travellers may leave the airport restricted area. They will be recalled and admitted to a hospital if the PCR test should yield a positive result.<br/>
-If permission to land in Hong Kong SAR is given, the length of stay to be granted to travellers, will be subject to the prevailing visa-free arrangement/visa policies and subject to the travellers meeting normal immigration requirements and other applicable requirements under the laws of Hong Kong SAR. Please refer to the website of the Immigration Department of Hong Kong SAR here    
+Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong International Airport. Upon obtaining a negative test result, travellers are exempted from the quarantine requirement and may leave the airport.<br/>
+If permission to land in Hong Kong is given, the length of stay to be granted to travellers, will be subject to the prevailing visa-free arrangement / visa policies and subject to travellers meeting the normal immigration requirements and other applicable requirements under the laws of Hong Kong. Please refer to the Immigration Department of Hong Kong’s website here.    
     </td>
  </tr>
   </tbody>
@@ -134,7 +154,7 @@ If permission to land in Hong Kong SAR is given, the length of stay to be grante
     </td>
   </tr>
   <tr>
-    <td style="font-size:16px;"><b>Duration of stay in Hong Kong SAR</b></td>
+    <td style="font-size:16px;"><b>Medical treatment for COVID-19 in Hong Kong if required</b></td>
     <td style="font-size:16px;">Should travellers, who are non-Hong Kong residents, become COVID-19 positive while in Hong Kong, they will be accorded the necessary medical treatment by the HKSAR Government.  Such travellers will need to bear the full cost of any medical treatment provided to them. 
     </td>
   </tr>
@@ -152,7 +172,7 @@ If permission to land in Hong Kong SAR is given, the length of stay to be grante
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Short-Term Visitors</b></td>
-    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <a href="https://go.gov.sg/atpsg">here</a>.
+    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <a href="https://go.gov.sg/atpsg">here</a>.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government.
     </td>
   </tr>
   <tr>
@@ -166,11 +186,11 @@ If permission to land in Hong Kong SAR is given, the length of stay to be grante
       They must ensure that they meet the requirements of the type of flight that they are taking.
       <br/><br/>
       <b><u> (A) Designated Flights</u></b><br/>
-For those travelling from Hong Kong SAR to Singapore on a flight designated by the Singapore Government and HKSAR Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).<br/><br/>
+For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).<br/><br/>
 In order to be eligible to take a designated flight, they are required to:
       <ol style="font-size:16px; margin-top:0px; list-style-type:disc;"> 
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departure from Hong Kong SAR; and</li>
-   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore at one of the testing institutions recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
+   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:16px; margin-top:0px; list-style-type:lower-roman;"> 
        <li style="font-size:16px;margin-top:10px; margin-bottom:0px;  line-height:1.0; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
@@ -179,11 +199,20 @@ In order to be eligible to take a designated flight, they are required to:
      </ol>
   </li>
 </ol>
-The designated flights from Hong Kong SAR to Singapore are:
-  <ol style="font-size:16px;margin-top:0px; list-style-type:disc;"> 
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;list-style-type:disc;">SQ890 (HKG-SIN) operated by Singapore Airlines</li>
-  </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/>
+The designated flights from Hong Kong to Singapore are:
+  <ol style="margin-top:0px; list-style-type: disc;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; text-decoration:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
+          <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
+          </ol>
+          </li>
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
+                         <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
+          </ol>
+          </li>
+           </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/>
 For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website <a href="/health">here</a>.
 There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong SAR for those travelling on non-designated flights.
     </td>
