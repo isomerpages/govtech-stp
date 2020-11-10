@@ -39,7 +39,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government:
         <ol style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight) </b>
-          <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <ol style="margin-top:0<px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
           </ol>
                     </li>
@@ -50,6 +50,8 @@ A summary of the requirements and process for those travelling to Hong Kong unde
           </ol>
           </li>
            </ol>
+                 </li>
+                </ol>
     </td>
  </tr>
   <tr>
