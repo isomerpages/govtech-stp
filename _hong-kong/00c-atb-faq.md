@@ -115,7 +115,7 @@ Travellers can register and pay for the post-arrival COVID-19 PCR test via a web
 
 Short-term visitors are required to apply for an Air Travel Pass to seek entry into Singapore. Please refer [here](/hongkong/atp/requirements-and-process) for information on the Air Travel Pass. Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government.
 
-Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are **not** required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore.
+Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders (including those granted In-Principle Approval for Long-Term Pass)   will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore.
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
@@ -158,9 +158,13 @@ The designated flights from Hong Kong to Singapore are:
   
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.
 
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
+There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights. These travellers will be subject to the prevailing SHN regime and COVID-19 test requirements for entry into Singapore.
 
-For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website  [here](/health) 
+For work pass holders and their dependants, please refer to [MOM’s website](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) for more information on the entry approval requirements.
+
+For student’s pass holders, please approach your education institution for advice on the entry application process.
+
+For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
 
 #### 15. What happens if Singapore Citizens / Permanent Residents / Long-Term Pass holders are unable to get a flight ticket on a flight designated by the Singapore Government and Hong Kong Government to travel to Singapore?
 
@@ -191,3 +195,9 @@ You must present to the airline staff the following:
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 PCR test at Hong Kong International Airport</li>
     </ol> Travellers who do not meet any of the above requirements may be refused boarding by the airline.
+    
+-----
+
+<sup>1</sup>Travellers can register for the post-arrival tests via a web-based application at XX. It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in. 
+
+<sup>2</sup>Travellers can register for the post-arrival tests via a web-based application at XX. It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in. 
