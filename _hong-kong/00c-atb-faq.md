@@ -7,9 +7,9 @@ permalink: /hongkong/faq
 
 #### 1. Who is eligible to travel to Hong Kong under the travel bubble arrangement?
 
-Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong SAR.
+Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.
 
-Eligible persons, who intend to travel from Singapore to Hong Kong SAR, must meet the requirements laid out by the Hong Kong Government, which include:
+Eligible persons, who intend to travel from Singapore to Hong Kong, must meet the requirements laid out by the Hong Kong Government, which include:
 - staying in Singapore and/or Hong Kong in the last 14 days before departure
 - taking a designated flight from Singapore to Hong Kong
 - undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government
@@ -20,7 +20,7 @@ Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.go
 
 ### **Designated Flights**
 
-#### 2. What are the flights from Singapore to Hong Kong SAR designated by the HKSAR Government and Singapore Government under the travel bubble arrangement?
+#### 2. What are the flights from Singapore to Hong Kong designated by the Hong Kong Government and Singapore Government under the travel bubble arrangement?
 
 The designated flights are:
 
@@ -45,11 +45,11 @@ The quota is allocated to designated flights, which have been agreed between the
 
 ### **Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test**
 
-#### 4. How do I take the required COVID-19 PCR test in Singapore before departing to Hong Kong SAR? 
+#### 4. How do I take the required COVID-19 PCR test in Singapore before departing to Hong Kong? 
 
 The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](/pdf/clinic_listing_05112020.pdf).
 
-All travellers to Hong Kong SAR under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong SAR in order to apply.
+All travellers to Hong Kong under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong in order to apply.
 
 Applicants will be notified of the outcome of their application within three working days via email.
 
@@ -87,7 +87,7 @@ Please bring the following:
 - Respective Long-Term Passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower (for Long-Term Pass holders only)
 - Passport
 - Electronic or physical copy of your approval letter to take the pre-departure COVID-19 PCR test
-- Electronic or physical copy of your departure flight ticket to Hong Kong SAR
+- Electronic or physical copy of your departure flight ticket to Hong Kong
 
 #### 10. When can I expect to get my PCR test results?
 
@@ -119,7 +119,7 @@ Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass 
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
-  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and HKSAR Government; or</li>
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government; or</li>
   <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a non-designated flight.</li>
   </ol>
 
@@ -127,12 +127,12 @@ They must ensure that they meet the requirements of the type of flight that they
 
 #### (A) Designated Flights
 
-For those travelling from Hong Kong SAR to Singapore on a flight designated by the Singapore Government and HKSAR Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
+For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
 
 In order to be eligible to take a designated flight, they are required to:
 <ol style="font-size:18px; list-style-type:disc;"> 
-  <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departure from Hong Kong SAR; and</li>
-   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore at one of the testing institutions recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+  <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
+   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore at one of the testing institutions recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:18px; list-style-type:lower-roman;"> 
        <li style="font-size:18px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:18px; list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
@@ -156,13 +156,13 @@ The designated flights from Hong Kong to Singapore are:
   
 #### (B) Non-Designated Flights
   
-For those travelling from Hong Kong SAR to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period.
 
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong SAR for those travelling on non-designated flights.
+There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
 For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website  [here](/health) 
 
-#### 15. What happens if Singapore Citizens / Permanent Residents / Long-Term Pass holders are unable to get a flight ticket on a flight designated by the Singapore Government and HKSAR Government to travel to Singapore?
+#### 15. What happens if Singapore Citizens / Permanent Residents / Long-Term Pass holders are unable to get a flight ticket on a flight designated by the Singapore Government and Hong Kong Government to travel to Singapore?
 
 If you are unable to get a flight ticket on a designated flight, you may still take a non-designated flight to travel to Singapore. However, you will be required to serve a 7-day SHN at your own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
 
@@ -173,7 +173,7 @@ Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taki
 
 ### **Others**
 
-#### 17. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong SAR?
+#### 17. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
 
 You must present to the airline staff the following:
  <ol style="margin-top:0px; list-style-type: disc;">
@@ -187,7 +187,7 @@ You must present to the airline staff the following:
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">Respective long-term passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower for Long-Term Pass holders</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Approval letter of entry for short-term visitors (e.g. Air Travel Pass, SafeTravel Pass, or Short-Term Visit Pass)</li> 
         </ol>
-<i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong SAR under this arrangement.]</i>
+<i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong under this arrangement.]</i>
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 PCR test at Hong Kong International Airport</li>
     </ol> Travellers who do not meet any of the above requirements may be refused boarding by the airline.
