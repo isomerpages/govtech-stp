@@ -78,7 +78,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           </ol>
           </li>
            </ol>
-           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong SAR to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong SAR to Singapore does not guarantee an ATP.</i>           
+           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does not guarantee an ATP.</i>           
        </li>
      </ol>
     </td>
@@ -86,7 +86,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      <tr>
     <td style="font-size:16px;"><b>Travel history</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Monitor their health status before departure;</li>
      </ol>
     </td>     
@@ -94,7 +94,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   <tr>
     <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
@@ -136,8 +136,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
@@ -168,8 +168,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
@@ -206,12 +206,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Returning to Hong Kong SAR</th>
+    <th colspan="2" style="font-size:16px;">Returning to Hong Kong</th>
   </tr>
   </thead>
   <tr>
-    <td style="font-size:16px;"><b>Entry Requirements for Hong Kong SAR</b></td>
-    <td style="font-size:16px;">Please refer [here](/hongkong/atb/requirements-and-process) for information about travel from Singapore to Hong Kong SAR under the travel bubble arrangement.
+    <td style="font-size:16px;"><b>Entry Requirements for Hong Kong</b></td>
+    <td style="font-size:16px;">Please refer [here](/hongkong/atb/requirements-and-process) for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
     </td>
   </tr>
   
