@@ -11,7 +11,7 @@ A summary of the prevailing SHN and swab requirements for travellers can be foun
 
 Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
 
-Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">read the requirements for persons placed on SHN</a>.
+Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/advisories/moh-health-advisory-for-persons-issued-stay-home-notice_4-nov.pdf" target="_blank">read the requirements for persons placed on SHN</a>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
