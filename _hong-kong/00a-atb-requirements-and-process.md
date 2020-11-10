@@ -5,38 +5,37 @@ permalink: /hongkong/requirements-and-process
 
 ### AIR TRAVEL BUBBLE ARRANGEMENT
 
-A summary of the requirements and process for those travelling to Hong Kong under the Air Travel Bubble (ATB) arrangement is provided below. Please refer to Hong Kong’s dedicated ATB website here for the full details. 
+A summary of the requirements and process for those travelling to Hong Kong under the Air Travel Bubble (ATB) arrangement is provided below. Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for the full details. 
 
 ### 1. Eligibility 
 
 <span class="font-size:16px;">Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.</span>
             
-<span class="font-size:16px;">Persons travelling to Hong Kong under the travel bubble arrangement must ensure that they meet the entry requirements of Hong Kong. Please refer the website of the Immigration Department of Hong Kong here.</span>
+<span class="font-size:16px;">PPersons travelling to Hong Kong under the ATB arrangement must ensure that they meet the entry requirements of Hong Kong.</span>
  
-### 2. Submit Applications for Air Travel Pass and Visa
+### 2. Pre-Departure to Hong Kong
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Pre-Departure to Hong Kong</th>
+    <th colspan="2" style="font-size:16px;">Prior to departing for Hong Kong, eligible travellers must fulfil the following requirements:</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
-  Prior to departing for Hong Kong , eligible travellers must fulfil the following requirements:
   <tr>
     <td style="font-size:16px;"><b>Visa application (if required)</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who require a visa for travel to Hong Kong must obtain a valid visa before departing to Hong Kong. Please refer to Immigration Department of Hong Kong’s website here for more information.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who require a visa for travel to Hong Kong must obtain a valid visa before departing to Hong Kong. Please refer to Immigration Department of Hong Kong’s website <a href="https://www.immd.gov.hk/eng/services/visas/immigration-entry-guideline.html">here</a> for more information.</li>
          </ol> 
  </td>
   </tr>
      <tr>
-    <td style="font-size:16px;"><b>Designated flight</b> </td>
-    <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
+    <td style="font-size:16px;"><b>Designated ATB flight</b> </td>
+    <td style="font-size:16px;">
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Singapore to Hong Kong on one of the following flights designated by the Hong Kong Government and Singapore Government under the ATB:
         <ol style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight) </b>
           <ol style="margin-top:0<px; list-style-type: lower-roman;">
@@ -58,10 +57,10 @@ A summary of the requirements and process for those travelling to Hong Kong unde
     <td style="font-size:16px;"><b>Pre-departure COVID-19 PCR Test</b></td>
     <td style="font-size:16px;"> 
                 <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of the <a href="/pdf/clinic_listing_05112020.pdf">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of the <a href="https://go.gov.sg/covid19pcrtestproviders">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
       </li>
          </ol> 
-     <i> Note: Those travelling to Hong Kong under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the FAQs or more information on how to apply and make a test appointment.</i>
+     <i> Note: Those travelling to Hong Kong under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the <a href="/hongkong/faq">FAQs</a> for more information on how to apply and make a test appointment. To apply, please click <a href="https://safetravel.caas.gov.sg/pdt">here</a>.</i>
  </td>
   </tr>
     <tr>
@@ -101,7 +100,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
          </ol>
                   </li>
 <i>[Note: Holders of Work Permit or S Pass issued by the Singapore Ministry of Manpower, who are working in the construction, marine shipyard, or process sectors, are not eligible for travel to Hong Kong under this arrangement.] </i>                                                     
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 tests at Hong Kong International Airport</li>                                                           
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code confirming booking and payment for the post-arrival COVID-19 PCR test at Hong Kong International Airport</li>                                                           
        </ol> 
 Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong in the last 14 days prior to departure to Hong Kong. <br/><br/>
 <b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                              
@@ -130,13 +129,11 @@ Airlines will also check that travellers have no travel history to any place oth
        </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">their negative COVID-19 PCR test result (electronic or printed copy)
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">(for non-Singapore Citizens) the relevant identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore
-       </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">documentary proof of booking and payment for the post-arrival COVID-19 test at Hong Kong International Airport
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code confirming booking and payment for the post-arrival COVID-19 PCR test at Hong Kong International Airport
        </li>
      </ol>
 Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong International Airport. Upon obtaining a negative test result, travellers are exempted from the quarantine requirement and may leave the airport.<br/>
-If permission to land in Hong Kong is given, the length of stay to be granted to travellers, will be subject to the prevailing visa-free arrangement / visa policies and subject to travellers meeting the normal immigration requirements and other applicable requirements under the laws of Hong Kong. Please refer to the Immigration Department of Hong Kong’s website here.    
+If permission to land in Hong Kong is given, the length of stay to be granted to travellers, will be subject to the prevailing visa-free arrangement / visa policies and subject to travellers meeting the normal immigration requirements and other applicable requirements under the laws of Hong Kong. Please refer to the Immigration Department of Hong Kong’s website <a href="https://www.immd.gov.hk/eng/services/visas/immigration-entry-guideline.html">here</a>.    
     </td>
  </tr>
   </tbody>
@@ -153,7 +150,7 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Adhere to prevailing public health measures in Hong Kong</b></td>
-    <td style="font-size:16px;">Travellers will not be subject to a quarantine and there will be no restriction on movement. They must comply with the prevailing health and social distancing measures in Hong Kong. Please refer here for information on the prevailing measures.
+    <td style="font-size:16px;">Travellers will not be subject to a quarantine and there will be no restriction on movement. They must comply with the prevailing health and social distancing measures in Hong Kong. Please refer <a href="https://www.coronavirus.gov.hk/eng/reduce-gatherings.html">here</a> for information on the prevailing measures.
     </td>
   </tr>
   <tr>
@@ -175,7 +172,7 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Short-Term Visitors</b></td>
-    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <a href="https://go.gov.sg/atpsg">here</a>.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government.
+    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <a href="https://go.gov.sg/atpsg">here</a>.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government under ATB.
     </td>
   </tr>
   <tr>
@@ -183,13 +180,13 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 </b></td>
     <td style="font-size:16px;">There is no need to apply for an Air Travel Pass to enter Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.<br/>Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:<br/>
        <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.0;"><b>a flight designated by the Singapore Government and Hong Kong Government; or</b> </li>  
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.0;"><b>(A)	a flight designated by the Singapore Government and Hong Kong Government under the ATB; or</b> </li>  
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>a non-designated flight. </b></li>  
       </ol>
       They must ensure that they meet the requirements of the type of flight that they are taking.
       <br/><br/>
-      <b><u> (A) Designated Flights</u></b><br/>
-For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).<br/><br/>
+      <b><u> (A) Designated ATB Flights</u></b><br/>
+For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).<br/><br/>
 In order to be eligible to take a designated flight, they are required to:
       <ol style="font-size:16px; margin-top:0px; list-style-type:disc;"> 
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
@@ -202,6 +199,8 @@ In order to be eligible to take a designated flight, they are required to:
      </ol>
   </li>
 </ol>
+Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.                
+                
 The designated flights from Hong Kong to Singapore are:
   <ol style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight) </b>
@@ -216,17 +215,14 @@ The designated flights from Hong Kong to Singapore are:
           </ol>
           </li>
            </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/>
-For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website <a href="/health">here</a>.
-There is no travel history requirement and no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to the Singapore Immigration & Checkpoints Authority’s (ICA) website <a href="/health">here</a>.
+
+There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
     </td>
   </tr>
  </tbody>
  </table>
-  
------
 
-<p style="margin-top:0px; margin-bottom:0px;">
-<span style="font-size:16px; ">
-<sup>1</sup> Travellers can register for the post-arrival tests via a web-based application at XX.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code.  The QR code should be presented during check-in.
+
  
 
