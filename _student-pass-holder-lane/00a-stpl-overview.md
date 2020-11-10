@@ -26,7 +26,7 @@ STP holders travelling from Hong Kong to Singapore may take either:
 
 They must meet the requirements for the type of flight that they are taking.
 
-#### (A) Designated Flights
+#### (A) Designated ATB Flights
 
 For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
 
