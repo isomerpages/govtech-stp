@@ -29,6 +29,12 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
       <td style="text-align:center;"><a href="/brunei/atp/conditions">Click here</a></td>
       <td style="text-align:center;"><a href="/brunei/atp/faq">Click here</a></td>
   </tr>
+  <!--<tr>
+    <td><b>Hong Kong SAR</b></td>
+      <td style="text-align:center;"><a href="/hongkong/atp/requirements-and-process">Click here</a></td>
+      <td style="text-align:center;"><a href="/hongkong/atp/conditions">Click here</a></td>
+      <td style="text-align:center;"><a href="/hongkong/atp/faq">Click here</a></td>
+  </tr>-->
     <tr>
     <td><b>Mainland China</b></td>
     <td style="text-align:center;"><a href="/china/atp/requirements-and-process">Click here</a></td>
