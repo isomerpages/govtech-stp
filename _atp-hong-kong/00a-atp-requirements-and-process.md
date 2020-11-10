@@ -64,7 +64,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Designated flight</b> </td>
     <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have an air ticket on one of the following flights designated by the Singapore Government and the HKSAR Government:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government:
         <ol style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; text-decoration:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
           <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -197,6 +197,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   <tr>
     <td style="font-size:16px;"><b>Activation and retention of TraceTogether app</b></td>
     <td style="font-size:16px;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:16px;"><b>Responsibility to bear related costs of medical treatment for COVID-19 while in Singapore</b></td>
+    <td style="font-size:16px;">Should ATP visitors test positive for COVID-19 in Singapore, they will be accorded the necessary medical treatment. Such visitors are required to bear the full cost of medical treatment, tests and isolation imposed on them for public health reasons.
     </td>
   </tr>
   <thead>
