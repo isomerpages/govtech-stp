@@ -5,7 +5,7 @@ permalink: /hongkong/atp/requirements-and-process
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">Foreigners who are short-term visitors travelling from Hong Kong SAR may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
+<span class="font-size:16px;">Foreigners who are short-term visitors travelling from Hong Kong under the Air Travel Bubble (ATB) arrangement may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
             
 <span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/shn">here</a> for the prevailing health measures applicable upon entry into Singapore.</span>
  
@@ -65,10 +65,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have an air ticket on one of the following flights designated by the Singapore Government and the HKSAR Government:
-        <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">CX759 (HKG-SIN) operated by Cathay Pacific Airways
+        <ol style="margin-top:0px; list-style-type: disc;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; text-decoration:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
+          <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
+          </ol>
           </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SQ890 (HKG-SIN) operated by Singapore Airlines
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
           </li>
            </ol>
            <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong SAR to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong SAR to Singapore does not guarantee an ATP.</i>           
