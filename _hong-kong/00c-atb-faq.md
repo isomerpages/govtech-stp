@@ -29,7 +29,7 @@ The designated flights are:
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
   <li style="font-size:18px; list-style-type:disc;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
   </ol> 
-<b>From 23 November 2020 onwards</b>
+<p style="margin-top:0px; margin-bottom:0px;"><b>From 23 November 2020 onwards</b></p>
  <ol style="font-size:18px; margin-top:0px; list-style-type:disc;"> 
    <li style="font-size:18px; list-style-type:disc;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
