@@ -19,14 +19,14 @@ For more details and to apply for the SHN waiver under the PCA, click [here](/pc
 
 Click [here](/rgl/returning) for details on travel to Singapore using the RGL.
 
-### Singapore Citizens and Permanent Residents Travelling From Hong Kong SAR on Travel Bubble Arrangement
+### Singapore Citizens and Permanent Residents Travelling from Hong Kong under Air Travel Bubble (ATB) Arrangement
 
-Singapore Citizens and Singapore Permanent Residents travelling to Singapore from Hong Kong SAR may take either:
+Singapore Citizens and Singapore Permanent Residents travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:20px; list-style-type:upper-alpha;"> 
-  <li style="font-size:18px; list-style-type:upper-alpha;">a flight designated by the Singapore Government and HKSAR Government; or </li>
+  <li style="font-size:18px; list-style-type:upper-alpha;">(A)	a flight designated by the Singapore Government and Hong Kong Government under the ATB; or </li>
    <li style="font-size:18px; list-style-type:upper-alpha;"> a non-designated flight.</li>
 </ol>
-They must ensure that they meet the requirements of the type of flight that they are taking.
+They must meet the requirements for the type of flight that they are taking.
 
 #### (A) Designated ATB Flights
 
@@ -48,7 +48,7 @@ Singapore Citizens and Singapore Permanent Residents are responsible for making 
 
 Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.
 
-The designated flights from Hong Kong SAR to Singapore are:
+The designated ATB flights from Hong Kong to Singapore are:
 
 **On 22 November 2020 (inaugural flight)**
   <ol style="font-size:18px; list-style-type:disc;"> 
