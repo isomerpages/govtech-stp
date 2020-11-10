@@ -23,7 +23,7 @@ Click [here](/rgl/returning) for details on travel to Singapore using the RGL.
 
 Singapore Citizens and Singapore Permanent Residents travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:20px; list-style-type:upper-alpha;"> 
-  <li style="font-size:18px; list-style-type:upper-alpha;">(A)	a flight designated by the Singapore Government and Hong Kong Government under the ATB; or </li>
+  <li style="font-size:18px; list-style-type:upper-alpha;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or </li>
    <li style="font-size:18px; list-style-type:upper-alpha;"> a non-designated flight.</li>
 </ol>
 They must meet the requirements for the type of flight that they are taking.
