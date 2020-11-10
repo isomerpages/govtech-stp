@@ -72,6 +72,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           </ol>
           </li>
            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
+                         <ol style="margin-top:0px; list-style-type: lower-roman;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
+          </ol>
           </li>
            </ol>
            <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong SAR to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong SAR to Singapore does not guarantee an ATP.</i>           
