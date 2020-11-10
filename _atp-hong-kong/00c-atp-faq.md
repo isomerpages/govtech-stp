@@ -7,7 +7,7 @@ permalink: /hongkong/atp/faq
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Hong Kong SAR to seek entry into Singapore under the Air Travel Bubble arrangement.
+An ATP allows visitors<sup>1</sup> travelling from Hong Kong to seek entry into Singapore under the Air Travel Bubble arrangement.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
@@ -75,7 +75,7 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 
 In order to be eligible to take a designated flight, they are required to:
 <ol style="font-size:18px; list-style-type:disc;"> 
-  <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong SAR and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
+  <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
    <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore at one of the testing institutions recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:18px; list-style-type:lower-roman;"> 
        <li style="font-size:18px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
@@ -130,7 +130,7 @@ Visitors must comply with the ATP Conditions [here](/hongkong/atp/conditions).
 
 #### 16. What are the flights designated by the Singapore Government and Hong Kong Government under the Air Travel Bubble arrangement?
 
-The designated flights from Hong Kong SAR to Singapore are:
+The designated flights from Hong Kong to Singapore are:
 
 **On 22 November 2020 (inaugural flights)**
 - CX759 (HKG-SIN) operated by Cathay Pacific Airways
@@ -143,15 +143,15 @@ The designated flights from Hong Kong SAR to Singapore are:
 - SQ891 (HKG–SIN) operated by Singapore Airlines
 
 
-#### 17. Am I guaranteed a flight ticket on a designated flight from Hong Kong SAR to Singapore if I have an ATP?
+#### 17. Am I guaranteed a flight ticket on a designated flight from Hong Kong to Singapore if I have an ATP?
 
-Having an ATP does **not** guarantee visitors a flight ticket on a designated flight from Hong Kong SAR to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong SAR to Singapore does **not** guarantee an ATP.
+Having an ATP does **not** guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does **not** guarantee an ATP.
 
-#### 18. I have an ATP and a pre-departure COVID-19 PCR test result certificate, and I meet the travel history condition of the ATP, but I did not manage to get a flight ticket on a designated flight from Hong Kong SAR to Singapore. Will I still be allowed to enter Singapore?
+#### 18. I have an ATP and a pre-departure COVID-19 PCR test result certificate, and I meet the travel history condition of the ATP, but I did not manage to get a flight ticket on a designated flight from Hong Kong to Singapore. Will I still be allowed to enter Singapore?
 
-As set out in ATP [Conditions](/hongkong/atp/conditions), an ATP holder must travel from Hong Kong SAR to Singapore on a flight designated by the Singapore Government and the HKSAR Government.
+As set out in ATP [Conditions](/hongkong/atp/conditions), an ATP holder must travel from Hong Kong to Singapore on a flight designated by the Singapore Government and the Hong Kong Government.
 
-If you are not travelling on a designated flight from Hong Kong SAR to Singapore, you will not be allowed to enter Singapore.
+If you are not travelling on a designated flight from Hong Kong to Singapore, you will not be allowed to enter Singapore.
 
 #### 19. Why must visitors take designated flights from Hong Kong to Singapore?
 
@@ -162,13 +162,13 @@ The quota is allocated to designated flights, which have been agreed between the
 
 ### **Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test**
 
-#### 20. Are visitors required to take a pre-departure COVID-19 PCR test in Hong Kong SAR?
+#### 20. Are visitors required to take a pre-departure COVID-19 PCR test in Hong Kong?
 
-Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of their designated flight from Hong Kong SAR to Singapore and be tested negative for COVID-19.
+Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of their designated flight from Hong Kong to Singapore and be tested negative for COVID-19.
 
 For example, if the scheduled departure date and time of the visitor’s designated flight is 30 November 2020, 1030hrs, the test must be taken no earlier than 27 November 2020, 1030hrs.
 
-The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong SAR recognised by the HKSAR Government. The list of recognised testing institutions can be found [here](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf). The test result certificate must be in English and state the following:
+The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf). The test result certificate must be in English and state the following:
 - Visitor’s name, date of birth, and passport number, as indicated in his/her passport;
 - a negative COVID-19 PCR test result;
 - the date and time when the COVID-19 PCR test was taken; and
@@ -176,15 +176,15 @@ The pre-departure COVID-19 PCR test must be taken at one of the testing institut
 
 Visitors are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed testing institutions for the cost of the test.
 
-Visitors, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport in Hong Kong SAR, may be refused boarding by the airline. 
+Visitors, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport in Hong Kong, may be refused boarding by the airline. 
 
 #### 21. Do children need to undergo a pre-departure COVID-19 PCR test?
 
-Yes. All visitors, regardless of age, are required to undergo a pre-departure COVID-19 PCR test in Hong Kong SAR within 72 hours before the scheduled departure time of their designated flight from Hong Kong SAR to Singapore.
+Yes. All visitors, regardless of age, are required to undergo a pre-departure COVID-19 PCR test in Hong Kong within 72 hours before the scheduled departure time of their designated flight from Hong Kong to Singapore.
 
-#### 22. Are visitors allowed to take a COVID-19 PCR test upon arrival in Singapore instead of a pre-departure COVID-19 PCR test in Hong Kong SAR?
+#### 22. Are visitors allowed to take a COVID-19 PCR test upon arrival in Singapore instead of a pre-departure COVID-19 PCR test in Hong Kong?
 
-No. Without a valid pre-departure COVID-19 PCR test result certificate, visitors will be refused boarding by the airline staff at the departure airport in Hong Kong SAR.
+No. Without a valid pre-departure COVID-19 PCR test result certificate, visitors will be refused boarding by the airline staff at the departure airport in Hong Kong.
 
 ### **Accommodation in Singapore**
 
@@ -242,15 +242,15 @@ Such visitors are required to bear the full cost of medical treatment, tests and
 
 ### **Departing from Singapore**
 
-#### 32. I had travelled from Hong Kong SAR to Singapore on an ATP. What are the requirements I need to meet if I intend to return to Hong Kong SAR after my stay in Singapore?
+#### 32. I had travelled from Hong Kong to Singapore on an ATP. What are the requirements I need to meet if I intend to return to Hong Kong after my stay in Singapore?
 
-Information on the entry requirements for Hong Kong SAR can be found on the website of the Immigration Department of Hong Kong SAR [here](https://www.immd.gov.hk/eng/services/index.html).
+Information on the entry requirements for Hong Kong can be found on the website of the Immigration Department of Hong Kong [here](https://www.immd.gov.hk/eng/services/index.html).
 
-If you are travelling to Hong Kong SAR under the travel bubble arrangement, please refer [here](/hongkong/atb/requirements-and-process).
+If you are travelling to Hong Kong under the travel bubble arrangement, please refer [here](/hongkong/atb/requirements-and-process).
 
-#### 33. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong SAR, if the COVID-19 PCR test I had taken in Hong Kong SAR is within 72 hours before my departure from Singapore?
+#### 33. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Hong Kong is within 72 hours before my departure from Singapore?
 
-There is no need to take another COVID-19 PCR test in Singapore. You will need to present the COVID-19 PCR test result certificate issued to you in Hong Kong SAR to the airline staff when checking in for your departure flight in Singapore.
+There is no need to take another COVID-19 PCR test in Singapore. You will need to present the COVID-19 PCR test result certificate issued to you in Hong Kong to the airline staff when checking in for your departure flight in Singapore.
 
 #### 34. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
@@ -302,8 +302,8 @@ When checking in at the departure airport, visitors must present the following t
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong SAR to Singapore; and</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong SAR</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
@@ -316,13 +316,13 @@ A visitor who does not have any of the above may be refused boarding by the airl
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
-Note that the flights between Hong Kong SAR and Singapore, which are designated by Singapore Government and HKSAR Government, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong SAR. Such travellers can only take non-designated flights.
+Note that the flights between Hong Kong and Singapore, which are designated by Singapore Government and Hong Kong Government, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take non-designated flights.
 
-#### 40. Do visitors, who are travelling from Hong Kong SAR to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong SAR?
+#### 40. Do visitors, who are travelling from Hong Kong to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong?
 
 There is no need, but visitors are advised to check with their airline that the transfer route that they are taking has been approved by the Civil Aviation Authority of Singapore (CAAS).
 
-Note that the flights between Hong Kong SAR and Singapore, which are designated by Singapore Government and HKSAR Government, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong SAR. Such travellers can only take the flights that are not designated.
+Note that the flights between Hong Kong and Singapore, which are designated by Singapore Government and Hong Kong Government, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take the flights that are not designated.
 
 -----
 
