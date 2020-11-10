@@ -48,13 +48,13 @@ Travellers are responsible for making their own appointments with the testing in
 
 The designated flights from Hong Kong SAR to Singapore are:
 
-On 22 November 2020 (inaugural flight)
+**On 22 November 2020 (inaugural flight)**
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
    <!-- <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>-->
   </ol>
   
-From 23 November 2020 onwards
+**From 23 November 2020 onwards**
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
