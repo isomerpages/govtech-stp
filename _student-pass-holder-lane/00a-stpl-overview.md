@@ -15,11 +15,11 @@ This lane provides entry for STP holders (including STP-IPA holders) in Ministry
 
 Please ensure you take note of the border and health control measures for entering Singapore found [here](/health).
 
-### **Travelling from Hong Kong under the Air Travel Bubble Arrangement**
+### **Travelling from Hong Kong under the Air Travel Bubble (ATB) Arrangement**
 
 STP holders travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:18px; list-style-type:upper-alpha;"> 
-  <li style="font-size:18px; line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government; or
+  <li style="font-size:18px; line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or
 </li>
   <li style="font-size:18px; line-height:1.5;">a non-designated flight.</li>
   </ol>
@@ -47,7 +47,7 @@ STP holders are responsible for making their own appointments with the testing i
 
 Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.
 
-The designated flights from Hong Kong to Singapore are:
+The designated ATB flights from Hong Kong to Singapore are:
 
 **On 22 November 2020 (inaugural flight)**
 <ol style="font-size:18px; list-style-type:disc;"> 
@@ -62,6 +62,6 @@ The designated flights from Hong Kong to Singapore are:
 
 #### (B) Non-Designated Flights
 
-FFor those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
