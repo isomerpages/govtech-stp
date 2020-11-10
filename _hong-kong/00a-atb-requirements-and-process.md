@@ -38,12 +38,12 @@ A summary of the requirements and process for those travelling to Hong Kong unde
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government:
         <ol style="margin-top:0px; list-style-type: disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; text-decoration:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; font-weight:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
           <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
           </ol>
           </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  font-weight:bold; line-height:1.5;">From 23 November 2020 onwards
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
@@ -201,12 +201,12 @@ In order to be eligible to take a designated flight, they are required to:
 </ol>
 The designated flights from Hong Kong to Singapore are:
   <ol style="margin-top:0px; list-style-type: disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; text-decoration:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; font-weight:bold; line-height:1.5;">On 22 November 2020 (inaugural flight) 
           <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
           </ol>
           </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  font-weight:bold; line-height:1.5;">From 23 November 2020 onwards
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
