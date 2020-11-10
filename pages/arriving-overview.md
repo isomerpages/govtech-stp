@@ -61,13 +61,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td><a href="/brunei/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
-  <!--<tr>
-  <td>Hong Kong SAR</td>
-  <td><a href="/hongkong/atp/requirements-and-process">Air Travel Pass</a></td>
+  <tr>
+  <td>Hong Kong</td>
+    <td><a href="/hongkong/atp/requirements-and-process">Air Travel Pass<sup>2</sup></a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
-  </tr>-->
- <tr>
+ </tr>
+  <tr>
   <td>Indonesia</td>
   <td>&nbsp;</td>
   <td><a href="/indonesia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
@@ -82,7 +82,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
    <tr>
   <td>Mainland China</td>
   <td><a href="/china/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td><a href="/china/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
+  <td><a href="/china/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>3</sup></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
@@ -111,8 +111,10 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
 </table>
 
+<font size="3"> <i><sup>2</sup>Those travelling from Hong Kong to Singapore under the Air Travel Bubble arrangement are required to apply for an Air Travel Pass.
+</i></font>
 
-<font size="3"> <i><sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+<font size="3"> <i><sup>3</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianji and Zhejiang
 </i></font>
 
 <!--
