@@ -45,7 +45,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
           </li>
            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  text-decoration:bold; line-height:1.5;">From 23 November 2020 onwards
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (SIN-HKG) operated by Cathay Pacific Airways</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
           </ol>
           </li>
