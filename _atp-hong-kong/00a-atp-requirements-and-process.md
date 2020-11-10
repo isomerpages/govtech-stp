@@ -7,7 +7,7 @@ permalink: /hongkong/atp/requirements-and-process
 
 <span class="font-size:16px;">Foreigners who are short-term visitors travelling from Hong Kong under the Air Travel Bubble (ATB) arrangement may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
             
-<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/shn">here</a> for the prevailing health measures applicable upon entry into Singapore.</span>
+<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health">here</a> for the prevailing health measures applicable upon entry into Singapore.</span>
  
 ### 2. Submit Applications for Air Travel Pass and Visa
 
@@ -94,13 +94,14 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   <tr>
     <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken</li>
       </ol>
+<i>Note: Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.</i>
       </li>
      </ol>
     </td>     
@@ -127,7 +128,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
 </thead>
    <tr>
-    <td style="font-size:16px;"><b>Check-in for designated flight at departure airport</b></td>
+    <td style="font-size:16px;"><b>Check-in for designated ATB flight at departure airport</b></td>
     <td style="font-size:16px;"> When checking in for the designated flight at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
@@ -137,7 +138,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
@@ -168,8 +169,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
@@ -211,7 +212,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
   <tr>
     <td style="font-size:16px;"><b>Entry Requirements for Hong Kong</b></td>
-    <td style="font-size:16px;">Please refer [here](/hongkong/atb/requirements-and-process) for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
+    <td style="font-size:16px;">Please refer [here](/hongkong/requirements-and-process) for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
     </td>
   </tr>
   
@@ -219,7 +220,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </table>
  
 -----
-
 
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
@@ -231,10 +231,5 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> 	Phones running on Blackberry OS or Symbian OS </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li></ol>
- <p style="margin-top:0px; margin-bottom:0px;">
-<span style="font-size:16px;">
- <sup>2</sup>The following groups are not required to download the TraceTogether app:
- <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian. </li>
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">	Those unable to use a mobile device due to a certified disability and/or special need. </li></ol>
+
 
