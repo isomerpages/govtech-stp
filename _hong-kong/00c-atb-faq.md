@@ -119,7 +119,7 @@ Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass 
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
-  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">(A)	a flight designated by the Singapore Government and Hong Kong Government under the ATB; or</li>
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or</li>
   <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a non-designated flight.</li>
   </ol>
 
