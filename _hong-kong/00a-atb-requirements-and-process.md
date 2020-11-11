@@ -172,7 +172,7 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Short-Term Visitors</b></td>
-    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <a href="https://go.gov.sg/atpsg">here</a>.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government under ATB.
+    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore<!--<a href="https://go.gov.sg/atpsg">here</a>-->.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government under ATB.
     </td>
   </tr>
   <tr>
@@ -180,8 +180,8 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 </b></td>
     <td style="font-size:16px;">There is no need to apply for an Air Travel Pass to enter Singapore. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.<br/>Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:<br/>
        <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.0;"><b>a flight designated by the Singapore Government and Hong Kong Government under the ATB; or</b> </li>  
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>a non-designated flight. </b></li>  
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.0;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or </li>  
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a non-designated flight.</li>  
       </ol>
       They must ensure that they meet the requirements of the type of flight that they are taking.
       <br/><br/>
