@@ -308,7 +308,7 @@ When checking in at the departure airport, visitors must present the following t
         </ol>
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
-  <i style="font-size:18px;">Note: Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore</i>
+  <p style="margin-top:10px; font-size:18px; margin-bottom:0px;"><i>Note: Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore</i></p>
     </ol> 
 Children aged 12 or younger in that calendar year and travelling with family are not required to have a mobile device with the TraceTogether app already downloaded and activated. Visitors with a certified disability or special need are also exempted.
 
