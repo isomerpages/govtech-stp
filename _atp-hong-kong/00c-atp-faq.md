@@ -320,7 +320,7 @@ No, the ATP is for visitors who intend to enter Singapore and is not applicable 
 
 Note that the flights between Hong Kong and Singapore, that have been designated by Singapore Government and Hong Kong Government under the ATB, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take non-designated flights.
 
-#### 40. Do visitors, who are travelling from Hong Kong to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong?
+#### 41. Do visitors, who are travelling from Hong Kong to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong?
 
 There is no need, but visitors are advised to check with their airline that the transfer route that they are taking has been approved by the Civil Aviation Authority of Singapore (CAAS).
 
