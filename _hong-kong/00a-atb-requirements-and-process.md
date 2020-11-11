@@ -11,7 +11,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
 
 <span class="font-size:16px;">Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.</span>
             
-<span class="font-size:16px;">PPersons travelling to Hong Kong under the ATB arrangement must ensure that they meet the entry requirements of Hong Kong.</span>
+<span class="font-size:16px;">Persons travelling to Hong Kong under the ATB arrangement must ensure that they meet the entry requirements of Hong Kong.</span>
  
 ### 2. Pre-Departure to Hong Kong
 
