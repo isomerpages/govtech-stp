@@ -172,9 +172,13 @@ If you are unable to get a flight ticket on a designated ATB flight, you may sti
 
 Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taking a non-designated flight to Singapore are not required to take a pre-departure COVID-19 PCR test in Hong Kong before departing for Singapore. They must serve a serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
 
+#### 18. Do I still need to take another COVID-19 PCR test in Hong Kong before I return to Singapore, if the COVID-19 PCR test I had taken in Hong Kong upon arrival is within 72 hours before my departure from Hong Kong?
+
+There is no need to take another COVID-19 PCR test in Hong Kong. You will need to present the COVID-19 PCR test result already issued to you in Hong Kong to the airline staff when checking in for your departure flight in Hong Kong.
+
 ### **Others**
 
-#### 18. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
+#### 19. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
 
 You must present to the airline staff the following:
  <ol style="margin-top:0px; list-style-type: disc;">
