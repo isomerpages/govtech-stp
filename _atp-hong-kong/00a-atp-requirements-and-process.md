@@ -212,7 +212,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
   <tr>
     <td style="font-size:16px;"><b>Entry Requirements for Hong Kong</b></td>
-    <td style="font-size:16px;">Please refer [here](/hongkong/requirements-and-process) for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
+              <td style="font-size:16px;">Please refer <a href="/hongkong/requirements-and-process">here</a> for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
     </td>
   </tr>
   
