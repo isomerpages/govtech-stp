@@ -76,7 +76,7 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 To be eligible to take a designated ATB flight, they are required to:
 <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
-   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:18px; list-style-type:lower-roman;"> 
        <li style="font-size:18px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:18px; list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>
@@ -102,7 +102,7 @@ The designated flights from Hong Kong to Singapore are:
 
 #### (B) Non-Designated Flights
   
-For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health/shn) 
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health) 
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
@@ -167,13 +167,13 @@ Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 
 
 For example, if the scheduled departure date and time of the visitor’s designated ATB flight is 30 November 2020, 1030hrs, the test must be taken no earlier than 27 November 2020, 1030hrs.
 
-The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf). The test result certificate must be in English and state the following:
+The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found [here](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf). The test result certificate must be in English and state the following:
 - Visitor’s name, date of birth, and passport number, as indicated in his/her passport;
 - a negative COVID-19 PCR test result;
 - the date and time when the COVID-19 PCR test was taken; and
 - the name of the testing institution where the COVID-19 PCR test was taken.
 
-Visitors are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed [testing institutions](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf) for the cost of the test.
+Visitors are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed [testing institutions](https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf) for the cost of the test.
 
 Visitors, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport in Hong Kong, may be refused boarding by the airline. 
 
@@ -304,7 +304,7 @@ When checking in at the departure airport, visitors must present the following t
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories.pdf">testing institutions</a> in Hong Kong</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
