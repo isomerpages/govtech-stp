@@ -10,10 +10,10 @@ permalink: /hongkong/faq
 Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.
 
 Eligible persons, who intend to travel from Singapore to Hong Kong, must meet the requirements laid out by the Hong Kong Government, which include:
-- staying in Singapore and/or Hong Kong in the last 14 days before departure
-- taking a designated flight from Singapore to Hong Kong
-- undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) designated by the Singapore Government
-- declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information [declaration form](https://www.chp.gov.hk/hdf/)
+- Staying in Singapore and/or Hong Kong in the last 14 days before departure
+- Taking a designated flight from Singapore to Hong Kong
+- Undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) designated by the Singapore Government
+- Declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information [declaration form](https://www.chp.gov.hk/hdf/)
 
 Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for more information regarding the requirements to travel to Hong Kong under the ATB arrangement.
 
@@ -110,7 +110,7 @@ Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong Internat
 
 #### 14. How do I book and pay for the post-arrival COVID-19 PCR test at Hong Kong International Airport?
 
-Travellers can register and pay for the post-arrival COVID-19 PCR test via a web-based application (link to be provided).  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
+Travellers can register and pay for the post-arrival COVID-19 PCR test via a web-based application (to be provided).  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
 
 ### **Returning to Singapore**
 
