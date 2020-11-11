@@ -191,7 +191,7 @@ No. Without a valid pre-departure COVID-19 PCR test result certificate, visitors
 
 There are no restrictions on the type of accommodation that visitors can stay in while in Singapore. Visitors may stay in a hotel or a residential accommodation.
 
-Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels currently accepting visitors travelling from Hong Kong to Singapore under the ATB. The list is non-exhaustive and visitors may book other available accommodation.
+Visitors may refer to the Singapore Tourism Board’s website [here](https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html) for a list of hotels currently accepting visitors travelling from Hong Kong to Singapore under the ATB. The list is non-exhaustive and visitors may book other available accommodation.
 
 ### **Contact Tracing – TraceTogether App**
 
