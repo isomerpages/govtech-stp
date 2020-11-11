@@ -30,6 +30,9 @@ permalink: /hongkong/atp/conditions
      </ol>
   </li>
   <br/>
+   <li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 1(c) to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the flight departing from Hong Kong does not apply to an Air Travel Pass holder who is 12 years of age or younger in that calendar year.
+  </li>
+  <br/>
    <li style="font-size:20px; list-style-type:decimal;"> Condition 1(d) does not apply to an Air Travel Pass holder who is:
   <ol style="font-size:18px; list-style-type:lower-alpha;">
   <li style="font-size:18px; list-style-type:lower-alpha;">12 years of age or younger in that calendar year and travelling with a parent or guardian; or</li>
