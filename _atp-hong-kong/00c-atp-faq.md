@@ -251,7 +251,7 @@ There is no need to take another COVID-19 PCR test in Singapore. You will need t
 
 #### 34. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
-The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://go.gov.sg/covid19pcrtestproviders).
+The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://www-moh-gov-sg-admin.cwp.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
 You will need your ATP approval letter and a confirmed flight ticket for your next onward destination to be eligible to take a pre-departure COVID-19 PCR test in Singapore. There is no need to seek separate approval to take the test.
 
