@@ -118,8 +118,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>2</sup>, and register their mobile number and personal details on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app.</li>
      </ol>
+               <p style="margin-top:0px; margin-bottom:0px;"> <i> Note: the following groups are not required to download the TraceTogether app:</i></p>
+                  <ol style="margin-top:0px; list-style-type: disc;">
+                              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian</li>
+                              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability an/or special need.</li>
+                 </ol>      
     </td>
  </tr>
 <thead>
@@ -212,7 +217,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
   <tr>
     <td style="font-size:16px;"><b>Entry Requirements for Hong Kong</b></td>
-    <td style="font-size:16px;">Please refer <a href="/hongkong/requirements-and-process">here</a> for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
+              <td style="font-size:16px;">Please refer <a href="/hongkong/requirements-and-process">here</a> for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
     </td>
   </tr>
   
