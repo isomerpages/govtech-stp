@@ -19,6 +19,8 @@ Please ensure you take note of the border and health control measures for enteri
 
 ### Travelling from Hong Kong under the Air Travel Bubble (ATB) Arrangement
 
+Singapore Work Pass Holders and their dependants must obtain MOM's entry approval to enter Singapore. 
+
 Pass holders travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:18px; list-style-type:upper-alpha;"> 
   <li style="font-size:18px; line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or
