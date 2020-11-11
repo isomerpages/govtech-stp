@@ -47,7 +47,7 @@ The quota is allocated to designated flights, which have been agreed between the
 
 #### 4. How do I take the required COVID-19 PCR test in Singapore before departing to Hong Kong? 
 
-The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://go.gov.sg/covid19pcrtestproviders).
+The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
 All travellers to Hong Kong under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong in order to apply.
 
@@ -61,11 +61,11 @@ Yes. An individual application will have to be submitted for each traveller.
 
 #### 6. How much does a COVID-19 PCR test cost in Singapore?
 
-Please check with the listed [clinics and testing centres](https://go.gov.sg/covid19pcrtestproviders) for the ocst of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
+Please check with the listed [clinics and testing centres](https://www-moh-gov-sg-admin.cwp.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for the ocst of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
 
 #### 7. Upon receiving the approval, how can I make an appointment for my pre-departure COVID-19 PCR test?
 
-Upon receiving approval, please contact one of the designated clinics or testing centres to make an appointment. The list of designated clinics and testing centres can be found [here](https://go.gov.sg/covid19pcrtestproviders).
+Upon receiving approval, please contact one of the designated clinics or testing centres to make an appointment. The list of designated clinics and testing centres can be found [here](https://www-moh-gov-sg-admin.cwp.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
 You are advised to make an appointment with the designated clinic or testing centre of your choice as early as possible to secure an appropriate time slot for your pre-departure COVID-19 PCR test.
 
