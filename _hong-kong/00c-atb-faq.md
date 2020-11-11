@@ -14,7 +14,6 @@ Eligible persons, who intend to travel from Singapore to Hong Kong, must meet th
 - taking a designated flight from Singapore to Hong Kong
 - undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) designated by the Singapore Government
 - declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information [declaration form](https://www.chp.gov.hk/hdf/)
-- [booking and paying](http://hkia.prenetics.com/) for the post-arrival COVID-19 tests at Hong Kong International Airport
 
 Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for more information regarding the requirements to travel to Hong Kong under the ATB arrangement.
 
