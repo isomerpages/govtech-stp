@@ -172,7 +172,7 @@ If permission to land in Hong Kong is given, the length of stay to be granted to
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Short-Term Visitors</b></td>
-    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <!--<a href="https://go.gov.sg/atpsg">here</a>-->.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB.
+    <td style="font-size:16px;">Please apply for an Air Travel Pass to seek entry into Singapore <a href="https://go.gov.sg/atpsg">here</a>.Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB.
     </td>
   </tr>
   <tr>
