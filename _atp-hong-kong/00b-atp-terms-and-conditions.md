@@ -8,7 +8,7 @@ permalink: /hongkong/atp/conditions
 <ol style="font-size:20px;">
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-  <li style="font-size:18px; list-style-type:lower-alpha;"> have been in Hong Kong, in the last 14 consecutive days before departing for Singapore;</li>
+  <li style="font-size:18px; list-style-type:lower-alpha;"> have only been in Hong Kong, or both Hong Kong and Singapore, in the last 14 consecutive days before departing for Singapore;</li>
         <li style="font-size:18px; list-style-type:lower-alpha;"> travel from Hong Kong to Singapore on a flight designated by the Singapore Government and the Hong Kong Government under the Air Travel Bubble arrangement;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the flight departing from Hong Kong, at one of the testing institutions in Hong Kong recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
         <ol style="font-size:18px; list-style-type:lower-roman;">
