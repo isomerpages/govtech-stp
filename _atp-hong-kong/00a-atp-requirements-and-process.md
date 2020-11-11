@@ -61,10 +61,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 </thead>
 <tbody>
     <tr>
-    <td style="font-size:16px;"><b>Designated flight</b> </td>
+    <td style="font-size:16px;"><b>Designated ATB flight</b> </td>
     <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government under the ATB:
         <ol style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight)</b> 
           <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -217,7 +217,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
   <tr>
     <td style="font-size:16px;"><b>Entry Requirements for Hong Kong</b></td>
-              <td style="font-size:16px;">Please refer <a href="/hongkong/requirements-and-process">here</a> for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
+              <td style="font-size:16px;">Visitors, who have travelled to Singapore on the ATP and intend to return Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements. <p style="margin-top:0px; margin-bottom:0px;"></p>Please refer <a href="/hongkong/requirements-and-process">here</a> for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
     </td>
   </tr>
   
