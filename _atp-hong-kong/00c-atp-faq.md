@@ -55,7 +55,7 @@ Please note that the ATP is **not** an immigration visit pass. It only allows vi
 
 #### 11. Are visitors able to extend their duration of stay in Singapore?
 
-All applications for extension of visit pass must be submitted online using ICA’s e-service (<https://eservices.ica.gov.sg/esvclandingpage/extend>) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is **no** guarantee that an extension will be granted.
+All applications for extension of visit pass must be submitted online using ICA’s e-service [here](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is **no** guarantee that an extension will be granted.
 
 #### 12. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
@@ -118,7 +118,7 @@ Visitors, who require a visa for travel to Singapore, must separately obtain a v
 
 If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.  
 
-Visitors may refer to ICA website (<https://www.ica.gov.sg/visitor/visitor_entryvisa>) for information on visa requirements and application.
+Visitors may refer to ICA website [here](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
 
 ### **ATP Conditions of Travel**
 
@@ -308,6 +308,7 @@ When checking in at the departure airport, visitors must present the following t
         </ol>
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+  <p style="margin-top:10px; font-size:18px; margin-bottom:0px;"><i>Note: Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore</i></p>
     </ol> 
 Children aged 12 or younger in that calendar year and travelling with family are not required to have a mobile device with the TraceTogether app already downloaded and activated. Visitors with a certified disability or special need are also exempted.
 

@@ -35,7 +35,7 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 To be eligible to take a designated ATB flight, they are required to:
 <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and</li>
-   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the HKSAR Government, and obtain a test result certificate in English stating the following:
+   <li style="font-size:18px; list-style-type:disc;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
      <ol style="font-size:18px; list-style-type:lower-roman;"> 
        <li style="font-size:18px; list-style-type:lower-roman;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
        <li style="font-size:18px; list-style-type:lower-roman;">A negative COVID-19 PCR test result;</li>

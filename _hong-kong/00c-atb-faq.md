@@ -9,9 +9,9 @@ permalink: /hongkong/faq
 
 Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.
 
-Eligible persons, who intend to travel from Singapore to Hong Kong, must meet the requirements laid out by the Hong Kong Government, which include:
+Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
 - Staying in Singapore and/or Hong Kong in the last 14 days before departure
-- Taking a designated flight from Singapore to Hong Kong
+- Taking a designated ATB flight from Singapore to Hong Kong
 - Undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) designated by the Singapore Government
 - Declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information [declaration form](https://www.chp.gov.hk/hdf/)
 
@@ -48,9 +48,7 @@ The quota is allocated to designated flights, which have been agreed between the
 
 The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
-All travellers to Hong Kong under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong in order to apply.
-
-Applicants will be notified of the outcome of their application within three working days via email.
+All travellers to Hong Kong under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong in order to apply. Applicants will be notified of the outcome of their application within three working days via email.
 
 Clinics and testing centres will not administer the test unless the traveller has obtained approval to take a COVID-19 PCR test.
 
@@ -60,7 +58,7 @@ Yes. An individual application will have to be submitted for each traveller.
 
 #### 6. How much does a COVID-19 PCR test cost in Singapore?
 
-Please check with the listed [clinics and testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for the ocst of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
+Please check with the listed [clinics and testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for the cost of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
 
 #### 7. Upon receiving the approval, how can I make an appointment for my pre-departure COVID-19 PCR test?
 
@@ -183,7 +181,7 @@ You must present to the airline staff the following:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong)</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code of the submitted online <a href="https://www.chp.gov.hk/hdf/">health & quarantine information declaration form</a></li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code of the submitted online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a></li>
   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a negative COVID-19 PCR test result (electronic or physical copy)</li>
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">(for non-Singapore Citizens) the following identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
