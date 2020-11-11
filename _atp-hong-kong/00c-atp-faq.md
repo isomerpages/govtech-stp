@@ -63,7 +63,7 @@ No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not 
 
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
-  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government; or</li>
+  <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a flight designated by the Singapore Government and Hong Kong Government under the ATB arranngement; or</li>
   <li style="font-size:20px; margin-top:10px; margin-bottom:0px;  lineNo, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore. However, Long-Term Pass holders (including those who have been granted In-Principle Approval for Long-Term Pass) will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.-height:1.5;">a non-designated flight.</li>
   </ol>
   
