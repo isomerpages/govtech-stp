@@ -60,7 +60,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of the <a href="https://go.gov.sg/covid19pcrtestproviders">clinics or testing centres</a> designated by the Singapore Government, and obtain a negative test result report.
       </li>
          </ol> 
-     <i> Note: Those travelling to Hong Kong under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the <a href="/hongkong/faq">FAQs</a> for more information on how to apply and make a test appointment. To apply, please click <a href="https://safetravel.caas.gov.sg/pdt">here</a>.</i>
+     <i> Note: Those travelling to Hong Kong under the travel bubble arrangement will need to apply for approval to take a pre-departure COVID-19 PCR test in Singapore. Please refer to the <a href="/hongkong/faq">FAQs</a> for more information on how to apply and make a test appointment. To apply, please click <a href="https://go.gov.sg/caaspdt">here</a>.</i>
  </td>
   </tr>
     <tr>
