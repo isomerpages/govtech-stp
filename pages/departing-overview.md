@@ -25,6 +25,6 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
 
-### Travel to Hong Kong SAR under the Air Travel Bubble (ATB) Arrangement 
+### Travel to Hong Kong under the Air Travel Bubble (ATB) Arrangement 
 
 Under the Air Travel Bubble arrangement agreed between the Governments of Hong Kong and Singapore, eligible persons can travel from Singapore to Hong Kong on designated ATB flights and be exempted from the quarantine requirement upon arrival in Hong Kong, if they meet certain requirements laid out by the Hong Kong Government. For more information, please refer [here](/hongkong/requirements-and-process).
