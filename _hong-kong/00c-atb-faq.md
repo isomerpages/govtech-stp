@@ -59,17 +59,21 @@ Clinics and testing centres will not administer the test unless the traveller ha
 
 Yes. An individual application will have to be submitted for each traveller.
 
-#### 6. Upon receiving the approval, how can I make an appointment for my pre-departure COVID-19 PCR test?
+#### 6. How much does a COVID-19 PCR test cost in Singapore?
+
+Please check with the listed [clinics and testing centres](https://go.gov.sg/covid19pcrtestproviders) for the ocst of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
+
+#### 7. Upon receiving the approval, how can I make an appointment for my pre-departure COVID-19 PCR test?
 
 Upon receiving approval, please contact one of the designated clinics or testing centres to make an appointment. The list of designated clinics and testing centres can be found [here](https://go.gov.sg/covid19pcrtestproviders).
 
 You are advised to make an appointment with the designated clinic or testing centre of your choice as early as possible to secure an appropriate time slot for your pre-departure COVID-19 PCR test.
 
-#### 7. When should I make my appointment for my pre-departure COVID-19 PCR test?
+#### 8. When should I make my appointment for my pre-departure COVID-19 PCR test?
 
 Please ensure that your COVID-19 PCR test is taken within 72 hours before departing from Singapore and **no later than 48 hours before** your departure flight. If the test is taken at the clinic or testing centre less than 38-40 hours before your departure flight, you may not receive your results in time for your flight.
 
-#### 8. What information will I need to book an appointment for the COVID-19 PCR test?
+#### 9. What information will I need to book an appointment for the COVID-19 PCR test?
 
 Please have the following information on hand when you are making an appointment with the clinic or testing centre:
 - Reference number of approval letter to take the pre-departure COVID-19 PCR test
@@ -80,7 +84,7 @@ Please have the following information on hand when you are making an appointment
 - Contact number
 - Email address
 
-#### 9. What documents should I bring for my appointment?
+#### 10. What documents should I bring for my appointment?
 
 Please bring the following:
 - NRIC (for Singapore Citizens or Permanent Residents only)
@@ -89,29 +93,29 @@ Please bring the following:
 - Electronic or physical copy of your approval letter to take the pre-departure COVID-19 PCR test
 - Electronic or physical copy of your departure flight ticket to Hong Kong
 
-#### 10. When can I expect to get my PCR test results?
+#### 11. When can I expect to get my PCR test results?
 
 You will receive your COVID-19 PCR test results and certificate no later than 3 hours before your flight departure time, if the test was taken at the clinic or testing centre no later than 38-40 hours before your departure flight. Please let the clinic or testing centre know if you need to receive the test result certificate by a certain date and time.
 
 The clinic or testing centre will send the test result certificate to your email address. Please ensure that you have an electronic or physical copy of your test result certificate before heading to the airport for your departure flight.
 
-#### 11. Do children need to undergo a COVID-19 PCR test in Singapore before departing for Hong Kong?
+#### 12. Do children need to undergo a COVID-19 PCR test in Singapore before departing for Hong Kong?
 
 Yes. All visitors, regardless of age, are required to undergo a pre-departure COVID-19 PCR test in Singapore within 72 hours before the scheduled departure time of their designated flight from Singapore to Hong Kong.
 
 ### **Post-Arrival COVID-19 Testing in Hong Kong**
 
-#### 12. Do I need to undergo COVID-19 testing upon arrival in Hong Kong?
+#### 13. Do I need to undergo COVID-19 testing upon arrival in Hong Kong?
 
 Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong International Airport. Upon obtaining a negative test result, travellers are exempted from the quarantine requirement and may leave the airport.
 
-#### 13. How do I book and pay for the post-arrival COVID-19 PCR test at Hong Kong International Airport?
+#### 14. How do I book and pay for the post-arrival COVID-19 PCR test at Hong Kong International Airport?
 
 Travellers can register and pay for the post-arrival COVID-19 PCR test via a web-based application [here](http://hkia.prenetics.com/).  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
 
 ### **Returning to Singapore**
 
-#### 14. I have travelled to Hong Kong under the ATB arrangement and intend to return to Singapore after my stay. What are the requirements I need to meet to return to Singapore?
+#### 15. I have travelled to Hong Kong under the ATB arrangement and intend to return to Singapore after my stay. What are the requirements I need to meet to return to Singapore?
 
 Short-term visitors are required to apply for an Air Travel Pass to seek entry into Singapore. Please refer [here](/hongkong/atp/requirements-and-process) for information on the Air Travel Pass. Note that short-term visitors are only allowed to travel to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB.
 
@@ -160,17 +164,17 @@ For those travelling from Hong Kong to Singapore on a non-designated flight, the
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
-#### 15. What happens if Singapore Citizens / Permanent Residents / Long-Term Pass holders are unable to get a flight ticket on a flight designated by the Singapore Government and Hong Kong Government under the ATB to travel to Singapore?
+#### 16. What happens if Singapore Citizens / Permanent Residents / Long-Term Pass holders are unable to get a flight ticket on a flight designated by the Singapore Government and Hong Kong Government under the ATB to travel to Singapore?
 
 If you are unable to get a flight ticket on a designated ATB flight, you may still take a non-designated flight to travel to Singapore. However, you will be required to serve a 7-day SHN at your own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
 
-#### 16. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong, but I am travelling on a non-designated flight from Hong Kong to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
+#### 17. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong, but I am travelling on a non-designated flight from Hong Kong to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
 
 Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taking a non-designated flight to Singapore are not required to take a pre-departure COVID-19 PCR test in Hong Kong before departing for Singapore. They must serve a serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
 
 ### **Others**
 
-#### 17. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
+#### 18. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
 
 You must present to the airline staff the following:
  <ol style="margin-top:0px; list-style-type: disc;">
