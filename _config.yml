@@ -55,7 +55,7 @@ collections:
     output: true
   returning-singapore-citizen-and-pr:
     output: true
-  health-control-measures:
+  border-health-control-measures:
     output: true
   work-pass-holder-lane:
     output: true
