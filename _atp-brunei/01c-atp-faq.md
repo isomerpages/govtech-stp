@@ -103,7 +103,7 @@ The accommodation must be non-residential and must be an individual room with an
 
 Visitors are required to bear the cost of their accommodation in Singapore.
 
-Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
+Visitors may refer to the Singapore Hotel Association (SHA) [website](https://sha.org.sg/) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
 
 #### 19. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 
