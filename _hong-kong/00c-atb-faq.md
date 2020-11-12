@@ -167,7 +167,7 @@ If you are unable to get a flight ticket on a designated ATB flight, you may sti
 
 #### 17. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong, but I am travelling on a non-designated flight from Hong Kong to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
 
-Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taking a non-designated flight to Singapore are not required to take a pre-departure COVID-19 PCR test in Hong Kong before departing for Singapore. They must serve a serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
+Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taking a non-designated flight to Singapore are not required to take a pre-departure COVID-19 PCR test in Hong Kong before departing for Singapore. They must serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
 
 #### 18. Do I still need to take another COVID-19 PCR test in Hong Kong before I return to Singapore, if the COVID-19 PCR test I had taken in Hong Kong upon arrival is within 72 hours before my departure from Hong Kong?
 
