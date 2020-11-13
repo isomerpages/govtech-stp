@@ -282,9 +282,13 @@ If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of 
 
 #### 48. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
 
-With effect from 20 Oct 2020, Singapore Citizens (SCs) / Permanent Residents (PRs) / Long-Term Pass Holders (LTPHs) who departed Singapore on or after 27 Mar 2020 will be able to access regular financing arrangements to pay for their medical bills, if they develop onset of symptoms for COVID-19 within 14 days of their return to Singapore. For SC/PRs, this includes Government subsidies and MediShield Life/Integrated Shield Plan coverage. For LTPHs, this refers to any usual financing arrangements they may have, such as private insurance. 
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-For avoidance of doubt, please refer to the table below on how charges for returning Singapore Citizens/PRs and LTPHs will apply.
+For Singapore Citizens/PRs and LTPHs, charges for COVID-19 treatment will apply if symptoms develop within the first 14 days of their return to Singapore. They will be able to tap on regular healthcare financing arrangements for their medical bills – SCs/PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills, while LTPHs may tap on their usual financing arrangements (e.g., private insurance), where applicable.
+
+If they develop onset of symptoms of COVID-19 after 14 days of their return to Singapore, the costs of their medical treatment will be borne by the Government. 
+
+For avoidance of doubt, please refer to the table below on how charges for returning Singapore Citizens/PRs and LTPHs will apply.  
 
 <table>
 <thead>
@@ -297,18 +301,18 @@ For avoidance of doubt, please refer to the table below on how charges for retur
 <tbody>
   <tr>
     <td>1</td>
-    <td>Left SG before 27 March 2020 and returning by 31 Dec 2020</td>
-    <td>Waive</td>
+    <td>Left SG before 27 March 2020</td>
+    <td>Government currently bears the costs of COVID-19 treatment. <br/> With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
-  <tr>
+ <!-- <tr>
     <td>2</td>
     <td>Left SG before 27 March 2020 and returning from 1 Jan 2021 onwards</td>
     <td>Eligible for subsidies + Medishield + Medisave</td>
-  </tr>
+  </tr>-->
   <tr>
-    <td>3</td>
+    <td>2</td>
     <td>Left SG after 27 March 2020 </td>
-    <td>Eligible for subsidies + Medishield + Medisave</td>
+    <td>Chargeable. <br/> SC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
 </tbody>
 </table>
