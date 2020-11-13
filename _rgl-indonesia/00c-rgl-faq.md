@@ -32,7 +32,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do applicants in Indonesia apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit? 
 
-Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. For applications for entry into Singapore from 9 Nov 2020 onwards, the host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup> 
+Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup> 
 
 The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of traveller's planned departure. 
 
@@ -44,7 +44,7 @@ When the SafeTravel Pass application is approved, an approval letter will be iss
  
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eservices.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
  
-Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>, for applications for entry into Singapore from 9 Nov 2020 onwards. For applications for entry into Singapore between 2 to 8 Nov 2020, please submit the supporting documents via this link: <https://go.gov.sg/idnrgl2>. 
+Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>, for applications for entry into Singapore from 9 Nov 2020 onwards.
  
 The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 Polymerase Chain Reaction (PCR) test (in English), a  valid return air/ferry ticket or proof of other transport arrangements to depart from Singapore for pre-boarding checks at the airlines/ferries check-in counter and immigration counter. Otherwise, he/she may be refused boarding. Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Singapore.
 
@@ -93,8 +93,6 @@ The host company or government agency should be responsible for monitoring and r
 #### 14.  Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application? 
 
 For applications for entry into Singapore from 9 Nov 2020, the sponsoring company/agency or traveller may make enquires about the status of their application(s) at <https://eservices.ica.gov.sg/STO>. 
-
-For applications for entry into Singapore from 2 to 8 Nov 2020. Please email <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 Please prepare the traveller’s identification details and intended date of entry into Singapore as declared in the STP application.  
  
