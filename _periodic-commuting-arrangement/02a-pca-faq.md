@@ -302,7 +302,7 @@ For avoidance of doubt, please refer to the table below on how charges for retur
   <tr>
     <td>1</td>
     <td>Left SG before 27 March 2020</td>
-    <td>Government currently bears the costs of COVID-19 treatment. <br/><br/> With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
+    <td>Government currently bears the costs of COVID-19 treatment. <br/>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
  <!-- <tr>
     <td>2</td>
@@ -312,7 +312,7 @@ For avoidance of doubt, please refer to the table below on how charges for retur
   <tr>
     <td>2</td>
     <td>Left SG after 27 March 2020 </td>
-    <td>Chargeable. <br/><br/> SC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.</td>
+    <td>Chargeable. <br/>SC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
 </tbody>
 </table>
