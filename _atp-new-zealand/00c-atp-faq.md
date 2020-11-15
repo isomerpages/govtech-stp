@@ -129,7 +129,7 @@ Children aged 12 or younger in that calendar year are not required to undergo a 
 
 #### 22. How much is the post-arrival COVID-19 PCR test at the airport?
 
-The cost of the COVID-19 PCR test is S$300 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
+The cost of the COVID-19 PCR test is S$196 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
 
 To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
