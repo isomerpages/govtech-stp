@@ -52,6 +52,8 @@ All travellers to Hong Kong under the travel bubble arrangement will need to app
 
 Clinics and testing centres will not administer the test unless the traveller has obtained approval to take a COVID-19 PCR test.
 
+*[Important Note: Travellers, whose designated ATB flights are on or after 4 December 2020, do **not** need to apply for approval to take their pre-departure COVID-19 PCR test in Singapore. They may directly proceed to make an appointment with the designated clinic or testing centre of their choice to take the test.]*
+
 #### 5. I am travelling with family members. Do I have to submit a separate application for each family member?
 
 Yes. An individual application will have to be submitted for each traveller.
