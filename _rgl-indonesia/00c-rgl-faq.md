@@ -151,7 +151,7 @@ Travellers are required to produce the following documents at the airlines/ferri
  
 Travellers arriving in Singapore by plane are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and prepayment can be made via the online portal at https://safetravel.changiairport.com. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport. 
  
-Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the ferry terminal.  
+Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$145 (inclusive of GST) for the on-arrival swab test at the ferry terminal.  
  
 #### 24.  What if I test positive for COVID-19 in Singapore? 
 
