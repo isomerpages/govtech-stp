@@ -246,6 +246,11 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
     </tr>    
   </thead>
   <tbody>
+     <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Brunei Darussalam</td>
+       <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to Brunei Darussalam from Singapore do <u>not<u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
+    </tr>
+    
   </tbody>
   </table>
   
