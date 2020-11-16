@@ -12,7 +12,7 @@ The requirements and processes outlined on this page apply to the following Reci
 
 ### **Eligibility**
 
-Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass under the -Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who:
+Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass under the Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who:
 - Holds a valid passport of any nationality/citizenship;
 - Is a resident of either Singapore or the RGL partner country/region;
 - Is seeking to make a single-entry, short-term essential travel; and
