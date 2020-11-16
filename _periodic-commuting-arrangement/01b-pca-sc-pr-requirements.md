@@ -43,11 +43,11 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
          </ol>   
        </li>
           </ol>   
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
     </td>
   </tr>
   </tbody>
   </table>
+ <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
   
 ### 3. Pre-Departure to Singapore
 
