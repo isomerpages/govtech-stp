@@ -93,6 +93,8 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (e.g. motorbikes),* private buses ferrying only Malaysian passengers serving SHN**; or</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars.***</li>
          </ol> 
+    </td>
+ </tr>
      <table>
       <thead>
   <tr>
