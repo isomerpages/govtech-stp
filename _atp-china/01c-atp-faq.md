@@ -175,7 +175,7 @@ Please ensure that you keep your mobile device's Bluetooth function turned on so
 
 #### 29. What happens if visitors do not have a mobile devices to download the TraceTogether app?
 
-All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices is are compatible with the TraceTogether app.
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app.
 
 Visitors from Mainland China, whose mobile devices are incompatible with the TraceTogether app, can rent one from the Changi Recommends [here](https://www.changirecommends.com/reservation_form.aspx). Please have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
 
@@ -262,7 +262,7 @@ When checking in at the departure airport, visitors must present the following t
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 28 and 29.
+For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 29 and 30.
 
 #### 39. Can visitors use the ATP to transit/transfer through Singapore?
 
