@@ -65,30 +65,30 @@ Travellers must be hosted by a Singapore-based company or government agency in S
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">RGL Travellers From</th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Documents to be presented</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL Travellers From</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Documents to be presented</th>
     </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Brunei Darussalam</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Bruneian citizens should present a copy of passport biodata page or yellow ID card. Non-Bruneian citizens who are resident in Brunei should present a copy of Bruneian Long-Term Pass. Accepted Bruneian ID cards include (i) purple ID cards issued to Permanent Residents who are holders of foreign passports and Certificates of Identity, and (ii) green ID cards issued to foreigners residing more than 3 months in Brunei (e.g. holder of employment pass, dependent pass, student pass and visit pass). </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Bruneian citizens should present a copy of passport biodata page or yellow ID card. Non-Bruneian citizens who are resident in Brunei should present a copy of Bruneian Long-Term Pass. Accepted Bruneian ID cards include (i) purple ID cards issued to Permanent Residents who are holders of foreign passports and Certificates of Identity, and (ii) green ID cards issued to foreigners residing more than 3 months in Brunei (e.g. holder of employment pass, dependent pass, student pass and visit pass). </td>
       </tr>
    <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Mainland China</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Chinese citizens should present a copy of passport biodata page. Foreign residents in China should present a copy of China residence permit.</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chinese citizens should present a copy of passport biodata page. Foreign residents in China should present a copy of China residence permit.</td>
       </tr>
             <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Japan </td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Japanese citizens should present a copy of passport biodata page. Foreign residents in Japan should present a copy of Residence Card. </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japanese citizens should present a copy of passport biodata page. Foreign residents in Japan should present a copy of Residence Card. </td>
       </tr>
             <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Malaysia</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Malaysian citizens should present a copy of passport biodata page. Foreign residents in Malaysia should present a copy of Malaysian Long-Term Pass.</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysian citizens should present a copy of passport biodata page. Foreign residents in Malaysia should present a copy of Malaysian Long-Term Pass.</td>
       </tr>
         <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Republic of Korea</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Korean citizens should present a copy of passport biodata page. Foreign residents in the Republic of Korea should present a copy of Certificate of Alien Registration.</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Korean citizens should present a copy of passport biodata page. Foreign residents in the Republic of Korea should present a copy of Certificate of Alien Registration.</td>
       </tr>
     </tbody>
   </table>
@@ -151,39 +151,39 @@ Travellers must remain in and have not travelled out of the country for at least
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">RGL Travellers From</th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">List of COVID-19 Testing Facilities</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL Travellers From</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">List of COVID-19 Testing Facilities</th>
     </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Brunei Darussalam</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Please refer to the list of authorised health centres designated by the Government of Brunei Darussalam: 
-        <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman">
-          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Sports Complex Swab Centre RIPAS Hospital</li>
-          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">SARI Centre, Suri Seri Begawan Hospital</li>
-          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Berakas Health Centre</li>
-          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">PAPHMWHB Gadong Health Centre</li>
-          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Pengkalan Batu Health Centre</li>
-          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Seria Health Centre</li>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of authorised health centres designated by the Government of Brunei Darussalam: 
+        <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman">
+          <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Sports Complex Swab Centre RIPAS Hospital</li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">SARI Centre, Suri Seri Begawan Hospital</li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Berakas Health Centre</li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">PAPHMWHB Gadong Health Centre</li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Pengkalan Batu Health Centre</li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Seria Health Centre</li>
           </ol>
         </td>
       </tr>
    <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Mainland China</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw/www.gov.cn/mhsjcjgcx/index.html).</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw/www.gov.cn/mhsjcjgcx/index.html).</td>
       </tr>
             <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Japan </td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Please refer to the list of medical institutions designated by the government of Japan <a href="https://www.meti.go.jp/policy/investment/tecot/top.html">here</a>. [Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email <a href="fastlane@sn.mofa.go.jp">fastlane@sn.mofa.go.jp</a> to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the government of Japan <a href="https://www.meti.go.jp/policy/investment/tecot/top.html">here</a>. [Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email <a href="fastlane@sn.mofa.go.jp">fastlane@sn.mofa.go.jp</a> to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.</td>
       </tr>
             <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Malaysia</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Please refer to the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19">here</a>. </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19">here</a>. </td>
       </tr>
         <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Republic of Korea</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support <a href="www.btsc.or.kr">www.btsc.or.kr</a> / (+82) 1566-8110 / <a href="btsc@kita.net">btsc@kita.net</a>) for further details on the medical institutes. [Note: Website is in Korean; enquiries in English can be made via phone or email.]</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support <a href="www.btsc.or.kr">www.btsc.or.kr</a> / (+82) 1566-8110 / <a href="btsc@kita.net">btsc@kita.net</a>) for further details on the medical institutes. [Note: Website is in Korean; enquiries in English can be made via phone or email.]</td>
       </tr>
     </tbody>
   </table>
@@ -241,39 +241,39 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">RGL Travellers From</th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Measures on Return</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL Travellers From</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Measures on Return</th>
     </tr>    
   </thead>
   <tbody>
      <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Brunei Darussalam</td>
-       <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to Brunei Darussalam from Singapore do <u>not</u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
+       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do <u>not</u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
     </tr>
     <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Mainland China</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to China from Singapore will be subjected to a pre-departure COVID-19 PCR test and an IgM antibody serology test within 48 hours of return to China. Please refer to the guidelines by the Chinese government here. Travellers can make an appointment in advance at selected clinics in Singapore for a pre-departure COVID-19 PCR test and an IgM antibody serology test to be taken at the traveller’s cost and obtain certificates of negative result. 
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to China from Singapore will be subjected to a pre-departure COVID-19 PCR test and an IgM antibody serology test within 48 hours of return to China. Please refer to the guidelines by the Chinese government here. Travellers can make an appointment in advance at selected clinics in Singapore for a pre-departure COVID-19 PCR test and an IgM antibody serology test to be taken at the traveller’s cost and obtain certificates of negative result. 
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
          </tr>
      <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Japan</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They may be exempted from this requirement if they are resident in Japan and (i) the duration of stay in Singapore does not exceed 7 days and they undergo a COVID-19 test at their own expense upon their return to Japan, or (ii) if they agree to serve a 14-day quarantine upon their return to Japan. 
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They may be exempted from this requirement if they are resident in Japan and (i) the duration of stay in Singapore does not exceed 7 days and they undergo a COVID-19 test at their own expense upon their return to Japan, or (ii) if they agree to serve a 14-day quarantine upon their return to Japan. 
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">
 Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the listed clinics at this moment.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Upon their return to Japan, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Japanese government. This may include a 14-day quarantine or COVID-19 PCR test. RGL travellers returning to Japan may wish to check on the specific measures to be taken at the Ministry of Foreign Affairs of Japan Website <a href="https://www.mofa.go.jp/ca/cp/page25e_000337.html">here</a>.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Upon their return to Japan, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Japanese government. This may include a 14-day quarantine or COVID-19 PCR test. RGL travellers returning to Japan may wish to check on the specific measures to be taken at the Ministry of Foreign Affairs of Japan Website <a href="https://www.mofa.go.jp/ca/cp/page25e_000337.html">here</a>.</p>
               </td>
       </tr>
     <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Malaysia</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. </td>
       </tr>
      <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Republic of Korea</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">RGL travellers returning to the Republic of Korea do <u>not</u> need to be tested again in Singapore. Upon their return to the Republic of Korea, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine or COVID-19 PCR test.
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">As the specific requirements may change over time, travellers returning to the Republic of Korea should verify the latest requirements with the Government of the Republic of Korea.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Foreign nationals/citizens with long-term residency in the Republic of Korea are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click here for more information on the re-entry permit. The re-entry permit can be applied in-person at the Immigration Offices across the Republic of Korea or on the Korea Immigration Service Website here.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Travellers are required to submit a medical certificate issued by a medical institution within 2 days before boarding the return flight to the Republic of Korea to the immigration office upon arrival at Incheon Airport.</p>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers returning to the Republic of Korea do <u>not</u> need to be tested again in Singapore. Upon their return to the Republic of Korea, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine or COVID-19 PCR test.
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">As the specific requirements may change over time, travellers returning to the Republic of Korea should verify the latest requirements with the Government of the Republic of Korea.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Foreign nationals/citizens with long-term residency in the Republic of Korea are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click here for more information on the re-entry permit. The re-entry permit can be applied in-person at the Immigration Offices across the Republic of Korea or on the Korea Immigration Service Website here.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Travellers are required to submit a medical certificate issued by a medical institution within 2 days before boarding the return flight to the Republic of Korea to the immigration office upon arrival at Incheon Airport.</p>
           </td>
       </tr>
   </tbody>
