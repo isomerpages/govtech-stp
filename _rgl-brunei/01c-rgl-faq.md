@@ -151,7 +151,7 @@ Travellers are required to produce the following documents to the airline for pr
 
 Travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For RGL travellers to qualify for exemption from the Stay-Home Notice (SHN) requirement, the travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance.
 
-Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
+Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$196 (inclusive of GST) for the test upon arrival at the airport.
 
 #### 23. What if I test positive for COVID-19 in Singapore?
 
@@ -237,7 +237,7 @@ The RGL is only for short-term essential business and official travel, and not f
 
 For those seeking to enter Brunei for purposes other than essential business and official travel, such as long-term work and study, the host company/agency/institution should apply for the Entry Travel Pass on behalf of the traveller and arrange for the appropriate visas.
 
-#### 6. Who can I contact for more information on the arrangements in Brunei, e.g., accommodation and transport?
+#### 6. Who can I contact for more information on the arrangements in Brunei, e.g. accommodation and transport?
 
 The traveller may contact his/her host company or government agency in Brunei to make the necessary arrangements in Brunei.
 
@@ -253,7 +253,6 @@ The traveller will need to adhere to the clinic’s cut-off timings for the pre-
 
 The traveller must present at the clinic, a copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei under the Singapore-Brunei RGL, before the swab test can be administered.
 
-The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure COVID-19 RT-PCR test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
