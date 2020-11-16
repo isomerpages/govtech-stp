@@ -31,7 +31,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit RGL application</b></td>
-    <td style="font-size:16px;">Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="/apply-now">here</a>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days excluding the day of application. Applications submitted less than 7 days from the intended date of entry will not be processed.
+    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="/apply-now">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Application sponsors should:</p>
 <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have on hand the following details as part of the submission:
@@ -50,10 +50,26 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of contact person in company or agency (e.g. name, mobile number, email address); and </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of 14-day itinerary in Singapore </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the traveller of the relevant RGL terms and conditions as part of the application, found <a href="/rgl/terms-and-conditions">here</a>. </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Inform the traveller of the relevant RGL terms and conditions as part of the application, found <a href="/rgl/terms-and-conditions">here</a>.</b> </li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
  </td>
+  </tr>
+  <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;">At least 7 days before planned entry date into in Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+  <tr>
+    <td rowspan="2" style="font-size:16px;"><b>Travellers to Submit Visa Application (if Required)</b></td>
+    <td style="font-size:16px;"><b><u>Prospective SafeTravel Pass-RGL travellers who are visa-required passport holders</u> should apply through the usual channels for a visa to travel to Singapore.</b>
+      <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and </li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who are existing visa holders can check their status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid). </li>
+         </ol> 
+    </td>
   </tr>
   </tbody>
 </table>
