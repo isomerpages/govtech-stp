@@ -87,7 +87,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test. </b>
+    <td style="font-size:16px;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.
  </td>
   </tr>
   <thead>
@@ -148,7 +148,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air ticket.</li>
          </ol> 
-     <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
+     <p style="font-size:16px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>
   </tr>
     <tr>
@@ -163,7 +163,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
          </ol> 
-     <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
+     <p style="font-size:16px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>
   </tr>
   </tbody>
@@ -218,7 +218,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;"><b>Retention of TraceTogether data</b></td>
-    <td style="font-size:16px;"><b>RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.</b>
+    <td style="font-size:16px;">RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.
  </td>
   </tr>
   <tr>
