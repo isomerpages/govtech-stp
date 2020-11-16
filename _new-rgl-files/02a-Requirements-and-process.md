@@ -1,5 +1,5 @@
 ---
-title: Requirements and Process
+title: RGL Requirements and Process
 permalink: /rgl/requirements-and-process
 ---
 
