@@ -421,3 +421,12 @@ You will receive your PCR test results and memo at least three hours before your
 
 The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
 
+-----
+
+<sup>1</sup>Travellers are allowed to use private hire cars or taxis, but not public transport.
+
+<sup>2</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+
+<sup>3</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a recommended QR code scanner app [here](https://www.safeentry.gov.sg/individual_help).
+
+
