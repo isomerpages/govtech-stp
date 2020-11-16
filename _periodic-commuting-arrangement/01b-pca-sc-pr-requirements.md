@@ -43,11 +43,11 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
          </ol>   
        </li>
           </ol>   
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
     </td>
   </tr>
   </tbody>
   </table>
+ <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
   
 ### 3. Pre-Departure to Singapore
 
@@ -92,18 +92,12 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Singapore-registered vehicles only);</li>
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Private buses ferrying only Malaysian passengers serving SHN**; or</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street)<li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street)</li>
          </ol> 
-     <table>
-      <thead>
-       <tr>
-        <td style="font-size:18px;">** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.</td>
-       </tr>
-       </tbody>
-     </table>
-         </td>
- </tr>
-  </tbody>
+    </td>
+ <p style="font-size:18px; margin-top:10px; margin-bottom:0px;">** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.</p>
+      </tr>
+         </tbody>
  </table>
 
 ### 5. Post-Arrival
