@@ -94,16 +94,12 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Private buses ferrying only Malaysian passengers serving SHN**; or</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street)<li>
          </ol> 
-     <table>
-      <thead>
+    </td>
+      </tr>
        <tr>
         <td style="font-size:18px;">** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.</td>
        </tr>
-       </tbody>
-     </table>
-         </td>
- </tr>
-  </tbody>
+         </tbody>
  </table>
 
 ### 5. Post-Arrival
