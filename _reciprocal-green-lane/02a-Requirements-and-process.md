@@ -152,18 +152,20 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     </td>
   </tr>
     <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Immigration clearance</b></td>
-   <td style="font-size:16px;">An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel Pass-RGL holder and be able to produce the following:
+    <td rowspan="1" style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
+   <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. Use of public transport is not allowed.
+    </td>
+  </tr>
+  <tr>
+    <td rowspan="1" style="font-size:16px;"><b>TraceTogether App/Token</b></td>
+   <td style="font-size:16px;">The local host* is required to:
       <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air ticket.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
          </ol> 
      <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>
   </tr>
-
   </tbody>
 </table>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><i>*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.</i></p>
