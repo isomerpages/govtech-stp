@@ -140,7 +140,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Immigration clearance</b></td>
+    <td rowspan="1" style="font-size:16px;"><b>Immigration clearance</b></td>
    <td style="font-size:16px;">An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel Pass-RGL holder and be able to produce the following:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
