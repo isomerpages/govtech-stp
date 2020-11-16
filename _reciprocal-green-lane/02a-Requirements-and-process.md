@@ -152,12 +152,12 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     </td>
   </tr>
    <tr>
-    <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td rowspan="2" style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
    <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. Use of public transport is not allowed.
     </td>
   </tr>
   <tr>
-    <td style="font-size:16px;"><b>TraceTogether App/Token</b></td>
+    <td rowspan="2" style="font-size:16px;"><b>TraceTogether App/Token</b></td>
     <td style="font-size:16px;">The local host* is required to:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
