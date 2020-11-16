@@ -28,10 +28,8 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have on hand the following details as part of the submission:
 <ol style="margin-top:0px; list-style-type:lower-alpha;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s passport details, FIN number (if applicable) and Long-Term Pass expiry date (if applicable);
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s intended date of entry into Singapore;
-</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s passport details, FIN number (if applicable) and Long-Term Pass expiry date (if applicable);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s intended date of entry into Singapore;</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Address(es) of Traveller’s accommodation for his/her:
 <ol style="margin-top:0px; list-style-type:lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of COVID-19 Polymerase Chain Reaction test results), and</li>
@@ -42,8 +40,8 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 </li>
 </ol>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the traveller of the relevant RGL terms and conditions as part of the application, found here. 
+   <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
 </li>
- <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
 </ol>
  </td>
   </tr>
