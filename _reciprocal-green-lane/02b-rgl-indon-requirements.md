@@ -39,9 +39,10 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 </ol>
 </li>
 </ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of contact person in company or agency (e.g. name, mobile number, email address); and </li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of contact person in company or agency (e.g. name, mobile number, email address); and </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of itinerary for the duration of stay in Singapore.  </li>
+</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">2)	Inform the traveller of the relevant RGL terms and conditions as part of the application, found here. </li>
 </ol>
  </td>
   </tr>
