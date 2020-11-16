@@ -3,10 +3,10 @@ title: RGL Indonesia FAQ
 permalink: /rgl/indon/faq
 ---
 
-## **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS** 
+### **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS** 
 The following FAQs apply to Indonesian citizens seeking single-entry, short-term essential business and official travel into Singapore under RGL (Indonesia).
 
-### **Application Requirements**
+#### **Application Requirements**
 
 #### 1. What is the SafeTravel Pass under the RGL arrangement for travel to Singapore?
 
