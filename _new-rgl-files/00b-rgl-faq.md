@@ -35,7 +35,7 @@ Long-Term Pass holders returning to Singapore after a visit to the counterpart c
 
 #### 3. What are other SafeTravel Passes which I can consider for travel to Singapore for the purpose of work or study?
 
-Travellers from Malaysia seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website [here](https://safetravel.ica.gov.sg/) for more information on the Periodic Commuting Arrangement (PCA). 
+Travellers from Malaysia seeking to enter Singapore for long-term work may wish to visit the SafeTravel Website [here](/pca/overview) for more information on the Periodic Commuting Arrangement (PCA). 
 
 Travellers can also visit the Ministry of Manpower Website [here](http://www.mom.gov.sg/passes-and-permits) for more information on other schemes.
 
@@ -43,7 +43,7 @@ Travellers seeking to enter Singapore for study may wish to visit the ICA Websit
 
 #### 4.	Are there restrictions on my travel route to Singapore under the RGL arrangement?
 
-RGL travellers can travel to Singapore on a non-stop flight from selected airports,[1] in the counterpart countries/regions, as well as by land via the Causeway and Second Link, in the case of Malaysia. 
+RGL travellers can travel to Singapore on a non-stop flight from selected airports,<sup>[1]</sup> in the counterpart countries/regions, as well as by land via the Causeway and Second Link, in the case of Malaysia. 
 
 For travel by land, travellers may drive into Singapore in their own vehicle (including Malaysia-registered vehicles), subject to  LTA’s prevailing  regulations and fees stated on the One Motoring website [here](http://onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html).  
 
