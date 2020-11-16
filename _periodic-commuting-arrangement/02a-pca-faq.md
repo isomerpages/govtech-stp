@@ -73,7 +73,7 @@ No. Please apply for an [entry approval with MOM](http://www.mom.gov.sg/covid-19
 
 #### 14. Do I need to pay to apply for PCA on behalf of my employees?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 5 (or Day 11, in the case of Sabah) of stay at the SDF.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$150 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 5 (or Day 11, in the case of Sabah) of stay at the SDF.
 
 <!--Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
