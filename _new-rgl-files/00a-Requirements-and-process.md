@@ -183,7 +183,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;"><b>Self-isolation</b></td>
-    <td style="font-size:16px;"> All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
+    <td style="font-size:16px;"> All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;"><br>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
   <thead>
