@@ -37,7 +37,7 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of COVID-19 Polymerase Chain Reaction test results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Maximum 10-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
-</li>
+
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of contact person in company or agency (e.g. name, mobile number, email address); and </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of itinerary for the duration of stay in Singapore.  </li>
 </li>
