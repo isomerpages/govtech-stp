@@ -1,5 +1,5 @@
 ---
-title: RGL Indonesia Requirements and Process
+title: RGL Indonesia FAQ
 permalink: /rgl/indon/faq
 ---
 
