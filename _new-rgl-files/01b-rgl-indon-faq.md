@@ -116,9 +116,9 @@ All RGL travellers are required to produce the following documents for pre-board
 
 Travellers will be directed to take COVID-19 PCR tests upon arrival at Changi Airport or Tanah Merah Ferry Terminal in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport and ferry terminal. Please approach the ground staff upon arrival for assistance. 
 
-Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test. Pre-registration and pre-payment can be made on Changi Airport’s Website [here](https://safetravel.changiairport.com/). Travellers should expect to pay around S$300 (inclusive of GST) for the COVID-19 PCR test.
+Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test. Pre-registration and pre-payment can be made on Changi Airport’s Website [here](https://safetravel.changiairport.com/). Travellers should expect to pay around S$196 (inclusive of GST) for the COVID-19 PCR test.
 
-Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the ferry terminal.
+Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$150 (inclusive of GST) for the test upon arrival at the ferry terminal.
 
 #### 21. What if I test positive for COVID-19 in Singapore? 
 
