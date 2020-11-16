@@ -253,9 +253,29 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Mainland China</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to China from Singapore will be subjected to a pre-departure COVID-19 PCR test and an IgM antibody serology test within 48 hours of return to China. Please refer to the guidelines by the Chinese government here. Travellers can make an appointment in advance at selected clinics in Singapore for a pre-departure COVID-19 PCR test and an IgM antibody serology test to be taken at the traveller’s cost and obtain certificates of negative result. 
-<p style="margin-top:0px; margin-bottom:0px; font-size:20px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
-<p style="margin-top:0px; margin-bottom:0px; font-size:20px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
          </tr>
+     <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Japan</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They may be exempted from this requirement if they are resident in Japan and (i) the duration of stay in Singapore does not exceed 7 days and they undergo a COVID-19 test at their own expense upon their return to Japan, or (ii) if they agree to serve a 14-day quarantine upon their return to Japan. 
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">
+Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the listed clinics at this moment.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Upon their return to Japan, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Japanese government. This may include a 14-day quarantine or COVID-19 PCR test. RGL travellers returning to Japan may wish to check on the specific measures to be taken at the Ministry of Foreign Affairs of Japan Website <a href="https://www.mofa.go.jp/ca/cp/page25e_000337.html">here</a>.</p>
+              </td>
+      </tr>
+    <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Malaysia</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. </td>
+      </tr>
+     <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">Republic of Korea</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">RGL travellers returning to the Republic of Korea do <u>not</u> need to be tested again in Singapore. Upon their return to the Republic of Korea, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine or COVID-19 PCR test.
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">As the specific requirements may change over time, travellers returning to the Republic of Korea should verify the latest requirements with the Government of the Republic of Korea.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Foreign nationals/citizens with long-term residency in the Republic of Korea are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click here for more information on the re-entry permit. The re-entry permit can be applied in-person at the Immigration Offices across the Republic of Korea or on the Korea Immigration Service Website here.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Travellers are required to submit a medical certificate issued by a medical institution within 2 days before boarding the return flight to the Republic of Korea to the immigration office upon arrival at Incheon Airport.</p>
+          </td>
+      </tr>
   </tbody>
   </table>
   
