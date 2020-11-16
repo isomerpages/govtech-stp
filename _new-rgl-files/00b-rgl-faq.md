@@ -238,6 +238,20 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 
 #### 24. Do I need to be tested again in Singapore before I return to my origin country/region of departure? Do I need to be quarantined or tested again upon return to my country/region of departure? 
 
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">RGL Travellers From</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Measures on Return</th>
+    </tr>    
+  </thead>
+  <tbody>
+  </tbody>
+  </table>
+  
+
+
+
 
 As the specific requirements may change over time, RGL travelers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
