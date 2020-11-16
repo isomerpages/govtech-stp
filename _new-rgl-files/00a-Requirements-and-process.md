@@ -10,7 +10,7 @@ The requirements and processes outlined on this page apply to the following Reci
 - Malaysia; and
 - Republic of Korea.
 
-### **Eligibility**
+### 1. Eligibility
 
 Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass under the Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who:
 - Holds a valid passport of any nationality/citizenship;
