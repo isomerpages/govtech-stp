@@ -152,7 +152,7 @@ RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon a
 
 Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
 
-Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the land checkpoints.
+Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$145 (inclusive of GST) for the on-arrival swab test at the land checkpoints.
 
 #### 23. What if I test positive for COVID-19 in Singapore?
 
