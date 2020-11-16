@@ -82,7 +82,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Non-Residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result1 (the accommodation2 must be non-residential and an individual room with an attached toilet); and</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result<sup>1</sup> (the accommodation<sup>2</sup> must be non-residential and an individual room with an attached toilet); and</li>
      </ol>
     </td>
  </tr>
