@@ -73,3 +73,58 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   </tr>
   </tbody>
 </table>
+
+
+### 3. Pre-departure to Singapore 
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;">3 calendar days before planned date of entry into Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test. </b>
+ </td>
+  </tr>
+  <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;">Up to 3 calendar days before planned date of entry into Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+  <tr>
+    <td rowspan="2" style="font-size:16px;"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
+    <td style="font-size:16px;">Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. Otherwise, they should:
+      <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
+         </ol> 
+    </td>
+  </tr>
+   <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;">Day of Departure to Singapore</th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+  <tr>
+    <td rowspan="2" style="font-size:16px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
+    <td style="font-size:16px;">Approved RGL travellers must produce the following documents when leaving for Singapore:
+      <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus etc. ticket).</li>
+         </ol> 
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>     
+    </td>
+  </tr>
+  </tbody>
+</table>
