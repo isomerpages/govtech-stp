@@ -179,7 +179,7 @@ For more information regarding Indonesia’s policy for travellers that are retu
 
 #### 26. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at selected clinics found [here](https://safetravel.ica.gov.sg/pre-departure-test) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at selected clinics found [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab at the traveller’s cost. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility. 
 
@@ -241,6 +241,134 @@ If you have taken your COVID-19 PCR test at least 48 hours before your scheduled
 
 The clinic will email the results to your email address. You are responsible for  printing the memo and bringing it overseas with you. 
 
+
+<div id="annexa"></div>
+
+## **ANNEX A**
+
+### **Pre-Departure COVID-19 Tests in Indonesia**
+
+Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_list_26102020.pdf).
+
+<div id="annexb"></div>
+
+## **ANNEX B**
+
+### **Point-of-Contact for Travel to Indonesia under RGL**
+
+The hotline for matters pertaining to travel to Indonesia under the RGL is 0855 746 746 27 (calling from Indonesia)/ (+62) 855 746 746 27 (calling from Singapore).
+
+The Embassy of the Republic of Indonesia in Singapore can be contacted at (+65) 6737 7422 (telephone) or <singapura.kbri@kemlu.go.id> (email).
+
+<div id="annexc"></div>
+
+## **ANNEX C**
+
+### **Pre-Departure COVID-19 Tests in Singapore**
+
+#### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+
+Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
+
+Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+
+#### 2. When is the latest time/date I have to be at the clinic, based on my departure flight timing?
+
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
+
+You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below: 
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Flight departure time </th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Latest Cut-off Test Timing </th>
+    </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">12.00 am to 9:29 am </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00 am two calendar days before flight</td>
+      </tr>
+        <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">9:30am to 3:29pm</td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">4:00pm two calendar days before flight </td>
+      </tr>
+        <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">3:30pm to 11.59pm</td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00am the day before flight</td>
+      </tr>
+  </tbody>
+  </table>
+
+*Example: If a traveller’s departure flight time is 12pm on 30 September and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 27 September onwards, until the cut-off timing.*
+
+The latest the traveller can present himself/herself is by 4pm on 28 September.
+
+#### 3. How can I make an appointment for pre-departure PCR testing?
+
+For RGL travel to Indonesia, the pre-departure PCR test must be done within 72 hours prior to departure.
+
+Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
+
+#### 4. How far in advance should I make an appointment for the pre-departure PCR test?
+
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application are approved.
+
+Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
+
+If you do not make a prior appointment, please note that:
+
+There is no guarantee that there will be a test slot for you; and
+- You may not get your results in time for your flight to qualify for RGL arrangements.
+- Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight.
+
+#### 5.	What details will I need to book an appointment for the COVID-19 PCR test? 
+
+Please have the following information on hand when making an appointment for your test:
+- Approval email to take the pre-departure PCR swab test
+- Identity card number or passport number
+- Departure flight timing
+- Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
+- Address in Singapore 
+- Contact number 
+- Email address 
+
+#### 6.	What documents should I bring for my appointment?
+
+Please bring the following documents for your appointment:
+- Identity card or passport 
+- Letter issued by the relevant authorities confirming that you have been granted approval by the relevant authorities in the destination country/region to travel to under the RGL arrangement
+- Softcopy booking reference showing your departure flight timing
+
+### **Testing**
+
+#### 7.	What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
+
+Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight.  
+
+Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
+
+#### 8.	What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
+
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
+
+### **Test Results**
+
+#### 9.	When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your flight. 
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+
+
+-----
+
+<sup>1</sup>Travellers are allowed to use private hire cars or taxis, but not public transport.
+
+<sup>2</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+
+<sup>3</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a recommended QR code scanner app here.
 
 
 
