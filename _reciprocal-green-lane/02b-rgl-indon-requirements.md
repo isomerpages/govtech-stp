@@ -43,25 +43,11 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 </li>
 </ol>
  
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">2)	Inform the traveller of the relevant RGL terms and conditions as part of the application, found here. </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the traveller of the relevant RGL terms and conditions as part of the application, found here. 
+  <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
+</li>
 </ol>
  </td>
-  </tr>
-  <thead>
-  <tr>
-    <th colspan="2" style="font-size:16px;">At least 7 days before planned entry date into in Singapore</th>
-    <!-- <th>Scenarios</th>
-   <th>Charging Policy for C+ treatment</th> -->
-  </tr>
-</thead>
-  <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Travellers to Submit Visa Application (if Required)</b></td>
-    <td style="font-size:16px;"><b><u>Prospective SafeTravel Pass-RGL travellers who are visa-required passport holders</u> should apply through the usual channels for a visa to travel to Singapore.</b>
-      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who are existing visa holders can check their status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid). </li>
-         </ol> 
-    </td>
   </tr>
   </tbody>
 </table>
@@ -79,7 +65,7 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test. </b>
+    <td style="font-size:16px;"><b>Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure to Singapore at any of the healthcare institutions in Indonesia listed here . To travel to Singapore, travellers should obtain a negative COVID-19 test result, in English, stating the time and date which the test was administered. </b>
  </td>
   </tr>
   <thead>
@@ -94,7 +80,7 @@ Business or official travellers that are Indonesian citizens and are seeking to 
     <td style="font-size:16px;">Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>if arriving in Singapore by plane. Travellers arriving in Singapore by ferry will pay for the post-arrival COVD-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal.</li>
          </ol> 
     </td>
   </tr>
@@ -112,9 +98,9 @@ Business or official travellers that are Indonesian citizens and are seeking to 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus etc. ticket).</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket).</li>
          </ol> 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>     
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding. </p>     
     </td>
   </tr>
   </tbody>
@@ -137,15 +123,16 @@ Business or official travellers that are Indonesian citizens and are seeking to 
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air ticket.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative COVID-19 test, taken within 72 hours before departure for Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket).
+</li>
          </ol> 
-     <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
+     <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. </p>
     </td>
   </tr>
     <tr>
     <td rowspan="1" style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-   <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. Use of public transport is not allowed.
+   <td style="font-size:16px;">Per the prevailing health measures, the local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation. Use of public transport is not allowed.
     </td>
   </tr>
   <tr>
@@ -155,7 +142,6 @@ Business or official travellers that are Indonesian citizens and are seeking to 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
          </ol> 
-     <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>
   </tr>
   </tbody>
@@ -188,10 +174,26 @@ Business or official travellers that are Indonesian citizens and are seeking to 
   <tr>
     <td rowspan="1" style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:16px;"><b>All approved RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the 14-day itinerary submitted for the duration of stay; and
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the prevailing public health measures and itinerary submitted for the duration of stay in Singapore; andCommute using private hire cars/taxis, or cohorted company transport (commuting via public transport is prohibited).
 </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Commute using private hire cars/taxis, or cohorted company transport (commuting via public transport is prohibited).
-       </li></ol>
+   </ol>
+ </td>
+  </tr>
+    <thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;">Up to 3 calendar days before planned date of return to Indonesia </th>
+    <!-- <th>Scenarios</th>
+   <th>Charging Policy for C+ treatment</th> -->
+  </tr>
+</thead>
+  <tr>
+    <td rowspan="1" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:16px;"><b><u>The information provided in this section is for reference only. Prior to making travel arrangements, travelers are advised to consult the latest entry and other requirements issued by the Indonesian authorities.</u></b> 
+      <p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><b>RGL travellers who are returning to Indonesia from Singapore are required to undergo a PCR test 72 hours before departure from Singapore.</b></p>
+      <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Please refer here for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the clinics in the attached list .</p>
+      <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities.  </p>
+       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19 (via a PCR test) at designated quarantine facilities in Indonesia. </p>
+  
  </td>
   </tr>
   </tbody>
