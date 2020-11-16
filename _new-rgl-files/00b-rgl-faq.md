@@ -3,9 +3,9 @@ title: RGL Frequently Asked Questions
 permalink: /rgl/faq
 ---
 
-## **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS**
+### **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS**
 
-## **RESIDENTS IN COUNTERPART COUNTRIES/REGIONS**
+### **RESIDENTS IN COUNTERPART COUNTRIES/REGIONS**
 
 The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:
 - Brunei Darussalam;
@@ -92,7 +92,8 @@ Travellers must be hosted by a Singapore-based company or government agency in S
       </tr>
     </tbody>
   </table>
-        <p style="margin-top:0px; margin-bottom:0px; font-size:20px;">The applicant from the host company or government agency will also be required to submit a copy of the traveller’s 14-day controlled itinerary, which is limited to travel between places of business and accommodation, with limited contact with the community.</p>
+
+The applicant from the host company or government agency will also be required to submit a copy of the traveller’s 14-day controlled itinerary, which is limited to travel between places of business and accommodation, with limited contact with the community.
         
 #### 8.	What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
 
@@ -195,7 +196,7 @@ RGL travellers by air and land are required to produce the following documents t
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.
 - Proof of transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 
-### **Testing Arrangements Upon Arrival in Singapore **
+### **Testing Arrangements Upon Arrival in Singapore**
 
 #### 19. What tests will I be subject to upon arrival in Singapore? Where will the tests be administered? What are the payment modes accepted for the tests?
 
@@ -277,9 +278,10 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
       </tr>
     </tbody>
   </table>
-        <p style="margin-top:0px; margin-bottom:0px; font-size:20px;">As the specific requirements may change over time, RGL travelers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.</p>
+  
+As the specific requirements may change over time, RGL travelers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
-## **RGL Pre-Departure COVID-19 PCR and Serology Tests in Singapore**
+### **RGL Pre-Departure COVID-19 PCR and Serology Tests in Singapore**
 
 ### **Booking an appointment**
 
