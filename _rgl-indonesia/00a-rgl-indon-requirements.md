@@ -40,11 +40,10 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 </li>
 </ol>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the traveller of the relevant RGL terms and conditions as part of the application, found here. 
-  
 </li>
   </li>
-   <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
 </ol>
+   <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
  </td>
   </tr>
   </tbody>
