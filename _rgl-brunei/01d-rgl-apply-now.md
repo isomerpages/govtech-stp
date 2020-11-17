@@ -1,7 +1,4 @@
----
-title: Apply Now
-permalink: /brunei/rgl/apply-now
----
+
 
 <table>
   <thead>
