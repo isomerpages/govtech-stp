@@ -188,8 +188,7 @@ When the SafeTravel Pass-RGL application is approved, an approval letter will be
       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><b>RGL travellers who are returning to Indonesia from Singapore are required to undergo a PCR test 72 hours before departure from Singapore.</b></p>
       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Please refer here for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the clinics in the attached list .</p>
       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities.  </p>
-       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19 (via a PCR test) at designated quarantine facilities in Indonesia. </p>
-  
+       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19 (via a PCR test) at designated quarantine facilities in Indonesia. </p>
  </td>
   </tr>
   </tbody>
@@ -214,9 +213,9 @@ When the SafeTravel Pass-RGL application is approved, an approval letter will be
   <tr>
     <td rowspan="1" style="font-size:16px;"><b>Reporting of Positive COVID-19 Test</b></td>
     <td style="font-size:16px;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">i)	Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
 </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">ii)	Inform the Singapore host, who would then upload the TraceTogether data to MOH.
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the Singapore host, who would then upload the TraceTogether data to MOH.
        </li></ol>
  </td>
   </tr>
