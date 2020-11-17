@@ -250,7 +250,8 @@ The clinic will email the results to your email address. You are responsible for
 
 ### **Pre-Departure COVID-19 Tests in Indonesia**
 
-Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_list_26102020.pdf).
+Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
+).
 
 <div id="annexb"></div>
 
