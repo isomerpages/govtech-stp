@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /brunei/rgl/faq
----
+
 
 <div id="faq-top"></div>
 
