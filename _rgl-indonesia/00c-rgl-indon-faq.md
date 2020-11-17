@@ -84,6 +84,7 @@ Safe Travel Pass applications may be rejected for reasons including, but not lim
 - Inadequate justifications for reason of travel
 - Failure to adhere to the controlled itinerary submitted for the duration of stay in Singapore (maximum 10 days)
 - Invalid proof of citizenship
+- Quota limit reached for intended week of entry.
 
 #### 16. How can I apply for a visa (if required)?
 
@@ -196,7 +197,7 @@ Please call the clinic and book a test slot that ensures that you have sufficien
 
 #### 29. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. Please choose a test slot in accordance with the timeline detailed in Q26 so as to ensure you have sufficient time to meet the RGL requirements. 
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. Please choose a test slot in accordance with the timeline detailed in Q27 so as to ensure you have sufficient time to meet the RGL requirements. 
 
 If you do not make a prior appointment, please note that: 
 
