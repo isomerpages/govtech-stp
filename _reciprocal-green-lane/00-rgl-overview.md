@@ -23,7 +23,7 @@ Please click on the relevant links below for more information about the RGL
   <tr>
     <th>Country/Region</th>
     <th>Requirements & Process</th>
-    <th>RGL Terms & Conditions</th>
+    <!--<th>RGL Terms & Conditions</th>-->
     <th>Frequently Asked Questions</th>
   </tr>
 </thead>
