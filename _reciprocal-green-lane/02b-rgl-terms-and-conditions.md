@@ -3,6 +3,10 @@ title: RGL Terms & Conditions
 permalink: /rgl/terms-and-conditions
 ---
 
+## **Reciprocal Green Lane(RGL) Terms & Conditions**
+
+Please click on the relevant links below for more information about the RGL
+
 <table>
 <thead>
   <tr>
