@@ -71,7 +71,7 @@ PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">h
     <td style="font-size:18px;"><b>Submission of Health Declarations andInstallation of Mandatory Mobile Applications
 </b></td>
     <td style="font-size:18px;"><b>Approved PCA travellers should monitor their health and avoid
-travelling if feeling unwell. If the traveller is healthy, he/she should: </b><br/><br/>
+travelling if feeling unwell. If the traveller is healthy, he/she should: </b><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.homer.gov.sg" target="_blank"> Homer</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
@@ -87,7 +87,7 @@ travelling if feeling unwell. If the traveller is healthy, he/she should: </b><b
     <td style="font-size:18px;"><b>Immigration clearance by Malaysia
 </b></td>
      <td style="font-size:18px;">Approved PCA travellers must be able to produce the following
-documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/><br/>
+documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
@@ -110,7 +110,7 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
     <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:18px;"><b>Immediately after clearing the checkpoint, approved PCA
 travellers must make their way directly to their SHN accommodation. </b>
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p> <br/>
+     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
@@ -118,8 +118,7 @@ travellers must make their way directly to their SHN accommodation. </b>
          </ol> 
      <br/>
       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
-       <br/>
-     ** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
+<br/>** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
      </p>
          </td>
  </tr>
@@ -143,15 +142,13 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 7-day SHN, whichever later</li>
          </ol>   
-    <br/>
      <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.</p>
-     <br/>
-     *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.
+    <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">  *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.</p>
     </td>
   </tr>
  <tr>
     <td style="font-size:18px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:18px;"><b>Application sponsors must: </b><br/><br/>
+    <td style="font-size:18px;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
@@ -166,7 +163,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
   </thead> 
   <tr>
     <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/><br/>
+    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the necessary mobile applications (e.g. TraceTogether).</li>
