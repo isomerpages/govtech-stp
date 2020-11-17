@@ -1,7 +1,4 @@
----
-title: Apply Now
-permalink: /malaysia/rgl/apply-now
----
+
 
 <table>
   <thead>
