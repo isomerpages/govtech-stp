@@ -1,7 +1,4 @@
----
-title: Apply Now
-permalink: /china/rgl/apply-now
----
+
 
 <table>
   <thead>
