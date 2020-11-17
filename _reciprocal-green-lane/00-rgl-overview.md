@@ -59,7 +59,7 @@ Please click on the relevant links below for more information about the RGL
     <td style="text-align:center;"><a href="/malaysia/rgl/faq">Click here</a></td>
   </tr>-->
     <tr>
-    <td style="border-bottom:1px solid #D8D8D8; "><b>Brunei Darussalam,Mainland China,Japan,Malaysia</b></td>
+      <td style="border-bottom:1px solid #D8D8D8; "><b>Brunei Darussalam,Mainland China<sup>2</sup>,Japan,Malaysia</b></td>
        <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/rgl/requirements-and-process">Click here</a></td>
        <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/rgl/terms-and-conditions">Click here</a></td>
     <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/rgl/faq">Click here</a></td>
