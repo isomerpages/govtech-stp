@@ -1,6 +1,7 @@
 ---
 title: RGL Terms & Conditions
 permalink: /rgl/terms-and-conditions
+third_nav_title: RGL Visitors to Singapore
 ---
 
 ## **Reciprocal Green Lane(RGL) Terms & Conditions**
