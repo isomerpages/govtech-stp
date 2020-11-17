@@ -183,7 +183,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</span>
 
 <span style="font-size:16px;">
-<sup>2</sup>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential. Please note that visitors must also stay in individual rooms with an attached toilet.</span>
+<sup>2</sup>Visitors may refer to the Singapore Tourism Board (STB)<a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. Please note that visitors must stay in individual rooms with an attached toilet.</span>
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
 <sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
