@@ -1,7 +1,3 @@
----
-title: Apply Now
-permalink: /rok/rgl/apply-now
----
 
 <table>
   <thead>
