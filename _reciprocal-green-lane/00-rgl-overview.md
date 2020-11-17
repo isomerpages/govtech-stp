@@ -42,9 +42,9 @@ Please click on the relevant links below for more information about the RGL
   </tr>
   <tr>
     <td ><b>Indonesia</b></td>
-       <td style=" text-align:left;"><a href="/indonesia/rgl/requirements-and-process">Click here</a></td>
+       <td style=" text-align:center;"><a href="/indonesia/rgl/requirements-and-process">Click here</a></td>
       <td style=" text-align:center;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>
-    <td style=" text-align:left;"><a href="/indonesia/rgl/faq">Click here</a></td>
+    <td style=" text-align:center;"><a href="/indonesia/rgl/faq">Click here</a></td>
   </tr>
   <tr>
     <td ><b>Japan</b></td>
