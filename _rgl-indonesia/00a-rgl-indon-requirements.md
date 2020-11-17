@@ -1,6 +1,6 @@
 ---
-title: RGL Indonesia Requirements and Process
-permalink: /rgl/indon/requirements-and-process
+title: Requirements & Process
+permalink: /indonesia/rgl/requirements-and-process
 ---
 
 ### 1. Eligibility
