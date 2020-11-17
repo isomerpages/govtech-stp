@@ -86,7 +86,7 @@ Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian c
 
 Travellers who are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
-#### 11. How can I further extend my Visit Pass / stay when i am in Singapore, if neccessary? 
+#### 11. How can I further extend my Visit Pass / stay when I am in Singapore, if neccessary? 
 
 All applications for extension of Visit Pass must be submitted online using ICA's [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits. 
 
