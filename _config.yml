@@ -63,7 +63,7 @@ collections:
     output: true
   singaporean-familial-ties-lane:
     output: true
-  new-rgl-files:
+  rgl:
     output: true
 
     
