@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /rok/rgl/faq
----
+
 
 <div id="faq-top"></div>
 
