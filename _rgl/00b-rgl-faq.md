@@ -1,9 +1,7 @@
 ---
-title: RGL Frequently Asked Questions
+title: Frequently Asked Questions (FAQS) on RGL 
 permalink: /rgl/faq
 ---
-
-### **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS**
 
 ### **RESIDENTS IN COUNTERPART COUNTRIES/REGIONS**
 
