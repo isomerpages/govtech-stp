@@ -266,9 +266,10 @@ There are currently no requirements for RGL travellers to take another COVID-19 
 A traveller should have on hand the declaration letter from the receiving enterprise or invitation letter from the receiving German authority, the authorisation letter from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
 
 ### **Health Measures in Germany **
+
 #### 13.	Do I need to be quarantined upon arrival in Germany?
 
-As Singapore is currently listed as a non-risk area  by the relevant German authorities, travellers who have been to Singapore for the past 14 days and are eligible to enter Germany need not be quarantined or subjected to a COVID-19 test upon entering Germany.
+As Singapore is currently listed as a non-risk area<sup>7</sup> by the relevant German authorities, travellers who have been to Singapore for the past 14 days and are eligible to enter Germany need not be quarantined or subjected to a COVID-19 test upon entering Germany.
 
 #### 14.	What other health measures will I be subject to in Germany? What would qualify as a “controlled itinerary” in Germany?
 
@@ -306,3 +307,6 @@ The term “host” refers to the company or government agency that receives the
 
 <sup>5</sup>According to definition on the website of the German Federal Ministry of Health, a risk area is any country or region outside of Germany for which, at the time of entry into Germany, an increased risk of infection with COVID-19 exists. 
 
+<sup>6</sup>According to definition on the website of the German Federal Ministry of Health, a risk area is any country or region outside of Germany for which, at the time of entry into Germany, an increased risk of infection with COVID-19 exists. 
+
+<sup>7</sup>According to definition on the website of the German Federal Ministry of Health, a risk area is any country or region outside of Germany for which, at the time of entry into Germany, an increased risk of infection with COVID-19 exists. 
