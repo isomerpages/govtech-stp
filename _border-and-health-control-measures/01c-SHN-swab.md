@@ -67,4 +67,31 @@ Depending on the traveller’s scheme of travel, he/she may be required to take 
 
 Travellers serving their SHN will receive the details of their test appointments at their registered mobile numbers. The swab results will be conveyed within 1 to 4 days. All travellers, including those tested on arrival, must remain in self-isolation until a negative COVID-19 test result is conveyed.
 
+Estimated PCR test costs can be found in the table below: 
 
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab test type</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Approximate cost (Inclusive of GST)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Airport</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$196</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Land Checkpoints</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Ferry Terminals</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab Test during SHN</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$125</td>
+    </tr>
+  </tbody>
+  </table>
