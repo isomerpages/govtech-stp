@@ -14,7 +14,7 @@ All other travellers must apply to be eligible for a pre-departure COVID-19 PCR 
 
 The cost of the PCR test is to be borne by the applicant.
 
-**From 1 December 2020, Government approval is no longerrequired for pre-departure COVID-19 PCR tests.** 
+**From 1 December 2020, Government approval is no longer required for pre-departure COVID-19 PCR tests.** 
 
 ### **Application Criteria**
 
