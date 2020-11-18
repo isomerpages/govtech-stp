@@ -55,7 +55,7 @@ permalink: /germany/rgl/terms-and-conditions
 
 9. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-10. 10.	The traveller must undertake a COVID-19 PCR test from medical accredited medical institutions designated by the German government, at his/her own cost, within 72 hours prior to departure from Germany, and obtain the negative results prior to departure. The health certificate should be in English or accompanied by an English translation and clearly state the time and date the PCR test was taken.
+10. The traveller must undertake a COVID-19 PCR test from medical accredited medical institutions designated by the German government, at his/her own cost, within 72 hours prior to departure from Germany, and obtain the negative results prior to departure. The health certificate should be in English or accompanied by an English translation and clearly state the time and date the PCR test was taken.
 
 11. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel; 
@@ -120,5 +120,5 @@ permalink: /germany/rgl/terms-and-conditions
 
 -----
 
-<sup>1</sup>The Terms and Conditions in this document are specific to the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel Between Singapore and Indonesia. Green Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions. 
+<sup>1</sup>The Terms and Conditions in this document are specific to the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel Between Singapore and Germany. Green Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions. 
 
