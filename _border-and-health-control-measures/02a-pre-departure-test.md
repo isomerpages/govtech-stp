@@ -1,6 +1,6 @@
 ---
 title: Pre-Departure Test Application
-permalink: /pre-departure-test
+permalink: health/pre-departure-test
 third_nav_title: Departing from Singapore
 ---
 
