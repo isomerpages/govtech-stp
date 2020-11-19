@@ -222,11 +222,7 @@ Persons of all nationalities who are legally resident in Singapore (i.e., Singap
 
 #### 2.	How do Singapore residents apply to travel to Germany under the RGL?
 
-Residents in Singapore seeking to travel to Germany for short-term, essential travel for business or official purposes via the RGL will need to have the receiving enterprise or government agency in Germany fill out a specific form of declaration stating that the business trip is necessary from an economic perspective, and a planned itinerary.
-
-Residents in Singapore seeking to travel to Germany for official travel will have the receiving authority in Germany issue a respective invitation letter, and a planned itinerary. With these documents, travellers will have to be issued an authorisation letter by the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller. This authorisation letter will have to be presented to the Singapore immigration authorities upon the RGL travellers’ return to Singapore for identification purposes.   
-
-In addition, travellers requiring visa will need to apply for visas for travel to Germany through the usual channels by presenting the above-mentioned relevant documents. These documents will also need to be presented to the German border control authorities when entering Germany.
+For further information on the application procedure, please visit:<https://www.sgc.org.sg/>
 
 #### 3.	What visas will I be eligible for under the green lane, and what is the visa duration in Germany?
 
