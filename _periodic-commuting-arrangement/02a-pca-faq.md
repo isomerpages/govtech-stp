@@ -17,11 +17,11 @@ The quota is imposed to stagger and manage the volume of daily entrants via our 
 
 #### 3. I am a Malaysian citizen and a Singapore PR. I am currently in Malaysia, but I want to return to Singapore. Do I need the PCA to return to Singapore?
 
-If you are a Singapore PR with a valid Re-Entry Permit, you may return to Singapore without the need for any entry approval. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [safetravel.ica.gov.sg/health](/health) for details and updates on border control measures as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
+If you are a Singapore PR with a valid Re-Entry Permit, you may return to Singapore without the need for any entry approval. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer [here](/health) for details and updates on border control measures, as well as [here](/health/shn) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
 
 #### 4. I am a Singapore Citizen who is currently in Malaysia. Do I need the PCA to return to Singapore?
 
-For Singapore citizens, you <u><b>do not</b></u> need any entry approval to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [safetravel.ica.gov.sg/health](/health) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
+For Singapore citizens, you <u><b>do not</b></u> need any entry approval to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer [here](/health) for details and updates on border control measures, as well as [here](/health/shn) for more information about SHN issued by ICA.
 
 #### 5. I am a Malaysian citizen and a Singapore PR. I am currently in Singapore but I want to return to Malaysia. Do I need the PCA to return to Malaysia?
 
@@ -156,7 +156,7 @@ Please refer to <https://mom.gov.sg/feedbackshn> if you are encountering technic
 
 #### 29. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
 
-Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).
+Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. <!--You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).-->
 
 #### 30. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
