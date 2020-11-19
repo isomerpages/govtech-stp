@@ -32,7 +32,7 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
-Travellers from Fiji, Finland, Japan, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from Fiji, Finland, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
 - Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
