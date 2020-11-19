@@ -230,11 +230,11 @@ In addition, travellers requiring visa will need to apply for visas for travel t
 
 #### 3.	What visas will I be eligible for under the green lane, and what is the visa duration in Germany?
 
-The duration and type of the visas issued by Germany will be assessed on a case-by-case basis by the German authorities.
+For further information, please visit: <https://singapur.diplo.de/sg-en/service/05-VisaEinreise>
 
 #### 4.	How can I further extend my visa duration when I am in Germany, if necessary?
 
-The traveller or his/her host company or government agency should contact the Embassy of Germany in Singapore for more information.
+The traveller or his/her host company or government agency should refer to information on website of the Embassy of Germany in Singapore [here](https://singapur.diplo.de/sg-en/service/05-VisaEinreise) for more information. 
 
 #### 5.	Is the RGL meant for long-term work and study? 
 
@@ -242,57 +242,55 @@ The RGL is only for short-term essential business and official travel, and not f
 
 Those seeking to enter Germany for purposes other than essential business and official travel should contact the Embassy of Germany in Singapore for further details.
 
-#### 6.	Where in Germany may I travel to? What are the approvals which I will need to obtain to do so?
+#### 6. Where in Germany may I travel to? What are the approvals which I will need to obtain to do so?
 
 RGL travellers to Germany must abide by the pre-submitted controlled itinerary at all times. 
 
-#### 7.	Who can I contact for more information on the arrangements in Germany, e.g., accommodation and transport?
-
-The traveller may contact his/her host company or government agency in Germany to make the necessary arrangements in Germany.
-
 ### **Testing Arrangements**
 
-#### 8.	Am I required to take a COVID-19 test in Singapore before departing to Germany? 
+#### 7. Am I required to take a COVID-19 test in Singapore before departing to Germany? 
 
 There are currently no requirements by relevant German authorities for RGL travellers from Singapore to Germany to take COVID-19 pre-departure tests. 
 
-#### 9.	What tests will I be subject to upon arrival in Germany?
+#### 8. What tests will I be subject to upon arrival in Germany?
 
 As Singapore is currently listed as a non-risk area  by the relevant German authorities, travellers who have been to Singapore for the past 14 days and are eligible to enter Germany need not be quarantined or subjected to a COVID-19 test upon entering Germany.
 
-#### 10.	What if I test positive for COVID-19 in Germany?
+#### 9. What if I test positive for COVID-19 in Germany?
 
 If tested positive for COVID-19 in Germany, the traveller will be accorded the necessary medical treatment by the local government at his/her cost.
 
-#### 11.	Do I have to take a COVID-19 test in Germany before I return to Singapore? 
+#### 10. Do I have to take a COVID-19 test in Germany before I return to Singapore? 
 
 There are currently no requirements for RGL travellers to take another COVID-19 test in Germany before returning to Singapore. 
 
-#### 12.	What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Germany?
+### **Pre-Departure in Singapore**
 
-A traveller should have on hand the declaration letter from the receiving enterprise or invitation letter from the receiving German authority, the authorisation letter from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
+#### 11. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Germany?
+
+A traveller should have on hand the  SGS Travel Pass from the receiving enterprise or invitation letter from the receiving German authority, the SGS Travel Pass from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
 
 ### **Health Measures in Germany**
 
-#### 13.	Do I need to be quarantined upon arrival in Germany?
+#### 12. Do I need to be quarantined upon arrival in Germany?
 
 As Singapore is currently listed as a non-risk area<sup>7</sup> by the relevant German authorities, travellers who have been to Singapore for the past 14 days and are eligible to enter Germany need not be quarantined or subjected to a COVID-19 test upon entering Germany.
 
-#### 14.	What other health measures will I be subject to in Germany? What would qualify as a “controlled itinerary” in Germany?
+#### 13. What other health measures will I be subject to in Germany? What would qualify as a “controlled itinerary” in Germany?
 
-The traveller must comply with applicable legal provisions regarding COVID-19 testing and quarantine in Germany, if any.
+The traveller must comply with applicable legal provisions regarding COVID-19 testing and quarantine in Germany, if any. 
 
-The host company or government agency will supervise the itinerary of and provide private transport for the traveller for the 14 days upon his/her arrival in Germany.
+The host company or government agency will supervise the controlled itinerary of the traveller for the 14 days upon his/her arrival in Germany.
 
 ### **Returning to Singapore**
 
-#### 15.	What health measures will I be subject to upon returning to Singapore after my RGL travel? 
+#### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](https://www.ica.gov.sg/covid-19/shn)
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-You may also wish to refer [here](https://www.ica.gov.sg/covid-19) for the latest details and updates on border control measures as well as [here](https://www.ica.gov.sg/covid-19/ArrivalSG) for information on the prevailing health measures for inbound travellers.
+You may also wish to refer [here](/health) for the latest details and updates on border control measures as well as [here](https://www.ica.gov.sg/covid-19/ArrivalSG) for information on the prevailing health measures for inbound travellers.
 
-#### 16.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany?
+#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders who travel under the RGL arrangement and comply with the terms of the RGL arrangement will not be required to pay for their medical bills at public hospitals should they test positive for COVID-19 upon return from Germany, for as long as the Singapore Government is paying COVID-19 patient bills for Singapore Citizens, Permanent Residents and Long-Term Pass holders.
 
