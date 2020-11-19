@@ -222,7 +222,7 @@ Persons of all nationalities who are legally resident in Singapore (i.e., Singap
 
 #### 2.	How do Singapore residents apply to travel to Germany under the RGL?
 
-For further information on the application procedure, please visit:<https://www.sgc.org.sg/>
+For further information on the application procedure, please visit: <https://www.sgc.org.sg/>
 
 #### 3.	What visas will I be eligible for under the green lane, and what is the visa duration in Germany?
 
