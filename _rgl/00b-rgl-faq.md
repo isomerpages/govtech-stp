@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQS) on RGL 
+title: Frequently Asked Questions on RGL 
 permalink: /rgl/faq
 ---
 
