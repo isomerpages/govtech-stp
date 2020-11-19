@@ -207,7 +207,7 @@ As the specific requirements may change over time, the returnee should verify th
 
 ## **Application Process for Residents in Singapore**
 
-### **Application **
+### **Application**
 
 #### 1.	Who is eligible to apply to travel to Germany under the RGL?
 
@@ -243,7 +243,7 @@ RGL travellers to Germany must abide by the pre-submitted controlled itinerary a
 
 The traveller may contact his/her host company or government agency in Germany to make the necessary arrangements in Germany.
 
-### **Testing Arrangements **
+### **Testing Arrangements**
 
 #### 8.	Am I required to take a COVID-19 test in Singapore before departing to Germany? 
 
@@ -265,7 +265,7 @@ There are currently no requirements for RGL travellers to take another COVID-19 
 
 A traveller should have on hand the declaration letter from the receiving enterprise or invitation letter from the receiving German authority, the authorisation letter from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
 
-### **Health Measures in Germany **
+### **Health Measures in Germany**
 
 #### 13.	Do I need to be quarantined upon arrival in Germany?
 
