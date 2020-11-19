@@ -3,6 +3,11 @@ title: Frequently Asked Questions
 permalink: /germany/rgl/faq
 ---
 
+- [Application Process for Travellers in Germany](#faq-residents-germany)
+- [Application Process for Travellers in Singapore](#faq-residents-singapore)
+
+<div id="faq-residents-germany"></div>
+
 ## **Application Process for Travellers in Germany**
 
 ### **Application**
@@ -204,6 +209,8 @@ There are currently no requirements set by relevant German authorities for RGL r
 Returnees may wish to check on the specific measures taken upon entry into Germany at the website of the Federal Foreign Office of Germany, as well as the website of the Federal Land wherein you reside or will be staying for detailed information. 
 
 As the specific requirements may change over time, the returnee should verify the latest requirements with relevant German authorities.  
+
+<div id="faq-residents-singapore"></div>
 
 ## **Application Process for Residents in Singapore**
 
