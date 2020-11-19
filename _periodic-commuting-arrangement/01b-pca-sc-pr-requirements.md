@@ -45,24 +45,24 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
           </ol>   
     </td>
   </tr>
+ <thead>
+  <tr>
+    <th colspan="2" style="font-size:18px;"><b><u>Atleast 1 calendar day</u></b> before planned date of entry into Singapore</th>
+  </tr>
+  </thead>
+ <tr>
+    <td style="font-size:18px;"><b>Pre-departure payment for post-arrival COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:18px;">Travellers with successful applications will be issued a payment link to pre-pay for their swab test, before the SHN waiver approval letter is issued.
+    </td>
+  </tr>
   </tbody>
   </table>
  <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
   
-### 3. Pre-Departure to Singapore
+  
+### 3. Arrival in Singapore
 
 <table>
-<thead>
-  <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>1 calendar day</u></b> before planned date of entry into Singapore</th>
-  </tr>
-  </thead>
-<tbody>
-   <tr>
-    <td style="font-size:18px;"><b>Pre-departure payment for post-arrival COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:18px;">Successful travellers (i.e. those waived of their SHN) should <b>make an online payment for the swab-on-arrival COVID-19 Polymerase Chain Reaction (PCR) test <a href="">here.</a></b>
-    </td>
-  </tr>
  <thead>
   <tr>
     <th colspan="2" style="font-size:18px;"><b><u>Day of Departure</u></b> to Singapore</th>
@@ -73,12 +73,6 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
     <td style="font-size:18px;">Approved PCA travellers should travel to Singapore on the date, time and land checkpoint selected during the application.
     </td>
   </tr>
-   </tbody>
-  </table>
-  
-### 4. Arrival in Singapore
-
-<table>
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px;"><b><u>Day of entry</u></b> into Singapore</th>
@@ -100,7 +94,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
          </tbody>
  </table>
 
-### 5. Post-Arrival
+### 4. Post-Arrival
  
  <table>
 <thead>
