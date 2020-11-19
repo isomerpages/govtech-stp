@@ -57,7 +57,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
   </tr>
   </tbody>
   </table>
- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="">here</a>.</i> </p> 
+ <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>Applicants that fail to obtain the waiver of SHN will be subjected to the prevailing health measures. More details <a href="/health/shn">here</a>.</i> </p> 
   
   
 ### 3. Arrival in Singapore
@@ -116,7 +116,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
  <tr>
     <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:18px;"><b>All travellers must</b> abide by prevailing local public health requirements and safe distancing measures.
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">If the traveller tests positive for COVID-19, he/she will be given medical treatment accordingly. Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. They should furnish the relevant supporting documents to indicate their status as a PCA traveller. Click <a href="">here</a> for more details. </p>
+     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">If the traveller tests positive for COVID-19, he/she will be given medical treatment accordingly. Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. They should furnish the relevant supporting documents to indicate their status as a PCA traveller. </p>
     </td>
   </tr>
  </tbody>
