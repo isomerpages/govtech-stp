@@ -97,7 +97,7 @@ The Singapore Government takes a serious view of non-compliance with SafeTravel 
 
 #### 11. What visa will I be eligible for under the RGL, and what is the duration of stay that I will be eligible for in Singapore? 
 
-Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa,  he need not reapply for a new visa. The applicant can check his visa status through https://eservices.ica.gov.sg/esvclandingpage/save.
+Every application for a visa, including the type of visa granted, will be considered on its own merits and subject to approval. If the applicant already has an existing valid visa,  he need not reapply for a new visa. The applicant can check his visa status through [here](https://eservices.ica.gov.sg/esvclandingpage/save).
 
 Those who did not require a visa prior to the COVID-19 pandemic will not need to apply for a visa for RGL travel. Please refer [here](https://www.ica.gov.sg/enteranddeparting/before/entryvisa/) for more information on Singapore’s visa requirements.  
 
@@ -276,8 +276,6 @@ As Singapore is currently listed as a non-risk area<sup>7</sup> by the relevant 
 The traveller must comply with applicable legal provisions regarding COVID-19 testing and quarantine in Germany, if any.
 
 The host company or government agency will supervise the itinerary of and provide private transport for the traveller for the 14 days upon his/her arrival in Germany.
-
-The traveller can only commute between his/her residence and the workplace via a dedicated car and driver (i.e., no public transport allowed).
 
 ### **Returning to Singapore**
 
