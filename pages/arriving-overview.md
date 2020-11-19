@@ -58,13 +58,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td>Brunei Darussalam</td>
   <td><a href="/brunei/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td><a href="/brunei/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
   <td>Germany</td>
   <td>&nbsp;</td>
-  <td><a href="/germany/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="germany/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
@@ -82,19 +82,19 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td>Japan</td>
   <td>&nbsp;</td>
-  <td><a href="/japan/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
    <tr>
   <td>Mainland China</td>
   <td><a href="/china/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td><a href="/china/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>3</sup></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>3</sup></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
   <td>Malaysia</td>
   <td>&nbsp;</td>
-  <td><a href="/malaysia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
  </tr>
  <tr>
@@ -106,7 +106,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td>Republic of Korea</td>
   <td>&nbsp;</td>
-  <td><a href="/rok/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
