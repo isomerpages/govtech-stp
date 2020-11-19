@@ -23,7 +23,7 @@ permalink: /germany/rgl/terms-and-conditions
 
 2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in singapore. 
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate, in English or accompanied by an English translation and obtained from accredited medical institutions authorities designated by the German government and taken within 72 hours from departure; (ii) final Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.  
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the German government and taken within 72 hours from departure; (ii) final Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. 
 
 4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host. 
 
@@ -51,11 +51,11 @@ permalink: /germany/rgl/terms-and-conditions
 
 7. The traveller must not have left Germany in the 14 days prior to his/her departure for Singapore (exclusive of the day of arrival).
  
-8. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns 
+8. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns.
 
 9. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-10. The traveller must undertake a COVID-19 PCR test from medical accredited medical institutions designated by the German government, at his/her own cost, within 72 hours prior to departure from Germany, and obtain the negative results prior to departure. The health certificate should be in English or accompanied by an English translation and clearly state the time and date the PCR test was taken.
+10. The traveller must undertake a COVID-19 PCR test from accredited medical institutions designated by the German government, at his/her own cost, within 72 hours prior to departure from Germany, and obtain the negative results prior to departure. The health certificate should be in English or accompanied by an English translation and clearly state the time and date the PCR test was taken.
 
 11. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel; 
@@ -120,5 +120,5 @@ permalink: /germany/rgl/terms-and-conditions
 
 -----
 
-<sup>1</sup>The Terms and Conditions in this document are specific to the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel Between Singapore and Germany. Green Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions. 
+<sup>1</sup>The Terms and Conditions in this document are specific to the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel between Singapore and Germany. Green Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions. 
 
