@@ -8,7 +8,8 @@ third_nav_title: RGL Visitors to Singapore
 
 The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between the following counterpart countries/regions and Singapore:
 - Brunei Darussalam
-- China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
+- Germany
+- Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
 - Indonesia
 - Japan
 - Malaysia
@@ -33,6 +34,12 @@ Please click on the relevant links below for more information about the RGL
       <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
      <!-- <td style="text-align:center;"><a href="/brunei/rgl/terms-and-conditions">Click here</a></td>-->
       <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
+  </tr>
+  <tr>
+      <td><b>Germany<sup>2</sup></b></td>
+    <td style="text-align:left;"><a href="germany/rgl/requirements-and-process">Click here</a></td>
+      <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
+      <td style="text-align:left;"><a href="germany/rgl/faq">Click here</a></td>
   </tr>
     <tr>
       <td><b>China<sup>2</sup></b></td>
