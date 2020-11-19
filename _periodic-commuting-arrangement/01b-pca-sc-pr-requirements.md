@@ -47,7 +47,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
   </tr>
  <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>atleast 1 calendar day</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>Atleast 1 calendar day</u></b> before planned date of entry into Singapore</th>
   </tr>
   </thead>
  <tr>
