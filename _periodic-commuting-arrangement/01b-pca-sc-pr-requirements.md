@@ -4,7 +4,7 @@ permalink: /pca/scpr-requirement-and-process
 third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 ---
 
-**Notice for travellers with travel history to Sabah:** *As there has been a recent increase in COVID-19 cases in Sabah, PCA travellers entering Singapore from 14 October 2020, 2359hrs, who have a travel history to Sabah in the past 14 days, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers from all other parts of Malaysia without such travel history will continue to serve a 7-day SHN as per the prevailing policy.*
+**Notice for travellers with travel history to Sabah:** *As there has been a recent increase in COVID-19 cases in Malaysia, PCA travellers entering Singapore from 21 November 2020, 2359hrs, who have a travel history to Malaysia in the past 14 days, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities.*
 
 ### 1. Eligibility 
 
@@ -27,7 +27,7 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit Waiver of Stay-Home Notice (SHN) application</b></td>
-    <td style="font-size:18px;"><b>The applicant (i.e. traveller) must submit the application <a href="https://go.gov.sg/pcasgpr"> here</a> at least seven calendar days before the intended date of entry or the prevailing health measures will apply.</b>
+    <td style="font-size:18px;"><b>The applicant (i.e. traveller) must submit the application <!--<a href="https://go.gov.sg/pcasgpr"> here</a> --> at least seven calendar days before the intended date of entry or the prevailing health measures will apply.</b>
       <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>The traveller should:</b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "><b>Read the Terms & Conditions for Waiver of Stay-Home Notice (SHN); and</b></li>
