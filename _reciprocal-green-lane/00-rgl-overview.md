@@ -42,7 +42,7 @@ Please click on the relevant links below for more information about the RGL
       <td style="text-align:left;"><a href="germany/rgl/faq">Click here</a></td>
   </tr>
     <tr>
-      <td><b>China<sup>2</sup></b></td>
+      <td><b>Mainland China<sup>2</sup></b></td>
     <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
       <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
