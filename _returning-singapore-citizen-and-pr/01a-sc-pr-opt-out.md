@@ -8,9 +8,10 @@ third_nav_title: SDF Opt-out for SC/PR
 
 1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve their 14-day SHN at a suitable place of residence. <br/><br/>
 
-2. From 2 Nov 20, travellers arriving from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may apply to opt-out of SHN dedicated facilities, and serve their 14-day Stay-Home Notice (SHN) at their place of residence, if they fulfil the following criteria:
-- travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
-- are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
+2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may apply to opt-out of SHN dedicated facilities, and serve their 14-day Stay-Home Notice (SHN) at their place of residence, if they fulfil the following criteria:
+- Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
+- Are occupying their place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
+- There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
 
 3. **For Singapore Citizens (SCs) and Permanent Residents (PRs), the application must be made at least three (3) days prior to arrival via <a href="https://go.gov.sg/scproptoutsdf"> go.gov.sg/scproptoutsdf </a> . Upon successful submission, they will receive an approval letter from the Safe Travel Office via email. The approval letter takes effect three (3) days from the date of issuance and is valid for one month thereafter. To illustrate, if the approval letter is dated 2 Nov 20, it is effective only from 4 Nov 20 and valid up to 4 Dec 20. Travellers who are not SCs or PRs may apply to opt out as part of the entry approval process. All travellers must present the approval to opt-out upon arrival in Singapore.** <br/><br/>
 
