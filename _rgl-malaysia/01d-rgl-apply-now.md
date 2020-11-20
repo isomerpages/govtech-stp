@@ -1,6 +1,6 @@
 ---
-title: Frequently Asked Questions
-permalink: /malaysia/rgl/faq
+title: Apply Now
+permalink: /malaysia/rgl/apply-now
 ---
 
 <table>
