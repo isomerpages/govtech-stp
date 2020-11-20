@@ -593,17 +593,17 @@ The RGL is only for short-term essential business and official travel, and not f
 
 Those seeking to enter Japan for purposes other than essential business and official travel should contact the Embassy of Japan in Singapore for further details.
 
-#### 6. Where in Japan may I travel to? What are the approvals which I will need to obtain to do so?
+#### 6.	Where in Japan may I travel to? What are the approvals which I will need to obtain to do so?
 
 The RGL is for travel between Singapore and Japan, though the only entry/exit points to/from Japan are Tokyo (Narita International Airport and Haneda International Airport) and Osaka (Kansai International Airport) at the moment. Regardless, according to the Government of Japan, there are no controls on inter-prefectural movement in Japan, although travellers must refrain from using public transport in the first 14 days of their visit. There is therefore no need for RGL travellers from Singapore to acquire from the local government of his next destination prior approval for entry. Japan will inform the Singapore Government beforehand if there are additional measures or significant changes.
 
-#### 7. Who can I contact for more information on the arrangements in Japan, e.g., accommodation and transport?
+#### 7.	Who can I contact for more information on the arrangements in Japan, e.g., accommodation and transport?
 
 The traveller may contact his/her host company or government agency in Japan to make the necessary arrangements in Japan.
 
 ### **Test Arrangements**
 
-#### 8. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+#### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
 An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
@@ -629,7 +629,7 @@ If tested positive for COVID-19 in Japan, the traveller will be accorded the nec
 
 ### **Pre-Departure in Singapore**
 
-#### 12. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Japan?
+#### 12.	What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Japan?
 
 Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result and a valid visa.
 
@@ -637,7 +637,7 @@ As the specific requirements may evolve over time, the traveller should seek an 
 
 ### **Arrival in Japan**
 
-#### 13. What documentation do I need to present upon arrival in Japan?
+#### 13.	What documentation do I need to present upon arrival in Japan?
 
 Travellers are required to present their declaration form, itinerary in Japan, a health questionnaire, and their negative pre-departure COVID-19 test result upon arrival.
 
@@ -649,7 +649,7 @@ After undergoing a PCR test upon arrival at the airport in Japan, the traveller 
 
 If the traveller tests negative, he/she must refrain from using public transportation for 14 days after entry, and obtain permission from the relevant authorities to conduct activities according to his/her declared itinerary. 
 
-#### 15. What other health measures will I be subject to in Japan? 
+#### 15.	What other health measures will I be subject to in Japan? 
 
 The traveller must follow all local COVID-19 prevention and social distancing guidelines for the entire duration of his/her stay in Japan. This includes any period of time spent in Japan after the 14-day controlled itinerary.
 
@@ -659,7 +659,7 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 ### **Returning to Singapore**
 
-#### 16. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
+#### 16.	What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
 <!--Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they: -->
 
@@ -670,7 +670,7 @@ All travellers entering Singapore from 22 November 2020, 2359 hours, who have re
 
 Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer [here](/health/shn) 
 
-#### 17. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
+#### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
@@ -702,11 +702,11 @@ Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
-##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
+##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
 You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
 
-##### 3. How can I make an appointment for pre-departure PCR testing?
+##### 3.	How can I make an appointment for pre-departure PCR testing?
 
 For RGL travel to Japan, the pre-departure PCR test must be done within 72 hours prior to departure.
 
@@ -734,7 +734,7 @@ Please have the following information on hand when making an appointment for you
 5. Contact number 
 6. Email address 
 
-##### 6. What documents should I bring for my appointment?
+##### 6.	What documents should I bring for my appointment?
 
 Please bring the following:
 1. Identity card or passport 
@@ -755,7 +755,7 @@ If you are unable to receive the test, you may wish to reschedule your flight, i
 
 ##### Test Results
 
-##### 9. When can I expect to get my PCR test results?
+##### 9.	When can I expect to get my PCR test results?
 
 You will receive your PCR test results and memo at least three hours before your flight. 
 
