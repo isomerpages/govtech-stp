@@ -16,31 +16,31 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
   <tbody>
     <tr>
       <td>Brunei Darusalam</td>
-      <td><a href="#faq-outbound-brunei">Click here/a></td>
+      <td><a href="#faq-outbound-brunei">Click here</a></td>
     </tr>
       <tr>
       <td>China</td>
-      <td><a href="#faq-outbound-china">Click here/a></td>
+      <td><a href="#faq-outbound-china">Click here</a></td>
     </tr>
       <tr>
       <td>Germany</td>
-      <td><a href="/germany/rgl/faq/#faq-outbound-germany">Click here/a></td>
+      <td><a href="/germany/rgl/faq/#faq-outbound-germany">Click here</a></td>
     </tr>
       <tr>
       <td>Indonesia</td>
-      <td><a href="/indonesia/rgl/faq/#faq-outbound-indonesia">Click here/a></td>
+      <td><a href="/indonesia/rgl/faq/#faq-outbound-indonesia">Click here</a></td>
     </tr>
       <tr>
       <td>Japan</td>
-      <td><a href="/japan/rgl/faq#faq-outbound-japan">Click here/a></td>
+      <td><a href="/japan/rgl/faq#faq-outbound-japan">Click here</a></td>
     </tr>
       <tr>
       <td>malaysia</td>
-      <td><a href="/malaysia/rgl/faq#faq-outbound-malaysia">Click here/a></td>
+      <td><a href="/malaysia/rgl/faq#faq-outbound-malaysia">Click here</a></td>
     </tr>
       <tr>
       <td>Republic of Korea</td>
-      <td><a href="#faq-outbound-korea">Click here/a></td>
+      <td><a href="#faq-outbound-korea">Click here</a></td>
     </tr>    
   </tbody>
   </table>
@@ -217,18 +217,4 @@ Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a 
 
 Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
 
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
-
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
-
-For those travelling to Brunei Darussalam, sponsors may seek exemption from the Ministry of Health Brunei Darussalam via e-mail to <etp.health@moh.gov.bn>. However, health measures against exempted travellers may be different from those who have undergone pre-departure testing in Singapore.
-
-##### Test Results
-
-##### 9. When can I expect to get my PCR test results?
-
-You will receive your PCR test results and memo at least 3 hours before your flight.
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
-
-<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+##### 8. What happens if the clinic assesses that I am unable to 
