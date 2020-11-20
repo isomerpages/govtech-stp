@@ -1,4 +1,7 @@
-
+---
+title: Requirements and Process
+permalink: /japan/rgl/requirements-and-process
+---
 
 On 11 September 2020, Singapore and Japan agreed to implement the Reciprocal Green Lane (Business Track) to facilitate essential short-term business and official travel between both countries. 
 
