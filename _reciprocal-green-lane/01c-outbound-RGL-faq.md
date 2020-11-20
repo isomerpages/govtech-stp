@@ -42,7 +42,7 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
     </tr>
       <tr>
       <td>Republic of Korea</td>
-      <td><a href="#faq-outbound-korea">Click here</a></td>
+      <td><a href="#faq-outbound-rok">Click here</a></td>
     </tr>    
   </tbody>
   </table>
