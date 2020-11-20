@@ -4,7 +4,9 @@ permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
 
-**Notice for travellers with travel history to Sabah:** *As there has been a recent increase in COVID-19 cases in Sabah, PCA travellers entering Singapore from 14 October 2020, 2359hrs, who have a travel history to Sabah in the past 14 days, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers from all other parts of Malaysia without such travel history will continue to serve a 7-day SHN as per the prevailing policy.* 
+**Notice for travellers with travel history to Malaysia:** *As there has been a recent increase in COVID-19 cases in Malaysia, **PCA travellers entering Singapore from 22 November 2020, 2359 hours**, who have a travel history in the past 14 days to Malaysia **will now be required** to serve <u>a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities.</u>* 
+
+In addition, travellers who are not Singapore Citizens or Singapore Permanent Residents, and who have recent travel history to Malaysia within the last 14 days prior to entry will be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore. This requirement will take effect for all inbound PCA travellers arriving in Singapore from **27 November 2020, 2359 hours**.
 
 ### 1. Eligibility 
 
@@ -41,7 +43,6 @@ PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">h
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s Long-Term Pass expiry date (ensure that Work Pass is valid for at least 15 days after the expected date of entry into Singapore); </li>
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Address of employee’s accommodation to complete his/her Stay-Home Notice (SHN); and </li>
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
@@ -91,6 +92,7 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
+     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> With effect from 27 November 2020, 2359 hours, take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before entry into Singapore and present a valid negative COVID-19 test result at the Singapore checkpoint as a condition for entry into Singapore.</li>
          </ol>      
     </td>
   </tr>
@@ -109,8 +111,9 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
    <tr>
     <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:18px;"><b>Immediately after clearing the checkpoint, approved PCA
-travellers must make their way directly to their SHN accommodation. </b>
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>
+travellers will be transported to their assigned dedicated SHN Facility to serve their 14 Day SHN <!--must make their way directly to their SHN accommodation.--> </b> Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility. 
+    <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Transport will be provided for employee to travel to their assigned dedicated SHN Facility directly.</p>-->      
+      <!--Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
@@ -119,7 +122,7 @@ travellers must make their way directly to their SHN accommodation. </b>
      <br/>
       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
 <br/>** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
-     </p>
+     </p>-->
          </td>
  </tr>
   </tbody>
@@ -130,20 +133,20 @@ travellers must make their way directly to their SHN accommodation. </b>
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>Days 0-7 after arriving</u></b> in Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>Days 0-14 after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
     <td style="font-size:18px;"><b>Stay Home Notice</b></td>
-    <td style="font-size:18px;"><b>Approved PCA travellers will serve a 7-day SHN* and must remain
-in their declared SHN accommodation for the duration of their SHN, unless they are: </b><br/><br/>
+    <td style="font-size:18px;"><b>Approved PCA travellers will serve a 14-day SHN* and must remain
+in their assigned dedicated SHN accommodation for the duration of their SHN, unless they are: </b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 7-day SHN, whichever later</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their assigned dedicated SHN accommodation immediately after testing; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 14-day SHN, whichever later</li>
          </ol>   
      <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.</p>
-    <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">  *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.</p>
+  <!--  <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">  *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.</p>-->
     </td>
   </tr>
  <tr>
