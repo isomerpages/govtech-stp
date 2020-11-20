@@ -36,14 +36,14 @@ These travellers must present a valid negative COVID-19 PCR test result, in Engl
 Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN.
 
 ### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
-Travellers from Fiji, Finland, Japan, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from this list of [countries/regions](/files/SHN-and-swab-summary.pdf) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
 - Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
 
 Applications must be made at least three days prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
-The list of [countries/regions](/files/SHN-and-swab-summary.pdf) eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+The list of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 ### 5. Submission of Health Declaration
 
