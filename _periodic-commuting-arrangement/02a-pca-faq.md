@@ -17,11 +17,11 @@ The quota is imposed to stagger and manage the volume of daily entrants via our 
 
 #### 3. I am a Malaysian citizen and a Singapore PR. I am currently in Malaysia, but I want to return to Singapore. Do I need the PCA to return to Singapore?
 
-If you are a Singapore PR with a valid Re-Entry Permit, you may return to Singapore without the need for any entry approval. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer [here](/health) for details and updates on border control measures, as well as [here](/health/shn) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
+If you are a Singapore PR with a valid Re-Entry Permit, you may return to Singapore without the need for any entry approval. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [safetravel.ica.gov.sg/health](/health) for details and updates on border control measures as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for information on the prevailing health measures for Singapore Citizens and PRs returning from abroad.
 
 #### 4. I am a Singapore Citizen who is currently in Malaysia. Do I need the PCA to return to Singapore?
 
-For Singapore citizens, you <u><b>do not</b></u> need any entry approval to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer [here](/health) for details and updates on border control measures, as well as [here](/health/shn) for more information about SHN issued by ICA.
+For Singapore citizens, you <u><b>do not</b></u> need any entry approval to return to Singapore. However, you will be subject to the prevailing Stay-Home Notice requirements after arriving in Singapore. You may wish to refer to [safetravel.ica.gov.sg/health](/health) for details and updates on border control measures, as well as [www.ica.gov.sg/covid-19/shn](https://www.ica.gov.sg/covid-19/shn) for more information about SHN issued by ICA.
 
 #### 5. I am a Malaysian citizen and a Singapore PR. I am currently in Singapore but I want to return to Malaysia. Do I need the PCA to return to Malaysia?
 
@@ -73,7 +73,9 @@ No. Please apply for an [entry approval with MOM](http://www.mom.gov.sg/covid-19
 
 #### 14. Do I need to pay to apply for PCA on behalf of my employees?
 
-Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 5 (or Day 11, in the case of Sabah) of stay at the SDF.
+
+<!--Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
 #### 15. What is the duration of stay in Singapore that my employee will be eligible for under PCA?  Can I extend the PCA period for my employee?
 
@@ -89,7 +91,7 @@ Travellers seeking to enter Singapore for study may wish to visit <https://www.i
 
 #### 17. Do I need a new application each time my employee wants to enter Singapore after their home leave?
 
-Yes, a new application is required each time your employee wants to enter Singapore.
+Yes, a new application is required each time your employSC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.ee wants to enter Singapore.
 
 #### 18. I am a confinement nanny. Can I apply for a PCA to enter Singapore?
 
@@ -128,6 +130,8 @@ For the best user experience, we recommend that you use Google Chrome (version 8
 
 Please ensure that your employee has a copy (digital or hardcopy) of the PCA approval letter, which may be required as proof during immigration clearance at Malaysia's checkpoint. The employee must present a valid passport and work pass at the Singapore checkpoint, otherwise he/she will be turned away.
 
+With effect from 27 November 2020, 2359 hours, your employee will also need to take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before entry into Singapore and present a valid negative COVID-19 test result at the Singapore checkpoint as a condition for entry into Singapore. 
+
 #### 24. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR test?
 
 No. Please make sure that your employee is able to enter on the date indicated in the application. You may not amend a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
@@ -156,7 +160,7 @@ Please refer to <https://mom.gov.sg/feedbackshn> if you are encountering technic
 
 #### 29. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
 
-Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. <!--You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).-->
+Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).
 
 #### 30. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
@@ -235,7 +239,9 @@ If the employee has lost his/her work pass, they should first make an official p
 
 #### 43. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 5 (or Day 11, in the case of Sabah) of stay at the SDF.
+
+<!--Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
 #### 44. What COVID-19 tests will my employee be subject to upon arrival in Singapore? How will I and/or my employee be informed of his/her COVID-19 test result?
 
@@ -282,9 +288,13 @@ If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of 
 
 #### 48. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
 
-With effect from 20 Oct 2020, Singapore Citizens (SCs) / Permanent Residents (PRs) / Long-Term Pass Holders (LTPHs) who departed Singapore on or after 27 Mar 2020 will be able to access regular financing arrangements to pay for their medical bills, if they develop onset of symptoms for COVID-19 within 14 days of their return to Singapore. For SC/PRs, this includes Government subsidies and MediShield Life/Integrated Shield Plan coverage. For LTPHs, this refers to any usual financing arrangements they may have, such as private insurance. 
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-For avoidance of doubt, please refer to the table below on how charges for returning Singapore Citizens/PRs and LTPHs will apply.
+For Singapore Citizens/PRs and LTPHs, charges for COVID-19 treatment will apply if symptoms develop within the first 14 days of their return to Singapore. They will be able to tap on regular healthcare financing arrangements for their medical bills – SCs/PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills, while LTPHs may tap on their usual financing arrangements (e.g., private insurance), where applicable.
+
+If they develop onset of symptoms of COVID-19 after 14 days of their return to Singapore, the costs of their medical treatment will be borne by the Government. 
+
+For avoidance of doubt, please refer to the table below on how charges for returning Singapore Citizens/PRs and LTPHs will apply.  
 
 <table>
 <thead>
@@ -297,18 +307,18 @@ For avoidance of doubt, please refer to the table below on how charges for retur
 <tbody>
   <tr>
     <td>1</td>
-    <td>Left SG before 27 March 2020 and returning by 31 Dec 2020</td>
-    <td>Waive</td>
+    <td>Left SG before 27 March 2020</td>
+    <td>Government currently bears the costs of COVID-19 treatment. <br/>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
-  <tr>
+ <!-- <tr>
     <td>2</td>
     <td>Left SG before 27 March 2020 and returning from 1 Jan 2021 onwards</td>
     <td>Eligible for subsidies + Medishield + Medisave</td>
-  </tr>
+  </tr>-->
   <tr>
-    <td>3</td>
+    <td>2</td>
     <td>Left SG after 27 March 2020 </td>
-    <td>Eligible for subsidies + Medishield + Medisave</td>
+    <td>Chargeable. <br/>SC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
 </tbody>
 </table>
