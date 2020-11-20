@@ -252,7 +252,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to China from Singapore will be subjected to a pre-departure COVID-19 PCR test and an IgM antibody serology test within 48 hours of return to China. Please refer to the guidelines by the Chinese government here. Travellers can make an appointment in advance at selected clinics in Singapore for a pre-departure COVID-19 PCR test and an IgM antibody serology test to be taken at the traveller’s cost and obtain certificates of negative result. 
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:20px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
+<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
          </tr>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan</td>
