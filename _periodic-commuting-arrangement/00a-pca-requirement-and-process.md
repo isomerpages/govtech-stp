@@ -110,19 +110,19 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
 <tbody>
    <tr>
     <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px;"><b>Immediately after clearing the checkpoint, approved PCA
-travellers will be transported to their assigned dedicated SHN Facility to serve their 14 Day SHN <!--must make their way directly to their SHN accommodation.--> </b> Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility. 
-    <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Transport will be provided for employee to travel to their assigned dedicated SHN Facility directly.</p>-->      
-      <!--Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:
+    <td style="font-size:18px;"><b>For travellers arriving on 22 Nov onwards, immediately after clearing the checkpoint, approved PCA travellers will be transported to their assigned dedicated SHN Facility to serve their 14 Day SHN </b> Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility. 
+    <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">
+      <Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
             <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street). </li>
          </ol> 
+    </p>
      <br/>
       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
 <br/>** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
-     </p>-->
+     </p>
          </td>
  </tr>
   </tbody>
