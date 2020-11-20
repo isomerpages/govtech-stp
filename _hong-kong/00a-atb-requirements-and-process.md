@@ -42,10 +42,11 @@ A summary of the requirements and process for those travelling to Hong Kong unde
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
           </ol>
                     </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 onwards</b>
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 to 31 December 2020</b>
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
+                                         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.</li>
           </ol>
           </li>
            </ol>
@@ -209,11 +210,12 @@ The designated flights from Hong Kong to Singapore are:
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
           </ol>
           </li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>From 23 November 2020 onwards</b>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>From 23 November 2020 to 31 December 2020</b>
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
           </ol>
+For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.
           </li>
            </ol><br/><b><u> (B) Non-Designated Flights</u></b><br/><br/>
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to the Singapore Immigration & Checkpoints Authority’s (ICA) website <a href="/health">here</a>.
