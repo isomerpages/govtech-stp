@@ -77,6 +77,7 @@ travelling if feeling unwell. If the traveller is healthy, he/she should: </b><b
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.homer.gov.sg" target="_blank"> Homer</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;">With effect from 27 November 2020, 2359 hours, take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before entry into Singapore and present a valid negative COVID-19 test result at the Singapore checkpoint as a condition for entry into Singapore.</li>
          </ol>   
     </td>
   </tr>
@@ -110,18 +111,17 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
 <tbody>
    <tr>
     <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px;"><b>Immediately after clearing the checkpoint, approved PCA
-travellers must make their way directly to their SHN accommodation. </b>
-     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>
-        <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
+    <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
+        <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
             <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street). </li>
-         </ol> 
-     <br/>
-      <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
+         </ol> -->
+     <!--<br/>-->
+    <!--  <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
 <br/>** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
-     </p>
+     </p>-->
          </td>
  </tr>
   </tbody>
