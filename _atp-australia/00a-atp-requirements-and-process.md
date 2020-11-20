@@ -205,11 +205,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px;">
 Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends here before departing from Singapore. 
-            <br/>
+              <br/><br/>
 Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends here before departing from Singapore.
- <br/>
+ <br/> <br/>
 Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and activated. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
- <br/>
+ <br/> <br/>
 Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
  
 
