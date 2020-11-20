@@ -51,7 +51,7 @@ permalink: /FAQ
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Japan</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Reciprocal Green Lane 
      </td>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/rgl/faq"> Link </a>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="japan/rgl/faq"> Link </a>
 </td>
  </tr>
    <tr>
