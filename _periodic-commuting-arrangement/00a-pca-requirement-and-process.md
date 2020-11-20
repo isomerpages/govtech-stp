@@ -142,15 +142,10 @@ Employees approved under the PCA may commute from Malaysia’s immigration check
   </thead>
 <tbody>
  <tr>
-    <td style="font-size:18px;"><b>Stay Home Notice</b></td>
-    <td style="font-size:18px;"><b>Approved PCA travellers will serve a 14-day SHN* and must remain
-in <!--their declared SHN accommodation--> assigned dedicated SHN Facility for the duration of their SHN, unless they are: </b><br/><br/>
-        <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 14-day SHN, whichever later</li>
-         </ol>   
-     <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.</p>
-    <p style="font-size:16px;margin-top:0px; margin-bottom:0px;"> All travellers entering Singapore from 22 November 2020, 2359 hours, who have a travel history in the past 14 days to Malaysia will now be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)</p>
+    <td style="font-size:18px;"><b>SHN at dedicated SHN facilities</b></td>
+  <td style="font-size:18px;">The employee must remain in the dedicated SHN facility for at least 14 days from the date of entry into Singapore and test negative for COVID-19, whichever is later. The employee will undergo the COVID-19 PCR test on-site at the dedicated SHN facility. Otherwise, arrangements will be made for the employee to be transported to the test venue.
+   <br/></br/>
+  Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
     </td>
   </tr>
  <tr>
@@ -159,7 +154,7 @@ in <!--their declared SHN accommodation--> assigned dedicated SHN Facility for t
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees return to their SHN accommodation immediately after their test, where they will remain until the end of their 14-day SHN or when a negative COVID-19 PCR test is conveyed (whichever is later).</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">iii.	Ensure that their employees remain in their SHN accommodation until the end of their 14-day SHN or when a negative COVID-19 PCR test is conveyed, whichever is later.</li>
          </ol>   
     </td>
   </tr>
