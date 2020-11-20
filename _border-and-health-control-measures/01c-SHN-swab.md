@@ -32,14 +32,14 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
-Travellers from Fiji, Finland, Japan, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
 - Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
 
 Applications must be made at least three days prior  to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
 
-The list of [countries/regions](/files/SHN-and-swab-summary.pdf) eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+The list of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 #### Travellers with extenuating circumstances serving SHN at Dedicated Facility 
 
@@ -60,7 +60,6 @@ Information on the device can be found in the video and infographic below.
 Upon completion of SHN, travellers are to remove the electronic wristband and dispose of it based on <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste" target="_blank">existing e-waste disposal methods</a>.
 
 ICA officers will contact the traveller to collect the gateway device issued by ICA. Please <u>do not dispose the gateway device</u>.
-
 
 ### 4. Post-Arrival COVID-19 PCR Test
 Depending on the traveller’s scheme of travel, he/she may be required to take the COVID-19 PCR test upon arrival in Singapore, or before the completion of his/her SHN. In general, children aged 12 and below (based on year of birth) do not need to take the COVID-19 PCR swab test, unless their close contacts are found to be COVID-19 positive.
