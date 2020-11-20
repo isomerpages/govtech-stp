@@ -91,7 +91,7 @@ The traveller may contact his/her host company or government agency in Brunei to
 
 The RGL traveller departing for Brunei can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **<a href="#annex">ANNEX</a>**. Testing for fast lane/RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **<a href="#annexbrunei">ANNEX</a>**. Testing for fast lane/RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -162,7 +162,7 @@ Travellers will be responsible for charges for COVID-19 treatment if symptoms de
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Brunei via the RGL.
 
-<div id="annex"></div>
+<div id="annexbrunei"></div>
 
 #### Annex for Pre-Departure COVID-19 Tests in Singapore
 
@@ -253,7 +253,7 @@ The relevant Chinese government authorities will assess each application on a ca
 
 #### 2.	How do Singapore residents apply to travel to China under the RGL?
 
-Residents in Singapore seeking to travel to China for essential business or official travel via the RGL must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **<a href="#annexa">ANNEX A</a>**.
+Residents in Singapore seeking to travel to China for essential business or official travel via the RGL must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **<a href="#annexachina">ANNEX A</a>**.
 
 If the application is approved, a Letter of Invitation specifically for essential business or official travel under the RGL will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
@@ -295,7 +295,7 @@ The traveller may contact his/her host company or government agency in China to 
 
 The RGL traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -365,7 +365,7 @@ Travellers will be responsible for charges for COVID-19 treatment if symptoms de
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the RGL.
 
-<div id="annexa"></div>
+<div id="annexachina"></div>
 
 ### **ANNEX A**
 
@@ -380,7 +380,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 | Tianjin | Foreign Affairs Offices of the relevant cities/counties/districts |
 | Zhejiang | For business travellers: Commerce Bureaus of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities |
 
-<div id="annexb"></div>
+<div id="annexbchina"></div>
 
 ### **ANNEX B**
 
@@ -607,7 +607,7 @@ The traveller may contact his/her host company or government agency in Japan to 
 
 An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbjapan">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -678,7 +678,7 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
 
-<div id="annexa"></div>
+<div id="annexajapan"></div>
 
 ### **ANNEX A**
 
@@ -781,9 +781,9 @@ The relevant Indonesian Government authorities will assess each application on a
 
 Residents in Singapore seeking to travel to Indonesia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Indonesia. On behalf of the traveller, the sponsor will apply online for an Indonesian visa from the Directorate General of Immigration of Indonesia at <https://visa-online.imigrasi.go.id/>. The visa application should be submitted at least 7 working days before the intended date of entry into Indonesia. Visa requirements include: (a) health certificate indicating that the traveller is free of respiratory symptoms and fit to travel; (b) consent letter to undergo mandatory self-isolation or medical treatment, if the traveller is tested positive for COVID-19 upon arrival in Indonesia; (c) consent letter to be monitored during quarantine or self-isolation in accordance with Indonesian laws and regulations; (d) health or travel insurance covering medical expenses and/or a declaration letter to bear the cost of medical treatment if the traveller contracts COVID-19 in Indonesia; and (e) proof of funds by the sponsor (at least US$10,000) to support the traveller’s living expenses in Indonesia. Visa application fees include a telex visa / visa aproval fee (IDR 200,000) and a visitor visa fee (US$50). The result of the visa application will be conveyed 2 to 3 days after payment has been made. After the visa application is approved, the visa will be sent electronically to the traveller. 
 
-The traveller should work with his/her Indonesian sponsor to verify that he/she has fulfilled the RGL requirements of the Indonesian authorities prior to departure for Indonesia. This includes taking a pre-departure COVID-19 PCR test at least once within 72 hours before departure, and obtaining a negative test result from healthcare institutions in Singapore listed at [ANNEX C](#annexc). The traveller must have remained in Singapore for at least 14 days prior to departure, monitor their health status before departure from Singapore, and not depart for Indonesia if feeling unwell. The traveller must also submit pre-trip health and travel history declarations to Indonesia’s e-HAC application as well as the negative COVID-19 PCR swab test result and controlled itinerary via the e-HAC, before departure. Accordingly, there is no need to fill the HAC form upon arrival in Indonesia.
+The traveller should work with his/her Indonesian sponsor to verify that he/she has fulfilled the RGL requirements of the Indonesian authorities prior to departure for Indonesia. This includes taking a pre-departure COVID-19 PCR test at least once within 72 hours before departure, and obtaining a negative test result from healthcare institutions in Singapore listed at [ANNEX C](#annexcindon). The traveller must have remained in Singapore for at least 14 days prior to departure, monitor their health status before departure from Singapore, and not depart for Indonesia if feeling unwell. The traveller must also submit pre-trip health and travel history declarations to Indonesia’s e-HAC application as well as the negative COVID-19 PCR swab test result and controlled itinerary via the e-HAC, before departure. Accordingly, there is no need to fill the HAC form upon arrival in Indonesia.
 
-A point-of-contact for enquiries regarding travel to Indonesia under the SingaporeIndonesia RGL is at [ANNEX B](#annexb). 
+A point-of-contact for enquiries regarding travel to Indonesia under the SingaporeIndonesia RGL is at [ANNEX B](#annexbindon). 
 
 #### 3. What is the maximum stay duration in Indonesia? 
  
@@ -793,7 +793,7 @@ The maximum period of stay in Indonesia is 30 days.
 
 The RGL is only for short-term essential business and official travel, and not for longterm work or study. 
  
-Those seeking to enter Indonesia for purposes other than essential business and official travel should contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb)) for further details. 
+Those seeking to enter Indonesia for purposes other than essential business and official travel should contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexbindon) for further details. 
 Commented 
 
 #### 5. From which airport/ferry terminal can I enter Indonesia? Where in Indonesia may I travel to? 
@@ -802,9 +802,9 @@ There are currently two entry points under the RGL. <u>First</u>, travellers can
  
 RGL travellers are allowed to travel to other provinces in Indonesia after arriving in Jakarta and Batam. RGL travellers that are travelling to other provinces must also fulfil Indonesia’s requirements for domestic travel.  
 
-For travel via domestic flights, requirements include submitting details of domestic travel to Indonesia’s e-HAC application, and having a health certificate indicating that the travellers are COVID-19 free (i.e. Negative results for PCR test, or non-reactive results for rapid test.) The negative result of the PCR test taken by the RGL travellers prior to departure for Indonesia can be used as the health certificate. Please note that the health certificate is only valid for 14 days since the date of issuance, for the RGL travellers to make domestic travel. If RGL travellers intend to travel domestically in Indonesia after 14 days, they are required to renew their health certificate, by undergoing a new PCR/rapid test. The PCR test should be taken at the list of healthcare institutions listed in [Annex A](#annexa). The rapid test can be taken at any laboratory in Indonesia. 
+For travel via domestic flights, requirements include submitting details of domestic travel to Indonesia’s e-HAC application, and having a health certificate indicating that the travellers are COVID-19 free (i.e. Negative results for PCR test, or non-reactive results for rapid test.) The negative result of the PCR test taken by the RGL travellers prior to departure for Indonesia can be used as the health certificate. Please note that the health certificate is only valid for 14 days since the date of issuance, for the RGL travellers to make domestic travel. If RGL travellers intend to travel domestically in Indonesia after 14 days, they are required to renew their health certificate, by undergoing a new PCR/rapid test. The PCR test should be taken at the list of healthcare institutions listed in [Annex A](#annexaindon). The rapid test can be taken at any laboratory in Indonesia. 
 
-For more information on Indonesia’s requirements for domestic travel, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb) ).
+For more information on Indonesia’s requirements for domestic travel, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexbindon) ).
 
 #### 6.  Who can I contact for more information on the arrangements in Indonesia, e.g., accommodation and transport?
 
@@ -816,7 +816,7 @@ The traveller may contact his/her Indonesian sponsor to make the necessary arran
 
 Prior to taking the pre-departure COVID-19 PCR test, the traveller must obtain an evisa which confirms that he/she has been granted approval by the relevant authorities in Indonesia to travel to Indonesia under the Singapore-Indonesia RGL. This e-visa must be presented at the clinic before the test can be administered. 
  
-The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [ANNEX C](#annexc). Testing for RGL arrangements should only be carried out at these clinics. An eligible RGL traveller can contact the clinic directly and make an appointment in advance to be tested. 
+The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [ANNEX C](#annexcindon). Testing for RGL arrangements should only be carried out at these clinics. An eligible RGL traveller can contact the clinic directly and make an appointment in advance to be tested. 
  
 The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. The traveller will also need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight. 
  
@@ -876,7 +876,7 @@ Travellers will be responsible for charges for COVID-19 treatment if symptoms de
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The e-visa is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL.
  
-<div id="annexa"> </div>
+<div id="annexaindon"> </div>
 
 ## **ANNEX A** 
 
@@ -884,7 +884,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_list_26102020.pdf). 
 
-<div id="annexb"> </div>
+<div id="annexbindon"> </div>
 
 ## **ANNEX B** 
 
@@ -894,7 +894,7 @@ The hotline for matters pertaining to travel to Indonesia under the RGL is 0855 
 
 The Embassy of the Republic of Indonesia in Singapore can be contacted at (+65) 6737 7422 (telephone) or <singapura.kbri@kemlu.go.id> (email). 
 
-<div id="annexc"> </div>
+<div id="annexcindon"> </div>
 
 ## **ANNEX C** 
 
@@ -1026,7 +1026,7 @@ The traveller may contact his/her host company or government agency in Malaysia 
 
 The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **[ANNEX A](#annexa)**. Testing for RGL travel should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **[ANNEX A](#annexamys)**. Testing for RGL travel should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
 
@@ -1095,7 +1095,7 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
 
-<div id="annexa"></div>
+<div id="annexamys"></div>
 
 ### **ANNEX A**
 
@@ -1184,7 +1184,7 @@ The relevant ROK Government authorities will assess each application on a case-b
 
 #### 2. How do Singapore residents apply to travel to the ROK under the RGL?
 
-Residents in Singapore seeking to travel to the ROK for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in the ROK, which will apply for isolation exemption approval on behalf of the applicant with the relevant government agencies in the ROK. If approved, the applicant is required to apply for a visa at the ROK Embassy in Singapore, should they hold a visa-required passport [click](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1). The approved applicant is also required to submit documents [click](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) to the ROK Embassy in Singapore via email to <fastlanesg@mofa.go.kr> in order to receive the endorsed Isolation Exemption Certificate and the letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. The approved applicant will be notified within 2 working days on the document pick-up date. Please [click here](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275) or contact the ROK Embassy in Singapore (contact details at **<a href="#annexa">ANNEX A</a>**) for more details on the requirements for ROK-Singapore RGL Essential Travel.
+Residents in Singapore seeking to travel to the ROK for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in the ROK, which will apply for isolation exemption approval on behalf of the applicant with the relevant government agencies in the ROK. If approved, the applicant is required to apply for a visa at the ROK Embassy in Singapore, should they hold a visa-required passport [click](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1). The approved applicant is also required to submit documents [click](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) to the ROK Embassy in Singapore via email to <fastlanesg@mofa.go.kr> in order to receive the endorsed Isolation Exemption Certificate and the letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. The approved applicant will be notified within 2 working days on the document pick-up date. Please [click here](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275) or contact the ROK Embassy in Singapore (contact details at **<a href="#annexarok">ANNEX A</a>**) for more details on the requirements for ROK-Singapore RGL Essential Travel.
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the ROK authorities prior to departure for the ROK. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. This may also include other requirements such as keeping the ROK authorities informed of the traveller’s flight details.
 
@@ -1216,7 +1216,7 @@ The traveller may contact his/her host company or government agency in the ROK t
 
 A RGL traveller departing for the ROK can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbrok">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -1283,7 +1283,7 @@ Travellers will be responsible for charges for COVID-19 treatment if symptoms de
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the ROK Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to ROK via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from the ROK via the RGL.
 
-<div id="annexa"></div>
+<div id="annexarok"></div>
 
 ### **ANNEX A**
 
@@ -1293,7 +1293,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 Phone: +65-6256-1188<br>
 Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for RGL-related matters)
 
-<div id="annexb"></div>
+<div id="annexbrok"></div>
 
 ### **ANNEX B**
 
