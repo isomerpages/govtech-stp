@@ -37,7 +37,7 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
       <td><a href="#faq-outbound-japan">Click here</a></td>
     </tr>
       <tr>
-      <td>malaysia</td>
+      <td>Malaysia</td>
       <td><a href="#faq-outbound-malaysia">Click here</a></td>
     </tr>
       <tr>
