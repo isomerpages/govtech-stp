@@ -75,7 +75,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
              <tr>
     <td style="font-size:16px;"><b>Book and pay for post-arrival COVID-19 PCR test</b></td>
     <td style="font-size:16px;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Travellers can register and pay for their post-arrival COVID-19 PCR test at Hong Kong International Airport via a web-based application.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code, which should be presented during check-in.
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Travellers can register and pay for their post-arrival COVID-19 PCR test at Hong Kong International Airport via a web-based application <a href="https://hkia.prenetics.com">here</a>.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code, which should be presented during check-in.
       </li>
          </ol> 
  </td>
