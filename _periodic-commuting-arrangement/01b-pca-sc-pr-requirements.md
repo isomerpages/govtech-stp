@@ -4,11 +4,15 @@ permalink: /pca/scpr-requirement-and-process
 third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 ---
 
-**Notice for travellers with travel history to Sabah:** *As there has been a recent increase in COVID-19 cases in Sabah, PCA travellers entering Singapore from 14 October 2020, 2359hrs, who have a travel history to Sabah in the past 14 days, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers from all other parts of Malaysia without such travel history will continue to serve a 7-day SHN as per the prevailing policy.*
+**Notice for travellers with travel history to Malaysia:** *As there has been a recent increase in COVID-19 cases in Malaysia, **PCA travellers entering Singapore from 22 November 2020, 2359 hours**, who have a travel history in the past 14 days to Malaysia **will now be required to serve** a <u>14-day Stay-Home Notice (SHN) at dedicated SHN facilities.</u>*
+
+In addition, travellers who are not Singapore Citizens or Singapore Permanent Residents, and who have recent travel history to Malaysia within the last 14 days prior to entry will be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore. This requirement will take effect for all inbound PCA travellers arriving in Singapore from **27 November 2020, 2359 hours.**
+
+ All travellers entering Singapore from 22 November 2020, 2359 hours, who have a travel history in the past 14 days to Malaysia will now be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who are holders of the Malaysia-issued MyTravelPass can apply for a waiver of Stay-Home Notice (SHN) using SingPass, if he/she:</span>
+<span class="font-size:16px;">Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who are holders of the Malaysia-issued MyTravelPass <!--can apply for a waiver of Stay-Home Notice (SHN) using SingPass,--> and if he/she:</span>
 <ol style="list-style-type: disc;">
  <li style="font-size:18px;">Is a holder of a Malaysia-issued Long-term Social Visit Passes for business or work purposes (Employment Pass or Professional Visit Pass); and</li>
             <li style="font-size:18px;">Has spent at least 90 days working in Malaysia.</li>
@@ -27,10 +31,10 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit Waiver of Stay-Home Notice (SHN) application</b></td>
-    <td style="font-size:18px;"><b>The applicant (i.e. traveller) must submit the application <a href="https://go.gov.sg/pcasgpr"> here</a> at least seven calendar days before the intended date of entry or the prevailing health measures will apply.</b>
+    <td style="font-size:18px;"><b>The applicant (i.e. traveller) must submit the application <!--<a href="https://go.gov.sg/pcasgpr"> here</a>--> at least seven calendar days before the intended date of entry or the prevailing health measures will apply.</b>
       <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>The traveller should:</b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "><b>Read the Terms & Conditions for Waiver of Stay-Home Notice (SHN); and</b></li>
+       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  "><b>Read the Terms & Conditions for Waiver of Stay-Home Notice (SHN) <a href="/health/shn">here</a>; and</b></li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Have on hand the following details as part of the submission:</b>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> A valid Malaysia-issued MyTravelPass or PCA approval to certify that he/she has and will return to Malaysia for work;</li>
