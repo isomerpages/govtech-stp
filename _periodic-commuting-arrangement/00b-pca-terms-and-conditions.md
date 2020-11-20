@@ -9,7 +9,7 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 
 1. Prior to submitting the entry application on behalf of the Malaysia employee (“**foreign employee**”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
 : a. has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;
-: b. b.	has read and understood the following additional work pass conditions applicable to him/her (in either Annexes B or D as the case may be);
+: b. b.	has read and understood the following additional work pass conditions applicable to him/her (in **Annex B**);
 : c. agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (“**PCR**”) test results to the employer and relevant government authorities in Singapore.
 
 2. If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in **Annexes A and B** will be imposed on:
