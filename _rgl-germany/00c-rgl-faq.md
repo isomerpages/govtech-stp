@@ -265,7 +265,7 @@ There are currently no requirements for RGL travellers to take another COVID-19 
 
 #### 11. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Germany?
 
-A traveller should have on hand the  SGS Travel Pass from the receiving enterprise or invitation letter from the receiving German authority, the SGS Travel Pass from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
+A traveller should have on hand the SGS Travel Pass from the receiving enterprise or invitation letter from the receiving German authority, the SGS Travel Pass from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
 
 ### **Health Measures in Germany**
 
