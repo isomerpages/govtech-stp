@@ -154,7 +154,7 @@ Travellers by air and land are required to produce the following documents to th
 
 <!--Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the on-arrival swab test at the land checkpoints.-->
 
-#### 23. What if I test positive for COVID-19 in Singapore?
+#### 22. What if I test positive for COVID-19 in Singapore?
 
 Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
@@ -164,7 +164,7 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 ### **Health Measures in Singapore**
 
-#### 24. What health measures will I be subjected to upon arrival in Singapore?
+#### 23. What health measures will I be subjected to upon arrival in Singapore?
 
 <!--RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>4</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.-->
 
@@ -174,13 +174,13 @@ All travellers entering Singapore from 22 November 2020, 2359 hours, who have a 
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
-#### 25. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 24. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
 The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
-#### 26. What is SafeEntry?
+#### 25. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -188,7 +188,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Malaysia**
 
-#### 27. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
+#### 26. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
 
 RGL returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
 
