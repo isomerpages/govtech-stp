@@ -91,7 +91,7 @@ Estimated PCR test costs can be found in the table below:
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab Test during SHN</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$150</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$125</td>
     </tr>
   </tbody>
   </table>
