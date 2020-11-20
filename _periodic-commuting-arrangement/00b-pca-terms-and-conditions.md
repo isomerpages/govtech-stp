@@ -38,25 +38,25 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 
 *After the foreign employee arrives in Singapore*
 
-6.	The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
+6. The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
 : a. 14 days subsequent thereafter and will end at 12 noon on the 15th day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, whichever is later
 
-7.	The Employer/foreign employee shall bear the full costs of the foreign employee's stay at a dedicated SHN facility during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee. 
+7. The Employer/foreign employee shall bear the full costs of the foreign employee's stay at a dedicated SHN facility during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee. 
 
-8.	The Employer/foreign employee shall bear the full costs of the foreign employee's COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 14 days of returning to Singapore.
+8. The Employer/foreign employee shall bear the full costs of the foreign employee's COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 14 days of returning to Singapore.
 
-9.	The Employer shall ensure that the foreign employee fully complies with the additional work pass conditions imposed on the foreign employee for the SHN period.
+9. The Employer shall ensure that the foreign employee fully complies with the additional work pass conditions imposed on the foreign employee for the SHN period.
 
-10.	The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that the foreign employee has to comply with, and the advisories that he/she has to observe.
+10. The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that the foreign employee has to comply with, and the advisories that he/she has to observe.
 
-11.	The Employer shall ensure that a physical copy of the additional work pass conditions is provided to and retained by the foreign employee.
+11. The Employer shall ensure that a physical copy of the additional work pass conditions is provided to and retained by the foreign employee.
 
-12.	The Employer shall ensure that the foreign employee has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile data) with him/her at all times during the SHN period; and shall ensure that the foreign employee downloads WhatsApp on his mobile phone and responds within 1 hour when contacted by MOM via phone call, WhatsApp or Short Message Service (SMS).
+12. The Employer shall ensure that the foreign employee has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile data) with him/her at all times during the SHN period; and shall ensure that the foreign employee downloads WhatsApp on his mobile phone and responds within 1 hour when contacted by MOM via phone call, WhatsApp or Short Message Service (SMS).
 
-13.	The Employer shall ensure that the foreign employee downloads the Homer mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://homer.gov.sg/instructions/)). The foreign employee must have a thermometer to take and report his temperature.
+13. The Employer shall ensure that the foreign employee downloads the Homer mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://homer.gov.sg/instructions/)). The foreign employee must have a thermometer to take and report his temperature.
 
-14.	The Employer shall ensure that the foreign employee undergoes the required COVID-19 test(s) as scheduled. The foreign employee will be notified of the time/date/location of the appointment. Transport will be provided if the foreign employee has to travel to the test venue. Failure to go for the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
+14. The Employer shall ensure that the foreign employee undergoes the required COVID-19 test(s) as scheduled. The foreign employee will be notified of the time/date/location of the appointment. Transport will be provided if the foreign employee has to travel to the test venue. Failure to go for the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
 
 ### **Annex B - For the Foreign Employee on Stay-Home Notice**
 
@@ -82,5 +82,5 @@ third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 
 9. The foreign employee shall act responsibly in line with any advisories (as amended from time to time) issued by the Government of Singapore during the SHN period.
 
-10.	The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to foreign employee at least one day prior to the COVID-19 test. Transport will be provided if the foreign employee has to travel to the test venue. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
+10. The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to foreign employee at least one day prior to the COVID-19 test. Transport will be provided if the foreign employee has to travel to the test venue. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
 
