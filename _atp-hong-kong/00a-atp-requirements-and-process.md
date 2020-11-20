@@ -56,13 +56,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Prior to departure for Singapore</th>
+    <th colspan="2" style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: </th>
   </tr>
 </thead>
 <tbody>
     <tr>
     <td style="font-size:16px;"><b>Designated ATB flight</b> </td>
-    <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
+    <td style="font-size:16px;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government under the ATB:
         <ol style="margin-top:0px; list-style-type: disc;">
@@ -71,10 +71,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
           </ol>
           </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 onwards</b>
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 to 31 December 2020 </b>
                          <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
+   <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.</li>
           </ol>
           </li>
            </ol>
@@ -234,7 +235,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with Android version 5.0 and below </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> 	Phones running on Blackberry OS or Symbian OS </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li></ol>
-
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones running on Blackberry OS or Symbian OS </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Phones that do not have access to the Google Play store, App Store, or Google Play Services</li>
+            </ol>
+<span style="font-size:16px;">
+Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends here before departing from Singapore. 
+              <br/><br/>
+Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends here before departing from Singapore.
+ <br/> <br/>
+Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and activated. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
+ <br/> <br/>
+Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
+ 
 
