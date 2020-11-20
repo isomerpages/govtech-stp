@@ -324,9 +324,11 @@ Please disregard the electronic SHN which you may receive via email upon submiss
 
 #### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled  to Japan on the Singapore-Japan RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to Japan on the Singapore-Japan RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the Embassy of Japan in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to Japan via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Japan via the RGL.
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
+
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
 
 <div id="annexa"></div>
 
