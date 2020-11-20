@@ -4,7 +4,9 @@ permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
 
-**Notice for travellers with travel history to Sabah:** *As there has been a recent increase in COVID-19 cases in Sabah, PCA travellers entering Singapore from 14 October 2020, 2359hrs, who have a travel history to Sabah in the past 14 days, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers from all other parts of Malaysia without such travel history will continue to serve a 7-day SHN as per the prevailing policy.* 
+**Notice for travellers with travel history to Malaysia:** *As there has been a recent increase in COVID-19 cases in Malaysia, **PCA travellers entering Singapore from 22 November 2020, 2359 hours**, who have a travel history in the past 14 days to Malaysia **will now be required to serve** a <u>14-day Stay-Home Notice (SHN) at dedicated SHN facilities.</u>*
+
+In addition, travellers who are not Singapore Citizens or Singapore Permanent Residents, and who have recent travel history to Malaysia within the last 14 days prior to entry will be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore. This requirement will take effect for all inbound PCA travellers arriving in Singapore from **27 November 2020, 2359 hours.**
 
 ### 1. Eligibility 
 
@@ -130,20 +132,20 @@ travellers must make their way directly to their SHN accommodation. </b>
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>Days 0-7 after arriving</u></b> in Singapore</th>
+    <th colspan="2" style="font-size:18px;"><b><u>Days 0-14 after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
     <td style="font-size:18px;"><b>Stay Home Notice</b></td>
-    <td style="font-size:18px;"><b>Approved PCA travellers will serve a 7-day SHN* and must remain
-in their declared SHN accommodation for the duration of their SHN, unless they are: </b><br/><br/>
+    <td style="font-size:18px;"><b>Approved PCA travellers will serve a 14-day SHN* and must remain
+in <!--their declared SHN accommodation--> assigned dedicated SHN Facility for the duration of their SHN, unless they are: </b><br/><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Due for their COVID-19 PCR test appointment. Travellers must return to their declared SHN accommodation immediately after testing; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 7-day SHN, whichever later</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Tested negative for COVID-19 in Singapore and completed their 14-day SHN, whichever later</li>
          </ol>   
      <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.</p>
-    <p style="font-size:16px;margin-top:0px; margin-bottom:0px;">  *Given the increase in COVID-19 cases in Sabah, PCA travellers that have travelled to Sabah in the past 14 days prior to arriving in Singapore, will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities. PCA travellers without such travel history will continue to serve a 7-day SHN as per the prevailing policy.</p>
+    <p style="font-size:16px;margin-top:0px; margin-bottom:0px;"> All travellers entering Singapore from 22 November 2020, 2359 hours, who have a travel history in the past 14 days to Malaysia will now be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)</p>
     </td>
   </tr>
  <tr>
@@ -152,7 +154,7 @@ in their declared SHN accommodation for the duration of their SHN, unless they a
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees return to their SHN accommodation immediately after their test, where they will remain until the end of their 7-day SHN or when a negative COVID-19 PCR test is conveyed (whichever is later).</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees return to their SHN accommodation immediately after their test, where they will remain until the end of their 14-day SHN or when a negative COVID-19 PCR test is conveyed (whichever is later).</li>
          </ol>   
     </td>
   </tr>
