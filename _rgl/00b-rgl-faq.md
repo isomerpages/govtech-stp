@@ -8,8 +8,6 @@ permalink: /rgl/faq
 The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:
 - Brunei Darussalam;
 - Mainland China – Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang;
-- Japan;
-- Malaysia; and
 - Republic of Korea;
 
 ### **Application Requirements**
@@ -45,7 +43,7 @@ RGL travellers can travel to Singapore on a non-stop flight from selected airpor
 
 For travel by land, travellers may drive into Singapore in their own vehicle (including Malaysia-registered vehicles), subject to  LTA’s prevailing  regulations and fees stated on the One Motoring website [here](http://onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html).  
 
-*[1]: RGL-travellers who are travelling from Japan should leave via Narita International Airport, Haneda International Airport and Kansai International Airport. RGL-travellers travelling from the Republic of Korea are to leave via Incheon International Airport.* 
+<!--*[1]: RGL-travellers who are travelling from Japan should leave via Narita International Airport, Haneda International Airport and Kansai International Airport. RGL-travellers travelling from the Republic of Korea are to leave via Incheon International Airport.*  -->
 
 #### 5.	Can I utilise the RGL arrangement to transit through Singapore?
 
@@ -76,14 +74,14 @@ Travellers must be hosted by a Singapore-based company or government agency in S
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chinese citizens should present a copy of passport biodata page. Foreign residents in China should present a copy of China residence permit.</td>
       </tr>
-            <tr>
+           <!-- <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japanese citizens should present a copy of passport biodata page. Foreign residents in Japan should present a copy of Residence Card. </td>
-      </tr>
-            <tr>
+      </tr>-->
+         <!--   <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysian citizens should present a copy of passport biodata page. Foreign residents in Malaysia should present a copy of Malaysian Long-Term Pass.</td>
-      </tr>
+      </tr>-->
         <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Korean citizens should present a copy of passport biodata page. Foreign residents in the Republic of Korea should present a copy of Certificate of Alien Registration.</td>
@@ -171,14 +169,14 @@ Travellers must remain in and have not travelled out of the country for at least
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw/www.gov.cn/mhsjcjgcx/index.html).</td>
       </tr>
-            <tr>
+            <!--<tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the government of Japan <a href="https://www.meti.go.jp/policy/investment/tecot/top.html">here</a>. [Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email <a href="fastlane@sn.mofa.go.jp">fastlane@sn.mofa.go.jp</a> to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.</td>
       </tr>
             <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19">here</a>. </td>
-      </tr>
+      </tr>-->
         <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support <a href="www.btsc.or.kr">www.btsc.or.kr</a> / (+82) 1566-8110 / <a href="btsc@kita.net">btsc@kita.net</a>) for further details on the medical institutes. [Note: Website is in Korean; enquiries in English can be made via phone or email.]</td>
@@ -254,7 +252,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
          </tr>
-     <tr>
+    <!-- <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They will not be subjected to a COVID-19 test in Japan. There is no requirement for a serology test in Japan.  
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">
@@ -266,7 +264,7 @@ Please refer to the <a href="https://www.moh.gov.sg/licensing-and-regulation/reg
     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. </td>
-      </tr>
+      </tr>-->
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers returning to the Republic of Korea do <u>not</u> need to be tested again in Singapore. Upon their return to the Republic of Korea, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine or COVID-19 PCR test.
@@ -278,10 +276,6 @@ Please refer to the <a href="https://www.moh.gov.sg/licensing-and-regulation/reg
   </tbody>
   </table>
   
-
-
-
-
 As the specific requirements may change over time, RGL travelers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
 ### **RGL Pre-Departure COVID-19 PCR and Serology Tests in Singapore**
@@ -298,17 +292,17 @@ For destination countries/regions that have a mandatory requirement for travelle
 
 #### 26. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
 
-**[For RGL travellers under Singapore-Brunei Darussalam RGL, Singapore-Japan RGL and Singapore-ROK RGL]**
+**[For RGL travellers under Singapore-Brunei Darussalam RGL and Singapore-ROK RGL]** <!--Singapore-Japan RGL-->
 
 You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
-**[For RGL travellers under Singapore-Malaysia RGL]**
+<!--**[For RGL travellers under Singapore-Malaysia RGL]**-->
 
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
+<!--You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.-->
 
-You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below: 
+<!--You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below: -->
 
-<table>
+<!--<table>
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Flight departure time </th>
@@ -329,9 +323,9 @@ You must be present at least 2 hours prior to, and no later than, the stipulated
           <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00am the day before flight</td>
       </tr>
   </tbody>
-  </table>
+  </table>-->
         
-*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*
+<!--*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*-->
 
 Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.
 
