@@ -63,7 +63,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <tbody>
    <tr>
     <td style="font-size:16px;"><b>Travel history</b> </td>
-    <td style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must: 
+    <td style="font-size:16px;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in Australia in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure;</li>
