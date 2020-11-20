@@ -6,11 +6,13 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 
 <div id="faq-top"></div>
 
+## **Travellers in Singapore seeking entry to the following foreign counterparts countries/regions**
+
 <table>
   <thead>
     <tr>
       <th>RGL Countries</th>
-      <th>Travellers in Singapore seeking entry to foreign counterparts countries/regions</th>
+      <th>FAQ</th>
     </tr>
   </thead>
   <tbody>
