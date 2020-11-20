@@ -96,11 +96,13 @@ The designated flights from Hong Kong to Singapore are:
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
   </ol>
 
-**From 23 November 2020 onwards**
+**From 23 November 2020 to 31 December 2020**
  <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
+  
+For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.
 
 #### (B) Non-Designated Flights
   
@@ -148,12 +150,13 @@ The designated ATB flights are:
 - CX759 (HKG-SIN) operated by Cathay Pacific Airways
 - SQ890 (SIN-HKG) operated by Singapore Airlines
 
-**From 23 November 2020 onwards**
+**From 23 November 2020 to 31 December 2020**
 - CX734 (SIN–HKG) operated by Cathay Pacific Airways
 - CX759 (HKG–SIN) operated by Cathay Pacific Airways
 - SQ890 (SIN–HKG) operated by Singapore Airlines
 - SQ891 (HKG–SIN) operated by Singapore Airlines
 
+For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.
 
 #### 18. Am I guaranteed a flight ticket on a designated flight from Hong Kong to Singapore if I have an ATP?
 
@@ -219,7 +222,7 @@ Children aged 12 or younger in that calendar year and travelling with a parent/g
 
 #### 27. After downloading the TraceTogether app, how do I activate it? 
 
-After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You should register your profile on the app with the same passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
+After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
 
 If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
@@ -233,19 +236,33 @@ Please ensure that you keep your mobile device's Bluetooth function turned on so
 
 #### 29. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
-All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app, and may be refused boarding and entry into Singapore if they are unable to download the TraceTogether app on their mobile devices.
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace).
 
-Children  aged  12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
+Visitors, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
 
-#### 30. Can visitors switch off their mobile devices while in Singapore?
+Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+
+Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 14 consecutive days after departing Singapore.   
+
+Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
+
+#### 30. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
+
+Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can book a Singapore SIM card from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
+
+Visitors can pay for and collect their Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate their Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+
+Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from the TraceTogether app requirement. Visitors with a certified disability or special need are also exempted.
+
+#### 31. Can visitors switch off their mobile devices while in Singapore?
 
 No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 31. Can visitors uninstall the TraceTogether app upon departing from Singapore?
+#### 32. Can visitors uninstall the TraceTogether app upon departing from Singapore?
 
 Visitors must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if visitors are tested positive for COVID-19.
 
-#### 32. What happens if I test positive for COVID-19 in Singapore?
+#### 33. What happens if I test positive for COVID-19 in Singapore?
 
 Should ATP visitors test positive for COVID-19 in Singapore, they will be accorded the necessary medical treatment.
 
@@ -253,15 +270,15 @@ Such visitors are required to bear the full cost of medical treatment, tests and
 
 ### **Departing from Singapore**
 
-#### 33. I had travelled from Hong Kong to Singapore on an ATP. What are the requirements I need to meet if I intend to return to Hong Kong after my stay in Singapore?
+#### 34. I had travelled from Hong Kong to Singapore on an ATP. What are the requirements I need to meet if I intend to return to Hong Kong after my stay in Singapore?
 
 For information on travel to Hong Kong under the Air Travel Bubble arrangement, please refer [here](/hongkong/requirements-and-process)
 
-#### 34. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Hong Kong is within 72 hours before my departure from Singapore?
+#### 35. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Hong Kong is within 72 hours before my departure from Singapore?
 
 There is no need to take another COVID-19 PCR test in Singapore. You will need to present the COVID-19 PCR test result certificate issued to you in Hong Kong to the airline staff when checking in for your departure flight in Singapore.
 
-#### 35. How can I take a pre-departure COVID-19 PCR test in Singapore?
+#### 36. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
 The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
@@ -273,7 +290,7 @@ You are required to bear the cost of your pre-departure COVID-19 PCR test. Pleas
 - Ensuring the date and time of your test meet the entry requirements of your next onward destination; and
 - Confirming with the clinic and testing centre that your test results can be obtained in time for your departure flight.
 
-#### 36. How can I make an appointment for my pre-departure COVID-19 PCR test in Singapore and how far in advance should I do so?
+#### 37. How can I make an appointment for my pre-departure COVID-19 PCR test in Singapore and how far in advance should I do so?
 
 You are advised to make an appointment with the listed clinic or testing centre of your choice as early as possible. You must also ensure that the booked time slot for your test meets the entry requirement of your next onward destination and is no later than 48 hours before your departure flight. If the test is taken at the clinic or testing centre less than 38-40 hours before your departure flight, you may not receive your results in time for your flight.
 
@@ -286,26 +303,26 @@ Please have the following information on hand when you are making an appointment
 - Contact number; and
 - Email address
 
-#### 37. What documents must I bring along for my appointment?
+#### 38. What documents must I bring along for my appointment?
 
 Please bring along the following documents for your appointment:
 - Passport;
 - Electronic or physical copy of ATP approval letter; and
 - Electronic or physical copy of departure flight ticket
 
-#### 38. When can I expect to get the results of my pre-departure COVID-19 PCR test taken in Singapore?
+#### 39. When can I expect to get the results of my pre-departure COVID-19 PCR test taken in Singapore?
 
 You will receive your COVID-19 PCR test results and certificate no later than 3 hours before your flight departure time, if the test was taken at the clinic or testing centre no later than 38-40 hours before your departure flight. Please let the clinic or testing centre know if you need to receive the test result certificate by a certain date and time.
 
 The clinic or testing centre will send the test result certificate to your email address. Please ensure that you have an electronic or physical copy of your test result certificate before heading to the airport for your departure flight.
 
-#### 39. Do children need to undergo a pre-departure COVID-19 PCR test in Singapore to travel to Hong Kong?
+#### 40. Do children need to undergo a pre-departure COVID-19 PCR test in Singapore to travel to Hong Kong?
 
 Yes. All visitors, regardless of age, are required to undergo a pre-departure COVID-19 PCR test in Singapore within 72 hours before the scheduled departure time of their designated flight from Singapore to Hong Kong.
 
 ### **Others**
 
-#### 40. What must visitors present to airline staff during check-in at the departure airport for Singapore?
+#### 41. What must visitors present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
   <ol style="margin-top:0px; list-style-type: disc;">
@@ -326,13 +343,15 @@ Children aged 12 or younger in that calendar year and travelling with family are
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-#### 41. Can visitors use the ATP to transit/transfer through Singapore?
+For visitors who do not have mobile devices that can download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 29 and 30.
+
+#### 42. Can visitors use the ATP to transit/transfer through Singapore?
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
 Note that the flights between Hong Kong and Singapore, that have been designated by Singapore Government and Hong Kong Government under the ATB, are not open to travellers intending transit or transfer through Singapore on their way to and from Hong Kong. Such travellers can only take non-designated flights.
 
-#### 42. Do visitors, who are travelling from Hong Kong to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong?
+#### 43. Do visitors, who are travelling from Hong Kong to transit / transfer through Singapore, need to take a pre-departure COVID-19 PCR test within 72 hours before departing from Hong Kong?
 
 There is no need, but visitors are advised to check with their airline that the transfer route that they are taking has been approved by the Civil Aviation Authority of Singapore (CAAS).
 
