@@ -12,7 +12,7 @@ permalink: /malaysia/pca/apply-now
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><a href="https://go.gov.sg/pcamsia">https://go.gov.sg/pcamsia</a></td>
+      <td width="60%"><a href="https://go.gov.sg/pcamsia">https://go.gov.sg/pcamsia</a></td>
       <!--<td width="50%"><a href="https://go.gov.sg/pcasgpr">https://go.gov.sg/pcasgpr</a></td>-->
     </tr>
     <tr>
