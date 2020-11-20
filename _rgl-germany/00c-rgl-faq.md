@@ -293,7 +293,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Si
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
 
-With effect from 1 January 202, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
 
 -----
 
