@@ -6,33 +6,46 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 
 <div id="faq-top"></div>
 
-## **RGL Brunei Darusalam**
+<table>
+  <thead>
+    <tr>
+      <th>RGL Countries</th>
+      <th>Travellers in Singapore seeking entry to foreign counterparts countries/regions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Brunei Darusalam</td>
+      <td><a href="#faq-outbound-brunei">Click here/a></td>
+    </tr>
+      <tr>
+      <td>China</td>
+      <td><a href="#faq-outbound-china">Click here/a></td>
+    </tr>
+      <tr>
+      <td>Germany</td>
+      <td><a href="/germany/rgl/faq/#faq-outbound-germany">Click here/a></td>
+    </tr>
+      <tr>
+      <td>Indonesia</td>
+      <td><a href="/indonesia/rgl/faq/#faq-outbound-indonesia">Click here/a></td>
+    </tr>
+      <tr>
+      <td>Japan</td>
+      <td><a href="/japan/rgl/faq#faq-outbound-japan">Click here/a></td>
+    </tr>
+      <tr>
+      <td>malaysia</td>
+      <td><a href="/malaysia/rgl/faq#faq-outbound-malaysia">Click here/a></td>
+    </tr>
+      <tr>
+      <td>Republic of Korea</td>
+      <td><a href="#faq-outbound-korea">Click here/a></td>
+    </tr>    
+  </tbody>
+  </table>
 
-- [Application Process for Travellers in Singapore seeking entry into Brunei Darusalam](#faq-outbound-brunei)
-
-## **RGL China**
-
-- [Application Process for Travellers in Singapore seeking entry into China](#faq-outbound-china)
-
-## **RGL Germany**
-
-- [Application Process for Travellers in Singapore seeking entry into Germany](/germany/rgl/faq/#faq-outbound-germany)
-
-## **RGL Indonesia**
-
-- [Application Process for Travellers in Singapore seeking entry into Indonesia](/germany/rgl/faq/#faq-outbound-indonesia)
-
-## **RGL Japan**
-
-- [Application Process for Travellers in Singapore seeking entry into Japan](/japan/rgl/faq#faq-outbound-japan)
-
-## **RGL Malaysia**
-
-- [Application Process for Travellers in Singapore seeking entry into Malaysia](/malaysia/rgl/faq#faq-outbound-malaysia)
-
-## **RGL Republic of Korea**
-
-- [Application Process for Travellers in Singapore seeking entry into Korea](#faq-outbound-korea)
+-----
 
 <div id="faq-outbound-brunei"></div>
 
