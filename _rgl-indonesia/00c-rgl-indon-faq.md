@@ -1,7 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /indonesia/rgl/faq
----
 
 
 ### **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS** 
