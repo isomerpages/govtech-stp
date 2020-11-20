@@ -61,7 +61,7 @@ When the SafeTravel Pass-RGL application is approved, an approval letter will be
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure to Singapore at any of the healthcare institutions in Indonesia listed here . To travel to Singapore, travellers should obtain a negative COVID-19 test result, in English, stating the time and date which the test was administered. 
+    <td style="font-size:16px;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure to Singapore at any of the healthcare institutions in Indonesia listed <a href="/pdf/IDN_clinic_list_26102020.pdf"> here</a>. To travel to Singapore, travellers should obtain a negative COVID-19 test result, in English, stating the time and date which the test was administered. 
  </td>
   </tr>
   <thead>
