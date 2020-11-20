@@ -3,7 +3,7 @@ title: Requirements & Process
 permalink: /germany/rgl/requirements-and-process
 ---
 
-On **XX November 2020**, Singapore and Germany agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries.
+On 23 October 2020, Singapore and Germany agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries.
 
 The Singapore – Germany RGL is only applicable for travel between airports in Singapore and Germany which have available non-stop flight routes.
 
@@ -19,7 +19,7 @@ IMPORTANT
 
 - Travellers (who are not Singapore Citizens, Permanent Residents or Long-Term Pass holders) without a valid SafeTravel Pass will be refused entry into Singapore.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/germany/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/germany/rgl/terms-and-conditions).
 
 ## **Process Overview**
 
@@ -58,7 +58,6 @@ Travellers who do not produce the documents above at pre-boarding or immigration
 The SafeTravel Pass traveller will undergo a COVID-19 PCR test upon arrival in Singapore at his/her own cost. 
 
 At on-arrival immigration checks, approved SafeTravel Pass travellers must produce:
-
 - A valid SafeTravel Pass for the intended week of travel;
 - A valid visa to enter Singapore (for travellers holding passports that require a visa to enter Singapore);
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and
@@ -76,7 +75,7 @@ SafeTravel Pass travellers to Singapore must subscribe to the relevant contact t
 
 In addition to abiding by prevailing local public health and safety distancing measures, SafeTravel Pass travellers must adhere to a pre-submitted controlled itinerary that is supervised by the host company or government agency for the first 14 days.  The traveller is prohibited from using public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.
 
-For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](https://safetravel.ica.gov.sg/germany/rgl/terms-and-conditions).
+For more information on the Terms and Conditions of the SafeTravel Pass, please click [here](/germany/rgl/terms-and-conditions).
 
 -----
 

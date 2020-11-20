@@ -62,6 +62,12 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>&nbsp;</td>
  </tr>
   <tr>
+  <td>Germany</td>
+  <td>&nbsp;</td>
+  <td><a href="germany/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td>&nbsp;</td>
+ </tr>
+  <tr>
   <td>Hong Kong</td>
     <td><a href="/hongkong/atp/requirements-and-process">Air Travel Pass<sup>2</sup></a></td>
   <td>&nbsp;</td>

@@ -18,6 +18,7 @@ For more details on PDT, please click [here](/health/pre-departure-test).
 Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following countries/regions for short term business and official travel. 
 - Brunei Darussalam
 - China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
+- Germany
 - Indonesia
 - Japan
 - Malaysia
