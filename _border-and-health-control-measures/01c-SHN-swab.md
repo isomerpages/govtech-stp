@@ -32,12 +32,13 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
-Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
-- Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
-- Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
+- Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
+- Are occupying their place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
+- There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
 
-Applications must be made at least three days prior  to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+Applications must be made at least three days prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process
 
 The list of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
