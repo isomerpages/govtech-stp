@@ -111,8 +111,9 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
    <tr>
     <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:18px;"><b>For travellers arriving on 22 Nov onwards, immediately after clearing the checkpoint, approved PCA travellers will be transported to their assigned dedicated SHN Facility to serve their 14 Day SHN </b> Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility. 
+     <br>
     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">
-      <Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:
+      Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
