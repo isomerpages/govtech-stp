@@ -158,9 +158,10 @@ Please refer to <https://mom.gov.sg/feedbackshn> if you are encountering technic
 
 ### **SHN Measures**
 
-#### 29. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
+#### 29. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. Can I apply for a SHN waiver?
 
-Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).
+<!--Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).-->
+All travellers entering Singapore from 22 November 2020, 2359 hours, who have a travel history in the past 14 days to Malaysia will now be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)
 
 #### 30. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
