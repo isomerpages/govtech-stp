@@ -64,7 +64,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td>Germany</td>
   <td>&nbsp;</td>
-  <td><a href="germany/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/germany/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
