@@ -1,4 +1,7 @@
-
+---
+title: Requirements and Process
+permalink: /malaysia/rgl/requirements-and-process
+---
 
 On 14 July 2020, Singapore and Malaysia agreed to implement the Reciprocal Green Lane (RGL) to facilitate short-term essential business and official travel between both countries.
 

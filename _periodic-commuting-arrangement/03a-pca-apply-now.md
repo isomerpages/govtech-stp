@@ -12,12 +12,12 @@ permalink: /malaysia/pca/apply-now
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><a href="https://go.gov.sg/pcamsia">https://go.gov.sg/pcamsia</a></td>
-      <td width="50%"><a href="https://go.gov.sg/pcasgpr">https://go.gov.sg/pcasgpr</a></td>
+      <td width="60%"><a href="https://go.gov.sg/pcamsia">https://go.gov.sg/pcamsia</a></td>
+      <td width="50%"><!--<a href="https://go.gov.sg/pcasgpr">https://go.gov.sg/pcasgpr</a>--></td>
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/pcamsia"><img src="/images/qr-pcamsia.png" alt="https://go.gov.sg/pcamsia" title="https://go.gov.sg/pcamsia"></a></td>
-      <td><a href="https://go.gov.sg/pcasgpr"><img src="/images/qr-pcasgpr.png" alt="https://go.gov.sg/pcasgpr" title="https://go.gov.sg/pcasgpr"></a></td>
+      <td style="text-align:center;">Applications temporarily suspended<!--<a href="https://go.gov.sg/pcasgpr"><img src="/images/qr-pcasgpr.png" alt="https://go.gov.sg/pcasgpr" title="https://go.gov.sg/pcasgpr"></a>--></td>
     </tr>
   </tbody>
 </table>
