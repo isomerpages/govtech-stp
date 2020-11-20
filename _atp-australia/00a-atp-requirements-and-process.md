@@ -57,7 +57,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Prior to departure for Singapore</th>
+    <th colspan="2" style="font-size:16px;">Prior to departing for Singapore, visitors holding an ATP must:</th>
   </tr>
 </thead>
 <tbody>
@@ -82,23 +82,28 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Non-Residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result<sup>1</sup> (the accommodation<sup>2</sup> must be non-residential and an individual room with an attached toilet); and</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result<sup>1</sup> (the accommodation<sup>2</sup> must be non-residential and an individual room with an attached toilet);</li>
      </ol>
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</i></p>
     </td>
  </tr>
   <tr>
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>4</sup>, and register their mobile number and personal details on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>4</sup>, and register their mobile number and profile on the app.</li>
      </ol>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
+                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Those unable to use a mobile device due to a certified disability and/or special need</li>
+     </ol> </p>                
     </td>
  </tr>
    <tr>
     <td style="font-size:16px;"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.<br/> <i>Note: Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i></li>
      </ol>
     </td>
  </tr>
@@ -193,12 +198,18 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with Android version 5.0 and below </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> 	Phones running on Blackberry OS or Symbian OS </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li></ol>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones running on Blackberry OS or Symbian OS </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li>
+             <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Phones that do not have access to the Google Play store, App Store, or Google Play Services</li>
+            </ol>
  <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px;">
- <sup>4</sup>The following groups are not required to download the TraceTogether app:
- <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian. </li>
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">	Those unable to use a mobile device due to a certified disability and/or special need. </li></ol>
+Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends here before departing from Singapore. 
+
+Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends here before departing from Singapore.
+
+Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and activated. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
+
+Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
+ 
 
