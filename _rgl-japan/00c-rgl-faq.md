@@ -164,8 +164,6 @@ If the result indicates that the traveller has tested negative for COVID-19, the
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
-All travellers entering Singapore from 22 November 2020, 2359 hours, who have recent travel history to Japan will be required to serve a 14-day SHN at dedicated SHN facilities (with no opt-out option).
-
 #### 23. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
