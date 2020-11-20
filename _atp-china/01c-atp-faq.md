@@ -193,7 +193,6 @@ Visitors can pay for and collect their Singapore SIM card at the Changi Recommen
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from the TraceTogether app requirement. Visitors with a certified disability or special need are also exempted.
 
-
 #### 31. Can visitors switch off their mobile devices while in Singapore?
 
 No, visitors must keep mobile devices and the Bluetooth function switched on at all times while in Singapore.
