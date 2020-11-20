@@ -211,7 +211,7 @@ Please bring the following:
 2. PDF copy of the Entry Travel Pass which confirms that you are granted approval by the relevant authorities to travel to Brunei under the Singapore-Brunei RGL 
 3. Softcopy showing your departure flight timing
 
-##### Testing
+#### Testing
 
 ##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
 
@@ -219,4 +219,256 @@ Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a 
 
 Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
 
-##### 8. What happens if the clinic assesses that I am unable to 
+##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
+
+##### Test Results
+
+##### 9. When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your flight.
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+
+-----
+
+<sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum.
+
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
+
+<div id="faq-outbound-china"></div>
+
+## **Application Process for Travellers in Singapore seeking entry into Mainland China**
+
+### **Application**
+
+#### 1. Who is eligible to apply to travel to China under the RGL?
+
+Persons of all nationalities who are legally resident in Singapore (i.e., Singapore Citizens, Permanent Residents, Long-Term Pass holders) who need to make single-entry, short term essential travel for business or official travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
+
+The relevant Chinese government authorities will assess each application on a case-by-case basis.
+
+#### 2.	How do Singapore residents apply to travel to China under the RGL?
+
+Residents in Singapore seeking to travel to China for essential business or official travel via the RGL must be sponsored by either a company or a government agency in China, which will file an application on behalf of the applicant with the local provincial/municipal authorities.  As the application process and documents required for each province/municipality may vary, the local host company or government agency should check with the relevant local provincial/municipal authorities for more details. A list of these local authorities is at **<a href="#annexa">ANNEX A</a>**.
+
+If the application is approved, a Letter of Invitation specifically for essential business or official travel under the RGL will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
+
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
+
+#### 3. What visas will I be eligible for under the RGL, and what is the visa duration in China?
+
+The duration and type of the visas issued by China will be assessed on a case-by-case basis by the Chinese authorities.
+
+#### 4.	How can I further extend my visa duration when I am in China, if necessary?
+
+The traveller’s host company or government agency should contact the local Entry-Exit Administration Bureau for more information.
+
+#### 5.	Is the RGL meant for long-term work and study?
+
+The RGL is only for short-term essential business and official travel, and not for long-term work or study.
+
+Those seeking to enter China for purposes other than essential business and official travel should contact the PRC Embassy in Singapore for further details.
+
+#### 6.	Where in China may I travel to? What are the approvals which I will need to obtain to do so?
+
+The RGL is for travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
+
+A traveller from Singapore who needs to travel between adjacent RGL regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination.
+
+The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other RGL regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
+
+After the first 14 days, inter-provincial/municipal travel for the non-RGL regions within China will be allowed for a RGL traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned.
+
+As some provinces/municipalities may require additional COVID-19 test(s) before the traveller is allowed to embark on inter-provincial/municipal travel, the traveller’s local host company or government agency should check with the relevant local provincial/municipality authorities if there are any such requirements.
+
+#### 7.	Who can I contact for more information on the arrangements in China, e.g., accommodation and transport?
+
+The traveller may contact his/her host company or government agency in China to make the necessary arrangements in China.
+
+### **Test Arrangements**
+
+#### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
+
+The RGL traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+
+The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
+
+The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
+
+The traveller must also obtain a letter from the PRC Embassy in Singapore which confirms that he/she has been granted approval by the relevant authorities in China to travel to China under the Singapore-China RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
+
+The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+
+#### 9. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
+
+Travellers with ARI symptoms should not travel. They should postpone their travel plans.
+
+#### 10.	What tests will I be subject to upon arrival in China? Will I be subject to a serology test in China?
+
+A RGL traveller to China will be subject to a PCR test and a serology test upon arrival.<sup>1</sup>
+
+#### 11. What if I test positive for COVID-19 in China?
+
+If tested positive for COVID-19 in China, the traveller will be accorded the necessary medical treatment by the local government at his/her cost.
+
+#### 12. I have completely recovered from COVID-19, but may still test positive on the post-arrival serology test in China. May I still travel to China?
+
+The Chinese authorities require a traveller to test negative for both the post-arrival PCR test and serology test before the traveller can proceed with his/her travel plans in China.
+
+### **Pre-Departure in Singapore**
+
+#### 13. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
+
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the RGL.
+
+As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements with his/her local host company or government agency.
+
+### **Health Measures in China**
+
+#### 14. Do I need to be quarantined upon arrival in China?
+
+After undergoing a PCR test and serology test upon arrival, the traveller must remain in a centralised quarantine area designated by the local provincial/municipal government for one to two days until the test results are released. The traveller has to bear the costs of the post-arrival tests and the one to two days’ stay in the designated location.
+
+If the traveller tests negative for both COVID-19 tests, the host company or government agency will transport the traveller directly from the above-mentioned location designated by the local provincial/municipal government to the workplace or residence.
+
+#### 15. What other health measures will I be subject to in China? What would qualify as a “controlled itinerary” in China?
+
+The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in China, including downloading the local health QR code used in the province/municipality.
+
+The host company or government agency will supervise the itinerary of and provide private transport for the traveller for the first 14 days upon his/her arrival in China.
+
+The traveller can only commute between his/her residence and the workplace via a dedicated car and driver (i.e., no public transport allowed).
+
+As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements of the provincial/municipal authorities with his/her local host company or government agency.
+
+While a traveller no longer needs to adhere to a controlled itinerary after the first 14 days, he/she must still follow local COVID-19 prevention and control measures for the duration of his/her stay in China. As some provinces/municipalities may require the traveller to undergo additional COVID-19 test(s) before being allowed to move beyond a controlled itinerary after the first 14 days, your local host company or government agency should verify the latest requirements with the relevant local provincial/municipality authorities.
+
+### **Returning to Singapore**
+
+#### 16. What health measures will I be subject to upon returning to Singapore after my RGL travel?
+
+Singapore-based travellers returning from their travel on the Singapore-China RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
+- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
+- Produce the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval to travel under the Singapore-China RGL to ICA at Singapore Immigration.
+
+Please refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for returning travellers.
+
+Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+
+##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
+
+Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to China on the Singapore-China RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to China on the Singapore-China RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+
+Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the RGL.
+
+<div id="annexa"></div>
+
+### **ANNEX A**
+
+#### Points-of-Contact for Outbound Travel by Singapore Residents to RGL Regions in China
+
+| RGL Region | Local Provincial/Municipal Authorities |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chongqing | For business travellers: Commerce Bureaus of the relevant counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant counties/districts |
+| Guangdong | Foreign Affairs Offices of the relevant cities/counties/districts |
+| Jiangsu | For business travellers: Commerce Bureaus of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities |
+| Shanghai | Commerce Bureaus of the relevant districts |
+| Tianjin | Foreign Affairs Offices of the relevant cities/counties/districts |
+| Zhejiang | For business travellers: Commerce Bureaus of the relevant cities/counties/districts<br />For official passport holders: Foreign Affairs Offices of the relevant cities |
+
+<div id="annexb"></div>
+
+### **ANNEX B**
+
+#### Pre-Departure COVID-19 Tests in Singapore
+
+##### Booking an appointment
+
+##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers.
+
+Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+
+##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
+
+You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment.
+
+You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below. Travellers who do not adhere to this cut-off timing will **not** be able to obtain the results in time for departure.
+
+| Flight departure time | Latest Cut-off Test Timing |
+|-----------------------|-----------------------------------------|
+| 12:00am to 9:29am | 10.00am two calendar days before flight |
+| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
+| 3.30pm to 11.59pm | 10:00am the day before flight |
+
+*Example:*
+*If a traveller’s departure flight time for China is 12pm on 30 September, the required test must be done within 72 hours of departure, i.e., the traveller should take the test from 12pm on 27 September onwards, until the cut-off timing at 4pm on 28 September.*
+
+##### 3. How can I make an appointment for pre-departure PCR testing?
+
+For RGL travel to China, the pre-departure PCR test must be done within 72 hours prior to departure.
+
+Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
+
+##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
+
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and your RGL application is approved.
+
+Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
+
+If you do not make a prior appointment, please note that:
+1. There is no guarantee that there will be a test slot for you; and
+2. You may not get your results in time for your flight to qualify for RGL arrangements.
+
+Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
+
+##### 5. What details will I need to book an appointment for the PCR test?
+
+Please have the following information on hand when making an appointment for your test:
+1. Identity card number or passport number
+2. Departure flight timing
+3. Required test window based on your destination country
+4. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
+5. Address in Singapore
+6. Contact number
+7. Email address
+
+##### 6. What documents should I bring for my appointment?
+
+Please bring the following:
+1. Identity card or passport
+2. Letter from the PRC Embassy confirming that you have been granted approval by the relevant authorities in China to travel to China under the Singapore-China RGL
+3. Softcopy booking reference showing your departure flight timing
+
+##### Testing
+
+##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
+
+Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight.
+
+Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
+
+##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
+
+##### Test Results
+
+##### 9. When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your flight.
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+
+-----
+
+<sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum. A serology test seeks to detect antibodies produced by the immune system against COVID-19, and the sample is taken via a blood test.
+
+-----
+
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
