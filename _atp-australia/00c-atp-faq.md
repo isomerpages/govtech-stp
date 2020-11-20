@@ -184,6 +184,7 @@ Visitors, with mobile devices that are unable to download the TraceTogether app,
 Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
 
 Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 14 consecutive days after departing Singapore.   
+
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
 #### 30. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
