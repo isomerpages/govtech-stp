@@ -8,8 +8,6 @@ third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
 
 In addition, travellers who are not Singapore Citizens or Singapore Permanent Residents, and who have recent travel history to Malaysia within the last 14 days prior to entry will be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore. This requirement will take effect for all inbound PCA travellers arriving in Singapore from **27 November 2020, 2359 hours.**
 
- All travellers entering Singapore from 22 November 2020, 2359 hours, who have a travel history in the past 14 days to Malaysia will now be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)
-
 ### 1. Eligibility 
 
 <span class="font-size:16px;">Returning Singapore Citizens (SC) and Singapore Permanent Residents (SPR) who are holders of the Malaysia-issued MyTravelPass <!--can apply for a waiver of Stay-Home Notice (SHN) using SingPass,--> and if he/she:</span>
