@@ -3,6 +3,10 @@ title: Frequently Asked Questions
 permalink: /malaysia/pca/faq
 ---
 
+**Notice for travellers with travel history to Malaysia:** *As there has been a recent increase in COVID-19 cases in Malaysia, **PCA travellers entering Singapore from 22 November 2020, 2359 hours**, who have a travel history in the past 14 days to Malaysia **will now be required** to serve <u>a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities.</u>* 
+
+In addition, travellers who are not Singapore Citizens or Singapore Permanent Residents, and who have recent travel history to Malaysia within the last 14 days prior to entry will be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore. This requirement will take effect for all inbound PCA travellers arriving in Singapore from **27 November 2020, 2359 hours**.
+
 ### **General**
 
 #### 1. What is the Periodic Commuting Arrangement?
@@ -73,9 +77,9 @@ No. Please apply for an [entry approval with MOM](http://www.mom.gov.sg/covid-19
 
 #### 14. Do I need to pay to apply for PCA on behalf of my employees?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 5 (or Day 11, in the case of Sabah) of stay at the SDF.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 11 of stay at the SDF.
 
-<!--Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
+<!-- (or Day 11, in the case of Sabah)Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
 #### 15. What is the duration of stay in Singapore that my employee will be eligible for under PCA?  Can I extend the PCA period for my employee?
 
@@ -160,7 +164,7 @@ Please refer to <https://mom.gov.sg/feedbackshn> if you are encountering technic
 
 #### 29. I am a Singapore Citizen/PR under the Malaysia-issued PCA who wants to return to Singapore on short-term home leave. How do I apply for a SHN waiver?
 
-Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).
+Singapore Citizens/PRs under the Malaysia-issued PCA (i.e. holders of PCA MYTravelPass) can apply to take a COVID-19 PCR test upon arrival at Woodlands Checkpoint or Tuas Checkpoint at their own cost, in lieu of Stay-Home Notice (SHN), when returning to Singapore for short-term home leave. <!--You may apply for a SHN waiver [here](https://form.gov.sg/#!/5f2140ab27ed400012c8edfc).-->
 
 #### 30. Is cohorting allowed for Stay-Home-Notice (SHN)?
 
@@ -168,9 +172,11 @@ Yes. Cohorting is allowed for up to four pax, provided that the employees arrive
 
 #### 31. Where can my employees serve their Stay-Home Notice (SHN)?
 
-Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room.
+Employees will serve their SHN in dedicated SHN facilities.
 
-Please note that the above SHN requirements do <u>not<u> apply to employees who have a travel history to Sabah in the past 14 days before entry into Singapore. Such employees will serve their SHN in dedicated SHN facilities instead.
+<!--Employees are only allowed to serve their SHN in hotels, serviced apartments, or single-occupancy residences (i.e. if there is only one employee in the entire SHN accommodation). However, an exception can be made for employees who are serving their SHN in premises occupied by immediate family members (i.e. parents, siblings, spouse and children), or employees who are cohorting (up to four pax) provided that the employees arrive in Singapore on the same day. Employees are prohibited from serving their SHN at a dormitory, hostel or rented room.-->
+
+<!--Please note that the above SHN requirements do <u>not<u> apply to employees who have a travel history to Sabah in the past 14 days before entry into Singapore. Such employees will serve their SHN in dedicated SHN facilities instead.-->
 
 #### 32. May I serve my Stay-Home Notice (SHN) at a family member or relatives’ house?
 
