@@ -166,11 +166,9 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 #### 23. What health measures will I be subjected to upon arrival in Singapore?
 
-<!--RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>4</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.-->
+RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>4</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
-<!--If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>-->
-
-All travellers entering Singapore from 22 November 2020, 2359 hours, who have a travel history in the past 14 days to Malaysia will now be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
