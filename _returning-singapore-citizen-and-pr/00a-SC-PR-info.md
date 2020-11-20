@@ -60,11 +60,13 @@ The designated ATB flights from Hong Kong to Singapore are:
    <!-- <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>-->
   </ol>
   
-**From 23 November 2020 onwards**
+**From 23 November 2020 to 31 December 2020**
   <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol> 
+  
+For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.
   
 #### (B) Non-Designated Flights
   
