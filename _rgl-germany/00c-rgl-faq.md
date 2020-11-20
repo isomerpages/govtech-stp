@@ -34,8 +34,6 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do residents in Germany apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit? 
 
-#### 4. How do residents in Germany apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a visa? How long is the processing time? What documents do I need to submit? 
-
 Residents in Germany seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly [here](https://eservices.ica.gov.sg/STO), or through a sponsoring government agency.<sup>1</sup>  
 
 When applying for the SafeTravel Pass, travellers must have remained in Germany for 14 days prior to departure for Singapore. They must monitor their health status before departure from Germany, undergo a pre-departure PCR test in  Germany at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Germany, and a copy of the traveller(s)’ passport page, is required. German nationals should present a copy of their passport page, while foreign residents in Germany should present a copy of any of the documents below:
