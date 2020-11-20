@@ -83,11 +83,11 @@ Estimated PCR test costs can be found in the table below:
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Land Checkpoints</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$150</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Ferry Terminals</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$150</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab Test during SHN</td>
