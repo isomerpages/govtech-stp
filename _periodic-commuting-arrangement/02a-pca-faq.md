@@ -130,6 +130,8 @@ For the best user experience, we recommend that you use Google Chrome (version 8
 
 Please ensure that your employee has a copy (digital or hardcopy) of the PCA approval letter, which may be required as proof during immigration clearance at Malaysia's checkpoint. The employee must present a valid passport and work pass at the Singapore checkpoint, otherwise he/she will be turned away.
 
+With effect from 27 November 2020, 2359 hours, your employee will also need to take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before entry into Singapore and present a valid negative COVID-19 test result at the Singapore checkpoint as a condition for entry into Singapore. 
+
 #### 24. My employee is suddenly unable to enter Singapore on the date indicated in the application, can I amend the application and seek a refund for the COVID-19 PCR test?
 
 No. Please make sure that your employee is able to enter on the date indicated in the application. You may not amend a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
