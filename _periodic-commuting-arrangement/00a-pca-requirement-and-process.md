@@ -144,7 +144,7 @@ Employees approved under the PCA may commute from Malaysia’s immigration check
  <tr>
     <td style="font-size:18px;"><b>SHN at dedicated SHN facilities</b></td>
   <td style="font-size:18px;">The employee must remain in the dedicated SHN facility for at least 14 days from the date of entry into Singapore and test negative for COVID-19, whichever is later. The employee will undergo the COVID-19 PCR test on-site at the dedicated SHN facility. Otherwise, arrangements will be made for the employee to be transported to the test venue.
-   <br/></br/>
+   <br/><br/>
   Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
     </td>
   </tr>
