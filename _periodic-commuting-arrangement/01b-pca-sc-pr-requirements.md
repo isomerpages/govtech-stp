@@ -22,8 +22,6 @@ In addition, travellers who are not Singapore Citizens or Singapore Permanent Re
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px;"><b><u>At least 7 calendar days</u></b> before planned date of entry into Singapore</th>-->
-    <!-- <th>Scenarios</th>
-   <th>Charging Policy for C+ treatment</th> -->
   <!--</tr>
 </thead>
 <tbody>
