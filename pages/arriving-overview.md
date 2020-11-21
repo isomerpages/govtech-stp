@@ -69,7 +69,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td>Hong Kong</td>
-    <td>Air Travel Bubble launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</td>
+    <td>Air Travel Bubble launch deferred. Click <a href="/hongkong/atp/notice">here</a> for more details.</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
