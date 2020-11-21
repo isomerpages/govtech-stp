@@ -121,7 +121,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be non-residential and an individual room with an attached toilet)</li>
      </ol>
-     <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) website for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
+     <i>Note: Visitors may refer to the <a href="https://sha.org.sg/green-lane-travellers" target="_blank">Singapore Hotel Association (SHA) website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
     </td>
  </tr>
   <tr>
@@ -199,9 +199,27 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
        </li>     
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
     </ol><br/>
-      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b>
+      <b>Visitors who does not have any of the above may be refused entry into Singapore by ICA.</b>
          </td>
  </tr>
+ <tr>
+    <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
+    <td style="font-size:16px;">Visitors who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    </td>
+ </tr>
+ <tr>
+    <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
+    <td style="font-size:16px;">Visitors who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:16px;"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
+    <td style="font-size:16px;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.
+    <br>
+    <br>
+Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
+    </td>
+  </tr>
   </tbody>
  </table>
 
