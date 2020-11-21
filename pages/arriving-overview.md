@@ -69,7 +69,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td>Hong Kong</td>
-    <td>Applications for Air Travel Pass have been suspended until further notice.</a></td>
+    <td>Air Travel Pass launch deferred. Click [here](/hongkong/atb/notice) for more details.</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
