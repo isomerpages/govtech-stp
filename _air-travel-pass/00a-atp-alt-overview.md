@@ -31,7 +31,7 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
   </tr>
   <tr>
     <td><b>Hong Kong</b></td>
-      <td style="text-align:center;" colspan="3">Launch of the Hong Kong ATB has been deferred. Click <a href="/hongkong/atp/notice">here</a> for more details</td>
+      <td style="text-align:center;" colspan="3">Launch of the Hong Kong Air Travel Bubble has been deferred. Click <a href="/hongkong/atp/notice">here</a> for more details</td>
       <!--<td style="text-align:center;"><a href="/hongkong/atp/conditions">Click here</a></td>-->
       <!--<td style="text-align:center;"><a href="/hongkong/atp/faq">Click here</a></td>-->
   </tr>
