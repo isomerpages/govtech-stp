@@ -25,6 +25,13 @@ Click [here](/rgl/returning) for details on travel to Singapore using the RGL.
 
 ### Singapore Citizens and Permanent Residents Travelling from Hong Kong under Air Travel Bubble (ATB) Arrangement
 
+<b>IMPORTANT NOTICE: DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH</b>
+
+Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health.
+
+Singapore Citizens and Singapore Permanent Residents can still travel from Hong Kong to Singapore on non-designated ATB flights. They will be subject to the prevailing health measures upon entry into Singapore.
+
+<!--
 Singapore Citizens and Singapore Permanent Residents travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:20px; list-style-type:upper-alpha;"> 
   <li style="font-size:18px; list-style-type:upper-alpha;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or </li>
@@ -33,6 +40,7 @@ Singapore Citizens and Singapore Permanent Residents travelling from Hong Kong t
 They must meet the requirements for the type of flight that they are taking.
 
 #### (A) Designated ATB Flights
+
 
 For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
 
@@ -82,4 +90,5 @@ Children aged 12 or younger in that calendar year are not required to:
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. Please click [here](/health) for more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore.
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
-   
+
+-->
