@@ -32,4 +32,5 @@ Singapore has agreed with Malaysia on a Periodic Commuting Arrangement (PCA) for
 
 ### Travel to Hong Kong SAR under the Air Travel Bubble (ATB) Arrangement 
 
-Under the Air Travel Bubble arrangement agreed between the Governments of Hong Kong and Singapore, eligible persons can travel from Singapore to Hong Kong on designated ATB flights and be exempted from the quarantine requirement upon arrival in Hong Kong, if they meet certain requirements laid out by the Hong Kong Government. For more information, please refer [here](/hongkong/requirements-and-process).
+Travel to Hong Kong under the ATB has been suspended until further notice.
+<!--Under the Air Travel Bubble arrangement agreed between the Governments of Hong Kong and Singapore, eligible persons can travel from Singapore to Hong Kong on designated ATB flights and be exempted from the quarantine requirement upon arrival in Hong Kong, if they meet certain requirements laid out by the Hong Kong Government. For more information, please refer [here](/hongkong/requirements-and-process).-->
