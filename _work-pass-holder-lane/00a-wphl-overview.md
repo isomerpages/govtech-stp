@@ -49,8 +49,6 @@ To be eligible to take a designated ATB flight, they are required to:
 
 Pass holders are responsible for making their own appointments with the testing institutions in Hong Kong to take their pre-departure COVID-19 PCR test. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
 
-Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.
-
 The designated ATB flights from Hong Kong to Singapore are:
 
 **On 22 November 2020 (inaugural flight)**
