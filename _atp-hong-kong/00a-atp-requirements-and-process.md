@@ -207,11 +207,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;">Visitors who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
     </td>
  </tr>
- <tr>
-    <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;">Visitors who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
-    </td>
-  </tr>
   <tr>
     <td style="font-size:16px;"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
     <td style="font-size:16px;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.
