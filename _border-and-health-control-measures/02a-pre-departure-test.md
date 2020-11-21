@@ -25,7 +25,6 @@ You may apply for a pre-departure test using the corresponding application form 
 - Ship crew sign-on for foreign-going ships – at <https://go.gov.sg/mpa-pdt>.
 - For repatriation of Chinese or Indian nationals with live or cancelled work permits and S-Passes returning to China or the Tamil Nadu or West Bengal States of India – at <https://www.go.gov.sg/mom-pdt>.
 - For travel related to long-term education, compassionate reasons, or otherwise – at <https://go.gov.sg/moh-pdt>.
-- For travel to Hong Kong under the Air Travel Bubble arrangement - at <https://go.gov.sg/caaspdt>.
 
 ### **Responses on Application**
 
