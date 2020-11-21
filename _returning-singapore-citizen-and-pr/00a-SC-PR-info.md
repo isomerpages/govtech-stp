@@ -25,7 +25,7 @@ Click [here](/rgl/returning) for details on travel to Singapore using the RGL.
 
 ### Singapore Citizens and Permanent Residents Travelling from Hong Kong under Air Travel Bubble (ATB) Arrangement
 
-<b>IMPORTANT NOTICE: DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH</b>
+#### IMPORTANT NOTICE: DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
 
 Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health.
 
