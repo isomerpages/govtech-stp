@@ -31,7 +31,7 @@ Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong 
 
 Singapore Citizens and Singapore Permanent Residents can still travel from Hong Kong to Singapore on non-designated ATB flights. They will be subject to the prevailing health measures upon entry into Singapore.
 
-<!--
+
 Singapore Citizens and Singapore Permanent Residents travelling from Hong Kong to Singapore may take either:
 <ol style="font-size:20px; list-style-type:upper-alpha;"> 
   <li style="font-size:18px; list-style-type:upper-alpha;">a flight designated by the Singapore Government and Hong Kong Government under the ATB; or </li>
@@ -91,4 +91,4 @@ For those travelling from Hong Kong to Singapore on a non-designated flight, the
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
--->
+
