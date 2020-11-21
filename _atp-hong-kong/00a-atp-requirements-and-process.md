@@ -93,7 +93,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>     
  </tr>
   <tr>
-    <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test</b> </td>
+    <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test in Hong Kong</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
@@ -115,6 +115,15 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      </ol>
     </td>
  </tr>
+ <tr>
+    <td style="font-size:16px;"><b>Non-residential accommodation and individual room with attached toilet</b> </td>
+    <td style="font-size:16px;"> 
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be non-residential and an individual room with an attached toilet)</li>
+     </ol>
+     <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) website for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
+    </td>
+ </tr>
   <tr>
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
@@ -126,6 +135,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
                               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian</li>
                               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability an/or special need.</li>
                  </ol>      
+    </td>
+ </tr>
+ <tr>
+    <td style="font-size:16px;"><b>Registration and payment of on-arrival COVID-19 PCR test in Singapore</b> </td>
+    <td style="font-size:16px;"> 
+     Visitors should also register and make payment for their on-arrival COVID-19 PCR test prior to departing for Singapore.
+    <i>Note: Visitors travelling from Hong Kong will not need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore anytime from 22 November 2020 to 28 November 2020. Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore. </i>
     </td>
  </tr>
 <thead>
