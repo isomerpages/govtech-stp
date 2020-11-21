@@ -49,8 +49,6 @@ To be eligible to take a designated ATB flight, they are required to:
 
 Pass holders are responsible for making their own appointments with the testing institutions in Hong Kong to take their pre-departure COVID-19 PCR test. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
 
-Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.
-
 The designated ATB flights from Hong Kong to Singapore are:
 
 **On 22 November 2020 (inaugural flight)**
@@ -65,6 +63,17 @@ The designated ATB flights from Hong Kong to Singapore are:
   </ol>
 
 For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.
+
+Pass holders arriving on designated ATB flights will be required to take an on-arrival COVID-19 Polymerase Chain Reaction (PCR) test at Changi Airport. This will take effect on 22 November 2020. The additional requirement is a precautionary measure given the rise of COVID-19 cases in Hong Kong over the past few days.
+
+After taking the test, pass holders are required to take private transportation, taxi, or private hire car from the airport to their own accommodation. They must remain isolated at their accommodation until their test result is confirmed to be negative. After being notified of their negative test results, they will be allowed to go about their activities in Singapore.
+
+To provide time to adjust to this new requirement, pass holders will not need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore <b>from 22 November 2020 to 28 November 2020</b>.
+
+Children aged 12 or younger in that calendar year are not required to:
+- undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and
+- undergo a COVID-19 PCR test at the airport upon arrival in Singapore
+
 
 #### (B) Non-Designated Flights
 
