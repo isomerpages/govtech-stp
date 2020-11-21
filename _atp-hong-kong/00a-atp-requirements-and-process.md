@@ -204,7 +204,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
  <tr>
     <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;">Visitors who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    <td style="font-size:16px;">Visitors who are holding an ATP will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    <br>
+    <br>
+    <i>Note: Visitors travelling from Hong Kong will not need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore from 22 November 2020 to 28 November 2020. Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i>
     </td>
  </tr>
   <tr>
