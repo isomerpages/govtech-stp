@@ -141,6 +141,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Registration and payment of on-arrival COVID-19 PCR test in Singapore</b> </td>
     <td style="font-size:16px;"> 
      Visitors should also register and make payment for their on-arrival COVID-19 PCR test prior to departing for Singapore.
+     <br>
+     <br>
     <i>Note: Visitors travelling from Hong Kong will not need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore anytime from 22 November 2020 to 28 November 2020. Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore. </i>
     </td>
  </tr>
