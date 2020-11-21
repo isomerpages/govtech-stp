@@ -28,6 +28,11 @@ These RGLs have specific departure requirements and application processes and mo
 
 ### Travel to Hong Kong under the Air Travel Bubble (ATB) Arrangement 
 
-The launch of the Hong Kong ATB has been deferred. Click [here](hongkong/atb/notice) for more details.
+#### IMPORTANT NOTICE: DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
+
+Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health. 
+
+Travellers to Hong Kong will be subject to the prevailing border control and health requirements of Hong Kong. Please refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html) for the latest information. 
+
 
 <!--Under the Air Travel Bubble arrangement agreed between the Governments of Hong Kong and Singapore, eligible persons can travel from Singapore to Hong Kong on designated ATB flights and be exempted from the quarantine requirement upon arrival in Hong Kong, if they meet certain requirements laid out by the Hong Kong Government. For more information, please refer [here](/hongkong/requirements-and-process).-->
