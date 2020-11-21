@@ -1,4 +1,9 @@
-
+<!--
+---
+title: Conditions
+permalink: /hongkong/atp/conditions
+---
+-->
 
 ### **Conditions of Air Travel Pass**
 
