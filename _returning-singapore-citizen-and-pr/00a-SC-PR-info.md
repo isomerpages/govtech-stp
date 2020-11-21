@@ -70,7 +70,7 @@ All Singapore Citizens and Singapore Permanent Residents arriving on designated 
 
 After taking the test, Singapore Citizens and Singapore Permanent Residents are required to take private transportation, taxi, or private hire car from the airport to their own accommodation. They must remain isolated at their accommodation until their test result is confirmed to be negative. After being notified of their negative test results, they will be allowed to go about their activities in Singapore.
 
-To provide time to adjust to this new requirement, Singapore Citizens and Singapore Permanent Residents will not need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore from 22 November 2020 to 28 November 2020.
+To provide time to adjust to this new requirement, Singapore Citizens and Singapore Permanent Residents will not need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore <b>from 22 November 2020 to 28 November 2020</b>.
 
 Children aged 12 or younger in that calendar year are not required to:
 - undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and
