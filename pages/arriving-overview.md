@@ -69,7 +69,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td>Hong Kong</td>
-    <td><a href="/hongkong/atp/requirements-and-process">Air Travel Pass<sup>2</sup></a></td>
+    <td>Air Travel Bubble has been suspended until further notice<sup>2</sup></a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
