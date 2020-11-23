@@ -190,7 +190,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <br>
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
-<sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
+<sup>2</sup>Mobile devices that are incompatible with the TraceTogether app include:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.) </li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
