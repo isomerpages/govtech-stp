@@ -155,9 +155,11 @@ Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR
  
 #### 24.  What if I test positive for COVID-19 in Singapore? 
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as private insurance, where applicable.  
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost. 
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
+
+Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
 ### **Health Measures in Singapore**
 
@@ -317,9 +319,11 @@ There are currently no requirements for RGL travellers to take another COVID-19 
 
 #### 17. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia? 
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival in Singapore. Singapore Citizens and Permanent Residents who travelled to Indonesia on the Singapore-Indonesia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Indonesia on the Singapore-Indonesia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The e-visa is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL.
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
+
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
  
 <div id="annexa"> </div>
 
