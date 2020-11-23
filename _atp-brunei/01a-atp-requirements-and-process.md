@@ -187,6 +187,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <span style="font-size:16px;">
 <sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</span>
 <br>
+<br>
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
 <sup>2</sup>Mobile devices that are incompatible with the TraceTogether app include:
