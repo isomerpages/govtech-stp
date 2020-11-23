@@ -202,15 +202,25 @@ Travellers entering Singapore by air are encouraged to pre-register and pre-pay 
 
 Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoints. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the COVID-19 PCR test.
 
-#### 19. What if I test positive for COVID-19 in Singapore? 
+#### 19.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei Darussalam, Mainland China & Republic of Korea?
 
-Travellers who test positive for COVID-19 will be accorded medical treatment. Short-Term Pass holders will be accorded the necessary medical treatment at his/her own cost. 
+Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
-Singapore Citizens and Permanent Residents who travel on permitted travel arrangements may access government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travel on permitted travel arrangements may tap on the usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate such arrangements. 
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
+
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
+
+#### 20. What if I test positive for COVID-19 in Singapore? 
+
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
+
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
+
+Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
 ### **Health Measures in Singapore**
 
-#### 20. What health measures will I be subjected to upon arrival in Singapore? 
+#### 21. What health measures will I be subjected to upon arrival in Singapore? 
 
 Travellers must take a COVID-19 PCR test upon arrival in Singapore and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). The traveller’s declared accommodation during the first 14 days of their stay in Singapore must not be a residential address.  Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>1</sup>.  Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
@@ -218,13 +228,13 @@ If the result indicates that the traveller has tested negative for COVID-19, the
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>3</sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
 
-#### 21. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
+#### 22. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
-#### 22. What is SafeEntry?
+#### 23. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -232,7 +242,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 
 ### **Returning to Countries/Regions of Departure**
 
-#### 23. Do I need to be tested again in Singapore before I return to my origin country/region of departure? Do I need to be quarantined or tested again upon return to my country/region of departure? 
+#### 24. Do I need to be tested again in Singapore before I return to my origin country/region of departure? Do I need to be quarantined or tested again upon return to my country/region of departure? 
 
 <table>
   <thead>
@@ -282,7 +292,7 @@ As the specific requirements may change over time, RGL travelers returning to th
 
 ### **Booking an appointment**
 
-#### 24. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
+#### 25. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
 
 Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at selected clinics found [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
 
@@ -290,7 +300,7 @@ Please call the clinic to make an appointment and verify your eligibility to be 
 
 For destination countries/regions that have a mandatory requirement for travellers to produce a negative COVID-19 serology test, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of serology tests that meet the entry requirements of the country that they are travelling to. There is no need to apply for COVID-19 serology tests. 
 
-#### 25. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
+#### 26. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
 
 **[For RGL travellers under Singapore-Brunei Darussalam RGL and Singapore-ROK RGL]** <!--Singapore-Japan RGL-->
 
@@ -362,13 +372,13 @@ You must be present at least 2 hours prior to, and no later than, the stipulated
 
 Travellers who do not adhere to the Cut-off Test Timing will not be able to obtain the results in time for departure.
 
-#### 26. How can I make an appointment for the pre-departure COVID-19 PCR/serology testing?
+#### 27. How can I make an appointment for the pre-departure COVID-19 PCR/serology testing?
 
 The pre-departure COVID-19 PCR test must be done within 72 hours prior to departure, if applicable. For the Singapore-Mainland China RGL, the pre-departure COVID-19 PCR and serology tests must be done within 48 hours prior to departure.
 
 Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above to ensure that you will have sufficient time to meet the RGL requirements.
 
-#### 27. How far in advance should I make an appointment for the pre-departure PCR/serology test?
+#### 28. How far in advance should I make an appointment for the pre-departure PCR/serology test?
 
 Travellers are advised to check the entry requirements of the country they are travelling to via the countries’ embassy websites. Travellers should cater sufficient time to arrange for a test appointment, inform the pre-departure test providers about the timeframe for the provision of test results prior to departure and ensure that they liaise with the pre-departure test providers to receive the test results on time. 
 
@@ -382,7 +392,7 @@ If you do not make a prior appointment, please note that:
 
 Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
 
-#### 28. What details will I need to book an appointment for the COVID-19 PCR test? 
+#### 29. What details will I need to book an appointment for the COVID-19 PCR test? 
 
 Please have the following information on hand when making an appointment for your test:
 - Approval email to take the pre-departure PCR swab test
@@ -393,7 +403,7 @@ Please have the following information on hand when making an appointment for you
 - Contact number 
 - Email address 
 
-#### 29.	What documents should I bring for my appointment?
+#### 30.	What documents should I bring for my appointment?
 
 Please bring the following documents for your appointment:
 - Identity card or passport 
@@ -402,19 +412,19 @@ Please bring the following documents for your appointment:
 
 ### **Testing**
 
-#### 30. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
+#### 31. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
 
 Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight.  
 
 Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
 
-#### 31. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
+#### 32. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
 
 ### **Test Results**
 
-#### 32. When can I expect to get my PCR test results?
+#### 33. When can I expect to get my PCR test results?
 
 You will receive your PCR test results and memo at least three hours before your flight. 
 

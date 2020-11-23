@@ -82,7 +82,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Non-Residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result<sup>1</sup> (the accommodation<sup>2</sup> must be non-residential and an individual room with an attached toilet);</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result<sup>1</sup> (the accommodation must be non-residential and an individual room with an attached toilet);</li>
      </ol>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www.sha.org.sg/">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</i></p>
     </td>
@@ -91,7 +91,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>3</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device<sup>4</sup>, and register their mobile number and profile on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>2</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app.</li>
      </ol>
                 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
@@ -188,11 +188,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <span style="font-size:16px;">
 <sup>1</sup>Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</span>
 
-<span style="font-size:16px;">
-<sup>2</sup>Visitors may refer to the Singapore Tourism Board (STB)<a href="https://www.stb.gov.sg/content/stb/en/home-pages/approved-hotels.html" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. Please note that visitors must stay in individual rooms with an attached toilet.</span>
 <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px; ">
-<sup>3</sup>Mobile devices that are incompatible with the TraceTogether app include:
+<sup>2</sup>Mobile devices that are incompatible with the TraceTogether app include:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.) </li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
