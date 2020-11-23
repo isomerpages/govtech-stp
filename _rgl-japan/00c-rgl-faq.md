@@ -150,7 +150,7 @@ Otherwise, the traveller may be refused boarding.
 
 Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as private insurance, where applicable.  
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
 
 Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
@@ -335,7 +335,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Si
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
 
-With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
 
 <div id="annexa"></div>
 
