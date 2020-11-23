@@ -321,11 +321,15 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 <!--- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
 - Produce the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL to ICA at Singapore Immigration.--> 
 
-All travellers entering Singapore from 22 November 2020, 2359 hours, who have recent travel history to Japan will be required to serve a 14-day SHN at dedicated SHN facilities (with no opt-out option).
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer [here](/health/shn) 
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
-#### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
+#### 17. Do I have to take a COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before I return to Singapore? 
+
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore. 
+
+#### 18.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
