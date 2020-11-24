@@ -182,7 +182,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
              <tr>
     <td style="font-size:16px;"><b>SafeEntry check-in at establishments</b></td>
-    <td style="font-size:16px;">An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. <br/> Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
+    <td style="font-size:16px;">An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. <br/><br/> Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
     </td>
   </tr>
  </tbody>
