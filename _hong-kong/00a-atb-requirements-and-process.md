@@ -1,7 +1,4 @@
----
-title: Requirements & Process
-permalink: /hongkong/requirements-and-process
----
+
 
 ### AIR TRAVEL BUBBLE ARRANGEMENT
 
