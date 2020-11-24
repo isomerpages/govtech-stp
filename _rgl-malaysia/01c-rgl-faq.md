@@ -166,7 +166,7 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 #### 23. What health measures will I be subjected to upon arrival in Singapore?
 
-RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>4</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours)<sup>2</sup>. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>3</sup>. Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
 
@@ -198,7 +198,7 @@ Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19
 
 The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
 
-<sup>2</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+<sup>2</sup> Malaysia-based travellers entering Singapore under the Singapore – Malaysia RGL are not required to serve a 14-day SHN at dedicated SHN facilities
 
 <sup>3</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
 

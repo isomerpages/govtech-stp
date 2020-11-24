@@ -158,11 +158,11 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 #### 22.	What health measures will I be subjected to upon arrival in Singapore? 
 
-RGL travellers from Japan must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Japan must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours)<sup>2</sup>. Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>3</sup>. Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport<sup>4</sup>.
 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
 #### 23. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
@@ -206,11 +206,13 @@ The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-de
 
 <sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.  The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
 
-<sup>2</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
+<sup>2</sup> Japan-based travellers entering Singapore under the Singapore – Japan RGL are not required to serve a 14-day SHN at dedicated SHN facilities
 
-<sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+<sup>3</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
 
-<sup>4</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a [recommended QR scanner app](https://www.safeentry.gov.sg/individual_help).
+<sup>4</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+
+<sup>5</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a [recommended QR scanner app](https://www.safeentry.gov.sg/individual_help).
 
 -----
 
