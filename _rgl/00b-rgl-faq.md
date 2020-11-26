@@ -27,7 +27,7 @@ A resident* holding a valid passport of any nationality/citizenship in the count
 Seeking to make a single-entry, short-term essential visit to Singapore
 Seeking to travel for business and official purpose 
 
-<sup>*Singapore Citizens, Permanent Residents and Singapore Long-Term Pass holders who are holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit and Dependent Pass) and holders of ICA-issued Long-Term Visit Passes</sup>
+*Singapore Citizens, Permanent Residents and Singapore Long-Term Pass holders who are holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit and Dependent Pass) and holders of ICA-issued Long-Term Visit Passes
 
 Long-Term Pass holders returning to Singapore after a visit to the counterpart county/region should identify themselves as travellers under the RGL arrangement during pre-departure airline checks overseas, and to ICA at the immigration counters in Singapore by presenting the official letters issued by the authorities to facilitate the registration of pre-departure tests (if required) in Singapore.
 
