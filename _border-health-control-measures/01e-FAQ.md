@@ -4,7 +4,11 @@ permalink: /health/FAQ
 third_nav_title: Travelling to Singapore
 ---
 
-### **Pre-Departure Test for travellers travelling to Singapore** 
+## **Border and Health Control Measures**
+
+FAQs on border and health control measures can be found on ICA's website <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=75054" target="_blank">here</a>.
+
+## **Pre-Departure Test for travellers travelling to Singapore** 
 
 #### 1. I have an upcoming flight to Singapore. Do I need to take a pre-departure test before travelling to Singapore? 
 
@@ -67,6 +71,3 @@ Airlines, Charterers and Air Operators for any flights to Singapore must conduct
 
 If passengers are found to have produced false/forged COVID-19 test certificates, it will affect their ability to obtain or sponsor immigration facilities in the future.
 
-### **Border and Health Control Measures**
-
-FAQs on border and health control measures can be found on ICA's website <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=75054" target="_blank">here</a>.
