@@ -8,7 +8,7 @@ third_nav_title: Travelling to Singapore
 
 FAQs on border and health control measures can be found on ICA's website <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=75054" target="_blank">here</a>.
 
-## **Pre-Departure Test for travellers travelling to Singapore** 
+## **Pre-Departure Test for travellers departing to Singapore** 
 
 #### 1. I have an upcoming flight to Singapore. Do I need to take a pre-departure test before travelling to Singapore? 
 
