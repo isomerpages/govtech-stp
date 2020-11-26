@@ -7,6 +7,8 @@ permalink: /rgl/faq
 
 The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:
 - Brunei Darussalam;
+- Japan
+- Malaysia
 - Mainland China – Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang;
 - Republic of Korea;
 
@@ -226,7 +228,7 @@ Travellers must take a COVID-19 PCR test upon arrival in Singapore and remain is
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, except for private hire cars/taxis or cohorted company transport<sup>2</sup>. 
 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>3</sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q23">Q23</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
 
 #### 22. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
@@ -234,9 +236,15 @@ The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
+<div id="Q23"></div>
+
 #### 23. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
 
 More information on the system can be found [here](https://www.safeentry.gov.sg/).
 
@@ -335,13 +343,13 @@ For destination countries/regions that have a mandatory requirement for travelle
 
 You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
-<!--**[For RGL travellers under Singapore-Malaysia RGL]**-->
+**[For RGL travellers under Singapore-Malaysia RGL]**
 
-<!--You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.-->
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
 
-<!--You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below: -->
+You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below:
 
-<!--<table>
+<table>
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Flight departure time </th>
@@ -362,9 +370,9 @@ You should make an appointment that fits your required testing window and be pre
           <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00am the day before flight</td>
       </tr>
   </tbody>
-  </table>-->
+  </table>
         
-<!--*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*-->
+*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*
 
 Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.
 
@@ -465,6 +473,5 @@ The clinic will email the results to your email address. You will need to print 
 
 <sup>2</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
 
-<sup>3</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a recommended QR code scanner app [here](https://www.safeentry.gov.sg/individual_help).
 
 
