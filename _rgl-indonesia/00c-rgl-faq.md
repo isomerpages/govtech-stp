@@ -182,6 +182,10 @@ The app works best on phones with Android version 5.1 and above, as well as phon
 #### 27. What is SafeEntry?
  
 SafeEntry is a national digital check-in system that logs the personal identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
  
 More information can be found at <https://www.safeentry.gov.sg>. 
 

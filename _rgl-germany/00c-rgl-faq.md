@@ -201,6 +201,12 @@ The app works best on phones with Android version 5.1 and above. More informatio
 
 SafeEntry is a national digital check-in system that logs the identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
+
+More information can be found at <https://www.safeentry.gov.sg>. 
+
 #### 27.	Do I need to be tested again in Singapore before I return to Germany? Do I need to be quarantined or be tested again upon return to Germany?
 
 There are currently no requirements set by relevant German authorities for RGL returnees to Germany to be tested again in Singapore before returning to Germany. As Singapore is currently listed as a non-risk area<sup>5</sup> by the relevant German authorities, travellers who have been to Singapore for the past 14 days and are eligible to enter Germany need not be quarantined or subjected to a COVID-19 test upon entering Germany. 
