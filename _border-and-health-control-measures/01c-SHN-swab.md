@@ -1,5 +1,5 @@
 ---
-title: Post-Arrival SHN and Swab
+title: Post-Arrival in Singapore
 permalink: /health/shn
 third_nav_title: Travelling to Singapore
 ---
