@@ -4,7 +4,7 @@ permalink: /health/FAQ
 third_nav_title: Travelling to Singapore
 ---
 
-## **Border and Health Control Measures**
+## **Border and Health Control Measures in Singapore**
 
 FAQs on border and health control measures can be found on ICA's website <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=75054" target="_blank">here</a>.
 
