@@ -74,14 +74,14 @@ Travellers must be hosted by a Singapore-based company or government agency in S
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chinese citizens should present a copy of passport biodata page. Foreign residents in China should present a copy of China residence permit.</td>
       </tr>
-           <!-- <tr>
+           <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japanese citizens should present a copy of passport biodata page. Foreign residents in Japan should present a copy of Residence Card. </td>
-      </tr>-->
-         <!--   <tr>
+      </tr>
+          <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysian citizens should present a copy of passport biodata page. Foreign residents in Malaysia should present a copy of Malaysian Long-Term Pass.</td>
-      </tr>-->
+      </tr>
         <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Korean citizens should present a copy of passport biodata page. Foreign residents in the Republic of Korea should present a copy of Certificate of Alien Registration.</td>
@@ -202,7 +202,7 @@ Travellers entering Singapore by air are encouraged to pre-register and pre-pay 
 
 Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoints. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the COVID-19 PCR test.
 
-#### 19.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei Darussalam, Mainland China & Republic of Korea?
+#### 19.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from these countries?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
@@ -267,7 +267,7 @@ Singapore-based travellers returning from their travel on the Singapore-Brunei R
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders returning on the RGL should present the Entry Travel Pass issued by Brunei upon arrival in Singapore for re-entry into Singapore, and they need not separately seek re-entry approval from other Singapore Government agencies.</p>
             </li>
          </ol>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Travellers returning to Singapore from China or Republic of Korea</b></p>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Travellers returning to Singapore from Mainland China or Republic of Korea</b></p>
           <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 Singapore-based travellers returning from their travel on the Singapore- China/Republic of Korea (ROK) RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:<ol style="margin-top:10px; margin-bottom:0px; font-size:18px;">
             <li style="margin-top:0px; margin-bottom:0px; font-size:18px;list-style-type=lower-roman;">
