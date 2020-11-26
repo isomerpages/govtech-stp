@@ -25,7 +25,7 @@ A resident* holding a valid passport of any nationality/citizenship in the count
 Seeking to make a single-entry, short-term essential visit to Singapore
 Seeking to travel for business and official purpose 
 
-<sup>*Singapore Citizens, Permanent Residents and Singapore Long-Term Pass holders who are holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit and Dependent Pass) and holders of ICA-issued Long-Term Visit Passes</sup>
+*Singapore Citizens, Permanent Residents and Singapore Long-Term Pass holders who are holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit and Dependent Pass) and holders of ICA-issued Long-Term Visit Passes
 
 Long-Term Pass holders returning to Singapore after a visit to the counterpart county/region should identify themselves as travellers under the RGL arrangement during pre-departure airline checks overseas, and to ICA at the immigration counters in Singapore by presenting the official letters issued by the authorities to facilitate the registration of pre-departure tests (if required) in Singapore.
 
@@ -74,11 +74,11 @@ Travellers must be hosted by a Singapore-based company or government agency in S
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chinese citizens should present a copy of passport biodata page. Foreign residents in China should present a copy of China residence permit.</td>
       </tr>
-           <!-- <tr>
+          <!-- <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japanese citizens should present a copy of passport biodata page. Foreign residents in Japan should present a copy of Residence Card. </td>
-      </tr>-->
-         <!--   <tr>
+      </tr>
+          <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysian citizens should present a copy of passport biodata page. Foreign residents in Malaysia should present a copy of Malaysian Long-Term Pass.</td>
       </tr>-->
@@ -167,7 +167,7 @@ Travellers must remain in and have not travelled out of the country for at least
       </tr>
    <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw/www.gov.cn/mhsjcjgcx/index.html).</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw.www.gov.cn/hsjcjgcx/index.html).</td>
       </tr>
             <!--<tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
@@ -181,7 +181,7 @@ Travellers must remain in and have not travelled out of the country for at least
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support <a href="www.btsc.or.kr">www.btsc.or.kr</a> / (+82) 1566-8110 / <a href="btsc@kita.net">btsc@kita.net</a>) for further details on the medical institutes. [Note: Website is in Korean; enquiries in English can be made via phone or email.]</td>
       </tr>
-    </tbody>
+    </tbody>         
   </table>
 
 #### 17. What documents do I need to produce to the airlines for pre-boarding checks and checkpoint counters for immigration checks?
@@ -202,7 +202,7 @@ Travellers entering Singapore by air are encouraged to pre-register and pre-pay 
 
 Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoints. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the COVID-19 PCR test.
 
-#### 19.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei Darussalam, Mainland China & Republic of Korea?
+#### 19.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from these countries?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
@@ -226,7 +226,7 @@ Travellers must take a COVID-19 PCR test upon arrival in Singapore and remain is
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, except for private hire cars/taxis or cohorted company transport<sup>2</sup>. 
 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>3</sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q23">Q23</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
 
 #### 22. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
@@ -234,9 +234,15 @@ The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
+<div id="Q23"></div>
+
 #### 23. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
 
 More information on the system can be found [here](https://www.safeentry.gov.sg/).
 
@@ -252,6 +258,35 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
     </tr>    
   </thead>
   <tbody>
+    <!-- <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore</td>
+       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+         <b>Travellers returning to Singapore from Germany, Indonesia, Japan, & Malaysia</b>
+         <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>
+   <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">      
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</p></li>
+</ol>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Travellers returning to Singapore from Brunei</b></p>
+          <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+Singapore-based travellers returning from their travel on the Singapore-Brunei RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore. Returning travellers will instead undergo a COVID-19 test upon arrival and be allowed to continue their activities in Singapore if the test is negative. 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders returning on the RGL should present the Entry Travel Pass issued by Brunei upon arrival in Singapore for re-entry into Singapore, and they need not separately seek re-entry approval from other Singapore Government agencies.</p>
+            </li>
+         </ol>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Travellers returning to Singapore from Mainland China or Republic of Korea</b></p>
+          <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+Singapore-based travellers returning from their travel on the Singapore- China/Republic of Korea (ROK) RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:<ol style="margin-top:10px; margin-bottom:0px; font-size:18px;">
+            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;list-style-type=lower-roman;">
+Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <a href="https://changiairport.com/safetravel/">here</a>; and
+            </li>
+            <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type=lower-roman;">Produce the letter issued by the Embassy of the Republic of Korea in Singapore, if travellers are returning from ROK or letter issued by the PRC Embassy in Singapore, if travellers are returning from Mainland China, which confirms that he/she was granted approval to travel under the Singapore-China/ROK RGL, to ICA at Singapore Immigration.</li>
+            </ol>
+            </li>
+         </ol>
+ <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">For more information, please refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for returning travellers.</p>
+ <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>.</p>  
+</td>
+    </tr>-->
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do <u>not</u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
@@ -262,7 +297,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
          </tr>
-    <!-- <tr>
+     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They will not be subjected to a COVID-19 test in Japan. There is no requirement for a serology test in Japan.  
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">
@@ -274,7 +309,7 @@ Please refer to the <a href="https://www.moh.gov.sg/licensing-and-regulation/reg
     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. </td>
-      </tr>-->
+      </tr>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers returning to the Republic of Korea do <u>not</u> need to be tested again in Singapore. Upon their return to the Republic of Korea, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine or COVID-19 PCR test.
@@ -310,7 +345,7 @@ You should make an appointment that fits your required testing window and be pre
 
 <!--You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.-->
 
-<!--You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below: -->
+<!--You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below:-->
 
 <!--<table>
   <thead>
@@ -337,7 +372,7 @@ You should make an appointment that fits your required testing window and be pre
         
 <!--*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*-->
 
-Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.
+<!--Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.-->
 
 **[For RGL travellers under Singapore-Mainland China RGL]**
 
@@ -436,6 +471,5 @@ The clinic will email the results to your email address. You will need to print 
 
 <sup>2</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
 
-<sup>3</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a recommended QR code scanner app [here](https://www.safeentry.gov.sg/individual_help).
 
 
