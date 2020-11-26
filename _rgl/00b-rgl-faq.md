@@ -253,6 +253,15 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
   </thead>
   <tbody>
      <tr>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore</td>
+       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>
+<br/>
+You may also wish to refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for inbound travellers.
+         <br/>
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.
+</td>
+    </tr>
+     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do <u>not</u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
     </tr>
