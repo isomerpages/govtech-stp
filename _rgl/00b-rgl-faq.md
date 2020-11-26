@@ -7,8 +7,6 @@ permalink: /rgl/faq
 
 The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:
 - Brunei Darussalam;
-- Japan
-- Malaysia
 - Mainland China – Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang;
 - Republic of Korea;
 
@@ -76,14 +74,14 @@ Travellers must be hosted by a Singapore-based company or government agency in S
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chinese citizens should present a copy of passport biodata page. Foreign residents in China should present a copy of China residence permit.</td>
       </tr>
-           <tr>
+          <!-- <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japanese citizens should present a copy of passport biodata page. Foreign residents in Japan should present a copy of Residence Card. </td>
       </tr>
           <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysian citizens should present a copy of passport biodata page. Foreign residents in Malaysia should present a copy of Malaysian Long-Term Pass.</td>
-      </tr>
+      </tr>-->
         <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Korean citizens should present a copy of passport biodata page. Foreign residents in the Republic of Korea should present a copy of Certificate of Alien Registration.</td>
@@ -171,14 +169,14 @@ Travellers must remain in and have not travelled out of the country for at least
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw/www.gov.cn/mhsjcjgcx/index.html).</td>
       </tr>
-            <tr>
+            <!--<tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the government of Japan <a href="https://www.meti.go.jp/policy/investment/tecot/top.html">here</a>. [Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email <a href="fastlane@sn.mofa.go.jp">fastlane@sn.mofa.go.jp</a> to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.</td>
       </tr>
             <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19">here</a>. </td>
-      </tr>
+      </tr>-->
         <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support <a href="www.btsc.or.kr">www.btsc.or.kr</a> / (+82) 1566-8110 / <a href="btsc@kita.net">btsc@kita.net</a>) for further details on the medical institutes. [Note: Website is in Korean; enquiries in English can be made via phone or email.]</td>
@@ -260,7 +258,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
     </tr>    
   </thead>
   <tbody>
-     <tr>
+    <!-- <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore</td>
        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">
          <b>Travellers returning to Singapore from Germany, Indonesia, Japan, & Malaysia</b>
@@ -288,7 +286,7 @@ Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in S
  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">For more information, please refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for returning travellers.</p>
  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>.</p>  
 </td>
-    </tr>
+    </tr>-->
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do <u>not</u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
@@ -343,13 +341,13 @@ For destination countries/regions that have a mandatory requirement for travelle
 
 You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
 
-**[For RGL travellers under Singapore-Malaysia RGL]**
+<!--**[For RGL travellers under Singapore-Malaysia RGL]**-->
 
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
+<!--You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.-->
 
-You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below:
+<!--You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below:-->
 
-<table>
+<!--<table>
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Flight departure time </th>
@@ -370,11 +368,11 @@ You must be present at least 2 hours prior to, and no later than, the stipulated
           <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00am the day before flight</td>
       </tr>
   </tbody>
-  </table>
+  </table>-->
         
-*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*
+<!--*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*-->
 
-Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.
+<!--Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.-->
 
 **[For RGL travellers under Singapore-Mainland China RGL]**
 
