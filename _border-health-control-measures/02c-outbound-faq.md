@@ -4,6 +4,8 @@ permalink: /health/pre-departure-test/faq
 third_nav_title: Departing from Singapore
 ---
 
+## **Pre-Departure Test for Travellers departing from Singapore**
+
 #### 1. Where can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
 Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). 
