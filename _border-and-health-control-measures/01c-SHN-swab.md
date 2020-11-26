@@ -1,5 +1,5 @@
 ---
-title: Post-Arrival SHN and Swab
+title: Post-Arrival in Singapore
 permalink: /health/shn
 third_nav_title: Travelling to Singapore
 ---
@@ -48,7 +48,7 @@ Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) d
 
 ### 3. SHN Electronic Monitoring Device
 
-Eligible travellers will be issued an electronic monitoring device at the immigration checkpoints by ICA or MOM. These devices must be activated immediately by the traveller upon reaching his/her SHN accommodation. Click here for the <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a>. Travellers who are 12 years old and below will not receive the electronic monitoring device.
+Eligible travellers will be issued an electronic monitoring device at the immigration checkpoints by ICA or MOM. These devices must be activated immediately by the traveller upon reaching his/her SHN accommodation. Click here for the <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a> and [Frequently Asked Questions](https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf). Travellers who are 12 years old and below will not receive the electronic monitoring device.
 
 Information on the device can be found in the video and infographic below.
 
