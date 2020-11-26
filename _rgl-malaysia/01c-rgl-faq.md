@@ -1,7 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /malaysia/rgl/faq
----
 
 <div id="faq-top"></div>
 
