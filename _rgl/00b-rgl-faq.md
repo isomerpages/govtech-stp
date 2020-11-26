@@ -256,12 +256,29 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore</td>
        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">
          <b>Travellers returning to Singapore from Germany, Indonesia, Japan, & Malaysia</b>
-         <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+         <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-You may also wish to refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for inbound travellers.</p>
    <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">      
-There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</p></li></ol>      
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</p></li>
+</ol>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Travellers returning to Singapore from Brunei</b></p>
+          <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+Singapore-based travellers returning from their travel on the Singapore-Brunei RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore. Returning travellers will instead undergo a COVID-19 test upon arrival and be allowed to continue their activities in Singapore if the test is negative. 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders returning on the RGL should present the Entry Travel Pass issued by Brunei upon arrival in Singapore for re-entry into Singapore, and they need not separately seek re-entry approval from other Singapore Government agencies.</p>
+            </li>
+         </ol>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>Travellers returning to Singapore from China or Republic of Korea</b></p>
+          <ol style="margin-top:10px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+Singapore-based travellers returning from their travel on the Singapore- China/Republic of Korea (ROK) RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:<ol style="margin-top:10px; margin-bottom:0px; font-size:18px;">
+            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;list-style-type=lower-roman;">
+Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <a href="https://changiairport.com/safetravel/">here</a>; and
+            </li>
+            <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type=lower-roman;">Produce the letter issued by the Embassy of the Republic of Korea in Singapore, if travellers are returning from ROK or letter issued by the PRC Embassy in Singapore, if travellers are returning from Mainland China, which confirms that he/she was granted approval to travel under the Singapore-China/ROK RGL, to ICA at Singapore Immigration.</li>
+            </ol>
+            </li>
+         </ol>
+ <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">For more information, please refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for returning travellers.</p>
+ <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>.</p>  
 </td>
     </tr>
      <tr>
@@ -274,7 +291,7 @@ There are currently no requirements for RGL travellers to take another COVID-19 
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Please refer <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Testing for RGL travel can only be carried out at the listed clinics at the moment.</p></td>
          </tr>
-    <!-- <tr>
+     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They will not be subjected to a COVID-19 test in Japan. There is no requirement for a serology test in Japan.  
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">
@@ -286,7 +303,7 @@ Please refer to the <a href="https://www.moh.gov.sg/licensing-and-regulation/reg
     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Malaysian government. </td>
-      </tr>-->
+      </tr>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers returning to the Republic of Korea do <u>not</u> need to be tested again in Singapore. Upon their return to the Republic of Korea, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine or COVID-19 PCR test.
