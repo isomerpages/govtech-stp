@@ -169,19 +169,19 @@ Travellers must remain in and have not travelled out of the country for at least
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw/www.gov.cn/mhsjcjgcx/index.html).</td>
       </tr>
-            <!--<tr>
+            <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the government of Japan <a href="https://www.meti.go.jp/policy/investment/tecot/top.html">here</a>. [Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email <a href="fastlane@sn.mofa.go.jp">fastlane@sn.mofa.go.jp</a> to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.</td>
       </tr>
             <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a_Agihan_Makmal_Ujian_18072020.pdf">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19">here</a>. </td>
-      </tr>-->
+      </tr>
         <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Republic of Korea</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support <a href="www.btsc.or.kr">www.btsc.or.kr</a> / (+82) 1566-8110 / <a href="btsc@kita.net">btsc@kita.net</a>) for further details on the medical institutes. [Note: Website is in Korean; enquiries in English can be made via phone or email.]</td>
       </tr>
-    </tbody>
+    </tbody>         
   </table>
 
 #### 17. What documents do I need to produce to the airlines for pre-boarding checks and checkpoint counters for immigration checks?
@@ -258,10 +258,10 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
          <b>Travellers returning to Singapore from Germany, Indonesia, Japan, & Malaysia</b>
          <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;"><li style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer <a href="/health/shn">here</a>
-<br/><br/>
-You may also wish to refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for inbound travellers.
-         <br/><br/>
-There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</li></ol>
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+You may also wish to refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for inbound travellers.</p>
+   <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">      
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</p></li></ol>
          
 </td>
     </tr>
