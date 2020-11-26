@@ -167,7 +167,7 @@ Travellers must remain in and have not travelled out of the country for at least
       </tr>
    <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China [here](http://bmfw.www.gov.cn/hsjcjgcx/index.html).</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the relevant provincial/municipal government in China <a href="http://bmfw.www.gov.cn/hsjcjgcx/index.html">here</a>.</td>
       </tr>
             <!--<tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
