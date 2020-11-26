@@ -40,18 +40,17 @@ For negative test result requirements, please refer to **question 3**.
 
 Travellers on stipulated COVID-19 travel channels (e.g. Green/Fast Lane arrangements, or designated Air Travel Bubble (ATB) flights from Hong Kong) are required to comply with prevailing border health conditions stipulated as part of their entry permits. 
 
-#### 5.	I am travelling with my child. Will my child be required to undergo a pre-departure test before entry into Singapore?
-#### 6.	Are children and infants exempted from the pre-departure test?
+#### 5.	Are children and infants exempted from the pre-departure test?
 
 All travellers (who are not Singapore Citizens and Permanent Residents), including children aged 12 and below, who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
 
 There is no exemption for children and infants. 
 
-#### 7.	Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
+#### 6.	Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
 
 Please click [here](/arriving/overview) to find out more on the Reciprocal Green Lane arrangements.  
 
-#### 8.	I have recovered from COVID-19, am I required to undergo a pre-departure test before entry into Singapore? Will I be denied entry into Singapore?
+#### 7.	I have recovered from COVID-19, am I required to undergo a pre-departure test before entry into Singapore? Will I be denied entry into Singapore?
 
 Individuals who were previously diagnosed with COVID-19 infection will still be required to take a COVID-19 PCR test within 72 hours before departure for Singapore. 
 
@@ -59,7 +58,7 @@ If the pre-departure COVID-19 PCR test result is positive, the recovered individ
 
 Please note that individuals will be denied boarding for flights bound for Singapore if they have a recent diagnosis of COVID-19 infection in the past 21 days. 
 
-#### 9.	What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
+#### 8.	What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
 
 Travellers (who are not Singapore Citizens and Permanent Residents) from countries where a valid negative COVID-19 test result is required as a condition for entry into Singapore, but are unable to produce a valid negative COVID-19 test result, will be denied entry into Singapore. 
 
