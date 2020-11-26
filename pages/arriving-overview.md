@@ -82,7 +82,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td>Japan</td>
   <td>&nbsp;</td>
-  <td><a href="/japan/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
    <tr>
@@ -94,7 +94,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td>Malaysia</td>
   <td>&nbsp;</td>
-  <td><a href="/malaysia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
  </tr>
  <tr>
