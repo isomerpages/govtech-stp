@@ -126,7 +126,8 @@ The RGL is only for short-term essential business and official travel between Si
 #### 19. What health measures must I take in Japan before departing for Singapore?
 
 Travellers must have remained in Japan for 14 days prior to departure for Singapore. They must monitor their health status before departure from Japan, undergo a pre-departure PCR test in Japan at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Japan. 
-Please visit this [link](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1) for a list of designated medical institutions. [Note: Website only in Japanese; enquiries in English can be made via phone (+65 6235 8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
+
+Please visit this [link](https://www.meti.go.jp/policy/investment/tecot/pdf/tourokubo_english.pdf) for a list of designated medical institutions. [Note: Enquiries in English can be made via phone (+65 6235 8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
 
 #### 20. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
