@@ -261,8 +261,7 @@ Singapore-based travellers returning from their travel on the Singapore- RGL wil
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 You may also wish to refer <a href="/health/shn">here</a> for the latest details and updates on border control measures as well as <a href="https://www.ica.gov.sg/covid-19/ArrivalSG">here</a> for information on the prevailing health measures for inbound travellers.</p>
    <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">      
-There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</p></li></ol>
-         
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore.</p></li></ol>      
 </td>
     </tr>
      <tr>
