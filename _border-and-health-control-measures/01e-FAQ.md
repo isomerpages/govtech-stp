@@ -44,7 +44,7 @@ Travellers on stipulated COVID-19 travel channels (e.g. Green/Fast Lane arrangem
 
 All travellers (who are not Singapore Citizens and Permanent Residents), including children aged 12 and below, who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
 
-There is no exemption for children and infants. 
+There is **no** exemption for children and infants. 
 
 #### 6.	Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
 
