@@ -25,7 +25,7 @@ Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane), he
 
 Travellers who have been approved for entry will be required to take a COVID-19 PCR test within 72 hours before departure for Singapore, if he/she:
 - Is a non-Singapore citizen or non-Singapore permanent resident (<u>including children aged 12 years old and below</u>); and
-- Has recent travel history to any [countries/places/regions](/pdf/SHN-and-swab-summary.pdf) (as indicated in S/N 4 & 5 of the table) <u>within the last 14 days prior to entry into Singapore which would require a 14-day Stay-Home Notice (SHN)</u>; or
+- Has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 & 5 of the table) <u>within the last 14 days prior to entry into Singapore which would require a 14-day Stay-Home Notice (SHN)</u>; or
 
 These travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result must contain the following details:
 - Date the test was taken
