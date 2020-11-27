@@ -15,8 +15,6 @@ Watch the video below on the SHN requirements and <a href="https://www.moh.gov.s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![SHN](/images/stayhomesg-infographics-2.png)
-
 **SHN Enforcement**
 
 ICA will conduct checks on travellers placed on SHN. These entails house visits, calls or WhatsApp. During the call, a traveller will be asked for the last four digits of his/her Identity Card/ travel document to ascertain his/her identity. Officers conducting house visits will produce their warrant cards or ICA authorisation letter as a proof of their identity.
@@ -54,6 +52,8 @@ Information on the device can be found in the video and infographic below.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-1.png)
+
+![SHN](/images/stayhomesg-infographics-2.png)
 
 **Return and Disposal of Electronic Monitoring Devices After SHN**
 
