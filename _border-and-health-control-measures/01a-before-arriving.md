@@ -30,7 +30,7 @@ Travellers who have been approved for entry will be required to take a COVID-19 
 These travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result must contain the following details:
 - Date the test was taken
 - Test Result
-- Particulars of traveller as indicated in the passport (Name, Date of Birth & nationality)
+- Minimum of 2 personal identifiers as stated in the passport (i.e. name and either date of birth or passport number). 
 
 Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN.
 
