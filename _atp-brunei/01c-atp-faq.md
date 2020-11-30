@@ -206,9 +206,8 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 #### 33. I require a pre-departure COVID-19 PCR test result certificate to meet the entry requirements of my next onward destination after my stay in Singapore. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
 The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://go.gov.sg/covid19pcrtestproviders).
-You will need your ATP approval letter and a confirmed flight ticket for your next onward destination to be eligible to take a pre-departure COVID-19 PCR test in Singapore. There is no need to seek separate approval to take the test. 
 
-Please contact any of the listed clinics or testing centres and make an appointment as early as possible. If you do not make a prior appointment, there is no guarantee that there will be a time slot for you; and you may not get your results in time for your departure flight.
+Please contact any of the listed clinics or testing centres and make an appointment as early as possible. If you do not make a prior appointment, there is no guarantee that there will be a time slot for you; and you may not get your results in time for your departure flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
 
 You are required to bear the cost of your pre-departure COVID-19 PCR test. Please check with your clinic or testing centre for the cost of the test. You are also responsible for:
 - Ensuring the date and time of your test meet the entry requirements of your next onward destination; and
@@ -216,10 +215,9 @@ You are required to bear the cost of your pre-departure COVID-19 PCR test. Pleas
 
 #### 34. How can I make an appointment for my pre-departure COVID-19 PCR test in Singapore and how far in advance should I do so?
 
-You are advised to make an appointment with the listed clinic or testing centre of your choice as early as possible. You must also ensure that the booked time slot for your test meets the entry requirement of your next onward destination and is no later than 48 hours before your departure flight. If the test is taken at the clinic or testing centre less than 38-40 hours before your departure flight, you may not receive your results in time for your flight.
+You are advised to make an appointment with the listed clinic or testing centre of your choice as early as possible. You must also ensure that the booked time slot for your test meets the entry requirement of your next onward destination and is no later than 48 hours before your departure flight. If the test is taken at the clinic or testing centre less than 38 hours before your departure flight, you may not receive your results in time for your flight.
 
 Please have the following information on hand when you are making an appointment with the clinic or testing centre:
-- Reference number of ATP approval letter;
 - Passport number;
 - Confirmed departure flight date and time;
 - Your available time slots to take the pre-departure COVID-19 PCR test;
@@ -230,13 +228,12 @@ Please have the following information on hand when you are making an appointment
 #### 35. What documents must I bring along for my appointment?
 
 Please bring along the following documents for your appointment:
-- Passport;
-- Electronic or physical copy of ATP approval letter; and
+- Passport; and
 - Electronic or physical copy of departure flight ticket
 
 #### 36. When can I expect to get the results of my pre-departure COVID-19 PCR test taken in Singapore?
 
-You will receive your COVID-19 PCR test results and certificate no later than 3 hours before your flight departure time, if the test was taken at the clinic or testing centre no later than 38-40 hours before your departure flight. Please let the clinic or testing centre know if you need to receive the test result certificate by a certain date and time.
+You will receive your COVID-19 PCR test results and certificate no later than 3 hours before your flight departure time, if the test was taken at the clinic or testing centre no later than 38 hours before your departure flight. Please let the clinic or testing centre know if you need to receive the test result certificate by a certain date and time.
 
 The clinic or testing centre will send the test result certificate to your email address. Please ensure that you have an electronic or physical copy of your test result certificate before heading to the airport for your departure flight.
 
