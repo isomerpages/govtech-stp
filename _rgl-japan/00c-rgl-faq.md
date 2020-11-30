@@ -362,7 +362,7 @@ Email: <fastlane@sn.mofa.go.jp>
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders).
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers.
 
 Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment.
 
