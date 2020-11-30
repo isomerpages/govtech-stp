@@ -1,14 +1,11 @@
----
-title: Conditions
-permalink: /hongkong/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 
 <ol style="font-size:20px;">
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-  <li style="font-size:18px; list-style-type:lower-alpha;"> have been in Hong Kong, in the last 14 consecutive days before departing for Singapore;</li>
+  <li style="font-size:18px; list-style-type:lower-alpha;"> have only been in Hong Kong, or both Hong Kong and Singapore, in the last 14 consecutive days before departing for Singapore;</li>
         <li style="font-size:18px; list-style-type:lower-alpha;"> travel from Hong Kong to Singapore on a flight designated by the Singapore Government and the Hong Kong Government under the Air Travel Bubble arrangement;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the flight departing from Hong Kong, at one of the testing institutions in Hong Kong recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
         <ol style="font-size:18px; list-style-type:lower-roman;">
@@ -18,6 +15,8 @@ permalink: /hongkong/atp/conditions
              <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution where the COVID-19 PCR test was taken;</li>
          </ol>   
        </li>
+        <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, take private transportation, taxi, or private hire car from the airport to the declared place of accommodation (which must be non-residential and an individual room with attached toilet) and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
+        <li style="font-size:18px; list-style-type:lower-alpha;">disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test results to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">
           <li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated while in Singapore;</li>
@@ -31,6 +30,9 @@ permalink: /hongkong/atp/conditions
   </li>
   <br/>
    <li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 1(c) to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the flight departing from Hong Kong does not apply to an Air Travel Pass holder who is 12 years of age or younger in that calendar year.
+  </li>
+  <br/>
+     <li style="font-size:20px; list-style-type:decimal;">The requirement in Condition 1(d) to undergo a COVID-19 PCR test at the airport upon arrival in Singapore does not apply to an Air Travel Pass holder who is 12 years of age or younger in that calendar year.
   </li>
   <br/>
    <li style="font-size:20px; list-style-type:decimal;"> Condition 1(d) does not apply to an Air Travel Pass holder who is:
