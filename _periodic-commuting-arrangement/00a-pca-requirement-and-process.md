@@ -51,7 +51,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
          </ol>   
        </li>
       </ol>   
-     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> 
+    <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
     </td>
   </tr>
 </tbody>
@@ -87,7 +87,7 @@ travelling if feeling unwell. If the traveller is healthy, he/she should: </b><b
   </tr>
    </thead>
    <tr>
-    <td style="font-size:18px;"><b>Immigration clearance by Malaysia
+    <td style="font-size:18px;"><b>Immigration Clearance by Malaysia
 </b></td>
      <td style="font-size:18px;">Approved PCA travellers must be able to produce the following
 documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
@@ -96,15 +96,15 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Valid passport and work pass.</li>
          </ol>     
-Employees approved under the PCA may commute from Malaysia’s immigration checkpoint to Singapore via personal transport (e.g. motorbike/car), or by foot. 
+<!-- Employees approved under the PCA may commute from Malaysia’s immigration checkpoint to Singapore via personal transport (e.g. motorbike/car), or by foot. 
       <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">[<b>*IMPORTANT</b>: Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for all personal transport modes.  <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> To avoid accumulating your VEP fees, you are encouraged to pay your VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.]</li>
-      </ol>
+      </ol> -->
     </td>
   </tr>
   </tbody>
  </table>
-
+ 
 ### 4. Arrival in Singapore
 
 <table>
