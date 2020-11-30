@@ -1,7 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /hongkong/faq
----
 
 ### **Eligibility**
 
@@ -9,12 +5,11 @@ permalink: /hongkong/faq
 
 Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.
 
-Eligible persons, who intend to travel from Singapore to Hong Kong, must meet the requirements laid out by the Hong Kong Government, which include:
-- staying in Singapore and/or Hong Kong in the last 14 days before departure
-- taking a designated flight from Singapore to Hong Kong
-- undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government
-- declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information [declaration form](https://www.chp.gov.hk/hdf/)
-- [booking and paying](http://hkia.prenetics.com/) for the post-arrival COVID-19 tests at Hong Kong International Airport
+Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
+- Staying in Singapore and/or Hong Kong in the last 14 days before departure
+- Taking a designated ATB flight from Singapore to Hong Kong
+- Undergoing a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated flight from Singapore to Hong Kong at one of [clinics or testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) designated by the Singapore Government
+- Declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the online health & quarantine information [declaration form](https://www.chp.gov.hk/hdf/)
 
 Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for more information regarding the requirements to travel to Hong Kong under the ATB arrangement.
 
@@ -29,13 +24,15 @@ The designated ATB flights are:
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
   <li style="font-size:18px; list-style-type:disc;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
   </ol> 
-<p style="margin-top:0px; margin-bottom:-20px;"><b>From 23 November 2020 onwards</b></p>
+<p style="margin-top:0px; margin-bottom:-20px;"><b>From 23 November 2020 to 31 December 2020</b></p>
  <ol style="font-size:18px; margin-top:0px; list-style-type:disc;"> 
    <li style="font-size:18px; list-style-type:disc;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
     <li style="font-size:18px; list-style-type:disc;">SQ890 (SIN-HKD) operated by Singapore Airlines</li>
   <li style="font-size:18px; list-style-type:disc;">SQ891 (HKD-SIN) operated by Singapore Airlines</li>
   </ol>
+  
+For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines. 
   
 #### 3. Why must visitors take designated flights from Singapore to Hong Kong?
 
@@ -49,11 +46,11 @@ The quota is allocated to designated flights, which have been agreed between the
 
 The pre-departure COVID-19 PCR test may only be administered at selected clinics and testing centres as listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
-All travellers to Hong Kong under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong in order to apply.
-
-Applicants will be notified of the outcome of their application within three working days via email.
+All travellers to Hong Kong under the travel bubble arrangement will need to apply for approval [here](https://safetravel.caas.gov.sg/pdt) to take your pre-departure COVID-19 PCR test in Singapore. You will need a confirmed flight ticket to Hong Kong in order to apply. Applicants will be notified of the outcome of their application within three working days via email.
 
 Clinics and testing centres will not administer the test unless the traveller has obtained approval to take a COVID-19 PCR test.
+
+*[Important Note: Travellers, whose designated ATB flights are on or after 4 December 2020, do **not** need to apply for approval to take their pre-departure COVID-19 PCR test in Singapore. They may directly proceed to make an appointment with the designated clinic or testing centre of their choice to take the test.]*
 
 #### 5. I am travelling with family members. Do I have to submit a separate application for each family member?
 
@@ -61,11 +58,11 @@ Yes. An individual application will have to be submitted for each traveller.
 
 #### 6. How much does a COVID-19 PCR test cost in Singapore?
 
-Please check with the listed [clinics and testing centres](https://www-moh-gov-sg-admin.cwp.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for the ocst of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
+Please check with the listed [clinics and testing centres](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for the cost of the COVID-19 PCR test. You are required to bear the cost of your pre-departure COVID-19 PCR test. 
 
 #### 7. Upon receiving the approval, how can I make an appointment for my pre-departure COVID-19 PCR test?
 
-Upon receiving approval, please contact one of the designated clinics or testing centres to make an appointment. The list of designated clinics and testing centres can be found [here](https://www-moh-gov-sg-admin.cwp.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
+Upon receiving approval, please contact one of the designated clinics or testing centres to make an appointment. The list of designated clinics and testing centres can be found [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
 You are advised to make an appointment with the designated clinic or testing centre of your choice as early as possible to secure an appropriate time slot for your pre-departure COVID-19 PCR test.
 
@@ -111,7 +108,7 @@ Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong Internat
 
 #### 14. How do I book and pay for the post-arrival COVID-19 PCR test at Hong Kong International Airport?
 
-Travellers can register and pay for the post-arrival COVID-19 PCR test via a web-based application [here](http://hkia.prenetics.com/).  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
+Travellers can register and pay for the post-arrival COVID-19 PCR test via a web-based application <a href="https://hkia.prenetics.com">here</a>.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
 
 ### **Returning to Singapore**
 
@@ -152,11 +149,13 @@ The designated ATB flights from Hong Kong to Singapore are:
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
   </ol>
   
-**From 23 November 2020 onwards**
+**From 23 November 2020 to 31 December 2020**
  <ol style="font-size:18px; list-style-type:disc;"> 
   <li style="font-size:18px; list-style-type:disc;">CX759 (HKG-SIN) operated by Cathay Pacific Airways</li>
     <li style="font-size:18px; list-style-type:disc;">SQ891 (HKG-SIN) operated by Singapore Airlines</li>
   </ol>
+  
+For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.
   
 #### (B) Non-Designated Flights
   
@@ -170,17 +169,21 @@ If you are unable to get a flight ticket on a designated ATB flight, you may sti
 
 #### 17. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong, but I am travelling on a non-designated flight from Hong Kong to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
 
-Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taking a non-designated flight to Singapore are not required to take a pre-departure COVID-19 PCR test in Hong Kong before departing for Singapore. They must serve a serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
+Singapore Citizens, Permanent Residents, and Long-Term pass holders who are taking a non-designated flight to Singapore are not required to take a pre-departure COVID-19 PCR test in Hong Kong before departing for Singapore. They must serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to ICA’s website [here](/health).
+
+#### 18. Do I still need to take another COVID-19 PCR test in Hong Kong before I return to Singapore, if the COVID-19 PCR test I had taken in Hong Kong upon arrival is within 72 hours before my departure from Hong Kong?
+
+There is no need to take another COVID-19 PCR test in Hong Kong. You will need to present the COVID-19 PCR test result already issued to you in Hong Kong to the airline staff when checking in for your departure flight in Hong Kong.
 
 ### **Others**
 
-#### 18. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
+#### 19. What documents do I need to present to the airline staff when checking in at the airport in Singapore for my departure flight to Hong Kong?
 
 You must present to the airline staff the following:
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong)</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code of the submitted online <a href="https://www.chp.gov.hk/hdf/">health & quarantine information declaration form</a></li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code of the submitted online health & quarantine information <a href="https://www.chp.gov.hk/hdf/">declaration form</a></li>
   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a negative COVID-19 PCR test result (electronic or physical copy)</li>
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">(for non-Singapore Citizens) the following identity document or pass issued by the relevant Singapore authorities, which permitted their stay in Singapore:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
