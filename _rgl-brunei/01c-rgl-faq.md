@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /brunei/rgl/faq
----
+
 
 <div id="faq-top"></div>
 
@@ -151,15 +148,13 @@ Travellers are required to produce the following documents to the airline for pr
 
 Travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For RGL travellers to qualify for exemption from the Stay-Home Notice (SHN) requirement, the travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance.
 
-Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
+Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$196 (inclusive of GST) for the test upon arrival at the airport.
 
 #### 23. What if I test positive for COVID-19 in Singapore?
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as private insurance, where applicable.  
 
-Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as an RGL traveller.
-
-Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at their cost. Travellers are encouraged to take up health insurance while travelling.
+Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost. 
 
 ### **Health Measures in Singapore**
 
@@ -239,7 +234,7 @@ The RGL is only for short-term essential business and official travel, and not f
 
 For those seeking to enter Brunei for purposes other than essential business and official travel, such as long-term work and study, the host company/agency/institution should apply for the Entry Travel Pass on behalf of the traveller and arrange for the appropriate visas.
 
-#### 6. Who can I contact for more information on the arrangements in Brunei, e.g., accommodation and transport?
+#### 6. Who can I contact for more information on the arrangements in Brunei, e.g. accommodation and transport?
 
 The traveller may contact his/her host company or government agency in Brunei to make the necessary arrangements in Brunei.
 
@@ -255,7 +250,6 @@ The traveller will need to adhere to the clinic’s cut-off timings for the pre-
 
 The traveller must present at the clinic, a copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei under the Singapore-Brunei RGL, before the swab test can be administered.
 
-The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure COVID-19 RT-PCR test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
@@ -329,7 +323,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible fast lane travellers.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible fast lane travellers.
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
 
