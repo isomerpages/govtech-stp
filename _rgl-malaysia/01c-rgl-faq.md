@@ -20,7 +20,15 @@ Persons of all nationalities who are legally resident in Malaysia, who need to m
 
 #### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder<sup>*</sup> who is resident in Malaysia. Am I eligible to apply for the RGL?
 
-Yes. All residents in Malaysia who need to make <u>short-term</u> essential business or official travel between Singapore and Malaysia are eligible to apply for the RGL.
+Yes. All residents in Malaysia who need to make <u>short-term</u> essential##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
+408
+​
+409
+Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.  
+410
+​
+411
+Please make arrangements early for your test slot so that you can qualify for the RGL arrangements. business or official travel between Singapore and Malaysia are eligible to apply for the RGL.
 
 <p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Long-Term Pass holders who are eligible to apply for RGL travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependent’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
 
@@ -86,7 +94,7 @@ Those who do not require a visa prior to the COVID-19 pandemic (e.g. Malaysian c
 
 Travellers who are granted entry into Singapore are generally issued with a Visit Pass, of which the duration would be aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
-#### 11. How can I further extend my Visit Pass / stay when i am in Singapore, if neccessary? 
+#### 11. How can I further extend my Visit Pass / stay when I am in Singapore, if neccessary? 
 
 All applications for extension of Visit Pass must be submitted online using ICA's [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the Visit Pass to avoid overstaying. Extension of Visit Pass will not be accepted over the counter. Each application is considered on its own merits. 
 
@@ -146,45 +154,51 @@ Travellers by air and land are required to produce the following documents to th
 
 ### **Test Arrangements Upon Arrival in Singapore**
 
-#### 22. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
+<!--#### 22. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?-->
 
-RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore. For RGL travelers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance.
+<!--RGL travellers from Malaysia will be directed to take a COVID-19 PCR test upon arrival at Changi Airport, Seletar Airport, Woodlands Checkpoint or Tuas Checkpoint in Singapore. For RGL travelers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance.-->
 
-Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
+<!--Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to your entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$196 (inclusive of GST) for the test upon arrival at the airport.-->
 
-Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the land checkpoints.
+<!--Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoint. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the on-arrival swab test at the land checkpoints.-->
 
-#### 23. What if I test positive for COVID-19 in Singapore?
+#### 22. What if I test positive for COVID-19 in Singapore?
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance.  Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at his/her cost.
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
+
+Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
 ### **Health Measures in Singapore**
 
-#### 24. What health measures will I be subjected to upon arrival in Singapore?
+#### 23. What health measures will I be subjected to upon arrival in Singapore?
 
-RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>4</sup> Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Malaysia must take a COVID-19 PCR test upon arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours)<sup>2</sup>. Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>3</sup>. Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>4</sup>
 
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
-#### 25. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 24. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
 The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
-#### 26. What is SafeEntry?
+#### 25. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
 
 More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Malaysia**
 
-#### 27. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
+#### 26. Do I need to be tested again in Singapore before I return to Malaysia? Do I need to be quarantined or be tested again upon return to Malaysia?
 
 RGL returnees to Malaysia currently do not need to be tested again in Singapore before returning to Malaysia.
 
@@ -196,7 +210,7 @@ Upon their arrival back in Malaysia, they must adhere to the prevailing COVID-19
 
 The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
 
-<sup>2</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+<sup>2</sup> Malaysia-based travellers entering Singapore under the Singapore – Malaysia RGL are not required to serve a 14-day SHN at dedicated SHN facilities
 
 <sup>3</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
 
@@ -303,20 +317,26 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 #### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
+<!--Singapore-based travellers returning from their travel on the Singapore-Malaysia Reciprocal Green Lane will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
 - Undertake a COVID-19 PCR test at the airport/checkpoint at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. For air arrivals, you are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
 - Produce the MyTravelPass issued by the Malaysia Immigration Department which confirms that he/she was granted approval to travel under the Singapore-Malaysia RGL to ICA at Singapore Immigration;
-- Do not have a travel history in the past 14 days to Sabah.
+- Do not have a travel history in the past 14 days to Sabah.-->
 
-You may wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for inbound travellers.
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/**Malaysia**, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
-#### 14. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
+#### 14. Do I have to take a COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before I return to Singapore? 
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and PRs who travelled to Malaysia on the Singapore-Malaysia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Malaysia on the Singapore-Malaysia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore. 
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Malaysia-issued travel pass which confirms that he/she was granted approval by the relevant authorities to travel to Malaysia under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Malaysia via the RGL.
+#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
+
+Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
+
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
+
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
 
 <div id="annexa"></div>
 
@@ -328,13 +348,13 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible fast lane travellers.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible fast lane travellers.
 
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment
 
 ##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
 
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
@@ -344,13 +364,13 @@ Please call the clinic and book your test slot before the Cut-Off Test Timing in
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL requirements are confirmed.
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. 
 
 If you do not make a prior appointment, please note that:
 1. There is no guarantee that there will be a test slot for you; and
 2. You may not get your results in time for your flight to qualify for RGL arrangements. Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
+
+Travellers who fail to allocate sufficient time for their test to be processed will not be able to obtain a test result in time for their flight.
 
 ##### 5. What details will I need to book an appointment for the PCR test?
 
@@ -366,24 +386,17 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport
-2. PDF copy of the Malaysia-issued travel pass which confirms that you are granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL
-3. Softcopy booking reference showing your departure flight timing
+2. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
 
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their scheduled departure.
-
-Please make arrangements early for your test slot so that you can qualify for the RGL.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+##### 7. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
 
 If you are unable to receive the test, you may wish to reschedule your departure, if you still wish to tap on the RGL.
 
 ##### Test Results
 
-##### 9. When can I expect to get my PCR test results?
+##### 8. When can I expect to get my PCR test results?
 
 You will receive your PCR test results and memo at least three hours before your scheduled departure.
 
