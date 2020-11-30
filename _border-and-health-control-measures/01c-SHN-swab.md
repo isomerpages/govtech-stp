@@ -1,5 +1,5 @@
 ---
-title: Post-Arrival SHN and Swab
+title: Post-Arrival in Singapore
 permalink: /health/shn
 third_nav_title: Travelling to Singapore
 ---
@@ -11,7 +11,7 @@ A summary of the prevailing SHN and swab requirements for travellers can be foun
 
 Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
 
-Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/2019-ncov/moh-health-advisory-for-persons-issued-stay-home-notice-(170820)-(cleaned).pdf" target="_blank">read the requirements for persons placed on SHN</a>.
+Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/advisories/moh-health-advisory-for-persons-issued-stay-home-notice_4-nov.pdf" target="_blank">read the requirements for persons placed on SHN</a>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,14 +30,15 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
-Travellers from Fiji, Finland, Republic of Korea, Sri Lanka, Thailand and Turkey may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
-- Travelled to no other country than above-mentioned countries, in the last consecutive 14 days prior to entry; and
-- Are occupying their place of residence (i.e. residential address) alone, or only with household members who are also persons serving SHN with the same travel history and duration of SHN.
+- Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
+- Are occupying their place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
+- There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
 
-Applications must be made at least three days prior  to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) starting from 2 November 2020 for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process.
+Applications must be made at least three days prior to arrival in Singapore. Applications can be submitted [here](/sc-pr/opt-out/apply-now) for Singapore citizens (SC) and permanent residents (PRs). Non SCs or PRs may apply to opt out as part of the entry approval process
 
-The list of [countries/regions](/files/SHN-and-swab-summary.pdf) eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
+The list of countries/regions eligible for opt-out of dedicated SHN facilities will be updated from time to time depending on the public health risk assessment. Travellers must be prepared that any prior approvals given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable.
 
 #### Travellers with extenuating circumstances serving SHN at Dedicated Facility 
 
@@ -45,7 +46,7 @@ Travellers who are unable to serve their SHN at a dedicated SHN facility (SDF) d
 
 ### 3. SHN Electronic Monitoring Device
 
-Eligible travellers will be issued an electronic monitoring device at the immigration checkpoints by ICA or MOM. These devices must be activated immediately by the traveller upon reaching his/her SHN accommodation. Click here for the <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a>. Travellers who are 12 years old and below will not receive the electronic monitoring device.
+Eligible travellers will be issued an electronic monitoring device at the immigration checkpoints by ICA or MOM. These devices must be activated immediately by the traveller upon reaching his/her SHN accommodation. Click here for the <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">User Setup Guide</a> and [Frequently Asked Questions](https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf). Travellers who are 12 years old and below will not receive the electronic monitoring device.
 
 Information on the device can be found in the video and infographic below.
 
@@ -61,10 +62,36 @@ Upon completion of SHN, travellers are to remove the electronic wristband and di
 
 ICA officers will contact the traveller to collect the gateway device issued by ICA. Please <u>do not dispose the gateway device</u>.
 
-
 ### 4. Post-Arrival COVID-19 PCR Test
 Depending on the traveller’s scheme of travel, he/she may be required to take the COVID-19 PCR test upon arrival in Singapore, or before the completion of his/her SHN. In general, children aged 12 and below (based on year of birth) do not need to take the COVID-19 PCR swab test, unless their close contacts are found to be COVID-19 positive.
 
 Travellers serving their SHN will receive the details of their test appointments at their registered mobile numbers. The swab results will be conveyed within 1 to 4 days. All travellers, including those tested on arrival, must remain in self-isolation until a negative COVID-19 test result is conveyed.
 
+Estimated PCR test costs can be found in the table below: 
 
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab test type</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Approximate cost (Inclusive of GST)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Airport</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$196</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Land Checkpoints</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Ferry Terminals</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab Test during SHN</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$125</td>
+    </tr>
+  </tbody>
+  </table>
