@@ -1,4 +1,7 @@
-
+---
+title: Frequently Asked Questions
+permalink: /indonesia/rgl/faq
+---
 
 <div id="faq-top"></div>
 
@@ -29,7 +32,7 @@ Please send an email to <COVID_SafeTravelEnquiries@mti.gov.sg> if you have furth
 
 #### 4. How do applicants in Indonesia apply to travel to Singapore under the RGL? What are the steps from the time I put in an application to the time I obtain a SafeTravel Pass? How long is the processing time? What documents do I need to submit? 
 
-Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. For applications for entry into Singapore from 9 Nov 2020 onwards, the host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup> 
+Applicants in Indonesia seeking to travel to Singapore for essential business or official travel via the RGL must be hosted by a company or a government agency in Singapore. The host company can file the application for a SafeTravel Pass on behalf of the traveller either directly at <https://eservices.ica.gov.sg/STO>, or through a sponsoring government agency.<sup>1</sup> 
 
 The application for the SafeTravel Pass will be open 2 to 5 weeks before the week of traveller's planned departure. 
 
@@ -41,7 +44,7 @@ When the SafeTravel Pass application is approved, an approval letter will be iss
  
 The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eservices.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
  
-Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>, for applications for entry into Singapore from 9 Nov 2020 onwards. For applications for entry into Singapore between 2 to 8 Nov 2020, please submit the supporting documents via this link: <https://go.gov.sg/idnrgl2>. 
+Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>, for applications for entry into Singapore from 9 Nov 2020 onwards.
  
 The traveller is required to present his/her valid SafeTravel Pass, certificate of negative result for a COVID-19 Polymerase Chain Reaction (PCR) test (in English), a  valid return air/ferry ticket or proof of other transport arrangements to depart from Singapore for pre-boarding checks at the airlines/ferries check-in counter and immigration counter. Otherwise, he/she may be refused boarding. Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Singapore.
 
@@ -90,8 +93,6 @@ The host company or government agency should be responsible for monitoring and r
 #### 14.  Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application? 
 
 For applications for entry into Singapore from 9 Nov 2020, the sponsoring company/agency or traveller may make enquires about the status of their application(s) at <https://eservices.ica.gov.sg/STO>. 
-
-For applications for entry into Singapore from 2 to 8 Nov 2020. Please email <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
 Please prepare the traveller’s identification details and intended date of entry into Singapore as declared in the STP application.  
  
@@ -148,15 +149,17 @@ Travellers are required to produce the following documents at the airlines/ferri
  
  Travellers entering Singapore on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi International Airport or Tanah Merah Ferry Terminal in Singapore. For RGL travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport or ferry terminal. Please approach ground staff upon arrival for assistance. 
  
-Travellers arriving in Singapore by plane are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and prepayment can be made via the online portal at https://safetravel.changiairport.com. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport. 
+Travellers arriving in Singapore by plane are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and prepayment can be made via the online portal at https://safetravel.changiairport.com. Travellers should expect to pay around S$196 (inclusive of GST) for the test upon arrival at the airport. 
  
-Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$200 (inclusive of GST) for the test upon arrival at the ferry terminal.  
+Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$150 (inclusive of GST) for the on-arrival swab test at the ferry terminal.  
  
 #### 24.  What if I test positive for COVID-19 in Singapore? 
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. Singapore Citizens and PRs who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as an RGL traveller. 
- 
-Note that all Short-Term Pass Holders will be accorded the necessary medical treatment at his/her own expense.
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
+
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
+
+Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
 ### **Health Measures in Singapore**
 
@@ -179,6 +182,10 @@ The app works best on phones with Android version 5.1 and above, as well as phon
 #### 27. What is SafeEntry?
  
 SafeEntry is a national digital check-in system that logs the personal identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
  
 More information can be found at <https://www.safeentry.gov.sg>. 
 
@@ -194,7 +201,6 @@ Travellers should make an appointment that fits your required testing window, an
 
 RGL travellers who are returning to Indonesia from Singapore should bring the following when presenting at the clinic for testing: 
  - Identity card or passport.
- - PDF copy of the SafeTravel Pass.
  - Softcopy showing your departure flight/ferry timing.
 
 RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities. 
@@ -202,8 +208,6 @@ RGL returnees who have a valid certificate of negative PCR test result in Singap
 RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19(via a PCR test) at designated quarantine facilities in Indonesia. 
 
 For more information regarding Indonesia's policy for travellers that are returning to Indonesia, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb))
- 
-If a RGL returnee subsequently tests positive for COVID-19 within 14 days after leaving Singapore, he/she will be required to upload his/her TraceTogether app data via the TraceTogether app, using an upload code provided by MOH. If the traveller had used the TraceTogether app on a phone that was provided by the host/sponsor, the host/sponsor will be required to upload the TraceTogether app data via the same process. 
  
 <div id="faq-residents-singapore"></div>
 
@@ -306,15 +310,21 @@ The traveller should verify the latest requirements of the Indonesian authoritie
 
 #### 15. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore-Indonesia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Indonesia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>. Singapore-based travellers returning to Singapore from their travel on the Singapore-Indonesia RGL are also exempted from the requirement for travellers in Indonesia to undergo pre-departure testing before they depart for Singapore. 
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-You may also wish to refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for inbound travellers.
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
-#### 16. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia? 
+#### 16. Do I have to take a COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before I return to Singapore? 
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival in Singapore. Singapore Citizens and Permanent Residents who travelled to Indonesia on the Singapore-Indonesia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Indonesia on the Singapore-Indonesia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore. 
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The e-visa is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL.
+#### 17. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia? 
+
+Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
+
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
+
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
  
 <div id="annexa"> </div>
 
@@ -342,33 +352,25 @@ The Embassy of the Republic of Indonesia in Singapore can be contacted at (+65) 
 
 #### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at [selected clinics](/pre-departure-test) for eligible RGL travellers. 
+Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers. 
 
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility. 
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment.
 
-#### 2. When is the latest time/date I have to be at the clinic, based on my departure flight timing? 
+#### 2. What is the latest timing I have to present myself at the clinic for the pre-departure COVID-19 PCR test, based on my departure flight timing?
 
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment. 
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
 
-<u>You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers who do not adhere to this cut-off timing will not be able to obtain the results in time for departure.
+#### 3. When is the latest time/date I have to be at the clinic, based on my departure flight timing? 
 
-| Flight departure time | Latest Cut-off Test Timing |
-|-----------------------|-----------------------------------------|
-| 12:00am to 9:29am | 10.00am two calendar days before flight |
-| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
-| 3.30pm to 11.59pm | 10:00am the day before flight |
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
 
-<i>Example: If a traveller’s departure flight time is 12pm on 30 September and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 27 September onwards, until the cut-off timing. </i>
-
-<i>The latest the traveller can present himself/herself is by 4pm on 28 September. </i>
-
-#### 3. How can I make an appointment for pre-departure PCR testing? 
+#### 4. How can I make an appointment for pre-departure PCR testing? 
 
 For RGL travel to Indonesia, the pre-departure PCR test must be done within 72 hours prior to departure. 
 
 Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements. 
 
-#### 4. How far in advance should I make an appointment for the pre-departure PCR test? 
+#### 5. How far in advance should I make an appointment for the pre-departure PCR test? 
 
 Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application are approved. 
 
@@ -380,7 +382,7 @@ If you do not make a prior appointment, please note that:
  
 Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight. 
 
-#### 5. What details will I need to book an appointment for the PCR test? 
+#### 6. What details will I need to book an appointment for the PCR test? 
 
 Please have the following information on hand when making an appointment for your test: 
 1. Identity card number or passport number. 
@@ -390,20 +392,13 @@ Please have the following information on hand when making an appointment for you
 5. Contact number.
 6. Email address. 
 
-#### 6. What documents should I bring for my appointment? 
+#### 7. What documents should I bring for my appointment? 
 
 Please bring the following: 
 1. Identity card or passport. 
-2. E-visa confirming that you have been granted approval by the relevant authorities in Indonesia to travel to Indonesia under the Singapore-Indonesia RGL. 
-3. Softcopy booking reference showing your departure flight timing. 
+2. Softcopy booking reference showing your departure flight timing. 
 
-### **Testing**
-
-#### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
-
-Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight. 
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements. 
+### **Testing** 
 
 #### 8.  What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
 
