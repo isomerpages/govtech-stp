@@ -94,7 +94,6 @@ Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amende
 
 #### 13. What if I have changes to my controlled itinerary? 
 
-
 The host company should be responsible for promptly monitoring and reporting any deviation in your controlled itinerary. The host company should email the updated controlled itinerary on behalf of the traveller to <COVID_SafeTravelEnquiries@mti.gov.sg>. Please include the approved STP reference number and documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. A non-compliant controlled itinerary may result in the withdrawal of the STP and termination of the Visit Pass if not immediately rectified.
 
 #### 14. Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application?
@@ -127,7 +126,8 @@ The RGL is only for short-term essential business and official travel between Si
 #### 19. What health measures must I take in Japan before departing for Singapore?
 
 Travellers must have remained in Japan for 14 days prior to departure for Singapore. They must monitor their health status before departure from Japan, undergo a pre-departure PCR test in Japan at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from the medical institutions designated by Japan. 
-Please visit this [link](https://www.meti.go.jp/press/2020/07/20200703002/20200703002-1) for a list of designated medical institutions. [Note: Website only in Japanese; enquiries in English can be made via phone (+65 6235 8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
+
+Please visit this [link](https://www.meti.go.jp/policy/investment/tecot/pdf/tourokubo_english.pdf) for a list of designated medical institutions. [Note: Enquiries in English can be made via phone (+65 6235 8855) or email (fastlane@sn.mofa.go.jp) to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.
 
 #### 20. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Japan to Singapore?
 
@@ -141,43 +141,49 @@ Otherwise, the traveller may be refused boarding.
 
 ### **Testing Arrangements Upon Arrival in Singapore**
 
-#### 21.	What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?
+<!--#### 21.	What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test?-->
 
-Travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For RGL travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance. 
+<!--Travellers coming in on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi Airport or Seletar Airport in Singapore. For RGL travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport. Please approach the airport ground staff upon arrival for assistance. -->
 
-Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$300 (inclusive of GST) for the test upon arrival at the airport.
+<!--Travellers are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and pre-payment can be made on the online portal at <https://safetravel.changiairport.com>. Travellers should expect to pay around S$196 (inclusive of GST) for the test upon arrival at the airport.-->
 
-#### 22.	What if I test positive for COVID-19 in Singapore? 
+#### 21.	What if I test positive for COVID-19 in Singapore? 
 
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of his/her arrival in Singapore. Singapore Citizens and Permanent Residents who travelled on permitted travel arrangements may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled on permitted travel arrangements may tap on their usual financing arrangements, such as foreign worker insurance. Travellers should furnish the relevant supporting documents to indicate their status as a RGL traveller. 
+Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-Note that all Short-Term Pass holders will be accorded the necessary medical treatment at his/her cost.
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
+
+Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
 ### **Health Measures in Singapore**
 
-#### 23.	What health measures will I be subjected to upon arrival in Singapore? 
+#### 22.	What health measures will I be subjected to upon arrival in Singapore? 
 
-RGL travellers from Japan must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
+RGL travellers from Japan must take a PCR test after arrival in Singapore, and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours)<sup>2</sup>. Transportation from the airport to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>3</sup>. Travellers will bear the costs of the post-arrival PCR test in Singapore and stay in the declared accommodation.
 
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>3</sup>
+If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the first 14 days of the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport<sup>4</sup>.
 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>5</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore.
 
-#### 24. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
+#### 23. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
 
 The app works best on phones with Android version 5.1 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>.
 
-#### 25. What is SafeEntry?
+#### 24. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
 
 More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Japan**
 
-#### 26.	Do I need to be tested again in Singapore before I return to Japan? Do I need to be quarantined or be tested again upon return to Japan?
+#### 25.	Do I need to be tested again in Singapore before I return to Japan? Do I need to be quarantined or be tested again upon return to Japan?
 
 According to the Government of Japan, RGL returnees to Japan are required to take a pre-departure COVID 19 PCR test in Singapore within 72 hours of their return to Japan. They may be exempted from this requirement if they are Japanese nationals and (a) the duration of their stay in Singapore does not exceed 15 days, or (b) if they agree to serve a 14-day quarantine upon their return to Japan.  
 
@@ -205,11 +211,13 @@ The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-de
 
 <sup>1</sup> The term “sponsor” refers to the company or government agency making the application on behalf of the traveller.  The term “host” refers to the company or government agency that receives the traveller in the destination country/region. For company-sponsored travellers, the sponsor will also be the host company.
 
-<sup>2</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
+<sup>2</sup> Japan-based travellers entering Singapore under the Singapore – Japan RGL are not required to serve a 14-day SHN at dedicated SHN facilities
 
-<sup>3</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+<sup>3</sup> Travellers are allowed to use private hire cars or taxis, but not public transport.
 
-<sup>4</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a [recommended QR scanner app](https://www.safeentry.gov.sg/individual_help).
+<sup>4</sup> Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+
+<sup>5</sup> Travellers can scan the SafeEntry QR code to submit their personal particulars using the TraceTogether app or a [recommended QR scanner app](https://www.safeentry.gov.sg/individual_help).
 
 -----
 
@@ -261,11 +269,9 @@ The traveller may contact his/her host company or government agency in Japan to 
 
 An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. 
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
-
-Prior to the test, the traveller must obtain a letter from the Embassy of Japan in Singapore which confirms that he/she has been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan  RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered. 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -315,18 +321,26 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 #### 16.	What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they: 
+<!--Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they: -->
 
-- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
-- Produce the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL to ICA at Singapore Immigration. 
+<!--- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
+- Produce the letter issued by the Embassy of the Japan in Singapore which confirms that he/she was granted approval to travel under the Singapore-Japan RGL to ICA at Singapore Immigration.--> 
 
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-#### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled  to Japan on the Singapore-Japan RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to Japan on the Singapore-Japan RGL may tap on their usual financing arrangements, such as foreign worker insurance.
+#### 17. Do I have to take a COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before I return to Singapore? 
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the Embassy of Japan in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to Japan via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Japan via the RGL.
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore. 
+
+#### 18.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
+
+Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
+
+Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
+
+With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
 
 <div id="annexa"></div>
 
@@ -348,13 +362,13 @@ Email: <fastlane@sn.mofa.go.jp>
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](/pre-departure-test) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers.
 
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment.
 
 ##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
 
 ##### 3.	How can I make an appointment for pre-departure PCR testing?
 
@@ -364,15 +378,13 @@ Please call the clinic and book your test slot before the Cut-off Test Timing in
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. 
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements. 
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved.
 
 If you do not make a prior appointment, please note that:
 1. There is no guarantee that there will be a test slot for you; and 
 2. You may not get your results in time for your flight to qualify for RGL arrangements. 
 
-Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
+Travellers who fail to allocate sufficient time for their test to be processed will not be able to obtain a test result in time for their flight.
 
 ##### 5. What details will I need to book an appointment for the PCR test? 
 
@@ -388,24 +400,17 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport 
-2. Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. 
 3. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
 
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.  
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
+##### 7. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
 
 ##### Test Results
 
-##### 9.	When can I expect to get my PCR test results?
+##### 8.	When can I expect to get my PCR test results?
 
 You will receive your PCR test results and memo at least three hours before your flight. 
 
