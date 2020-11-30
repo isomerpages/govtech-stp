@@ -20,7 +20,15 @@ Persons of all nationalities who are legally resident in Malaysia, who need to m
 
 #### 2. I am a Singapore Citizen / Singapore Permanent Resident / Singapore Long-Term Pass holder<sup>*</sup> who is resident in Malaysia. Am I eligible to apply for the RGL?
 
-Yes. All residents in Malaysia who need to make <u>short-term</u> essential business or official travel between Singapore and Malaysia are eligible to apply for the RGL.
+Yes. All residents in Malaysia who need to make <u>short-term</u> essential##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
+408
+​
+409
+Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.  
+410
+​
+411
+Please make arrangements early for your test slot so that you can qualify for the RGL arrangements. business or official travel between Singapore and Malaysia are eligible to apply for the RGL.
 
 <p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Long-Term Pass holders who are eligible to apply for RGL travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependent’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
 
@@ -342,11 +350,11 @@ With effect from 1 January 2021, this will also apply to all new and returning S
 
 Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible fast lane travellers.
 
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment
 
 ##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
 
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
 
 ##### 3. How can I make an appointment for pre-departure PCR testing?
 
@@ -356,13 +364,13 @@ Please call the clinic and book your test slot before the Cut-Off Test Timing in
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL requirements are confirmed.
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. 
 
 If you do not make a prior appointment, please note that:
 1. There is no guarantee that there will be a test slot for you; and
 2. You may not get your results in time for your flight to qualify for RGL arrangements. Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
+
+Travellers who fail to allocate sufficient time for their test to be processed will not be able to obtain a test result in time for their flight.
 
 ##### 5. What details will I need to book an appointment for the PCR test?
 
@@ -378,24 +386,17 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport
-2. PDF copy of the Malaysia-issued travel pass which confirms that you are granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL
-3. Softcopy booking reference showing your departure flight timing
+2. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
 
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their scheduled departure.
-
-Please make arrangements early for your test slot so that you can qualify for the RGL.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+##### 7. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
 
 If you are unable to receive the test, you may wish to reschedule your departure, if you still wish to tap on the RGL.
 
 ##### Test Results
 
-##### 9. When can I expect to get my PCR test results?
+##### 8. When can I expect to get my PCR test results?
 
 You will receive your PCR test results and memo at least three hours before your scheduled departure.
 

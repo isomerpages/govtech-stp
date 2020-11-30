@@ -27,7 +27,7 @@ Seeking to travel for business and official purpose
 
 *Singapore Citizens, Permanent Residents and Singapore Long-Term Pass holders who are holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit and Dependent Pass) and holders of ICA-issued Long-Term Visit Passes
 
-Long-Term Pass holders returning to Singapore after a visit to the counterpart county/region should identify themselves as travellers under the RGL arrangement during pre-departure airline checks overseas, and to ICA at the immigration counters in Singapore by presenting the official letters issued by the authorities to facilitate the registration of pre-departure tests (if required) in Singapore.
+Long-Term Pass holders returning to Singapore after a visit to the counterpart county/region should identify themselves as travellers under the RGL arrangement during pre-departure airline checks overseas, and to ICA at the immigration counters in Singapore by presenting the official letters issued by the authorities.
 
 #### 3. What are other SafeTravel Passes which I can consider for travel to Singapore for the purpose of work or study?
 
@@ -331,81 +331,15 @@ As the specific requirements may change over time, RGL travelers returning to th
 
 Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at selected clinics found [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
 
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab at the traveller’s cost. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility. 
+Please call the clinic to make an appointment, before proceeding for the swab at the traveller’s cost. Pre-departure swabs may not be performed if you do not have an appointment.
 
-For destination countries/regions that have a mandatory requirement for travellers to produce a negative COVID-19 serology test, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of serology tests that meet the entry requirements of the country that they are travelling to. There is no need to apply for COVID-19 serology tests. 
+For destination countries/regions that have a mandatory requirement for travellers to produce a negative COVID-19 serology test, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of serology tests that meet the entry requirements of the country that they are travelling to.
 
 #### 26. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
 
-**[For RGL travellers under Singapore-Brunei Darussalam RGL and Singapore-ROK RGL]** <!--Singapore-Japan RGL-->
+**[For RGL travellers under Singapore-Brunei Darussalam RGL, Singapore-Mainland China RGL and Singapore-ROK RGL ]** <!--Singapore-Japan RGL-->
 
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. 
-
-<!--**[For RGL travellers under Singapore-Malaysia RGL]**-->
-
-<!--You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.-->
-
-<!--You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below:-->
-
-<!--<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Flight departure time </th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Latest Cut-off Test Timing </th>
-    </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">12.00 am to 9:29 am </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00 am two calendar days before flight</td>
-      </tr>
-        <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">9:30am to 3:29pm</td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">4:00pm two calendar days before flight </td>
-      </tr>
-        <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">3:30pm to 11.59pm</td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00am the day before flight</td>
-      </tr>
-  </tbody>
-  </table>-->
-        
-<!--*Example: If a traveller’s departure flight time for Malaysia is 12pm on 26 October, the required test must be done within 72 hours of departure, i.e. the traveller should take the test from 12pm on 23 October onwards, until the cut-off timing at 4pm on 24 October.*-->
-
-<!--Travellers who do not adhere to the Cut-off Test Timing will **not** be able to obtain the results in time for departure.-->
-
-**[For RGL travellers under Singapore-Mainland China RGL]**
-
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
-
-You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below: 
-
-<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Flight departure time </th>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:20px;">Latest Cut-off Test Timing </th>
-    </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">12.00 am to 9:29 am </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00 am two calendar days before flight</td>
-      </tr>
-        <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">9:30am to 3:29pm</td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">4:00pm two calendar days before flight </td>
-      </tr>
-        <tr>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">3:30pm to 11.59pm</td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:20px;">10.00am the day before flight</td>
-      </tr>
-  </tbody>
-  </table>
-
-*Example: If a traveller’s departure flight time for Mainland China is 12pm on 7 November, the required test must be done within 48 hours of departure, i.e. the traveller should take the test from 12pm on 5 November onwards, until the cut-off timing at 4pm on 5 November.*
-
-Travellers who do not adhere to the Cut-off Test Timing will not be able to obtain the results in time for departure.
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight or departure. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight or departure.
 
 #### 27. How can I make an appointment for the pre-departure COVID-19 PCR/serology testing?
 
@@ -417,20 +351,15 @@ Please call the clinic and book your test slot before the Cut-off Test Timing in
 
 Travellers are advised to check the entry requirements of the country they are travelling to via the countries’ embassy websites. Travellers should cater sufficient time to arrange for a test appointment, inform the pre-departure test providers about the timeframe for the provision of test results prior to departure and ensure that they liaise with the pre-departure test providers to receive the test results on time. 
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL application is approved. **You are responsible for checking for your testing window that is in line with your destination country/region’s requirement. Please ensure you have obtained prior approval from a Singapore government agency before calling the clinic to make the appointment.**
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements. 
+Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL application is approved. **You are responsible for checking that your testing window is in line with your destination country/region’s requirement.**
 
 If you do not make a prior appointment, please note that:  
 - There is no guarantee that there will be a test slot for you; and 
 - You may not get your results in time for your flight to qualify for the RGL arrangement. 
 
-Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
-
 #### 29. What details will I need to book an appointment for the COVID-19 PCR test? 
 
 Please have the following information on hand when making an appointment for your test:
-- Approval email to take the pre-departure PCR swab test
 - Identity card number or passport number
 - Departure flight timing
 - Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
@@ -442,16 +371,9 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following documents for your appointment:
 - Identity card or passport 
-- Letter issued by the relevant authorities confirming that you have been granted approval by the relevant authorities in the destination country/region to travel to under the RGL arrangement
 - Softcopy booking reference showing your departure flight timing
 
 ### **Testing**
-
-#### 31. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
-
-Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight.  
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
 
 #### 32. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
 

@@ -4,41 +4,48 @@ permalink: /health/pre-departure-test
 third_nav_title: Departing from Singapore
 ---
 
-## **Application for Pre-Departure COVID-19 PCR Test**
-
-This application is for travellers who wish to apply for a pre-departure COVID-19 PCR test. 
-
-Travellers who have received approval to travel under Singapore’s Green/Fast Lane arrangements with other countries or who hold a My TravelPass under the Reciprocal Green Lane (RGL) with Malaysia <u>need not apply</u> as they are already eligible to book a pre-departure test as part of the RGL approvals.
-
-All other travellers must apply to be eligible for a pre-departure COVID-19 PCR test. Clinics and testing centres will not administer the test unless approval has been granted.
-
-The cost of the PCR test is to be borne by the applicant.
-
-**From 1 December 2020, Government approval is no longer required for pre-departure COVID-19 PCR tests.** 
-
-### **Application Criteria**
-
-Approval for pre-departure tests may be granted only for travellers from Singapore who are travelling to a destination country that has a <u>mandatory</u> requirement for travellers to produce a negative COVID-19 PCR test result prior to <u>entry</u> into the country.
-
-You may apply for a pre-departure test using the corresponding application form based on your reason for travel:
-- Travel related to attending essential business-related work, or taking up employment overseas – at <https://go.gov.sg/mti-pdt>.
-- Ship crew sign-on for foreign-going ships – at <https://go.gov.sg/mpa-pdt>.
-- For repatriation of Chinese or Indian nationals with live or cancelled work permits and S-Passes returning to China or the Tamil Nadu or West Bengal States of India – at <https://www.go.gov.sg/mom-pdt>.
-- For travel related to long-term education, compassionate reasons, or otherwise – at <https://go.gov.sg/moh-pdt>.
-
-### **Responses on Application**
-
-Successful applicants will be notified of the approval via the email registered in the form within <u>five working days</u>.
-
-### **Queries on Application**
-
-**Please note that applicants are to fill in and submit the application form that corresponds to the travellers’ reason for travel listed above.** If you have any additional queries, you may contact the following agencies:
-- Travel related to business and employment – the Ministry of Trade and Industry at <COVID_SafeTravelEnquiries@mti.gov.sg>.  
-- Ship crew sign-on for foreign-going ships – the Maritime & Port Authority of Singapore at <Crew_change@mpa.gov.sg>.
-- For travel related to education, compassionate reasons, or otherwise – the Ministry of Health at <COVID_Swab_Enquiries@moh.gov.sg>.
-
 ### **Booking an Appointment**
 
-Pre-departure COVID-19 PCR testing is only done at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). Please note that receipt of an application approval is not a guarantee of an appointment slot on your preferred date/time at any of the clinics. Once you have been notified of the approval via email, please contact a listed clinic directly to make an appointment. **You are responsible for checking for your testing window that is in line with your destination country’s requirement.**
+Pre-departure COVID-19 PCR testing is only done at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). Please note that receipt of an application approval is not a guarantee of an appointment slot on your preferred date/time at any of the clinics. Once you have been notified of the approval via email, please contact a listed clinic directly to make an appointment. **Please note that you are responsible for checking for your testing window that is in line with your destination country’s requirement before making the appointment.**
 
-From 1 December 2020, you may directly contact a listed clinic to make an appointment.
+The cost of the Pre-Departure Test is to be borne by individuals.
+
+#### 1. Where can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+
+Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). 
+
+#### 2. How can I make an appointment for pre-departure PCR testing?
+
+You are encouraged to call a listed clinic to make an appointment that fits your required testing window, and be present at the clinic at least 15 mins before the appointment time. 
+
+Please note that you are responsible for checking your testing window that is in line with your destination country’s requirement before making an appointment. Travellers who present at the clinic less than 38 hours to the flight may not be able receive the result in time for the flight. **Please also check with the clinic if it is able to meet the destination country’s requirement.** 
+
+#### 3. How far in advance should I make an appointment for the pre-departure PCR test?
+
+To ensure that an appointment can be scheduled for your test, please make your appointment with a listed clinic as early as possible, once your flight timing is confirmed. **You are responsible for checking for your testing window that is in line with your destination country’s requirement, and that the clinic is able to meet the requirement.**
+
+If you do not make a prior appointment with a listed clinic, please note that:  
+1. There is no guarantee that there will be a test slot for you; and 
+2. You may not get your results in time for your flight.
+
+#### 4. What details will I need to book an appointment for the PCR test?
+
+Please have the following information on hand when making an appointment with a listed clinic for your test:
+1. Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
+2. Departure flight timing (if applicable)
+3. Possible times for your test slot
+4. Address in Singapore
+5. Contact number
+6. Email address 
+
+#### 5. What documents should I bring for my appointment?
+
+Please bring the following:
+1. Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
+2. Softcopy booking reference showing your departure flight timing (if applicable)
+
+#### 6. When can I expect to get my PCR test results?
+
+You will receive your test results and memo from the clinic at least three hours before your departure, if you met the cut-off timing at the clinic. Please let the clinic know as early as possible if you need to receive the memo by a certain time.
+
+The clinic will email the results to your provided email address. You will need to print and bring the memo overseas yourself.
