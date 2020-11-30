@@ -1,8 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /health/pre-departure-test/faq
-third_nav_title: Departing from Singapore
----
 
 ## **Pre-Departure Test for Travellers departing from Singapore**
 
@@ -10,48 +5,38 @@ third_nav_title: Departing from Singapore
 
 Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). 
 
-**Please ensure you have the approval letter** before you proceed to the clinic. Persons without prior approval will not be allowed to purchase a pre-departure test.
-
 #### 2. How can I make an appointment for pre-departure PCR testing?
 
-Please call the clinic to book your test slot. 
+You are encouraged to call a listed clinic to make an appointment that fits your required testing window, and be present at the clinic at least 15 mins before the appointment time. 
 
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking for your testing window that is in line with your destination country’s requirement. Please ensure you have obtained prior approval from a Singapore government agency before calling the clinic to make the appointment.
-
-<u>Please ensure you have the approval letter before presenting at the clinic. Persons without prior approval will not be allowed to purchase a pre-departure test.</u>
+Please note that you are responsible for checking your testing window that is in line with your destination country’s requirement before making an appointment. Travellers who present at the clinic less than 38 hours to the flight may not be able receive the result in time for the flight. **Please also check with the clinic if it is able to meet the destination country’s requirement.** 
 
 #### 3. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic as early as possible, once your approval and flight timing is confirmed. **You are responsible for checking for your testing window that is in line with your destination country’s requirement. Please ensure you have obtained prior approval from a Singapore government agency before calling the clinic to make the appointment.**
+To ensure that an appointment can be scheduled for your test, please make your appointment with a listed clinic as early as possible, once your flight timing is confirmed. **You are responsible for checking for your testing window that is in line with your destination country’s requirement, and that the clinic is able to meet the requirement.**
 
-Please refer to the Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.
-
-If you do not make a prior appointment, please note that:
+If you do not make a prior appointment with a listed clinic, please note that:  
 1. There is no guarantee that there will be a test slot for you; and 
 2. You may not get your results in time for your flight.
 
-Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
-
 #### 4. What details will I need to book an appointment for the PCR test?
 
-Please have the following information on hand when making an appointment for your test:
-1. Approval email to take the pre-departure PCR swab test
-2. Identity card number and passport number
-3. Departure flight timing (if applicable)
-4. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
-5. Address in Singapore 
-6. Contact number 
-7. Email address 
+Please have the following information on hand when making an appointment with a listed clinic for your test:
+1. Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
+2. Departure flight timing (if applicable)
+3. Possible times for your test slot
+4. Address in Singapore
+5. Contact number
+6. Email address 
 
 #### 5. What documents should I bring for my appointment?
 
 Please bring the following:
-1. Identity card and passport 
-2. Approval letter to take the pre-departure PCR swab test
-3. Softcopy booking reference showing your departure flight timing (if applicable)
+1. Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
+2. Softcopy booking reference showing your departure flight timing (if applicable)
 
 #### 6. When can I expect to get my PCR test results?
 
-You will receive your PCR test results and memo at least three hours before your departure, if you met the cut-off timing at your clinic. Please let the clinic know if you need to receive the memo by a certain time.
+You will receive your test results and memo from the clinic at least three hours before your departure, if you met the cut-off timing at the clinic. Please let the clinic know as early as possible if you need to receive the memo by a certain time.
 
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+The clinic will email the results to your provided email address. You will need to print and bring the memo overseas yourself.
