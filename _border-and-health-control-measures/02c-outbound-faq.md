@@ -1,8 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /health/pre-departure-test/faq
-third_nav_title: Departing from Singapore
----
 
 ## **Pre-Departure Test for Travellers departing from Singapore**
 
