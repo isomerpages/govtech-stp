@@ -10,7 +10,7 @@ Depending on the traveller’s travel history, he/she may receive a Stay-Home No
 
 - Passport/Travel document that is valid for at least six months;
 - SG Arrival Card acknowledgement email;
-- Proof of Entry Approval (e.g. Approval email from Singapore Government agency, Safe Travel Pass approval or Air Travel Pass approval);
+- Proof of Entry Approval excluding Singapore Citizens and Permanent Residents(e.g. Approval email from Singapore Government agency, Safe Travel Pass approval or Air Travel Pass approval);
 - Long-term pass or in-principle approval letter (if applicable); and
 - Valid Singapore visa (if applicable).
 
