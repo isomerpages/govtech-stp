@@ -269,11 +269,9 @@ The traveller may contact his/her host company or government agency in Japan to 
 
 An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
 
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexb">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. 
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
-
-Prior to the test, the traveller must obtain a letter from the Embassy of Japan in Singapore which confirms that he/she has been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan  RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered. 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -364,13 +362,13 @@ Email: <fastlane@sn.mofa.go.jp>
 
 ##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders).
 
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment.
 
 ##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
 
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
 
 ##### 3.	How can I make an appointment for pre-departure PCR testing?
 
@@ -380,15 +378,13 @@ Please call the clinic and book your test slot before the Cut-off Test Timing in
 
 ##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
 
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. 
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements. 
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved.
 
 If you do not make a prior appointment, please note that:
 1. There is no guarantee that there will be a test slot for you; and 
 2. You may not get your results in time for your flight to qualify for RGL arrangements. 
 
-Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
+Travellers who fail to allocate sufficient time for their test to be processed will not be able to obtain a test result in time for their flight.
 
 ##### 5. What details will I need to book an appointment for the PCR test? 
 
@@ -404,24 +400,17 @@ Please have the following information on hand when making an appointment for you
 
 Please bring the following:
 1. Identity card or passport 
-2. Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. 
 3. Softcopy booking reference showing your departure flight timing
 
 ##### Testing
 
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.  
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
+##### 7. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
 
 ##### Test Results
 
-##### 9.	When can I expect to get my PCR test results?
+##### 8.	When can I expect to get my PCR test results?
 
 You will receive your PCR test results and memo at least three hours before your flight. 
 
