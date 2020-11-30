@@ -1,5 +1,5 @@
 ---
-title: Requirements & Process
+title: Requirements and Process
 permalink: /japan/rgl/requirements-and-process
 ---
 
