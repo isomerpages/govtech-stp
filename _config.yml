@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: 
+notification: Scheduled maintenance will be taking place on:<br>&bull; 2 December, from 12am to 8am. During this period, application services for Air Travel Pass will not be available.   
 
 # Site colors
 colors:
@@ -23,15 +23,11 @@ colors:
 collections:
   air-travel-pass:
     output: true
-  hong-kong:
-    output: true
   atp-australia:
     output: true
   atp-brunei:
     output: true
   atp-china:
-    output: true
-  atp-hong-kong:
     output: true
   atp-new-zealand:
     output: true
@@ -55,7 +51,7 @@ collections:
     output: true
   returning-singapore-citizen-and-pr:
     output: true
-  border-health-control-measures:
+  border-and-health-control-measures:
     output: true
   work-pass-holder-lane:
     output: true
@@ -67,7 +63,8 @@ collections:
     output: true
   rgl-germany:
     output: true
-
+  atp-hong-kong:
+    output: true
     
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
