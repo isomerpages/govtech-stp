@@ -201,6 +201,12 @@ The app works best on phones with Android version 5.1 and above. More informatio
 
 SafeEntry is a national digital check-in system that logs the identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+ 
+Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
+
+More information can be found at <https://www.safeentry.gov.sg>. 
+
 #### 27.	Do I need to be tested again in Singapore before I return to Germany? Do I need to be quarantined or be tested again upon return to Germany?
 
 There are currently no requirements set by relevant German authorities for RGL returnees to Germany to be tested again in Singapore before returning to Germany. As Singapore is currently listed as a non-risk area<sup>5</sup> by the relevant German authorities, travellers who have been to Singapore for the past 14 days and are eligible to enter Germany need not be quarantined or subjected to a COVID-19 test upon entering Germany. 
@@ -263,7 +269,7 @@ There are currently no requirements for RGL travellers to take another COVID-19 
 
 #### 11. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Germany?
 
-A traveller should have on hand the  SGS Travel Pass from the receiving enterprise or invitation letter from the receiving German authority, the SGS Travel Pass from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
+A traveller should have on hand the SGS Travel Pass from the receiving enterprise or invitation letter from the receiving German authority, the SGS Travel Pass from the Singapore-German Chamber of Industry and Commerce which confirms the travellers’ status as an RGL traveller, and a valid visa, if required.
 
 ### **Health Measures in Germany**
 
@@ -281,11 +287,15 @@ The host company or government agency will supervise the controlled itinerary of
 
 #### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-You may also wish to refer [here](/health) for the latest details and updates on border control measures as well as [here](https://www.ica.gov.sg/covid-19/ArrivalSG) for information on the prevailing health measures for inbound travellers.
+You may also wish to refer to [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
-#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany?
+#### 15. Do I have to take a COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before I return to Singapore? 
+
+There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore. 
+
+#### 16. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
