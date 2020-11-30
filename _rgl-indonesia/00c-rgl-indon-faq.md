@@ -1,7 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /indonesia/rgl/faq
----
 
 
 ### **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS** 
@@ -102,7 +98,7 @@ An application for extension of visit pass/stay must be submitted online using I
 
 #### 18. What health measures must I take in Indonesia prior to my departure for Singapore?
 
-Travellers must have remained in Indonesia for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Indonesia, and not depart for Singapore if feeling unwell. They must also undergo a pre-departure PCR test in Indonesia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from healthcare institutions in Indonesia listed at [ANNEX A](/#annexa). The negative COVID-19 test result should also be in English, and clearly state the time and date that the test was taken.  
+Travellers must have remained in Indonesia for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Indonesia, and not depart for Singapore if feeling unwell. They must also undergo a pre-departure PCR test in Indonesia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from healthcare institutions in Indonesia listed at [ANNEX A](#annexa). The negative COVID-19 test result should also be in English, and clearly state the time and date that the test was taken.  
 
 #### 19. What documents do I need to produce for pre-boarding checks and for immigration checks?
 
@@ -160,7 +156,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 
 Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test 72 hours before departure. 
 
-The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [ANNEX C](/#annexc). The traveller must take the test and obtain a health certificate of having tested negative for COVID-19.
+The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [ANNEX C](#annexc). The traveller must take the test and obtain a health certificate of having tested negative for COVID-19.
 
 RGL travellers who are returning to Indonesia from Singapore should bring the following when presenting at the clinic for testing:
 - Identity card or passport  
@@ -171,7 +167,7 @@ RGL returnees who have a valid certificate of negative PCR test result in Singap
 
 RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19 (via a PCR test) at designated quarantine facilities in Indonesia. 
 
-For more information regarding Indonesia’s policy for travellers that are returning to Indonesia, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](/#annexb)).   
+For more information regarding Indonesia’s policy for travellers that are returning to Indonesia, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb)).   
 
 ### **RGL Pre-Departure COVID-19 PCR Tests in Singapore**
 
