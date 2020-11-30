@@ -6,8 +6,6 @@ permalink: /rgl/requirements-and-process
 The requirements and processes outlined on this page apply to the following Reciprocal Green Lane-eligible countries/regions: 
 - Brunei Darussalam;
 - Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang);
-- Japan;
-- Malaysia; and
 - Republic of Korea.
 
 ### 1. Eligibility
@@ -183,7 +181,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;"><b>Self-isolation</b></td>
-    <td style="font-size:16px;"> All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;"><br>Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
+    <td style="font-size:16px;"> All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
   <thead>
@@ -224,9 +222,9 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   <tr>
     <td rowspan="1" style="font-size:16px;"><b>Reporting of Positive COVID-19 Test</b></td>
     <td style="font-size:16px;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">i)	Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
 </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">ii)	Inform the Singapore host, who would then upload the TraceTogether data to MOH.
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the Singapore host, who would then upload the TraceTogether data to MOH.
        </li></ol>
  </td>
   </tr>
