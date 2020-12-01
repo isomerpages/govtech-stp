@@ -1,5 +1,5 @@
 ---
-title: Pre-Departure Test Application
+title: Pre-Departure Test
 permalink: /health/pre-departure-test
 third_nav_title: Departing from Singapore
 ---
