@@ -22,7 +22,7 @@ Persons of all nationalities who are legally resident in Malaysia, who need to m
 
 Yes. All residents in Malaysia who need to make short-term essential business or official travel between Singapore and Malaysia are eligible to apply for the RGL.
 
-<p style="font-size: 1.0rem; line-height: 1.8rem;">* <em>Singapore Long-Term Pass holders who are eligible to apply for RGL travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependent’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
+<p style="font-size: 18px; line-height: 1.8rem;">* <em>Singapore Long-Term Pass holders who are eligible to apply for RGL travel include holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit, Dependent’s Pass) and holders of the ICA-issued Long-Term Visit Pass.</em></p>
 
 #### 3. What is a SafeTravel Pass?
 
