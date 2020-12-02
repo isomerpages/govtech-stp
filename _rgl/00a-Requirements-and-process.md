@@ -116,7 +116,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   </tr>
 </thead>
  <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-departure</b></td>
+    <td style="font-size:16px;"><b>Pre-departure</b></td>
     <td style="font-size:16px;">Application sponsors should submit the following before the traveller’s departure to Singapore, here:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
@@ -125,7 +125,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     </td>
   </tr> 
    <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-boarding clearance</b></td>
+    <td style="font-size:16px;"><b>Pre-boarding clearance</b></td>
     <td style="font-size:16px;">Approved RGL travellers must produce the following documents when leaving for Singapore:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
