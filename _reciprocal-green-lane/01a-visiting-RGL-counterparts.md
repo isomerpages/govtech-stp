@@ -21,4 +21,4 @@ The RGL is also known by other names as used by Singapore's RGL counterpart coun
 
 ### Pre-Departure Test for RGL Travel
 
-For all outbound RGL travel, a Pre-Departure Test (PDT) is required before leaving Singapore. After obtaining approval for RGL travel from the foreign government, you may use the approval document to take your PDT at the clinics listed on [this page](/pre-departure-test). No additional approval from the Singapore authorities is required before booking your PDT for approved RGL travel.
+For all outbound RGL travel, a Pre-Departure Test (PDT) is required before leaving Singapore. Travellers may take a Pre-Departure Test at the clinics listed on [this page](/pre-departure-test).
