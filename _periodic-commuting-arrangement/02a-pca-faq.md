@@ -176,7 +176,7 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 
 #### 32. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
 
-Your employee is required to undergo a COVID-19 PCR test on the 5th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 8th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
+Your employee is required to undergo a COVID-19 PCR test on the 11th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 8th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
 If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 8th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number. 
 
