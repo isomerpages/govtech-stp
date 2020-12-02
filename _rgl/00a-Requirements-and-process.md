@@ -5,11 +5,11 @@ permalink: /rgl/requirements-and-process
 
 The requirements and processes outlined on this page apply to the following Reciprocal Green Lane-eligible countries/regions: 
 - Brunei Darussalam;
+- Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang);
+- Republic of Korea.
 <!--Germany-->
 <!--Japan-->
 <!--Malaysia-->
-- Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang);
-- Republic of Korea.
 
 ### 1. Eligibility
 
