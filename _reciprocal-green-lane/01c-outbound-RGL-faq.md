@@ -95,9 +95,6 @@ The list of clinics that can perform pre-departure COVID-19 PCR tests and detail
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
-The traveller must present at the clinic, a copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei under the Singapore-Brunei RGL, before the swab test can be administered.
-
-
 #### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
 Travellers with Acute Respiratory Infection symptoms should not travel. They should postpone their travel plans.
@@ -816,8 +813,6 @@ The traveller may contact his/her Indonesian sponsor to make the necessary arran
 ### **Testing Arrangements**
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance? 
-
-Prior to taking the pre-departure COVID-19 PCR test, the traveller must obtain an evisa which confirms that he/she has been granted approval by the relevant authorities in Indonesia to travel to Indonesia under the Singapore-Indonesia RGL. This e-visa must be presented at the clinic before the test can be administered. 
  
 The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [ANNEX C](#annexcindon). Testing for RGL arrangements should only be carried out at these clinics. An eligible RGL traveller can contact the clinic directly and make an appointment in advance to be tested. 
  
@@ -1033,8 +1028,6 @@ The list of clinics that can perform pre-departure COVID-19 PCR tests and detail
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
 
-The traveller must present at the clinic, a copy of the Malaysia-issued travel pass which confirms that he/she was granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL, before the swab test can be administered.
-
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 7. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
@@ -1219,8 +1212,6 @@ A RGL traveller departing for the ROK can make an appointment in advance at desi
 The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbrok">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
-
-Prior to the test, the traveller must obtain a letter from the ROK Embassy in Singapore which confirms that he/she has been granted approval by the relevant authorities in the ROK to travel to the ROK under the Singapore-ROK RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
