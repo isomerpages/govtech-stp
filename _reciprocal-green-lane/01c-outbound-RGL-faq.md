@@ -286,7 +286,7 @@ As some provinces/municipalities may require additional COVID-19 test(s) before 
 
 The traveller may contact his/her host company or government agency in China to make the necessary arrangements in China.
 
-### **Test Arrangements**
+### **Testing Arrangements**
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
@@ -295,8 +295,6 @@ The RGL traveller departing for China can make an appointment in advance at desi
 The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
-
-The traveller must also obtain a letter from the PRC Embassy in Singapore which confirms that he/she has been granted approval by the relevant authorities in China to travel to China under the Singapore-China RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
