@@ -318,9 +318,9 @@ Singapore-based travellers returning from their travel on the Singapore- RGL wil
 
 You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
-#### 14. Do I have to take a COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before I return to Singapore? 
+#### 14. Do I have to take a COVID-19 test before I return to Singapore? 
 
-There are currently no requirements for RGL travellers to take another COVID-19 test in Germany/Indonesia/Japan/Malaysia/ROK before returning to Singapore. 
+There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore. 
 
 #### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
 
