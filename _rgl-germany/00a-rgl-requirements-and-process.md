@@ -1,7 +1,4 @@
----
-title: Requirements & Process
-permalink: /germany/rgl/requirements-and-process
----
+
 
 On 23 October 2020, Singapore and Germany agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries.
 
