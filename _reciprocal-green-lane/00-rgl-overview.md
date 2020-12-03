@@ -37,9 +37,9 @@ Please click on the relevant links below for more information about the RGL.
   </tr>
   <tr>
       <td><b>Germany</b></td>
-    <td style="text-align:left;"><a href="/germany/rgl/requirements-and-process">Click here</a></td>
+    <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
-      <td style="text-align:left;"><a href="/germany/rgl/faq">Click here</a></td>
+      <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
   </tr>
     <tr>
       <td><b>Mainland China<sup>2</sup></b></td>
@@ -55,15 +55,15 @@ Please click on the relevant links below for more information about the RGL.
   </tr>
   <tr>
     <td ><b>Japan</b></td>
-       <td style=" text-align:left;"><a href="/japan/rgl/requirements-and-process">Click here</a></td>
+       <td style=" text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
        <!--<td style=" text-align:center;"><a href="/japan/rgl/terms-and-conditions">Click here</a></td>-->
-    <td style=" text-align:left;"><a href="/japan/rgl/faq">Click here</a></td>
+    <td style=" text-align:left;"><a href="/rgl/faq">Click here</a></td>
   </tr>
      <tr>
     <td ><b>Malaysia</b></td>
-       <td style=" text-align:left;"><a href="/malaysia/rgl/requirements-and-process">Click here</a></td>
+       <td style=" text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!-- <td style=" text-align:center;"><a href="/malaysia/rgl/terms-and-conditions">Click here</a></td>-->
-    <td style="text-align:left;"><a href="/malaysia/rgl/faq">Click here</a></td>
+    <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
   </tr>
     <tr>
       <td style="border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
