@@ -40,7 +40,7 @@ Travellers can also visit the Ministry of Manpower Website [here](http://www.mom
 
 Travellers seeking to enter Singapore for study may wish to visit the ICA Website [here](https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders) for more information.
 
-#### 4.	Are there restrictions on my travel route to Singapore under the RGL arrangement?-->
+#### 4.	Are there restrictions on my travel route to Singapore under the RGL arrangement?
 
 RGL travellers can travel to Singapore on a non-stop flight from selected airports,<sup>[1]</sup> in the counterpart countries/regions, as well as by land via the Causeway and Second Link, in the case of Malaysia.
 
@@ -110,7 +110,7 @@ The applicant from the host company or government agency will also be required t
         
 #### 8.	What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
 
-The application for the SafeTravel Pass will be open for a period of 2 weeks to 5 weeks before the week of the traveller’s planned departure. Applications submitted less than 7 working days from the date of entry will not be accepted. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as soon as practicable, taking into consideration the time involved in processing the application, applying for a visa (if required) and/or taking a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore.
+The application for the SafeTravel Pass will be open for a period of 2 to 5 weeks before the week of the traveller’s planned departure. Applications submitted less than 7 working days from the date of entry will not be accepted. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as soon as practicable, taking into consideration the time involved in processing the application, applying for a visa (if required) and/or taking a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore.
 
 #### 9.	How will I be notified on the outcome of the SafeTravel Pass application?
 
@@ -211,8 +211,7 @@ RGL travellers by air and land are required to produce the following documents t
 - A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore).
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.
-- Proof of transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
-
+- Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 
 ### **Testing Arrangements Upon Arrival in Singapore**
 
