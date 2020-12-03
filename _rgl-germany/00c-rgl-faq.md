@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /germany/rgl/faq
----
+
 
 - [Application Process for Travellers in Germany](#faq-residents-germany)
 - [Application Process for Travellers in Singapore](#faq-residents-singapore)
