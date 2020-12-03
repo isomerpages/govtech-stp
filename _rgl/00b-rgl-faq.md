@@ -213,6 +213,7 @@ RGL travellers by air and land are required to produce the following documents t
 - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.
 - Proof of transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 
+
 ### **Testing Arrangements Upon Arrival in Singapore**
 
 #### 19. What tests will I be subject to upon arrival in Singapore? Where will the tests be administered? What are the payment modes accepted for the tests?
@@ -247,17 +248,17 @@ Travellers must take a COVID-19 PCR test upon arrival in Singapore and remain is
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, except for private hire cars/taxis or cohorted company transport<sup>2</sup>. 
 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q23">Q23</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q24">Q24</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
 
-#### 22. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
+#### 23. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
-<div id="Q23"></div>
+<div id="Q24"></div>
 
-#### 23. What is SafeEntry?
+#### 24. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -269,7 +270,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 
 ### **Returning to Countries/Regions of Departure**
 
-#### 24. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
+#### 25. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
 
 <table>
   <thead>
@@ -335,65 +336,63 @@ As the specific requirements may change over time, RGL travelers returning to th
 
 ### **Booking an appointment**
 
-#### 25. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
+#### 26. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
 
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at selected clinics found [here](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for fast lane travellers.
 
-Please call the clinic to make an appointment, before proceeding for the swab at the traveller’s cost. Pre-departure swabs may not be performed if you do not have an appointment.
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment
 
-For destination countries/regions that have a mandatory requirement for travellers to produce a negative COVID-19 serology test, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of serology tests that meet the entry requirements of the country that they are travelling to.
+<!--For destination countries/regions that have a mandatory requirement for travellers to produce a negative COVID-19 serology test, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of serology tests that meet the entry requirements of the country that they are travelling to.-->
 
-#### 26. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
+#### 27. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
 
 **[For RGL travellers under Singapore-Brunei Darussalam RGL, Singapore-Japan RGL, Singapore-Malaysia RGL, Singapore-Mainland China RGL and Singapore-ROK RGL ]**
 
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight or departure. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight or departure.
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight or departure. Travellers who present themselves at the clinic less than 38 hours to the flight may not be able receive the result in time for the flight or departure.
 
-#### 27. How can I make an appointment for the pre-departure COVID-19 PCR/serology testing?
+#### 28. How can I make an appointment for the pre-departure COVID-19 PCR Test?
 
-The pre-departure COVID-19 PCR test must be done within 72 hours prior to departure, if applicable. For the Singapore-Mainland China RGL, the pre-departure COVID-19 PCR and serology tests must be done within 48 hours prior to departure.
+You are encouraged to call a listed clinic to make an appointment that fits your required testing window, and be present at the clinic at least 15 mins before the appointment time.
 
-Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above to ensure that you will have sufficient time to meet the RGL requirements.
+Please note that you are responsible for checking your testing window that is in line with your destination country’s requirement before making an appointment. Travellers who present at the clinic less than 38 hours to the flight may not be able receive the result in time for the flight. Please also check with the clinic if it is able to meet the destination country’s requirement.
 
-#### 28. How far in advance should I make an appointment for the pre-departure PCR/serology test?
+#### 29. How far in advance should I make an appointment for the pre-departure PCR/serology test?
 
-Travellers are advised to check the entry requirements of the country they are travelling to via the countries’ embassy websites. Travellers should cater sufficient time to arrange for a test appointment, inform the pre-departure test providers about the timeframe for the provision of test results prior to departure and ensure that they liaise with the pre-departure test providers to receive the test results on time. 
+To ensure that an appointment can be scheduled for your test, please make your appointment with a listed clinic as early as possible, once your flight timing is confirmed. <b>You are responsible for checking for your testing window that is in line with your destination country’s requirement, and that the clinic is able to meet the requirement.</b>
 
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL application is approved. **You are responsible for checking that your testing window is in line with your destination country/region’s requirement.**
+If you do not make a prior appointment with a listed clinic, please note that:
+- There is no guarantee that there will be a test slot for you; and
+- You may not get your results in time for your flight.
 
-If you do not make a prior appointment, please note that:  
-- There is no guarantee that there will be a test slot for you; and 
-- You may not get your results in time for your flight to qualify for the RGL arrangement. 
+#### 30. What details will I need to book an appointment for the COVID-19 PCR test? 
 
-#### 29. What details will I need to book an appointment for the COVID-19 PCR test? 
+Please have the following information on hand when making an appointment with a listed clinic for your test:
+- Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
+- Departure flight timing (if applicable)
+- Possible times for your test slot
+- Address in Singapore
+- Contact number
+- Email address
 
-Please have the following information on hand when making an appointment for your test:
-- Identity card number or passport number
-- Departure flight timing
-- Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
-- Address in Singapore 
-- Contact number 
-- Email address 
-
-#### 30.	What documents should I bring for my appointment?
+#### 31.	What documents should I bring for my appointment?
 
 Please bring the following documents for your appointment:
-- Identity card or passport 
-- Softcopy booking reference showing your departure flight timing
+- Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
+- Softcopy booking reference showing your departure flight timing (if applicable)
 
 ### **Testing**
 
-#### 31. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
+#### 32. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
 
 ### **Test Results**
 
-#### 32. When can I expect to get my PCR test results?
+#### 33. When can I expect to get my PCR test results?
 
-You will receive your PCR test results and memo at least three hours before your flight. 
+You will receive your test results and memo from the clinic at least three hours before your departure, if you met the cut-off timing at the clinic. Please let the clinic know as early as possible if you need to receive the memo by a certain time.
 
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+The clinic will email the results to your provided email address. You will need to print and bring the memo overseas yourself.
 
 -----
 
