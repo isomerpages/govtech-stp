@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /japan/rgl/faq
----
+
 
 <div id="faq-top"></div>
 
