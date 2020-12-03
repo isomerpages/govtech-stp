@@ -15,7 +15,7 @@ The following FAQs apply to persons who are residents in countries/regions that 
 
 ### **Application Requirements**
 
-#### 1. What is the SafeTravel Pass under the RGL arrangement for travel to Singapore?
+#### 1. What is a SafeTravel Pass under the RGL arrangement for travel to Singapore?
 
 The SafeTravel Pass under the RGL arrangement is a non-transferrable document which allows a traveller to seek a single-entry, short-term essential business and official visit into Singapore within a stipulated week (0000 hours Monday to 2359 hours Sundays), and to remain in Singapore for the duration of the visit pass issued at the immigration counters in Singapore.
 
@@ -281,15 +281,15 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
   <tbody>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore</td>
-       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-         <b>For Travellers returning from Brunei Darussalam, Mainland China and Republic of Korea</b>
+       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <i>Note: There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore.</i>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>For Travellers returning from Brunei Darussalam, Mainland China and Republic of Korea</b></p>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers can be exempted from SHN if they undergo a COVID-19 PCR test upon arrival in Singapore, and remain in isolation until the test result is out.</p>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Travellers travelling by air are encouraged to Pre-registered and paid for a COVID-19 PCR test, which they will take upon arrival in Singapore;</li>
 </ol>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>For Travellers returning from Malaysia, Germany, Indonesia and Japan</b></p>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers will be subjected to 14-day Stay-Home Notice (SHN) at SHN Dedicated Facility upon arrival in Singapore.</p>
-</td>
+   </td>
     </tr>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
