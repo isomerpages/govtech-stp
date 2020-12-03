@@ -285,7 +285,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>For Travellers returning from Brunei Darussalam, Mainland China and Republic of Korea</b></p>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers can be exempted from SHN if they undergo a COVID-19 PCR test upon arrival in Singapore, and remain in isolation until the test result is out.</p>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Travellers travelling by air are encouraged to Pre-registered and paid for a COVID-19 PCR test, which they will take upon arrival in Singapore;</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">Travellers travelling by air are encouraged to ,<a href="https://safetravel.changiairport.com/#/">Pre-registered and paid</a> for a COVID-19 PCR test, which they will take upon arrival in Singapore;</li>
 </ol>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>For Travellers returning from Malaysia, Germany, Indonesia and Japan</b></p>
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers will be subjected to 14-day Stay-Home Notice (SHN) at SHN Dedicated Facility upon arrival in Singapore.</p>
