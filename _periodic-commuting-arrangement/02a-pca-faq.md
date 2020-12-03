@@ -91,7 +91,7 @@ Travellers seeking to enter Singapore for study may wish to visit <https://www.i
 
 #### 17. Do I need a new application each time my employee wants to enter Singapore after their home leave?
 
-Yes, a new application is required each time your employSC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.ee wants to enter Singapore.
+Yes, a new application is required each time your employee wants to enter Singapore.
 
 #### 18. I am a confinement nanny. Can I apply for a PCA to enter Singapore?
 
