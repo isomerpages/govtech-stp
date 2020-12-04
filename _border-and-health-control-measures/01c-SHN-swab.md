@@ -9,7 +9,7 @@ A summary of the prevailing SHN and swab requirements for travellers can be foun
 
 ### 1. Stay-Home Notice (SHN) - If Applicable
 
-Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
+Depending on the traveller’s scheme of travel, they may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
 
 Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/advisories/moh-health-advisory-for-persons-issued-stay-home-notice_4-nov.pdf" target="_blank">read the requirements for persons placed on SHN</a>.
 
@@ -26,9 +26,9 @@ Travellers who fail to comply with the SHN requirements can be reported to ICA v
 For SHN-related enquiries or assistance, travellers can contact the SHN Helpline at <u>6812 5555</u>.
 
 
-### 2. Dedicated Stay-Home Notice (SHN) Facility
+### 2. Dedicated SHN Facility - If Applicable
 
-#### Stay at Stay-Home Notice (SHN) Dedicated Facility 
+#### Stay at SHN Dedicated Facility 
  
 Please refer to the following link for common questions on the SHN facilities: [here](https://www.gov.sg/article/questions-about-the-dedicated-shn-facilities-for-returnees-answered)
 
