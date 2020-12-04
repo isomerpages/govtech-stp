@@ -32,7 +32,7 @@ These travellers must present a valid negative COVID-19 PCR test result, in Engl
 - Test Result
 - Particulars of Traveller as indicated in the passport (Name and Date of Birth or Passport Number).  
 
-Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN.
+Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN. The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged.
 
 ### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
 
