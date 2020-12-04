@@ -540,7 +540,7 @@ The host company or government agency will supervise the controlled itinerary of
 
 #### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
+Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
 You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
 
@@ -574,9 +574,9 @@ The relevant Japanese Government authorities will assess each application on a c
 
 #### 2.	How do Singapore residents apply to travel to Japan under the RGL?
 
-Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore. As part of the visa application, the applicant has to submit a declaration form <https://www.mofa.go.jp/mofaj/files/100094426.pdf> signed by the receiving enterprise or government agency, as well as a detailed visit itinerary. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. 
+Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore, refer to this [link](https:/www.mofa.go.jp/ca/fna/page22e_000921.html) for more information. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a pre-departure COVID-19 PCR test and obtaining private medical insurance (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. 
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a **pre-departure COVID-19 PCR test and obtaining private medical insurance** (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure and remaining in Singapore for at least 14 days prior to departure. 
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in Japan?
 
