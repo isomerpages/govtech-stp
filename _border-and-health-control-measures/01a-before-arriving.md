@@ -3,6 +3,7 @@ title: Before Arriving in Singapore
 permalink: /health/before-arriving
 third_nav_title: Travelling to Singapore
 ---
+
 ## Pre-Departure to Singapore
 
 ### 1. Obtain Entry Approval
@@ -21,18 +22,30 @@ A requisite entry approval as well as a valid visa must be obtained prior to tra
 
 ### 3. COVID-19 Test before departing for Singapore (If Applicable)
 
-Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane), he/she may be required to take a COVID-19 PCR test before departing for Singapore. Whether a traveller needs to be tested before departing for Singapore is set out in the Terms and Conditions of the Safe Travel passes governing entry into Singapore.
+Depending on the traveller’s scheme of travel, he/she may be required to take a COVID-19 PCR test before departing for Singapore. Whether a traveller needs to be tested before departing for Singapore is set out in the Terms and Conditions of the Safe Travel passes governing entry into Singapore. For more information please refer to the relevant Safe Travel Lanes below:
 
-Travellers who have been approved for entry will be required to take a COVID-19 PCR test within 72 hours before departure for Singapore, if he/she:
-- Is a non-Singapore citizen or non-Singapore permanent resident (<u>including children aged 12 years old and below</u>); and
-- Has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 & 5 of the table) <u>within the last 14 days prior to entry into Singapore which would require a 14-day Stay-Home Notice (SHN)</u>; or
+- [Air Travel Pass](/atp/overview)
+- [Reciprocal Green Lane](/rgl/overview)
+- [Periodic Commuting Arrangement](/pca/overview)
 
-These travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result must contain the following details:
+#### For Non-Singapore Citizen or Non-Singapore Permanent Resident (Including Children aged 12 years old and below)
+
+Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 & 5 of the table) within the last 14 days prior to entry into Singapore would <u>require to take a COVID-19 PCR Test within 72 hours before departure for Singapore</u>
+
+Travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result **must** contain the following details:
 - Date the test was taken
-- Test Result
+- Test Result*
 - Particulars of Traveller as indicated in the passport (Name and Date of Birth or Passport Number).  
 
-Upon arrival, these travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN.
+Upon arrival, travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN. The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged. For more information on the prevailing SHN/SDF requirements please refer [here](/health/shn).
+
+*Singapore only accepts test results from labs in the country that are [internationally accredited or recognised](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) by the respective Government.
+
+#### For Singapore Citizen or Singapore Permanent Residents
+
+There are currently no requirements for Singapore Citizen or Singapore Permanent Residents to take a COVID-19 PCR test before returning to Singapore.
+
+However, Upon arrival, travellers are obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take a COVID-19 PCR test before completing their SHN. For more information on the prevailing SHN/SDF requirements please refer [here](/health/shn).
 
 ### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
 

@@ -24,9 +24,8 @@ SafeTravel Passes are approved on a limited basis to mitigate the risk of import
 #### 2. Am I eligible to apply for a SafeTravel Pass under the RGL arrangement for travel to Singapore?
 
 You are eligible to apply for a SafeTravel Pass under the RGL arrangement for travel to Singapore if you are:
-A resident* holding a valid passport of any nationality/citizenship in the counterpart country/region with an RGL arrangement with Singapore
-Seeking to make a single-entry, short-term essential visit to Singapore
-Seeking to travel for business and official purpose 
+- A resident* holding a valid passport of any nationality/citizenship in the counterpart country/region with an RGL arrangement with Singapore
+- Seeking to make a single-entry, short-term essential visit to Singapore for business and official purpose 
 
 *Singapore Citizens, Permanent Residents and Singapore Long-Term Pass holders who are holders of MOM-issued work passes (e.g. Employment Pass, EntrePass, Personalised Employment Pass, S Pass, Work Permit and Dependent Pass) and holders of ICA-issued Long-Term Visit Passes
 
@@ -184,7 +183,7 @@ Travellers must remain in and have not travelled out of the country for at least
       </tr>
        <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Germany</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">For a list of accredited medical testing facilities in Germany, please see <a href="https://www.g-f-v.org/node/1233">here</a> and <a href="https://www.corona-diagnostik-insights.de.">here</a></td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">For a list of accredited medical testing facilities in Germany, please see <a href="https://www.g-f-v.org/node/1233">here</a> and <a href="https://www.corona-diagnostik-insights.de/">here</a></td>
       </tr>
    <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mainland China</td>
@@ -192,7 +191,7 @@ Travellers must remain in and have not travelled out of the country for at least
       </tr>
             <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan </td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the list of medical institutions designated by the government of Japan <a href="https://www.meti.go.jp/policy/investment/tecot/pdf/tourokubo_english.pdf">here</a>. [Note: Website is in Japanese; enquiries in English can be made via phone (+65-6235-8855) or email <a href="fastlane@sn.mofa.go.jp">fastlane@sn.mofa.go.jp</a> to the Embassy of Japan in Singapore.] The certificate should be in English or accompanied by an English translation.</td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Please refer to the <a href="https://www.meti.go.jp/policy/investment/tecot/pdf/tourokubo_english.pdf">list</a> of medical institutions designated by the government of Japan here. The certificate should be in English or accompanied by an English translation.</td>
       </tr>
             <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Malaysia</td>
@@ -293,7 +292,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
     </tr>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Brunei Darussalam</td>
-       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do <u>not</u> need to be tested in Singapore before their return. Travellers will be subjected to anIsolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore.</td>
+       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do not need to be tested in Singapore before their return. Travellers will be subjected to an Isolation Notice served at the Brunei International Airport, with cost borne by the traveller. However, travellers returning to Brunei may qualify for a shortened isolation period upon submitting a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore</td>
     </tr>
     <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Germany</td>
