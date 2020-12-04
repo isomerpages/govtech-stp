@@ -3,6 +3,7 @@ title: Before Arriving in Singapore
 permalink: /health/before-arriving
 third_nav_title: Travelling to Singapore
 ---
+
 ## Pre-Departure to Singapore
 
 ### 1. Obtain Entry Approval
