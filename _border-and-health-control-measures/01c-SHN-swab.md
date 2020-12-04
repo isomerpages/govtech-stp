@@ -9,7 +9,7 @@ A summary of the prevailing SHN and swab requirements for travellers can be foun
 
 ### 1. Stay-Home Notice (SHN) - If Applicable
 
-Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane, Periodic Commuting Arrangement), he/she may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
+Depending on the traveller’s scheme of travel, they may be issued with a Stay-Home Notice (SHN) when entering Singapore. Click <a href="https://service2.mom.gov.sg/shn/shn-calculator/" target="_blank">here</a> to calculate the last day of your SHN.
 
 Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/advisories/moh-health-advisory-for-persons-issued-stay-home-notice_4-nov.pdf" target="_blank">read the requirements for persons placed on SHN</a>.
 
@@ -26,15 +26,15 @@ Travellers who fail to comply with the SHN requirements can be reported to ICA v
 For SHN-related enquiries or assistance, travellers can contact the SHN Helpline at <u>6812 5555</u>.
 
 
-### 2. Dedicated Stay-Home Notice (SHN) Facility
+### 2. Dedicated SHN Facility - If Applicable
 
-#### Stay at Stay-Home Notice (SHN) Dedicated Facility 
-  
-The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged.
+#### Stay at SHN Dedicated Facility 
  
 Please refer to the following link for common questions on the SHN facilities: [here](https://www.gov.sg/article/questions-about-the-dedicated-shn-facilities-for-returnees-answered)
 
 From 1 January 2021 onwards, costs of stay at dedicated SHN facilities for SCs and PRs who last left Singapore before 27 March will no longer be waived. Please refer to the following link for details: [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers)
+
+Any payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged.
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
@@ -103,7 +103,3 @@ Estimated PCR test costs can be found in the table below:
     </tr>
   </tbody>
   </table>
-  
- 
-
-  
