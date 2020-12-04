@@ -574,7 +574,7 @@ The relevant Japanese Government authorities will assess each application on a c
 
 #### 2.	How do Singapore residents apply to travel to Japan under the RGL?
 
-Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore, refer to this [link](https:/www.mofa.go.jp/ca/fna/page22e_000921.html) for more information. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore.
+Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore, refer to this [link](https://www.mofa.go.jp/ca/fna/page22e_000921.html) for more information. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore.
 
 The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a **pre-departure COVID-19 PCR test and obtaining private medical insurance** (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure and remaining in Singapore for at least 14 days prior to departure. 
 
