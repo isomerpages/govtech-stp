@@ -25,6 +25,8 @@ Depending on the traveller’s scheme of travel (e.g. Reciprocal Green Lane), he
 
 #### For Singapore Citizen or Singapore Permanent Resident
 
+Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 & 5 of the table) <u>within the last 14 days prior to entry into Singapore would require a 14-day Stay-Home Notice (SHN)</u>.
+
 Upon arrival, travellers are obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take a COVID-19 PCR test before completing their SHN. The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged.
 
 #### For Non-Singapore Citizen or Non-Singapore Permanent Resident (Including Children aged 12 years old and below)
