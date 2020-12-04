@@ -47,7 +47,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of COVID-19 Polymerase Chain Reaction test results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">14-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
-  <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Visitors may refer to the Singapore Hotel Association (SHA) website for a list of hotels currently accepting visitors travelling to Singapore under the Reciprocal Green Lane. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</p>
+  <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Reciprocal Green Lane. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</p>
 </li>
 </ol>
 </li>
