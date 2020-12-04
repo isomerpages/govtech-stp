@@ -28,6 +28,14 @@ For SHN-related enquiries or assistance, travellers can contact the SHN Helpline
 
 ### 2. Dedicated Stay-Home Notice (SHN) Facility
 
+#### Stay at Stay-Home Notice (SHN) Dedicated Facility 
+  
+The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged.
+ 
+Please refer to the following link for common questions on the SHN facilities: [here](https://www.gov.sg/article/questions-about-the-dedicated-shn-facilities-for-returnees-answered)
+
+From 1 January 2021 onwards, costs of stay at dedicated SHN facilities for SCs and PRs who last left Singapore before 27 March will no longer be waived. Please refer to the following link for details: [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers)
+
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
 Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
@@ -96,12 +104,6 @@ Estimated PCR test costs can be found in the table below:
   </tbody>
   </table>
   
-### 5. Stay at SHN Hotel
-  
-The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged.
  
-Please refer to the following link for common questions on the SHN facilities: [here](https://www.gov.sg/article/questions-about-the-dedicated-shn-facilities-for-returnees-answered)
-
-From 1 January 2021 onwards, costs of stay at dedicated SHN facilities for SCs and PRs who last left Singapore before 27 March will no longer be waived. Please refer to the following link for details: [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) 
 
   
