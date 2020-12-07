@@ -103,7 +103,3 @@ Estimated PCR test costs can be found in the table below:
     </tr>
   </tbody>
   </table>
-  
- 
-
-  

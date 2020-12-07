@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /japan/rgl/faq
----
+
 
 <div id="faq-top"></div>
 
@@ -332,7 +329,7 @@ You may also wish to refer [here](/health/shn) for the latest details and update
 
 #### 17. Do I have to take a COVID-19 test before I return to Singapore? 
 
-There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore. 
+There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore.  
 
 #### 18.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
 

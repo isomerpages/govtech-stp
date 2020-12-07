@@ -116,7 +116,7 @@ The RGL is only for short-term essential business and official travel, and not f
 
 The RGL is only for short-term essential business and official travel, and not for seeking medical treatment. Enforcement action will be taken against travellers found to have abused the RGL to seek medical treatment in Singapore, including not being able to apply for travel under the RGL again. 
  
-Travellers who are short-term visit pass holders from other countries seeking to enter Singapore for medical treatment should appy for entry approval through their Singapore doctors.   
+Travellers who are short-term visit pass holders from other countries seeking to enter Singapore for medical treatment should apply for entry approval through their Singapore doctors.   
 
 #### 19.  Can I use the RGL to transit through Singapore? 
 

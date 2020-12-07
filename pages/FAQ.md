@@ -30,7 +30,7 @@ permalink: /FAQ
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Germany</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Reciprocal Green Lane 
      </td>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/germany/rgl/faq"> Link </a>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/rgl/faq"> Link </a>
 </td>
  </tr>
    <tr>
@@ -51,7 +51,7 @@ permalink: /FAQ
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Japan</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Reciprocal Green Lane 
      </td>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/japan/rgl/faq"> Link </a>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/rgl/faq"> Link </a>
 </td>
  </tr>
    <tr>
@@ -65,7 +65,7 @@ permalink: /FAQ
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Malaysia</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Periodic Commuting Arrangement <br/> Reciprocal Green Lane 
      </td>
-     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/malaysia/pca/faq"> Link </a> <br/> <a href="/malaysia/rgl/faq"> Link </a>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/malaysia/pca/faq"> Link </a> <br/> <a href="/rgl/faq"> Link </a>
 </td>
  </tr>
     <tr>

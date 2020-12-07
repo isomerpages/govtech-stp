@@ -48,7 +48,7 @@ There is **no** exemption for children and infants.
 
 #### 6.	Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
 
-Please click [here](/arriving/overview) to find out more on the Reciprocal Green Lane arrangements.  
+Please click [here](/rgl/overview) to find out more on the Reciprocal Green Lane arrangements.  
 
 #### 7.	I have recovered from COVID-19, am I required to undergo a pre-departure test before entry into Singapore? Will I be denied entry into Singapore?
 

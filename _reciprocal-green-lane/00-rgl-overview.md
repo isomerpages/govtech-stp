@@ -17,7 +17,7 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 
 The RGL is only applicable for travel between Singapore and the foreign RGL counterpart using non-stop flight routes (no transit in other countries).
 
-Please click on the relevant links below for more information about the RGL
+Please click on the relevant links below for more information about the RGL.
 
 <table>
 <thead>
@@ -37,9 +37,9 @@ Please click on the relevant links below for more information about the RGL
   </tr>
   <tr>
       <td><b>Germany</b></td>
-    <td style="text-align:left;"><a href="germany/rgl/requirements-and-process">Click here</a></td>
+    <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
-      <td style="text-align:left;"><a href="germany/rgl/faq">Click here</a></td>
+      <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
   </tr>
     <tr>
       <td><b>Mainland China<sup>2</sup></b></td>

@@ -5,8 +5,12 @@ permalink: /rgl/requirements-and-process
 
 The requirements and processes outlined on this page apply to the following Reciprocal Green Lane-eligible countries/regions: 
 - Brunei Darussalam;
+- Germany
+- Japan
+- Malaysia
 - Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang);
 - Republic of Korea.
+
 
 ### 1. Eligibility
 
@@ -43,6 +47,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of COVID-19 Polymerase Chain Reaction test results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">14-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
+  <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Reciprocal Green Lane. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</p>
 </li>
 </ol>
 </li>
@@ -111,8 +116,17 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
-  <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
+ <tr>
+    <td style="font-size:16px;"><b>Pre-departure</b></td>
+    <td style="font-size:16px;">Application sponsors should submit the following before the traveller’s departure to Singapore, here:
+      <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure.</li>
+         </ol>    
+    </td>
+  </tr> 
+   <tr>
+    <td style="font-size:16px;"><b>Pre-boarding clearance</b></td>
     <td style="font-size:16px;">Approved RGL travellers must produce the following documents when leaving for Singapore:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
@@ -151,7 +165,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   </tr>
     <tr>
     <td rowspan="1" style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-   <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation, adhering to prevailing health measures. Use of public transport is not allowed.
+   <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced(non-residential) accommodation, adhering to prevailing health measures. Use of public transport is not allowed.
     </td>
   </tr>
   <tr>

@@ -1,13 +1,10 @@
----
-title: Requirements & Process
-permalink: /germany/rgl/requirements-and-process
----
+
 
 On 23 October 2020, Singapore and Germany agreed to implement the Reciprocal Green Lane (RGL) to facilitate essential short-term business and official travel between both countries.
 
 The Singapore – Germany RGL is only applicable for travel between airports in Singapore and Germany which have available non-stop flight routes.
 
-The SafeTravel Pass is a mandatory document for in-bound travellers seeking to make essential business and official travel from Germany to Singapore under the Green Lane arrangements.
+The SafeTravel Pass is a mandatory document for in-bound travellers seeking to make essential business and official travel from Germany to Singapore under the Green Lane arrangements. 
 
 ### **Application**
 
