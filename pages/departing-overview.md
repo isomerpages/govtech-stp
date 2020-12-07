@@ -1,6 +1,7 @@
 ---
 title: Departing - Overview 
 permalink: /departing/overview
+third_nav_title: Departing from Singapore
 ---
 
 Singapore does not impose any mandatory health requirements on travellers for departure to other countries. However, the following is advised:
