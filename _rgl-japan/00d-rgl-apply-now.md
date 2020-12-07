@@ -1,7 +1,3 @@
----
-title: Apply Now
-permalink: /japan/rgl/apply-now
----
 
 <table>
   <thead>

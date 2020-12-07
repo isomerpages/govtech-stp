@@ -3,6 +3,7 @@ title: Before Arriving in Singapore
 permalink: /health/before-arriving
 third_nav_title: Travelling to Singapore
 ---
+
 ## Pre-Departure to Singapore
 
 ### 1. Obtain Entry Approval
@@ -33,10 +34,12 @@ Travellers who has recent travel history to any [countries/places/regions](/file
 
 Travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result **must** contain the following details:
 - Date the test was taken
-- Test Result
+- Test Result*
 - Particulars of Traveller as indicated in the passport (Name and Date of Birth or Passport Number).  
 
 Upon arrival, travellers are also obligated to serve a 14-day Stay-Home Notice (SHN) at the dedicated SHN facilities and take another COVID-19 PCR test before completing their SHN. The payment required will be communicated by the SHN facilities during the stay and travellers are required to pay the charges upfront when checking into the SHN facility. Failure to do so may result in late payment interests being charged. For more information on the prevailing SHN/SDF requirements please refer [here](/health/shn).
+
+*Singapore only accepts test results from labs in the country that are [internationally accredited or recognised](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) by the respective Government.
 
 #### For Singapore Citizen or Singapore Permanent Residents
 
