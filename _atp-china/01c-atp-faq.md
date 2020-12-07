@@ -155,7 +155,7 @@ The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling
 
 #### 26. Must every visitor download the TraceTogether app?
 
-Yes, all visitors to Singapore must download and activate the TraceTogether app. They must do sownload the app prior to departing for Singapore.
+Yes, all visitors to Singapore must download and activate the TraceTogether app. They must do download the app prior to departing for Singapore.
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
