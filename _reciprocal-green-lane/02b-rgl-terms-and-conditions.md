@@ -1,7 +1,3 @@
----
-title: RGL Terms & Conditions
-permalink: /rgl/terms-and-conditions
----
 
 ## **Reciprocal Green Lane(RGL) Terms & Conditions**
 
