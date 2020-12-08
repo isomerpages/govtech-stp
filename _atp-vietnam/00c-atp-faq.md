@@ -139,7 +139,7 @@ The cost of the COVID-19 PCR test is S$196 (inclusive of Goods and Services Tax)
 
 To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
-#### 24. What happens if visitors refuse to undergo the post-arrival COVID-19 PCR test?
+#### 24. What happens if visitors refuse to undergo the on-arrival COVID-19 PCR test?
 
 If visitors refuse to undergo the post-arrival COVID-19 PCR test, they may be refused entry into Singapore and have their ATP cancelled. In such an event, visitors may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
 
