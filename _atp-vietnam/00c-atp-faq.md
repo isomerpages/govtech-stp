@@ -105,9 +105,9 @@ Visitors must comply with the ATP Conditions [here](/vietnam/atp/conditions).
 
 This is to protect public health in Singapore by ensuring that visitors are not travelling to Singapore via a country with high virus prevalence rates.
 
-### **Post-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test**
+### **On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test**
 
-#### 19. Are visitors required to take a post-arrival COVID-19 PCR test?
+#### 19. Are visitors required to take a on-arrival COVID-19 PCR test?
 
 Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will be out within 48 hours.
 
@@ -121,7 +121,7 @@ The accommodation must be non-residential and must be an individual room with an
 
 Visitors are required to bear the cost of their accommodation in Singapore.
 
-Visitors may refer to the Singapore Hotel Association (SHA) [website](https://sha.org.sg/) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
+Visitors may refer to the Singapore Hotel Association (SHA) [website](https://sha.org.sg/hotel-accommodation) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
 
 #### 21. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 
@@ -129,11 +129,11 @@ Yes, while waiting for their PCR test results, visitors are allowed to share the
 
 Please also note that if the visitor’s test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
 
-#### 22. Do children need to undergo a post-arrival COVID-19 PCR test?
+#### 22. Do children need to undergo a on-arrival COVID-19 PCR test?
 
-Children aged 12 or younger in that calendar year are not required to undergo a post-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+Children aged 12 or younger in that calendar year are not required to undergo a on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
 
-#### 23. How much is the post-arrival COVID-19 PCR test at the airport?
+#### 23. How much is the on-arrival COVID-19 PCR test at the airport?
 
 The cost of the COVID-19 PCR test is S$196 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
 
