@@ -141,7 +141,7 @@ To expedite the COVID-19 PCR test at the airport, visitors are strongly encourag
 
 #### 24. What happens if visitors refuse to undergo the on-arrival COVID-19 PCR test?
 
-If visitors refuse to undergo the post-arrival COVID-19 PCR test, they may be refused entry into Singapore and have their ATP cancelled. In such an event, visitors may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
+If visitors refuse to undergo the on-arrival COVID-19 PCR test, they may be refused entry into Singapore and have their ATP cancelled. In such an event, visitors may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
 
 #### 25. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
 
