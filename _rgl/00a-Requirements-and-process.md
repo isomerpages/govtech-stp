@@ -173,7 +173,6 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
    <td style="font-size:16px;">The local host* is required to:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
          </ol> 
      <p style="font-size:16px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>

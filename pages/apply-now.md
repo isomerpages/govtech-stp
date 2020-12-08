@@ -15,10 +15,6 @@ permalink: /apply-now
 |Singapore Work Pass Holder Lane| [Apply](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) | [Details](/wphl/overview)|
 |Singapore Student's Pass Holder Lane| [Apply](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c) | [Details](/stpl/overview) |
 
------
 
-## Application for Pre-Departure Test
-
-Details on application for COVID-19 Pre-Departure Test can be found [here](/health/pre-departure-test).
 
 
