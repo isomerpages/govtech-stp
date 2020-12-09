@@ -424,7 +424,7 @@ The RGL is for travel between Singapore and the following countries, at the mome
         <b>Republic of Korea</b>
       </td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">(Seoul)Incheon International Airport.</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">(Seoul) Incheon International Airport.</li>
         </ol>
       </td>
     </tr>
