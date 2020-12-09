@@ -35,7 +35,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
     <br/><br/>
     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA); </li>
+       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign manpower Act (EFMA); </li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
@@ -46,7 +46,7 @@ Employers can apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass
        </li>
     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain employees’ acknowledgement for the following:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Additional work pass conditions that he/she is subjected to under the PCA (click <a href="/pca/terms-and-conditions">here</a>); and </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Additional work pass conditions that he/she is subjected to under the PCA (click <a href="/malaysia/pca/terms-and-conditions">here</a>); and </li>
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose their COVID-19 PCR test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
          </ol>   
        </li>
