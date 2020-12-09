@@ -58,7 +58,7 @@ Eligible travellers will be issued an electronic monitoring device at the immigr
 
 Information on the device can be found in the video and infographic below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-eZmUOp_7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-1.png)
 
