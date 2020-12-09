@@ -13,7 +13,7 @@ Depending on the traveller’s scheme of travel, they may be issued with a Stay-
 
 Watch the video below on the SHN requirements and <a href="https://www.moh.gov.sg/docs/librariesprovider5/advisories/moh-health-advisory-for-persons-issued-stay-home-notice_4-nov.pdf" target="_blank">read the requirements for persons placed on SHN</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6cgI5bfHpQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-eZmUOp_7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **SHN Enforcement**
 
@@ -58,7 +58,7 @@ Eligible travellers will be issued an electronic monitoring device at the immigr
 
 Information on the device can be found in the video and infographic below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g-eZmUOp_7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zKhawlenncA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![SHN Electronic Monitoring Device](/images/stayhomesg-infographics-1.png)
 
