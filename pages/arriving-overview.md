@@ -17,7 +17,7 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 </thead>
 <tbody>
   <tr>
-    <td><b>All countries</b></td>
+    <td><b>All countries/regions</b></td>
     <td ><a href="/sc-pr/info">Returning Singapore Citizen/PR</a></td>
       <td ><ol style="margin-top:0px; margin-bottom:0px;">
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/wphl/overview">Work Pass Holder Lane</a> </li>
