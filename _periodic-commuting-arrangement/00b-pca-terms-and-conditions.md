@@ -1,6 +1,6 @@
 ---
 title: Additional Work Pass Conditions
-permalink: /pca/terms-and-conditions
+permalink: /malaysia/pca/terms-and-conditions
 third_nav_title: Malaysian Citizens/PRs Holding Singapore Work Pass
 ---
 
