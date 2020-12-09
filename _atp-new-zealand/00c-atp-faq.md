@@ -101,7 +101,7 @@ This is to protect public health in Singapore by ensuring that visitors are not 
 
 ### **On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test**
 
-#### 18. Are visitors required to take a on-arrival COVID-19 PCR test?
+#### 18. Are visitors required to take an on-arrival COVID-19 PCR test?
 
 Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will be out within 48 hours.
 
@@ -123,9 +123,9 @@ Yes, while waiting for their PCR test results, visitors are allowed to share the
 
 Please also note that if the visitor's test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
 
-#### 21. Do children need to undergo a on-arrival COVID-19 PCR test?
+#### 21. Do children need to undergo an on-arrival COVID-19 PCR test?
 
-Children aged 12 or younger in that calendar year are not required to undergo a on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+Children aged 12 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
 
 #### 22. How much is the on-arrival COVID-19 PCR test at the airport?
 
