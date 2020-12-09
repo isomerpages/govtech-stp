@@ -398,7 +398,7 @@ The clinic will email the results to your provided email address. You will need 
 
 ### List of Designated Airports for the following country
 
-The RGL is for travel between Singapore and the following countries, at the moment the only entry/exit point to/from the countries are: 
+At the moment the only entry/exit point for RGL travel between Singapore and the following countries, are:
 
 <table>
   <thead>
