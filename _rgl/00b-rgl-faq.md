@@ -41,7 +41,7 @@ Travellers seeking to enter Singapore for study may wish to visit the ICA Websit
 
 #### 4.	Are there restrictions on my travel route to Singapore under the RGL arrangement?
 
-RGL travellers can travel to Singapore on a non-stop flight from selected airports,<sup>[1]</sup> in the counterpart countries/regions, as well as by land via the Causeway and Second Link, in the case of Malaysia.
+RGL travellers can travel to Singapore on a non-stop flight from [selected airports](#airports), in the counterpart countries/regions, as well as by land via the Causeway and Second Link, in the case of Malaysia.
 
 For travel by land, travellers may drive into Singapore in their own vehicle (including Malaysia-registered vehicles), subject to  LTA’s prevailing  regulations and fees stated on the One Motoring website [here](http://onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html).
 
@@ -394,9 +394,40 @@ The clinic will email the results to your provided email address. You will need 
 
 -----
 
-<sup>1</sup>Travellers are allowed to use private hire cars or taxis, but not public transport.
+<div id="airports"></div>
 
-<sup>2</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle.
+### List of Designated Airports for the following country
 
+The RGL is for travel between Singapore and the following countries, at the moment the only entry/exit point to/from the countries are: 
 
-
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Country</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Entry/Exit Point (Airport(s))</th>
+    </tr>    
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+        <b>Japan</b>
+      </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Narita International Airport;</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Haneda International Airport; and</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Kansai International Airport.</li>
+        </ol>
+      </td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+        <b>Republic of Korea</b>
+      </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">(Seoul)Incheon International Airport.</li>
+        </ol>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+  
