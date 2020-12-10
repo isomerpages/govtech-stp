@@ -97,7 +97,7 @@ Visitors must comply with the ATP Conditions [here](/taiwan/atp/conditions).
 
 #### 17. Why must visitors take direct flights without transit to Singapore?
 
-This is to protect public health in Singapore by ensuring that visitors are not travelling to Singapore via a country with high virus prevalence rates.
+This is to protect public health in Singapore by ensuring that visitors are not travelling to Singapore via a country/region with high virus prevalence rates.
 
 ### **On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test**
 
