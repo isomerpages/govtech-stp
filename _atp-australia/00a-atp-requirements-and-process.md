@@ -3,7 +3,6 @@ title: Requirements & Process
 permalink: /australia/atp/requirements-and-process
 ---
 
-
 ### 1. Eligibility 
 
 <span class="font-size:16px;">Foreigners who are short-term visitors travelling from Australia may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
@@ -103,7 +102,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.<br/> <i>Note: Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i></li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.<br/> <i>Note: Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i></li>
      </ol>
     </td>
  </tr>
@@ -203,9 +202,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
             </ol>
  <p style="margin-top:0px; margin-bottom:0px;">
 <span style="font-size:16px;">
-Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends here before departing from Singapore. 
+Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore. 
               <br/><br/>
-Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends here before departing from Singapore.
+Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.
  <br/> <br/>
 Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and activated. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
  <br/> <br/>

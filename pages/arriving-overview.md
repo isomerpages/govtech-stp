@@ -35,7 +35,7 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 
 ## Additional Safe Travel Lanes for Arrival from Specific Countries/Region
 
-Singapore has arranged additional Safe Travel Lanes with the following countries/region to facilitate shorter term entry into Singapore.
+Singapore has arranged additional Safe Travel Lanes with the following countries/regions to facilitate shorter term entry into Singapore.
 
 
 <table>

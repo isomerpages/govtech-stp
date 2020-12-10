@@ -103,7 +103,7 @@ Visitors must comply with the ATP Conditions [here](/vietnam/atp/conditions).
 
 #### 18. Why must visitors take direct flights without transit to Singapore?
 
-This is to protect public health in Singapore by ensuring that visitors are not travelling to Singapore via a country with high virus prevalence rates.
+This is to protect public health in Singapore by ensuring that visitors are not travelling to Singapore via a country/region with high virus prevalence rates.
 
 ### **On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test**
 
@@ -131,7 +131,7 @@ Please also note that if the visitor’s test result is confirmed to be positive
 
 #### 22. Do children need to undergo an on-arrival COVID-19 PCR test?
 
-Children aged 12 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+Children aged 6 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
 
 #### 23. How much is the on-arrival COVID-19 PCR test at the airport?
 
