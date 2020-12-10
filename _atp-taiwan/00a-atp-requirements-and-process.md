@@ -102,7 +102,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.<br/> <i>Note: Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i></li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.<br/> <i>Note: Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i></li>
      </ol>
     </td>
  </tr>
