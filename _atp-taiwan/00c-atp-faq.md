@@ -13,7 +13,7 @@ The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors travelling from Taiwan can apply for an ATP from 11 December 2020, 1500hrs, Singapore time (GMT +8), for entry into Singapore from 18 December 2020, 0001hrs.
+Visitors travelling from Taiwan can apply for an ATP from 11 December 2020, 1400hrs, Singapore time (GMT +8), for entry into Singapore from 18 December 2020, 0001hrs.
 
 #### 3. How can visitors apply for an ATP?
 
