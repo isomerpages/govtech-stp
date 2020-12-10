@@ -125,7 +125,7 @@ Please also note that if the visitor's test result is confirmed to be positive, 
 
 #### 21. Do children need to undergo an on-arrival COVID-19 PCR test?
 
-Children aged 12 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+Children aged 6 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
 
 #### 22. How much is the on-arrival COVID-19 PCR test at the airport?
 
