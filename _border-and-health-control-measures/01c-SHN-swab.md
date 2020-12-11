@@ -38,7 +38,7 @@ Any payment required will be communicated by the SHN facilities during the stay 
 
 #### Opt out of Stay-Home Notice (SHN) Dedicated Facility for selected countries/regions
 
-Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from the list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
 - Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
