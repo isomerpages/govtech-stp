@@ -104,6 +104,12 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>&nbsp;</td>
  </tr>
   <tr>
+  <td>Taiwan</td>
+  <td><a href="/taiwan/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+ </tr>
+  <tr>
   <td>Republic of Korea</td>
   <td>&nbsp;</td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>

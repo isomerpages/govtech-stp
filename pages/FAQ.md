@@ -33,13 +33,13 @@ permalink: /FAQ
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/rgl/faq"> Link </a>
 </td>
  </tr>
-   <tr>
+   <!--<tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Hong Kong</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Air Travel Pass
      </td>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/hongkong/atp/faq"> Link </a>
 </td>
- </tr> 
+ </tr> -->
    <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Indonesia</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Reciprocal Green Lane 
@@ -80,6 +80,13 @@ permalink: /FAQ
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Reciprocal Green Lane
      </td>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/rgl/faq"> Link </a>
+</td>
+ </tr>
+   <tr>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Taiwan</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "> Air Travel Pass
+     </td>
+     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; text-align:center;  border-right:1px solid #D8D8D8; "> <a href="/taiwan/atp/faq"> Link </a>
 </td>
  </tr>
    <tr>

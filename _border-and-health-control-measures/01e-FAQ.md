@@ -18,7 +18,7 @@ Please click [here](/health) for the latest border measures.
 
 At this point in time, travellers will only be able to transit through Singapore Changi Airport if they are travelling with an airline whose transfer route has been approved. Travellers are encouraged to confirm with their airlines on their eligibility to travel. 
 
-Currently, only travellers from India, Indonesia, / the Philippines who are transiting through Singapore (i.e. India via Singapore to destination country) will have to present a valid negative COVID-19 test result. 
+Currently, only travellers from India, Indonesia or Philippines who are transiting through Singapore (i.e. India via Singapore to destination country) will have to present a valid negative COVID-19 test result. 
 
 #### 3. I have an upcoming flight to Singapore. What kind of COVID-19 tests will be accepted? 
 
