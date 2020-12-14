@@ -73,7 +73,7 @@ No. Please apply for an [entry approval with MOM](http://www.mom.gov.sg/covid-19
 
 #### 14. Do I need to pay to apply for PCA on behalf of my employees?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 11 of stay at the SDF.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 12 of stay at the SDF.
 
 <!--Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
@@ -176,9 +176,9 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 
 #### 32. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
 
-Your employee is required to undergo a COVID-19 PCR test on the 11th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 8th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
+Your employee is required to undergo a COVID-19 PCR test on the 12th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 9th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
-If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 8th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number. 
+If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 9th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number. 
 
 #### 33. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
@@ -209,7 +209,7 @@ If the employee has lost his/her work pass, they should first make an official p
 
 #### 38. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 11 of stay at the SDF.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 12 of stay at the SDF.
 
 <!--Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
