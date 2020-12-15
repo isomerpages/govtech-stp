@@ -1,4 +1,4 @@
------
+---
 title: STL
-permalink: /stl
------
+permalink: /STL
+---
