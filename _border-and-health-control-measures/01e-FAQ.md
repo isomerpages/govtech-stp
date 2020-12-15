@@ -44,19 +44,19 @@ Travellers on stipulated COVID-19 travel channels (e.g. Green/Fast Lane arrangem
 
 All travellers (who are not Singapore Citizens and Permanent Residents) who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
 
-As of 14 December 2020, 2359 hours, travellers aged 6 and below (in that calendar year) are exempted from presenting a valid negative test result. 
+Travellers aged 6 and below (in that calendar year) are exempted from presenting a valid negative test result. 
 
 #### 6.	Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
 
 Please click [here](/rgl/overview) to find out more on the Reciprocal Green Lane arrangements.  
 
-#### 7.	I have recovered from COVID-19, am I required to undergo a pre-departure test before entry into Singapore? Will I be denied entry into Singapore?
+#### 7.	I have recovered from COVID-19, am I required to undergo the pre-departure test before entry into Singapore? 
 
-Individuals who were previously diagnosed with COVID-19 infection will still be required to take a COVID-19 PCR test within 72 hours before departure for Singapore. 
+Individuals who were previously diagnosed with COVID-19 infection will still be required to take a COVID-19 PCR test within 72 hours before departure for Singapore. Children aged 6 and below (in the calendar year) are currently exempted from the pre-departure PCR test. 
 
-If the pre-departure COVID-19 PCR test result is positive, the recovered individual must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. 
+If the pre-departure COVID-19 PCR test result is positive, the recovered individual must also provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. The documentary proof should be presented to the airline before boarding and to the immigration officers at the checkpoints in Singapore.
 
-Please note that individuals will be denied boarding for flights bound for Singapore if they have a recent diagnosis of COVID-19 infection in the past 21 days.  
+Please note that individuals will be denied boarding for flights bound for Singapore if they have a recent diagnosis of COVID-19 infection in the past 21 days.
 
 #### 8.	What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
 
