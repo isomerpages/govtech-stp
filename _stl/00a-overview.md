@@ -1,4 +1,4 @@
 ---
 title: Connect@Singapore
-permalink: /STL
+permalink: /Connect@Singapore
 ---
