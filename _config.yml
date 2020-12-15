@@ -67,7 +67,7 @@ collections:
     output: true
   atp-hong-kong:
     output: true
-  stl:
+  connect@singapore:
     output: true
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
