@@ -17,6 +17,8 @@ links:
         url: /atp/overview
       - title: Periodic Commuting Arrangement (Workers Commuting between Singapore and Malaysia) 
         url: /pca/overview
+      - title: Connect@Singapore
+        url: /connectsg/overview
   - title: Border and Health Control Measures
     url: /health
     sublinks:
