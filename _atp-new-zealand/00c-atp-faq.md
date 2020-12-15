@@ -13,7 +13,7 @@ The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors can apply for an ATP from 1 September 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 September 2020, 0001hrs.
+Visitors can apply for an ATP from 1 September 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 September 2020, 0000hrs.
 
 #### 3. How can visitors apply for an ATP?
 

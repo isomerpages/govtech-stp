@@ -13,9 +13,9 @@ The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors travelling from Australia (excluding Victoria State) can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0001hrs. 
+Visitors travelling from Australia (excluding Victoria State) can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0000hrs. 
 
-Visitors travelling from Australia (Victoria State) can apply for an ATP from 30 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 6 November 2020, 0001hrs. 
+Visitors travelling from Australia (Victoria State) can apply for an ATP from 30 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 6 November 2020, 0000hrs. 
 
 #### 3. How can visitors apply for an ATP?
 
