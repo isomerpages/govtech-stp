@@ -1,6 +1,6 @@
 ---
-title: Connect@Singapore
-permalink: /connect-singapore-test
+title: Connect@Singapore Overview
+permalink: /connect-singapore
 ---
 
 test test
