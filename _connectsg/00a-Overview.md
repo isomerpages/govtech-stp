@@ -1,6 +1,6 @@
 ---
 title: Connect@Singapore - Overview
-permalink: connectsg/overview
+permalink: /connectsg/overview
 ---
 
 test test
