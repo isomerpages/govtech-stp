@@ -1,4 +1,4 @@
 ---
-title: STL
+title: Connect@Singapore
 permalink: /STL
 ---
