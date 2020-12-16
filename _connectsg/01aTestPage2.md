@@ -1,6 +1,6 @@
 ---
 title: In Life We Need Tables
-permalink: /health/before-arriving
+permalink: /connectsg/TestPage2
 third_nav_title: Test Page 2
 ---
 In life, we need tables.
