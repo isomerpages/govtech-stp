@@ -9,5 +9,7 @@ Under this scheme, a limited number of business, official and high economic valu
 
 Applications for interested travellers will open in the middle of January 2021 and travellers will be able to arrive via the initiative by end January 2021. More information will be released in due course. 
 
-Appointment of these facilities is ongoing. Facility operators interested in participating in the Connect@Singapore initiative may submit their proposals through the Singapore Tourism Board no later than 31 December 2020. For more information on the application requirements, please refer to this STB link. 
+Appointment of these facilities is ongoing. Facility operators interested in participating in the Connect@Singapore initiative may submit their proposals through the Singapore Tourism Board (STB) no later than 31 December 2020. 
+
+For more information on the application requirements, please refer to this STB [link](https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html#Connect@Singapore). 
 
