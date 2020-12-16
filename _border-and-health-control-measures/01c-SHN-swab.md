@@ -71,7 +71,7 @@ Upon completion of SHN, travellers are to remove the electronic wristband and di
 ICA officers will contact the traveller to collect the gateway device issued by ICA. Please <u>do not dispose the gateway device</u>.
 
 ### 4. Post-Arrival COVID-19 PCR Test
-Depending on the traveller’s scheme of travel, he/she may be required to take the COVID-19 PCR test upon arrival in Singapore, or before the completion of his/her SHN. In general, children aged 12 and below (based on year of birth) do not need to take the COVID-19 PCR swab test, unless their close contacts are found to be COVID-19 positive.
+Depending on the traveller’s scheme of travel, he/she may be required to take the COVID-19 PCR test upon arrival in Singapore, or before the completion of his/her SHN. In general, children aged 6 and below (based on year of birth) do not need to take the COVID-19 PCR swab test, unless their close contacts are found to be COVID-19 positive.
 
 Travellers serving their SHN will receive the details of their test appointments at their registered mobile numbers. The swab results will be conveyed within 1 to 4 days. All travellers, including those tested on arrival, must remain in self-isolation until a negative COVID-19 test result is conveyed.
 
