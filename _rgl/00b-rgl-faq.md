@@ -158,7 +158,9 @@ An application for extension of visit pass/stay must be submitted online using I
 
 #### 17. What health measures must I take in my origin country/region prior to my departure for Singapore?
 
-Travellers must remain in and have not travelled out of the country for at least 14 days prior to departure for Singapore. In the case of Mainland China, travellers must remain in the qualifying region (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for at least seven days, prior to departure for Singapore. Travellers must also monitor their health status before departure from the country/region, undergo a COVID-19 PCR test in the country/region within 72 hours before departure, and obtain a certificate of negative test result for COVID-19 issued by an authorised COVID-19 testing facility designated by the government of the origin country/region the traveller is departing from.
+For travellers from Brunei, Germany, Japan, Malaysia and Republic of Korea, travellers must remain in and have not travelled out of the country/region for at least 14 days prior to departure for Singapore. In the case of Mainland China, travellers need to remain in the qualifying region (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for at least seven days, prior to departure for Singapore. 
+
+Travellers must also monitor their health status before departure from the country/region, undergo a COVID-19 PCR test in the country/region within 72 hours before departure, and obtain a certificate of negative test result for COVID-19 issued by an authorised COVID-19 testing facility designated by the government of the origin country/region the traveller is departing from.
 
 <table>
   <thead>
