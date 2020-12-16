@@ -30,7 +30,7 @@ Depending on the traveller’s scheme of travel, he/she may be required to take 
 
 #### For Non-Singapore Citizen or Non-Singapore Permanent Resident (Including Children aged 6 years old and below)
 
-Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 & 4 of the table) within the last 14 days prior to entry into Singapore would <u>require to take a COVID-19 PCR Test within 72 hours before departure for Singapore</u>
+Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 & 4 of the table) within the last 14 days prior to entry into Singapore would <u>require to take a COVID-19 PCR Test within 72 hours before departure for Singapore</u>. Travellers aged 6 and below (in that calendar year) are exempted from presenting a valid negative test result.
 
 Travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result **must** contain the following details:
 - Date the test was taken
