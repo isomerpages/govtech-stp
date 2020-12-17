@@ -120,7 +120,7 @@ permalink: /japan/rgl/terms-and-conditions
 
 -----
 
-<sup>1</sup> The Business Track/RGL to/from Japan is currently only limited to entry/exit through Tokyo (Narita International Airport or Haneda International Airport) or Osaka (Kansai International Airport),Nagoya (Chubu Centrair International Airport) or Fukuoka (Fukuoka International Airport). . 
+<sup>1</sup> The Business Track/RGL to/from Japan is currently only limited to entry/exit through Tokyo (Narita International Airport or Haneda International Airport) or Osaka (Kansai International Airport). 
 
 <sup>2</sup> The Terms and Conditions in this document are specific to the Business Track/RGL for the Short-Term Movement of Essential Personnel Between Singapore and Japan. Green/Fast Lanes are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary among the countries/regions.
 
