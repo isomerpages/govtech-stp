@@ -28,7 +28,7 @@ Depending on the traveller’s scheme of travel, he/she may be required to take 
 - [Reciprocal Green Lane](/rgl/overview)
 - [Periodic Commuting Arrangement](/pca/overview)
 
-#### For Non-Singapore Citizen or Non-Singapore Permanent Resident (Including Children aged 6 years old and below)
+#### For Non-Singapore Citizen or Non-Singapore Permanent Resident (Excluding Children aged 6 years old and below)
 
 Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 & 4 of the table) within the last 14 days prior to entry into Singapore would <u>require to take a COVID-19 PCR Test within 72 hours before departure for Singapore</u>. Travellers aged 6 and below (in that calendar year) are exempted from presenting a valid negative test result.
 
