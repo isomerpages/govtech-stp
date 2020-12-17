@@ -308,9 +308,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
          </tr>
      <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Japan</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore will be subjected to a pre-departure COVID-19 PCR test in Singapore within 72 hours of return to Japan. They will not be subjected to a COVID-19 test in Japan. There is no requirement for a serology test in Japan.  
-<p style="margin-top:10px; margin-bottom:0px; font-size:18px;">
-Please refer to the <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">selected clinics</a> that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the listed clinics at this moment.</p>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore do not need to be tested in Singapore before returning.
 <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">Upon their return to Japan, travellers must adhere to the prevailing COVID-19 prevention and control measures of the Japanese government. The traveller will not be subject to a 14 days quarantine upon arrival. However he/she must refrain from using public transportation for 14 days after entry, and obtain permission from the relevant authorities to conduct activities according to his/her declared itinerary.</p>
           <p style="margin-top:10px; margin-bottom:0px; font-size:18px;">RGL travellers returning to Japan may wish to check on the specific measures to be taken at the Ministry of Foreign Affairs of Japan Website <a href="https://www.mofa.go.jp/ca/cp/page25e_000337.html">here</a> for more information.</p>
               </td>
