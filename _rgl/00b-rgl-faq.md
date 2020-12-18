@@ -415,7 +415,7 @@ At the moment the only entry/exit point for RGL travel between Singapore and the
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Narita International Airport;</li>
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Haneda International Airport; and</li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Kansai International Airport.</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Kansai International Airport;</li>
       <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Fukuoka International Airport; and</li>
      <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Chubu Centrair International Airport.</li>
         </ol>
