@@ -193,7 +193,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 #### 28. Do i need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia? 
 
-Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test 72 hours before departure. 
+Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test within 72 hours before departure. 
 
 The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on teh procedure to book an appointment are at [Annex C](#annexc). The traveller must take the test and obtain a health certificate of having tested negative for COVID-19. 
 
