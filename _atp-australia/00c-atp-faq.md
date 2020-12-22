@@ -7,13 +7,13 @@ permalink: /australia/atp/faq
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Australia (excluding New South Wales) to seek entry into Singapore.
+An ATP allows visitors<sup>1</sup> travelling from Australia <!--(excluding New South Wales)--> to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors travelling from Australia (excluding New South Wales) can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0000hrs.
+Visitors travelling from Australia <!--(excluding New South Wales)--> can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0000hrs.
 
 #### 3. How can visitors apply for an ATP?
 
