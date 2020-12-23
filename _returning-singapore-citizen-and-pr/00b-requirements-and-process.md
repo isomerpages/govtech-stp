@@ -50,8 +50,8 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
  </tr>
     <tr>
     <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;">For travellers on self-isolation/serving SHN at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.
-<p style="margin-top:0px; margin-bottom:0px; font-size:16px;">For travellers serving SHN at an SDF, dedicated transport will be provided. </p>
+    <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.
+<p style="margin-top:0px; margin-bottom:0px; font-size:16px;">For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided. </p>
          </td>
  </tr>
   <tr>
