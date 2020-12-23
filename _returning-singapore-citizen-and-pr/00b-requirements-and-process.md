@@ -43,25 +43,23 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
     <th colspan="2" style="font-size:16px;">Day of entry into Singapore</th>
   </tr>
   </thead>
-<tbody>
    <tr>
     <td style="font-size:16px;"><b>Immigration clearance</b></td>
-    <td style="font-size:16px;">Travellers under the Returning Singapore Citizen/Permanent Resident Lane can proceed with immigration clearance per normal.
-       <p style="font-size:16px;">Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
+    <td style="font-size:16px;">Travellers under the Returning Singapore Citizen/Permanent Resident Lane can proceed with immigration clearance per normal. Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival COVID-19 PCR test and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day SHN at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period;</li>
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at SHN Dedicated Facility (SDF) and take a COVID-19 PCR test during the SHN period, at their own cost. Travellers arriving from countries/regions at s/n 3 of the table <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval and relevant terms and conditions <a href="/sc-pr/opt-out">here</a>.</li>
          </ol>   
          </p>
- </tr>
+   </tr>
     <tr>
     <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.
 <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided. </p>
          </td>
     </tr>
-  </tbody>
+</tbody>
 </table>
 
 ### 5. Post-Arrival
