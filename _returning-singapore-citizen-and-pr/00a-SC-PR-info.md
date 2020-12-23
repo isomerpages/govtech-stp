@@ -1,8 +1,3 @@
----
-title: Overview
-permalink: /SC-PR/info
----
-
 ### Singapore Citizens and Permanent Residents General Entry into Singapore
 Singapore Citizens and Singapore Permanent Residents can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](/health) for more information on the prevailing Stay-Home Notice (SHN) and swab requirements.
 
