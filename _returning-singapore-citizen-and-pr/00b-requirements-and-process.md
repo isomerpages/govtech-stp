@@ -50,7 +50,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival COVID-19 PCR test and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day SHN at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period;</li>
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at SHN Dedicated Facility (SDF) and take a COVID-19 PCR test during the SHN period, at their own cost. Travellers arriving from Fiji, Republic of Korea, Sri Lanka and Thailand are permitted to opt out of SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, subject to approval.</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at SHN Dedicated Facility (SDF) and take a COVID-19 PCR test during the SHN period, at their own cost. Travellers arriving from countries/regions at s/n 3 of the table <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval and relevant terms and conditions <a href="/sc-pr/opt-out">here</a>.</li>
          </ol>   
          </p>
  </tr>
