@@ -37,7 +37,7 @@ permalink: /SC-PR/requirements-and-process
     <td style="font-size:16px;"> Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
-             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test here, for travellers who have spent the last 14 consecutive days in <b>Australia <excluding new south wales), Brunei, Mainland China, New Zealand, Taiwan or Vietnam</b> before departing for Singapore. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot.</li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test here, for travellers who have spent the last 14 consecutive days in <b>Australia (excluding new south wales), Brunei, Mainland China, New Zealand, Taiwan or Vietnam</b> before departing for Singapore. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot.</li>
          </ol> 
     </td>
   </tr>
