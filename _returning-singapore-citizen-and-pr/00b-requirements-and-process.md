@@ -55,9 +55,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
    </tr>
     <tr>
     <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.
-<p style="margin-top:0px; margin-bottom:0px; font-size:16px;">For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided. </p>
-         </td>
+    <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed. <br><br> For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided. </td>         
     </tr>
 </tbody>
 </table>
@@ -73,8 +71,9 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Self-isolation/SHN</b></td>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">You may wish to find out more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.</p>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.</p>  
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;"><u>For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after notified of their negative result and go about their activities in Singapore.
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px;"><u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.</p>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.</p>  
     </td>
   </tr>
   <thead>
