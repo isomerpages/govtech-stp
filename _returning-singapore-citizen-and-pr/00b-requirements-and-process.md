@@ -11,7 +11,7 @@ permalink: /SC-PR/requirements-and-process
 
 <span class="font-size:16px;">Singapore Citizens and Permanent Residents can return to Singapore without applying for entry under any SafeTravel Lane. </span>
 
-For Singapore Citizens and Permanent Residents returning to Singapore after utilising the Reciprocal Green Lane (RGL) to visit a RGL counterpart country/region, please refer [here](/rgl/returning) for measures that will be imposed on your return. No application is needed.
+<span class="font-size:16px;">For Singapore Citizens and Permanent Residents returning to Singapore after utilising the Reciprocal Green Lane (RGL) to visit a RGL counterpart country/region, please refer [here](/rgl/returning) for measures that will be imposed on your return. No application is needed.</span>
 
 ### 3. Pre-Departure to Singapore
 
