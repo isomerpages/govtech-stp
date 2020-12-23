@@ -16,6 +16,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 ### 3. Pre-Departure to Singapore
 
 <table>
+  <tbody>
   <thead>
   <tr>
     <th colspan="2" style="font-size:16px;">Up to 3 calendar days before planned date of entry into Singapore</th>
