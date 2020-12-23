@@ -11,7 +11,7 @@ permalink: /SC-PR/requirements-and-process
 
 <span class="font-size:16px;">Singapore Citizens and Permanent Residents can return to Singapore without applying for entry under any SafeTravel Lane. </span>
 
-<span class="font-size:16px;">For Singapore Citizens and Permanent Residents returning to Singapore after utilising the Reciprocal Green Lane (RGL) to visit a RGL counterpart country/region, please refer [here](/rgl/returning) for measures that will be imposed on your return. No application is needed.</span>
+For Singapore Citizens and Permanent Residents returning to Singapore after utilising the Reciprocal Green Lane (RGL) to visit a RGL counterpart country/region, please refer [here](/rgl/returning) for measures that will be imposed on your return. No application is needed.
 
 ### 3. Pre-Departure to Singapore
 
@@ -46,7 +46,13 @@ permalink: /SC-PR/requirements-and-process
    <tr>
     <td style="font-size:16px;"><b>Immigration clearance</b></td>
     <td style="font-size:16px;">Travellers under the Returning Singapore Citizen/Permanent Resident Lane can proceed with immigration clearance per normal. 
-         </td>
+       <p style="font-size:16px;">Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
+        <ol style="margin-top:0px; list-style-type: lower-roman;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">serve 7-day SHN at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period;</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">serve 14-day SHN at SHN Dedicated Facility (SDF) and take a COVID-19 PCR test during the SHN period, at their own cost. Travellers arriving from Fiji, Republic of Korea, Sri Lanka and Thailand are permitted to opt out of SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, subject to approval.</li>
+         </ol>   
+         </p>
  </tr>
     <tr>
     <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
@@ -74,12 +80,6 @@ permalink: /SC-PR/requirements-and-process
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Self-isolation/SHN</b></td>
-    <td style="font-size:16px;">Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
-        <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
-             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">serve 7-day SHN at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period;</li>
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">serve 14-day SHN at SHN Dedicated Facility (SDF) and take a COVID-19 PCR test during the SHN period, at their own cost. Travellers arriving from Fiji, Republic of Korea, Sri Lanka and Thailand are permitted to opt out of SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, subject to approval.</li>
-         </ol>   
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">You may wish to find out more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.</p>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.</p>  
     </td>
