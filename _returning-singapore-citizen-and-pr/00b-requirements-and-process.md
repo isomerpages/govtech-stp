@@ -44,7 +44,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
   </tr>
   </thead>
    <tr>
-    <td style="font-size:16px;"><b>Immigration clearance</b></td>
+    <td style="font-size:16px;"><b>Immigration clearance and Imposition of Health Control Measures</b></td>
     <td style="font-size:16px;">Travellers under the Returning Singapore Citizen/Permanent Resident Lane can proceed with immigration clearance per normal. Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival COVID-19 PCR test and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
@@ -71,7 +71,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Self-isolation/SHN</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;"><u>For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after notified of their negative result and go about their activities in Singapore.<br><br><u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br><br>Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;"><u>For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation and go about their activities in Singapore after they are notified of their negative result.<br><br><u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br><br>Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
   </tr>
   <thead>
