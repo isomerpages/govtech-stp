@@ -103,7 +103,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
   </thead>
   <tr>
     <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;">All travellers are to abide by prevailing local public health requirements and safe distancing measures and encouraged to use TraceTogether and SafeEntry so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.</td>
+    <td style="font-size:16px;">All travellers are to abide by prevailing local public health requirements and safe distancing measures and encouraged to use [TraceTogether](https://www.tracetogether.gov.sg/) and [SafeEntry](https://www.safeentry.gov.sg/) so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.</td>
   </tr>
  </tbody>
  </table>
