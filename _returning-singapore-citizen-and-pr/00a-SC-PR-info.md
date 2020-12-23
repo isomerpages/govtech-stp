@@ -31,4 +31,12 @@ Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong 
 
 Singapore Citizens and Singapore Permanent Residents can still travel from Hong Kong to Singapore on non-designated ATB flights. They will be subject to the prevailing health measures upon entry into Singapore.
 
+### Singapore Citizens and Permanent Residents Travelling from New South Wales, Australia under Air Travel Pass (ATP)
+
+#### IMPORTANT NOTICE: TIGHTER BORDER MEASURES FOR TRAVELLERS FROM NSW 
+
+Given the increased cases observed in NSW, the Singapore Government will rescind all ATPs for short-term travellers with recent travel history to NSW, Australia (i.e. within the last 14 days before departure for Singapore). These ATP holders will not be allowed to enter Singapore.
+
+Singapore Citizens, Singapore Permanent Residents and Long Term Pass Holders with travel history to NSW can still enter Singapore. They will be subject to the prevailing health measures upon entry into Singapore.
+
 
