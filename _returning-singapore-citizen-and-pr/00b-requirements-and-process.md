@@ -37,7 +37,8 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 ### 4. Arrival in Singapore
 
 <table>
-<thead>
+<tbody>
+  <thead>
   <tr>
     <th colspan="2" style="font-size:16px;">Day of entry into Singapore</th>
   </tr>
@@ -45,7 +46,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 <tbody>
    <tr>
     <td style="font-size:16px;"><b>Immigration clearance</b></td>
-    <td style="font-size:16px;">Travellers under the Returning Singapore Citizen/Permanent Resident Lane can proceed with immigration clearance per normal. <br>
+    <td style="font-size:16px;">Travellers under the Returning Singapore Citizen/Permanent Resident Lane can proceed with immigration clearance per normal.
        <p style="font-size:16px;">Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival COVID-19 PCR test and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
@@ -59,13 +60,13 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
     <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.
 <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided. </p>
          </td>
- </tr>
+    </tr>
   </tbody>
- </table>
+</table>
 
 ### 5. Post-Arrival
- 
- <table>
+
+<table>
 <thead>
   <tr>
     <th colspan="2" style="font-size:16px;">Up to 14 days after arriving in Singapore</th>
