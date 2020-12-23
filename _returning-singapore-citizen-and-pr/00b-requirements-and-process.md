@@ -16,19 +16,6 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 ### 3. Pre-Departure to Singapore
 
 <table>
-<thead>
-  <tr>
-    <th colspan="2" style="font-size:16px;">3 calendar days before planned date of entry into Singapore</th>
-    <!-- <th>Scenarios</th>
-   <th>Charging Policy for C+ treatment</th> -->
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test Singapore Citizens and Permanent Residents are not subjected to pre-departure requirements, including taking any COVID-19 PCR tests.
- </td>
-  </tr>
   <thead>
   <tr>
     <th colspan="2" style="font-size:16px;">Up to 3 calendar days before planned date of entry into Singapore</th>
