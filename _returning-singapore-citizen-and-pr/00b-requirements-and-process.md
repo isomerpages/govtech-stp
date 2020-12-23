@@ -1,5 +1,5 @@
 ---
-title: Returning Singapore Citizen and Permanent Resident Requirements and Process 
+title: Requirements and Process 
 permalink: /SC-PR/requirements-and-process
 ---
 
