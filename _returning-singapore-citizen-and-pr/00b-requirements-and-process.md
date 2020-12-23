@@ -24,7 +24,7 @@ permalink: /SC-PR/requirements-and-process
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test	Singapore Citizens and Permanent Residents are not subjected to pre-departure requirements, including taking any COVID-19 PCR tests.
+    <td style="font-size:16px;">Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test Singapore Citizens and Permanent Residents are not subjected to pre-departure requirements, including taking any COVID-19 PCR tests.
  </td>
   </tr>
   <thead>
