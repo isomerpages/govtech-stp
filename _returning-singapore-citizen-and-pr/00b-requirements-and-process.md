@@ -86,7 +86,7 @@ For Singapore Citizens and Permanent Residents returning to Singapore after util
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Self-isolation/SHN</b></td>
-    <td style="font-size:16px;">Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table here, travellers may be required to:
+    <td style="font-size:16px;">Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">serve 7-day SHN at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period;</li>
