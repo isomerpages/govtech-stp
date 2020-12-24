@@ -40,5 +40,11 @@ third_nav_title: SDF Opt-out for SC/PR
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">$200.00 </td>
     </tr>
+    <tr>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Any other ad-hoc trips approved by the authorities </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Round Trip – $90.00 <br/> Per Way – $45.00 
+</td>
+    </tr>
   </tbody>
   </table>
