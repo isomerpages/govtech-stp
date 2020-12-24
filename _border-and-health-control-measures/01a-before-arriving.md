@@ -30,7 +30,7 @@ Depending on the traveller’s scheme of travel, he/she may be required to take 
 
 #### For Non-Singapore Citizen or Non-Singapore Permanent Resident (Excluding Children aged 6 years old and below)
 
-Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 & 4 of the table) within the last 14 days prior to entry into Singapore would <u>require to take a COVID-19 PCR Test within 72 hours before departure for Singapore</u>. Travellers aged 6 and below (in that calendar year) are exempted from presenting a valid negative test result.
+Travellers who has recent travel history to any [countries/places/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 & 6 of the table) within the last 14 days prior to entry into Singapore would <u>require to take a COVID-19 PCR Test within 72 hours before departure for Singapore</u>. Travellers aged 6 and below (in that calendar year) are exempted from presenting a valid negative test result.
 
 Travellers must present a valid negative COVID-19 PCR test result, in English and from recognised laboratories, to enter Singapore. The test result **must** contain the following details:
 - Date the test was taken
@@ -49,7 +49,7 @@ However, Upon arrival, travellers are obligated to serve a 14-day Stay-Home Noti
 
 ### 4. Application for opting out of Dedicated Stay-Home Notice (SHN) Facility
 
-Travellers from this list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
+Travellers from this list of [countries/regions](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence, if they fulfil the following criteria:
 
 - Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and

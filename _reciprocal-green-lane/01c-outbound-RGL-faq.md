@@ -1259,12 +1259,9 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 #### 16. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Singapore-based travellers returning from their travel on the Singapore-ROK RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore if they:
+Singapore-based travellers returning from their travel on the Singapore-ROK RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Republic of Korea, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn).
 
-- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results.  You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
-- Produce the letter issued by the Embassy of the Republic of Korea in Singapore which confirms that he/she was granted approval to travel under the Singapore-ROK RGL, to ICA at Singapore Immigration. 
-
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.  If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN.  For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
+You may also wish to refer [here](health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
 
 #### 17. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the ROK?
 

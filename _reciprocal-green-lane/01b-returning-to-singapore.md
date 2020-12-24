@@ -4,7 +4,7 @@ permalink: /rgl/returning
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
-Singapore citizens and residents based in Singapore returning from overseas via qualifying RGL / Fast Lanes will be subjected to the following health control measures upon return (see the table below).
+Singapore citizens and residents based in Singapore returning from overseas via qualifying RGL / Fast Lanes will be subjected to the following health control measures upon return (see the table below). No application is required before returning to Singapore.
 
 |Country/Region of Travel | Measures for Returning RGL/Fast Lane Traveller |
 |----------------------|--------------------------------|
