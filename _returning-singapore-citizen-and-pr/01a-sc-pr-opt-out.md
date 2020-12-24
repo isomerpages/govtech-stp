@@ -35,7 +35,7 @@ third_nav_title: SDF Opt-out for SC/PR
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;">Strides Transportation Pte Ltd <br/> 6477 5977 
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;">Strides Transportation Pte Ltd <br/> 6477 5977 
 </td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">$200.00 </td>
