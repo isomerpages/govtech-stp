@@ -540,9 +540,9 @@ The host company or government agency will supervise the controlled itinerary of
 
 #### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
+Singapore-based travellers returning from their travel on the Singapore-Germany RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
 
 #### 15. Do I have to take a COVID-19 test before I return to Singapore? 
 
@@ -660,9 +660,9 @@ The traveller must keep to the controlled itinerary that is supervised by the re
 
 #### 16.	What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn).
+Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Japan, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn).
 
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
  
 #### 17. Do I have to take a COVID-19 test before I return to Singapore? 
 
@@ -862,9 +862,9 @@ The traveller should verify the latest requirements of the Indonesian authoritie
 
 #### 15. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
+Singapore-based travellers returning from their travel on the Singapore-Indonesia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Indonesia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
 
 #### 16. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia? 
 
@@ -1070,9 +1070,9 @@ The traveller should verify the latest requirements of the Malaysian authorities
 
 #### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
 
-Singapore-based travellers returning from their travel on the Singapore- RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany/Indonesia/Japan/Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
+Singapore-based travellers returning from their travel on the Singapore-Malaysia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
 
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures as well as https://www.ica.gov.sg/covid-19/ArrivalSG for information on the prevailing health measures for inbound travellers.
+You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
 
 #### 14. Do I have to take a COVID-19 test before I return to Singapore? 
 
