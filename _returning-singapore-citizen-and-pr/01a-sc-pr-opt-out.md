@@ -23,7 +23,7 @@ third_nav_title: SDF Opt-out for SC/PR
 
 7. Strict enforcement action will be taken against those who breach the requirements of the SHN or make false declarations. If they are found to have breached any of the conditions stated above or to be in non-compliance with the terms of the SHN, they may be prosecuted in court for an offence under Singapore law, including the Penal Code and Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, they may be liable to a fine or to imprisonment or to both. Also, the approval to opt-out of SDF may be revoked, and the approved traveller(s) and their household members may be required to serve out the entire duration of the SHN at an SDF at their own cost. 
 
-#**Transport is estimated to cost about $200-220 in total for travel from checkpoint to place of residence and roundtrip for COVID-19 test before end of SHN.**
+#**Transport Service Provider for Persons Serving 14-Day SHN at Place of Residence**
 
 <table>
   <thead>
