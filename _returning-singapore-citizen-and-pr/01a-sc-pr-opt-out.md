@@ -29,7 +29,7 @@ third_nav_title: SDF Opt-out for SC/PR
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Service Provider and Contact Number</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Type of trip</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:center;">Type of trip</th>
        <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cost(an additional 10% will be charged for credit card transactions)</th>
     </tr>
   </thead>
