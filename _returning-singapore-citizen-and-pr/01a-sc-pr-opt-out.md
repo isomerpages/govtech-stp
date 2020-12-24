@@ -41,7 +41,6 @@ third_nav_title: SDF Opt-out for SC/PR
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">$200.00 </td>
     </tr>
     <tr>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Any other ad-hoc trips approved by the authorities </td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Round Trip – $90.00 <br/> Per Way – $45.00 
 </td>
