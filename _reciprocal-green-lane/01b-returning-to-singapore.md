@@ -8,8 +8,8 @@ Singapore citizens and residents based in Singapore returning from overseas via 
 
 |Country/Region of Travel | Measures for Returning RGL/Fast Lane Traveller |
 |----------------------|--------------------------------|
-| Brunei, China, Republic of Korea | Travellers can be exempted from SHN if they undergo a COVID-19 PCR test upon arrival in Singapore, and remain in isolation until the test result is out. <br><br> **Note:** *These travellers should identify themselves as RGL travellers to ICA and relevant airport staff upon arrival in Singapore by presenting all relevant travel documents.*  |
-| Malaysia, Germany, Indonesia, Japan |Travellers will be subjected to 14-day Stay-Home Notice (SHN) at SHN Dedicated Facility upon arrival in Singapore. |
+| Brunei, China | Travellers can be exempted from SHN if they undergo a COVID-19 PCR test upon arrival in Singapore, and remain in isolation until the test result is out. <br><br> **Note:** *These travellers should identify themselves as RGL travellers to ICA and relevant airport staff upon arrival in Singapore by presenting all relevant travel documents.*  |
+| Malaysia, Germany, Indonesia, Japan, Republic of Korea |Travellers will be subjected to 14-day Stay-Home Notice (SHN) at SHN Dedicated Facility upon arrival in Singapore. |
 
 There are currently no requirements for RGL travellers to take another COVID-19 PCR test before returning to Singapore.  
 
