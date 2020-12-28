@@ -1,7 +1,3 @@
----
-title: Overview
-permalink: /stpl/overview
----
 
 ### **Overview and Application** 
 
