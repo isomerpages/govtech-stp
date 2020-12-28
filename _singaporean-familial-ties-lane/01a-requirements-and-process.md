@@ -1,7 +1,6 @@
 ---
 title: Requirements and Process
 permalink: /scpr-familial-ties-lane/requirements-and-process
-third_nav_title: Requirements and Process
 ---
 
 ### 1. Eligibility 
