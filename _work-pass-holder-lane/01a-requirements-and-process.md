@@ -135,7 +135,7 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
    <tr>
     <td style="font-size:16px;"><b>Self-isolation/SHN</b></td>
     <td style="font-size:16px;">For travellers eligible for <u>on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after they are notified of their negative result and go about their activities in Singapore.<br/><br/>
-      <u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="https://govtech-stp-staging.netlify.app/health/shn">here</a>.<br/><br/>
+      <u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
   </tr>
