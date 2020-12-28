@@ -161,9 +161,15 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
+#### 25. What if I am identified as a close contact of confirmed COVID-19 cases?  
+
+MOH’s contact tracing officers will assess who among the close contacts should be placed on quarantine and a quarantine order (QO) will be issued. A QO is a legal order issued to individuals under the Infectious Diseases Act, for more information, you may refer to this [link](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders). 
+
+For travellers that requires to extend their visit pass/stay, please refer to Question 16. 
+
 ### **Health Measures in Singapore**
 
-#### 25. What health measures will I be subjected to upon arrival in Singapore? 
+#### 26. What health measures will I be subjected to upon arrival in Singapore? 
 
 RGL travellers from Indonesia must take a COVID-19 PCR test upon arrival in Singapore at the airport or ferry terminal, and remain isolated in a declared selfsourced, non-residential accommodation until negative test results are released (typically within 48 hours). Transportation from the airport or ferry terminal to the declared accommodation will have to be provided by the travellers’ host, subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival COVID19 PCR test(s) in Singapore and stay in the declared accommodation. 
  
@@ -173,13 +179,13 @@ Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>
  
 Travellers should also abide by the prevailing public health measures in Singapore. 
 
-#### 26. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
+#### 27. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
  
 The TraceTogether app supports Singapore’s nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
  
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>. 
  
-#### 27. What is SafeEntry?
+#### 28. What is SafeEntry?
  
 SafeEntry is a national digital check-in system that logs the personal identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
 
@@ -191,7 +197,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Indonesia**
 
-#### 28. Do i need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia? 
+#### 29. Do i need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia? 
 
 Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test within 72 hours before departure. 
 
