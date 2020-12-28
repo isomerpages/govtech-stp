@@ -9,7 +9,7 @@ permalink: /stpl/requirements-and-process
  <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">STP holders studying in MOE schools and government funded SPED schools will need to apply for entry into Singapore via their school.
        </li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">•	STP holders studying in the Institute of Technical Education, Polytechnics, Autonomous Universities, Arts Institutions, PEIs, and other schools/institutions will need to submit their applications to their respective institutions which will apply on their behalf to MOE.
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">STP holders studying in the Institute of Technical Education, Polytechnics, Autonomous Universities, Arts Institutions, PEIs, and other schools/institutions will need to submit their applications to their respective institutions which will apply on their behalf to MOE.
        </li>
       </ol>
 
