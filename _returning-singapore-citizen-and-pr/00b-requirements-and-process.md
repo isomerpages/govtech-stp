@@ -56,8 +56,7 @@ permalink: /SC-PR/requirements-and-process
    </tr>
     <tr>
     <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed. <br><br> For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided. <br/><br/>
-For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.</td>         
+    <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed. <br><br> For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.</td>   
     </tr>
 </tbody>
 </table>
