@@ -8,13 +8,13 @@ third_nav_title: Requirements and Process
 
 <span class="font-size:16px;">The traveller must be an ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor who is:</span>
  <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR)<sup>1</sup>;
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR)<sup>1</sup>;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; 
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; 
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR and ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities; or 
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR and ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities; or 
        </li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A non-resident who has exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore).
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A non-resident who has exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore).
        </li>
       </ol>
 <sup>1</sup><span class="font-size:16px;">Work Pass holders, Student’s Pass (STP) holders, and STP In-Principle Approval (IPA) holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the Work Pass Holder General Lane. All other STP holders and STP IPA holders should apply for entry under the Student’s Pass Holder Lane.</span>
