@@ -1,10 +1,10 @@
 ---
-title: WORK PASS HOLDER GENERAL LANE REQUIREMENTS AND PROCESS
+title: Work Pass Holder General Lane Requirements and Process
 permalink: /wpreqandprocess
 third_nav_title: Requirements and Process
 ---
 
-# WORK PASS HOLDER GENERAL LANE REQUIREMENTS AND PROCESS
+# Work Pass Holder General Lane Requirements and Process
 
 ## 1. Eligibility
 
@@ -14,7 +14,7 @@ The traveller must be a pass holder [work pass holder and dependant(s)] who have
 
 || **<ins>Up to 60 calendar days</ins> before planned date of entry into Singapore** |
 | --- | --- |
-| **Submit Application** | Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval [here](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore). Applications for travel are open up to 60 calendar days before the planned date of entry into Singapore. Applications should be submitted at least 1 working day from the planned date of entry. If the entry approval request is made by 12 noon on a working weekday, the outcome will be made known on the same day. If the entry approval request is made after 12 noon on a working weekday or on weekends/public holidays, the outcome will be made known on the next working day. Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for 30 days from the date of issuance.Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found [here](https://www.mom.gov.sg/covid-19/additional-responsibilities). |
+| **Submit Application** | Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval [here](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore). <br>Applications for travel are open up to 60 calendar days before the planned date of entry into Singapore. Applications should be submitted at least 1 working day from the planned date of entry.<br/> <br>If the entry approval request is made by 12 noon on a working weekday, the outcome will be made known on the same day.<br/> <br>If the entry approval request is made after 12 noon on a working weekday or on weekends/public holidays, the outcome will be made known on the next working day. <br>Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for 30 days from the date of issuance.<br/><br>Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found [here](https://www.mom.gov.sg/covid-19/additional-responsibilities). |
  
 || **<ins>At least 7 days</ins> before planned entry date into Singapore** |
 | --- | --- |
