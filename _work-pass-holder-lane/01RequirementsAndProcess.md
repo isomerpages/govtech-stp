@@ -1,3 +1,9 @@
+---
+title: WORK PASS HOLDER GENERAL LANE REQUIREMENTS AND PROCESS
+permalink: /wpreqandprocess
+third_nav_title: Requirements and Process
+---
+
 # WORK PASS HOLDER GENERAL LANE REQUIREMENTS AND PROCESS
 
 ## 1. Eligibility
