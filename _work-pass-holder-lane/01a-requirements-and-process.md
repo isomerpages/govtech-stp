@@ -1,6 +1,6 @@
 ---
 title: Work Pass Holder General Lane Requirements and Process
-permalink: /wpreqandprocess
+permalink: /wphl/requirements-and-process
 third_nav_title: Requirements and Process
 ---
 
