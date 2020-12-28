@@ -1,7 +1,3 @@
----
-title: Overview
-permalink: /scpr-familial-ties-lane/overview
----
 
 ICA-issued Long-Term Visit Pass (LTVP) holders and short-term visitors who belong to the categories below may apply for entry approval via the Singapore Citizen/Permanent Resident (PR) Familial Ties Lane:
 
