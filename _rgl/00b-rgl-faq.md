@@ -57,7 +57,13 @@ The RGL cannot be utilised for transit through Singapore.
 
 Travellers must be hosted by a Singapore-based company or government agency in Singapore. The applicant from the company or agency can file the application for a SafeTravel Pass on behalf of the traveller [here](http://eservices.ica.gov.sg/STO).
 
-#### 7.	What documents qualify as proof of residency in my SafeTravel Pass application under the RGL arrangement?
+#### 7. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
+ 
+You should schedule your travel into Singapore at least 21 days after your date of COVID-19 diagnosis, based on your first positive PCR test. **For example, if the date of your swab which yielded your first positive PCR test is on 1 Nov (Day 1), you should only depart for Singapore on 22 Nov (Day 22) and onwards. You should not travel if feeling unwell.**
+ 
+Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. 
+
+#### 8.	What documents qualify as proof of residency in my SafeTravel Pass application under the RGL arrangement?
 
 <table>
   <thead>
@@ -107,33 +113,33 @@ Travellers must be hosted by a Singapore-based company or government agency in S
 
 The applicant from the host company or government agency will also be required to submit a copy of the traveller’s 14-day controlled itinerary, which is limited to travel between places of business and accommodation, with limited contact with the community.
         
-#### 8.	What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
+#### 9.	What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
 
 The application for the SafeTravel Pass will be open for a period of 2 to 5 weeks before the week of the traveller’s planned departure. Applications submitted less than 7 working days from the date of entry will not be accepted. The processing of the application can take up to 7 days (excluding the day of application). You are encouraged to apply for the SafeTravel Pass as soon as practicable, taking into consideration the time involved in processing the application, applying for a visa (if required) and/or taking a pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore.
 
-#### 9.	How will I be notified on the outcome of the SafeTravel Pass application?
+#### 10.	How will I be notified on the outcome of the SafeTravel Pass application?
 
 The applicant from the host company or government agency will be notified of the outcome of the SafeTravel Pass application via email. Alternatively, the applicant from the host company or government agency or traveller may enquire the status of the application [here](http://eservices.ica.gov.sg/STO). Please have on hand the traveller’s identification details and intended date of entry in Singapore as declared in the application. 
 
-#### 10. What pre-departure requirements will I be subject to before entering Singapore?
+#### 11. What pre-departure requirements will I be subject to before entering Singapore?
 
 The applicant from the host company or government agency is required to submit pre-trip health and travel history declarations and accommodation details electronically via the SG Arrival Card [here](https://eservices.ica.gov.sg/sgarrivalcard/) within three days prior to the date of entry into Singapore.
 
 The applicant from the host company or government agency is also required to submit the traveller’s certificate of negative test result for COVID-19 taken within 72 hours before departure and latest 14-day controlled itinerary in Singapore [here](http://eservices.ica.gov.sg/STO). 
 
-#### 11. What is the limit to the number of times I can apply for a SafeTravel Pass under the RGL arrangement?
+#### 12. What is the limit to the number of times I can apply for a SafeTravel Pass under the RGL arrangement?
 
 There is no limit to the number of times a traveller can apply for a SafeTravel Pass under the RGL arrangement. However, there may be penalties in repeated cases of non-utilisation. Each entry into Singapore requires a fresh application. For expired SafeTravel Passes, the traveller should submit a fresh application through the host company or government agency. 
 
-#### 12. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
+#### 13. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
 
 Both the SafeTravel Pass application and approved SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
 
-#### 13. What if I need to make changes to my 14-day controlled itinerary?
+#### 14. What if I need to make changes to my 14-day controlled itinerary?
 
 The host company or government agency should be responsible for monitoring and reporting any deviation in your 14-day controlled itinerary. The host company or government agency should resubmit the updated controlled itinerary on behalf of the traveller via the “Submit  Supporting Documents” Form [here](http://eservices.ica.gov.sg/STO). Please have the application reference number and documents on hand and ensure that the amendments or deviation from the 14-day controlled itinerary are in accordance with the stipulated guidelines. A non-compliant controlled itinerary may result in the withdrawal of the SafeTravel Pass and termination of the visit pass if not immediately rectified.
 
-#### 14. Why is my application rejected?
+#### 15. Why is my application rejected?
 
 Safe Travel Pass applications may be rejected for reasons including, but not limited to, the following:
 - Inadequate justifications for reason of travel
@@ -143,20 +149,20 @@ Safe Travel Pass applications may be rejected for reasons including, but not lim
 
 ### **Visa Applications and Visit Pass Extensions**
 
-#### 15. How can I apply for a visa (if required)?
+#### 16. How can I apply for a visa (if required)?
 
 Travellers can proceed to apply for a visa [here](https://eservices.ica.gov.sg/esvclandingpage/save) through Singapore overseas missions, authorised visa agents, a local contact or company at least four working days before departure to Singapore. For a traveller with a valid visa, its suspension will be lifted when the SafeTravel Pass application is approved. Each visa application, including the type granted, will be considered on its own merit and subject to approval.
 
 Nationalities/citizenships who did not require a visa prior to the COVID-19 pandemic will not be required to apply for a visa under the RGL arrangement. Please visit the ICA Website for more information on Singapore’s visa regime [here](https://www.ica.gov.sg/enteringanddeparting/before/entryvisa/). 
 Travellers who are granted entry into Singapore will be issued with a visit pass for a validity period aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
 
-#### 16. How do I extend my visit pass/stay in Singapore, if necessary?
+#### 17. How do I extend my visit pass/stay in Singapore, if necessary?
 
 An application for extension of visit pass/stay must be submitted online using ICA’s e-Service [here](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass. Extension of visit pass/stay will not be accepted over the counter. Each application is considered on its own merits and subject to approval.
 
 ### **Pre-Departure Measures in Country/Region of Departure**
 
-#### 17. What health measures must I take in my origin country/region prior to my departure for Singapore?
+#### 18. What health measures must I take in my origin country/region prior to my departure for Singapore?
 
 For travellers from Brunei, Germany, Japan, Malaysia and Republic of Korea, travellers must remain in and have not travelled out of the country/region for at least 14 days prior to departure for Singapore. In the case of Mainland China, travellers need to remain in the qualifying region (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) for at least seven days, prior to departure for Singapore. 
 
@@ -206,7 +212,7 @@ Travellers must also monitor their health status before departure from the count
     </tbody>         
   </table>
 
-#### 18. What documents do I need to produce to the airlines for pre-boarding checks and checkpoint counters for immigration checks?
+#### 19. What documents do I need to produce to the airlines for pre-boarding checks and checkpoint counters for immigration checks?
 
 RGL travellers by air and land are required to produce the following documents to the airlines for pre-boarding checks and immigration counters for immigration checks:
 - A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).
@@ -216,7 +222,7 @@ RGL travellers by air and land are required to produce the following documents t
 
 ### **Testing Arrangements Upon Arrival in Singapore**
 
-#### 19. What tests will I be subject to upon arrival in Singapore? Where will the tests be administered? What are the payment modes accepted for the tests?
+#### 20. What tests will I be subject to upon arrival in Singapore? Where will the tests be administered? What are the payment modes accepted for the tests?
 
 Travellers will be directed to take COVID-19 PCR tests upon arrival at Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance. 
 
@@ -224,7 +230,7 @@ Travellers entering Singapore by air are encouraged to pre-register and pre-pay 
 
 Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoints. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the COVID-19 PCR test.
 
-#### 20.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the above RGL countries?
+#### 21.Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the above RGL countries?
 
 Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
 
@@ -232,7 +238,7 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020. 
 
-#### 21. What if I test positive for COVID-19 in Singapore? 
+#### 22. What if I test positive for COVID-19 in Singapore? 
 
 Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
@@ -240,7 +246,7 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
-#### 22. What if I am identified as a close contact of confirmed COVID-19 cases?  
+#### 23. What if I am identified as a close contact of confirmed COVID-19 cases?  
 
 MOH’s contact tracing officers will assess who among the close contacts should be placed on quarantine and a quarantine order (QO) will be issued. A QO is a legal order issued to individuals under the Infectious Diseases Act, for more information, you may refer to this [link](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders). 
 
@@ -248,15 +254,15 @@ For travellers that requires to extend their visit pass/stay, please refer to Qu
 
 ### **Health Measures in Singapore**
 
-#### 23. What health measures will I be subjected to upon arrival in Singapore? 
+#### 24. What health measures will I be subjected to upon arrival in Singapore? 
 
 Travellers must take a COVID-19 PCR test upon arrival in Singapore and remain isolated in a declared self-sourced accommodation until their test results are released (typically within 48 hours). The traveller’s declared accommodation during the first 14 days of their stay in Singapore must not be a residential address.  Transportation from the airport/land checkpoints to the declared accommodation will have to be provided by the host company or government agency subject to prevailing health measures<sup>1</sup>.  Travellers will bear the costs of the post-arrival COVID-19 PCR test in Singapore and stay in the declared accommodation.
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, except for private hire cars/taxis or cohorted company transport<sup>2</sup>. 
 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q24">Q25</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
+Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q24">Q26</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
 
-#### 24. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
+#### 25. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
 
@@ -264,7 +270,7 @@ The app works best on phones with Android version 5.1 and above, as well as phon
 
 <div id="Q24"></div>
 
-#### 25. What is SafeEntry?
+#### 26. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -276,7 +282,7 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 
 ### **Returning to Countries/Regions of Departure**
 
-#### 26. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
+#### 27. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
 
 <table>
   <thead>
@@ -340,7 +346,7 @@ As the specific requirements may change over time, RGL travelers returning to th
 
 ### **Booking an appointment**
 
-#### 27. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
+#### 28. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
 
 Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for fast lane travellers.
 
@@ -348,19 +354,19 @@ Please call the clinic to make an appointment, before proceeding for the swab. P
 
 <!--For destination countries/regions that have a mandatory requirement for travellers to produce a negative COVID-19 serology test, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of serology tests that meet the entry requirements of the country that they are travelling to.-->
 
-#### 28. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
+#### 29. What is the latest I have to present myself at the clinic for the pre-departure COVID-19 PCR/serology test, based on my departure flight timing?
 
 **[For RGL travellers under Singapore-Brunei Darussalam RGL, Singapore-Japan RGL, Singapore-Malaysia RGL, Singapore-Mainland China RGL and Singapore-ROK RGL ]**
 
 You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight or departure. Travellers who present themselves at the clinic less than 38 hours to the flight may not be able receive the result in time for the flight or departure.
 
-#### 29. How can I make an appointment for the pre-departure COVID-19 PCR Test?
+#### 30. How can I make an appointment for the pre-departure COVID-19 PCR Test?
 
 You are encouraged to call a listed clinic to make an appointment that fits your required testing window, and be present at the clinic at least 15 mins before the appointment time.
 
 Please note that you are responsible for checking your testing window that is in line with your destination country’s requirement before making an appointment. Travellers who present at the clinic less than 38 hours to the flight may not be able receive the result in time for the flight. Please also check with the clinic if it is able to meet the destination country’s requirement.
 
-#### 30. How far in advance should I make an appointment for the pre-departure PCR/serology test?
+#### 31. How far in advance should I make an appointment for the pre-departure PCR/serology test?
 
 To ensure that an appointment can be scheduled for your test, please make your appointment with a listed clinic as early as possible, once your flight timing is confirmed. <b>You are responsible for checking for your testing window that is in line with your destination country’s requirement, and that the clinic is able to meet the requirement.</b>
 
@@ -368,7 +374,7 @@ If you do not make a prior appointment with a listed clinic, please note that:
 - There is no guarantee that there will be a test slot for you; and
 - You may not get your results in time for your flight.
 
-#### 31. What details will I need to book an appointment for the COVID-19 PCR test? 
+#### 32. What details will I need to book an appointment for the COVID-19 PCR test? 
 
 Please have the following information on hand when making an appointment with a listed clinic for your test:
 - Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
@@ -378,7 +384,7 @@ Please have the following information on hand when making an appointment with a 
 - Contact number
 - Email address
 
-#### 32.	What documents should I bring for my appointment?
+#### 33.	What documents should I bring for my appointment?
 
 Please bring the following documents for your appointment:
 - Identity card (for Singapore Citizens, Permanent Residents, and Long Term Pass Holders only and passport (for all travellers)
@@ -386,13 +392,13 @@ Please bring the following documents for your appointment:
 
 ### **Testing**
 
-#### 33. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
+#### 34. What happens if the clinic assesses that I am unable to receive the PCR test due to unforeseen circumstances? 
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
 
 ### **Test Results**
 
-#### 34. When can I expect to get my PCR test results?
+#### 35. When can I expect to get my PCR test results?
 
 You will receive your test results and memo from the clinic at least three hours before your departure, if you met the cut-off timing at the clinic. Please let the clinic know as early as possible if you need to receive the memo by a certain time.
 
