@@ -133,7 +133,13 @@ RGL travellers from Indonesia are allowed to travel from other provinces in Indo
 
 Travellers must have remained in Indonesia for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Indonesia, and not depart for Singapore if feeling unwell. They must also undergo a pre-departure PCR test in Indonesia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from healthcare institutions in Indonesia listed at [ANNEX A](#annexa). 
 
-#### 22. What documentation do I need to present before I depart from Indonesia to Singapore? 
+#### 22. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
+ 
+You should schedule your travel into Singapore at least 21 days after your date of COVID-19 diagnosis, based on your first positive PCR test. **For example, if the date of your swab which yielded your first positive PCR test is on 1 Nov (Day 1), you should only depart for Singapore on 22 Nov (Day 22) and onwards. You should not travel if feeling unwell.**
+ 
+Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. 
+
+#### 23. What documentation do I need to present before I depart from Indonesia to Singapore? 
 
 Travellers are required to produce the following documents at the airlines/ferries check-in counter and immigration counter: 
  - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter); 
@@ -144,7 +150,7 @@ Travellers are required to produce the following documents at the airlines/ferri
  
 ### **Testing Arrangements Upon Arrival in Singapore**
  
-#### 23. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test? 
+#### 24. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test? 
  
  Travellers entering Singapore on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi International Airport or Tanah Merah Ferry Terminal in Singapore. For RGL travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport or ferry terminal. Please approach ground staff upon arrival for assistance. 
  
@@ -152,7 +158,7 @@ Travellers arriving in Singapore by plane are encouraged to pre-register and pre
  
 Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$150 (inclusive of GST) for the on-arrival swab test at the ferry terminal.  
  
-#### 24.  What if I test positive for COVID-19 in Singapore? 
+#### 25.  What if I test positive for COVID-19 in Singapore? 
 
 Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
@@ -160,7 +166,7 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
-#### 25. What if I am identified as a close contact of confirmed COVID-19 cases?  
+#### 26. What if I am identified as a close contact of confirmed COVID-19 cases?  
 
 MOH’s contact tracing officers will assess who among the close contacts should be placed on quarantine and a quarantine order (QO) will be issued. A QO is a legal order issued to individuals under the Infectious Diseases Act, for more information, you may refer to this [link](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders). 
 
@@ -168,7 +174,7 @@ For travellers that requires to extend their visit pass/stay, please refer to Qu
 
 ### **Health Measures in Singapore**
 
-#### 26. What health measures will I be subjected to upon arrival in Singapore? 
+#### 27. What health measures will I be subjected to upon arrival in Singapore? 
 
 RGL travellers from Indonesia must take a COVID-19 PCR test upon arrival in Singapore at the airport or ferry terminal, and remain isolated in a declared selfsourced, non-residential accommodation until negative test results are released (typically within 48 hours). Transportation from the airport or ferry terminal to the declared accommodation will have to be provided by the travellers’ host, subject to prevailing health measures.<sup>2</sup> Travellers will bear the costs of the post-arrival COVID19 PCR test(s) in Singapore and stay in the declared accommodation. 
  
@@ -178,13 +184,13 @@ Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>4</sup>
  
 Travellers should also abide by the prevailing public health measures in Singapore. 
 
-#### 27. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
+#### 28. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
  
 The TraceTogether app supports Singapore’s nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
  
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>. 
  
-#### 28. What is SafeEntry?
+#### 29. What is SafeEntry?
  
 SafeEntry is a national digital check-in system that logs the personal identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
 
@@ -196,7 +202,7 @@ More information can be found at <https://www.safeentry.gov.sg>.
 
 ### **Returning to Indonesia**
 
-#### 29. Do i need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia? 
+#### 30. Do i need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia? 
 
 Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test within 72 hours before departure. 
 
