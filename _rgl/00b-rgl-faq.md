@@ -260,6 +260,8 @@ Travellers must take a COVID-19 PCR test upon arrival in Singapore and remain is
 
 If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, except for private hire cars/taxis or cohorted company transport<sup>2</sup>. 
 
+Throughout the duration of the traveller’s controlled itinerary, he/she is not allowed access to common facilities or amenities in the declared accommodation, that are not within the ambit of activities related to the conduct of business activities. Such examples include gyms, swimming pools, sauna facilities or any other recreational places.
+
 Travellers to Singapore must use the TraceTogether app and SafeEntry<sup><a href="#Q24">Q26</a></sup>, take twice daily temperatures, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of stay in Singapore.
 
 #### 25. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
