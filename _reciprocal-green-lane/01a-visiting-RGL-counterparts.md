@@ -5,7 +5,7 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
 <div style="background-color:yellow;">
-<b>*IMPORTANT NOTICE for Travel to Indonesia under Reciprocal Green Lane (RGL) Arrangement:</b> The Indonesian Government has notified Singapore’s MFA that there will be a temporary ban on the entry and transit of all foreign nationals into Indonesia from 1 to 14 January 2021. This ban would also apply to foreign nationals scheduled to travel to Indonesia under Indonesia’s Travel Corridor Arrangements with other countries. Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane / Travel Corridor Arrangement during this period. Travellers may wish to approach the Indonesian Embassy in Singapore to seek further clarification on Indonesia’s travel regulations. The full statement from MFA on this matter can be found here (link).
+<b>IMPORTANT NOTICE for Travel to Indonesia under Reciprocal Green Lane (RGL) Arrangement:</b> The Indonesian Government has notified Singapore’s MFA that there will be a temporary ban on the entry and transit of all foreign nationals into Indonesia from 1 to 14 January 2021. This ban would also apply to foreign nationals scheduled to travel to Indonesia under Indonesia’s Travel Corridor Arrangements with other countries. Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane / Travel Corridor Arrangement during this period. Travellers may wish to approach the Indonesian Embassy in Singapore to seek further clarification on Indonesia’s travel regulations. The full statement from MFA on this matter can be found here (link).
 </div>
 
 ### RGL Application to Foreign Authorities
