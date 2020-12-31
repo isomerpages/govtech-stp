@@ -10,7 +10,7 @@ permalink: /australia/atp/conditions
      <ol style="font-size:18px; list-style-type:lower-alpha;">
   <li style="font-size:18px; list-style-type:lower-alpha;"> have been in Australia (excluding New South Wales) in the last 14 consecutive days before departing for Singapore;</li>
         <li style="font-size:18px; list-style-type:lower-alpha;"> travel to Singapore on a direct flight without transit;</li>
-       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, take private transportation, taxi, or private hire car from the airport to the declared place of accommodation (which must be non-residential and an individual room with attached toilet) and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
+       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, immediately take private transportation, taxi, or private hire car from the airport to the declared place of accommodation (which must be non-residential and an individual room with attached toilet) and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
         <ol style="font-size:18px; list-style-type:lower-roman;">

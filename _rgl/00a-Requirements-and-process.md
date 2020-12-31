@@ -3,7 +3,7 @@ title: RGL Requirements and Process
 permalink: /rgl/requirements-and-process
 ---
 
-The requirements and processes outlined on this page apply to the following Reciprocal Green Lane-eligible countries/regions: 
+The requirements and processes outlined on this page apply to inbound travellers from the following Reciprocal Green Lane-eligible countries/regions: 
 - Brunei Darussalam;
 - Germany
 - Japan
@@ -16,9 +16,9 @@ The requirements and processes outlined on this page apply to the following Reci
 
 Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass under the Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who:
 - Holds a valid passport of any nationality/citizenship;
-- Is a resident of either Singapore or the RGL partner country/region;
+- Is a resident of the RGL partner country/region;
 - Is seeking to make a single-entry, short-term essential travel; and
-- Is travelling for business or official purposes between Singapore and country/region of departure.
+- Is travelling for business or official purposes to Singapore from the RGL partner country/region.
 
 ### 2. Submit Approvals for Entry into Singapore
 
