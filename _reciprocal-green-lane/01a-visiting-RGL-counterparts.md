@@ -4,6 +4,13 @@ permalink: /rgl/visiting-rgl-counterparts
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
+
+
+<div background-color: yellow;>
+#### Travel to Indonesia under Reciprocal Green Lane (RGL) Arrangement
+**IMPORTANT NOTICE:** The Indonesian Government has notified Singapore’s MFA that there will be a temporary ban on the entry and transit of all foreign nationals into Indonesia from 1 to 14 January 2021. This ban would also apply to foreign nationals scheduled to travel to Indonesia under Indonesia’s Travel Corridor Arrangements with other countries. Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane / Travel Corridor Arrangement during this period. Travellers may wish to approach the Indonesian Embassy in Singapore to seek further clarification on Indonesia’s travel regulations. The full statement from MFA on this matter can be found here (link).
+</div>
+
 ### RGL Application to Foreign Authorities
 
 The RGL is also known by other names as used by Singapore's RGL counterpart countries/regions. Please refer to the table below for comparison and links to the foreign counterparts' websites. Instructions and applications to travel to these counterpart RGL countries/regions will be via the foreign counterpart's authorities.
@@ -17,10 +24,6 @@ The RGL is also known by other names as used by Singapore's RGL counterpart coun
 |RGL (Japan) |    ビジネストラック (Japan-Singapore Business Track)  |  Instructions from Japanese Ministry of Foreign Affairs <a href="https://www.mofa.go.jp/a_o/na/page22e_000928.html" target="_blank">website</a> |[FAQ](/rgl/outbound/faq#faq-outbound-japan)|
 |RGL (Malaysia)   |   Reciprocal Green Lane   |   Instructions from Malaysian Immigration Department <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">website</a> | [FAQ](/rgl/outbound/faq#faq-outbound-malaysia)|
 |RGL (Republic of Korea)  | 한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) |  Instructions from Republic of Korea Embassy <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275" target="_blank">website</a>   |[FAQ](/rgl/outbound/faq#faq-outbound-rok)|
-
-### Travel to Indonesia under Reciprocal Green Lane (RGL) Arrangement
-
-**IMPORTANT NOTICE:** The Indonesian Government has notified Singapore’s MFA that there will be a temporary ban on the entry and transit of all foreign nationals into Indonesia from 1 to 14 January 2021. This ban would also apply to foreign nationals scheduled to travel to Indonesia under Indonesia’s Travel Corridor Arrangements with other countries. Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane / Travel Corridor Arrangement during this period. Travellers may wish to approach the Indonesian Embassy in Singapore to seek further clarification on Indonesia’s travel regulations. The full statement from MFA on this matter can be found here (link).
 
 ### Pre-Departure Test for RGL Travel
 
