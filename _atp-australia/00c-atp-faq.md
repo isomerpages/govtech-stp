@@ -105,11 +105,15 @@ This is to protect public health in Singapore by ensuring that visitors are not 
 
 Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will be out within 48 hours.
 
-After taking the COVID-19 PCR test, visitors are to take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
+After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
 To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
-#### 19. What types of accommodation do visitors need to use while waiting for their test results?
+#### 19. Can visitors enter the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
+
+No, visitors may not enter any of these shops. After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
+
+#### 20. What types of accommodation do visitors need to use while waiting for their test results?
 
 The accommodation must be non-residential and must be an individual room with an attached toilet.
 
@@ -117,27 +121,27 @@ Visitors are required to bear the cost of their accommodation in Singapore.
 
 Visitors may refer to the Singapore Hotel Association (SHA) [website](https://sha.org.sg/hotel-accommodation) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
 
-#### 20. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
+#### 21. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 
 Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 14 days prior to departure for Singapore.
 
 Please also note that if the visitor's test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
 
-#### 21. Do children need to undergo an on-arrival COVID-19 PCR test?
+#### 22. Do children need to undergo an on-arrival COVID-19 PCR test?
 
 Children aged 6 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
 
-#### 22. How much is the on-arrival COVID-19 PCR test at the airport?
+#### 23. How much is the on-arrival COVID-19 PCR test at the airport?
 
 The cost of the COVID-19 PCR test is S$196 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
 
 To expedite the COVID-19 PCR test at the airport, visitors are strongly encouraged to pre-book and make payment at <https://safetravel.changiairport.com>.
 
-#### 23. What happens if visitors refuse to undergo the on-arrival COVID-19 PCR test?
+#### 24. What happens if visitors refuse to undergo the on-arrival COVID-19 PCR test?
 
 If visitors refuse to undergo the on-arrival COVID-19 PCR test, they may be refused entry into Singapore and have their ATP cancelled. In such an event, visitors may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
 
-#### 24. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
+#### 25. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
 
 Visitors entering Singapore on an approved Air Travel Pass may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the visitor up from the airport. 
 
@@ -149,23 +153,23 @@ Visitors must be transported directly to their declared place of accommodation t
 
 ### **Contact Tracing – TraceTogether App**
 
-#### 25. What is the TraceTogether app? Does the Singapore Government track visitors’ movements via the app?
+#### 26. What is the TraceTogether app? Does the Singapore Government track visitors’ movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby mobile devices running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s mobile device, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
-#### 26. Must every visitor download the TraceTogether app?
+#### 27. Must every visitor download the TraceTogether app?
 
 Yes, all visitors to Singapore must download the TraceTogether app. They must do so prior to departing for Singapore.
 
 Children aged 12 or younger in that calendar year and travelling with a parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 27. After downloading the TraceTogether app, how do I activate it? 
+#### 28. After downloading the TraceTogether app, how do I activate it? 
 
 After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
 
 If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
 
-#### 28. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+#### 29. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
 If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the ATP [Condition](/australia/atp/conditions) 1(e)(ii).
 
@@ -173,7 +177,7 @@ If you change your SIM card but are still using the same mobile device, you will
 
 Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
 
-#### 29. What happens if visitors do not have mobile devices to download the TraceTogether app?
+#### 30. What happens if visitors do not have mobile devices to download the TraceTogether app?
 
 All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace).
 
@@ -185,7 +189,7 @@ Visitors, who have rented a mobile device from Changi Recommends, must carry it 
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 30. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
+#### 31. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
 Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can book a Singapore SIM card from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
 
@@ -193,17 +197,17 @@ Visitors can pay for and collect their Singapore SIM card at the Changi Recommen
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from the TraceTogether app requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 31. Can visitors switch off their mobile devices while in Singapore?
+#### 32. Can visitors switch off their mobile devices while in Singapore?
 
 No, visitors must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 32. Can visitors uninstall the TraceTogether app upon departing from Singapore?
+#### 33. Can visitors uninstall the TraceTogether app upon departing from Singapore?
 
 Visitors must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if visitors are tested positive for COVID-19.
 
 ### **Departing from Singapore**
 
-#### 33. I need to take a pre-departure COVID-19 test to meet the entry requirements of my next onward destination after my stay in Singapore. How can I take a pre-departure COVID-19 test in Singapore?
+#### 34. I need to take a pre-departure COVID-19 test to meet the entry requirements of my next onward destination after my stay in Singapore. How can I take a pre-departure COVID-19 test in Singapore?
 
 The pre-departure COVID-19 test may only be administered at the clinics listed [here](https://go.gov.sg/covid19pcrtestproviders).
 
@@ -213,7 +217,7 @@ You are required to bear the cost of your pre-departure COVID-19 PCR test. Pleas
 - Ensuring the date and time of your test meet the entry requirements of your next onward destination; and
 - Confirming with the clinic and testing centre that your test results can be obtained in time for your departure flight.
 
-#### 34. How can I make an appointment for my pre-departure COVID-19 PCR test in Singapore and how far in advance should I do so?
+#### 35. How can I make an appointment for my pre-departure COVID-19 PCR test in Singapore and how far in advance should I do so?
 
 You are advised to contact the listed clinic of your choice as early as possible to make a test appointment.
 
@@ -228,7 +232,7 @@ Please have the following when you are making an appointment with the clinic:
 - Contact number; and
 - Email address
 
-#### 35. What documents must I bring along for my appointment?
+#### 36. What documents must I bring along for my appointment?
 
 Please bring along the following documents for your appointment:
 - Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass holders only);
@@ -238,7 +242,7 @@ Please bring along the following documents for your appointment:
 
 Please be present at the clinic at least 15 minutes before your appointment time.
 
-#### 36. When can I expect to get the results of my pre-departure COVID-19 PCR test taken in Singapore?
+#### 37. When can I expect to get the results of my pre-departure COVID-19 PCR test taken in Singapore?
 
 You will receive your COVID-19 test results and memo from the clinic at least 3 hours before your flight departure time, if the test was taken at the clinic no later than 38 hours before your departure flight. Please let the clinic know as early as possible if you need to receive the test result memo by a certain date and time.
 
@@ -246,7 +250,7 @@ The clinic will send the test result memo to your email address. Please ensure t
 
 ### **Others**
 
-#### 37. What must visitors present to airline staff during check-in at the departure airport for Singapore?
+#### 38. What must visitors present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
 - a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;
@@ -255,9 +259,9 @@ When checking in at the departure airport, visitors must present the following t
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-For visitors who do not have mobile devices that can download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 29 and 30.
+For visitors who do not have mobile devices that can download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 30 and 31.
 
-#### 38. Can visitors use the ATP to transit/transfer through Singapore?
+#### 39. Can visitors use the ATP to transit/transfer through Singapore?
 
 No, the ATP is for visitors who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
