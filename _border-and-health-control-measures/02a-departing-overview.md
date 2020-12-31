@@ -27,13 +27,6 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
 
-### Travel to Hong Kong under the Air Travel Bubble (ATB) Arrangement 
+### Travel to Indonesia under Reciprocal Green Lane (RGL) Arrangement
 
-#### IMPORTANT NOTICE: DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
-
-Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health. 
-
-Travellers to Hong Kong will be subject to the prevailing border control and health requirements of Hong Kong. Please refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html) for the latest information. 
-
-
-<!--Under the Air Travel Bubble arrangement agreed between the Governments of Hong Kong and Singapore, eligible persons can travel from Singapore to Hong Kong on designated ATB flights and be exempted from the quarantine requirement upon arrival in Hong Kong, if they meet certain requirements laid out by the Hong Kong Government. For more information, please refer [here](/hongkong/requirements-and-process).-->
+**IMPORTANT NOTICE:** The Indonesian Government has notified Singapore’s MFA that there will be a temporary ban on the entry and transit of all foreign nationals into Indonesia from 1 to 14 January 2021. This ban would also apply to foreign nationals scheduled to travel to Indonesia under Indonesia’s Travel Corridor Arrangements with other countries. Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane / Travel Corridor Arrangement during this period. Travellers may wish to approach the Indonesian Embassy in Singapore to seek further clarification on Indonesia’s travel regulations. The full statement from MFA on this matter can be found here (link).
