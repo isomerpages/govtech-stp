@@ -35,7 +35,6 @@ permalink: /wphl/requirements-and-process
        </li>
 </ul>
 Please check with your insurer whether your workers’ existing medical insurance plans meet the above requirements. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.
- 
 <br><ins>For all other work pass holders</ins> (e.g. EP holders or dependants)
 <br><br>All other work pass holders are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.    
     </td>
