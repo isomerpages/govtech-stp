@@ -10,7 +10,7 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 - Brunei Darussalam
 - Germany
 - Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
-- Indonesia (Please refer to the [notice](#notice) below before applying)
+- Indonesia (Please refer to the [notice](#notice) below for more information)
 - Japan
 - Malaysia
 - Republic of Korea
