@@ -21,6 +21,25 @@ permalink: /wphl/requirements-and-process
     <td style="font-size:16px;">Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">here</a>. Applications for travel are open up to 60 calendar days before the planned date of entry into Singapore. Applications should be submitted at least 1 working day from the planned date of entry. <br/><br/>If the entry approval request is made by 12 noon on a working weekday, the outcome will be made known on the same day. If the entry approval request is made after 12 noon on a working weekday or on weekends/public holidays, the outcome will be made known on the next working day.<br/><br/>Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for 30 days from the date of issuance.<br/><br/>Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found <a href="https://www.mom.gov.sg/covid-19/additional-responsibilities">here</a>.    
     </td>
   </tr>
+  <tr>
+    <td style="font-size:16px;"><b>Ensure insurance coverage</b></td>
+    <td style="font-size:16px;"><p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">The Singapore Government will no longer cover treatment costs</a> for all pass holders entering Singapore <b>from 1 January 2021</b>, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</p>
+<br>
+<ins>For Work Permit, Training Work Permit and S Pass holders</ins>
+<br>The employer is responsible for their workers’ medical expenses. The employer must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore <b>from 1 January 2021</b>, <ins><b>before your workers arrive in Singapore</b></ins>.
+<br><br>The insurance must meet these requirements:
+<ul style="margin-top:0px; list-style-type: disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Covers <b>at least $10,000</b> for medical expenses if the worker develops COVID-19 symptoms or tests positive within 14 days of arrival in Singapore.;
+       </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Covers workers on work pass in-principle approvals (IPAs).
+       </li>
+</ul>
+<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please check with your insurer whether your workers’ existing medical insurance plans meet the above requirements. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.</p>
+<br>
+<ins>For all other work pass holders</ins> (e.g. EP holders or dependants)
+<br>All other work pass holders are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.   
+    </td>
+  </tr>
     <thead>
      <tr>
     <th colspan="2" style="font-size:16px;">At least 7 days before planned entry date into in Singapore</th>

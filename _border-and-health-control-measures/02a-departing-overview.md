@@ -20,20 +20,14 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 - Brunei Darussalam
 - China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
 - Germany
-- Indonesia
+- Indonesia (Please refer to the [notice](#notice) below)
 - Japan
 - Malaysia
 - Republic of Korea
 
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
 
-### Travel to Hong Kong under the Air Travel Bubble (ATB) Arrangement 
-
-#### IMPORTANT NOTICE: DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
-
-Given the evolving COVID-19 situation in Hong Kong, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health. 
-
-Travellers to Hong Kong will be subject to the prevailing border control and health requirements of Hong Kong. Please refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html) for the latest information. 
-
-
-<!--Under the Air Travel Bubble arrangement agreed between the Governments of Hong Kong and Singapore, eligible persons can travel from Singapore to Hong Kong on designated ATB flights and be exempted from the quarantine requirement upon arrival in Hong Kong, if they meet certain requirements laid out by the Hong Kong Government. For more information, please refer [here](/hongkong/requirements-and-process).-->
+<div id="notice"></div>
+<b><span style="color:red; font-size:20px;">IMPORTANT NOTICE</span> </b> <br/>
+<span style="font-size:16px; line-height:1.0; color:red;">On 28 December 2020, <u>Indonesia announced a temporary ban on the entry of all foreign nationals into Indonesia from 1 to 14 January 2021. The Indonesian government has notified MFA that this ban would also apply to foreign nationals travelling to Indonesia under all of Indonesia’s Travel Corridor Arrangements (TCA) with other countries. Hence, Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane (RGL) / TCA during this period</u>. Given the reciprocal nature of this travel arrangement, travellers will also not be able to apply to travel from Indonesia to Singapore under the Singapore-Indonesia RGL / TCA during this period. Travellers who have already received approval to enter Singapore under the Singapore-Indonesia RGL / TCA can continue to do so. The full statement from MFA on this matter can be found <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">here</a>.
+</span>
