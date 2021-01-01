@@ -23,24 +23,21 @@ permalink: /wphl/requirements-and-process
   </tr>
   <tr>
     <td style="font-size:16px;"><b>Ensure insurance coverage</b></td>
-    <td style="font-size:16px;"><p><a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">The Singapore Government will no longer cover treatment costs</a> for all pass holders entering Singapore <b>from 1 January 2021</b>, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. </p>
+    <td style="font-size:16px;"><a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">The Singapore Government will no longer cover treatment costs</a> for all pass holders entering Singapore <b>from 1 January 2021</b>, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.
 
-<p><u>For Work Permit, Training Work Permit and S Pass holders</u></p>
-
-<p>The employer is responsible for their workers’ medical expenses. The employer must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore <b>from 1 January 2021</b>, <u><b>before your workers arrive in Singapore</b></u>.</p>
-
-The insurance must meet these requirements:
-
+<br><ins>For Work Permit, Training Work Permit and S Pass holders</ins>
+<br><br>The employer is responsible for their workers’ medical expenses. The employer must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore <b>from 1 January 2021</b>, <ins><b>before your workers arrive in Singapore</b></ins>.
+<br><br>The insurance must meet these requirements:
 <ul style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Covers <b>at least $10,000</b> for medical expenses if the worker develops COVID-19 symptoms or tests positive within 14 days of arrival in Singapore.;
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Covers workers on work pass in-principle approvals (IPAs).
        </li>
 </ul>
-<p>Please check with your insurer whether your workers’ existing medical insurance plans meet the above requirements. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.</p>
+Please check with your insurer whether your workers’ existing medical insurance plans meet the above requirements. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.
  
-<p><u>For all other work pass holders</u> (e.g. EP holders or dependants)</p>
-<p>All other work pass holders are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</p>    
+<br><ins>For all other work pass holders</ins> (e.g. EP holders or dependants)
+<br><br>All other work pass holders are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.    
     </td>
   </tr>
     <thead>
