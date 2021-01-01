@@ -25,7 +25,7 @@ permalink: /wphl/requirements-and-process
     <td style="font-size:16px;"><b>Ensure insurance coverage</b></td>
     <td style="font-size:16px;"><p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">The Singapore Government will no longer cover treatment costs</a> for all pass holders entering Singapore <b>from 1 January 2021</b>, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</p>
 <br>
-<u>For Work Permit, Training Work Permit and S Pass holders</u>
+<u>For Work Permit, Training Work Permit and S Pass holders 123</u>
 <br><br>The employer is responsible for their workers’ medical expenses. The employer must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore <b>from 1 January 2021</b>, <ins><b>before your workers arrive in Singapore</b></ins>.
 <br><br>The insurance must meet these requirements:
 <ul style="margin-top:0px; list-style-type: disc;">
