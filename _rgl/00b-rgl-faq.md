@@ -226,7 +226,7 @@ RGL travellers by air and land are required to produce the following documents t
 
 Travellers will be directed to take COVID-19 PCR tests upon arrival at Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore. To qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport and land checkpoints. Please approach the airport ground staff and land checkpoint authorities upon arrival for assistance. 
 
-Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test. Pre-registration and pre-payment can be made on Changi Airport’s Website [here](https://safetravel.changiairport.com/). Travellers should expect to pay around S$196 (inclusive of GST) for the COVID-19 PCR test.
+Travellers entering Singapore by air are encouraged to pre-register and pre-pay for the COVID-19 PCR test. Pre-registration and pre-payment can be made on Changi Airport’s Website [here](https://safetravel.changiairport.com/). Travellers should expect to pay around S$160 (inclusive of GST) for the COVID-19 PCR test.
 
 Travellers entering Singapore by land will make payment at the testing station located at Woodlands and Tuas Checkpoints. Only card payments or PayPal are accepted. Travellers should expect to pay around S$150 (inclusive of GST) for the COVID-19 PCR test.
 
