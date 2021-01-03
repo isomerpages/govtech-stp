@@ -33,7 +33,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit RGL application</b></td>
-    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="/apply-now">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
+    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="https://eservices.ica.gov.sg/STO/">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Application sponsors should:</p>
 <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have on hand the following details as part of the submission:
