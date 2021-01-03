@@ -87,7 +87,7 @@ Estimated PCR test costs can be found in the table below:
   <tbody>
     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Airport</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$196</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$160</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">On-arrival test at Land Checkpoints</td>
