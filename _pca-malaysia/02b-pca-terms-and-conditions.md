@@ -1,7 +1,3 @@
----
-title: Additional Work Pass Conditions
-permalink: /malaysia/pca/terms-and-conditions
----
 
 ### **Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
 
