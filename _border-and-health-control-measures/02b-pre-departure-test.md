@@ -6,13 +6,13 @@ third_nav_title: Departing from Singapore
 
 ### **Booking an Appointment for Pre-Departure COVID-19 Test**
 
-Pre-departure COVID-19 testing can only done at these clinics [here](https://go.gov.sg/covid19pcrtestproviders). You are encouraged to contact a listed clinic to make an appointment for the test. Please note that you are responsible for checking for your testing window that is in line with your destination country’s requirement before making the appointment.
+Pre-departure COVID-19 testing can only done at these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). You are encouraged to contact a listed clinic to make an appointment for the test. Please note that you are responsible for checking for your testing window that is in line with your destination country’s requirement before making the appointment.
 
 Travel-related costs, including the cost of the Pre-Departure Test and the issuance of the Memo, is to be borne by individuals. Travellers will have to pay for all travel-related costs, regardless of whether they have an acute respiratory infection (ARI).
 
 #### 1. Where can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). 
+Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
 #### 2. How can I make an appointment for pre-departure PCR testing?
 
