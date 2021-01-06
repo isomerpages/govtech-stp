@@ -1,7 +1,4 @@
----
-title: Information for Singapore Citizens and Permanent Residents
-permalink: /malaysia/pca/information-sc-pr
----
+
 
 *This page provides information for Singapore Citizens and Permanent Residents who work in Malaysia and intend to return to Singapore for short-term home leave under the terms of the PCA. For Singapore-based companies that wish to apply for their Malaysian employees to enter/re-enter Singapore under the PCA, click [here](malaysia/pca/requirements-and-process) instead for more information.*
 
