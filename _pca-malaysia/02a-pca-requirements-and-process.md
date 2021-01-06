@@ -1,7 +1,4 @@
----
-title: Requirements & Process
-permalink: /malaysia/pca/requirements-and-process
----
+
 
 *This page provides information for Singapore-based companies that wish to apply for their Malaysian employees to enter or re-enter Singapore under the terms of the PCA. For Singapore citizens and Singapore Permanent Residents working in Malaysia, click [here](/malaysia/pca/information-sc-pr) for more information on arrangements for returning to Singapore under the PCA.*
 
