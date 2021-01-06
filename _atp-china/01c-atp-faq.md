@@ -219,7 +219,7 @@ There is no need for visitors to apply for approval to take a COVID-19 nucleic a
 
 #### 35. I need to take a pre-departure COVID-19 test to meet the entry requirements of my next onward destination after my stay in Singapore. How can I take a pre-departure COVID-19 test in Singapore?
 
-The pre-departure COVID-19 test may only be administered at the clinics listed [here](https://go.gov.sg/covid19pcrtestproviders).
+The pre-departure COVID-19 test may only be administered at the clinics listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers).
 
 Please contact a listed clinic and make an appointment as early as possible. If you do not make a prior appointment, there is no guarantee that there will be a time slot for you; and you may not get your results in time for your departure flight.
 
