@@ -1,7 +1,3 @@
----
-title: Apply Now
-permalink: /malaysia/pca/apply-now
----
 
 <table>
   <thead>
