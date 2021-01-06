@@ -3,7 +3,7 @@
 
 #### 1. Where can I take the pre-departure Polymerase Chain Reaction (PCR) test?
 
-Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://go.gov.sg/covid19pcrtestproviders). 
+Pre-departure COVID-19 PCR tests for your travel may only be performed at [selected clinics as listed](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
 #### 2. How can I make an appointment for pre-departure PCR testing?
 

@@ -350,7 +350,7 @@ As the specific requirements may change over time, RGL travelers returning to th
 
 #### 28. At which clinics can I take the pre-departure COVID-19 Polymerase Chain Reaction (PCR) and serology test? 
 
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for fast lane travellers.
+Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for fast lane travellers.
 
 Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment
 
