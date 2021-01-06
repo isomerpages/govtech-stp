@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /malaysia/pca/faq
----
+
 
 ### **General**
 
