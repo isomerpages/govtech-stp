@@ -93,6 +93,15 @@ When the SafeTravel Pass-RGL application is approved, an approval letter will be
   </tr>
 </thead>
   <tr>
+    <td style="font-size:16px;"><b>Pre-departure</b></td>
+    <td style="font-size:16px;">Application sponsors should submit the following before the traveller’s departure to Singapore, <a href="https://eservices.ica.gov.sg/STO">here</a>:
+      <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure.</li>
+         </ol>    
+    </td>
+  </tr> 
+  <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure/ Pre-boarding clearance</b></td>
     <td style="font-size:16px;">Approved RGL travellers must produce the following documents when leaving for Singapore:
       <ol style="margin-top:0px; list-style-type: disc;">
