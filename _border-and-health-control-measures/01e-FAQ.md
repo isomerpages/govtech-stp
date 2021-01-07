@@ -50,13 +50,11 @@ Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are b
 
 Please click [here](/rgl/overview) to find out more on the Reciprocal Green Lane arrangements.  
 
-#### 7.	I have recovered from COVID-19, am I required to undergo the pre-departure test before entry into Singapore? 
+#### 7.	I have recovered from COVID-19. Can I still travel to Singapore if I test positive on my COVID-19 PCR test within 72 hours before departure? 
 
-Individuals who were previously diagnosed with COVID-19 infection will still be required to take a COVID-19 PCR test within 72 hours before departure for Singapore. Children aged 6 and below (in the calendar year) are currently exempted from the pre-departure PCR test. 
+If the pre-departure COVID-19 PCR test result is positive, the recovered individual must be able to provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result in English with the date of test and traveller’s identification details clearly stated. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. The documentary proof should be presented to the airline before boarding and to the immigration officers at the checkpoints in Singapore. If unable to provide documentary proof, the recovered individual will be denied boarding for flights bound for Singapore.
 
-If the pre-departure COVID-19 PCR test result is positive, the recovered individual must also provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. The documentary proof should be presented to the airline before boarding and to the immigration officers at the checkpoints in Singapore.
-
-Please note that individuals will be denied boarding for flights bound for Singapore if they have a recent diagnosis of COVID-19 infection in the past 21 days.
+Please also note that individuals with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding for flights bound for Singapore. 
 
 #### 8. I have received a COVID-19 vaccination. Do I need to declare my vaccinated status? Will I still be subjected to prevailing border measures and stay-home-notice requirements?
 
