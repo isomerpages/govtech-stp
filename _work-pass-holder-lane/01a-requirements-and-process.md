@@ -157,6 +157,25 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
   </tr>
+</tbody>
+<thead>
+  <tr>
+    <th colspan="2" style="font-size:16px;">7 days after completing SHN<th>
+  </tr>
+  </thead>
+<tbody>
+   <tr>
+    <td style="font-size:16px;"><b>7-day enhanced testing for workers residing in dormitories only</b></td>
+    <td style="font-size:16px;">Newly arrived migrant workers staying in dormitories will be subjected to an additional 7-day testing regime. For more details, please refer to MOM's <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0105-additional-testing-regime-for-newly-arrived-foreign-workers">press release</a>.<br/><br/>
+    </td>
+  </tr>
+  </tbody>
+<thead>          
+    <tr>
+    <th colspan="2" style="font-size:16px;">After completion of isolation<th>
+    </tr>
+</thead>
+<tbody>
     <tr>
     <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:16px;">All travellers are to abide by prevailing local public health requirements and safe distancing measures and encouraged to use <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.safeentry.gov.sg/">SafeEntry</a> so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.
