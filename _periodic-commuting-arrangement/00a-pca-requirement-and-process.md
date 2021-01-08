@@ -50,7 +50,7 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
        </li>
       </ol>   
     <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
-<br/><br/>
+<br/>
     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of Singapore Permanent Residents who are Malaysian nationals, should:</b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
