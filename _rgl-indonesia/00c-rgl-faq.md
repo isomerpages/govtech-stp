@@ -170,7 +170,7 @@ Note that all Short-Term Pass holders will be accorded the necessary medical tre
 
 MOH’s contact tracing officers will assess who among the close contacts should be placed on quarantine and a quarantine order (QO) will be issued. A QO is a legal order issued to individuals under the Infectious Diseases Act, for more information, you may refer to this [link](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders). 
 
-For travellers that requires to extend their visit pass/stay, please refer to Question 16. 
+For travellers that requires to extend their visit pass/stay, please contact the enquiries via <COVID_SafeTravelEnquiries@mti.gov.sg>.  
 
 ### **Health Measures in Singapore**
 
