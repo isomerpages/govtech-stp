@@ -87,7 +87,7 @@ Payment for the mandatory COVID-19 PCR test for each employee is required at the
 
 #### 16. What is the duration of stay in Singapore that my employee will be eligible for under PCA?  Can I extend the PCA period for my employee?
 
-The duration of stay in Singapore is tied to the validity of the employee’s long-term work pass for business and work (for employees who are work pass holders), or the validity of the employee’s PR status in Singapore (for employees who are Singapore PRs)
+The duration of stay in Singapore is tied to the validity of the employee’s long-term work pass for business and work (for employees who are work pass holders), or the validity of the employee’s PR status in Singapore (for employees who are Singapore PRs).
 
 Should the employee leave Singapore, employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
 
@@ -95,7 +95,7 @@ Should the employee leave Singapore, employers will only be able to apply for a 
 
 No. The PCA application is only for travellers holding either a valid long-term work pass in Singapore for business and work purposes, or for those who have Singapore PR status.
 
-Travellers seeking to enter Singapore for study may wish to visit https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders for more information
+Travellers seeking to enter Singapore for study may wish to visit https://www.ica.gov.sg/news-and-publications/media-releases/media-release/entry-approval-required-for-all-long-term-pass-holders for more information.
 
 #### 18. Do I need a new application each time my employee wants to enter Singapore after their home leave?
 
