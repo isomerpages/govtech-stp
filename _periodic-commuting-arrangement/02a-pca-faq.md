@@ -67,13 +67,13 @@ Should another employee require to enter Singapore under PCA, a separate applica
 
 They may apply for an entry approval with [MOM](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore).
 
-#### 12. My employee has an in-principle approval or Letter of Consent (LOC), can I apply for PCA?
+#### 12. Can the family member of my employee who is a Singapore Permanent Resident enter Singapore with my employee, if my employee receives an approved PCA application?
 
 They should apply for an entry approval with [ICA](https://www.ica.gov.sg/).
 
 #### 13. My employee has an in-principle approval or Letter of Consent (LOC), can I apply for PCA?
 
-No. Please apply for an entry approval with MOM. Those on LTVPs issued by ICA need to request for ICA’s entry approval, even if they have LOCs issued by MOM.
+No. Please apply for an entry approval with [MOM](http://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore). Those on LTVPs issued by ICA need to request for [ICA's](https://www.ica.gov.sg/) entry approval, even if they have LOCs issued by MOM.
 
 #### 14. Can I apply for a PCA if my employee is entering Singapore from Malaysia via air or sea?
 
@@ -188,7 +188,7 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 
 Your employee is required to undergo a COVID-19 PCR test on the 12th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 9th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
-If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 9th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number. 
+If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 9th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
 
 #### 34. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
@@ -229,21 +229,21 @@ The employee under the PCA is required to undergo a COVID-19 PCR test on the ass
 
 COVID-19 PCR test results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. While awaiting test results, individuals should continue to observe the SHN period in his/her declared SHN residence.
 
-If the employer does not receive a notification containing the results of the employee’s COVID-19 PCR test results within 2 days of the test, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number
+If the employer does not receive a notification containing the results of the employee’s COVID-19 PCR test results within 2 days of the test, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number.
 
 #### 41. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
 
 **(i) For employers of long term work pass holders (LTPHs) who enter Singapore under the PCA:**
 
-If your employee develops onset of symptoms of COVID-19 within 14 days of their return to Singapore, the employer/employee will bear the costs of the medical treatment, subject to MOM’s requirements. Employees may tap on prevailing financing arrangements to fund the costs of their medical treatment.
+If your employee develops onset of symptoms of COVID-19 <u>within 14 days</u> of their return to Singapore, the employer/employee will bear the costs of the medical treatment, subject to <a href="https://mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">MOM’s requirements</a>. Employees may tap on prevailing financing arrangements to fund the costs of their medical treatment.
 
-If your employee develops onset of symptoms of COVID-19 after 14 days of their return, the costs of their medical treatment will be borne by the Singapore Government.
+If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of their return, the costs of their medical treatment will be borne by the Singapore Government.
 
 **(ii) For employers of Singapore PRs who enter Singapore under the PCA;**
 
-If your employee develops onset of symptoms of COVID-19 within 14 days of their return to Singapore, they will be able to tap on regular healthcare financing arrangements for their medical bills – Singapore PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills.
+If your employee develops onset of symptoms of COVID-19 <u>within 14 days</u> of their return to Singapore, they will be able to tap on regular healthcare financing arrangements for their medical bills – Singapore PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills.
 
-If they develop onset of symptoms of COVID-19 after 14 days of their return to Singapore, the costs of their medical treatment will be borne by the Government. 
+If they develop onset of symptoms of COVID-19 <u>after 14 days</u> of their return to Singapore, the costs of their medical treatment will be borne by the Government. 
 For avoidance of doubt, please refer to the table below on how charges for returning Singapore PRs and LTPHs will apply.
 
 <table>
@@ -258,7 +258,7 @@ For avoidance of doubt, please refer to the table below on how charges for retur
   <tr>
     <td>1</td>
     <td>Left SG before 27 March 2020</td>
-    <td>Government currently bears the costs of COVID-19 treatment. <br/>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
+    <td>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
  <!-- <tr>
     <td>2</td>
@@ -273,7 +273,7 @@ For avoidance of doubt, please refer to the table below on how charges for retur
 </tbody>
 </table>
 
-If you develop onset of symptoms of COVID-19 after 14 days of your arrival into Singapore, the costs of medical treatment will be borne by the Government.
+If you develop onset of symptoms of COVID-19 <u>after 14 days</u> of your arrival into Singapore, the costs of medical treatment will be borne by the Government.
 
 #### 42. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
 
@@ -297,7 +297,7 @@ For avoidance of doubt, please refer to the table below on how charges for retur
   <tr>
     <td>1</td>
     <td>Left SG before 27 March 2020</td>
-    <td>Government currently bears the costs of COVID-19 treatment. <br/>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
+    <td>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
   </tr>
  <!-- <tr>
     <td>2</td>
@@ -337,7 +337,7 @@ SHN dedicated hotels will be assigned to affected PCA travellers upon their arri
 
 #### 46. What are the costs for utilising the dedicated SHN facilities?
 
-A 14-day SHN at the dedicated SHN facility will cost S$2000 (inclusive of GST). 
+A 14-day SHN at the dedicated SHN facility will cost S$2,000 (inclusive of GST). 
 
 #### 47. Can I change the PCA entry date for employees who have a travel history in Malaysia?
 
