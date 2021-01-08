@@ -5,7 +5,7 @@ permalink: /indonesia/rgl/requirements-and-process
 
 <div id="notice"></div>
 <b><span style="color:red">IMPORTANT NOTICE</span> </b> <br/>
-<span style="font-size:16px; line-height:1.0; color:red;">On 28 December 2020, Indonesia announced a temporary ban on the entry of all foreign nationals into Indonesia from <u>1 to 14 January 2021</u>. The Indonesian government has notified MFA that this ban would also apply to foreign nationals travelling to Indonesia under all of Indonesia’s Travel Corridor Arrangements (TCA) with other countries. Hence, Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane (RGL) / TCA during this period. <br><br>Given the reciprocal nature of this travel arrangement, <u>travellers will also not be able to apply to travel from Indonesia to Singapore under the Singapore-Indonesia RGL / TCA during this period</u>. Travellers who have already received approval to enter Singapore under the Singapore-Indonesia RGL / TCA can continue to do so. The full statement from MFA on this matter can be found <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">here</a>.
+<span style="font-size:16px; line-height:1.0; color:red;">On 28 December 2020, Indonesia announced a temporary ban on the entry of all foreign nationals into Indonesia. The Indonesian government has notified MFA that this ban would also apply to foreign nationals travelling to Indonesia under all of Indonesia’s Travel Corridor Arrangements (TCA) with other countries. Hence, Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane (RGL) / TCA. <br><br>Given the reciprocal nature of this travel arrangement, <u>travellers will also not be able to apply to travel from Indonesia to Singapore under the Singapore-Indonesia RGL / TCA </u>. Travellers who have already received approval to enter Singapore under the Singapore-Indonesia RGL / TCA can continue to do so. 
 </span>
 
 ### 1. Eligibility
@@ -28,7 +28,7 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit RGL application</b></td>
-    <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="/apply-now">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days, excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
+    <td style="font-size:16px;"> New applications under the Singapore-Indonesia RGL are currently suspended. <br><br>Travellers who already have existing RGL approvals may continue to utilise the RGL to enter Singapore. <!--<b> Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="/apply-now">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days, excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Application sponsors should:</p>
 <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have on hand the following details as part of the submission:
@@ -47,7 +47,7 @@ Business or official travellers that are Indonesian citizens and are seeking to 
 <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.5;">Inform the traveller of the relevant RGL terms and conditions as part of the application, found here.</li>
   </li>
 </ol>
-When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. 
+When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. -->
  </td>
   </tr>
   </tbody>
