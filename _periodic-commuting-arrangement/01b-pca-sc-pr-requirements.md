@@ -1,7 +1,7 @@
 ---
 title: Returning to Singapore for Short-Term Home Leave
 permalink: /pca/scpr-requirement-and-process
-third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
+third_nav_title: Singapore Citizens/PRs Working in Malaysia
 ---
 
 **Notice:** *As there has been a recent increase in COVID-19 cases in Malaysia, **PCA travellers entering Singapore from 22 November 2020, 2359 hours**, who have a travel history in the past 14 days to Malaysia **will now be required** to serve <u>a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities(with no opt-out option).</u>* 
