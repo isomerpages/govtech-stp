@@ -1,7 +1,7 @@
 ---
 title: Entering Malaysia for Work
 permalink: /pca/SCPR-entering-malaysia
-third_nav_title: Singapore Citizens/PRs Holding Malaysia Work Pass
+third_nav_title: Singapore Citizens/PRs Working in Malaysia
 ---
 ### **Singapore Citizens and Permanent Residents Applying to Work in Malaysia**
 
