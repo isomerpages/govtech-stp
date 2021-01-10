@@ -243,76 +243,15 @@ If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of 
 
 If your employee develops onset of symptoms of COVID-19 <u>within 14 days</u> of their return to Singapore, they will be able to tap on regular healthcare financing arrangements for their medical bills – Singapore PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills.
 
-If they develop onset of symptoms of COVID-19 <u>after 14 days</u> of their return to Singapore, the costs of their medical treatment will be borne by the Government. 
-For avoidance of doubt, please refer to the table below on how charges for returning Singapore PRs and LTPHs will apply.
-
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Scenarios</th>
-    <th>Charging Policy for C+ treatment</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1</td>
-    <td>Left SG before 27 March 2020</td>
-    <td>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
-  </tr>
- <!-- <tr>
-    <td>2</td>
-    <td>Left SG before 27 March 2020 and returning from 1 Jan 2021 onwards</td>
-    <td>Eligible for subsidies + Medishield + Medisave</td>
-  </tr>-->
-  <tr>
-    <td>2</td>
-    <td>Left SG after 27 March 2020 </td>
-    <td>Chargeable. <br/>SC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.</td>
-  </tr>
-</tbody>
-</table>
-
-If you develop onset of symptoms of COVID-19 <u>after 14 days</u> of your arrival into Singapore, the costs of medical treatment will be borne by the Government.
+If your employee develops onset of symptoms of COVID-19 <u>after 14 days</u> of their return to Singapore, the costs of their medical treatment will be borne by the Singapore Government. 
 
 #### 42. I am a Singapore Citizen/PR under the Malaysia-issued PCA returning to Singapore for short-term home leave. What if I test positive for COVID-19 in Singapore? Who will pay for my medical treatment?
 
 Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
 
-For Singapore Citizens/PRs and LTPHs, charges for COVID-19 treatment will apply if symptoms develop within the first 14 days of their return to Singapore. They will be able to tap on regular healthcare financing arrangements for their medical bills – SCs/PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills, while LTPHs may tap on their usual financing arrangements (e.g., private insurance), where applicable.
+For Singapore Citizens/PRs and LTPHs, charges for COVID-19 treatment will apply if symptoms develop <u>within the first 14 days</u> of their return to Singapore. They will be able to tap on regular healthcare financing arrangements for their medical bills – SCs/PRs may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills, while LTPHs may tap on their usual financing arrangements (e.g., private insurance), where applicable.
 
-If they develop onset of symptoms of COVID-19 after 14 days of their return to Singapore, the costs of their medical treatment will be borne by the Government. 
-
-For avoidance of doubt, please refer to the table below on how charges for returning Singapore Citizens/PRs and LTPHs will apply.  
-
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Scenarios</th>
-    <th>Charging Policy for C+ treatment</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>1</td>
-    <td>Left SG before 27 March 2020</td>
-    <td>With effect from 1 January 2021, returning SC/PR/LTPH travellers will be responsible for charges for COVID-19 treatment, but may tap on regular healthcare financing arrangements for their medical bills.</td>
-  </tr>
- <!-- <tr>
-    <td>2</td>
-    <td>Left SG before 27 March 2020 and returning from 1 Jan 2021 onwards</td>
-    <td>Eligible for subsidies + Medishield + Medisave</td>
-  </tr>-->
-  <tr>
-    <td>2</td>
-    <td>Left SG after 27 March 2020 </td>
-    <td>Chargeable. <br/>SC/PR/LTPH travellers may tap on regular healthcare financing arrangements for their medical bills.</td>
-  </tr>
-</tbody>
-</table>
-
-If you develop onset of symptoms of COVID-19 <u>after 14 days of your</u> arrival into Singapore, the costs of medical treatment will be borne by the Government.
+If they develop onset of symptoms of COVID-19 <u>after 14 days</u> of their return to Singapore, the costs of their medical treatment will be borne by the Singapore Government.
 
 ### **Returning to Malaysia**
 
