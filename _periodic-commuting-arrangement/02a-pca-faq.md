@@ -27,7 +27,7 @@ For Singapore citizens, you <u><b>do not</b></u> need any entry approval to retu
 
 #### 5. I am a Malaysian citizen and a Singapore PR. I am currently in Singapore but I want to return to Malaysia. Do I need the PCA to return to Malaysia?
 
-Entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs <www.kln.gov.my>, the Malaysian Immigration Department <www.imi.gov.my> or the Malaysian High Commission in Singapore <https://www.kln.gov.my/web/sgp_singapore> for further advice.
+Entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs <https://www.kln.gov.my>, the Malaysian Immigration Department <https://www.imi.gov.my> or the Malaysian High Commission in Singapore <https://www.kln.gov.my/web/sgp_singapore> for further advice.
 
 Singapore PRs working in Singapore also have the option to apply for PCA through their Singapore employers to facilitate their home leave in Malaysia. For Singapore PRs who apply for PCA, they will also have to adhere to the PCA [Requirements and Process](/pca/requirements-and-process). 
 
