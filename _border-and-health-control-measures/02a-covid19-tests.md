@@ -18,7 +18,7 @@ The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwi
 
 #### PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to [take a PCR test within 72 hours](/health/faq) before departing to Singapore. Click [here](/arriving/overview) to find out details on the various Safe Travel lanes and requirements.
+Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to [take a PCR test within 72 hours](/health/faq/#inboundPDT) before departing to Singapore. Click [here](/arriving/overview) to find out details on the various Safe Travel lanes and requirements.
 
 #### PCR Test in Singapore
 
