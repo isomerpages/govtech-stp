@@ -21,11 +21,6 @@ links:
         url: /connectsg/overview
   - title: Border and Health Control Measures
     url: /health
-    sublinks:
-      - title: Travelling to Singapore
-        url: /health/before-arriving
-      - title: Departing from Singapore
-        url: /departing/overview
   - title: Apply Now
     url: /apply-now
   - title: FAQ
