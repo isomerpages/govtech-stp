@@ -1,9 +1,7 @@
 ---
-title: Travel Health Control Measures
+title: Overview
 permalink: /health
 ---
-
-### Overview
 
 Singapore is reopening its borders in a controlled and safe manner to maintain its status as an international hub. To minimise the public health risks associated with the border reopening, all travellers may be required to observe the relevant health control measures, below:
 
