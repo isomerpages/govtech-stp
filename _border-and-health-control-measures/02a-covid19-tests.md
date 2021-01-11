@@ -57,3 +57,46 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
   </tbody>
   </table>
 
+All travellers would be informed of their PCR test results verbally by phone or in person. No other hardcopy or softcopy report will be issued. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
+
+### Serology Test
+
+Unlike the COVID-19 Polymerase Chain Reaction test (“PCR test”) which detects active COVID-19 infections, a serological test detects antibodies for COVID-19 from a past COVID-19 infection. Subject to further assessment, travellers with a history of infection from COVID-19 may be required to undergo serology tests on arrival in Singapore to confirm their recovered status. The cost of the tests would be borne by the travellers.
+
+A serological test entails the taking of a blood sample from an individual to test for the presence of antibodies produced in the human body to fight an infection. In general, individuals are likely to test positive for their serological test if they had contracted COVID-19 more than 10 to 14 days before the test.
+
+### Pre-Departure Test
+
+Travellers required by the destination country/region to take a COVID-19 test in Singapore before departure can do so at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
+
+#### Making an appointment
+
+Travellers are responsible to check if the test conducted by the clinic meets the testing requirements of the destination country/region. This includes whether a COVID-19 test is still necessary if the traveller is suffering from an acute respiratory infection (ARI). Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time. Click here for an example on when the COVID-19 test should be scheduled.
+
+Any cost incurred for travel-related tests will be borne by the traveller, which the traveller can enquire with the clinic before making an appointment.
+
+To make an appointment, travellers should have the following information ready:
+- Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass Holders only and passport (for all travellers)
+- Departure flight timing (if applicable)
+- Possible times for your test slot
+- Address in Singapore
+- Contact number
+- Email address to receive the result memo
+
+#### Day of Appointment 
+
+On the day of the PCR test appointment, travellers will be asked to present the following: 
+- Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass Holders only and passport (for all travellers)
+- Softcopy booking reference showing your departure flight timing (if applicable)
+- Fees for COVID-19 Pre-Departure Test – Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos
+
+#### Issuance of Digital Certificates
+
+Clinics administering the pre-departure test may issue digital COVID-19 test result certificates using [vendors familiar with the HealthCerts standard](https://www.healthcerts.gov.sg/list-of-providers/). This provides travellers with verifiable digital travel credentials based on Singapore’s HealthCert [schema](https://www.healthcerts.gov.sg/schema/) and [standards](https://www.healthcerts.gov.sg/digital-standards/) for a smoother travel/immigration clearance process. 
+
+Please approach your healthcare provider for more details on whether they provide the digital certificates, and how to present these certificates for travel purposes.
+
+
+
+
+
