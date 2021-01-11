@@ -16,7 +16,7 @@ Requirements for SHN or COVID-19 PCR tests are specific to individual [Safe Trav
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px;"><b>7-day SHN:</b><br/>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><b>7-day SHN:</b><br/>
 Traveller A arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 8 March 2021, 12 pm.<br/>
 <b>14-day SHN:</b><br/>
 Traveller B arrived in Singapore on 1 March 2021. Her SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, 12 pm.     
