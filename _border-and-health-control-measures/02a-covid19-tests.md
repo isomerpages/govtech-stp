@@ -11,6 +11,7 @@ Multiple COVID-19 test kits and methodologies exist in the market today. However
  A [pre-departure test](#pdt) may also be required for entry into Singapore or to a destination country/region.
 
 <div id="pcrtest"></div>
+
 ### COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
 
 The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwide to as the most accurate and reliable test to detect active COVID-19 infections. A PCR test is generally administered by a trained professional who will take a swab sample from the nose and/or throat of a traveller. In Singapore’s context, all inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be PCR-tested before and/or upon arrival.
