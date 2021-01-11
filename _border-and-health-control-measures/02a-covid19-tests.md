@@ -62,6 +62,7 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
 All travellers would be informed of their PCR test results verbally by phone or in person. No other hardcopy or softcopy report will be issued. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
 
 <div id="serology"></div>
+
 ### Serology Test
 
 Unlike the COVID-19 Polymerase Chain Reaction test (“PCR test”) which detects active COVID-19 infections, a serological test detects antibodies for COVID-19 from a past COVID-19 infection. Subject to further assessment, travellers with a history of infection from COVID-19 may be required to undergo serology tests on arrival in Singapore to confirm their recovered status. The cost of the tests would be borne by the travellers.
