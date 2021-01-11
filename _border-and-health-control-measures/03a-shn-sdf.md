@@ -51,7 +51,7 @@ To limit the spread of COVID-19, several hotels in Singapore have been designate
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Are using Safe Travel Lanes from countries/regions eligible for SDF opt-out (refer to table <a href="/files/SHN-and-swab-summary.pdf">here</a>), where they have remained for the past 14 days before departure, and will serve their SHN at their own residence:
           <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
-            <li style="margin-top:0px; margin-bottom:0px; font-size:20px;> Alone, i.e. no domestic helper(s); or</li>
+            <li style="margin-top:0px; margin-bottom:0px; font-size:20px;> Alone, i.e. no domestic helper(s); or </li>
                        <li style="margin-top:0px; margin-bottom:0px; font-size:20px;> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
         </ol>
            </td>
