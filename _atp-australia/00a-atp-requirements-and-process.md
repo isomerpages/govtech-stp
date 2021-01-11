@@ -11,7 +11,7 @@ permalink: /australia/atp/requirements-and-process
  
 ### 2. Submit Applications for Air Travel Pass and Visa
 
-<table>
+<table> 
 <thead>
   <tr>
     <th colspan="2" style="font-size:16px;">Between 7 and 30 calendar days before intended date of entry into Singapore</th>
