@@ -1,8 +1,10 @@
 ---
 title: Frequently Asked Questions
 permalink: /health/FAQ
-third_nav_title: Travelling to Singapore
+third_nav_title: COVID-19 Tests
 ---
+
+<div id="inboundPDT"></div>
 
 ## **Pre-Departure Test for travellers departing to Singapore** 
 
@@ -96,3 +98,4 @@ Yes. Children aged 12 and under (in that calendar year) who fit the suspect case
 ## **Border and Health Control Measures in Singapore**
 
 FAQs on border and health control measures can be found on ICA's website <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=75054" target="_blank">here</a>.
+
