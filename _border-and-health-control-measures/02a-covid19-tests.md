@@ -33,7 +33,7 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px;">On arrival in Singapore</td>
+      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Changi Airport</td>
        <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">$160</td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><a href="https://safetravel.changiairport.com/#/">Here</a></td>
