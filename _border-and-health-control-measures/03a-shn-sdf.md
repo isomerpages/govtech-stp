@@ -44,7 +44,7 @@ To limit the spread of COVID-19, several hotels in Singapore have been designate
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px;">Suffer from critical illness, special medical condition, or have mobility issues
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;">Suffer from critical illness, special medical condition, or have mobility issues
 </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
