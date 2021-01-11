@@ -5,22 +5,23 @@ permalink: /health/covid19-tests
 
 Multiple COVID-19 test kits and methodologies exist in the market today. However, in the context of travel, Singapore relies on two types of tests, below, to detect and monitor the transmission of COVID-19.
 
- 1. COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
- 2. Serology/Serological Test
+ 1. [COVID-19 Polymerase Chain Reaction Test (“PCR Test”)](#pcrtest)
+ 2. [Serology/Serological Test](#serology)
  
- A pre-departure test may also be required for entry into Singapore or to a destination country/region.
+ A [pre-departure test](#pdt) may also be required for entry into Singapore or to a destination country/region.
 
+<div id="pcrtest"></div>
 ### COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
 
 The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwide to as the most accurate and reliable test to detect active COVID-19 infections. A PCR test is generally administered by a trained professional who will take a swab sample from the nose and/or throat of a traveller. In Singapore’s context, all inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be PCR-tested before and/or upon arrival.
 
 #### PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. Click here to find out details on the various Safe Travel lanes and requirements.
+Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to [take a PCR test within 72 hours](/health/faq) before departing to Singapore. Click [here](/arriving/overview) to find out details on the various Safe Travel lanes and requirements.
 
 #### PCR Test in Singapore
 
-When a PCR test should be taken in Singapore will depend on the traveller’s country of departure/14-day travel history and Safe Travel Lane used. The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
+When a PCR test should be taken in Singapore will depend on the traveller’s country of departure/14-day travel history and [Safe Travel Lane](/arriving/overview) used. The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
 
 <table>
   <thead>
@@ -59,11 +60,14 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
 
 All travellers would be informed of their PCR test results verbally by phone or in person. No other hardcopy or softcopy report will be issued. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
 
+<div id="serology"></div>
 ### Serology Test
 
 Unlike the COVID-19 Polymerase Chain Reaction test (“PCR test”) which detects active COVID-19 infections, a serological test detects antibodies for COVID-19 from a past COVID-19 infection. Subject to further assessment, travellers with a history of infection from COVID-19 may be required to undergo serology tests on arrival in Singapore to confirm their recovered status. The cost of the tests would be borne by the travellers.
 
 A serological test entails the taking of a blood sample from an individual to test for the presence of antibodies produced in the human body to fight an infection. In general, individuals are likely to test positive for their serological test if they had contracted COVID-19 more than 10 to 14 days before the test.
+
+<div id="pdt"></div>
 
 ### Pre-Departure Test
 
