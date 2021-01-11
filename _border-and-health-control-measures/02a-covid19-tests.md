@@ -71,7 +71,7 @@ Travellers required by the destination country/region to take a COVID-19 test in
 
 #### Making an appointment
 
-Travellers are responsible to check if the test conducted by the clinic meets the testing requirements of the destination country/region. This includes whether a COVID-19 test is still necessary if the traveller is suffering from an acute respiratory infection (ARI). Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time. Click here for an example on when the COVID-19 test should be scheduled.
+Travellers are responsible to check if the test conducted by the clinic meets the testing requirements of the destination country/region. This includes whether a COVID-19 test is still necessary if the traveller is suffering from an acute respiratory infection (ARI). Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time. Click [here](/files/example-for-swab.pdf) for an example on when the COVID-19 test should be scheduled.
 
 Any cost incurred for travel-related tests will be borne by the traveller, which the traveller can enquire with the clinic before making an appointment.
 
