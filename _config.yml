@@ -55,6 +55,8 @@ collections:
     output: true
   border-and-health-control-measures:
     output: true
+  travel-and-health-control-measures:
+    output: true
   work-pass-holder-lane:
     output: true
   student-pass-holder-lane:
