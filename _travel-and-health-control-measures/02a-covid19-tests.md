@@ -1,8 +1,9 @@
 ---
-title: Overview
+title: COVID-19 Tests
 permalink: /health/covid19-tests
-third_nav_title: COVID-19 Tests
 ---
+
+## Overview
 
 Multiple COVID-19 test kits and methodologies exist in the market today. However, in the context of travel, Singapore relies on two types of tests, below, to detect and monitor the transmission of COVID-19.
 
