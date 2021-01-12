@@ -95,7 +95,4 @@ You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the 
 
 Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test. 
 
-## **Border and Health Control Measures in Singapore**
-
-FAQs on border and health control measures can be found on ICA's website <a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx?Category=75054" target="_blank">here</a>.
 
