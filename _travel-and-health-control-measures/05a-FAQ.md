@@ -83,7 +83,26 @@ If you are granted approval to serve SHN at your residence due to extenuating ci
 
 If you are sharing a house with non-family members, stay in your own room as much as possible and use a dedicated toilet if possible.
 
-####
+<u><b>Application for Opt-Out due to Extenuating Reasons</b></u>
+- Returning Singaporeans or Permanent Residents may submit an application to opt-out via <https://go.gov.sg/shnhotelneeds>. 
+- Short-term visitors and ICA-issued Long-Term Visit Pass Holders may submit an application to ICA_nCOV_Request@ica.gov.sg.
+
+<u><b>Non-Extenuating Reasons</b></u>
+
+If you are arriving from select countries/regions and are able to meet the criteria* below, you may opt-out of dedicated SHN facilities and serve SHN at your place of residence. Please refer to this [table](/files/SHN-and-swab-summary.pdf) for the list of eligible countries/regions and the criteria for opt-out. 
+
+* Your residence would be suitable for SHN if you:
+- Have travelled to no other country/region/place other than the listed countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
+- Are occupying the place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
+- There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and you have already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
+
+<u><b>Application for Opt-Out due to Non-Extenuating Reasons</b></u>
+- Returning Singaporeans or Permanent Residents may submit an application to opt-out via <https://go.gov.sg/shnhotelneeds>. 
+- Short-term visitors and ICA-issued Long-Term Visit Pass Holders may choose to opt-out as part of the entry application process.
+
+Please note that any prior approval given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable. 
+
+#### 11. 
 ####
 ####
 ####
