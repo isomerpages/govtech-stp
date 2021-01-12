@@ -3,6 +3,32 @@ title: Frequently Asked Questions
 permalink: /health/FAQ
 ---
 
+## Click to jump to the following sections:
+
+ 1. [Stay Home Notice (SHN) and Dedicated SHN Facility]
+ 2. [Transport arrangements during SHN]
+ 3. [COVID-19 PCR Test]
+ 4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
+
+
+## Stay Home Notice (SHN) and Dedicated SHN Facility
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+    <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">1
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><b>Singapore Citizens/ Permanent Residents</b><br/><br/> Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the link <a href="go.gov.sg/shnhotelneeds">go.gov.sg/shnhotelneeds</a>. All requests will be assessed on a case-by-case basis.<br/><br/><b>Long-Term Pass Holder</b><br/><br/>Long-Term Pass Holders will have to secure a suitable accommodation to serve their SHN in prior to their arrival in Singapore.
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
+
 <div id="inboundPDT"></div>
 
 ## **Pre-Departure Test for travellers departing to Singapore** 
