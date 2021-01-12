@@ -19,13 +19,13 @@ The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwi
 
 #### PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to [take a PCR test within 72 hours](/health/faq/#inboundPDT) before departing to Singapore. Click [here](/arriving/overview) to find out details on the various Safe Travel lanes and requirements.
+Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. Click [here](/files/SHN-and-swab-summary.pdf) for the quick overview.
 
 <div id="price"></div>
 
 #### PCR Test in Singapore
 
-When a PCR test should be taken in Singapore will depend on the traveller’s country of departure/14-day travel history and [Safe Travel Lane](/arriving/overview) used. The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
+When a PCR test should be taken in Singapore will depend on the traveller’s country of departure/14-day travel history and [Safe Travel Lane](/arriving/overview) used. Click [here](/files/SHN-and-swab-summary.pdf) for the quick overview. The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
 
 <table>
   <thead>
@@ -62,13 +62,13 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
   </tbody>
   </table>
 
-All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
+All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. No other hardcopy or softcopy report would be issued.
 
 <div id="serology"></div>
 
 ### Serology Test
 
-Unlike the COVID-19 Polymerase Chain Reaction test (“PCR test”) which detects active COVID-19 infections, a serological test detects antibodies for COVID-19 from a past COVID-19 infection. Subject to further assessment, travellers with a history of infection from COVID-19 may be required to undergo serology tests on arrival in Singapore to confirm their recovered status. The cost of the tests would be borne by the travellers.
+Unlike the COVID-19 Polymerase Chain Reaction test (“PCR test”) which detects active COVID-19 infections, a serological test detects antibodies for COVID-19 from a past COVID-19 infection. Subject to further assessment, travellers with a history of infection from COVID-19 may be  required to undergo serology tests on arrival in Singapore to confirm their recovered status. The cost of the tests would be borne by the travellers.
 
 A serological test entails the taking of a blood sample from an individual to test for the presence of antibodies produced in the human body to fight an infection. In general, individuals are likely to test positive for their serological test if they had contracted COVID-19 more than 10 to 14 days before the test.
 
@@ -80,9 +80,9 @@ Travellers required by the destination country/region to take a COVID-19 test in
 
 #### Making an appointment
 
-Travellers are responsible to check if the test conducted by the clinic meets the testing requirements of the destination country/region. This includes whether a COVID-19 test is still necessary if the traveller is suffering from an acute respiratory infection (ARI). Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time. Click [here](/files/example-for-swab.pdf) for an example on when the COVID-19 test should be scheduled.
+Travellers are responsible to check if the test conducted by the clinic meets the testing requirements of the destination country/region. Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time.
 
-Any cost incurred for travel-related tests will be borne by the traveller, which the traveller can enquire with the clinic before making an appointment.
+Any cost incurred for travel-related tests will be borne by the traveller, which the traveller can enquire with the clinic before making an appointment. Government subsidies will not be given for these tests.
 
 To make an appointment, travellers should have the following information ready:
 - Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass Holders only and passport (for all travellers)
