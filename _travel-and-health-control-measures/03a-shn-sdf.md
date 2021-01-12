@@ -5,7 +5,7 @@ permalink: /health/shn
 
 ### Overview 
 
-SHNs are legal notices issued under Singapore’s Infectious Diseases Act, to require a person to remain at their place of residence or Stay-Home Notice Dedicated Facility ([SDF](#sdf)) at all times for a stipulated period. Any breach in the SHN requirements is punishable under Singapore laws, which can amount to an imprisonment term and/or fine. Additional punitive measures such as the cancellation of the work pass could also be taken by the relevant authorities.
+SHNs are legal notices issued under Singapore’s Infectious Diseases Act, to require a person to remain at their place of residence or Stay-Home Notice Dedicated Facility ([SDF](#sdf)) at all times for a stipulated period. Any breach in the SHN requirements is punishable under Singapore laws, which can amount to an imprisonment term and/or fine. Additional punitive measures such as the cancellation of long term visit passes could also be taken by the relevant authorities.
 
 Depending on the travellers’ travel history and safe travel lane used to enter Singapore, travellers may be issued with a 7 or 14-day SHN with a mandatory [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests) conducted towards the end of the SHN.
 
