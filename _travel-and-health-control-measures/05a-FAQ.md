@@ -5,9 +5,11 @@ permalink: /health/FAQ
 
 ## Click to jump to the following sections:
 
+<div id="top"></div>
+
  1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
- 2. [Transport arrangements during SHN]
- 3. [COVID-19 PCR Test]
+ 2. [Transport arrangements during SHN](#transport)
+ 3. [COVID-19 PCR Test](#pcrtest)
  4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
 
 <div id="shnsdf"></div>
@@ -102,17 +104,217 @@ If you are arriving from select countries/regions and are able to meet the crite
 
 Please note that any prior approval given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable. 
 
-#### 11. 
-####
-####
-####
-####
-####
-####
-####
-####
-####
+#### 11. How do I request a refund for my stay at Stay-Home Notice (SHN) dedicated facilities (SDF)?
 
+Please note that once your entry application is approved, there will be no refunds of the payment made even if you do not enter Singapore as planned, unless there are extenuating reasons (eg. trip cancellation due to passing of next-of-kin etc). 
+- For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
+- For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>.
+- For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
+- For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
+
+<div id="transport"></div>
+
+## Transport Arrangements During SHN
+
+#### 1. What are the types of transport that I can take if I am serving my 14-day SHN at the dedicated SHN facilities?
+
+If you are leaving your dedicated SHN facility for your scheduled COVID-19 test appointment at the designated testing facility, your transport arrangements will be made by MOH at the checkpoint. Please ensure that you are well and not showing any Acute Respiratory Infection symptoms. You should comply with the general precautions which include wearing a mask. Do remember to bring your ID documents to the testing facility. You must return immediately to the dedicated SHN facility thereafter.
+
+#### 2. What are the types of transport that I can take if I have been allowed to serve my 14-day SHN at my place of residence?
+
+When you are:
+- travelling from the checkpoint to your place of residence; or
+- leaving your place of residence for your scheduled COVID-19 test appointment at the designated testing facility
+you must make transport arrangements at your own cost from the listed service provider. You must return immediately to your residence thereafter. All charges are non-cancellable, non-exchangeable, and non-transferrable. Please identify yourself as a person subject to a Stay-Home Notice to the hotline operator, and just before you board the vehicle.
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:center;">Type of trip</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cost(an additional 10% will be charged for credit card transactions)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;">Strides Transportation Pte Ltd <br/> 6477 5977 
+</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">S$200.00 </td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">From any other ad-hoc trips approved by the authorities </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Round Trip – S$90.00 <br/> Per Way – S$45.00 
+</td>
+    </tr>
+  </tbody>
+  </table>
+
+#### 3. What are the types of transport that I can take if I am serving a 7-day SHN?
+
+You should use your own private vehicle, hire a taxi or a private hire car. If you use a taxi or private hire car, you should only book one from the list of contact numbers or ride-hail applications (app) provided. 
+- For phone booking, please identify yourself as a person subject to a Stay-Home Notice to the hotline operator. 
+- For app booking, please indicate your status as a person subject to a Stay-Home Notice by keying “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app).
+
+Please also identify yourself as a person subject to a Stay-Home Notice when boarding the vehicle. When travelling in the taxi or private hire car, you should sit alone in the back seat, with windows down and the air-conditioning turned off. Other forms of public transport (e.g. street-hail taxi / bus / train) should be avoided.
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;"> &nbsp;</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Contact Number* / Mobile Application</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">ComfortDelgro Taxi (Comfort & CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6333 1133 or via ComfortDelGro app </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6213 0997</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6477 5971</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6776 7553</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6681 9462</td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">via respective providers’ app</td>
+    </tr>
+  </tbody>
+  </table>
+
+Click here to [Go Back To Top](#top).
+
+<div id="pcrtest"></div>
+
+## COVID-19 PCR Test
+
+#### 1. I have an upcoming flight to Singapore. When must my pre-departure test be taken before the flight to be accepted for arrival in Singapore? What kind of COVID-19 tests will be accepted?
+
+Singapore only accepts test results from labs in the country that are [internationally accredited or recognised](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) by the respective Government. The test result memo must state the negative test result in English, date that the test was taken, traveller/s name and either Date of Birth or Passport Number as stated in the passport, If the personal details used are not stated in the passport, the traveller should have the relevant identity document on hand for verification.
+
+Inbound travellers, who are not Singapore Citizens or Permanent Residents and who are required to serve a 14-day SHN, must take a COVID-19 PCR test within 72 hours before departure in order to enter Singapore.
+
+<u><b>Direct flight</b></u>
+
+For travellers who take a direct flight, the 72 hours will be counted from the departure of the flight to Singapore.
+
+<u><b>Connecting flights</b></u>
+
+For travellers who have to take a connecting flight(s), the 72 hours will be counted from the departure of the first leg only and the total transit duration for the trip must not be more than 24 hours. If the total transit duration is more than 24 hours, a PDT must be taken within 72 hours from the last leg (i.e. the flight to Singapore).
+
+For negative test result requirements, please note that Singapore only accepts test results from labs in the country that are internationally accredited or recognised by the respective Government. The test result memo must state:
+- Negative test result in English,
+- Date that the test was taken,
+- Traveller/s name and either Date of Birth or Passport Number as stated in the passport 
+
+If the personal details used are not stated in the passport the traveller should have the relevant identity document on hand for verification.
+Travellers on stipulated COVID-19 travel channels (e.g. Green/Fast Lane arrangements are required to comply with prevailing border health conditions stipulated as part of their entry permits
+
+#### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to have a valid negative COVID-19 test result?
+
+At this point in time, travellers will only be able to transit through Singapore Changi Airport if they are travelling with an airline whose transfer route has been approved. Travellers are encouraged to confirm with their airlines on their eligibility to travel.
+
+Currently, only travellers from India / Indonesia / the Philippines who are transiting through Singapore (i.e. India via Singapore to destination country) will have to present a valid negative COVID-19 test result.
+
+#### 3. Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
+
+There are currently no requirements for RGL travellers to take another COVID-19 PCR test before returning to Singapore.
+
+Please click [here](/rgl/returning) to find out more on the Reciprocal Green Lane arrangements.
+
+#### 4. What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
+
+Travellers (who are not Singapore Citizens and Permanent Residents) from countries where a valid negative COVID-19 test result is required as a condition for entry into Singapore, but are unable to produce a valid negative COVID-19 test result, will be denied entry into Singapore.
+
+Airlines, Charterers and Air Operators for any flights to Singapore must conduct checks to ensure that passengers meet the requirement before they are allowed for boarding. Air operators will be responsible to repatriate any passenger rejected at the checkpoint.
+
+If passengers are found to have produced false/forged COVID-19 test certificates, it will affect their ability to obtain or sponsor immigration facilities in the future.
+
+#### 5. I have recovered from COVID-19, am I required to undergo a pre-departure test (PDT) before entry into Singapore? Will I be denied entry into Singapore?
+
+Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. Travellers should schedule your travel into Singapore at least 21 days after the date of your first positive COVID-19 PCR test.
+
+*E.g. Date of first positive PCR test received on 1 Nov (Day 1) --- Departure from Singapore should only be from 22 Nov (Day 22) onwards*
+
+You are still required to take a COVID-19 PCR test within 72 hours before departure to Singapore.
+
+If the pre-departure COVID-19 PCR test result is positive, recovered individuals must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore.
+
+#### 6. How will I know my COVID-19 test result?
+
+All travellers would be informed of their swab test results verbally by phone or in person. For travellers who have a Singpass account, they can login to the HealthHub [website](https://www.healthhub.sg/myhealth) to access their swab test results once available. No other hardcopy or softcopy report would be issued.
+
+#### 7. How do I request a refund for my COVID-19 test.
+
+Please note that once your entry application is approved, there will be no refunds of the payment made even if you do not enter Singapore as planned, unless there are extenuating reasons (eg. trip cancellation due to passing of next-of-kin etc). 
+- For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
+- For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>
+- For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
+- For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
+
+#### 8. What if I refused to go for the COVID-19 test?
+
+During the SHN period, you may be required to report for a COVID-19 test as part of the SHN requirements. 
+
+It will be a breach of the SHN requirements if you do not undergo the COVID-19 test.
+
+Those who fail to comply with the SHN requirements may be prosecuted in court for an offence under Singapore law, including the Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, you may be liable to imprisonment, or a fine, or both. 
+
+In addition, if you are a:
+- Singapore permanent resident or long-term pass holder (Long-Term Visit Pass/ Dependant’s Pass/ Student’s Pass), your Re-entry Permit or passes may be revoked, or the validity shortened and you may be barred from entering Singapore in future.
+- Short-term visitor, your visit pass may be cancelled and you may be barred from entering Singapore in future.
+- Work pass holder, your work pass may be revoked.
+- Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
+
+#### 9. Do I have to complete my SHN if I have been tested negative for COVID-19?
+
+You are required to complete your SHN even if the result of your COVID-19 test is negative. You are required to continue to remain at your dedicated SHN facilities/place of residence till you have completed your SHN. An SHN duration calculator can be found [here](https://service2.mom.gov.sg/shn/shn-calculator/).
+
+#### 10. I am travelling with my child. Will my child be required to undergo a pre-departure test before entry into Singapore? Are children and infants exempted from the pre-departure test?
+
+All travellers (who are not Singapore Citizens and Permanent Residents) who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
+
+Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are born in 2015** are exempted from presenting a valid negative test result.
+
+#### 11. Why do children need to undergo a COVID-19 test?
+
+Regardless of age, infected individuals can transmit COVID-19 to other members of the community if undetected. As travel volume increases, there is a need to detect cases early and minimise the public health risk of community transmission. Hence, we are extending COVID-19 testing for inbound travellers to include children aged 7 and above (in that calendar year). Countries around the world are similarly requiring children to be tested.
+
+Early detection will also facilitate prompt medical management, where needed.
+
+#### 12. My child is very sensitive/has nosebleeds. Can he/she be excused from the SHN+ exit swab?
+
+All children will be swabbed by trained personnel and it is a safe procedure. Should your child be assessed to have medical contraindications for the default testing method, alternative arrangements will be made.
+
+#### 13. If my child is unwell, can the swab appointment be postponed?
+
+Any person on SHN in an SHN Dedicated Facility (SDF) who is not feeling well, including children, must inform the SDFs immediately and medical care will be arranged for the individual. PSHNs with acute respiratory infection symptoms will not be swabbed at the SDF and alternative arrangements will be made.
+
+You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the swab appointment.
+
+#### 14. If my child is unwell, can the swab appointment be postponed?
+
+Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test.
+
+Click here to [Go Back To Top](#top).
 
 <div id="inboundPDT"></div>
 
@@ -205,4 +407,4 @@ You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the 
 
 Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test. 
 
-
+Click here to [Go Back To Top](#top).
