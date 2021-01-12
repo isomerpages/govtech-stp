@@ -1,6 +1,7 @@
 ---
 title: SHN Electronic Monitoring Device
 permalink: /health/shn-monitoring
+third_nav_title: Self-Isolation and Segregation Measures
 ---
 
 The Immigration & Checkpoints Authority (ICA) and Ministry of Manpower (MOM) will issue an Electronic Monitoring Device (“device”) to travellers above 12 and are serving their Stay-Home Notice (SHN) outside the SHN-Dedicated Facility (SDF). It is used solely to detect travellers that have wilfully left their SHN accommodation before the specified period. 
