@@ -61,7 +61,7 @@ To limit the spread of COVID-19, several hotels in Singapore have been designate
   </tbody>
   </table>
   
-Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable. As of 30 December 2020, the cost of SDF stay, inclusive of GST, is about $2,000, not including [charges for COVID-19 tests](/health/covid19-tests/price). The actual amount, however, will be conveyed and charged to the traveller during check-in. Travellers who fail to pay for their SDF can expect to be charged for late payments. 
+Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable. As of 30 December 2020, the cost of SDF stay, inclusive of GST, is about $2,000, not including [charges for COVID-19 tests](/health/covid19-tests/#price). The actual amount, however, will be conveyed and charged to the traveller during check-in. Travellers who fail to pay for their SDF can expect to be charged for late payments. 
 
 ### SHN Compliance Checks
 
