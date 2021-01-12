@@ -40,7 +40,7 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
     <tr>
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">$160</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$160</td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><a href="https://safetravel.changiairport.com/#/">Here</a></td>
     </tr>
         <tr>
@@ -56,7 +56,7 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">While serving Stay-Home Notice (SHN)</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Specified testing facility in Singapore</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">NA; Pay during application </td>
     </tr>
   </tbody>
