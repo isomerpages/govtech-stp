@@ -17,4 +17,4 @@ Singapore is reopening its borders in a controlled and safe manner to maintain i
 
 As these measures are continually evolving to better respond to the epidemiological developments overseas, travellers planning to visit Singapore should visit the [Ministry of Health’s (MOH)](https://www.moh.gov.sg/covid-19) webpage for the latest information.
 
-Travellers approved for entry should refer to the specific requirements and process for the respective Safe Travel lanes they are entering Singapore on. These health control requirements would also be stated as conditions of entry approval where relevant.
+Travellers approved for entry should refer to the specific requirements and process for the respective [Safe Travel lanes](/arriving/overview) they are entering Singapore on. These health control requirements would also be stated as conditions of entry approval where relevant.
