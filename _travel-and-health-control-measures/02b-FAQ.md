@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions
 permalink: /health/FAQ
-third_nav_title: COVID-19 Tests
 ---
 
 <div id="inboundPDT"></div>
