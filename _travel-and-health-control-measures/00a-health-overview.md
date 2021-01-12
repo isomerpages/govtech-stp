@@ -6,9 +6,9 @@ permalink: /health
 Singapore is reopening its borders in a controlled and safe manner to maintain its status as an international hub. To minimise the public health risks associated with the border reopening, all travellers may be required to observe the relevant health control measures, below:
 
 <u>COVID-19 Tests</u>
-- [COVID-19 Polymerase Chain Reaction Test (“PCR Test”)](/health/covid19-tests)
-- [Serology Test](/health/covid19-tests)
-- [Pre-departure test](/health/covid19-tests)
+- [COVID-19 Polymerase Chain Reaction Test (“PCR Test”)](/health/covid19-tests#pcrtest)
+- [Serology Test](/health/covid19-tests#serology)
+- [Pre-departure test](/health/covid19-tests#pdt)
 
 <u>Self-Isolation and Segregation Measures</u>
 - [Stay-Home Notice (SHN)](/health/shn)
