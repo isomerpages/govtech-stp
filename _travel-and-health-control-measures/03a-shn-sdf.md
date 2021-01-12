@@ -1,5 +1,5 @@
 ---
-title: Stay Home Notice (SHN) & Stay-Home Notice Dedicated Facility (SDF)
+title: Stay Home Notice (SHN) & SHN Dedicated Facility (SDF)
 permalink: /health/shn
 ---
 
