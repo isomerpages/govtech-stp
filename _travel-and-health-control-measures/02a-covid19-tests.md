@@ -62,7 +62,7 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
   </tbody>
   </table>
 
-All travellers would be informed of their PCR test results verbally by phone or in person. No other hardcopy or softcopy report will be issued. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
+All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
 
 <div id="serology"></div>
 
