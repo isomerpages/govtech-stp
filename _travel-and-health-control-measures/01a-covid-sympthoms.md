@@ -22,4 +22,4 @@ According to the WHO, about 15% of all COVID-19 patients would go on to develop 
 -	Chills
 -	Dizziness
 
-More information on COVID-19 can be found here. Click here for the COVID-19 symptom checker for individuals already in Singapore. 
+More information on COVID-19 can be found [here](https://www.moh.gov.sg/covid-19). Click [here](https://www.sgcovidcheck.gov.sg/) for the COVID-19 symptom checker for individuals already in Singapore. 
