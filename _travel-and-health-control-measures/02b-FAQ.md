@@ -1,5 +1,5 @@
 ---
-title: Inbound Pre-Departure Test - Frequently Asked Questions
+title: Frequently Asked Questions
 permalink: /health/FAQ
 ---
 
