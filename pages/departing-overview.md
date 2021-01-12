@@ -11,7 +11,7 @@ Singapore does not impose any mandatory health requirements on travellers for de
 
 Some countries/regions require a Pre-Departure Test (PDT) before travellers depart from Singapore. 
 
-For more details on arranging for a PDT, please click [here](/health/covid19-tests/#pdt).
+For more details on arranging for a PDT, please click [here](/health/covid19-tests/pre-departure-test).
 
 ### Travel Using Reciprocal Green Lane for Business/Official Travel
 
