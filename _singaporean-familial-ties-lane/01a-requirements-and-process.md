@@ -118,7 +118,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">SHN</a> at <a href="/health/shn/sdf">SHN Dedicated Facility (SDF)</a> and take a COVID-19 PCR test during the SHN period, at their own cost. </li>
          </ol> 
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by MOM during the entry approval process.</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by ICA during the entry approval process.</p>
     </td>
   </tr>
   <tr>
