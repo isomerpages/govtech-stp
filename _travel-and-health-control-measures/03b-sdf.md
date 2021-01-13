@@ -28,7 +28,7 @@ To limit the spread of COVID-19, several hotels in Singapore have been designate
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
         </ol>
            </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Application form <a href="/sc-pr/opt-out/apply-now">here</a> For Singaporean Citizens and PRs <br/><br/> Foreign Travellers can opt out during their entry application process 
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Application form <a href="/sc-pr/opt-out/apply-now">Here</a> For Singaporean Citizens and PRs <br/><br/> Foreign Travellers can opt out during their entry application process 
 </td>
     </tr>
   </tbody>
