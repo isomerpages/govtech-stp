@@ -21,34 +21,34 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
 <table>
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Point of Swab</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Swab Location</th>
-       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Charge (inclusive of GST)</th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">Payment Link</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab Location</th>
+       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Charge (inclusive of GST)</th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px;">On arrival in Singapore</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$160</td>
-        <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><a href="https://safetravel.changiairport.com/#/">Here</a></td>
+      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$160</td>
+        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://safetravel.changiairport.com/#/">Here</a></td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Woodlands and Tuas Checkpoint</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">NA; pay on arrival</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoint</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; pay on arrival</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">	Tanah Merah Ferry Terminal</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">NA; pay on arrival</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">	Tanah Merah Ferry Terminal</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; pay on arrival</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">While serving Stay-Home Notice (SHN)</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">Specified testing facility in Singapore</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">NA; Pay during application </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">While serving Stay-Home Notice (SHN)</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Specified testing facility in Singapore</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; Pay during application </td>
     </tr>
   </tbody>
   </table>
