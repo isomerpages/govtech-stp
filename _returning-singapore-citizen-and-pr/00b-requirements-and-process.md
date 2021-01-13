@@ -22,7 +22,7 @@ permalink: /SC-PR/requirements-and-process
 </thead>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:16px;"> Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
+    <td style="font-size:16px;"> Travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a>. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot; and</li>
