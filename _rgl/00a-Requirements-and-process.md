@@ -90,7 +90,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">health centre </a>designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.
+    <td style="font-size:16px;">Approved RGL travellers must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">health centre </a>designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.
  </td>
   </tr>
   <thead>
@@ -102,7 +102,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </thead>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
-    <td style="font-size:16px;">Approved RGL travellers should monitor their health and avoid travelling if feeling unwell. Otherwise, they should:
+    <td style="font-size:16px;">Approved RGL travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
@@ -160,7 +160,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air ticket.</li>
          </ol> 
-     <p style="font-size:16px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
+     <p style="font-size:16px;">Upon confirmation of his/her traveller scheme, the traveller will take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>
   </tr>
     <tr>
