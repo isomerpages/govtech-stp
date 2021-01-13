@@ -165,41 +165,41 @@ Please also identify yourself as a person subject to a Stay-Home Notice when boa
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;"> &nbsp;</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Service Provider and Contact Number</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Contact Number* / Mobile Application</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; "> &nbsp;</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Contact Number* / Mobile Application</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">1</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">ComfortDelgro Taxi (Comfort & CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6333 1133 or via ComfortDelGro app </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort & CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">2</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6213 0997</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">3</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6477 5971</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">4</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6776 7553</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">5</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6681 9462</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
     </tr>
      <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">via respective providers’ app</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
   </tbody>
   </table>
