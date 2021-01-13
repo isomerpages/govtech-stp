@@ -73,6 +73,8 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>,for travellers who have spent the last 14 consecutive days in Australia, Brunei, Mainland China, New Zealand, Taiwan or Vietnam before departing for Singapore. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot.
        </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
+       </li>
       </ol>
     </td>
   </tr>
