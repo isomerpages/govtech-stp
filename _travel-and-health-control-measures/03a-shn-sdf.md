@@ -10,7 +10,7 @@ SHNs are legal notices issued under Singapore’s Infectious Diseases Act, to re
 
 Depending on the travellers’ travel history and safe travel lane used to enter Singapore, travellers may be issued with a 7 or 14-day SHN with a mandatory [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) conducted towards the end of the SHN.
 
-Requirements for SHN or COVID-19 PCR tests are specific to individual [Safe Travel Lanes](/arriving/overview). Travellers should note that the SHN comes into effect immediately on the day of its issuance. The SHN will end at 12 pm, 7 or 14 days after arrival. See examples below:
+Requirements for SHN or COVID-19 PCR tests are specific to individual [Safe Travel Lanes](/arriving/overview). Travellers should note that the SHN comes into effect <u>immediately</u> on the day of its issuance. The SHN will end at 12 pm, 7 or 14 days <u>after</u> arrival. See examples below:
 
 <table>
   <thead>
