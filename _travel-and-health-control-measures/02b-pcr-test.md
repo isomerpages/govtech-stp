@@ -40,7 +40,7 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">NA; pay on arrival</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">	Tanah Merah Ferry Terminal	$145	NA; Pay on arrival</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">	Tanah Merah Ferry Terminal</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">S$145</td>
        <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">NA; pay on arrival</td>
     </tr>
