@@ -6,17 +6,17 @@ third_nav_title: COVID-19 Tests
 
 ### COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
 
-The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwide to as the most accurate and reliable test to detect active COVID-19 infections. A PCR test is generally administered by a trained professional who will take a swab sample from the nose and/or throat of a traveller. In Singapore’s context, all inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be PCR-tested before and/or upon arrival.
+The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwide to as the most accurate and reliable test to detect active COVID-19 infections. A PCR test is generally administered by a trained professional who will take a swab sample from the nose and/or throat of a traveller. In Singapore’s context, <u>all</u> inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be PCR-tested before and/or upon arrival.
 
 #### PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. Click [here](/files/SHN-and-swab-summary.pdf) for the quick overview.
+Depending on the travellers’ travel history and Safe Travel lane used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. 
 
 <div id="price"></div>
 
 #### PCR Test in Singapore
 
-When a PCR test should be taken in Singapore will depend on the traveller’s country of departure/14-day travel history and [Safe Travel Lane](/arriving/overview) used. Click [here](/files/SHN-and-swab-summary.pdf) for the quick overview. The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
+When a PCR test should be taken in Singapore will depend on the traveller’s country of departure/14-day travel history and Safe Travel Lane used. The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
 
 <table>
   <thead>
