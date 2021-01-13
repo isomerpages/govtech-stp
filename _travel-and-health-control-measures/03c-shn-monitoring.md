@@ -19,14 +19,14 @@ Your personal privacy is protected while using these devices. The device does no
   </thead>
   <tbody>
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;"><img src="/images/ica-wristband.jpg" style="width:auto; height:auto;"></td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;"><img src="/images/mom-wristband.jpg" style="width:auto; height:auto;"></td>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><img src="/images/ica-wristband.jpg" style="width:auto; height:auto;"></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><img src="/images/mom-wristband.jpg" style="width:auto; height:auto;"></td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">ICA’s wristband device, also used by MOE for foreign students, uses an app (StayHome@SG) and a “gateway” device that must be plugged into a power socket at the place of residence. It uses Bluetooth signals and alerts the authorities if the distance between the wristband and gateway at home is beyond a pre-defined range but cannot relay the exact current location of its wearer. You may wish to refer to the User Setup Guide <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf">here</a> and Frequently Asked Questions on the StayHome@SG app <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf">here</a>. <br/><br/>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">ICA’s wristband device, also used by MOE for foreign students, uses an app (StayHome@SG) and a “gateway” device that must be plugged into a power socket at the place of residence. It uses Bluetooth signals and alerts the authorities if the distance between the wristband and gateway at home is beyond a pre-defined range but cannot relay the exact current location of its wearer. You may wish to refer to the User Setup Guide <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf">here</a> and Frequently Asked Questions on the StayHome@SG app <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf">here</a>. <br/><br/>
 Watch the video for the <a href="https://www.youtube.com/watch?v=zKhawlenncA">StayHome@SG Setup Guide</a> or refer to this <a href="/images/stayhomesg-infographics-1.png">infographic</a> for more information on ICA’s wristband device
            </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">MOM’s smartwatch device uses GPS and 4G technology to track the wearer’s current location, as well as geo-fence him/ her at the SHN’s residences. It also has other features, including a sensor that will trigger alert should the wearer tampers or removes the smartwatch. Watch the video for the <a href="https://m.youtube.com/watch?v=E8MehKUmWlk">User Setup Guide</a> of the MOM’s smartwatch device. 
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">MOM’s smartwatch device uses GPS and 4G technology to track the wearer’s current location, as well as geo-fence him/ her at the SHN’s residences. It also has other features, including a sensor that will trigger alert should the wearer tampers or removes the smartwatch. Watch the video for the <a href="https://m.youtube.com/watch?v=E8MehKUmWlk">User Setup Guide</a> of the MOM’s smartwatch device. 
 </td>
     </tr>
   </tbody>
