@@ -18,7 +18,7 @@ permalink: /health/FAQ
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page [here](https://safetravel.ica.gov.sg/arriving/overview), or via the Safe Travel navigation bar at the top of the SafeTravel website.
+Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page [here](https://safetravel.ica.gov.sg/arriving/overview), or via the Safe Travel Lanes dropdown list at the top navigation bar of the SafeTravel website.
 
 #### 2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?
 
