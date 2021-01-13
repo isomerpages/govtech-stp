@@ -160,7 +160,7 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
 </tbody>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">7 days after completing SHN<th>
+    <th colspan="2" style="font-size:16px;">7 days after completing SHN</th>
   </tr>
   </thead>
 <tbody>
