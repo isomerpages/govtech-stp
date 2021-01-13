@@ -12,7 +12,7 @@ Travellers required by the destination country/region to take a COVID-19 test in
 
 #### Making an appointment
 
-Travellers are responsible to ensure that the test conducted by the clinic meets the testing requirements of the destination country/region. Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time.
+Travellers are responsible for ensuring that the test conducted by the clinic meets the testing requirements of the destination country/region. Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time.
 
 Any cost incurred for travel-related tests will be borne by the traveller, which the traveller can enquire with the clinic before making an appointment. Government subsidies will not be given for these tests.
 
