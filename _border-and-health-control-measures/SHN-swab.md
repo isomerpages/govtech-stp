@@ -1,8 +1,4 @@
----
-title: Post-Arrival in Singapore
-permalink: /health/shn
-third_nav_title: Travelling to Singapore
----
+
 All travellers are required to comply with the <a href="https://www.moh.gov.sg/covid-19" target="_blank"> prevailing public health regulations and requirements</a> in Singapore. For example, the use of the mandatory mobile application (e.g. TraceTogether), as well as serving Stay-Home Notice (SHN) and taking the COVID-19 test (if required).
 
 A summary of the prevailing SHN and swab requirements for travellers can be found <a href="/files/SHN-and-swab-summary.pdf" target="_blank">here</a>.

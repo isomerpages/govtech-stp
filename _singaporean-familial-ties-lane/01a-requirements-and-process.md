@@ -73,6 +73,8 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>,for travellers who have spent the last 14 consecutive days in Australia, Brunei, Mainland China, New Zealand, Taiwan or Vietnam before departing for Singapore. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot.
        </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
+       </li>
       </ol>
     </td>
   </tr>
@@ -111,14 +113,11 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <td style="font-size:16px;"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers can proceed with immigration clearance per normal.<br/><br/>
        Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore here, travellers may be required to:
-       <ol style="margin-top:0px; list-style-type: lower-roman;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival COVID-19 PCR test and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);
-       </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day SHN at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost; or
-       </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 14-day SHN at SHN Dedicated Facility (SDF) and take a COVID-19 PCR test during the SHN period, at their own cost. 
-       </li>
-      </ol>
+        <ol style="margin-top:0px; list-style-type: lower-roman;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">SHN</a> at <a href="/health/shn/sdf">SHN Dedicated Facility (SDF)</a> and take a COVID-19 PCR test during the SHN period, at their own cost. </li>
+         </ol> 
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by ICA during the entry approval process.</p>
     </td>
   </tr>
