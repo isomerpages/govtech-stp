@@ -169,7 +169,7 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
   </tbody>
 <thead>          
     <tr>
-    <th colspan="2" style="font-size:16px;">After completion of isolation<th>
+    <th colspan="2" style="font-size:16px;">After completion of isolation</th>
     </tr>
 </thead>
 <tbody>
