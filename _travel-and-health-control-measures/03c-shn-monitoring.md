@@ -13,7 +13,7 @@ Your personal privacy is protected while using these devices. The device does no
 <table>
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:3px solid #E8E8E8;">ICA-issued device</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E8E8E8; border-top:2px solid #E8E8E8; border-right:2px solid #E8E8E8;">ICA-issued device</th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">MOM-issued device</th>
     </tr>
   </thead>
