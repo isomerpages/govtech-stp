@@ -115,7 +115,7 @@ permalink: /wphl/requirements-and-process
   <tr>
     <th colspan="2" style="font-size:16px;">Day of entry into Singapore</th>
   </tr>
-  </thead>
+</thead>
 <tbody>
  <tr>
     <td style="font-size:16px;"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
