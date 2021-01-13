@@ -62,7 +62,7 @@ permalink: /stpl/requirements-and-process
    </tr>
     <tr>
     <td  style="font-size:16px;"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:16px;">Approved Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
+    <td style="font-size:16px;">Approved Travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
        </li>
