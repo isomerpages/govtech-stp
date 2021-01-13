@@ -31,8 +31,8 @@ Watch the video for the <a href="https://www.youtube.com/watch?v=zKhawlenncA">St
     </tr>
   </tbody>
   </table>
-  
-For Frequently Asked Questions (FAQs) on the ICA issued device, click [here](https://www.ica.gov.sg/news-and-publications/media-releases/media-release/all-incoming-travellers-including-returning-residents-long-term-pass-holders-work-pass-holders-and-their-dependants-serving-their-stay-home-notice-outside-of-dedicated-facilities-to-don-electronic-monitoring-device). Otherwise, click [here](https://www.mom.gov.sg/newsroom/press-releases/2020/0803-all-incoming-travellers-shn-outside-of-dedicated-facilities-to-don-electronic-monitoring-device) for the MOM issued device.
+ 
+Click [here](https://www.ica.gov.sg/news-and-publications/media-releases/media-release/all-incoming-travellers-including-returning-residents-long-term-pass-holders-work-pass-holders-and-their-dependants-serving-their-stay-home-notice-outside-of-dedicated-facilities-to-don-electronic-monitoring-device) for more information on the ICA issued Device and [here](https://www.mom.gov.sg/newsroom/press-releases/2020/0803-all-incoming-travellers-shn-outside-of-dedicated-facilities-to-don-electronic-monitoring-device) for the MOM issued device.
 
 ### Return and Disposal of the Electronic Monitoring Devices after SHN
 
