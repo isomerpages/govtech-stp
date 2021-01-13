@@ -8,7 +8,7 @@ third_nav_title: SDF Opt-out for SC/PR
 
 1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve their 14-day SHN at a suitable place of residence. <br/><br/>
 
-2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 4 of the table) may apply to opt-out of SHN dedicated facilities, and serve their 14-day Stay-Home Notice (SHN) at their place of residence, if they fulfil the following criteria:
+2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may apply to opt-out of SHN dedicated facilities, and serve their 14-day Stay-Home Notice (SHN) at their place of residence, if they fulfil the following criteria:
 - Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
 - Are occupying their place of residence (i.e. residential address) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
 - There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
@@ -28,21 +28,21 @@ third_nav_title: SDF Opt-out for SC/PR
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Service Provider and Contact Number</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; text-align:center;">Type of trip</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cost(an additional 10% will be charged for credit card transactions)</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Type of trip</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost(an additional 10% will be charged for credit card transactions)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;">Strides Transportation Pte Ltd <br/> 6477 5977 
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">Strides Transportation Pte Ltd <br/> 6477 5977 
 </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">$200.00 </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Any other ad-hoc trips approved by the authorities </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Round Trip – $90.00 <br/> Per Way – $45.00 
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From any other ad-hoc trips approved by the authorities </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Round Trip – S$90.00 <br/> Per Way – S$45.00 
 </td>
     </tr>
   </tbody>
