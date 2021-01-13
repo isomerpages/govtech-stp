@@ -41,14 +41,14 @@ At the end of the SHN period, you are required to return or dispose of the vario
 <table>
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">ICA Wristband and Gateway Device</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;">MOM Smartwatch</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">ICA Wristband and Gateway Device</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">MOM Smartwatch</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;">ICA’s wristband device users are to remove and dispose them based on existing e-waste disposal methods <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>. <br/><br/> ICA officers will contact the user to collect the gateway device issued by ICA. <u>Please do not dispose the gateway device</u>.</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;">MOM’s smartwatch device users are to head down to NCS office located at 1 Yishun Industrial Street 1 #08-32 A’Posh Bizhub Singapore 768160 to deactivate and remove the watches.</td>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">ICA’s wristband device users are to remove and dispose them based on existing e-waste disposal methods <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>. <br/><br/> ICA officers will contact the user to collect the gateway device issued by ICA. <u>Please do not dispose the gateway device</u>.</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">MOM’s smartwatch device users are to head down to NCS office located at 1 Yishun Industrial Street 1 #08-32 A’Posh Bizhub Singapore 768160 to deactivate and remove the watches.</td>
     </tr>
   </tbody>
   </table>
