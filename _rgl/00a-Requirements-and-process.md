@@ -3,6 +3,11 @@ title: RGL Requirements and Process
 permalink: /rgl/requirements-and-process
 ---
 
+<div id="notice2"></div>
+<b><span style="color:red; font-size:20px;">IMPORTANT NOTICE FOR RGL TRAVELLERS FROM JAPAN</span></b> <br/>
+<span style="font-size:16px; line-height:1.0; color:red;">On 26 December 2020, Japan announced a temporary ban on the entry of all non-resident foreign nationals into Japan from 28 December 2020 to 31 January 2021. The Japanese government has since announced that all of Japan’s Business Track  arrangements with other countries, including the Singapore-Japan Reciprocal Green Lane (RGL), will be suspended from 14 January 2021 until the State of Emergency in Japan is lifted. Given the reciprocal nature of the Singapore-Japan RGL and Residence Track, <u>travellers will not be able to apply to travel from Japan to Singapore under the RGL during this period</u>. Travellers who have already received approval to enter Singapore under the RGL can continue to do so but should check with the Japanese Embassy in Singapore with regard to the latest immigration regulations for their return to Japan. Please refer to the MFA statement <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">here</a> for more details.
+</span>
+-----------------
 The requirements and processes outlined on this page apply to inbound travellers from the following Reciprocal Green Lane-eligible countries/regions: 
 - Brunei Darussalam;
 - Germany
