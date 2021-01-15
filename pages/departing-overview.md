@@ -27,7 +27,7 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
 
 <div id="notice1"></div>
-<b><span style="color:red; font-size:20px;">IMPORTANT NOTICE FOR RGL TRAVELLERS TO INDONESIA/span> </b> <br/>
+<b><span style="color:red; font-size:20px;">IMPORTANT NOTICE FOR RGL TRAVELLERS TO INDONESIA</span> </b> <br/>
 <span style="font-size:16px; line-height:1.0; color:red;">On 28 December 2020, <u>Indonesia announced a temporary ban on the entry of all foreign nationals into Indonesia. The Indonesian government has notified MFA that this ban would also apply to foreign nationals travelling to Indonesia under all of Indonesia’s Travel Corridor Arrangements (TCA) with other countries. Hence, Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane (RGL) / TCA</u>. Given the reciprocal nature of this travel arrangement, travellers will also not be able to apply to travel from Indonesia to Singapore under the Singapore-Indonesia RGL / TCA. Travellers who have already received approval to enter Singapore under the Singapore-Indonesia RGL / TCA can continue to do so.
 </span>
 
