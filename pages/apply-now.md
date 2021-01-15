@@ -5,17 +5,51 @@ permalink: /apply-now
 
 ## Safe Travel Lanes for Entry to Singapore
 
-|Safe Travel Lane | Application Form| Requirements and Details |
-| ------------- |-------------------| -----------------------------|
-|Air Travel Pass| [Apply](https://go.gov.sg/atpsg) | [Details](/atp/overview)  |
-|Periodic Commuting Arrangement (Singapore Work Pass Holders)| [Apply](https://eservices.ica.gov.sg/STO) |  [Details](/pca/requirements-and-process)|
-|Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)|  | Applications temporarily suspended. Please click [here](/pca/scpr-requirement-and-process) for details.|
-|Reciprocal Green Lane | [Apply](https://eservices.ica.gov.sg/STO) | [Details](/rgl/overview) <br><br>For RGL travellers from Indonesia, please refer to the notice [here](#notice1) <br><br>For RGL travellers from Japan, please refer to the notice [here](#notice2) |   
-|Singaporean Familial Ties Lane| [Apply](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c)| [Details](/scpr-familial-ties-lane/requirements-and-process) |  
-|Singapore Work Pass Holder Lane| [Apply](https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore) | [Details](/wphl/requirements-and-process)|
-|Singapore Student's Pass Holder Lane| [Apply](https://form.gov.sg/#!/5e3648e9405c180011dc5f9c) | [Details](/stpl/requirements-and-process) |
+<table>
+  <thead>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Safe Travel Lane </th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Application Form</th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Requirements and Details</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Air Travel Pass</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/overview">Details</a></td>
+    </tr>
+      <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Periodic Commuting Arrangement (Singapore Work Pass Holders)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/pca/requirements-and-process">Details</a></td>
+    </tr>
+      <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">&nbsp;</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Applications temporarily suspended. Please click <a href="/pca/scpr-requirement-and-process">here</a> for details.</td>
+    </tr>
+      <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Reciprocal Green Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/overview">Details</a><br><br>For RGL travellers from Indonesia, please refer to the notice <a href="#notice1">here</a><br><br>For RGL travellers from Japan, please refer to the notice <a href="#notice2">here</a> </td>
+    </tr>
+      <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Citizen/Permanent Resident Familial Ties Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://go.gov.sg/ale">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/scpr-familial-ties-lane/requirements-and-process">Details</a></td>
+    </tr>
+      <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Work Pass Holder Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/wphl/requirements-and-process">Details</a></td>
+    </tr>
+       <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Student's Pass Holder Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://form.gov.sg/#!/5e3648e9405c180011dc5f9c">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/stpl/requirements-and-process">Details</a></td>
+    </tr>
+  </tbody>
+  </table>
 
------------
 
 <div id="notice1"></div>
 <b><span style="color:red; font-size:20px;">NOTICE FOR RGL TRAVELLERS FROM INDONESIA</span> </b> <br/>
