@@ -13,12 +13,12 @@ permalink: /wphl/requirements-and-process
   <tbody>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to 60 calendar days before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;">Up to one month before planned date of entry into Singapore</th>
   </tr>
 </thead>
   <tr>
     <td style="font-size:16px;"><b>Submit Application</b></td>
-    <td style="font-size:16px;">Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">here</a>. Applications for travel are open up to 60 calendar days before the planned date of entry into Singapore. Applications should be submitted at least 1 working day from the planned date of entry. <br/><br/>If the entry approval request is made by 12 noon on a working weekday, the outcome will be made known on the same day. If the entry approval request is made after 12 noon on a working weekday or on weekends/public holidays, the outcome will be made known on the next working day.<br/><br/>Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for 30 days from the date of issuance.<br/><br/>Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found <a href="https://www.mom.gov.sg/covid-19/additional-responsibilities">here</a>.    
+    <td style="font-size:16px;">Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">here</a>. Please use the entry approval calendar <a href="https://service2.mom.gov.sg/shn/when-to-apply-entry/">here</a>to calculate the earliest and latest date you should apply for entry.<br/><br/>Once the application is approved, the applicant will be issued with an Approval Letter of Entry via email. The Approval Letter of Entry is valid for +/- 1 day from the approved date of entry.<br/><br/>Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found <a href="https://www.mom.gov.sg/covid-19/additional-responsibilities">here</a>.    
     </td>
   </tr>
   <tr>
