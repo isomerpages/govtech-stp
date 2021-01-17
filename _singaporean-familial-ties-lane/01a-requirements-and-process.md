@@ -30,6 +30,13 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   <tr>
     <td style="font-size:16px;"><b>Submit Application</b></td>
     <td style="font-size:16px;">The following categories of foreign travellers can use the SafeTravel application portal <a href="https://eservices.ica.gov.sg/STO/">here</a> to apply for entry approval:
+       <ol style="margin-top:0px; list-style-type: disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR);</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; or</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A PR and ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities.</li>
+      </ol>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><u>SingPass is required to make an application via the online portal. If the traveller does not have SingPass, a Singapore Citizen or PR applicant with SingPass may apply for the traveller’s entry</u>. Applications via the online portal will receive immediate approvals if all details are in order. Entry approvals granted are valid for +/- 1 day from the approved date of entry.</p>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">For non-residents who have other exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore), please write in to <u>ica_ncov_request@ica.gov.sg</u> to seek approval for entry, and provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>
     </td>
   </tr>
     <thead>
