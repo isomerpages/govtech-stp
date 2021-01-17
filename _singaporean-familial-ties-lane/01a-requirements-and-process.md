@@ -7,7 +7,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 
 <span class="font-size:16px;">The traveller must be an ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor who is:</span>
  <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR)<sup>1</sup>;
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR);
        </li>
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; 
        </li>
@@ -16,7 +16,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A non-resident who has exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore).
        </li>
       </ol>
-<p style="line-height:1.0;"><sup>1</sup><span style="font-size:14px;"> Work Pass holders, Student’s Pass (STP) holders, and STP In-Principle Approval (IPA) holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the <a href="/wphl/requirements-and-process">Work Pass Holder General Lane</a>. All other STP holders and STP IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></span></p>
+<p style="line-height:1.0;"><span style="font-size:14px;"> <i>Note: Work Pass holders, Student’s Pass (STP) holders, and STP In-Principle Approval (IPA) holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the <a href="/wphl/requirements-and-process">Work Pass Holder General Lane</a>. All other STP holders and STP IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></i></span></p>
             
 ### 2. Submit Approvals for Entry into Singapore
 
@@ -29,7 +29,17 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 </thead>
   <tr>
     <td style="font-size:16px;"><b>Submit Application</b></td>
-    <td style="font-size:16px;">Eligible travellers can submit an application for entry approval <a href="https://form.gov.sg/#!/5e3648e9405c180011dc5f9c">here</a>. Applications should be submitted at least 4 calendar days from the planned date of entry. Applications for travel are open between 4 and 64 calendar days before the planned date of entry into Singapore. Application processing can take up to 10 working days.<br/><br/>Once the application is approved, the applicant will be issued with an Approval Letter of Entry via email. The Approval Letter of Entry is valid for +/- 1 day from the approved date of entry.   
+    <td style="font-size:16px;">The following categories of foreign travellers can use the SafeTravel application portal <a href="https://eservices.ica.gov.sg/STO/">here</a> to apply for entry approval:
+     <ol style="margin-top:0px; list-style-type: disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR);
+       </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; or
+       </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A PR and ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities.
+       </li>
+      </ol>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><u>SingPass is required to make an application via the online portal. If the traveller does not have SingPass, a Singapore Citizen or PR applicant with SingPass may apply for the traveller’s entry</u>. Applications via the online portal will receive immediate approvals if all details are in order. Entry approvals granted are valid for +/- 1 day from the approved date of entry.</p>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">For non-residents who have other exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore), please write in to <u>ica_ncov_request@ica.gov.sg</u> to seek approval for entry, and provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>
     </td>
   </tr>
     <thead>
