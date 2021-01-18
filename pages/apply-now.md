@@ -34,7 +34,7 @@ permalink: /apply-now
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Citizen/Permanent Resident Familial Ties Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://go.gov.sg/ale">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://eservices.ica.gov.sg/STO/">Apply</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/scpr-familial-ties-lane/requirements-and-process">Details</a></td>
     </tr>
       <tr>

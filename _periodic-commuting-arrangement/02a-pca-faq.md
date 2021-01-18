@@ -29,6 +29,12 @@ For Singapore citizens, you <u><b>do not</b></u> need any entry approval to retu
 
 Entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs <https://www.kln.gov.my>, the Malaysian Immigration Department <https://www.imi.gov.my> or the Malaysian High Commission in Singapore <https://www.kln.gov.my/web/sgp_singapore> for further advice.
 
+If you wish to return to Malaysia for short-term home leave, and re-enter Singapore after your short-term home leave, you are strongly encouraged to apply for the Singapore-issued PCA before leaving Singapore. 
+
+The Singapore-issued PCA may be required by the Malaysian authorities for you to be exempted from the 14-day Home Surveillance Order (HSO)* in Malaysia. However, you may be required to undertake a COVID-19 PCR test within 24 hours of arrival in Malaysia and self-isolate while waiting for the test results.
+
+*<i>The longest duration of a short-term home leave while being exempted from the HSO is less than or equals to 60 days, subject to when the application is approved. Please note that you are not required to indicate your date of entry to Malaysia for the application.</i>
+
 Singapore PRs working in Singapore also have the option to apply for PCA through their Singapore employers to facilitate their home leave in Malaysia. For Singapore PRs who apply for PCA, they will also have to adhere to the PCA [Requirements and Process](/pca/requirements-and-process). 
 
 #### 6. I am a Singapore Citizen/PR holding a Malaysia Work Pass. I am currently based in Singapore and I wish to return to Malaysia for business and work purposes. Can I use the PCA to return to Malaysia?
@@ -186,9 +192,9 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 
 #### 33. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
 
-Your employee is required to undergo a COVID-19 PCR test on the 12th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 9th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
+Your employee is required to undergo a COVID-19 PCR test on the 14th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 11th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
-If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 9th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
+If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 11th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
 
 #### 34. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
