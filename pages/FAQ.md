@@ -6,7 +6,7 @@ permalink: /FAQ
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; ">Country/Region of Departure</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Country/Region of Departure</th>
     <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">Frequently Asked Questions (FAQ) on Safe Travel Lanes</th>
   </tr>
 </thead>
@@ -63,7 +63,7 @@ permalink: /FAQ
  </tr>
    <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Vietnam</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "><a href="/vietnam/atp/faq"> Air Travel Pass</a>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8;"><a href="/vietnam/atp/faq"> Air Travel Pass</a>
      </td>
  </tr>
  </tbody>
