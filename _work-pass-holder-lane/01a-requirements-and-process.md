@@ -113,7 +113,7 @@ permalink: /wphl/requirements-and-process
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Day of entry into Singapore</th>
+    <th colspan="3" style="font-size:16px;">Day of entry into Singapore</th>
   </tr>
 </thead>
 <tbody>
@@ -127,6 +127,11 @@ permalink: /wphl/requirements-and-process
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">SHN</a> at <a href="/health/shn/sdf">SHN Dedicated Facility (SDF)</a> and take a COVID-19 PCR test during the SHN period, at their own cost. </li>
          </ol> 
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by MOM during the entry approval process.</p>
+    </td>
+  </tr>
+ <tr>
+    <td style="font-size:16px;"><b>On-Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process sectors</b></td>
+    <td style="font-size:16px;">Newly arrived work permit and S Pass holders from the Construction, Marine and Process (CMP) sectors from higher risk countries/regions and subject to 14-day SHN at SHN dedicated facilities, are required to take COVID-19 PCR Test and Serology Test on arrival in Singapore from 18 January 2021. This will be administered within a few days of arrival. For more details, please refer to MOM's press release <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0116-on-arrival-tests-for-newly-arrived-foreign-workers-from-cmp-sectors">here</a>.
     </td>
   </tr>
   <tr>
