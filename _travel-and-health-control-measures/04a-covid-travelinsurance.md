@@ -1,6 +1,6 @@
 ---
-title: Mandatory COVID-19 Travel Insurance For Inbound Travellers To Singapore
-permalink:/health/travelinsurance
+title: Mandatory COVID-19 Travel Insurance 
+permalink: /health/travelinsurance
 third_nav_title: Mandatory COVID-19 Travel Insurance
 ---
 
