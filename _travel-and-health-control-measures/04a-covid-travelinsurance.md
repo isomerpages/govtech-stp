@@ -39,7 +39,7 @@ Visitors should <u>purchase travel insurance prior to travelling to Singapore </
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
-<u>Work Permit, Training Work Permit and S Pass Holders</u>
+### Work Permit, Training Work Permit and S Pass Holders
 
 Employers must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore, <b><u>before your workers arrive in Singapore</u></b>.
 
