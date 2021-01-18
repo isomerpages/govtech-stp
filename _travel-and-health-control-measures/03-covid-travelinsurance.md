@@ -3,7 +3,7 @@ title: Mandatory COVID-19 Travel Insurance (Inbound Travellers to Singapore)
 permalink: /health/travelinsurance
 ---
 
-## Overview 
+## Mandatory COVID-19 Travel Insurance
 
 ### Short-term Visitors
 
