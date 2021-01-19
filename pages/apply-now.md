@@ -7,9 +7,9 @@ permalink: /apply-now
 
 <table>
   <thead>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:1px solid #000000; border-left:1px solid #000000; border-right:1px solid #000000; background-color:#D6D6D6">Safe Travel Lane </th>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:1px solid #000000;  border-right:1px solid #000000; background-color:#D6D6D6">Application Form</th>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:1px solid #000000; border-right:1px solid #000000; background-color:#D6D6D6">Requirements and Details</th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:1px solid #000000; border-bottom:1px solid #000000;border-left:1px solid #000000; border-right:1px solid #000000; background-color:#D6D6D6">Safe Travel Lane </th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:1px solid #000000; border-bottom:1px solid #000000; border-right:1px solid #000000; background-color:#D6D6D6">Application Form</th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:1px solid #000000;border-bottom:1px solid #000000; border-right:1px solid #000000; background-color:#D6D6D6">Requirements and Details</th>
   </thead>
   <tbody>
     <tr>
