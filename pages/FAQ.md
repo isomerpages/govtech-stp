@@ -6,8 +6,8 @@ permalink: /FAQ
 <table>
 <thead>
   <tr>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Country/Region of Departure</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">Frequently Asked Questions (FAQ) <br/> on Safe Travel Lanes</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#CEF0FF">Country/Region of Departure</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#CEF0FF">Frequently Asked Questions (FAQ) <br/> on Safe Travel Lanes</th>
   </tr>
 </thead>
 <tbody>
