@@ -69,6 +69,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      </ol>
     </td>
  </tr>
+               <tr>
+    <td style="font-size:16px;"><b>Mandatory COVID-19 Travel Insurance (for visitors who apply for an ATP from 31 January 2021, 2359hrs)</b> </td>
+    <td style="font-size:16px;">
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.
+</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.</li>
+     </ol>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click here for a list of products offered by Singapore-based insurers.</i></p>
+    </td>
+ </tr>
    <tr>
     <td style="font-size:16px;"><b>SG Arrival Card</b> </td>
     <td style="font-size:16px;"> 
@@ -141,7 +152,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated.</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated; and</li>
+                      <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
          </ol> <br/>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b>
          </td>
