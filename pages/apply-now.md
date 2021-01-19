@@ -7,7 +7,7 @@ permalink: /apply-now
 
 <table>
   <thead>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Safe Travel Lane </th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; ">Safe Travel Lane </th>
     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Application Form</th>
     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Requirements and Details</th>
   </thead>
