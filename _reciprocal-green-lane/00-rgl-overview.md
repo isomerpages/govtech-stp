@@ -22,10 +22,10 @@ Please click on the relevant links below for more information about the RGL.
 <table>
 <thead>
   <tr>
-    <th>Country/Region</th>
-    <th>Requirements & Process</th>
+    <th border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED>Country/Region</th>
+    <th border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED>Requirements & Process</th>
    <!-- <th>RGL Terms & Conditions</th>-->
-    <th>Frequently Asked Questions</th>
+    <th border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED>Frequently Asked Questions</th>
   </tr>
 </thead>
 <tbody>
