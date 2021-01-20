@@ -7,45 +7,45 @@ permalink: /apply-now
 
 <table>
   <thead>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; ">Safe Travel Lane </th>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Application Form</th>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;">Requirements and Details</th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane </th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Application Form</th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Requirements and Details</th>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Air Travel Pass</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/overview">Details</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Air Travel Pass</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a></td>
     </tr>
       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Periodic Commuting Arrangement (Singapore Work Pass Holders)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/pca/requirements-and-process">Details</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Periodic Commuting Arrangement (Singapore Work Pass Holders)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/pca/requirements-and-process">Details</a></td>
     </tr>
       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">&nbsp;</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Applications temporarily suspended. Please click <a href="/pca/scpr-requirement-and-process">here</a> for details.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">&nbsp;</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Applications temporarily suspended. Please click <a href="/pca/scpr-requirement-and-process">here</a> for details.</td>
     </tr>
       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Reciprocal Green Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/overview">Details</a><br><br>For RGL travellers from Indonesia, please refer to the notice <a href="#notice1">here</a><br><br>For RGL travellers from Japan, please refer to the notice <a href="#notice2">here</a> </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/rgl/overview">Details</a><br><br>For RGL travellers from Indonesia, please refer to the notice <a href="#notice1">here</a><br><br>For RGL travellers from Japan, please refer to the notice <a href="#notice2">here</a> </td>
     </tr>
       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Citizen/Permanent Resident Familial Ties Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://eservices.ica.gov.sg/STO/">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/scpr-familial-ties-lane/requirements-and-process">Details</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Singapore Citizen/Permanent Resident Familial Ties Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO/">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Details</a></td>
     </tr>
       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Work Pass Holder Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/wphl/requirements-and-process">Details</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Singapore Work Pass Holder Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/wphl/requirements-and-process">Details</a></td>
     </tr>
        <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore Student's Pass Holder Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://form.gov.sg/#!/5e3648e9405c180011dc5f9c">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/stpl/requirements-and-process">Details</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Singapore Student's Pass Holder Lane</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="https://form.gov.sg/#!/5e3648e9405c180011dc5f9c">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/requirements-and-process">Details</a></td>
     </tr>
   </tbody>
   </table>

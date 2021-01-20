@@ -20,15 +20,15 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>At least 7 calendar days</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>At least 7 calendar days</u></b> before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:18px;"><b>Submit PCA application</b></td>
-    <td style="font-size:18px;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">here</a></b>
+    <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit PCA application</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">here</a></b>
     <br/><br/>
     <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of Work Pass Holders, should: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
@@ -78,18 +78,18 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>Up to 3 calendar days</u></b> before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Up to 3 calendar days</u></b> before planned date of entry into Singapore</th>
   </tr>
   </thead>
 <tbody>
   <tr>
-   <td style="font-size:18px;"><b>Pre-Departure COVID-19 PCR Test</b></td>
-    <td style="font-size:18px;">All PCA travellers, except for Singapore Permanent Residents, arriving in Singapore must take a <b>COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore.</b></td>
+   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers, except for Singapore Permanent Residents, arriving in Singapore must take a <b>COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore.</b></td>
  </tr>
   <tr>
-    <td style="font-size:18px;"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications
 </b></td>
-    <td style="font-size:18px;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b><br/>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.homer.gov.sg" target="_blank"> Homer</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
@@ -98,13 +98,13 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
   </tr>
  <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;"><b><u>Day of Departure</u></b> to Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
   </tr>
    </thead>
    <tr>
-    <td style="font-size:18px;"><b>Immigration Clearance by Malaysia
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance by Malaysia
 </b></td>
-     <td style="font-size:18px;">Approved PCA travellers must be able to produce the following
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers must be able to produce the following
 documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
@@ -126,13 +126,13 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>Day of entry</u></b> into Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of entry</u></b> into Singapore</th>
   </tr>
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:18px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
@@ -153,20 +153,21 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>Days 0-14 after arriving</u></b> in Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
+"><b><u>Days 0-14 after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
-    <td style="font-size:18px;"><b>SHN at dedicated SHN facilities</b></td>
-  <td style="font-size:18px;">The employee must remain in the dedicated SHN facility for at least 14 days from the date of entry into Singapore and test negative for COVID-19, whichever is later. The employee will undergo the COVID-19 PCR test on-site at the dedicated SHN facility. Otherwise, arrangements will be made for the employee to be transported to the test venue.
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SHN at dedicated SHN facilities</b></td>
+  <td style="font-size:18px; border-right:1px solid #D8D8D8;">The employee must remain in the dedicated SHN facility for at least 14 days from the date of entry into Singapore and test negative for COVID-19, whichever is later. The employee will undergo the COVID-19 PCR test on-site at the dedicated SHN facility. Otherwise, arrangements will be made for the employee to be transported to the test venue.
    <br/><br/>
   Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
     </td>
   </tr>
  <tr>
-    <td style="font-size:18px;"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:18px;"><b>Application sponsors must: </b><br/>
+    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
@@ -176,12 +177,12 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
   </tr>
  <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;"><b><u>After completion of SHN and receipt of negative COVID-19 PCR test</u></b></th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>After completion of SHN and receipt of negative COVID-19 PCR test</u></b></th>
   </tr>
   </thead> 
   <tr>
-    <td style="font-size:18px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;"><b>All approved PCA travellers must:</b><br/>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All approved PCA travellers must:</b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and </li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the necessary mobile applications (e.g. TraceTogether).</li>

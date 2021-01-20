@@ -22,54 +22,54 @@ Please click on the relevant links below for more information about the RGL.
 <table>
 <thead>
   <tr>
-    <th>Country/Region</th>
-    <th>Requirements & Process</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Requirements & Process</th>
    <!-- <th>RGL Terms & Conditions</th>-->
-    <th>Frequently Asked Questions</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Frequently Asked Questions</th>
   </tr>
 </thead>
 <tbody>
     <tr>
-    <td><b>Brunei Darussalam</b></td>
-      <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
      <!-- <td style="text-align:center;"><a href="/brunei/rgl/terms-and-conditions">Click here</a></td>-->
-      <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
   <tr>
-      <td><b>Germany</b></td>
-    <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
+    <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
-      <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
     <tr>
-      <td><b>Mainland China<sup>2</sup></b></td>
-    <td style="text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>2</sup></b></td>
+    <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
-      <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
   <tr>
-    <td ><b>Indonesia</b></td>
-       <td style=" text-align:left;"><a href="/indonesia/rgl/requirements-and-process">Click here</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
+       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/requirements-and-process">Click here</a></td>
      <!-- <td style=" text-align:center;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>-->
-    <td style=" text-align:left;"><a href="/indonesia/rgl/faq">Click here</a></td>
+    <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/faq">Click here</a></td>
   </tr>
   <tr>
-    <td ><b>Japan</b></td>
-       <td style=" text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
+       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
        <!--<td style=" text-align:center;"><a href="/japan/rgl/terms-and-conditions">Click here</a></td>-->
-    <td style=" text-align:left;"><a href="/rgl/faq">Click here</a></td>
+    <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
      <tr>
-    <td ><b>Malaysia</b></td>
-       <td style=" text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
+       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!-- <td style=" text-align:center;"><a href="/malaysia/rgl/terms-and-conditions">Click here</a></td>-->
-    <td style="text-align:left;"><a href="/rgl/faq">Click here</a></td>
+    <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
     <tr>
-      <td style="border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
-       <td style="border-bottom:1px solid #D8D8D8; text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
+       <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:left;"><a href="/rgl/requirements-and-process">Click here</a></td>
      <!-- <td style="border-bottom:1px solid #D8D8D8; text-align:center;"><a href="/rok/rgl/terms-and-conditions">Click here</a></td>-->
-    <td style="border-bottom:1px solid #D8D8D8; text-align:left;"><a href="/rgl/faq">Click here</a></td>
+    <td style="border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;text-align:left;"><a href="/rgl/faq">Click here</a></td>
   </tr>
  
   </tbody>
