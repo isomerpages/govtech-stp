@@ -215,7 +215,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </thead>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>All approved RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All approved RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the 14-day itinerary submitted for the duration of stay; and
 </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Commute using private hire cars/taxis, or cohorted company transport (commuting via public transport is prohibited).
