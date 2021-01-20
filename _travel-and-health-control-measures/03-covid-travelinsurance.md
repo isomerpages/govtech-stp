@@ -9,7 +9,9 @@ permalink: /health/travelinsurance
 
 With effect from 31 January 2021, 2359 hours, short-term visitors applying to enter Singapore via the Air Travel Pass (ATP) and Reciprocal Green Lanes (RGLs) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000. The travel insurance will help them pay for the costs of their medical treatment in Singapore.
 
-Visitors should <u>purchase travel insurance prior to travelling to Singapore </u>.  A list of available inbound travel insurance products are as follows.
+Visitors should <u>purchase such travel insurance prior to travelling to Singapore</u>, either from Singapore-based or overseas insurers. 
+
+A list of available Singapore-based travel insurance products are as follows:
 
 <table>
 <thead>
