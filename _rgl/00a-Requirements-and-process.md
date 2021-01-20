@@ -31,14 +31,14 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">At least 14 calendar days before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">At least 14 calendar days before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submit RGL application</b></td>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit RGL application</b></td>
     <td style="font-size:16px;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="https://eservices.ica.gov.sg/STO/">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Application sponsors should:</p>
 <ol style="margin-top:0px; list-style-type:disc;">
@@ -68,13 +68,13 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">At least 7 days before planned entry date into in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">At least 7 days before planned entry date into in Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Travellers to Submit Visa Application (if Required)</b></td>
+    <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Travellers to Submit Visa Application (if Required)</b></td>
     <td style="font-size:16px;"><b><u>Prospective SafeTravel Pass-RGL travellers who are visa-required passport holders</u> should apply through the usual channels for a visa to travel to Singapore.</b>
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and </li>
@@ -90,26 +90,27 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">3 calendar days before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
+">3 calendar days before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+    <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
     <td style="font-size:16px;">Approved RGL travellers must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">health centre </a>designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.
  </td>
   </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to 3 calendar days before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Up to 3 calendar days before planned date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:16px;"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
     <td style="font-size:16px;">Approved RGL travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
@@ -119,13 +120,14 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   </tr>
    <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Day of Departure to Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
+">Day of Departure to Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
  <tr>
-    <td style="font-size:16px;"><b>Pre-departure</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure</b></td>
     <td style="font-size:16px;">Application sponsors should submit the following before the traveller’s departure to Singapore, <a href="https://eservices.ica.gov.sg/STO">here</a>:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
@@ -134,7 +136,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     </td>
   </tr> 
    <tr>
-    <td style="font-size:16px;"><b>Pre-boarding clearance</b></td>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
     <td style="font-size:16px;">Approved RGL travellers must produce the following documents when leaving for Singapore:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
@@ -153,14 +155,14 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Day of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="1" style="font-size:16px;"><b>Immigration clearance</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
    <td style="font-size:16px;">An approved RGL traveller must declare on arrival that he/she is an approved SafeTravel Pass-RGL holder and be able to produce the following:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
@@ -172,12 +174,12 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     </td>
   </tr>
     <tr>
-    <td rowspan="1" style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
    <td style="font-size:16px;">The local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced(non-residential) accommodation, adhering to prevailing health measures. Use of public transport is not allowed.
     </td>
   </tr>
   <tr>
-    <td rowspan="1" style="font-size:16px;"><b>TraceTogether App/Token</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether App/Token</b></td>
    <td style="font-size:16px;">The local host* is required to:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
@@ -193,26 +195,26 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to 2 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Up to 2 days after arriving in Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="1" style="font-size:16px;"><b>Self-isolation</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
     <td style="font-size:16px;"> All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">After completion of isolation</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">After completion of isolation</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
   <tr>
-    <td rowspan="1" style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:16px;"><b>All approved RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the 14-day itinerary submitted for the duration of stay; and
 </li>
@@ -228,19 +230,19 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to 14 days after departure from Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Up to 14 days after departure from Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="1" style="font-size:16px;"><b>Retention of TraceTogether data</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Retention of TraceTogether data</b></td>
     <td style="font-size:16px;">RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.
  </td>
   </tr>
   <tr>
-    <td rowspan="1" style="font-size:16px;"><b>Reporting of Positive COVID-19 Test</b></td>
+    <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Reporting of Positive COVID-19 Test</b></td>
     <td style="font-size:16px;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
 </li>
