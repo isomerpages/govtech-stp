@@ -102,9 +102,9 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
   </tr>
    </thead>
    <tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance by Malaysia
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance by Malaysia
 </b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers must be able to produce the following
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers must be able to produce the following
 documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
@@ -131,8 +131,8 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
