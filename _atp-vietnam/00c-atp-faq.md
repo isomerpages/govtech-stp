@@ -123,7 +123,7 @@ If you have submitted your ATP application prior to 31 January 2021, 2359hrs, Si
 
 #### 22. How can visitors purchase the required insurance coverage?
 
-Visitors must purchase COVID-19 travel insurance prior to their travel to Singapore. The SafeTravel website provides a list of the Singapore-based insurers’ products. Visitors can visit the respective insurers’ websites to purchase the inbound insurance plan. They may reach out to the insurers for more information.
+Visitors must purchase COVID-19 travel insurance prior to their travel to Singapore. The SafeTravel website provides <a href="https://safetravel.ica.gov.sg/health/travelinsurance">a list of the Singapore-based insurers’ products</a>. Visitors can visit the respective insurers’ websites to purchase the inbound insurance plan. They may reach out to the insurers for more information.
 
 #### 23. Do visitors need to show proof of travel insurance purchase when they apply for the ATP?
 

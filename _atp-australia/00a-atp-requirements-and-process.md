@@ -77,7 +77,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 </li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.</li>
      </ol>
-                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click here for a list of products offered by Singapore-based insurers.</i></p>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></p>
     </td>
  </tr>
    <tr>
@@ -153,7 +153,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated; and</li>
-                      <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
          </ol> <br/>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b>
          </td>
