@@ -78,7 +78,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 </li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.</li>
      </ol>
-                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click here for a list of products offered by Singapore-based insurers.</i></p>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></p>
     </td>
  </tr>            
    <tr>
