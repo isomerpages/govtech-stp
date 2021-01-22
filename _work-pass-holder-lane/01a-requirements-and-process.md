@@ -13,17 +13,17 @@ permalink: /wphl/requirements-and-process
   <tbody>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to one month before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Up to one month before planned date of entry into Singapore</th>
   </tr>
 </thead>
   <tr>
-    <td style="font-size:16px;"><b>Submit Application</b></td>
-    <td style="font-size:16px;">Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">here</a>. Please use the entry approval calendar <a href="https://service2.mom.gov.sg/shn/when-to-apply-entry/">here</a> to calculate the earliest and latest date you should apply for entry.<br/><br/>Once the application is approved, the applicant will be issued with an Approval Letter of Entry via email. <!--The Approval Letter of Entry is valid for +/- 1 day from the approved date of entry.--><br/><br/>Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found <a href="https://www.mom.gov.sg/covid-19/additional-responsibilities">here</a>.    
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Applicants, including pass holders as well as employers and employment agencies, are to submit an application for MOM’s entry approval <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">here</a>. Please use the entry approval calendar <a href="https://service2.mom.gov.sg/shn/when-to-apply-entry/">here</a> to calculate the earliest and latest date you should apply for entry.<br/><br/>Once the application is approved, the applicant will be issued with an Approval Letter of Entry via email. <!--The Approval Letter of Entry is valid for +/- 1 day from the approved date of entry.--><br/><br/>Additional requirements and responsibilities to bring pass holders (work pass holders and dependants) into Singapore can be found <a href="https://www.mom.gov.sg/covid-19/additional-responsibilities">here</a>.    
     </td>
   </tr>
   <tr>
-    <td style="font-size:16px;"><b>Ensure insurance coverage</b></td>
-    <td style="font-size:16px;"><p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">The Singapore Government will no longer cover treatment costs</a> for all pass holders entering Singapore <b>from 1 January 2021</b>, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</p>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Ensure insurance coverage</b></td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">The Singapore Government will no longer cover treatment costs</a> for all pass holders entering Singapore <b>from 1 January 2021</b>, if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</p>
 <br>
 <ins>For Work Permit, Training Work Permit and S Pass holders</ins>
 <br>The employer is responsible for their workers’ medical expenses. The employer must buy COVID-19 medical insurance for all Work Permit, Training Work Permit and S Pass holders entering Singapore <b>from 1 January 2021</b>, <ins><b>before your workers arrive in Singapore</b></ins>.
@@ -42,12 +42,12 @@ permalink: /wphl/requirements-and-process
   </tr>
     <thead>
      <tr>
-    <th colspan="2" style="font-size:16px;">At least 7 days before planned entry date into in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED ">At least 7 days before planned entry date into in Singapore</th>
   </tr>
     </thead>
      <tr>
-    <td  style="font-size:16px;"><b>Submit Visa Application (if required)</b></td>
-    <td style="font-size:16px;"><u><b>Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore.</b></u> 
+    <td  style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Visa Application (if required)</b></td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore.</b></u> 
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and
        </li>
@@ -65,17 +65,17 @@ permalink: /wphl/requirements-and-process
 <tbody>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to 3 calendar days before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Up to 3 calendar days before planned date of entry into Singapore</th>
   </tr>
   </thead>
    <tr>
-    <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test </b></td>
-    <td style="font-size:16px;">Travellers, including but not limiting to LTPHs/IPA holders and short-term visitors, who have spent the past consecutive 14 days to certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result in English.
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test </b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers, including but not limiting to LTPHs/IPA holders and short-term visitors, who have spent the past consecutive 14 days to certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result in English.
       </td>          
    </tr>
     <tr>
-    <td  style="font-size:16px;"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:16px;">Travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
+    <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
        </li>
@@ -88,12 +88,12 @@ permalink: /wphl/requirements-and-process
   </tr>
    <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Day of Departure to Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Day of Departure to Singapore</th>
   </tr>
   </thead>
    <tr>
-    <td  style="font-size:16px;"><b>Pre-boarding Clearance</b></td>
-    <td style="font-size:16px;">Travellers under the Work Pass Holder General Lane must produce the following documents for pre-boarding clearance:
+    <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding Clearance</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers under the Work Pass Holder General Lane must produce the following documents for pre-boarding clearance:
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Approval Letter of Entry;
        </li>
@@ -113,13 +113,13 @@ permalink: /wphl/requirements-and-process
 <table>
 <thead>
   <tr>
-    <th colspan="3" style="font-size:16px;">Day of entry into Singapore</th>
+    <th colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Day of entry into Singapore</th>
   </tr>
 </thead>
 <tbody>
  <tr>
-    <td style="font-size:16px;"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers can proceed with immigration clearance per normal.<br/><br/>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
        Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore here, travellers may be required to:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
@@ -130,13 +130,13 @@ permalink: /wphl/requirements-and-process
     </td>
   </tr>
  <tr>
-    <td style="font-size:16px;"><b>On-Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process sectors</b></td>
-    <td style="font-size:16px;">Newly arrived work permit and S Pass holders from the Construction, Marine and Process (CMP) sectors from higher risk countries/regions and subject to 14-day SHN at SHN dedicated facilities, are required to take COVID-19 PCR Test and Serology Test on arrival in Singapore from 18 January 2021. This will be administered within a few days of arrival. For more details, please refer to MOM's press release <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0116-on-arrival-tests-for-newly-arrived-foreign-workers-from-cmp-sectors">here</a>.
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>On-Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process sectors</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived work permit and S Pass holders from the Construction, Marine and Process (CMP) sectors from higher risk countries/regions and subject to 14-day SHN at SHN dedicated facilities, are required to take COVID-19 PCR Test and Serology Test on arrival in Singapore from 18 January 2021. This will be administered within a few days of arrival. For more details, please refer to MOM's press release <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0116-on-arrival-tests-for-newly-arrived-foreign-workers-from-cmp-sectors">here</a>.
     </td>
   </tr>
   <tr>
-    <td style="font-size:16px;"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.<br/><br/>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.<br/><br/>
 For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.
     </td>
   </tr>
@@ -148,13 +148,13 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Up to 14 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Up to 14 days after arriving in Singapore</th>
   </tr>
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:16px;"><b>Self-isolation/SHN</b></td>
-    <td style="font-size:16px;">For travellers eligible for <u>on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after they are notified of their negative result and go about their activities in Singapore.<br/><br/>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation/SHN</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">For travellers eligible for <u>on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after they are notified of their negative result and go about their activities in Singapore.<br/><br/>
       <u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
@@ -162,25 +162,25 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
 </tbody>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">7 days after completing SHN</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">7 days after completing SHN</th>
   </tr>
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:16px;"><b>7-day enhanced testing for workers residing in dormitories only</b></td>
-    <td style="font-size:16px;">Newly arrived migrant workers staying in dormitories will be subjected to an additional 7-day testing regime. For more details, please refer to MOM's <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0105-additional-testing-regime-for-newly-arrived-foreign-workers">press release</a>.<br/><br/>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>7-day enhanced testing for workers residing in dormitories only</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived migrant workers staying in dormitories will be subjected to an additional 7-day testing regime. For more details, please refer to MOM's <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0105-additional-testing-regime-for-newly-arrived-foreign-workers">press release</a>.<br/><br/>
     </td>
   </tr>
   </tbody>
 <thead>          
     <tr>
-    <th colspan="2" style="font-size:16px;">After completion of isolation</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">After completion of isolation</th>
     </tr>
 </thead>
 <tbody>
     <tr>
-    <td style="font-size:16px;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;">All travellers are to abide by prevailing local public health requirements and safe distancing measures and encouraged to use <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.safeentry.gov.sg/">SafeEntry</a> so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All travellers are to abide by prevailing local public health requirements and safe distancing measures and encouraged to use <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.safeentry.gov.sg/">SafeEntry</a> so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.
     </td>
   </tr>
   </tbody>
