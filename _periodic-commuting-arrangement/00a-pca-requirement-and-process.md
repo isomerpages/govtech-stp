@@ -108,7 +108,7 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
 documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia; and</li>
+     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English, except for Singapore Permanent Residents, from recognised or accredited laboratories in Malaysia; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid Malaysia-issued passport; and</li>
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Work pass (for work pass holders) or Singapore NRIC (for Singapore PRs)</li>
          </ol>     
