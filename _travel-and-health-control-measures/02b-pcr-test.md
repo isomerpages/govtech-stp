@@ -36,12 +36,12 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoint</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; pay on arrival</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">	Tanah Merah Ferry Terminal</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
        <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; pay on arrival</td>
     </tr>
         <tr>
