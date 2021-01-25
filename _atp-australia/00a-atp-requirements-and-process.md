@@ -41,7 +41,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit visa application (if required)</b></td>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit visa application (if required)</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>.
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
@@ -123,7 +123,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
 </thead>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Check-in at departure airport</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Check-in at departure airport</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> When checking in at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
@@ -164,7 +164,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          </td>
  </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<br/><br/>
      Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
          </td>
@@ -192,7 +192,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
   </tr>
              <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SafeEntry check-in at establishments</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SafeEntry check-in at establishments</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. <br/><br/> Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
     </td>
   </tr>
