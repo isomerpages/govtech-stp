@@ -10,7 +10,7 @@ The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwi
 
 #### PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and [Safe Travel lane](/arrival/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. 
+Depending on the travellers’ travel history and [Safe Travel lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. 
 
 <div id="price"></div>
 
@@ -36,21 +36,21 @@ When a PCR test should be taken in Singapore will depend on the traveller’s co
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoint</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; pay on arrival</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">	Tanah Merah Ferry Terminal</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
        <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">NA; pay on arrival</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">While serving Stay-Home Notice (SHN)</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Specified testing facility in Singapore</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$145</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$125</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">NA; Pay during application </td>
     </tr>
   </tbody>
   </table>
 
-All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/myhealth) for their PCR test results. 
+All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results. 

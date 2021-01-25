@@ -29,6 +29,12 @@ For Singapore citizens, you <u><b>do not</b></u> need any entry approval to retu
 
 Entry into Malaysia is governed by the Malaysian authorities. You may wish to reach out to the Malaysian Ministry of Foreign Affairs <https://www.kln.gov.my>, the Malaysian Immigration Department <https://www.imi.gov.my> or the Malaysian High Commission in Singapore <https://www.kln.gov.my/web/sgp_singapore> for further advice.
 
+If you wish to return to Malaysia for short-term home leave, and re-enter Singapore after your short-term home leave, you are strongly encouraged to apply for the Singapore-issued PCA before leaving Singapore. 
+
+The Singapore-issued PCA may be required by the Malaysian authorities for you to be exempted from the 14-day Home Surveillance Order (HSO)* in Malaysia. However, you may be required to undertake a COVID-19 PCR test within 24 hours of arrival in Malaysia and self-isolate while waiting for the test results.
+
+*<i>The longest duration of a short-term home leave while being exempted from the HSO is less than or equals to 60 days, subject to when the application is approved. Please note that you are not required to indicate your date of entry to Malaysia for the application.</i>
+
 Singapore PRs working in Singapore also have the option to apply for PCA through their Singapore employers to facilitate their home leave in Malaysia. For Singapore PRs who apply for PCA, they will also have to adhere to the PCA [Requirements and Process](/pca/requirements-and-process). 
 
 #### 6. I am a Singapore Citizen/PR holding a Malaysia Work Pass. I am currently based in Singapore and I wish to return to Malaysia for business and work purposes. Can I use the PCA to return to Malaysia?
@@ -81,7 +87,7 @@ No. Please apply for an entry approval with [MOM](http://www.mom.gov.sg/covid-19
 
 #### 15. Do I need to pay to apply for PCA on behalf of my employees?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 12 of stay at the dedicated SHN facility. In addition, a 14-day SHN at the dedicated SHN facility will cost S$2,000 (inclusive of GST). 
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 14 of stay at the dedicated SHN facility. In addition, a 14-day SHN at the dedicated SHN facility will cost S$2,000 (inclusive of GST). 
 
 <!--Payment (via credit card) for the mandatory COVID-19 PCR test for each employee is required upfront at the point of application. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
@@ -148,7 +154,7 @@ No. Please make sure that your employee is able to enter on the date indicated i
 
 #### 26. Can I cancel my PCA application and resubmit a new PCA application if there is a mistake?
 
-No. You may not cancel a PCA application or seek a refund for the COVID-19 PCR test payment once the PCA application has been approved. Please ensure all information in the PCA application is correct.
+No. You may not cancel a PCA application or seek a refund for the SDF charges and COVID-19 PCR test payment once the PCA application has been approved. Please ensure all information in the PCA application is correct.
 
 If your employee is unable to enter Singapore on the date indicated in the application, please note that employers will only be able to apply for a new PCA for their employee to re-enter Singapore 90 days after the date of his/her prior entry.
 
@@ -186,9 +192,9 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 
 #### 33. How is the COVID-19 PCR test appointment arranged, and who will be informed of the appointment details?
 
-Your employee is required to undergo a COVID-19 PCR test on the 12th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 9th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
+Your employee is required to undergo a COVID-19 PCR test on the 14th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 11th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
-If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 9th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
+If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 11th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
 
 #### 34. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
@@ -219,7 +225,7 @@ For Singapore PR employees, they will have to bring along their NRIC to validate
 
 #### 39. How do I make payment for the COVID-19 PCR test? How much does a COVID-19 PCR test cost?
 
-Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 12 of stay at the SDF.
+Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay around S$125 (inclusive of GST) per COVID-19 PCR test administered to the PCA traveller on Day 14 of stay at the SDF.
 
 <!--Payment for the mandatory COVID-19 PCR test for each employee is required at the point of application and must be made via credit card. Employers/employees should expect to pay up to S$200 (inclusive of GST) per employee for the COVID-19 PCR test.-->
 
@@ -286,15 +292,19 @@ No. We regret to inform you that no changes to the date of entry are allowed onc
 
 Affected PCA travellers are required to serve their SHN in the dedicated SHN facility, even if they have pre-booked other accommodation. Those who have arranged to serve out their SHN at other accommodation should inform their accommodation provider accordingly and discuss possible options for refund.
 
+#### 49. I am travelling to Singapore with an immediate family member on the same day. Can we stay in the same SDF room?
+
+Under the PCA, only immediate family members who arrive in Singapore on the same day are permitted to stay in the same SDF room (up to 2 pax). Immediate family members travelling into Singapore together will be sent to the same SDF. Upon arrival at the SDF, they can notify the hotel duty manager that they wish to share a room with their family member, even if they are from different companies.
+
 ### Recovered Travellers
 
-#### 49. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
+#### 50. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
 You should schedule your travel into Singapore at least 21 days after your date of COVID-19 diagnosis, based on your first positive PCR test. For example, if the date of your swab which yielded your first positive PCR test is on 1 Nov (Day 1), you should only depart for Singapore on 22 Nov (Day 22) and onwards. You should not travel if feeling unwell.
 
 Travellers with a recent diagnosis of COVID-19 infection in the past 21 days may be denied entry into Singapore at the checkpoints. 
 
-#### 50. I have recovered from COVID-19, am I required to undergo the pre-departure test before entry into Singapore? 
+#### 51. I have recovered from COVID-19, am I required to undergo the pre-departure test before entry into Singapore? 
 
 Individuals who were previously diagnosed with COVID-19 infection will still be required to take a COVID-19 PCR test within 72 hours before departure for Singapore. Children aged 6 and below (in the calendar year) are currently exempted from the pre-departure PCR test. If the pre-departure COVID-19 PCR test result is positive, the recovered individual must also provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. The documentary proof should be presented to the immigration officers at the checkpoints in Singapore. 
 
