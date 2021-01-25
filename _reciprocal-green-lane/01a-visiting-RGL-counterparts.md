@@ -19,15 +19,60 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 
 The RGL is also known by other names as used by Singapore's RGL counterpart countries/regions. Please refer to the table below for comparison and links to the foreign counterparts' websites. Instructions and applications to travel to these counterpart RGL countries/regions will be via the foreign counterpart's authorities.
 
-| Singapore Nomenclature |  Foreign Counterpart's Nomenclature  | Application Process and Instructions |FAQ|
-|------------------------|----------------------------|-------------------------------|-------------------|
-|RGL (Brunei)  |  Entry Travel Pass  | Instructions under *Entry Travel for Foreigners* at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a> |[FAQ](/rgl/outbound/faq#faq-outbound-brunei)|
-|RGL (Germany)   | Reciprocal Green Lane |Information on website of the Embassy of Germany in Singapore [here](https://singapur.diplo.de/sg-en/service/05-VisaEinreise) for more information.|[FAQ](/rgl/outbound/faq#faq-outbound-germany)|
-|RGL (Mainland China)   | 新中快捷通道（Singapore-China Fast Lane）   |Instructions from the Embassy of the People's Republic of China <a href="http://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm" target="_blank">website</a>|[FAQ](/rgl/outbound/faq#faq-outbound-china)|
-|RGL (Indonesia) |   Reciprocal Green Lane  | Please refer to the notice [here](#notice1). <br><br> Application via the Directorate General of Immigration of Indonesia <a href="https://visa-online.imigrasi.go.id/" target="_blank">website</a>|[FAQ](/rgl/outbound/faq#faq-outbound-indonesia)|
-|RGL (Japan) |    ビジネストラック (Japan-Singapore Business Track)  | Please refer to the notice [here](#notice2).<br><br>Application instructions from Japanese Ministry of Foreign Affairs <a href="https://www.mofa.go.jp/a_o/na/page22e_000928.html" target="_blank">website</a> |[FAQ](/rgl/outbound/faq#faq-outbound-japan)|
-|RGL (Malaysia)   |   Reciprocal Green Lane   |   Instructions from Malaysian Immigration Department <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">website</a> | [FAQ](/rgl/outbound/faq#faq-outbound-malaysia)|
-|RGL (Republic of Korea)  | 한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) |  Instructions from Republic of Korea Embassy <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275" target="_blank">website</a>   |[FAQ](/rgl/outbound/faq#faq-outbound-rok)|
+<table>
+<thead>
+  <tr>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Singapore Nomenclature</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Foreign Counterpart's Nomenclature </th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"> Application Process and Instructions</th>
+     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"> FAQ</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Brunei)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions under *Entry Travel for Foreigners* at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei">FAQ</a></td>
+  </tr>
+      <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Germany)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Information on website of the Embassy of Germany in Singapore <a href="https://singapur.diplo.de/sg-en/service/05-VisaEinreise">here</a> for more information.</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-germany">FAQ</a></td>
+  </tr>
+      <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Mainland China)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">新中快捷通道（Singapore-China Fast Lane）</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from the Embassy of the People's Republic of China <a href="http://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-china">FAQ</a></td>
+  </tr>
+      <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Indonesia)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane </td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Please refer to the notice <a href="#notice1">here</a>. <br><br> Application via the Directorate General of Immigration of Indonesia <a href="https://visa-online.imigrasi.go.id/" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-indonesia">FAQ</a></td>
+  </tr>
+      <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Japan)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">ビジネストラック (Japan-Singapore Business Track) </td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Please refer to the notice <a href="#notice2">here</a>.<br><br>Application instructions from Japanese Ministry of Foreign Affairs <a href="https://www.mofa.go.jp/a_o/na/page22e_000928.html" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-japan">FAQ</a></td>
+  </tr>
+      <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Malaysia)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from Malaysian Immigration Department <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">FAQ</a></td>
+  </tr>
+      <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Republic of Korea) </b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) </td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Instructions from Republic of Korea Embassy <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275" target="_blank">website</a> </td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-rok">FAQ</a></td>
+  </tr>
+  </tbody>
+  </table>
 
 ### Pre-Departure Test for RGL Travel
 

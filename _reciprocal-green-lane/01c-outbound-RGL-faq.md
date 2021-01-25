@@ -11,38 +11,38 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
 <table>
   <thead>
     <tr>
-      <th>RGL Countries</th>
-      <th>FAQ</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Countries</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FAQ</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Brunei Darusalam</td>
-      <td><a href="#faq-outbound-brunei">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darusalam</b></td>
+      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-brunei">Click here</a></td>
     </tr>
       <tr>
-      <td>China</td>
-      <td><a href="#faq-outbound-china">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>China</b></td>
+      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-china">Click here</a></td>
     </tr>
       <tr>
-      <td>Germany</td>
-      <td><a href="#faq-outbound-germany">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
+      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-germany">Click here</a></td>
     </tr>
       <tr>
-      <td>Indonesia</td>
-      <td><a href="#faq-outbound-indonesia">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
+      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-indonesia">Click here</a></td>
     </tr>
       <tr>
-      <td>Japan</td>
-      <td><a href="#faq-outbound-japan">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
+      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-japan">Click here</a></td>
     </tr>
       <tr>
-      <td>Malaysia</td>
-      <td><a href="#faq-outbound-malaysia">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
+      <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-malaysia">Click here</a></td>
     </tr>
       <tr>
-      <td>Republic of Korea</td>
-      <td><a href="#faq-outbound-rok">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Republic of Korea</b></td>
+      <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="#faq-outbound-rok">Click here</a></td>
     </tr>    
   </tbody>
   </table>

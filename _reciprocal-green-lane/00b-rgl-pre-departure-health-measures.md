@@ -19,13 +19,13 @@ Travellers must remain in and have not travelled out of the country for at least
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Please refer to the list of authorised health centres designated by the Government of Brunei Darussalam: <ol style="margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
-        <li style="margin-top:0px; margin-bottom:0px;">Sports Complex Swab Centre</li>
-        <li style="margin-top:0px; margin-bottom:0px;">RIPAS Hospital</li>
-        <li style="margin-top:0px; margin-bottom:0px;">SARI Centre, Suri Seri Begawan Hospital</li>
-        <li style="margin-top:0px; margin-bottom:0px;">Berakas Health Centre</li>
-        <li style="margin-top:0px; margin-bottom:0px;">PAPHMWHB Gadong Health Centre</li>
-        <li style="margin-top:0px; margin-bottom:0px;">Pengkalan Batu Health Centre</li>
-        <li style="margin-top:0px; margin-bottom:0px;">Seria Health Centre</li>  
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Sports Complex Swab Centre</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">RIPAS Hospital</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">SARI Centre, Suri Seri Begawan Hospital</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Berakas Health Centre</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">PAPHMWHB Gadong Health Centre</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Pengkalan Batu Health Centre</li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Seria Health Centre</li>  
         </ol></td> 
   </tr>
   <tr>
