@@ -66,10 +66,10 @@ The RGL is also known by other names as used by Singapore's RGL counterpart coun
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">FAQ</a></td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Republic of Korea) </b></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) </td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from Republic of Korea Embassy <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275" target="_blank">website</a> </td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-rok">FAQ</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Republic of Korea) </b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) </td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Instructions from Republic of Korea Embassy <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275" target="_blank">website</a> </td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-rok">FAQ</a></td>
   </tr>
   </tbody>
   </table>
