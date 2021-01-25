@@ -19,8 +19,8 @@ Singapore citizens and residents based in Singapore returning from overseas via 
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Travellers can be exempted from SHN if they undergo a COVID-19 PCR test upon arrival in Singapore, and remain in isolation until the test result is out. <br><br> <b>Note:</b> <i>These travellers should identify themselves as RGL travellers to ICA and relevant airport staff upon arrival in Singapore by presenting all relevant travel documents.</i> </td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia, Germany, Indonesia, Japan, Republic of Korea</b></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Travellers will be subjected to 14-day Stay-Home Notice (SHN) at SHN Dedicated Facility upon arrival in Singapore. </td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia, Germany, Indonesia, Japan, Republic of Korea</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers will be subjected to 14-day Stay-Home Notice (SHN) at SHN Dedicated Facility upon arrival in Singapore. </td>
   </tr>
   </tbody>
   </table>
