@@ -17,31 +17,31 @@ third_nav_title: Visiting RGL Counterpart Countries/Regions
   </thead>
   <tbody>
     <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Brunei Darusalam</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darusalam</b></td>
       <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-brunei">Click here</a></td>
     </tr>
       <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">China</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>China</b></td>
       <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-china">Click here</a></td>
     </tr>
       <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Germany</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
       <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-germany">Click here</a></td>
     </tr>
       <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Indonesia</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
       <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-indonesia">Click here</a></td>
     </tr>
       <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Japan</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
       <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-japan">Click here</a></td>
     </tr>
       <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Malaysia</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
       <td style="border-right:1px solid #D8D8D8;"><a href="#faq-outbound-malaysia">Click here</a></td>
     </tr>
       <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Republic of Korea</td>
+      <td style="border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Republic of Korea</b></td>
       <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="#faq-outbound-rok">Click here</a></td>
     </tr>    
   </tbody>
