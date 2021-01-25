@@ -71,7 +71,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
             <tr>
-    <td style="font-size:16px;"><b>Mandatory COVID-19 Travel Insurance (for visitors who apply for an ATP from 31 January 2021, 2359hrs)</b> </td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mandatory COVID-19 Travel Insurance (for visitors who apply for an ATP from 31 January 2021, 2359hrs)</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.
