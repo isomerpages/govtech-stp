@@ -434,7 +434,7 @@ The SafeTravel website provides a list of products offered by Singapore-based in
 <thead>
   <tr>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Insurer</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Contact Details</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; text-align:center;">Contact Details</th>
   </tr>
 </thead>
 <tbody>
