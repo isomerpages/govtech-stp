@@ -434,21 +434,21 @@ The SafeTravel website provides a list of products offered by Singapore-based in
 <thead>
   <tr>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Insurer</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; text-align:center;">Contact Details</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Contact Details</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
-    <td style="text-align:center;border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Email:<a href="mailto:sgp.corpcomms@aig.com">sgp.corpcomms@aig.com</a></td>
+    <td style="border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Email:<a href="mailto:sgp.corpcomms@aig.com">sgp.corpcomms@aig.com</a></td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Chubb Insurance Singapore Limited</b></td>
-    <td style="text-align:center;border-right:1px solid #D8D8D8;">Juliana Lim<br/>Tel: +65 6398 8672<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Juliana.lim@chubb.com</a></td>
+    <td style="border-right:1px solid #D8D8D8;">Juliana Lim<br/>Tel: +65 6398 8672<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Juliana.lim@chubb.com</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>HL Assurance Pte. Ltd. </b></td>
-    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;">Cherie Teo<br/>Tel: +65 9777 2370<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Cherie.teo@hlas.com.sg</a></td>
+    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; ">Cherie Teo<br/>Tel: +65 9777 2370<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Cherie.teo@hlas.com.sg</a></td>
   </tr>
  </tbody>
  </table>
