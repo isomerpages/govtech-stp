@@ -19,7 +19,7 @@ permalink: /brunei/atp/conditions
           <li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the 14 days after leaving Singapore.</li>
          </ol>
        </li>
-        <li style="font-size:18px; list-style-type:lower-alpha;"> bear the full cost of medical treatment, tests and isolation imposed on him/her for public health reasons, should he/she be suspected of being infected with COVID-19, or require medical treatment for COVID-19 while in Singapore; and</li>
+        <li style="font-size:18px; list-style-type:lower-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travel to Singapore; and</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> adhere to the prevailing public health measures while in Singapore.</li>
      </ol>
   </li>
