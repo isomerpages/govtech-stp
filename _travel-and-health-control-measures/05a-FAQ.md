@@ -11,6 +11,7 @@ permalink: /health/FAQ
  2. [Transport arrangements during SHN](#transport)
  3. [COVID-19 PCR Test](#pcrtest)
  4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
+ 5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
 
 <div id="shnsdf"></div>
 
@@ -412,3 +413,94 @@ You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the 
 Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test. 
 
 Click here to [Go Back To Top](#top).
+
+<div id="inboundtravelinsurance"></div>
+
+## **Singapore Inbound Travel Insurance** 
+
+#### 1.	When does the mandatory insurance coverage start?
+
+The mandatory insurance coverage will be required for applications for entry into Singapore under the Air Travel Pass (ATP) and Reciprocal Green Lane (RGL) from 31 January 2021, 2359 hours (Singapore time), onwards.
+
+#### 2.	Do all travellers entering Singapore require mandatory insurance coverage?
+
+The requirement will apply to short-term visitors who are entering Singapore under the Air Travel Pass (ATP) and Reciprocal Green Lanes (RGLs). It will not apply to returning Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to tap on regular healthcare financing arrangements for their inpatient medical bills should they develop onset of COVID-19 symptoms within 14 days of their return.
+
+#### 3.	How can travellers purchase the insurance coverage?
+
+The SafeTravel website provides a list of products offered by Singapore-based insurers (see below). Travellers can visit the respective insurers’ websites to purchase the inbound insurance plan. Travellers may also purchase overseas products which cover their visit to Singapore.
+
+<table>
+<thead>
+  <tr>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Insurer</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Contact Details</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
+    <td style="border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Email:<a href="mailto:sgp.corpcomms@aig.com">sgp.corpcomms@aig.com</a></td>
+  </tr>
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Chubb Insurance Singapore Limited</b></td>
+    <td style="border-right:1px solid #D8D8D8;">Juliana Lim<br/>Tel: +65 6398 8672<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Juliana.lim@chubb.com</a></td>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>HL Assurance Pte. Ltd. </b></td>
+    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; ">Cherie Teo<br/>Tel: +65 9777 2370<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Cherie.teo@hlas.com.sg</a></td>
+  </tr>
+ </tbody>
+ </table>
+
+#### 4.	Do travellers need to show proof of travel insurance purchase when they apply for the ATP? What documents do they need to submit to show that they are insured?
+
+With effect from 1 February 2021, 0000 hrs (Singapore time), visitors who apply to enter Singapore under the ATP and RGLs will have to declare, at the point of ATP application, that they will purchase travel insurance with minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs prior to travel to Singapore. They are required to bring along an electronic or physical copy of their insurance policy before departing for Singapore.
+
+#### 5.	Must the insurance be bought prior to their travel to Singapore? Can travellers purchase it upon arrival in Singapore?
+
+Yes, the insurance must  be bought prior to their travel to Singapore. 
+
+#### 6.	Are foreign travellers entitled to use public hospitals?
+
+Foreign travellers who test positive for COVID-19  receive care in private hospitals.
+
+#### 7.	What does the S$30,000 requirement cover?
+
+The S$30,000 minimum insurance requirement refers to coverage for COVID-19-related medical treatment and hospitalisation costs. 
+
+#### 8.	What is the basis of setting the minimum insurance coverage requirement at S$30,000?
+
+The requirement is based on COVID-19 bill sizes at private hospitals. 
+
+#### 9.	How much are the typical hospital bills?
+
+The cost of COVID-19 treatment varies depending on the patient’s clinical condition. The insurance coverage was sized to cover the majority of COVID-19 hospital bills in private hospitals.
+
+#### 10.	How much are the premiums? 
+
+The premiums would depend on factors such as the country/region from which the traveller is departing from, the length of the trip and/or factors such as the travellers’ age. More details can be found on the respective insurers’ websites. 
+
+#### 11.	Will this requirement cover all short-term visitors? How about short-term visitors from the other travel lanes? 
+
+The Government will review whether to extend the requirement to short-term visitors from other countries, taking into consideration the availability of products in the insurance market.
+
+
+#### 12.	Do recovered COVID-19 visitors need to buy insurance? How about vaccinated travellers? 
+
+Yes, both recovered and vaccinated foreign travellers need to buy insurance before being approval to travel to Singapore. There is still a risk that these travellers can get the COVID-19 infection, and require medical attention or hospitalisation for evaluation.
+
+#### 13.	Should the COVID-19 treatment cost go beyond $30,000, who will pay the excess? 
+
+As per existing practice, travellers will have to pay for their own treatment costs beyond insurance coverage. 
+
+Visitors and/or hosts will be required to declare, at the point of application, that they have purchased or will be purchasing travel insurance that meets MOH’s minimum coverage requirements for the duration of their stay in Singapore, and will pay for any treatment costs beyond the insurance coverage, before being given approval to travel to Singapore.
+
+#### 14.	Would Long Term Pass Holders be required to buy insurance? 
+
+With effect from 1 Jan 2021, all Work Permit and S Pass holders entering Singapore must be covered by insurance for COVID-19 treatment if the pass holder develops COVID-19 symptoms or test positive within 14 days of arrival into Singapore. 
+
+All other Long-Term Pass holders, (i.e., Employment Pass holders, Dependant’s Pass Holders, Student’s Pass Holders and Long-Term Visit Pass Holders), are encouraged to purchase insurance as the Government will no longer bear the costs of COVID-19 treatment if they develop COVID-19 symptoms or test positive within 14 days of arrival into Singapore.
+
+Click here to [Go Back To Top](#top).
+
