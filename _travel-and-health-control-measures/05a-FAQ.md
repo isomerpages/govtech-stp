@@ -485,10 +485,9 @@ The premiums would depend on factors such as the country/region from which the t
 
 The Government will review whether to extend the requirement to short-term visitors from other countries, taking into consideration the availability of products in the insurance market.
 
-
 #### 12.	Do recovered COVID-19 visitors need to buy insurance? How about vaccinated travellers? 
 
-Yes, both recovered and vaccinated foreign travellers need to buy insurance before being approval to travel to Singapore. There is still a risk that these travellers can get the COVID-19 infection, and require medical attention or hospitalisation for evaluation.
+Yes, both recovered and vaccinated foreign travellers need to buy insurance before travel to Singapore. There is still a risk that these travellers can get the COVID-19 infection, and require medical attention or hospitalisation for evaluation.
 
 #### 13.	Should the COVID-19 treatment cost go beyond $30,000, who will pay the excess? 
 
