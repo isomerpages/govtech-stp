@@ -11,7 +11,7 @@ Please click on the relevant links below for more information about ATP
 <thead>
   <tr>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">ATP FAQ</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FAQ</th>
   </tr>
 </thead>
 <tbody>
