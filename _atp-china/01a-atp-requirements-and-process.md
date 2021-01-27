@@ -1,7 +1,4 @@
----
-title: Requirements & Process
-permalink: /china/atp/requirements-and-process
----
+
 
 
 ### 1. Eligibility 
