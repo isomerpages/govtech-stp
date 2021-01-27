@@ -1,7 +1,3 @@
----
-title: Apply Now
-permalink: /australia/atp/apply-now
----
 
 <table>
   <thead>
