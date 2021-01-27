@@ -1,7 +1,4 @@
----
-title: Conditions
-permalink: /brunei/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 
