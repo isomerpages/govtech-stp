@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (ATP)
+title: Frequently Asked Questions
 permalink: /atp/faq
 ---
 
