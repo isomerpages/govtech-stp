@@ -1,7 +1,4 @@
----
-title: Conditions
-permalink: /vietnam/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 
