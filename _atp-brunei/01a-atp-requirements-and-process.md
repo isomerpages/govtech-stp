@@ -1,7 +1,4 @@
----
-title: Requirements & Process
-permalink: /brunei/atp/requirements-and-process
----
+
 
 
 ### 1. Eligibility 
