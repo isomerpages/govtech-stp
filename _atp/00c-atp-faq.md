@@ -1,5 +1,5 @@
 ---
 title: Frequently Asked Questions
-url: /FAQ
+url: https://govtech-stp-staging.netlify.app/faq
 ---
 
