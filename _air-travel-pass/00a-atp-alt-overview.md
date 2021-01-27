@@ -18,7 +18,7 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
 </thead>
 <tbody>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Australia</b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Australia (excluding New South Wales)</b></td>
     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>
