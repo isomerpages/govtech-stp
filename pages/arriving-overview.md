@@ -51,13 +51,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
  <tr>
   <td>Australia</td>
-  <td><a href="/australia/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
   <td>Brunei Darussalam</td>
-  <td><a href="/brunei/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
@@ -87,7 +87,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
    <tr>
   <td>Mainland China</td>
-  <td><a href="/china/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
   <td>&nbsp;</td>
  </tr>
@@ -99,13 +99,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
  <tr>
   <td>New Zealand</td>
-  <td><a href="/newzealand/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
   <td>Taiwan</td>
-  <td><a href="/taiwan/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
@@ -117,7 +117,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
  <tr>
   <td style="border-bottom:1px solid #D8D8D8;">Vietnam</td>
-  <td style="border-bottom:1px solid #D8D8D8;"><a href="/vietnam/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
  </tr>
