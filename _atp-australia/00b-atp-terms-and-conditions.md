@@ -1,7 +1,4 @@
----
-title: Conditions
-permalink: /australia/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 
