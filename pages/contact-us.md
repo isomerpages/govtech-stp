@@ -34,3 +34,32 @@ If you have already applied for entry into Singapore under any of the following 
  </tr>
   </tbody>
   </table>
+  
+For travellers under the following lanes, please check with the respective government agencies who have contacted you on your application.
+- Work Pass Holder General Lane
+- Student’s Pass Holder Lane
+
+### Contact Points
+
+If the information on this SafeTravel website does not address your questions regarding travel to Singapore, you can send an enquiry to the relevant contact points below.
+
+<table>
+<thead>
+  <tr>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Nature of Enquiries</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Online contact</th>
+       <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Phone Number</th>
+       <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Agency</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass related issues</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "><a href="mailto:COVID_ATP_Enquiries@caas.gov.sg"> COVID_ATP_Enquiries@caas.gov.sg  </a>
+     </td>
+      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">-</td>
+      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">CAAS</td>
+ </tr>
+  </tbody>
+  </table>
+
