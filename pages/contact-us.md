@@ -68,7 +68,7 @@ If the information on this SafeTravel website does not address your questions re
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MTI</td>
  </tr>
     <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holders and IPA holders travelling to Singapore under the Work Pass Holder General Lane</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; word-wrap: break-word;">Work Pass Holders and IPA holders travelling to Singapore under the Work Pass Holder General Lane</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Feedback/Enquiry Form:<a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx">  https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx </a>
      </td>
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">6438 5122</td>
