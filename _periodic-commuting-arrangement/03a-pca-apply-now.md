@@ -6,8 +6,8 @@ permalink: /malaysia/pca/apply-now
 <table>
   <thead>
     <tr>
-      <th border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Apply for Periodic Commuting Arrangement (PCA)</th>
-      <th border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Apply for SHN waiver - Returning Singapore Citizens/Permanent Residents holding Malaysia-issued PCA pass</th>
+      <th>Apply for Periodic Commuting Arrangement (PCA)</th>
+      <th>Apply for SHN waiver - Returning Singapore Citizens/Permanent Residents holding Malaysia-issued PCA pass</th>
     </tr>
   </thead>
   <tbody>
