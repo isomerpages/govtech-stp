@@ -1,7 +1,4 @@
----
-title: Conditions
-permalink: /china/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 

@@ -1,7 +1,4 @@
----
-title: Conditions
-permalink: /newzealand/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 

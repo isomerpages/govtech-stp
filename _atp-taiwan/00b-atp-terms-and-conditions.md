@@ -1,7 +1,4 @@
----
-title: Terms and Conditions
-permalink: /taiwan/atp/conditions
----
+
 
 ### **Conditions of Air Travel Pass**
 
