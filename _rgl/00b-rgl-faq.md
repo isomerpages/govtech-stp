@@ -79,7 +79,7 @@ Travellers with a recent diagnosis of COVID-19 infection in the past 21 days wil
       </tr>
        <tr>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">Germany</td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">German nationals should present a copy of their passport page, while foreign residents in Germany should present a copy of any of the documents below:
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;">German nationals should present a copy of their passport page, while foreign residents in Germany should present a copy of any of the documents below with an accompanying English translation::
           <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
             <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Confirmation letter for registration of new address (Anmeldebestätigung);</li>
             <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Copy of residency registration certificate (Meldebescheinigung);</li>
