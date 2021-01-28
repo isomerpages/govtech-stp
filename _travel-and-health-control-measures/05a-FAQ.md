@@ -253,21 +253,24 @@ Airlines, Charterers and Air Operators for any flights to Singapore must conduct
 
 If passengers are found to have produced false/forged COVID-19 test certificates, it will affect their ability to obtain or sponsor immigration facilities in the future.
 
-#### 5. I have recovered from COVID-19, am I required to undergo a pre-departure test (PDT) before entry into Singapore? Will I be denied entry into Singapore?
+#### 5. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
-Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. Travellers should schedule your travel into Singapore at least 21 days after the date of your first positive COVID-19 PCR test.
+You should schedule your travel into Singapore at least 21 days after your date of COVID-19 diagnosis, based on your first positive PCR test. For example, if the date of your swab which yielded your first positive PCR test is on 1 Nov (Day 1), you should only depart for Singapore on 22 Nov (Day 22) and onwards. You should not travel if feeling unwell.
 
-*E.g. Date of first positive PCR test received on 1 Nov (Day 1) --- Departure from Singapore should only be from 22 Nov (Day 22) onwards*
+Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore.
 
-You are still required to take a COVID-19 PCR test within 72 hours before departure to Singapore.
 
-If the pre-departure COVID-19 PCR test result is positive, recovered individuals must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore.
+#### 6. I have recovered from COVID-19. Am I required to undergo a pre-departure test (PDT) before entry into Singapore?
 
-#### 6. How will I know my COVID-19 test result?
+Yes, you are required to take a COVID-19 PCR test within 72 hours before departure to Singapore.
+
+If the pre-departure COVID-19 PCR test result is still positive, recovered individuals must also submit documentary proof of the date of their first-ever positive COVID-19 PCR test result and diagnosis. The date of the first positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. Travellers who have past history of infection from COVID-19 will be required to undergo a [serology test](/health/covid19-tests/serology) on arrival in Singapore to confirm their recovered status.
+
+#### 7. How will I know my COVID-19 test result?
 
 All travellers would be informed of their swab test results verbally by phone or in person. For travellers who have a Singpass account, they can login to the HealthHub [website](https://www.healthhub.sg/myhealth) to access their swab test results once available. No other hardcopy or softcopy report would be issued.
 
-#### 7. How do I request a refund for my COVID-19 test.
+#### 8. How do I request a refund for my COVID-19 test.
 
 Please note that once your entry application is approved, there will be no refunds of the payment made even if you do not enter Singapore as planned, unless there are extenuating reasons (eg. trip cancellation due to passing of next-of-kin etc). 
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
@@ -275,7 +278,7 @@ Please note that once your entry application is approved, there will be no refun
 - For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
 - For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
 
-#### 8. What if I refused to go for the COVID-19 test?
+#### 9. What if I refused to go for the COVID-19 test?
 
 During the SHN period, you may be required to report for a COVID-19 test as part of the SHN requirements. 
 
@@ -289,33 +292,33 @@ In addition, if you are a:
 - Work pass holder, your work pass may be revoked.
 - Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
 
-#### 9. Do I have to complete my SHN if I have been tested negative for COVID-19?
+#### 10. Do I have to complete my SHN if I have been tested negative for COVID-19?
 
 You are required to complete your SHN even if the result of your COVID-19 test is negative. You are required to continue to remain at your dedicated SHN facilities/place of residence till you have completed your SHN. An SHN duration calculator can be found [here](https://service2.mom.gov.sg/shn/shn-calculator/).
 
-#### 10. I am travelling with my child. Will my child be required to undergo a pre-departure test before entry into Singapore? Are children and infants exempted from the pre-departure test?
+#### 11. I am travelling with my child. Will my child be required to undergo a pre-departure test before entry into Singapore? Are children and infants exempted from the pre-departure test?
 
 All travellers (who are not Singapore Citizens and Permanent Residents) who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
 
 Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are born in 2015** are exempted from presenting a valid negative test result.
 
-#### 11. Why do children need to undergo a COVID-19 test?
+#### 12. Why do children need to undergo a COVID-19 test?
 
 Regardless of age, infected individuals can transmit COVID-19 to other members of the community if undetected. As travel volume increases, there is a need to detect cases early and minimise the public health risk of community transmission. Hence, we are extending COVID-19 testing for inbound travellers to include children aged 7 and above (in that calendar year). Countries around the world are similarly requiring children to be tested.
 
 Early detection will also facilitate prompt medical management, where needed.
 
-#### 12. My child is very sensitive/has nosebleeds. Can he/she be excused from the SHN+ exit swab?
+#### 13. My child is very sensitive/has nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
 All children will be swabbed by trained personnel and it is a safe procedure. Should your child be assessed to have medical contraindications for the default testing method, alternative arrangements will be made.
 
-#### 13. If my child is unwell, can the swab appointment be postponed?
+#### 14. If my child is unwell, can the swab appointment be postponed?
 
 Any person on SHN in an SHN Dedicated Facility (SDF) who is not feeling well, including children, must inform the SDFs immediately and medical care will be arranged for the individual. PSHNs with acute respiratory infection symptoms will not be swabbed at the SDF and alternative arrangements will be made.
 
 You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the swab appointment.
 
-#### 14. If my child is unwell, can the swab appointment be postponed?
+#### 15. If my child is unwell, can the swab appointment be postponed?
 
 Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test.
 
