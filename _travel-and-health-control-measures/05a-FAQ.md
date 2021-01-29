@@ -109,7 +109,25 @@ If you are arriving from select countries/regions and are able to meet the crite
 
 Please note that any prior approval given for opt-out from dedicated SHN facilities may be revoked, and the prevailing border measures upon entry will apply, including stay in SHN dedicated facility and payment, where applicable. 
 
-#### 12. How do I request a refund for my stay at Stay-Home Notice (SHN) dedicated facilities (SDF)?
+#### 12. Will I be allowed to choose the dedicated SHN facility to serve my SHN?
+
+No. You will be allocated a SHN facility subject to availability.
+
+#### 13. When and how can I make payment for my COVID-19 test and dedicated SHN facility?
+
+Singapore Citizens and Permanent Residents who are required to make payment for the COVID-19 test will be provided an online payment link by ICA.
+For Long Term Pass holders and non-residents, the relevant agency approving your entry will send you the payment link, where applicable.
+The cost of SDF stay, inclusive of GST, is about $2,000. Additional charges may apply in the event of special requests. The actual amount will be conveyed and charged to the traveller during check-in.
+
+#### 14. How do I make requests for my accommodation if I have special requirements (e.g. smoking room, room sharing arrangements)?
+
+You may reach out to the relevant agency managing your entry approval for assistance:
+- ICA_nCOV_Request@ica.gov.sg, for ICA Long Term Pass Holders, Singapore Citizens and PRs;
+- COVID_SafeTravelEnquiries@mti.gov.sg, for Work Pass Holders under the Periodic Commuting Arrangement;
+- https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp, for Work Pass Holders in general; and
+- https://beta.moe.gov.sg/contact-us/, for Student’s Pass Holders.
+
+#### 15. How do I request a refund for my stay at Stay-Home Notice (SHN) dedicated facilities (SDF)?
 
 Please note that once your entry application is approved, there will be no refunds of the payment made even if you do not enter Singapore as planned, unless there are extenuating reasons (eg. trip cancellation due to passing of next-of-kin etc). 
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 

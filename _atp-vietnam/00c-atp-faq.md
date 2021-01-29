@@ -294,7 +294,7 @@ When checking in at the departure airport, visitors must present the following t
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 31 and 32.
+For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 36 and 37.
 
 #### 46. Can visitors use the ATP to transit/transfer through Singapore?
 

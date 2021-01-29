@@ -241,7 +241,7 @@ Yes. The Government of the People’s Republic of China requires all passengers 
 
 Please refer to the PRC Embassy’s website [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm) for information on the pre-departure testing requirements.
 
-For information on how to take a COVID-19 nucleic acid test in Singapore, please refer to Questions 32 – 35. For IgM anti-body testing, visitors should check with their clinic or testing centre on the availability and cost, as well as whether they can receive their test results in time for their departure flight to Mainland China. They are advised to make an appointment with the clinic or testing centre of their choice as early as possible.
+For information on how to take a COVID-19 nucleic acid test in Singapore, please refer to Questions 41. For IgM anti-body testing, visitors should check with their clinic or testing centre on the availability and cost, as well as whether they can receive their test results in time for their departure flight to Mainland China. They are advised to make an appointment with the clinic or testing centre of their choice as early as possible.
 
 There is no need for visitors to apply for approval to take a COVID-19 nucleic acid test or IgM anti-body test in Singapore.
 
@@ -297,7 +297,7 @@ When checking in at the departure airport, visitors must present the following t
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 30 and 31.
+For visitors who do not have mobile devices to download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 36 and 37.
 
 #### 46. Can visitors use the ATP to transit/transfer through Singapore?
 
