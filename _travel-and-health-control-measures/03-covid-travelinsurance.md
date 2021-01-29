@@ -27,7 +27,7 @@ A list of available Singapore-based travel insurance products are as follows:
 </tr>
 <tr>
 <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Chubb Insurance Singapore Limited</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://www.chubb.com/sg-en/individuals-families/sg-travel-insured.html">SG Travel Insured</a></td>
+<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://sgtravelinsured.chubbtravelinsurance.com/">SG Travel Insured</a></td>
 </tr>
 <tr>
 <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>HL Assurance Pte. Ltd.</b></td>
