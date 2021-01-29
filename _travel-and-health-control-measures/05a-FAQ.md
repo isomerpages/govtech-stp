@@ -447,7 +447,7 @@ The SafeTravel website provides a list of products offered by Singapore-based in
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Chubb Insurance Singapore Limited</b></td>
-    <td style="border-right:1px solid #D8D8D8;">Juliana Lim<br/>Tel: +65 6398 8672<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Juliana.lim@chubb.com</a></td>
+    <td style="border-right:1px solid #D8D8D8;">Chubb Customer Service<br/>Tel: +65 6398 8776<br/> Email:<a href="mailto:Travel.SG@Chubb.com">Travel.SG@Chubb.com</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>HL Assurance Pte. Ltd. </b></td>
