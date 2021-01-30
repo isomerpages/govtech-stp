@@ -46,7 +46,7 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   </tbody>
   </table>
 <br>
-RGL travellers are only permitted to commute between countries via direct flights; transits (via a non RGL-counterpart country) to Singapore is prohibited. To find out more about the application process and requirements, click on the link below that corresponds to your country of departure.
+RGL travellers are only permitted to use direct flights; transits (via a non RGL-counterpart country) to Singapore is prohibited. To find out more about the application process and requirements, click on the link below that corresponds to your country of departure.
 <br>
 Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a>, instead. 
 <br>
