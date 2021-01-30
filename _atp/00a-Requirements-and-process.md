@@ -107,7 +107,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>2</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>2</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore.</li>
      </ol>
                 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
@@ -134,7 +134,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a valid visa (for visa-required visitors); and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;"> a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.</li>
     </ol> 
      <br/>
      <b>Visitors who do not have any of the above may be refused entry into Singapore by ICA. </b>
@@ -159,9 +159,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and activated; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:10px;  line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.</li>
          </ol> <br/>
-      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b>
+      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
+If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, 0900hrs (Singapore time), they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to reach the home screen.
          </td>
  </tr>
     <tr>
@@ -220,7 +222,7 @@ Visitors, who are unable to download the TraceTogether app on their existing mob
               <br/><br/>
 Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.
  <br/> <br/>
-Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and activated. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
+Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app . <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
  <br/> <br/>
-Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
+Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
 
