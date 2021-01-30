@@ -28,7 +28,7 @@ The requirements and processes outlined on this page apply to inbound travellers
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
-    <td rowspan="4" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;">Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</span>
+    <td rowspan="5" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;">Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</span>
        <p style="margin-top:0px; margin-bottom:0px;">Click below for the individual press releases regarding the RGL suspension for:</p>
       <ol style="margin-top:0px; margin-bottom:0px; list-style-type:disc;">
         <li style="margin-top:0px; margin-bottom:0px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li>
@@ -39,16 +39,16 @@ The requirements and processes outlined on this page apply to inbound travellers
      </td>
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia<sup>**</sup></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan<sup>**</sup></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
   </tr>
      <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia<sup>**</sup></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
   </tr>
     <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea<sup>**</sup></b></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
   </tr
   </tbody>
   </table>
