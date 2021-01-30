@@ -7,18 +7,17 @@ third_nav_title: RGL Travellers Visiting Singapore
 ## Reciprocal Green Lane
 
 The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following counterpart countries/regions:
-<editing in progress>
 <table>
 <thead>
   <tr>
-      <th>Countries/Regions</th>
-      <th>Note</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Countries/Regions</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Note</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Brunei Darussalam</td>
-    <td rowspan="2">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="https://safetravel.ica.gov.sg/atp/overview">Air Travel Pass</a>.</td>
+    <td rowspan="2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="https://safetravel.ica.gov.sg/atp/overview">Air Travel Pass</a>.</td>
   </tr>
   <tr>
     <td>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang</td>
