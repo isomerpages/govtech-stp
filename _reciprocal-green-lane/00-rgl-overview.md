@@ -16,15 +16,15 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 </thead>
 <tbody>
   <tr>
-    <td>Brunei Darussalam</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;>Brunei Darussalam</td>
     <td rowspan="2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="https://safetravel.ica.gov.sg/atp/overview">Air Travel Pass</a>.</td>
   </tr>
   <tr>
-    <td>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang</td>
   </tr>
   <tr>
-    <td>Germany</td>
-    <td rowspan="5"><span style="color:red;">Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</span>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;>Germany</td>
+    <td rowspan="5" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><span style="color:red;">Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</span>
 <br>
 <br>
     Click below for the individual press releases regarding the RGL suspension for:
