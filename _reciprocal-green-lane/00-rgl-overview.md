@@ -1,23 +1,17 @@
 ---
 title: Overview
 permalink: /rgl/overview
-third_nav_title: RGL Visitors to Singapore
+third_nav_title: RGL Travellers Visiting Singapore
 ---
 
 ## Reciprocal Green Lane
 
-The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between the following counterpart countries/regions and Singapore:
-- Brunei Darussalam
-- Germany
-- Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)
-- Indonesia (Please refer to the [notice](#notice1) below for more information)
-- Japan (Please refer to the [notice](#notice2) below for more information)
-- Malaysia
-- Republic of Korea
+The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following counterpart countries/regions:
+<editing in progress>
 
-The RGL is only applicable for travel between Singapore and the foreign RGL counterpart using non-stop flight routes (no transit in other countries).
+RGL travellers are only permitted to commute between countries via direct flights; transits (via a non RGL-counterpart country) to Singapore is prohibited. To find out more about the application process and requirements, click on the link below that corresponds to your country of departure.
 
-Please click on the relevant links below for more information about the RGL.
+Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a>, instead. 
 
 <table>
 <thead>
@@ -36,13 +30,13 @@ Please click on the relevant links below for more information about the RGL.
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
   <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>*</sup></b></td>
     <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
-    <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>2</sup></b></td>
+   <tr>
+<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
     <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
