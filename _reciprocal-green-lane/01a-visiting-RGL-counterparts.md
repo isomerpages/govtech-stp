@@ -104,7 +104,6 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
   </tr>
   </tbody>
   </table>
-  <br>
 <b><span style="color:red;">*RGL travel has been suspended with these countries/regions. Please check with your overseas sponsors if you are still eligible to travel to these countries/regions under the RGL.</span></b>
   
 ### Pre-Departure Test for RGL Travel
