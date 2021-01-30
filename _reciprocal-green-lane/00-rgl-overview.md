@@ -45,11 +45,9 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   </tr>
   </tbody>
   </table>
-<br>
 Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a> instead. 
-<br>
+<br><br>
 To find out more about the application process and requirements to use the RGL to travel to Singapore, click on the link below that corresponds to your country of departure.
-<br>
 <br>
 <table>
 <thead>
