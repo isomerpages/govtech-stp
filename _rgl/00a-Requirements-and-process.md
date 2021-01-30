@@ -90,7 +90,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Inform the traveller of the relevant RGL terms and conditions as part of the application, found <a href="/rgl/terms-and-conditions">here</a>.</b> </li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Travellers from Brunei and China may alternatively seek to enter Singapore via the <a href="/atp/overview"> Air Travel Pass</a> </p>     
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Please note that RGL travellers must use direct flights to Singapore, and are not allowed to transit via another country/region</p>     
       
  </td>
   </tr>
