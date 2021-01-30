@@ -8,10 +8,55 @@ third_nav_title: RGL Travellers Visiting Singapore
 
 The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following counterpart countries/regions:
 <editing in progress>
+<table>
+<thead>
+  <tr>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Countries/Regions</th>
+      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Note</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Brunei Darussalam</td>
+    <td rowspan="2">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="https://safetravel.ica.gov.sg/atp/overview">Air Travel Pass</a>.</td>
+  </tr>
+  <tr>
+    <td>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang</td>
+  </tr>
+  <tr>
+    <td>Germany</td>
+    <td rowspan="5"><span style="color:red;">Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</span>
+<br>
+<br>
+    Click below for the individual press releases regarding the RGL suspension for:
+    <ul>
+      <li><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li>
+      <li><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li>
+      <li><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>
+      </ul>
+      </td>
+  </tr>
+  <tr>
+    <td>Indonesia</td>
+  </tr>
+  <tr>
+    <td>Japan</td>
+  </tr>
+  <tr>
+    <td>Malaysia</td>
+  </tr>
+  <tr>
+    <td>Republic of Korea</td>
+  </tr>
+</tbody>
 
+</table>
+  
 RGL travellers are only permitted to commute between countries via direct flights; transits (via a non RGL-counterpart country) to Singapore is prohibited. To find out more about the application process and requirements, click on the link below that corresponds to your country of departure.
-
+<br>
 Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a>, instead. 
+
+
 
 <table>
 <thead>
