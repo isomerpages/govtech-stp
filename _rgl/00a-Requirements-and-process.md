@@ -49,7 +49,7 @@ The requirements and processes outlined on this page apply to inbound travellers
   </tr>
     <tr>
       <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
-  </tr
+  </tr>
   </tbody>
   </table>
    
