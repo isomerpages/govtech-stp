@@ -11,8 +11,8 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 <table>
 <thead>
   <tr>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Countries/Regions</th>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Note</th>
+      <th>Countries/Regions</th>
+      <th>Note</th>
   </tr>
 </thead>
 <tbody>
