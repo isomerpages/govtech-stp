@@ -9,45 +9,41 @@ The Reciprocal Green Lane (RGL) is a bilaterally negotiated dual-way safe travel
 <table>
 <thead>
   <tr>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Countries/Regions</th>
-      <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Note</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">NOTE</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Brunei Darussalam</td>
-    <td rowspan="2">-</td>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
+      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
   </tr>
   <tr>
-    <td>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang</td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
+  </tr>
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
+    <td rowspan="5" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</b></span>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for the individual press releases regarding the RGL suspension for:</p>
+      <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
+      </ol>
+ </td>
   </tr>
   <tr>
-    <td>Germany</td>
-    <td rowspan="5"><span style="color:red;">Applications for new RGLs have been suspended for these countries/regions. However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</span>
-<br>
-<br>
-    Click below for the individual press releases regarding the RGL suspension for:
-    <ul>
-      <li><span style="font-size:16px"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></span></li>
-      <li><span style="font-size:16px"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></span></li>
-      <li><span style="font-size:16px"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></span></li>
-      </ul>
-      </td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
   </tr>
   <tr>
-    <td>Indonesia</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
   </tr>
-  <tr>
-    <td>Japan</td>
+     <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
   </tr>
-  <tr>
-    <td>Malaysia</td>
+    <tr>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
   </tr>
-  <tr>
-    <td>Republic of Korea</td>
-  </tr>
-</tbody>
-</table>
+  </tbody>
+  </table>
 
 
 ### Application for Travel Under the RGL
@@ -77,31 +73,31 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-china">FAQ</a></td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Germany)<span style="color:red;">[Suspended]<sup>*</sup></span></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Germany)[Suspended]<sup>*</sup></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Information on website of the Singapore <a href="https://www.sgc.org.sg/services/safe">German Chamber for Industry and Commerce</a>. Click <a href="https://singapur.diplo.de/sg-en/service/05-VisaEinreise">here</a> also for more information.</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-germany">FAQ</a></td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Indonesia)<span style="color:red;">[Suspended]<sup>*</sup></span></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Indonesia)[Suspended]<sup>*</sup></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane </td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Application via the Directorate General of Immigration of Indonesia <a href="https://visa-online.imigrasi.go.id/" target="_blank">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-indonesia">FAQ</a></td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Japan)<span style="color:red;">[Suspended]<sup>*</sup></span></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Japan)[Suspended]<sup>*</sup></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">ビジネストラック (Japan-Singapore Business Track) </td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from Japanese Ministry of Foreign Affairs <a href="https://www.mofa.go.jp/a_o/na/page22e_000928.html" target="_blank">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-japan">FAQ</a></td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Malaysia)<span style="color:red;">[Suspended]<sup>*</sup></span></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Malaysia)[Suspended]<sup>*</sup></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from Malaysian Immigration Department <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">FAQ</a></td>
   </tr>
       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Republic of Korea)<span style="color:red;">[Suspended]<sup>*</sup></span></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Republic of Korea)[Suspended]<sup>*</sup></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">한국-싱가포르 신속통로 (ROK-Singapore Fast Lane for Essential Travel) </td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Instructions from Republic of Korea Embassy <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275" target="_blank">website</a> </td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-rok">FAQ</a></td>
