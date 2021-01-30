@@ -36,7 +36,6 @@ The requirements and processes outlined on this page apply to inbound travellers
             <li style="margin-top:0px; margin-bottom:0px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
       </ol>
  </td>
-     </td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
