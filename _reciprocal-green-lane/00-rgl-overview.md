@@ -70,5 +70,5 @@ Singapore residents who wish to travel to an RGL counterpart country/region via 
   </table>
   
   <sup>*</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
-  
-  <sup>**</sup><span style="color:red;">New RGL applications have been suspended for these countries/regions but travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass to enter Singapore.</span>
+  <br>
+  <span style="color:red;"><sup>**</sup>New RGL applications have been suspended for these countries/regions but travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass to enter Singapore.</span>
