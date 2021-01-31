@@ -193,9 +193,13 @@ Children aged 12 or younger in that calendar year and travelling with a parent/g
 
 #### 34. After downloading the TraceTogether app, how do I activate it? 
 
-After downloading the TraceTogether app, you need to activate it by following the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the passport number you have submitted for your ATP application. For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. 
 
-If you require assistance on how to download and activate the TraceTogether app, please email <support@tracetogether.gov.sg>.
+If you have downloaded the app before 1 Feb 2021, 0900hrs (Singapore time), you will see this screen:
+
+<img src="/images/TT_1.png" style="width:auto; height:auto;">
+
+If you have downloaded the app on or after 1 Feb 2021, 0900hrs (Singapore time), you will see the Holding Screen after you have registered your profile. You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore. You will then get the App Activated Screen. Click the ‘YES’ button to reach the Home Screen.
 
 #### 35. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
