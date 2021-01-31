@@ -63,7 +63,7 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Brunei)</b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions under *Entry Travel for Foreigners* at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions under "Entry Travel for Foreigners" at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei">FAQ</a></td>
   </tr>
   <tr>
