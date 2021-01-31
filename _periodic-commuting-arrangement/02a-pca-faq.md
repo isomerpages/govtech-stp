@@ -168,9 +168,9 @@ If you would like to update your contact details provided in the eHDC, you are r
 1. Email <COVID_SafeTravelEnquiries@mti.gov.sg> with your employee’s name and FIN, as well as your employee’s updated Singapore mobile number and/or address.
 2. Your employee is also required to update their contact details here (<https://mom.gov.sg/feedbackshn>).
 
-#### 29. I am unable to input my contact details into the Homer app.
+#### 29. I am unable to input my contact details into the FWMOMCARE app.
 
-Please refer to <https://mom.gov.sg/feedbackshn> if you are encountering technical issues with the Homer app.
+Please refer to https://mom.gov.sg/feedbackshn if you are encountering technical issues with the FWMOMCARE app.
 
 ### **SHN Measures**
 
