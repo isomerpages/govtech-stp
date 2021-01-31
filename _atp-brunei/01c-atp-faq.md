@@ -203,7 +203,7 @@ You can edit your passport details by clicking the ‘edit’ button on the Hold
 
 <img src="/images/TT_6.png" style="width:179px; height:318px;">
 
-If you still face issues, please email support@tracetogether.gov.sg with your query and details of the issue you are facing, or call the support helpline at +65 6973 6511 during operating hours.
+If you still face issues, please email <support@tracetogether.gov.sg> with your query and details of the issue you are facing, or call the support helpline at +65 6973 6511 during operating hours.
 
 #### 35. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
