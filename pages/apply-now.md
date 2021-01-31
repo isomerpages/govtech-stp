@@ -25,7 +25,7 @@ permalink: /apply-now
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Periodic Commuting Arrangement (Short Term Home Leave for Malaysia Work Pass Holders)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">&nbsp;</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Applications temporarily suspended. Please click <a href="/pca/scpr-requirement-and-process">here</a> for details.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Applications temporarily suspended. Click <a href="/pca/scpr-requirement-and-process">here</a> for details.</td>
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
