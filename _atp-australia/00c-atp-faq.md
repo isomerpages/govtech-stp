@@ -211,9 +211,9 @@ If you have downloaded the app on or after 1 Feb 2021, 0900hrs (Singapore time),
   </thead>
   <tbody>
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><img src="/images/TT_2.png" style="width:auto; height:auto;"></td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><img src="/images/TT_3.png" style="width:auto; height:auto;"></td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><img src="/images/TT_4.png" style="width:auto; height:auto;"></td>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><img src="/images/TT_2.png" style="width:179px; height:318px;"></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><img src="/images/TT_3.png" style="width:179px; height:318px;"></td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><img src="/images/TT_4.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
   </table>
@@ -232,7 +232,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img src="/images/TT_6.png" style="width:auto; height:auto;">
+<img src="/images/TT_6.png" style="width:179px; height:318px;">
 
 If you still face issues, please email support@tracetogether.gov.sg with your query and details of the issue you are facing, or call the support helpline at +65 6973 6511 during operating hours.
 
