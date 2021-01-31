@@ -92,7 +92,7 @@ Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting 
     <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.homer.gov.sg" target="_blank"> Homer</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
          </ol>   
     </td>
   </tr>

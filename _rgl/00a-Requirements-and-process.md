@@ -2,21 +2,48 @@
 title: RGL Requirements and Process
 permalink: /rgl/requirements-and-process
 ---
-<div id="notice2"></div>
-<b><span style="color:red; font-size:20px;">IMPORTANT NOTICE FOR RGL TRAVELLERS FROM JAPAN</span></b> <br/>
-<span style="font-size:16px; line-height:1.0; color:red;">On 26 December 2020, Japan announced a temporary ban on the entry of all non-resident foreign nationals into Japan from 28 December 2020 to 31 January 2021. The Japanese government has since announced that all of Japan’s Business Track  arrangements with other countries, including the Singapore-Japan Reciprocal Green Lane (RGL), will be suspended from 14 January 2021 until the State of Emergency in Japan is lifted. Given the reciprocal nature of the Singapore-Japan RGL and Residence Track, <u>travellers will not be able to apply to travel from Japan to Singapore under the RGL during this period</u>. Travellers who have already received approval to enter Singapore under the RGL can continue to do so but should check with the Japanese Embassy in Singapore with regard to the latest immigration regulations for their return to Japan. Please refer to the MFA statement <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">here</a> for more details.
-</span>
 
------------------
+The requirements and processes outlined on this page apply to inbound travellers from the following Reciprocal Green Lane-eligible countries/regions:
 
-The requirements and processes outlined on this page apply to inbound travellers from the following Reciprocal Green Lane-eligible countries/regions: 
-- Brunei Darussalam;
-- Germany
-- Japan
-- Malaysia
-- Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang);
-- Republic of Korea.
-
+<table>
+<thead>
+  <tr>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">NOTE</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
+      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
+  </tr>
+  <tr>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
+  </tr>
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
+    <td rowspan="5" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>New applications have been suspended for these countries/regions.  However, travellers already approved for entry under the RGL can continue to use their existing SafeTravel Pass-RGL to enter Singapore.</b></span>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for the press releases regarding Singapore's RGL suspension for:</p>
+      <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
+      </ol>
+ </td>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
+  </tr>
+     <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
+  </tr>
+    <tr>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
+  </tr>
+  </tbody>
+  </table>
+   
 
 ### 1. Eligibility
 
@@ -62,7 +89,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Inform the traveller of the relevant RGL terms and conditions as part of the application, found <a href="/rgl/terms-and-conditions">here</a>.</b> </li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Travellers from Brunei and China may alternatively seek to enter Singapore via the <a href="/atp/overview"> Air Travel Pass</a> </p>     
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Please note that RGL travellers must use direct flights to Singapore, and are not allowed to transit via another country/region</p>     
       
  </td>
   </tr>

@@ -54,7 +54,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 
 12. The Employer shall ensure that the foreign employee has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile data) with him/her at all times during the SHN period; and shall ensure that the foreign employee downloads WhatsApp on his mobile phone and responds within 1 hour when contacted by MOM via phone call, WhatsApp or Short Message Service (SMS).
 
-13. The Employer shall ensure that the foreign employee downloads the Homer mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://homer.gov.sg/instructions/)). The foreign employee must have a thermometer to take and report his temperature.
+13. The Employer shall ensure that the foreign employee downloads the FWMOMCARE mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://www.mom.gov.sg/eservices/fwmomcare)). The foreign employee must have a thermometer to take and report his temperature.
 
 14. The Employer shall ensure that the foreign employee undergoes the required COVID-19 test(s) as scheduled. The foreign employee will be notified of the time/date/location of the appointment. Transport will be provided if the foreign employee has to travel to the test venue. Failure to go for the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
 
@@ -74,7 +74,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 
 5. The foreign employee shall ensure that he/she has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile date) with him/her at all times during the SHN period. He/she shall download WhatsApp on his mobile phone and shall respond within 1 hour when contacted by MOM via phone calls, WhatsApp video calls or Short Message Service (SMS).
 
-6. The foreign employee shall download the Homer mobile app on his mobile phone, once he has received MOM's SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://homer.gov.sg/instructions/)). The foreign employee must have a thermometer to take and report his temperature.
+6. The foreign employee shall download the FWMOMCARE  mobile app on his mobile phone, once he has received MOM's SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://www.mom.gov.sg/eservices/fwmomcare)). The foreign employee must have a thermometer to take and report his temperature.
 
 7. The foreign employee shall not have visitors at his dedicated SHN facility, and he/she shall minimise contact with others during the SHN period.
 

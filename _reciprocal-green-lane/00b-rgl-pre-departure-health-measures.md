@@ -4,9 +4,15 @@ permalink: /rgl/pre-departure-measures
 third_nav_title: RGL Visitors to Singapore
 ---
 
-### Pre-Departure Measures in Country/Region of Departure
+### Travel history
 
-Travellers must remain in and have not travelled out of the country for at least 14 days, or the region (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang) in the case of China for at least seven days prior to departure for Singapore. Travellers must also monitor their health status before departure from the country/region, undergo a COVID-19 PCR test in the country/region within 72 hours before departure, and obtain a certificate of negative test result for COVID-19 issued by an authorised COVID-19 testing facility designated by the Government of the country/region the traveller is departing from.
+Approved RGL-travellers travelling from Mainland China, must remain in Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang, for at least seven days prior to departure for Singapore. 
+
+All other approved RGL travellers visiting Singapore must remain in the RGL-counterpart country/region for at least 14 consecutive days prior to departure for Singapore.
+
+### COVID-19 Test before Departure to Singapore
+
+In addition to meeting the travel history requirement, all RGL-approved travellers must take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) (“PCR test”) within 72 hours before departure. The test must be taken at the following authorised COVID-19 testing facilities:
 
 <table>
 <thead>
