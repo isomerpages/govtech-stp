@@ -1,12 +1,12 @@
 ---
-title: Frequently Asked Questions for RGL Returnees (SC/PR/LTP) 
+title: Frequently Asked Questions for Returning RGL Travellers
 permalink: /rgl/returnees/faq
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
 <div id="faq-top"></div>
 
-### This page is relevant only to Singapore Residents, i.e. Singapore Citizens, Permanent Residents, and Long-Term Pass Holders, who have visited an RGL-eligible country/region via RGL and are returning to Singapore, i.e. Returning RGL travellers
+#### This FAQ is for Singapore Residents (Singapore Citizens, Permanent Residents, and Long-Term Pass Holders), who have visited an RGL-eligible country/region via RGL and are returning to Singapore, i.e. Returning RGL travellers
 
 <table>
   <thead>
