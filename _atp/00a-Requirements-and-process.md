@@ -163,7 +163,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:16px; margin-top:10px; margin-bottom:10px; display:none; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.</li>
          </ol> <br/>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
-If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, 0900hrs (Singapore time), they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to reach the home screen.
+If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to reach the home screen.
          </td>
  </tr>
     <tr>

@@ -1,12 +1,12 @@
 ---
-title: Frequently Asked Questions
+title: FAQ - Outbound RGL Travellers
 permalink: /rgl/outbound/faq
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
 
 <div id="faq-top"></div>
 
-## **Travellers in Singapore seeking entry to the following foreign counterparts countries/regions**
+### FAQ for Travellers in Singapore seeking entry to the following RGL counterpart countries/regions
 
 <table>
   <thead>
@@ -89,11 +89,10 @@ The traveller may contact his/her host company or government agency in Brunei to
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The RGL traveller departing for Brunei can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+The RGL traveller departing for Brunei can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
 
-The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **<a href="#annexbrunei">ANNEX</a>**. Testing for fast lane/RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
+The traveller will bear his/her own cost for testing and should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
-The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
 #### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
@@ -139,98 +138,7 @@ The traveller can only commute between his/her residence and the workplace via p
 
 The traveller should verify the latest requirements of the Bruneian authorities with his/her local host company or government agency.
 
-### **Returning to Singapore**
-
-#### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel?
-
-The prevailing health policy is that Singapore Citizens, Permanent Residents and Long-Term Pass holders returning from their travel to Brunei Darussalam are not required to serve a Stay-Home Notice, and will instead undergo a COVID-19 test upon arrival and be allowed to continue their activities in Singapore if the test is negative.
-
-Long-Term Pass holders returning on the RGL should present the Entry Travel Pass issued by Brunei upon arrival in Singapore for re-entry into Singapore, and they need not separately seek re-entry approval from other Singapore Government agencies.
-
-Please refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for returning travellers.
-
-Travellers are also reminded to submit their health declarations via ICA’s SG Arrival Card e-Service up to three days prior to their arrival in Singapore.
-
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.
-
-#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei?
-
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to Brunei on the Singapore-Brunei RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Brunei on the Singapore-Brunei RGL may tap on their usual financing arrangements, such as foreign worker insurance.
-
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Brunei via the RGL.
-
-<div id="annexbrunei"></div>
-
-#### Annex for Pre-Departure COVID-19 Tests in Singapore
-
-##### Booking an appointment
-
-##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
-
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible fast lane travellers.
-
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
-
-##### 2. What is the latest I have to present at the clinic, based on my departure flight timing?
-
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
-
-##### 3. How can I make an appointment for pre-departure PCR testing?
-
-For Brunei, the pre-departure test must be done within 72 hours prior to departure.
-
-Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
-
-##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
-
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing is confirmed and your RGL application is approved.
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
-
-If you do not make a prior appointment, please note that:
-1. There is no guarantee that there will be a test slot for you; and
-2. You may not get your results in time for your flight to qualify for RGL arrangements. Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
-
-##### 5. What details will I need to book an appointment for the PCR test?
-
-Please have the following information on hand when making an appointment for your test:
-1. Identification or passport numbers
-2. Departure flight timing
-3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing. 
-4. Address in Singapore 
-5. Contact number 
-6. Email address 
-
-##### 6. What documents should I bring for my appointment?
-
-Please bring the following:
-1. Identity card or passport 
-2. PDF copy of the Entry Travel Pass which confirms that you are granted approval by the relevant authorities to travel to Brunei under the Singapore-Brunei RGL 
-3. Softcopy showing your departure flight timing
-
-#### Testing
-
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
-
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
-
-##### Test Results
-
-##### 9. When can I expect to get my PCR test results?
-
-You will receive your PCR test results and memo at least three hours before your flight.
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
-
 -----
-
-<sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum.
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
@@ -254,7 +162,7 @@ Residents in Singapore seeking to travel to China for essential business or offi
 
 If the application is approved, a Letter of Invitation specifically for essential business or official travel under the RGL will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Besides taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, this may also include other requirements such as keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. **Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure.** 
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Travellers will need to take a pre-departure COVID-19 Polymerase Chain Reaction test (“PCR test”) obtain a negative test result within 48 hours before departure. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese Government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). Other requirements may include keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure, [here](https://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm).
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in China?
 
@@ -274,11 +182,11 @@ Those seeking to enter China for purposes other than essential business and offi
 
 The RGL is for travel between Singapore and the six RGL regions in China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, and Zhejiang).
 
-A traveller from Singapore who needs to travel between adjacent RGL regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination.
+A traveller from Singapore who needs to travel between adjacent RGL regions in China (e.g., from Shanghai to Jiangsu, or Shanghai to Zhejiang, etc.) within the first 14 days upon arrival, shall, through the host company or government agency, acquire in advance the approval (i.e., Letter of Invitation) from the relevant provincial/municipal authorities of the next destination. In the case of Guangdong, travellers would need to acquire approval from the Guangdong authorities of the next destination in advance, within the first 21 days upon arrival in Guangdong.
 
 The traveller is only allowed to use the private transport designated by his/her host company or government agency to travel to other RGL regions. Travel via plane, rail, inter-city buses or other means of public transportation is not allowed.
 
-After the first 14 days, inter-provincial/municipal travel for the non-RGL regions within China will be allowed for a RGL traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned.
+After the first 14 days, inter-provincial/municipal travel for the non-RGL regions within China will be allowed for a RGL traveller from Singapore, as long as he/she adheres to the same domestic travel restrictions imposed on residents in China to move between those provinces/municipalities concerned. In the case of Guangdong, inter-provincial/municipal travel for the non-RGL regions within China can only commence after 21 days, after the duration for the controlled itinerary ends.
 
 As some provinces/municipalities may require additional COVID-19 test(s) before the traveller is allowed to embark on inter-provincial/municipal travel, the traveller’s local host company or government agency should check with the relevant local provincial/municipality authorities if there are any such requirements.
 
@@ -290,13 +198,15 @@ The traveller may contact his/her host company or government agency in China to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The RGL traveller departing for China can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
+RGL travellers departing for China will need to take a pre-departure COVID-19 PCR test and an IgM antibody serology test and obtain negative test results within 48 hours before departure for China. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). 
 
-The list of clinics that can perform pre-departure COVID-19 tests isand details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
+The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbchina">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.
 
-The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
+Eligible RGL travellers should contact the selected clinics in Singapore directly to make an appointment in advance for a pre-departure COVID-19 PCR test and an IgM antibody serology test.
 
-The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+Travellers should make an appointment that fits his/her testing window and be present at the clinic early for the appointment, at least 48 hours prior to departure. Travellers who present themselves at the clinic less than 38 hours to the flight may not be able to receive the result in time for the flight. Please also check with the clinic if it is able to meet China’s requirements.
+
+Travellers should contact the clinic for an estimate of the cost of the PCR and IgM antibody serology tests. These tests are to be taken at the traveller’s cost. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 9. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
@@ -318,7 +228,7 @@ The Chinese authorities require a traveller to test negative for both the post-a
 
 #### 13. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to China?
 
-Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the RGL.
+Minimally, a traveller should have on hand his/her negative COVID-19 PCR and IgM antibody serology test results, green health declaration code with the “HDC” mark from the PRC Embassy, a valid visa and a Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel under the RGL.
 
 As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements with his/her local host company or government agency.
 
@@ -334,31 +244,12 @@ If the traveller tests negative for both COVID-19 tests, the host company or gov
 
 The traveller must follow local COVID-19 prevention and control measures for the duration of his/her stay in China, including downloading the local health QR code used in the province/municipality.
 
-The host company or government agency will supervise the itinerary of and provide private transport for the traveller for the first 14 days upon his/her arrival in China.
+The host company or government agency will supervise the itinerary of and provide private transport for the traveller for the first 14 days upon his/her arrival in China. In the case of Guangdong, the controlled itinerary will last for 21 days.
 
 The traveller can only commute between his/her residence and the workplace via a dedicated car and driver (i.e., no public transport allowed).
 
 As the specific requirements may vary amongst provinces/municipalities, the traveller should verify the latest requirements of the provincial/municipal authorities with his/her local host company or government agency.
-
-While a traveller no longer needs to adhere to a controlled itinerary after the first 14 days, he/she must still follow local COVID-19 prevention and control measures for the duration of his/her stay in China. As some provinces/municipalities may require the traveller to undergo additional COVID-19 test(s) before being allowed to move beyond a controlled itinerary after the first 14 days, your local host company or government agency should verify the latest requirements with the relevant local provincial/municipality authorities.
-
-### **Returning to Singapore**
-
-#### 16. What health measures will I be subject to upon returning to Singapore after my RGL travel?
-
-Singapore-based travellers returning from their travel on the Singapore-China RGL will be exempted from the prevailing SHN policy applicable to incoming travellers to Singapore, if they:
-- Undertake a COVID-19 PCR test at the airport at their own cost upon arrival in Singapore and remain in isolation until they have been notified of their on-arrival test results. You are strongly encouraged to pre-register and make advance payment for the PCR test via this link to minimise processing time at the airport: <https://changiairport.com/safetravel/>; and
-- Produce the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval to travel under the Singapore-China RGL to ICA at Singapore Immigration.
-
-Please refer to <https://www.ica.gov.sg/covid-19> for the latest details and updates on border control measures as well as <https://www.ica.gov.sg/covid-19/ArrivalSG> for information on the prevailing health measures for returning travellers.
-
-Please disregard the electronic SHN which you may receive via email upon submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met. If the above conditions are not met, travellers will be subjected to the prevailing health regulations in Singapore upon arrival in Singapore, including the requirement to serve SHN. For more information about the SHN issued by ICA, please refer to <https://www.ica.gov.sg/covid-19/shn>.
-
-##### 17.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from China?
-
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to China on the Singapore-China RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to China on the Singapore-China RGL may tap on their usual financing arrangements, such as foreign worker insurance.
-
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter from the PRC Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to China via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the RGL.
+While a traveller no longer needs to adhere to a controlled itinerary after the first 14 days, he/she must still follow local COVID-19 prevention and control measures for the duration of his/her stay in China. As some provinces/municipalities may require the traveller to undergo additional COVID-19 test(s) before being allowed to move beyond a controlled itinerary after the first 14 days, your local host company or government agency should verify the latest requirements with the relevant local provincial/municipality authorities. In the case of Guangdong, the controlled itinerary will last for 21 days.
 
 <div id="annexachina"></div>
 
@@ -536,25 +427,7 @@ The traveller must comply with applicable legal provisions regarding COVID-19 te
 
 The host company or government agency will supervise the controlled itinerary of the traveller for the 14 days upon his/her arrival in Germany.
 
-### **Returning to Singapore**
-
-#### 14. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
-
-Singapore-based travellers returning from their travel on the Singapore-Germany RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Germany, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
-
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
-
-#### 15. Do I have to take a COVID-19 test before I return to Singapore? 
-
-There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore. 
-
-#### 16. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany?
-
-Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
-
-Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
-
-With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
+-----
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
@@ -574,9 +447,9 @@ The relevant Japanese Government authorities will assess each application on a c
 
 #### 2.	How do Singapore residents apply to travel to Japan under the RGL?
 
-Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore, refer to this [link](https://www.mofa.go.jp/ca/fna/page22e_000921.html) for more information. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore.
+Residents in Singapore seeking to travel to Japan for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Japan. The applicant must apply for a visa at the Embassy of Japan in Singapore, refer to this [link](https://www.mofa.go.jp/ca/fna/page22e_000921.html) for more information. If the visa application is approved, the Embassy of Japan in Singapore will issue a letter that will allow the approved applicant to take a [pre-departure COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pre-departure-test) in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a **pre-departure COVID-19 PCR test and obtaining private medical insurance** (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure and remaining in Singapore for at least 14 days prior to departure. 
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the Japanese authorities prior to departure for Japan. This includes taking a pre-departure COVID-19 PCR test and obtaining private medical insurance (including travel insurance covering medical expenses during their period of stay in Japan) and a negative test result within 72 hours before departure and remaining in Singapore for at least 14 days prior to departure.
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in Japan?
 
@@ -594,7 +467,7 @@ Those seeking to enter Japan for purposes other than essential business and offi
 
 #### 6.	Where in Japan may I travel to? What are the approvals which I will need to obtain to do so?
 
-The RGL is for travel between Singapore and Japan, though the only entry/exit points to/from Japan are Tokyo (Narita International Airport and Haneda International Airport), Osaka (Kansai International Airport), Nagoya (Chubu Centrair International Airport) and Fukuoka (Fukuoka International Airport)at the moment. Regardless, according to the Government of Japan, there are no controls on inter-prefectural movement in Japan, although travellers must refrain from using public transport in the first 14 days of their visit. There is therefore no need for RGL travellers from Singapore to acquire from the local government of his next destination prior approval for entry. Japan will inform the Singapore Government beforehand if there are additional measures or significant changes.
+The RGL is for travel between Singapore and Japan, though the only entry/exit points to/from Japan are Tokyo (Narita International Airport and Haneda International Airport), Osaka (Kansai International Airport), Nagoya (Chubu Centrair International Airport) and Fukuoka (Fukuoka International Airport) at the moment. Regardless, according to the Government of Japan, there are no controls on inter-prefectural movement in Japan, although travellers must refrain from using public transport in the first 14 days of their visit. There is therefore no need for RGL travellers from Singapore to acquire from the local government of his next destination prior approval for entry. Japan will inform the Singapore Government beforehand if there are additional measures or significant changes.
 
 #### 7.	Who can I contact for more information on the arrangements in Japan, e.g., accommodation and transport?
 
@@ -604,13 +477,11 @@ The traveller may contact his/her host company or government agency in Japan to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
-
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbjapan">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
+An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
-Prior to the test, the traveller must obtain a letter from the Embassy of Japan in Singapore which confirms that he/she has been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan  RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered. 
+Prior to the test, the traveller must obtain a letter from the Embassy of Japan in Singapore which confirms that he/she has been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. This letter will be used as an indication of the traveller’s eligibility to take a pre-departure COVID-19 test. This letter must be presented at the clinic before the test can be administered.
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -656,26 +527,6 @@ The traveller must adhere to the Japanese Government’s requirement to install 
 
 The traveller must keep to the controlled itinerary that is supervised by the receiving enterprise or government agency in Japan for the first 14 days. 
 
-### **Returning to Singapore**
-
-#### 16.	What health measures will I be subject to upon returning to Singapore after my RGL travel? 
-
-Singapore-based travellers returning from their travel on the Singapore-Japan RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Japan, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn).
-
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
- 
-#### 17. Do I have to take a COVID-19 test before I return to Singapore? 
-
-There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore.  
- 
-#### 18.	Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Japan?
-
-Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
-
-Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
-
-With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
-
 <div id="annexajapan"></div>
 
 ### **ANNEX A**
@@ -686,89 +537,13 @@ Embassy of Japan in Singapore<br>
 Phone: +65-6235-8855<br>
 Email: <fastlane@sn.mofa.go.jp>
 
-<div id="annexb"></div>
-
-### **ANNEX B**
-
-#### Pre-Departure COVID-19 Tests in Singapore
-
-##### Booking an appointment
-
-##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
-
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
-
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
-
-##### 2.	What is the latest I have to be at the clinic, based on my departure flight timing?
-
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
-
-##### 3.	How can I make an appointment for pre-departure PCR testing?
-
-For RGL travel to Japan, the pre-departure PCR test must be done within 72 hours prior to departure.
-
-Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
-
-##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
-
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved. 
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements. 
-
-If you do not make a prior appointment, please note that:
-1. There is no guarantee that there will be a test slot for you; and 
-2. You may not get your results in time for your flight to qualify for RGL arrangements. 
-
-Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.  
-
-##### 5. What details will I need to book an appointment for the PCR test? 
-
-Please have the following information on hand when making an appointment for your test:
-1. Identity card number or passport number
-2. Departure flight timing
-3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
-4. Address in Singapore 
-5. Contact number 
-6. Email address 
-
-##### 6.	What documents should I bring for my appointment?
-
-Please bring the following:
-1. Identity card or passport 
-2. Letter issued by the Embassy of Japan in Singapore confirming that you have been granted approval by the relevant authorities in Japan to travel to Japan under the Singapore-Japan RGL. 
-3. Softcopy booking reference showing your departure flight timing
-
-##### Testing
-
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.  
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
-
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.  
-
-##### Test Results
-
-##### 9.	When can I expect to get my PCR test results?
-
-You will receive your PCR test results and memo at least three hours before your flight. 
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+-----
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
 -----
 
 <div id="faq-outbound-indonesia"></div>
-
-<div id="notice"></div>
- <b><span style="color:red">IMPORTANT NOTICE</span> </b> <br/>
-<span style="font-size:16px; line-height:1.0; color:red;">On 28 December 2020, Indonesia announced a temporary ban on the entry of all foreign nationals into Indonesia from 1 to 14 January 2021. The Indonesian government has notified MFA that this ban would also apply to foreign nationals travelling to Indonesia under all of Indonesia’s Travel Corridor Arrangements (TCA) with other countries. Hence, Singapore residents would not be able to travel from Singapore to Indonesia under the Singapore-Indonesia Reciprocal Green Lane (RGL) / TCA during this period. Given the reciprocal nature of this travel arrangement, travellers will also not be able to apply to travel from Indonesia to Singapore under the Singapore-Indonesia RGL / TCA during this period. Travellers who have already received approval to enter Singapore under the Singapore-Indonesia RGL / TCA can continue to do so. The full statement from MFA on this matter can be found here (link).
-</span>
 
 ## **Application Process for Travellers in Singapore seeking entry into Indonesia**
 
@@ -817,11 +592,9 @@ The traveller may contact his/her Indonesian sponsor to make the necessary arran
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance? 
  
-The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [ANNEX C](#annexcindon). Testing for RGL arrangements should only be carried out at these clinics. An eligible RGL traveller can contact the clinic directly and make an appointment in advance to be tested. 
- 
-The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. The traveller will also need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight. 
- 
-The traveller will bear his/her own cost for testing and should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans. 
+The RGL traveller departing for Indonesia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
+
+The traveller will bear his/her own cost for testing and should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
 #### 8. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL? 
 
@@ -851,8 +624,8 @@ Minimally, a traveller should present his/her negative COVID-19 PCR test result,
 
 #### 13. Do I need to be quarantined upon arrival in Indonesia? 
 
-After undergoing a PCR test upon arrival at the airport or ferry terminal in Indonesia, the traveller must remain in isolation at self-sourced accommodation until the test results are released(typically within 8 hours). The traveller will be notified of the test results via text message or email. The traveller will bear the costs of the post-arrival COVID-19 PCR test in Indonesia. The estimated cost of testing at Soekarno-Hatta International Airport is IDR 900,000. No pre-booking is required for the post-arrival COVID-19 PCR test. Payment for the PCR test can be made by cash, credit card or debit card (Mastercard and Visa).  
- 
+After undergoing a PCR test upon arrival at the airport or ferry terminal in Indonesia, the traveller must remain in isolation at self-sourced accommodation until the test results are released(typically within 8 hours). The traveller will be notified of the test results via text message or email. The traveller will bear the costs of the post-arrival COVID-19 PCR test in Indonesia. The estimated cost of testing at Soekarno-Hatta International Airport is IDR 900,000. No pre-booking is required for the post-arrival COVID-19 PCR test. Payment for the PCR test can be made by cash, credit card or debit card (Mastercard and Visa).
+
 If the traveller tests negative for COVID-19, the traveller may proceed with his/her controlled itinerary, with private transportation(inclusive of taxis and private-hire cars e.g. from Grab or Gojek) arranged by the sponsor. If the traveller tests positive for COVID-19, he/she will be accorded medical treatment by the Indonesian Government. The traveller will bear the cost of medical treatment in Indonesia.
 
 Ferry passengers with symptoms, i.e. febrile or visual signs of acute respiratory infection, will be turned back on the next ferry trip upon detection at the ferry terminal in Indonesia.
@@ -862,20 +635,6 @@ Ferry passengers with symptoms, i.e. febrile or visual signs of acute respirator
 The traveller should abide by the prevailing public health regulations required by the Indonesian authorities, and adhere to a controlled itinerary and other public health measures for the entire duration for their trip. These public health measures include, but are not limited to: (a) not using public transportation; (b) safe management measures at workplaces; (c) wearing masks outside residences; (d) observing 1metre physical distancing; (e) implementing a clean and healthy lifestyle; and (f) holding meetings with fewer than 10 people. The traveller must also subscribe to eHAC and PeduliLindungi mobile applications for the entire duration of their stay in Indonesia.    
  
 The traveller should verify the latest requirements of the Indonesian authorities with his/her Indonesian sponsor. 
-
-### **Returning to Singapore** 
-
-#### 15. What health measures will I be subject to upon returning to Singapore after my RGL travel? 
-
-Singapore-based travellers returning from their travel on the Singapore-Indonesia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Indonesia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
-
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
-
-#### 16. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia? 
-
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival in Singapore. Singapore Citizens and Permanent Residents who travelled to Indonesia on the Singapore-Indonesia RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Indonesia on the Singapore-Indonesia RGL may tap on their usual financing arrangements, such as foreign worker insurance.
-
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The e-visa is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL.
  
 <div id="annexaindon"> </div>
 
@@ -907,76 +666,7 @@ Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be per
 
 Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility. 
 
-#### 2. When is the latest time/date I have to be at the clinic, based on my departure flight timing? 
-
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment. 
-
-<u>You must be present at least 2 hours prior to, and no later than, the stipulated cut-off timing in the table below.</u> Travellers who do not adhere to this cut-off timing will not be able to obtain the results in time for departure.
-
-| Flight departure time | Latest Cut-off Test Timing |
-|-----------------------|-----------------------------------------|
-| 12:00am to 9:29am | 10.00am two calendar days before flight |
-| 9:30am to 3:29pm | 4:00pm two calendar days before flight |
-| 3.30pm to 11.59pm | 10:00am the day before flight |
-
-<i>Example: If a traveller’s departure flight time is 12pm on 30 September and the required test must be done within 72 hours of departure, the traveller should take the swab from 12pm on 27 September onwards, until the cut-off timing. </i>
-
-<i>The latest the traveller can present himself/herself is by 4pm on 28 September. </i>
-
-#### 3. How can I make an appointment for pre-departure PCR testing? 
-
-For RGL travel to Indonesia, the pre-departure PCR test must be done within 72 hours prior to departure. 
-
-Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements. 
-
-#### 4. How far in advance should I make an appointment for the pre-departure PCR test? 
-
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application are approved. 
-
-Please refer to the <b>Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.</b> This is to ensure that you meet the RGL requirements. 
-
-If you do not make a prior appointment, please note that: 
-1. There is no guarantee that there will be a test slot for you; and 
-2. You may not get your results in time for your flight to qualify for RGL arrangements.
- 
-Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight. 
-
-#### 5. What details will I need to book an appointment for the PCR test? 
-
-Please have the following information on hand when making an appointment for your test: 
-1. Identity card number or passport number. 
-2. Departure flight timing. 
-3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing. 
-4. Address in Singapore.
-5. Contact number.
-6. Email address. 
-
-#### 6. What documents should I bring for my appointment? 
-
-Please bring the following: 
-1. Identity card or passport. 
-2. E-visa confirming that you have been granted approval by the relevant authorities in Indonesia to travel to Indonesia under the Singapore-Indonesia RGL. 
-3. Softcopy booking reference showing your departure flight timing. 
-
-### **Testing**
-
-#### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing? 
-
-Travellers who miss the Cut-off Test Timing will not be able to obtain a test result in time for their flight. 
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements. 
-
-#### 8.  What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
-
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement. 
-
-### **Test Results**
-
-#### 9. When can I expect to get my PCR test results? 
-
-You will receive your PCR test results and memo at least three hours before your flight. 
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself. 
+-----
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
@@ -1025,13 +715,10 @@ The traveller may contact his/her host company or government agency in Malaysia 
 
 #### 6. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
-
-The list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment are at **[ANNEX A](#annexamys)**. Testing for RGL travel should only be carried out at these clinics at the moment. An eligible RGL traveller should contact the clinic directly for testing.
-
-The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight if travelling by air.
+The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
+
 
 #### 7. I had a swab done previously for Acute Respiratory Infection (ARI). Can I use the test results for travel under the RGL?
 
@@ -1071,96 +758,7 @@ The traveller can only commute between his/her residence and the workplace via p
 
 The traveller should verify the latest requirements of the Malaysian authorities with his/her local host company or government agency.
 
-### **Returning to Singapore**
-
-#### 13. What health measures will I be subject to upon returning to Singapore after my RGL travel?
-
-Singapore-based travellers returning from their travel on the Singapore-Malaysia RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Malaysia, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn)
-
-You may also wish to refer [here](/health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
-
-#### 14. Do I have to take a COVID-19 test before I return to Singapore? 
-
-There are currently no requirements for Singapore-based RGL travellers to take another COVID-19 test before returning to Singapore. 
-
-#### 15. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Malaysia?
-
-Singapore Citizens, Permanent Residents and Long-Term Pass Holders who depart Singapore on or after 27 March 2020 will be responsible for charges for COVID-19 treatment if onset of symptoms develop within 14 days of their return to Singapore. 
-
-Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable. 
-
-With effect from 1 January 2021, this will also apply to all new and returning SCs, PRs and LTPHs who last left Singapore before 27 March 2020.
-
-<div id="annexamys"></div>
-
-### **ANNEX A**
-
-#### Pre-Departure COVID-19 Tests in Singapore
-
-##### Booking an appointment
-
-##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
-
-Pre-departure COVID-19 PCR tests for fast lane arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible fast lane travellers.
-
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
-
-##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
-
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
-
-##### 3. How can I make an appointment for pre-departure PCR testing?
-
-For Malaysia, the pre-departure test must be done within 72 hours prior to departure.
-
-Please call the clinic and book your test slot before the Cut-Off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
-
-##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
-
-Due to limited slots, please make your appointment with the clinic **as early as possible**, once your flight timing and RGL requirements are confirmed.
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing**. This is to ensure that you meet the RGL requirements.
-
-If you do not make a prior appointment, please note that:
-1. There is no guarantee that there will be a test slot for you; and
-2. You may not get your results in time for your flight to qualify for RGL arrangements. Travellers who miss the cut-off test timing will <u>not</u> be able to obtain a test result in time for their flight.
-
-##### 5. What details will I need to book an appointment for the PCR test?
-
-Please have the following information on hand when making an appointment for your test:
-1. Identification or passport numbers
-2. Departure flight timing
-3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing. 
-4. Address in Singapore
-5. Contact number
-6. Email address
-
-##### 6. What documents should I bring for my appointment?
-
-Please bring the following:
-1. Identity card or passport
-2. PDF copy of the Malaysia-issued travel pass which confirms that you are granted approval by the relevant authorities to travel to Malaysia under the Singapore-Malaysia RGL
-3. Softcopy booking reference showing your departure flight timing
-
-##### Testing
-
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their scheduled departure.
-
-Please make arrangements early for your test slot so that you can qualify for the RGL.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
-
-If you are unable to receive the test, you may wish to reschedule your departure, if you still wish to tap on the RGL.
-
-##### Test Results
-
-##### 9. When can I expect to get my PCR test results?
-
-You will receive your PCR test results and memo at least three hours before your scheduled departure.
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
+-----
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
@@ -1182,7 +780,7 @@ The relevant ROK Government authorities will assess each application on a case-b
 
 Residents in Singapore seeking to travel to the ROK for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in the ROK, which will apply for isolation exemption approval on behalf of the applicant with the relevant government agencies in the ROK. If approved, the applicant is required to apply for a visa at the ROK Embassy in Singapore, should they hold a visa-required passport [click](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1). The approved applicant is also required to submit documents [click](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) to the ROK Embassy in Singapore via email to <fastlanesg@mofa.go.kr> in order to receive the endorsed Isolation Exemption Certificate and the letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. The approved applicant will be notified within 2 working days on the document pick-up date. Please [click here](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275) or contact the ROK Embassy in Singapore (contact details at **<a href="#annexarok">ANNEX A</a>**) for more details on the requirements for ROK-Singapore RGL Essential Travel.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the ROK authorities prior to departure for the ROK. This includes taking a pre-departure COVID-19 PCR test and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. This may also include other requirements such as keeping the ROK authorities informed of the traveller’s flight details.
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the ROK authorities prior to departure for the ROK. This includes taking a [pre-departure COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pre-departure-test) and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. This may also include other requirements such as keeping the ROK authorities informed of the traveller’s flight details.
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in the ROK?
 
@@ -1210,11 +808,7 @@ The traveller may contact his/her host company or government agency in the ROK t
 
 #### 8. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-A RGL traveller departing for the ROK can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19.
-
-The list of clinics that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at **<a href="#annexbrok">ANNEX B</a>**. Testing for RGL arrangements should only be carried out at these clinics at the moment. An eligible RGL traveller can contact the clinic directly for testing.
-
-The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
+A RGL traveller departing for the ROK can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -1260,20 +854,6 @@ The traveller must adhere to the ROK Government’s requirement to install and a
 
 The traveller must keep to the controlled itinerary that is supervised by the receiving enterprise or government agency in the ROK for the first 14 days.
 
-### **Returning to Singapore**
-
-#### 16. What health measures will I be subject to upon returning to Singapore after my RGL travel?
-
-Singapore-based travellers returning from their travel on the Singapore-ROK RGL will be subjected to the prevailing Stay Home Notice (SHN) policy applicable to incoming travellers to Singapore from Republic of Korea, which includes 14-day SHN at dedicated SHN facilities and a COVID-19 PCR swab test before the end of the SHN. Travellers will pay for the cost of the 14-day SHN and the PCR swab test. For more information about the SHN issued by ICA, please refer [here](/health/shn).
-
-You may also wish to refer [here](health/shn) for the latest details and updates on border control measures. For information on the prevailing health measures for inbound travellers, please refer to this [link](https://www.ica.gov.sg/covid-19/ArrivalSG). 
-
-#### 17. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the ROK?
-
-Travellers will be responsible for charges for COVID-19 treatment if symptoms develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled  to the ROK on the Singapore-ROK RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to the ROK on the Singapore-ROK RGL may tap on their usual financing arrangements, such as foreign worker insurance.
-
-Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the ROK Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to ROK via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from the ROK via the RGL.
-
 <div id="annexarok"></div>
 
 ### **ANNEX A**
@@ -1286,80 +866,7 @@ Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for RGL-
 
 <div id="annexbrok"></div>
 
-### **ANNEX B**
-
-#### Pre-Departure COVID-19 Tests in Singapore
-
-##### Booking an appointment
-
-##### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
-
-Pre-departure COVID-19 PCR tests for RGL arrangements may only be performed at [selected clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) for eligible RGL travellers.
-
-Please call the clinic to make an appointment and verify your eligibility to be swabbed, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment or are unable to produce proof of eligibility.
-
-##### 2. What is the latest I have to be at the clinic, based on my departure flight timing?
-
-You should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight.
-
-##### 3. How can I make an appointment for pre-departure PCR testing?
-
-For RGL travel to the ROK, the pre-departure PCR test must be done within 72 hours prior to departure.
-
-Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
-
-##### 4. How far in advance should I make an appointment for the pre-departure PCR test?
-
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application is approved.
-
-Please refer to the **Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.** This is to ensure that you meet the RGL requirements.
-
-If you do not make a prior appointment, please note that:
-1. There is no guarantee that there will be a test slot for you; and 
-2. You may not get your results in time for your flight to qualify for RGL arrangements.
-
-Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight.
-
-##### 5. What details will I need to book an appointment for the PCR test?
-
-Please have the following information on hand when making an appointment for your test:
-1. Identity card number or passport number
-2. Departure flight timing
-3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing
-4. Address in Singapore 
-5. Contact number 
-6. Email address
-
-##### 6. What documents should I bring for my appointment?
-
-Please bring the following:
-1. Identity card or passport 
-2. Letter issued by the ROK Embassy in Singapore confirming that you have been granted approval by the relevant authorities in the ROK to travel to the ROK under the Singapore-ROK RGL. 
-3. Softcopy booking reference showing your departure flight timing
-
-##### Testing
-
-##### 7. What if I miss my test timing? What if I take my test after the Cut-off Test Timing?
-
-Travellers who miss the Cut-off Test Timing will <u>not</u> be able to obtain a test result in time for their flight.
-
-Please make arrangements early for your test slot so that you can qualify for the RGL arrangements.
-
-##### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
-
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
-
-##### Test Results
-
-##### 9. When can I expect to get my PCR test results?
-
-You will receive your PCR test results and memo at least three hours before your flight.
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
-
 -----
-
-<sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum.
 
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 

@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /rgl/overview
-third_nav_title: RGL Visitors to Singapore
+third_nav_title: RGL Travellers Visiting Singapore
 ---
 
 ## Reciprocal Green Lane
