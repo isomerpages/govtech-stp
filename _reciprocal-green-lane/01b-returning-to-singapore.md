@@ -28,13 +28,13 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">All returning RGL travellers should:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">All returning RGL travellers should:
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> e-service.</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; display:none;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> e-service.</li>
 </ol>
   <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Returning RGL travellers from Brunei Darussalam and Mainland China can disregard the electronic SHN issued via email and should additionally:</p>
       <ol style="margin-top:0px; list-style-type:disc;">      
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
 </ol>
  </td>
   </tr>
@@ -56,21 +56,21 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Returning RGL travellers must produce the following documents to the immigration officer for clearance into Singapore:
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Passport/Travel document that is valid for at least six months;</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SG Arrival Card acknowledgement email;</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of RGL status (e.g. Entry approval issued by the receiving RGL-counterpart country);</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Long-term pass or in-principle approval letter (if applicable); and</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Singapore visa (if applicable).</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; display:none;   line-height:1.5;">Passport/Travel document that is valid for at least six months;</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">SG Arrival Card acknowledgement email;</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Proof of RGL status (e.g. Entry approval issued by the receiving RGL-counterpart country);</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Long-term pass or in-principle approval letter (if applicable); and</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Valid Singapore visa (if applicable).</li>
 </ol>
  </td>
   </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Application of Health Control Measures</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Returning RGL travellers from Brunei Darussalam and Mainland China will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Application of Health Control Measures</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Returning RGL travellers from Brunei Darussalam and Mainland China will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Upon arrival, returning RGL travellers from Germany, Indonesia, Japan, Malaysia and Republic of Korea will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take the PCR test; and</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Served a 14-day SHN, which they will serve in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a PCR test toward the end of their SHN.</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Take the PCR test; and</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Served a 14-day SHN, which they will serve in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a PCR test toward the end of their SHN.</li>
 </ol>
  </td>
   </tr>
