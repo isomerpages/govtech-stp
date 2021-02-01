@@ -26,7 +26,7 @@ C) [For RGL Travellers:](#rgltravellers)
 - [Public Health Safeguards in Singapore](#publichealth)
 - [Return to Countries/Regions of Departure](#return)
 
-<div id="General"></a>
+<div id="General"></div>
 
 ### A) General Queries
 
