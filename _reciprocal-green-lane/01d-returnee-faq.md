@@ -63,7 +63,9 @@ Travellers will be responsible for charges for COVID-19 treatment if [symptoms](
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the PDF copy of the Entry Travel Pass which confirms that he/she was granted approval by the relevant authorities to travel to Brunei under the RGL. The document is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Brunei via the RGL.
 
-Back to <a href="#faq-top">Top</a>
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
 
 <div id="faq-return-china"></div> 
 
@@ -85,7 +87,9 @@ Travellers will be responsible for charges for COVID-19 treatment if [symptoms](
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the Letter of Invitation issued by the Chinese provincial/municipal authorities of Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin or Zhejiang specifically for essential business or official travel to China via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from China via the RGL.
 
-Back to [Top](#faq-top)
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
 
 <div id="faq-return-germany"></div> 
 
@@ -107,7 +111,9 @@ There are currently no requirements for Singapore-based RGL travellers to take a
 
 Singapore Citizens and Permanent Residents may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
-Back to [Top](#faq-top)
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
 
 <div id="faq-return-japan"></div> 
 
@@ -129,7 +135,9 @@ There are currently no requirements for Singapore-based RGL travellers to take a
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
-Back to [Top](#faq-top)
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
 
 <div id="faq-return-indonesia"></div> 
 
@@ -149,7 +157,9 @@ Travellers will be responsible for charges for COVID-19 treatment if [symptoms](
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the e-visa which confirms that he/she was granted approval by the relevant authorities to travel to Indonesia under the RGL. The e-visa is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from Indonesia via the RGL.
 
-Back to [Top](#faq-top)
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
 
 <div id="faq-return-malaysia"></div> 
 
@@ -171,7 +181,9 @@ There are currently no requirements for Singapore-based RGL travellers to take a
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
-Back to [Top](#faq-top)
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
 
 <div id="faq-return-rok"></div> 
 
@@ -191,5 +203,11 @@ Travellers will be responsible for charges for COVID-19 treatment if [symptoms](
 
 Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain the letter issued by the ROK Embassy in Singapore which confirms that he/she was granted approval by the relevant authorities to travel to ROK via the RGL. This letter is to be presented to the hospital as an indication of eligibility for Government subsidies, MediShield Life/Integrated Shield Plan or any other form of coverage (if applicable), should he/she be tested positive for COVID-19 upon return from the ROK via the RGL.
 
-Back to [Top](#faq-top)  
+<p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
+
+-----
+
+
+
+
   
