@@ -65,7 +65,7 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
  </td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Application of Health Control Measures</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Application of Health Control Measures</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Returning RGL travellers from Brunei Darussalam and Mainland China will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Upon arrival, returning RGL travellers from Germany, Indonesia, Japan, Malaysia and Republic of Korea will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
