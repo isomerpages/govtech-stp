@@ -56,11 +56,11 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Returning RGL travellers must produce the following documents to the immigration officer for clearance into Singapore:
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;    line-height:1.5;">Passport/Travel document that is valid for at least six months;</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">SG Arrival Card acknowledgement email;</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of RGL status (e.g. Entry approval issued by the receiving RGL-counterpart country);</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;    line-height:1.5;">Long-term pass or in-principle approval letter (if applicable); and</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;   line-height:1.5;">Valid Singapore visa (if applicable).</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;    line-height:1.5;">Passport/Travel document that is valid for at least six months;</li>
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;   line-height:1.5;">SG Arrival Card acknowledgement email;</li>
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Proof of RGL status (e.g. Entry approval issued by the receiving RGL-counterpart country);</li>
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;    line-height:1.5;">Long-term pass or in-principle approval letter (if applicable); and</li>
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;   line-height:1.5;">Valid Singapore visa (if applicable).</li>
 </ol>
  </td>
   </tr>
