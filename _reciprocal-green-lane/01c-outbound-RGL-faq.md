@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: Frequently Asked Questions for Outbound RGL Travellers
 permalink: /rgl/outbound/faq
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
