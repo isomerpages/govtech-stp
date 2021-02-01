@@ -1,5 +1,5 @@
 ---
-title: RGL Returnees (SC/PR/LTP) Frequently Asked Questions
+title: Frequently Asked Questions for RGL Returnees (SC/PR/LTP) 
 permalink: /rgl/returnees/faq
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
