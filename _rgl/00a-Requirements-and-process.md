@@ -87,7 +87,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of contact person in company or agency (e.g. name, mobile number, email address); and </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of 14-day itinerary in Singapore </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of 14-day controlled itinerary in Singapore </li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">An approval letter will be issued to the applicant and sponsoring company or government agency once the application is approved. </p>
  </td>
