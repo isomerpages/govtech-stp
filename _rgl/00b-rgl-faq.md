@@ -350,7 +350,7 @@ As the specific requirements may change over time, RGL travellers returning to t
    </td>
     </tr>
       <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; font-size:18px; border-bottom:1px solid #D8D8D8;">Republic of Korea</td>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:18px; border-bottom:1px solid #D8D8D8;">Republic of Korea</td>
        <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;font-size:18px;"> 
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers who are foreign nationals/citizens with long-term residency in the Republic of Korea returning to the Republic of Korea are required to take a COVID-19 PCR test in Singapore within 72 hours before the departure date. 
 </p>
