@@ -197,7 +197,7 @@ Upon arrival in Singapore, all Singapore-based travellers returning from their t
 
 Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
 
-#### 17. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the ROK?
+#### 2. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the ROK?
 
 Travellers will be responsible for charges for COVID-19 treatment if [symptoms](/health/covid19-symptoms) develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to the ROK on the Singapore-ROK RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass holders who travelled to the ROK on the Singapore-ROK RGL may tap on their usual financing arrangements, such as foreign worker insurance.
 
