@@ -195,7 +195,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air ticket.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/bus/ferry ticket.</li>
          </ol> 
      <p style="font-size:16px;">Upon confirmation of his/her traveller scheme, the traveller will take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> at the immigration checkpoint. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be made to pay on the spot.</p>
     </td>
