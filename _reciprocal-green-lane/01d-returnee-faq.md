@@ -1,7 +1,7 @@
 ---
 title: FAQ - Returning RGL Travellers
 permalink: /rgl/returnees/faq
-third_nav_title: Visiting RGL Counterpart Countries/Regions
+third_nav_title: RGL Travellers Returning to Singapore
 ---
 
 <div id="faq-top"></div>
