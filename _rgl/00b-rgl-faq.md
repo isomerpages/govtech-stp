@@ -350,15 +350,15 @@ As the specific requirements may change over time, RGL travellers returning to t
    </td>
     </tr>
       <tr>
-        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Republic of Korea</td>
-       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; font-size:18px; border-bottom:1px solid #D8D8D8;">Republic of Korea</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;font-size:18px;"> 
 <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers who are foreign nationals/citizens with long-term residency in the Republic of Korea returning to the Republic of Korea are required to take a COVID-19 PCR test in Singapore within 72 hours before the departure date. 
 </p>
          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Upon their return to the Republic of Korea, all travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine and/or COVID-19 PCR test.
 </p>
           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">As the specific requirements may change over time, travellers returning to the Republic of Korea should verify the latest requirements with the Government of the Republic of Korea or the Embassy of the Republic of Korea in Singapore.
 </p>
-          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">ROK nationals who are foreign nationals/citizens with long-term residency in the Republic of Korea should note that they are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761457&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1">here</a> for more information on the re-entry permit. 
+          <p style="margin-top:0px; margin-bottom:0px;  font-size:18px;">ROK nationals who are foreign nationals/citizens with long-term residency in the Republic of Korea should note that they are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761457&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1">here</a> for more information on the re-entry permit. 
 </p>
          
    </td>
