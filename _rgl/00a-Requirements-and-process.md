@@ -70,7 +70,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="https://eservices.ica.gov.sg/STO/">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry. As applications can take up to seven days (excluding day of application) to process, any application submitted less than <b>8 days from the intended date of entry will not be accepted.</b>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Application sponsors should:</p>
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Inform the traveller of the terms and conditions for their entry into Singapore under the RGL arrangement,<a href="https://safetravel.ica.gov.sg/rgl/terms-and-conditions">here</a></li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the traveller of the terms and conditions for their entry into Singapore under the RGL arrangement,<a href="https://safetravel.ica.gov.sg/rgl/terms-and-conditions">here</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have on hand the following details as part of the submission:
 <ol style="margin-top:0px; list-style-type:lower-alpha;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s passport details, FIN number (if applicable) and Long-Term Pass expiry date (if applicable);
