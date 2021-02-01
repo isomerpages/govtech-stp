@@ -873,8 +873,6 @@ Email: <consg@mofa.go.kr> (for visa matters) / <fastlanesg@mofa.go.kr> (for RGL-
 
 -----
 
-<sup>1</sup> A PCR test seeks to detect genetic sequences specific to COVID-19, and the sample is taken via a swab test from the nose, back of throat or sputum.
-
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
 -----
