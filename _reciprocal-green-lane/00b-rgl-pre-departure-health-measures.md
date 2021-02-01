@@ -18,7 +18,7 @@ In addition to meeting the travel history requirement, all RGL-approved travelle
 <thead>
   <tr>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Travellers From</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">List of Testing Facilities</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Designated Testing Facilities</th>
   </tr>
 </thead>
 <tbody>
@@ -56,7 +56,7 @@ In addition to meeting the travel history requirement, all RGL-approved travelle
   </tr>
     <tr>
       <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
-       <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:left;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support (www.btsc.or.kr / (+82) 1566-8110 / btsc@kita.net) for further details on the medical institutes. <br><br><u>Note:</u> Website is in Korean; enquiries in English can be made via phone or email.</td>
+       <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:left;">Please note that it may take around 3 days to take a pre-departure COVID-19 PCR test after applying to do so. Please approach the Republic of Korea Business Travel Support (<a href="https://www.kita.net/mberJobSport/immigrationsupport/immigrationSupport.dor">www.btsc.or.kr</a> / (+82) 1566-8110 / btsc@kita.net) for further details on the medical institutes. <br><br><u>Note:</u> Website is in Korean; enquiries in English can be made via phone or email.</td>
   </tr>
   </tbody>
   </table>
