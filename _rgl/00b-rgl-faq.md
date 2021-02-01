@@ -72,7 +72,7 @@ RGL travellers are only allowed to travel to Singapore via a non-stop flight fro
       </td>
     </tr>
      <tr>
-      <td style="margin-top:0px; margin-bottom:0px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDEDfont-size:18px;">
+      <td style="margin-top:0px; margin-bottom:0px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;font-size:18px;">
         <b>Republic of Korea</b>
       </td>
       <td style="margin-top:0px; margin-bottom:0px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; font-size:18px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
