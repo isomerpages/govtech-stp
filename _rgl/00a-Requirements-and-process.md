@@ -168,7 +168,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Negative COVID-19 PCR test result taken at an authorised testing facility within 72 hours before departure for Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result taken at an authorised testing facility within 72 hours before departure for Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus etc. ticket).</li>
          </ol> 
       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents may be refused boarding by the airline or transport company.</p>     
