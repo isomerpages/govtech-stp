@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions for Returning RGL Travellers
+title: FAQ - Returning RGL Travellers
 permalink: /rgl/returnees/faq
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
