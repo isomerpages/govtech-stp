@@ -48,10 +48,11 @@ The requirements and processes outlined on this page apply to inbound travellers
 ### 1. Eligibility
 
 Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass under the Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who:
-- Holds a valid passport of any nationality/citizenship;
-- Is a resident of the RGL partner country/region;
-- Is seeking to make a single-entry, short-term essential travel; and
-- Is travelling for business or official purposes to Singapore from the RGL partner country/region.
+- A valid passport holder of any nationality/citizenship;
+- A resident of either Singapore or the RGL partner country/region;
+- Seeking to make a single-entry, short-term essential travel; and
+- Travelling for business or official purposes between Singapore and country/region of departure.
+
 
 ### 2. Submit Approvals for Entry into Singapore
 
@@ -66,9 +67,10 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit RGL application</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="https://eservices.ica.gov.sg/STO/">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry, and processing of the application can take up to 7 calendar days excluding the day of application. <b>Applications submitted less than 7 days from the intended date of entry will not be processed.</b>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>Singapore-based companies or Singapore Government agencies (i.e. application sponsors) to submit a SafeTravel Pass-RGL application <a href="https://eservices.ica.gov.sg/STO/">here</a></b>. Applications for travel are open between 2 and 5 weeks before the intended week of entry. As applications can take up to seven days (excluding day of application) to process, any application submitted less than <b>8 days from the intended date of entry will not be accepted.</b>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Application sponsors should:</p>
 <ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Inform the traveller of the terms and conditions for their entry into Singapore under the RGL arrangement,<a href="https://safetravel.ica.gov.sg/rgl/terms-and-conditions">here</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have on hand the following details as part of the submission:
 <ol style="margin-top:0px; list-style-type:lower-alpha;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s passport details, FIN number (if applicable) and Long-Term Pass expiry date (if applicable);
@@ -77,20 +79,17 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Address(es) of Traveller’s accommodation for his/her:
 <ol style="margin-top:0px; list-style-type:lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of COVID-19 Polymerase Chain Reaction test results), and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">14-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
-  <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Reciprocal Green Lane. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</p>
+  <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Click <a href="https://sha.org.sg/hotel-accommodation">here</a> for a list of hotels that accept RGL travellers. This list is non-exhaustive, and travellers may book other accommodations that is a non-residential individual room with an en-suite toilet.</p>
 </li>
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of contact person in company or agency (e.g. name, mobile number, email address); and </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Details of 14-day itinerary in Singapore </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Inform the traveller of the relevant RGL terms and conditions as part of the application, found <a href="/rgl/terms-and-conditions">here</a>.</b> </li>
 </ol>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px;">When the SafeTravel Pass-RGL application is approved, an approval letter will be issued to the applicant, as well as the sponsoring company or government agency. </p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Please note that RGL travellers must use direct flights to Singapore, and are not allowed to transit via another country/region</p>     
-      
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px;">An approval letter will be issued to the applicant and sponsoring company or government agency once the application is approved. </p>
  </td>
   </tr>
   <thead>
@@ -159,7 +158,8 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure.</li>
-         </ol>    
+         </ol> 
+       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers must also ensure that they are properly insured for any possible COVID-19 related medical treatment and hospitalisation arising from a positive COVID-19 diagnosis. Click <a href="/health/travelinsurance">here</a> for more information.</p>
     </td>
   </tr> 
    <tr>
@@ -168,10 +168,10 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Negative COVID-19 PCR test result taken at an authorised testing facility within 72 hours before departure for Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus etc. ticket).</li>
          </ol> 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>     
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents may be refused boarding by the airline or transport company.</p>     
     </td>
   </tr>
   </tbody>
@@ -208,18 +208,12 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Check that their mobile device is compatible<sup>2</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
-     </ol>
-                <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5; ">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
-                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5;">Those unable to use a mobile device due to a certified disability and/or special need</li>
-     </ol> </p>                
+The local host* must ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore. 
     </td>
  </tr>
   </tbody>
 </table>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><i>*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.</i></p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><i>* The local Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.</i></p>
 
 ### 5. Post-Arrival
 
@@ -234,7 +228,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
   <thead>
@@ -246,11 +240,14 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </thead>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8;"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All approved RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the 14-day itinerary submitted for the duration of stay; and
 </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Commute using private hire cars/taxis, or cohorted company transport (commuting via public transport is prohibited).
-       </li></ol>
+       </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Download and use the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app as well as observe the <a href="https://www.safeentry.gov.sg/">SafeEntry</a> rules.
+       </li>
+      </ol>
  </td>
   </tr>
   </tbody>
@@ -274,7 +271,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   </tr>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Reporting of Positive COVID-19 Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">RGL travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
 </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the Singapore host, who would then upload the TraceTogether data to MOH.
