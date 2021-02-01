@@ -34,7 +34,7 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
 </ol>
   <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from Brunei Darussalam and Mainland China can disregard the electronic SHN issued via email and should additionally:</p>
       <ol style="margin-top:0px; list-style-type:disc;">      
-        <li style="font-size:16px; margin-top:0px; margin-bottom:-50px; line-height:1.5;">Disregard the electronic SHN issued via email.</li>
+        <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Disregard the electronic SHN issued via email.</li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
 </ol>
  </td>
