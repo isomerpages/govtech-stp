@@ -30,11 +30,11 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">All returning RGL travellers should:
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; display:none;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> e-service.</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations using the <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a> e-service.</li>
 </ol>
-  <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Returning RGL travellers from Brunei Darussalam and Mainland China can disregard the electronic SHN issued via email and should additionally:</p>
+  <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Returning RGL travellers from Brunei Darussalam and Mainland China can disregard the electronic SHN issued via email and should additionally:</p>
       <ol style="margin-top:0px; list-style-type:disc;">      
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  display:none;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
 </ol>
  </td>
   </tr>
