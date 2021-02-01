@@ -1,6 +1,7 @@
 ---
 title: RGL Travellers Returning to Singapore
 permalink: /rgl/returning
+third_nav_title: RGL Travellers Returning to Singapore
 ---
 
 
