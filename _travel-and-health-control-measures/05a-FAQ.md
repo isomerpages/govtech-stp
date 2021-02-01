@@ -122,10 +122,10 @@ The cost of SDF stay, inclusive of GST, is about $2,000. Additional charges may 
 #### 14. How do I make requests for my accommodation if I have special requirements (e.g. smoking room, room sharing arrangements)?
 
 You may reach out to the relevant agency managing your entry approval for assistance:
-- ICA_nCOV_Request@ica.gov.sg, for ICA Long Term Pass Holders, Singapore Citizens and PRs;
-- COVID_SafeTravelEnquiries@mti.gov.sg, for Work Pass Holders under the Periodic Commuting Arrangement;
-- https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp, for Work Pass Holders in general; and
-- https://beta.moe.gov.sg/contact-us/, for Student’s Pass Holders.
+- <ICA_nCOV_Request@ica.gov.sg>, for **ICA Long Term Pass Holders, Singapore Citizens and PRs**;
+- <COVID_SafeTravelEnquiries@mti.gov.sg>, for **Work Pass Holders under the Periodic Commuting Arrangement**;
+- <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>, for **Work Pass Holders in general**; and
+- <https://beta.moe.gov.sg/contact-us/>, for **Student’s Pass Holders**.
 
 #### 15. How do I request a refund for my stay at Stay-Home Notice (SHN) dedicated facilities (SDF)?
 
