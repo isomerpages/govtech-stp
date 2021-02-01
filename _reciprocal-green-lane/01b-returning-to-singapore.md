@@ -1,5 +1,5 @@
 ---
-title: Returning to Singapore
+title: RGL Travellers Returning to Singapore
 permalink: /rgl/returning
 third_nav_title: Visiting RGL Counterpart Countries/Regions
 ---
