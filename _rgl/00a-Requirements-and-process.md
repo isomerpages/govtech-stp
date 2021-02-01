@@ -159,7 +159,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure.</li>
          </ol> 
-       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers must also ensure that they are properly insured for any possible COVID-19 related medical treatment and hospitalisation arising from a positive COVID-19 diagnosis. Click <a href="/health/travelinsurance">here</a> for more information.</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers must also ensure that they are properly insured for any possible COVID-19 related medical treatment and hospitalisation arising from a positive COVID-19 diagnosis. Click <a href="/health/travelinsurance">here</a> for more information.</p>
     </td>
   </tr> 
    <tr>
