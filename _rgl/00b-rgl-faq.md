@@ -297,5 +297,72 @@ Close contacts of an active COVID-19 case will be identified by MOH through cont
 As the specific requirements may change over time, RGL travellers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
 
-
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">RGL Travellers From</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Return Measures</th>
+    </tr>    
+  </thead>
+  <tbody>
+     <tr>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Brunei Darussalam</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Brunei Darussalam from Singapore do not need to be tested in Singapore before their return. </p>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">However, they will be served an Isolation Notice served at the Brunei International Airport, with cost borne by the traveller. Travellers may qualify for a shortened isolation period if a certificate of negative result from a COVID 19 RT-PCR test taken within 72 hours prior to departing from Singapore is submitted. </p>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">As the situation is dynamic, travellers may wish to verify the latest measures with the Brunei Government. </p>
+   </td>
+    </tr>
+    <tr>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Germany</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore is presently listed as a non-risk area by the German authorities. Travellers who have remained in Singapore for the past 14 days before their return to Germany, are not required to be tested for COVID-19 before their departure from Singapore. They are also not required to be quarantined or take a COVID-19 test upon arrival in Germany.
+</p>
+   </td>
+    </tr>
+     <tr>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Mainland China</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to China from Singapore must take a pre-departure COVID-19 PCR test and an IgM antibody serology test within 48 hours of their planned return to China. Please refer to the guidelines by the Chinese government <a href="http://www.chinaembassy.org.sg/eng/gdxw/t1812116.htm">here</a>. 
+</p>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers can make an appointment at selected clinics in Singapore for a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pre-departure-test">pre-departure COVID-19 PCR test</a> and an IgM antibody serology test. 
+</p>
+          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">For IgM antibody serology tests, travellers should approach the list of MOH-approved providers providing pre-departure testing to check on the availability of the serology test that meets the entry requirements of China. There is no need to apply for COVID-19 serology tests.
+</p>
+   </td>
+    </tr>
+      <tr>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Japan</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Japan from Singapore do not need to be tested in Singapore before returning. 
+</p>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">While the traveller will not be subject to a 14 days quarantine upon arrival, he/she must refrain from using public transportation for 14 days after entry and obtain permission from the relevant authorities to conduct activities according to his/her declared itinerary. RGL travellers returning to Japan should check on the specific measures/requirements they are required to observe upon their return, <a href="https://www.mofa.go.jp/ca/cp/page25e_000337.html">here</a>.
+</p>
+   </td>
+    </tr>
+     <tr>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Malaysia</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Travellers returning to Malaysia from Singapore do not need to be tested in Singapore before returning to Malaysia. 
+</p>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Upon their return to Malaysia, travellers must adhere to the prevailing COVID-19 prevention and control measures introduced by the Malaysian government. Travellers may wish to verify the latest measures with the Malaysian Government.
+</p>
+   </td>
+    </tr>
+      <tr>
+        <td style="margin-top:0px; margin-bottom:0px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED font-size:18px;">Republic of Korea</td>
+       <td style="margin-top:0px; margin-bottom:0px;border-right:1px solid #D8D8D8; font-size:18px;"> 
+<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">RGL travellers who are foreign nationals/citizens with long-term residency in the Republic of Korea returning to the Republic of Korea are required to take a COVID-19 PCR test in Singapore within 72 hours before the departure date. 
+</p>
+         <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Upon their return to the Republic of Korea, all travellers must adhere to the prevailing COVID-19 prevention and control measures of the Government of the Republic of Korea. This may include a 14-day quarantine and/or COVID-19 PCR test.
+</p>
+          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">As the specific requirements may change over time, travellers returning to the Republic of Korea should verify the latest requirements with the Government of the Republic of Korea or the Embassy of the Republic of Korea in Singapore.
+</p>
+          <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">ROK nationals who are foreign nationals/citizens with long-term residency in the Republic of Korea should note that they are required to obtain a re-entry permit before leaving the Republic of Korea. A re-entry permit allows the holder to re-enter the ROK once within the period of permission. Please click <a href="http://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761457&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1">here</a> for more information on the re-entry permit. 
+</p>
+         
+   </td>
+    </tr>
+  </tbody>
+  </table>
 
