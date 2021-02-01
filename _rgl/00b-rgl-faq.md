@@ -15,9 +15,9 @@ The following FAQs apply to persons who are residents in countries/regions that 
 
 Click on the links below to jump to the sections relevant to you: 
 
-A) [General Queries]
-B) [RGL Application Process for Application Sponsors]
-C) [For RGL Travellers:]
+A) [General Queries]()
+B) [RGL Application Process for Application Sponsors]()
+C) [For RGL Travellers:]()
 - Visa Application and Visit Pass Extension
 - Mandatory Pre-Departure to Singapore Preparation
 - COVID-19 Test on Arrival in Singapore
