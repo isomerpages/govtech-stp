@@ -11,7 +11,8 @@ permalink: /health/FAQ
  2. [Transport arrangements during SHN](#transport)
  3. [COVID-19 PCR Test](#pcrtest)
  4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
- 5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
+ 5. [On-arrival Test for Travellers entering Singapore](#OAT)
+ 6. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
 
 <div id="shnsdf"></div>
 
@@ -251,7 +252,7 @@ For negative test result requirements, please note that Singapore only accepts t
 If the personal details used are not stated in the passport the traveller should have the relevant identity document on hand for verification.
 Travellers on stipulated COVID-19 travel channels (e.g. Green/Fast Lane arrangements are required to comply with prevailing border health conditions stipulated as part of their entry permits
 
-#### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to have a valid negative COVID-19 test result?
+#### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to take a PDT and present a valid negative COVID-19 test result?
 
 At this point in time, travellers will only be able to transit through Singapore Changi Airport if they are travelling with an airline whose transfer route has been approved. Travellers are encouraged to confirm with their airlines on their eligibility to travel.
 
@@ -294,7 +295,7 @@ Please note that once your entry application is approved, there will be no refun
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
 - For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>
 - For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
-- For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
+- For **Student’s pass holders** please write in to <https://beta.moe.govhave.sg/contact-us/>. 
 
 #### 9. What if I refused to go for the COVID-19 test?
 
@@ -434,6 +435,28 @@ You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the 
 Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test. 
 
 Click here to [Go Back To Top](#top).
+
+<div id="OAT"></div>
+
+## On-arrival Test for travellers entering Singapore
+
+#### 1. I am transiting via Singapore. Do I still need to take a COVID-19 PCR test upon arrival?
+
+At this point in time, travellers will only be able to transit through Singapore Changi Airport if they are travelling with an airline whose transfer route has been approved. Travellers who are transiting through Singapore Changi Airport are not required to take a COVID-19 PCR test upon arrival. 
+
+#### 2. I have recovered from COVID-19. Do I still need to take a COVID-19 PCR test upon arrival? 
+
+You must be able to provide documentary proof of past diagnosis of COVID-19, based on your first ever positive PCR test result with the date of test and traveller’s identification details, all clearly stated in English. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. 
+
+Based on the documentary proof of your recovered status, you will be exempted from the COVID-19 PCR test upon arrival, but will instead be required to take a serology test to verify your recovered status. 
+
+If passengers are found to have produced false/forged COVID-19 test certificates, it will affect their ability to obtain or sponsor immigration facilities in the future.
+
+#### 3. Do children need to undergo a COVID-19 test when they arrive in Singapore?
+
+Only children aged 7 and above (in that calendar year) are required to take the COVID-19 test upon arrival. Children aged 6 and below (in that calendar year) are not required to undergo a COVID-19 test when entering Singapore or before the end of their SHN. However, if they meet the suspect criteria for COVID-19 or are exposed to other persons who have COVID-19, they would be required to undergo testing.
+
+Click here to [Go Back To Top](#top). 
 
 <div id="inboundtravelinsurance"></div>
 
