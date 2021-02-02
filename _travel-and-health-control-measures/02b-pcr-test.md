@@ -49,7 +49,7 @@ All travellers will take a PCR test upon arrival in Singapore. Depending on the 
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">While serving Stay-Home Notice (SHN)</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Specified testing facility in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$125</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Na; Pay during applicatio </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>Na; Pay during applicatio</b></td>
     </tr>
   </tbody>
   </table>
