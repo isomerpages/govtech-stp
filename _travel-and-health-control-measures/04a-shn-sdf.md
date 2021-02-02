@@ -29,9 +29,9 @@ Examples of how to calculate the end of each SHN duration can be found below. Tr
       </td>
     </tr>
      <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>14+7-day SHN</b>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>14+7-day SHN</b>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller C arrived in Singapore on 1 March 2021. His 14-day SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his 1st COVID-19 test result is released. The subsequent 7-day SHN will start on 15 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller C arrived in Singapore on 1 March 2021. His 14-day SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his 1st COVID-19 test result is released. The subsequent 7-day SHN will start on 15 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released.
       </td>
     </tr>
   </tbody>
