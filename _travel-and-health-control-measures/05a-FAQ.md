@@ -438,7 +438,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="OAT"></div>
 
-### On-arrival Test for travellers entering Singapore
+## On-arrival Test for travellers entering Singapore
 
 #### 1. I am transiting via Singapore. Do I still need to take a COVID-19 PCR test upon arrival?
 
