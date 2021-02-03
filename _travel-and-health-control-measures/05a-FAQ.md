@@ -278,7 +278,7 @@ You should schedule your travel into Singapore at least 21 days after your date 
 
 Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore.
 
-#### 5. I have recovered from COVID-19, am I required to undergo a pre-departure test (PDT) before entry into Singapore? Will I be denied entry into Singapore?
+#### 6. I have recovered from COVID-19, am I required to undergo a pre-departure test (PDT) before entry into Singapore? Will I be denied entry into Singapore?
 
 Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. Travellers should schedule your travel into Singapore at least 21 days after the date of your first positive COVID-19 PCR test.
 
