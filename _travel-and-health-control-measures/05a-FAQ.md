@@ -278,11 +278,15 @@ You should schedule your travel into Singapore at least 21 days after your date 
 
 Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore.
 
-#### 6. I have recovered from COVID-19. Can I still travel to Singapore if I test positive on my COVID-19 PCR test within 72 hours before departure?
+#### 5. I have recovered from COVID-19, am I required to undergo a pre-departure test (PDT) before entry into Singapore? Will I be denied entry into Singapore?
 
-If the pre-departure COVID-19 PCR test result is positive, the recovered individual must be able to provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result in English with the date of test and traveller’s identification details clearly stated. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. The documentary proof should be presented to the airline before boarding and to the immigration officers at the checkpoints in Singapore. If unable to provide documentary proof, the recovered individual will be denied boarding for flights bound for Singapore.
+Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. Travellers should schedule your travel into Singapore at least 21 days after the date of your first positive COVID-19 PCR test.
 
-Please also note that individuals with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding for flights bound for Singapore. 
+*E.g. Date of first positive PCR test received on 1 Nov (Day 1) — Departure from Singapore should only be from 22 Nov (Day 22) onwards*
+
+You are still required to take a COVID-19 PCR test within 72 hours before departure to Singapore.
+
+If the pre-departure COVID-19 PCR test result is positive, recovered individuals must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore.
 
 #### 7. How will I know my COVID-19 test result?
 
