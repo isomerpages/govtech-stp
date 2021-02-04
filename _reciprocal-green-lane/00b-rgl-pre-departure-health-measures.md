@@ -52,7 +52,7 @@ In addition to meeting the travel history requirement, all RGL-approved travelle
   </tr>
      <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
-       <td style=" text-align:left;border-right:1px solid #D8D8D8;">Please refer to the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm/Annex_4a-SENARAI_MAKMAL_YANG_MENJALANKAN_UJIAN_RT_BAGI_COVID-19__RTPCR_Jan_2021.pdf" target="_blank">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://medicalprac.moh.gov.my/v2/modules/mastop_publish/?tac=Senarai%20KPJKS%20yang%20telah%20diluluskan%20bagi%20COVID-19" target="_blank">here</a>.</td>
+       <td style=" text-align:left;border-right:1px solid #D8D8D8;">Please refer to <b>Annex 4a</b> for the list of accredited laboratories by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm" target="_blank">here</a> and the list of accredited private clinics and private hospitals by the Ministry of Health Malaysia <a href="http://covid-19.moh.gov.my/fasiliti-kesihatan/hospital-swasta-dan-klinik-swasta-berdaftar-untuk-covid19" target="_blank">here</a>.</td>
   </tr>
     <tr>
       <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
