@@ -37,7 +37,7 @@ permalink: /china/rgl/terms-and-conditions
 
 #### General
 
-1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with. The burden of proving compliance with these terms and conditions, including adherence to the controlled itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include retention of screenshots of SafeEntry passes and prompt answering of phonecalls or text messages to verify the traveller’s location.
+1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with. The burden of proving compliance with these terms and conditions, including adherence to the controlled itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include prompt answering of phonecalls or text messages to verify the traveller’s location.
 
 2. Any Visit Pass issued to a traveller holding the SafeTravel Pass is also subject to these terms and conditions. Non-compliance with any of these terms and conditions may result in the traveller having his/her Visit Pass cancelled and being refused entry.
 
@@ -59,7 +59,9 @@ permalink: /china/rgl/terms-and-conditions
 
 10. The traveller must undertake a COVID-19 PCR test from a medical institution designated by the relevant provincial/municipal government in China, at his/her own cost, within 72 hours prior to departure from the Relevant Qualifying Region, and obtain the negative test results prior to departure.
 
-11. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
+11. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
+
+12. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid visa (for visa-required passport holders);
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the relevant provincial/municipal government in China; and
@@ -67,21 +69,21 @@ permalink: /china/rgl/terms-and-conditions
 
 #### Post-Arrival in Singapore
 
-12. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
+13. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
 
-13. The traveller is required to present the following documents (hard copy or electronic copy) at the Immigration:
+14. The traveller is required to present the following documents (hard copy or electronic copy) at the Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid Visa (for visa-required passport holders);
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the relevant provincial/municipal government in China; and
 : d. Return air ticket or proof of other transportation arrangements to depart Singapore.
 
-14. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
+15. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
-15. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
+16. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
 
-16. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance.
+17. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance.
 
-17. For the duration of the traveller’s stay in Singapore, the traveller must:
+18. For the duration of the traveller’s stay in Singapore, the traveller must:
 : a. download and utilise relevant mobile applications and technology solutions, including TraceTogether and SafeEntry, to facilitate contact tracing;
 : b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
@@ -92,11 +94,11 @@ permalink: /china/rgl/terms-and-conditions
 
 #### Post-Departure from Singapore
 
-18. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
+19. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
 
-19. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
+20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
 
-20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to China.
+21. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to China.
 
 ### **C. Terms & Conditions for Host**
 
