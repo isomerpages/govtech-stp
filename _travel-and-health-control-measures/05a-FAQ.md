@@ -284,7 +284,7 @@ Travellers with a recent diagnosis of COVID-19 infection in the past 21 days wil
 
 *E.g. Date of first positive PCR test received on 1 Nov (Day 1) — Departure from Singapore should only be from 22 Nov (Day 22) onwards*
 
-If the pre-departure COVID-19 PCR test result is positive, recovered individuals must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore.
+If the pre-departure COVID-19 PCR test result is positive, recovered individuals must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result in English with the date of test and traveller's identification details clearly stated. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore.
 
 #### 7. How will I know my COVID-19 test result?
 
