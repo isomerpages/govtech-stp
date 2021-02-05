@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions
 permalink: /scpr-familial-ties-lane/FAQ
-third_nav_title: Frequently Asked Questions
 ---
 #### 1. I have submitted an entry application to ICA_nCOV_Request@ica.gov.sg. When will I receive the outcome of my application?
 
@@ -19,6 +18,6 @@ Each entry application is carefully considered and reviewed before a decision is
 
 Please note that the outcome of a re-appeal will remain the same if there are no changes to your circumstances.
 
-#### 4. I have already submitted an entry application to ICA via <https://eservices.ica.gov.sg/STO/>, but there are changes to my circumstances, how do I amend the details of my application?
+#### 4. I have already submitted an entry application to ICA via https://eservices.ica.gov.sg/STO/, but there are changes to my circumstances, how do I amend the details of my application?
 
 If there are additional or updated information/documents since your last application, you may consider submitting a fresh application online through <https://eservices.ica.gov.sg/STO/>.
