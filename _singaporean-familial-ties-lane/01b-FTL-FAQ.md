@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /scpr-familial-ties-lane/FAQ
+third_nav_title: Frequently Asked Questions
 ---
 #### 1. I have submitted an entry application to ICA_nCOV_Request@ica.gov.sg. When will I receive the outcome of my application?
 
