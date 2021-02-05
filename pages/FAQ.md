@@ -92,7 +92,7 @@ The Periodic Commuting Arrangement (PCA) supports companies in Singapore and Mal
 
 ### Singapore Citizen/PR Familial Ties Lane
 
-Travellers who are ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor, with family members who are Singapore citizens/permanent residents, may sought entry into Singapore through the Singapore Citizen/PR Familial Ties Lane if they fulfil the eligibility criteria. Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process) for FAQs under the Singapore Citizen/PR Familial Ties Lane.
+Travellers who are ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor, with family members who are Singapore citizens/permanent residents, may sought entry into Singapore through the Singapore Citizen/PR Familial Ties Lane if they fulfil the eligibility criteria. Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/faq) for FAQs under the Singapore Citizen/PR Familial Ties Lane.
 
 
 ### Safe Travel Portal Technical FAQ
