@@ -156,10 +156,11 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;border-bottom:1px solid #D8D8D8;"><b>Pre-departure</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Application sponsors should submit the following before the traveller’s departure to Singapore, <a href="https://eservices.ica.gov.sg/STO">here</a>:
       <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Travellers’ 14-day itinerary in Singapore; and</li>
+        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure.</li>
+        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
          </ol> 
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Travellers must also ensure that they are properly insured for any possible COVID-19 related medical treatment and hospitalisation arising from a positive COVID-19 diagnosis. Click <a href="/health/travelinsurance">here</a> for more information.</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;"><b><i>Note:Travellers are required to declare, at the point of application, that they have purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of their stay in Singapore, as part of the Terms and Conditions for the SafeTravel Pass. Please refer to the list of locally available insurance products <a href="/health/travelinsurance">here</a>.</i></b></p>
     </td>
   </tr> 
    <tr>
