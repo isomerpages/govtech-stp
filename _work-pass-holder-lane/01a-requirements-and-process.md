@@ -13,7 +13,7 @@ permalink: /wphl/requirements-and-process
   <tbody>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Up to one month before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED   ">Up to 60 days before planned date of entry into Singapore</th>
   </tr>
 </thead>
   <tr>
@@ -131,7 +131,13 @@ permalink: /wphl/requirements-and-process
   </tr>
  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>On-Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process sectors</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived work permit and S Pass holders from the Construction, Marine and Process (CMP) sectors from higher risk countries/regions and subject to 14-day SHN at SHN dedicated facilities, are required to take COVID-19 PCR Test and Serology Test on arrival in Singapore from 18 January 2021. This will be administered within a few days of arrival. For more details, please refer to MOM's press release <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0116-on-arrival-tests-for-newly-arrived-foreign-workers-from-cmp-sectors">here</a>.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived work permit and S Pass holders from the Construction, Marine and Process (CMP) sectors from higher risk countries/regions that are subject to 14-day SHN at SHN dedicated facilities (check table <a href="/files/SHN-and-swab-summary.pdf">here</a> for the countries/regions that apply), are required to take COVID-19 PCR Test and Serology Test on arrival in Singapore from 18 January 2021. Foreign domestic workers and confinement nannies entering Singapore from 5 February 2021 will be subjected to the same requirement if they are serving SHN at SHN dedicated facilities. The tests will be administered at the dedicated facilities within a few days of arrival. For more details, please refer to MOM's press releases below.
+                
+                
+<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0116-on-arrival-tests-for-newly-arrived-foreign-workers-from-cmp-sectors">16 January 2021: On Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process Sectors</a>
+</br>
+
+<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0203-additional-measures-for-newly-arrived-foreign-workers">3 February 2021: Additional Measures for Newly Arrived Foreign Workers</a>
     </td>
   </tr>
   <tr>
@@ -167,8 +173,20 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>7-day enhanced testing for workers residing in dormitories only</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived migrant workers staying in dormitories will be subjected to an additional 7-day testing regime. For more details, please refer to MOM's <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0105-additional-testing-regime-for-newly-arrived-foreign-workers">press release</a>.<br/><br/>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>7-day enhanced testing</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived migrant workers that fall into either categories below, will be subjected to an additional 7-day post-SHN testing regime:
+
+i.  Workers staying in dormitories; <i>and</i>
+ii. Workers in the Construction, Marine and Process (CMP) sectors
+
+Click the following MOM press releases for more info: 
+
+<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0105-additional-testing-regime-for-newly-arrived-foreign-workers">5 January 2021: Additional Testing Regime for Newly Arrived Foreign Workers Staying in Dormitories to Ensure Safety of Foreign Workers</a>
+</br>
+
+<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0203-additional-measures-for-newly-arrived-foreign-workers">3 February 2021: Additional Measures for Newly Arrived Foreign Workers</a>
+</br>
+</br>
     </td>
   </tr>
   </tbody>
