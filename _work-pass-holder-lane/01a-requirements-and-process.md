@@ -130,7 +130,7 @@ permalink: /wphl/requirements-and-process
     </td>
   </tr>
  <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>On-Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process sectors</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>On-Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process sectors, Foreign Domestic Workers and Confinement Nannies</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Newly arrived work permit and S Pass holders from the Construction, Marine and Process (CMP) sectors from higher risk countries/regions that are subject to 14-day SHN at SHN dedicated facilities (check table <a href="/files/SHN-and-swab-summary.pdf">here</a> for the countries/regions that apply), are required to take COVID-19 PCR Test and Serology Test on arrival in Singapore from 18 January 2021. Foreign domestic workers and confinement nannies entering Singapore from 5 February 2021 will be subjected to the same requirement if they are serving SHN at SHN dedicated facilities. The tests will be administered at the dedicated facilities within a few days of arrival. For more details, please refer to MOM's press releases below.
 
 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0116-on-arrival-tests-for-newly-arrived-foreign-workers-from-cmp-sectors">16 January 2021: On Arrival Tests for Newly Arrived Foreign Workers from Construction, Marine and Process Sectors</a></p>
