@@ -88,12 +88,15 @@ Travellers <u>returning to Singapore after using RGL to visit any of the listed 
 
 ### Periodic Commuting Arrangement (PCA)
 
-The Periodic Commuting Arrangement (PCA) supports companies in Singapore and Malaysia by facilitating the movement of workers between both countries. Approved travellers/employees are required to remain in their country of employment for at least 90 days before returning to their home country for short-term home leave. Click [here](https://safetravel.ica.gov.sg/malaysia/pca/faq) for the FAQs about the PCA.
+The Periodic Commuting Arrangement (PCA) supports companies in Singapore and Malaysia by facilitating the movement of workers between both countries. Approved travellers/employees are required to remain in their country of employment for at least 90 days before returning to their home country for short-term home leave. 
+
+Click [here](https://safetravel.ica.gov.sg/malaysia/pca/faq) for the FAQs about the [PCA](/pca/overview).
 
 ### Singapore Citizen/PR Familial Ties Lane
 
-Travellers who are ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor, with family members who are Singapore citizens/permanent residents, may sought entry into Singapore through the Singapore Citizen/PR Familial Ties Lane if they fulfil the eligibility criteria. Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/faq) for FAQs under the Singapore Citizen/PR Familial Ties Lane.
+Travellers who are ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor, with family members who are Singapore citizens/permanent residents, may sought entry into Singapore through the Singapore Citizen/PR Familial Ties Lane if they fulfil the eligibility criteria. 
 
+Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/faq) for FAQs under the [Singapore Citizen/PR Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process).
 
 ### Safe Travel Portal Technical FAQ
 
@@ -101,4 +104,4 @@ Click here <insert hyperlink to new tech page> for troubleshooting FAQ on common
 
 ### Health Control Measures FAQ
 
-Click [here](https://safetravel.ica.gov.sg/health/faq) for the FAQs on Health Control Measures that are in place for travellers such as SHN, COVID-19 tests and COVID-19 insurance.
+Click [here](https://safetravel.ica.gov.sg/health/faq) for the FAQs on [Health Control Measures](/health) that are in place for travellers such as SHN, COVID-19 tests and COVID-19 insurance.
