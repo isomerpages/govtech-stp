@@ -11,9 +11,9 @@ Short-term visitors travelling to Singapore from the following countries may cli
 
 <table>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/australia/atp/faq">Australia</a></td>
-<td><a href="https://safetravel.ica.gov.sg/brunei/atp/faq">Brunei</a></td>
-<td><a href="https://safetravel.ica.gov.sg/china/atp/faq">Mainland China</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/australia/atp/faq">Australia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/brunei/atp/faq">Brunei</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/china/atp/faq">Mainland China</a></td>
 </tr>
 <tr>
 <td><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
