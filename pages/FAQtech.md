@@ -35,7 +35,7 @@ To facilitate the smooth processing and clearance of your application, please no
 
 For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine readable zone of the passport. An illustration can be found below to show how to locate the passport’s machine readable zone.
 
-<img src="images/MRZ.png" style="width:auto; height:auto;">
+<img src="/images/MRZ.png" style="width:auto; height:auto;">
 
 
 #### 4. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
