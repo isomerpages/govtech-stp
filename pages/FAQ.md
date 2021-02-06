@@ -26,7 +26,7 @@ Short-term visitors travelling to Singapore from the following countries may cli
 
 #### RGL Travellers Visiting Singapore
 
-Travellers <u>visiting Singapore for business/official purposes</u> may click on the links below for Frequently Asked Questions pertaining to the requirements and processes under the Reciprocal Green Lane](https://safetravel.ica.gov.sg/rgl/overview).
+Travellers <u>visiting Singapore for business/official purposes</u> may click on the links below for Frequently Asked Questions pertaining to the requirements and processes under the [Reciprocal Green Lane](https://safetravel.ica.gov.sg/rgl/overview).
 
 <table>
 <tr>
