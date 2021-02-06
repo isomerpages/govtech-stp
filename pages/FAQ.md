@@ -7,7 +7,7 @@ permalink: /FAQ
 
 ### Air Travel Pass (ATP)
 
-Short-term visitors travelling to Singapore from the following countries may click on the links below for Frequently Asked Questions on using the [Air Travel Pass](https://safetravel.ica.gov.sg/atp/overview) to Travel to Singapore.
+Short-term visitors travelling to Singapore from the following countries/regions may click on the links below for Frequently Asked Questions on using the [Air Travel Pass](https://safetravel.ica.gov.sg/atp/overview) to Travel to Singapore.
 
 <table>
 <tr>
@@ -16,9 +16,9 @@ Short-term visitors travelling to Singapore from the following countries may cli
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/china/atp/faq">Mainland China</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
-<td><a href="https://safetravel.ica.gov.sg/taiwan/atp/faq">Taiwan</a></td>
-<td><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/taiwan/atp/faq">Taiwan</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>
 </tr>
 </table>
 
