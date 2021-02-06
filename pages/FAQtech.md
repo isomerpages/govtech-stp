@@ -1,7 +1,8 @@
 ---
-title: Technical Help for Safe Travel Portals
-permalink:/FAQ/Tech
+title: Technical Help for Safe Travel Portal
+permalink: /FAQ/tech
 ---
+
 
 ## Click to jump to the following sections:
 
