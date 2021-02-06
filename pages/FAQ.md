@@ -100,7 +100,7 @@ Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/faq) for FAQs
 
 ### Safe Travel Portal Technical FAQ
 
-Click here <insert hyperlink to new tech page> for troubleshooting FAQ on common issues encountered with applications via the Safe Travel Portal.
+Click [here](/FAQ/tech) for troubleshooting FAQ on common issues encountered with applications via the Safe Travel Portal.
 
 ### Health Control Measures FAQ
 
