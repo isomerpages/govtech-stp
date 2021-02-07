@@ -7,18 +7,18 @@ permalink: /FAQ
 
 ### Air Travel Pass (ATP)
 
-Short-term visitors travelling to Singapore from the following countries may click on the links below for Frequently Asked Questions on using the [Air Travel Pass](https://safetravel.ica.gov.sg/atp/overview) to Travel to Singapore.
+Short-term visitors travelling to Singapore from the following countries/regions may click on the links below for Frequently Asked Questions on using the [Air Travel Pass](https://safetravel.ica.gov.sg/atp/overview) to Travel to Singapore.
 
 <table>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/australia/atp/faq">Australia</a></td>
-<td><a href="https://safetravel.ica.gov.sg/brunei/atp/faq">Brunei</a></td>
-<td><a href="https://safetravel.ica.gov.sg/china/atp/faq">Mainland China</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/australia/atp/faq">Australia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/brunei/atp/faq">Brunei</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/china/atp/faq">Mainland China</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
-<td><a href="https://safetravel.ica.gov.sg/taiwan/atp/faq">Taiwan</a></td>
-<td><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/taiwan/atp/faq">Taiwan</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>
 </tr>
 </table>
 
@@ -30,17 +30,17 @@ Travellers <u>visiting Singapore for business/official purposes</u> may click on
 
 <table>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/faq">Brunei</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/faq">Germany</a></td>
-<td><a href="https://safetravel.ica.gov.sg/indonesia/rgl/faq">Indonesia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Brunei</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Germany</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/indonesia/rgl/faq">Indonesia</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/faq">Japan</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/faq">Mainland China</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/faq">Malaysia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Japan</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Mainland China</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Malaysia</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/faq">Republic of Korea</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Republic of Korea</a></td>
 </tr>
 </table>
 
@@ -51,17 +51,17 @@ Travellers <u>visiting the following countries/regions for business/official pur
 
 <table>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-germany">Germany</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-indonesia">Indonesia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-germany">Germany</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-indonesia">Indonesia</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-japan">Japan</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-china">Mainland China</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-malaysia">Malaysia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-japan">Japan</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-china">Mainland China</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-malaysia">Malaysia</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-rok">Republic of Korea</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-rok">Republic of Korea</a></td>
 </tr>
 </table>
 
@@ -71,17 +71,17 @@ Travellers <u>returning to Singapore after using RGL to visit any of the listed 
 
 <table>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-brunei">Brunei</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-germany">Germany</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-indonesia">Indonesia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-brunei">Brunei</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-germany">Germany</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-indonesia">Indonesia</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-japan">Japan</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-china">Mainland China</a></td>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-malaysia">Malaysia</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-japan">Japan</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-china">Mainland China</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-malaysia">Malaysia</a></td>
 </tr>
 <tr>
-<td><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-rok">Republic of Korea</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-rok">Republic of Korea</a></td>
 </tr>
 </table>
 
