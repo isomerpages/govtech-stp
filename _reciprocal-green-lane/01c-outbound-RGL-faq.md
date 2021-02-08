@@ -112,7 +112,7 @@ If tested positive for COVID-19 in Brunei, the traveller will be accorded the ne
 
 #### 11. What documentation do I need to present to the airline staff at check-in before I will be allowed to board a flight from Singapore to Brunei?
 
-Minimally, a traveller should have on hand his/her negative COVID-19 PCR test result, a valid visa, proof of installation of the BruHealth application, a valid boarding pass, valid proof of payment for post-arrival COVID-19 PCR test, proof of hotel reservation in Brunei, and the approved Entry Travel Pass issued by the Bruneian government specifically for essential business or official travel under the RGL.
+Minimally a traveller should have on hand his/her negative COVID-19 PCR test result (as a soft copy image or printed hard copy), a valid visa, proof of installation of the BruHealth application, a valid boarding pass, valid proof of payment for post-arrival COVID-19 PCR test, proof of hotel reservation in Brunei, and the approved Entry Travel Pass issued by the Bruneian government specifically for essential business or official travel under the RGL.
 
 As the specific requirements may evolve over time, the traveller should seek an update on the latest requirements with his/her local host company or government agency.
 
