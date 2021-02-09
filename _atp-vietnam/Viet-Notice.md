@@ -10,7 +10,7 @@ Given the evolving COVID-19 situation in Vietnam, Singapore will tighten border 
 
 ### Short-term Visitors 
 
-**Short-term visitors with travel history to Vietnam, within the last 14 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **12 February 2021, 2359hrs (Singapore time)**. Please refer to the press release [here]() issued by the Singapore Ministry of Health (MOH) dated 9 February 2021. 
+**Short-term visitors with travel history to Vietnam, within the last 14 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **12 February 2021, 2359hrs (Singapore time)**. Please refer to the press release [here](https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-vietnam-new-south-wales-(australia)-and-business-travel-pass-scheme) issued by the Singapore Ministry of Health (MOH) dated 9 February 2021. 
 
 For avoidance of doubt, these revised measures do not apply to Air Travel Pass (ATP) holders who are entering Singapore **before 12 February 2021, 2359hrs**. 
 
