@@ -6,12 +6,11 @@ permalink: /atp/requirements-and-process
 ### 1. Eligibility 
 
 Foreigners who are short-term visitors travelling from one of the following countries/regions may seek entry into Singapore by applying for an Air Travel Pass (ATP):
-- Australia (excluding New South Wales)
+- Australia
 - Brunei Darussalam
 - Mainland China
 - New Zealand
 - Taiwan
-- Vietnam
 
 Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/shn">here</a> for the prevailing health measures applicable upon entry into Singapore.
  
