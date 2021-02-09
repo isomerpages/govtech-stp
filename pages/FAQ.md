@@ -18,7 +18,7 @@ Short-term visitors travelling to Singapore from the following countries/regions
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/taiwan/atp/faq">Taiwan</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>
+<!--<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>-->
 </tr>
 </table>
 
