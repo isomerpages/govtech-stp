@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification:
+notification: Scheduled maintenance will be taking place on:<br>&bull; 10 February 2021, from 12am to 2am. During this period, application services for Periodic Commuting Arrangement, Reciprocal Green Lane & Familial Ties Lane will not be available.
 
 # Site colors
 colors:
