@@ -7,13 +7,13 @@ permalink: /australia/atp/faq
 
 #### 1. What is an ATP?
 
-An ATP allows visitors<sup>1</sup> travelling from Australia (excluding New South Wales) to seek entry into Singapore.
+An ATP allows visitors<sup>1</sup> travelling from Australia to seek entry into Singapore.
 
 The ATP comes with conditions of travel that the applicant must comply with.
 
 #### 2. When can visitors start applying for an ATP?
 
-Visitors travelling from Australia (excluding New South Wales) can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0000hrs.
+Visitors travelling from Australia can apply for an ATP from 1 October 2020, 1200hrs, Singapore time (GMT +8), for entry into Singapore from 8 October 2020, 0000hrs.
 
 #### 3. How can visitors apply for an ATP?
 
@@ -183,7 +183,11 @@ Visitors must be transported directly to their declared place of accommodation t
 
 #### 32. What is the TraceTogether app? Does the Singapore Government track visitors’ movements via the app?
 
-The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby mobile devices running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s mobile device, and is shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
+The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby mobile devices running the same app. Together with other digital contact tracing tools, TraceTogether’s Bluetooth proximity data has helped to reduce average contact tracing time from 4 days to less than 1.5 days.
+
+The Bluetooth proximity data collected is stored locally in the user’s phone.  If the user test positive for COVID-19, the Singapore Ministry of Health will approach the user to upload their Bluetooth proximity data for contact tracing purposes. TraceTogether app does not collect or track your GPS location data. You may read more about the TraceTogether app’s Privacy Safeguards.
+
+The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://tracetogether.gov.sg/).
 
 #### 33. Must every visitor download the TraceTogether app?
 
