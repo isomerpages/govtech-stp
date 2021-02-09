@@ -110,17 +110,17 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Republic of Korea</td>
-  <td>&nbsp;</td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-bottom:1px solid #D8D8D8;">Republic of Korea</td>
+  <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
+  <td style="border-bottom:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
  </tr>
- <tr>
+ <!-- <tr>
   <td style="border-bottom:1px solid #D8D8D8;">Vietnam</td>
   <td style="border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
- </tr>
+ </tr>-->
 </table>
 
 <font size="3"> <i><sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang
