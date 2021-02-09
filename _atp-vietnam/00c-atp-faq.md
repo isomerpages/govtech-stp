@@ -1,7 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /vietnam/atp/faq
----
+
 
 ### **Air Travel Pass (ATP)**
 
