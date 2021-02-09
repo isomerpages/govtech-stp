@@ -55,7 +55,7 @@ The Air Travel Pass (ATP) enables foreigners who are short-term visitors departi
   </tr>
      <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Vietnam</b></td>
-       <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
+       <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"colspan="3">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
        <!--<td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"><a href="/atp/conditions">Click here</a></td>
     <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"><a href="/vietnam/atp/faq">Click here</a></td>-->
   </tr>
