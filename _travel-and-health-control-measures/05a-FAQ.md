@@ -320,7 +320,7 @@ You are required to complete your SHN even if the result of your COVID-19 test i
 
 All travellers (who are not Singapore Citizens and Permanent Residents) who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
 
-Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are born in 2015** are exempted from presenting a valid negative test result.
+Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are born after 2015** are exempted from presenting a valid negative test result.
 
 #### 12. Why do children need to undergo a COVID-19 test?
 
@@ -386,7 +386,7 @@ Travellers on stipulated COVID-19 travel channels (e.g. Green/Fast Lane arrangem
 
 All travellers (who are not Singapore Citizens and Permanent Residents) who are required to serve a 14-day SHN will be required to present a valid negative COVID-19 test result as a condition of entry into Singapore. 
 
-Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are born in 2015** are exempted from presenting a valid negative test result. 
+Travellers who **arrived in Singapore by 31 December 2021, 2359 hours, and are born after 2015** are exempted from presenting a valid negative test result. 
 
 #### 6.	Are returning travellers to Singapore on the Reciprocal Green Lane (RGLs) subjected to the PDT before return to Singapore?
 
