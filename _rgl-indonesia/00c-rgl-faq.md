@@ -228,7 +228,7 @@ For more information regarding Indonesia's policy for travellers that are return
 
 ### **Pre-Departure COVID-19 Tests in Indonesia** 
 
-Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_list_26102020.pdf). 
+Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_listing.pdf). 
 
 <div id="annexb"> </div>
 
