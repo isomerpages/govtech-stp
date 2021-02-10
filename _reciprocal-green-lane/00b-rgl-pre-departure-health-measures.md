@@ -44,7 +44,7 @@ In addition to meeting the travel history requirement, all RGL-approved travelle
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
-       <td style=" text-align:left;border-right:1px solid #D8D8D8;">Please refer to the list of medical institutions designated by the government of Indonesia <a href="/pdf/IDN_clinic_list_26102020.pdf">here</a></td>
+       <td style=" text-align:left;border-right:1px solid #D8D8D8;">Please refer to the list of medical institutions designated by the government of Indonesia <a href="/pdf/IDN_clinic_listing.pdf">here</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
