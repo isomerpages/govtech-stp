@@ -13,6 +13,7 @@ permalink: /connectsg/FAQ
 
 
 <div id="GenQuery"></div>
+
 ## General Queries
 
 #### 1. What is the Connect@Singapore initiative?
