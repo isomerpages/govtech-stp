@@ -81,7 +81,7 @@ The application for the SafeTravel Pass is open for a period of two to five week
  </table>
 
 <i><u>Note</u>: The stipulated week runs from 0000 hours Monday to 2359 hours Sunday.</i>
-<br>
+<br><br>
 Applicants should take into consideration the time involved for application and visa processing (if required), as well as the mandatory pre-departure COVID-19 Polymerase Chain Reaction (PCR) test before departure for Singapore. 
 
 #### 11. How will I be notified on the outcome of my SafeTravel Pass application under the Connect@Singapore initiative?
@@ -94,7 +94,7 @@ Both the SafeTravel Pass application and approved SafeTravel Pass cannot be amen
 
 #### 13. Can I travel with a group under the Connect@Singapore initiative? 
 
-Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to five individuals with similar travel history and entry requirements into Singapore. The travel cohort must be declared to the Safe Travel Office at the point of application. The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
+Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to five individuals with similar travel history and <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">entry requirements into Singapore</a>. The travel cohort must be declared to the Safe Travel Office at the point of application. The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
 
 #### 14. I recently tested positive for COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
@@ -108,7 +108,7 @@ Travellers with a recent diagnosis of COVID-19 infection in the past 21 days wil
 
 #### 15. What pre-departure requirements must I comply with prior to entry to Singapore?
 
-The complete list of pre-departure requirements prior to Connect@Singapore travellers’ entry into Singapore can be found here.
+The complete list of pre-departure requirements prior to Connect@Singapore travellers’ entry into Singapore can be found <a href="https://safetravel.ica.gov.sg/connectsg/rrequirements-and-process">here</a>.
 
 #### 16. What health measures will I be subjected to upon arrival in Singapore?
 
@@ -140,8 +140,8 @@ The Connect@Singapore initiative is for business, official and high-economic val
 
 #### 21. Can I mingle with other travellers under the Connect@Singapore initiative? 
 
-Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to five individuals with similar travel history and entry requirements into Singapore. The travel cohort must be pre-approved by the Safe Travel Office, and pre-declared to the Appointed Facility (AF). The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
-
+Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to five individuals with similar travel history and <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">entry requirements into Singapore</a> into Singapore. The travel cohort must be pre-approved by the Safe Travel Office, and pre-declared to the Appointed Facility (AF). The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
+<br><br>
 All prevailing national Safe Management Measures (SMMs) will apply to travellers in the AF. 
 
 #### 22. Can members of the Singapore community visit the Appointed Facilities? 
