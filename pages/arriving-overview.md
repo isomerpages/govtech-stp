@@ -40,14 +40,14 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 
 <table>
  <tr>
-  <td rowspan="2"><b>Country/Region of Departure</b></td>
-  <td colspan="2"><b>Short Term Visitors</b></td>
-  <td><b>Singapore or Malaysia Work Pass Holders</b></td>
+  <td rowspan="2" style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Country/Region of Departure</b></td>
+  <td colspan="2" style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Short Term Visitors</b></td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Singapore or Malaysia Work Pass Holders</b></td>
  </tr>
  <tr>
-  <td><b>Any Purpose of Travel </b></td>
-  <td><b>Business & Official Travel</b></td>
-  <td><b>Periodic Commuting Between Malaysia and Singapore</b></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Any Purpose of Travel </b></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Business & Official Travel</b></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
  </tr>
   <tr>
   <td>All countries/regions</td>
