@@ -59,19 +59,19 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Australia</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Brunei Darussalam</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Germany</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Hong Kong</td>
