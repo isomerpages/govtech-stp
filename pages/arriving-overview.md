@@ -9,10 +9,10 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 <table>
 <thead>
   <tr>
-    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Country/Region of Departure</th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Returning Singapore Citizen/PR</th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Singapore Long Term Pass Holder<sup>1</sup></th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Family Members of Singapore Citizens/Permanent Residents</th>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Country/Region of Departure</th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Returning Singapore Citizen/PR</th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Singapore Long Term Pass Holder<sup>1</sup></th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Family Members of Singapore Citizens/Permanent Residents</th>
   </tr>
 </thead>
 <tbody>
