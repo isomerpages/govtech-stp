@@ -15,7 +15,7 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <table>
 <thead>
    <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><u><b>At least 2 weeks</u> before stipulated week of planned departure to Singapore</b></th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>At least 2 weeks</u> before stipulated week of planned departure to Singapore</b></th>
   </tr>
 </thead>
 <tbody>
