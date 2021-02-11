@@ -50,79 +50,79 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
  </tr>
   <tr>
-  <td>All countries/regions</td>
-  <td>&nbsp;</td>
-  <td><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">All countries/regions</td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">&nbsp;</td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">&nbsp;</td>
  </tr>
  <tr>
-  <td>Australia</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Australia</td>
   <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Brunei Darussalam</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Brunei Darussalam</td>
   <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Germany</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Germany</td>
   <td>&nbsp;</td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Hong Kong</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Hong Kong</td>
     <td>Air Travel Bubble launch deferred. Click <a href="/hongkong/atp/notice">here</a> for more details.</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Indonesia</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Indonesia</td>
   <td>&nbsp;</td>
   <td><a href="/indonesia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Japan</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Japan</td>
   <td>&nbsp;</td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
    <tr>
-  <td>Mainland China</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Mainland China</td>
   <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Malaysia</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Malaysia</td>
   <td>&nbsp;</td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
  </tr>
  <tr>
-  <td>New Zealand</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">New Zealand</td>
   <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Taiwan</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Taiwan</td>
   <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
  </tr>
   <tr>
-  <td>Republic of Korea</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Republic of Korea</td>
   <td>&nbsp;</td>
   <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td style="border-bottom:1px solid #D8D8D8;">Vietnam</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"border-bottom:1px solid #D8D8D8;">Vietnam</td>
   <td style="border-bottom:1px solid #D8D8D8;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
