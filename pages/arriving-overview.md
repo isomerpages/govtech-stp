@@ -107,7 +107,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">New Zealand</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">>&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Taiwan</td>
@@ -122,7 +122,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
-  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Vietnam</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Vietnam</td>
   <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
   <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">&nbsp;</td>
   <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">&nbsp;</td>
