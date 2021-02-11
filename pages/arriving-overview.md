@@ -122,7 +122,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"border-bottom:1px solid #D8D8D8;">Vietnam</td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;"border-bottom:1px solid #D8D8D8;">Vietnam</td>
   <td style="border-bottom:1px solid #D8D8D8;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
