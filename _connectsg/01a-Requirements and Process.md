@@ -87,7 +87,26 @@ Once the application is approved, the applicant will be issued with SafeTravel P
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
    </ul>
+   
 Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
+</td>
+</tr>
+</tbody>
+</table>
+
+### 4. Arrival in Singapore
+
+<table>
+<thead>
+   <tr>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of Entry Into Singapore</th>
+  </tr>
+</thead>
+<tr>
+<td rowspan="3" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
+<td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal. 
+   </br></br>
+Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.
 </td>
 </tr>
 </tbody>
