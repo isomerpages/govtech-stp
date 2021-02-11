@@ -51,7 +51,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td>All countries/regions</td>
-  <td>&nbsp;></td>
+  <td>&nbsp;</td>
   <td><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a></td>
   <td>&nbsp;</td>
  </tr>
