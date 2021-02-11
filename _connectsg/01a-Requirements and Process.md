@@ -8,6 +8,27 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <ul>
 <li>travelling for business or official purposes, or of high economic value to Singapore; and</li>
 <li>seeking to make a short-term stay of up to 14 days.</li>
+</ul>
 
 ### 2. Submit Approvals for Entry into Singapore
 
+<table>
+<thead>
+   <tr>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><u><b>At least 2 weeks</u> before stipulated week of planned departure to Singapore</b></th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
+<td style="font-size:16px; border-right:1px solid #D8D8D8;">Eligible travellers should submit applications for entry approval through an Appointed Facility operator before travelling to Singapore. 
+<br/><br/>
+Once the application is approved, the applicant will be issued with SafeTravel Pass via email. The SafeTravel Pass is valid for a single entry to Singapore to arrive within the week of intended travel for stay for up to 14 days at the Appointed Facility, commencing from the day of arrival or until you depart Singapore, whichever earlier.
+</td>
+</tr>
+<thead>
+<tr>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">After Air Travel Pass has been approved</th>
+</thead>
+</tr>
+</table>
