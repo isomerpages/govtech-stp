@@ -98,16 +98,21 @@ Travellers who do not produce the above documents at pre-boarding checks may be 
 
 <table>
 <thead>
-   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of Entry Into Singapore</th>
+  <tr>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of entry into Singapore</b></th>
   </tr>
 </thead>
-<tr>
-<td rowspan="3" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-<td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal. 
-   </br></br>
+<tbody>
+ <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
 Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.
-</td>
-</tr>
-</tbody>
-</table>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Appointed Facility</b></td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">The Appointed Facility shall arrange meet-and-greet services for every traveller at the airport and ensure that the traveller is escorted directly to the Appointed Facility via a dedicated private vehicle.
+    </td>
+  </tr>
+ </tbody>
+ </table>
