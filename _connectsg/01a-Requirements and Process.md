@@ -64,7 +64,7 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 </tr>
 </thead>
 <tr>
-    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</td>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
       <ul>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li>
@@ -79,7 +79,7 @@ Once the application is approved, the applicant will be issued with SafeTravel P
   </tr>
 </thead>
 <tr>
-<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Pre-boarding clearance</td>
+<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers under the Connect@Singapore initiative must produce the following documents when leaving for Singapore:
    
 <ul>
