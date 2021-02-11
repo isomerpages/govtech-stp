@@ -9,10 +9,10 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 <table>
 <thead>
   <tr>
-    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Country/Region of Departure</th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Returning Singapore Citizen/PR</th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Singapore Long Term Pass Holder<sup>1</sup></th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Family Members of Singapore Citizens/Permanent Residents</th>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Country/Region of Departure</th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Returning Singapore Citizen/PR</th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Singapore Long Term Pass Holder<sup>1</sup></th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Family Members of Singapore Citizens/Permanent Residents</th>
   </tr>
 </thead>
 <tbody>
@@ -40,14 +40,14 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 
 <table>
  <tr>
-  <td rowspan="2" style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Country/Region of Departure</b></td>
-  <td colspan="2" style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Short Term Visitors</b></td>
-  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Singapore or Malaysia Work Pass Holders</b></td>
+  <td rowspan="2" style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#d5d5d5"><b>Country/Region of Departure</b></td>
+  <td colspan="2" style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#d5d5d5"><b>Short Term Visitors</b></td>
+  <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#d5d5d5"><b>Singapore or Malaysia Work Pass Holders</b></td>
  </tr>
  <tr>
-  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Any Purpose of Travel </b></td>
-  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Business & Official Travel</b></td>
-  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Any Purpose of Travel </b></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Business & Official Travel</b></td>
+  <td style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
  </tr>
   <tr>
   <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">All countries/regions</td>
