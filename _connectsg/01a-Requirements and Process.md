@@ -42,14 +42,4 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 </td>
 </tr>
 </tbody>
-
-       
-       
-       Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>.
-      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
-         </ol> 
-    </td>
-  </tr>
-  </tbody>
 </table>
