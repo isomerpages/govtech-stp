@@ -87,7 +87,8 @@ Once the application is approved, the applicant will be issued with SafeTravel P
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
    </ul>
-</br>
+
+
 Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
 </td>
 </tr>
@@ -116,3 +117,37 @@ Travellers are required to take an on-arrival <a href="https://safetravel.ica.go
   </tr>
  </tbody>
  </table>
+ 
+### 5. Post-Arrival
+
+<table>
+<thead>
+   <tr>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Up to 14 days</u> after arriving in Singapore</b></th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
+<td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers are to remain self-isolated in their guestrooms until a negative COVID-19 PCR test result is conveyed (within 48 hours). 
+
+Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
+</td>
+</tr>
+<thead>
+<tr>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>After completion of isolation</b>
+</tr>
+</thead>
+<tr>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Appointed Facilities</b></td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Within the Appointed Facility, travellers will have to stay within their pre-declared travel group of up to five travellers. They will not be allowed to mingle with other travellers outside of this group. They will also have to abide by all prevailing national Safe Management Measures (SMMs), and use <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.safeentry.gov.sg/">SafeEntry</a> so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.
+
+For the entire duration of their stay in Singapore, travellers under the Connect@Singapore initiative will be housed in a “bubble” within Appointed Facility, undergo regular testing, and strictly observe all prevailing SMMs.
+
+Travellers will be able to conduct meetings with Singapore residents and with other traveller groups (with SMMs in place) while in the Appointed Facility. They would also have to undergo <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 3, Day 7 and Day 14) as part of the health and safety protocols.
+</td>
+</tr>
+</tbody>
+</table>
+
