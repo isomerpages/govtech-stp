@@ -49,6 +49,12 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td><b>Business & Official Travel</b></td>
   <td><b>Periodic Commuting Between Malaysia and Singapore</b></td>
  </tr>
+  <tr>
+  <td>All countries/regions</td>
+  <td>&nbsp;></td>
+  <td><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a></td>
+  <td>&nbsp;</td>
+ </tr>
  <tr>
   <td>Australia</td>
   <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
