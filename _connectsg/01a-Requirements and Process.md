@@ -79,15 +79,15 @@ Once the application is approved, the applicant will be issued with SafeTravel P
   </tr>
 </thead>
 <tr>
-<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
-<td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers under the Connect@Singapore initiative must produce the following documents when leaving for Singapore:
+<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
+<td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers under the Connect@Singapore initiative must produce the following documents when leaving for Singapore:
    
 <ul>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Entry Approval;</li>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
    </ul>
-   
+</br>
 Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
 </td>
 </tr>
@@ -111,7 +111,7 @@ Travellers are required to take an on-arrival <a href="https://safetravel.ica.go
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Appointed Facility</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">The Appointed Facility shall arrange meet-and-greet services for every traveller at the airport and ensure that the traveller is escorted directly to the Appointed Facility via a dedicated private vehicle.
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">The Appointed Facility shall arrange meet-and-greet services for every traveller at the airport and ensure that the traveller is escorted directly to the Appointed Facility via a dedicated private vehicle.
     </td>
   </tr>
  </tbody>
