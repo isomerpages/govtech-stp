@@ -67,9 +67,9 @@ Once the application is approved, the applicant will be issued with SafeTravel P
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
       <ul>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. Travellers who have yet to pay for their on-arrival COVID-19 PCR test will be required to pay on the spot; and</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> mobile application on their mobile phones.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. Travellers who have yet to pay for their on-arrival COVID-19 PCR test will be required to pay on the spot; and</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> mobile application on their mobile phones.</li>
        </ul>
 </td>
 </tr>
@@ -83,9 +83,9 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers under the Connect@Singapore initiative must produce the following documents when leaving for Singapore:
    
 <ul>
-   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Valid Entry Approval;</li>
-   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Valid visa to enter Singapore (for visa-required passport holders); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;>Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
+   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Entry Approval;</li>
+   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
    </ul>
 Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
 </td>
