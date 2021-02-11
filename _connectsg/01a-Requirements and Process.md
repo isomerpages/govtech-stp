@@ -36,8 +36,8 @@ Once the application is approved, the applicant will be issued with SafeTravel P
     <td style="font-size:16px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b><u>Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore</u></b>.
    </br>
 <ul>
-<li>Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and</li>
-<li>Travellers who are existing visa holders can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid).</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who are existing visa holders can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid).</li>
 </ul>
 </td>
 </tr>
