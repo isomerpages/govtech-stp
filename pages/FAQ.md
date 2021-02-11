@@ -22,6 +22,12 @@ Short-term visitors travelling to Singapore from the following countries/regions
 </tr>
 </table>
 
+### Connect@Singapore
+
+Short-term visitors travelling to Singapore from all countries/regions for business and official purposes may utilise [Connect@Singapore](/connectsg/overview) to stay within a “bubble” at Appointed Facilities, to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities.
+
+Click [here](/connectsg/faq) to read the FAQ for Connect@Singapore.
+
 ### Reciprocal Green Lane (RGL)
 
 #### RGL Travellers Visiting Singapore
@@ -98,9 +104,13 @@ Travellers who are ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term
 
 Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/faq) for FAQs under the [Singapore Citizen/PR Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process).
 
+-----------
+
 ### Safe Travel Portal Technical FAQ
 
 Click [here](/FAQ/tech) for troubleshooting FAQ on common issues encountered with applications via the Safe Travel Portal.
+
+------------
 
 ### Health Control Measures FAQ
 
