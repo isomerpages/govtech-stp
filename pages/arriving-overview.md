@@ -3,28 +3,28 @@ title: Travelling to Singapore
 permalink: /arriving/overview
 ---
 
-## Arriving from All Countries/Regions
-For all countries/regions, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
+## General Entry from All Countries/Regions
+For travellers arriving all countries/regions, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
 <table>
 <thead>
   <tr>
-    <th>Country/Region of Departure</th>
-    <th>Returning Singapore Citizen/PR</th>
-    <th>Singapore Long Term Pass Holder<sup>1</sup></th>
-    <th>Family Members of Singapore Citizens/Permanent Residents</th>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Country/Region of Departure</th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Returning Singapore Citizen/PR</th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Singapore Long Term Pass Holder<sup>1</sup></th>
+    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Family Members of Singapore Citizens/Permanent Residents</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><b>All countries/regions</b></td>
-    <td ><a href="/sc-pr/requirements-and-process">Returning Singapore Citizen/PR</a></td>
-      <td ><ol style="margin-top:0px; margin-bottom:0px;">
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>All countries/regions</b></td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/requirements-and-process">Returning Singapore Citizen/PR</a></td>
+      <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px;">
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/wphl/requirements-and-process">Work Pass Holder Lane</a> </li>
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/stpl/requirements-and-process">Student's Pass Holder Lane</a></li>
   </ol></td>
    <!--  <td ><a href="/wphl/overview">Work Pass Holder Lane</a><br/><br/><a href="/stpl/overview">Student's Pass Holder Lane</a></td>-->
-   <td ><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
+   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
   </tr>
  </tbody>
  </table>
@@ -33,93 +33,99 @@ For all countries/regions, the following traveller types and Safe Travel Lanes a
 <sup>1</sup> Long Term Visit Pass holders should apply for entry either as a dependent of a Work Pass Holder under the Work Pass Holder General Lane, Parent/Guardian of a Student's Pass Holder under the Student's Pass Holder Lane, or for entry under the Singapore Citizen/Permanent Resident Familial Ties Lane.
  </i></font>
 
-## Additional Safe Travel Lanes for Arrival from Specific Countries/Regions
+## Additional Safe Travel Lanes for Short Term Visits to Singapore
 
 Singapore has arranged additional Safe Travel Lanes with the following countries/regions to facilitate shorter term entry into Singapore.
 
 
 <table>
  <tr>
-  <td rowspan="2"><b>Country/Region of Departure</b></td>
-  <td colspan="2"><b>Short Term Visitors</b></td>
-  <td><b>Singapore or Malaysia Work Pass Holders</b></td>
+  <td rowspan="2" style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid#bdbdbd; background-color:#d5d5d5"><b>Country/Region of Departure</b></td>
+  <td colspan="2" style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#d5d5d5"><b>Short Term Visitors</b></td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#d5d5d5"><b>Singapore or Malaysia Work Pass Holders</b></td>
  </tr>
  <tr>
-  <td><b>Any Purpose of Travel </b></td>
-  <td><b>Business & Official Travel</b></td>
-  <td><b>Periodic Commuting Between Malaysia and Singapore</b></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Any Purpose of Travel </b></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Business & Official Travel</b></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
+ </tr>
+  <tr>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">All countries/regions</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
-  <td>Australia</td>
-  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Australia</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
-  <td>Brunei Darussalam</td>
-  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Brunei Darussalam</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
-  <td>Germany</td>
-  <td>&nbsp;</td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Germany</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
-  <td>Hong Kong</td>
-    <td>Air Travel Bubble launch deferred. Click <a href="/hongkong/atp/notice">here</a> for more details.</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Hong Kong</td>
+    <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Air Travel Bubble launch deferred. Click <a href="/hongkong/atp/notice">here</a> for more details.</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
-  <td>Indonesia</td>
-  <td>&nbsp;</td>
-  <td><a href="/indonesia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Indonesia</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/indonesia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
-  <td>Japan</td>
-  <td>&nbsp;</td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Japan</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
    <tr>
-  <td>Mainland China</td>
-  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Mainland China</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
-  <td>Malaysia</td>
-  <td>&nbsp;</td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Malaysia</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
  </tr>
  <tr>
-  <td>New Zealand</td>
-  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">New Zealand</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
-  <td>Taiwan</td>
-  <td><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Taiwan</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
-  <td>Republic of Korea</td>
-  <td>&nbsp;</td>
-  <td><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
-  <td>&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Republic of Korea</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
-  <td style="border-bottom:1px solid #D8D8D8;">Vietnam</td>
-  <td style="border-bottom:1px solid #D8D8D8;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
-  <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
-  <td style="border-bottom:1px solid #D8D8D8;">&nbsp;</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Vietnam</td>
+  <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
+  <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
 </table>
 
