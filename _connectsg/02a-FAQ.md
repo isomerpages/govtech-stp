@@ -69,8 +69,8 @@ The application for the SafeTravel Pass is open for a period of two to five week
 
 <table>
   <tr>
-    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Application submitted</th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Earliest date of entry into Singapore</th>
+    <th style=""text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Application submitted</th>
+    <th style=""text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">Earliest date of entry into Singapore</th>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">0000 hours Monday to 2359 hours Sunday of Week 1</td>
