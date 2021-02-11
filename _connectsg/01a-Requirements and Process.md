@@ -120,7 +120,7 @@ Travellers are required to take an on-arrival <a href="https://safetravel.ica.go
 <table>
 <thead>
    <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Up to 14 days</u> after arriving in Singapore</b></th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Up to 48 hours</u> after arriving in Singapore</b></th>
   </tr>
 </thead>
 <tbody>
@@ -133,7 +133,7 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
 </tr>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>After completion of isolation</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>After completion of isolation, and up to 14 days after arrival in Singapore</b></th>
 </tr>
 </thead>
 <tr>
@@ -142,7 +142,7 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
 <br><br>
 For the entire duration of their stay in Singapore, travellers under the Connect@Singapore initiative will be housed in a “bubble” within Appointed Facility, undergo regular testing, and strictly observe all prevailing SMMs.
 <br><br>
-Travellers will be able to conduct meetings with Singapore residents and with other traveller groups (with SMMs in place) while in the Appointed Facility. They would also have to undergo <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 3, Day 7 and Day 14) as part of the health and safety protocols.
+Travellers will be able to conduct meetings with Singapore residents and with other traveller groups (with SMMs in place) while in the Appointed Facility. They would also have to undergo <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR tests</a> on Day 3, Day 7 and Day 14 of their stay as part of the health and safety protocols.
 </td>
 </tr>
 </tbody>
