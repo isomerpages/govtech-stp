@@ -24,7 +24,7 @@ If there are additional or updated information/documents since your last applica
  
 ### Health Control Measures FAQ
 
-You may click on the following links for more information on the [Travel Health Control Measures](/health).
+You may click on the following links for more information on [Travel Health Control Measures](/health).
 
 <table>
 <thead>
