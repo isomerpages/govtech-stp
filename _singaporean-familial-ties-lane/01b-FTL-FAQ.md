@@ -61,7 +61,7 @@ You may click on the following links for more information on the [Travel Health 
  </tbody>
  </table>
  
- ### Health Control Measures FAQ
+### Health Control Measures FAQ
 
 You may click on the following links for more information on the [Travel Health Control Measures](/health).
 
