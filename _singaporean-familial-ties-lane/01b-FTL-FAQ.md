@@ -24,12 +24,14 @@ If there are additional or updated information/documents since your last applica
  
 ### Health Control Measures FAQ
 
-You may click on the following links for more information on [Travel Health Control Measures](/health).
+You may click on the following links for more information on [Travel Health Control Measures](/health) such as [Stay Home Notice (SHN)](/health/shn) and [COVID-19 Tests](/health/covid19-tests).
+
+Frequently Asked Questions regarding SHN and COVID-19 tests can be found at the links below.
 
 <table>
 <thead>
   <tr>
-    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED" colspan="2">Stay Home Notice</th>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED" colspan="2">Stay Home Notice FAQs</th>
    <!-- <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Links</th>-->
   </tr>
 </thead>
@@ -39,7 +41,7 @@ You may click on the following links for more information on [Travel Health Cont
     <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#transport">Transport arrangements during SHN</a></b></td>
   </tr>
   <tr>
-    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED" colspan="2">COVID-19 Tests</th>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED" colspan="2">COVID-19 Test FAQs</th>
    <!-- <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Links</th>-->
   </tr>
    <tr>
