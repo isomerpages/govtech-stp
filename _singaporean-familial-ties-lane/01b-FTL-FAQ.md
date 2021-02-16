@@ -60,3 +60,40 @@ You may click on the following links for more information on the [Travel Health 
   </tr>
  </tbody>
  </table>
+ 
+ ### Health Control Measures FAQ
+
+You may click on the following links for more information on the [Travel Health Control Measures](/health).
+
+<table>
+<thead>
+  <tr>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED" colspan="2">Stay Home Notice</th>
+   <!-- <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Links</th>-->
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#shnsdf">Stay-Home Notice (SHN) and dedicated SHN facilities</a></b></td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#transport">Transport arrangements during SHN</a></b></td>
+  </tr>
+  <tr>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED" colspan="2">COVID-19 Tests</th>
+   <!-- <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Links</th>-->
+  </tr>
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#inboundPDT">Pre-Departure test for travellers departing to Singapore</a></b></td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#OAT">On-arrival test for travellers entering Singapore</a></b></td>
+  </tr>
+ <tr>
+    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">COVID-19 Travel Insurance</th>
+   <!-- <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Links</th>-->
+  </tr>
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></b></td>
+  </tr>
+ </tbody>
+ </table>
+ 
+ 
+ 
