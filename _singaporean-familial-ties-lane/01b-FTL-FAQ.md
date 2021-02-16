@@ -90,7 +90,7 @@ You may click on the following links for more information on the [Travel Health 
    <!-- <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Links</th>-->
   </tr>
    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><a href="/health/faq#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;" colspan="2"><b><a href="/health/faq#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></b></td>
   </tr>
  </tbody>
  </table>
