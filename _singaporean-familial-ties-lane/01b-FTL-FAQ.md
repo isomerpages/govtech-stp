@@ -39,12 +39,24 @@ You may click on the following links for more information on the [Travel Health 
     <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Please click <a href="/health/faq#shnsdf">here</a> for more information.</td>
   </tr>
    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Transport arrangements during SHN</b></td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Please click <a href="/health/faq#transport">here</a> for more information.</td>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>COVID-19 PCR Test</b></td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Please click <a href="/health/faq#pcrtest">here</a> for more information.</td>
+  </tr>
+   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Pre-Departure test for travellers departing to Singapore</b></td>
     <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Please click <a href="/health/faq#inboundPDT">here</a> for more information.</td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>On-arrival test for travellers entering Singapore</b></td>
     <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Please click <a href="/health/faq#OAT">here</a> for more information.</td>
+  </tr>
+ <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore Inbound Travel Insurance</b></td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Please click <a href="/health/faq#inboundtravelinsurance">here</a> for more information.</td>
   </tr>
  </tbody>
  </table>
