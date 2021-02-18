@@ -11,7 +11,7 @@ permalink: /SHN-Calculator
   opacity: 0;
 }
 
-/* custom styles */
+
 body {
   padding: 4em;
   background: #e5e5e5;
