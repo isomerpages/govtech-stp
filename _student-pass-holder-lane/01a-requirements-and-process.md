@@ -108,7 +108,7 @@ permalink: /stpl/requirements-and-process
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
-       Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore here, travellers may be required to:
+       Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
