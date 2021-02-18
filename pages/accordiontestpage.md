@@ -3,6 +3,8 @@ title: Testpage accordion
 permalink: /accordion
 ---
 
+<html>
+
 <head>
 <meta charset="utf-8">
 <title>CSS Accordion</title>
@@ -22,24 +24,25 @@ label {
     border-radius: 3px;
     color: #FFF;
     transition: ease .5s;
+	position: relative;
 }
 
 label:hover {
     background: #4E8774;
 }
 
-label::after{
-    font-family:"Font Awesome 5 Free";
-    content:'\f078';
-    font-weight:bold;
-    font-size:22px;
-    position:absolute;
-    right:10px;
-    top:6px;
+label::after {
+	font-family: "Font Awesome 5 Free";
+	content: '\f078';
+	font-weight: bold;
+	font-size: 22px;
+	position: absolute;
+	right: 10px;
+	top: 6px;
 }
 
-input:checked + label::after{
-    content:'\f077';
+input:checked + label::after {
+	content: '\f077';
 }
 
 .content {
