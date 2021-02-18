@@ -84,7 +84,7 @@ Once the application is approved, the applicant will be issued with SafeTravel P
    <ul>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Entry Approval;</li>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore.</li>
    </ul>
 Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
 </td>
