@@ -32,7 +32,7 @@ label:hover {
 }
 
 label::after {
-	background-image:url("Arrow.png");
+	background-image:url("/images/Arrow.png");
 	height:auto;
 	width:auto;
 	position: absolute;
