@@ -1,6 +1,6 @@
 ---
 title: Testpage accordion
-permalink: /accordion
+permalink: /accordion/testpage
 ---
 
 <head>
