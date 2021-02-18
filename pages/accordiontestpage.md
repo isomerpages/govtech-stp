@@ -32,13 +32,7 @@ label:hover {
 }
 
 label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\f078';
-	font-weight: bold;
-	font-size: 22px;
-	position: absolute;
-	right: 10px;
-	top: 6px;
+	content: ">";
 }
 
 input:checked + label::after {
