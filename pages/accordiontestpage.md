@@ -33,7 +33,7 @@ label:hover {
 
 label::after {
 	font-family: "Font Awesome 5 Free";
-	content: '\27A3';
+	content: '\261F';
 	font-weight: bold;
 	font-size: 22px;
 	position: absolute;
@@ -42,7 +42,7 @@ label::after {
 }
 
 input:checked + label::after {
-	content: '\27A3';
+	content: '\261F';
 }
 
 .content {
