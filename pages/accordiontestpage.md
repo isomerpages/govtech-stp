@@ -32,16 +32,17 @@ label:hover {
 }
 
 label::after {
-	background-image:url("/images/Arrow.png");
-	height:auto;
-	width:auto;
+	font-family: "Font Awesome 5 Free";
+	content: '\f078';
+	font-weight: bold;
+	font-size: 22px;
 	position: absolute;
 	right: 10px;
 	top: 6px;
 }
 
 input:checked + label::after {
-	background-image:url("/images/Arrow.png");
+	content: '\f077';
 }
 
 .content {
