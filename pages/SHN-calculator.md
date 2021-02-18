@@ -1,6 +1,8 @@
 ---
 permalink: /SHN-Calculator
 ---
+<style>
+  
 [type="date"] {
   background:#fff url(https://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/calendar_2.png)  97% 50% no-repeat ;
 }
@@ -28,6 +30,8 @@ input {
   box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
   width: 190px;
 }
+
+</style>
 
 <h1>SHN End-date Calculator</h1>
 <label for="dateofbirth">Date Of Arrival/SHN Start Date</label>
