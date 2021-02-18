@@ -10,7 +10,7 @@ For travellers arriving from <u>all countries/regions</u>, the following travell
 <thead>
   <tr>
     <!--<th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Country/Region of Departure</th>-->
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Returning Singapore Citizen/PR</th>
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Returning Singapore Citizen/PR</th>
     <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Singapore Long Term Pass Holder<sup>1</sup></th>
     <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Family Members of Singapore Citizens/Permanent Residents</th>
   </tr>
