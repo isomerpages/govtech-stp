@@ -1,6 +1,13 @@
 ---
 permalink: /SHN-Calculator
 ---
+
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>SHN Calculator</title>
+
 <style>
   
 [type="date"] {
@@ -13,6 +20,9 @@ permalink: /SHN-Calculator
   opacity: 0;
 }
 
+input {
+    display: none;
+}
 
 body {
   padding: 4em;
