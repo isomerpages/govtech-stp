@@ -21,7 +21,7 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <tbody>
 <tr>
 <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
-<td style="font-size:16px; border-right:1px solid #D8D8D8;">Eligible travellers should submit applications for entry approval through an Appointed Facility operator before travelling to Singapore. 
+<td style="font-size:16px; border-right:1px solid #D8D8D8;">Eligible travellers should submit applications for entry approval through an Appointed Facility operator before travelling to Singapore. The latest list of Appointed Facilities can be found <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a>.
 <br/><br/>
 Once the application is approved, the applicant will be issued with SafeTravel Pass via email. The SafeTravel Pass is valid for a single entry to Singapore to arrive within the week of intended travel for stay for up to 14 days at the Appointed Facility, commencing from the day of arrival or until you depart Singapore, whichever earlier.
 </td>
@@ -84,8 +84,9 @@ Once the application is approved, the applicant will be issued with SafeTravel P
    <ul>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Entry Approval;</li>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore, if applicable.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore.</li>
    </ul>
+
 Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
 </td>
 </tr>

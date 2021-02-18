@@ -4,21 +4,21 @@ permalink: /arriving/overview
 ---
 
 ## General Entry from All Countries/Regions
-For travellers arriving all countries/regions, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
+For travellers arriving from <u>all countries/regions</u>, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
 <table>
 <thead>
   <tr>
-    <th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Country/Region of Departure</th>
-    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Returning Singapore Citizen/PR</th>
+    <!--<th style="border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Country/Region of Departure</th>-->
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Returning Singapore Citizen/PR</th>
     <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Singapore Long Term Pass Holder<sup>1</sup></th>
     <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Family Members of Singapore Citizens/Permanent Residents</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>All countries/regions</b></td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/requirements-and-process">Returning Singapore Citizen/PR</a></td>
+    <!--<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>All countries/regions</b></td>-->
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/requirements-and-process">Returning Singapore Citizen/PR</a></td>
       <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px;">
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/wphl/requirements-and-process">Work Pass Holder Lane</a> </li>
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/stpl/requirements-and-process">Student's Pass Holder Lane</a></li>
