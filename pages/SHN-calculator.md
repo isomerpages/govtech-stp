@@ -1,4 +1,5 @@
 ---
+title: SHN Calculator
 permalink: /SHN-Calculator
 ---
 
