@@ -30,12 +30,16 @@ label:hover {
 
 label::after{
     font-family:"Font Awesome 5 Free";
-    content: '\f078';
+    content:'\f078';
     font-weight:bold;
     font-size:22px;
     position:absolute;
     right:10px;
     top:6px;
+}
+
+input:checked + label::after{
+    content:'\f077';
 }
 
 .content {
