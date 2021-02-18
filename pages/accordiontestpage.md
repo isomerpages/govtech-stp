@@ -28,7 +28,7 @@ label {
 }
 
 label:hover {
-    background: #3f80b5;
+    background: #346f9e;
 }
 
 label::after {
