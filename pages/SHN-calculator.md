@@ -29,6 +29,6 @@ input {
   width: 190px;
 }
 
-<h1>PURE CSS DATE PICKER</h1>
-<label for="dateofbirth">Date Of Birth</label>
+<h1>SHN End-date Calculator</h1>
+<label for="dateofbirth">Date Of Arrival/SHN Start Date</label>
 <input type="date" name="dateofbirth" id="dateofbirth">
