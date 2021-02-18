@@ -60,17 +60,12 @@ input:checked + label + .content {
     display: block;
 }
 
-.openall input + label + .content {
-    
-}
 
 </style>
 
 </head>
 
 <body>
-<input type="checkbox" id="openall" />
-<label for="openall">
 
 
 <input type="checkbox" id="title1" />
@@ -131,5 +126,4 @@ input:checked + label + .content {
 <div class="content">
 <p>Your content goes here.</p>
 </div>
-</label>
 </body>
