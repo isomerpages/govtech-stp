@@ -18,7 +18,7 @@ For travellers arriving from <u>all countries/regions</u>, the following travell
 <tbody>
   <tr>
     <!--<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>All countries/regions</b></td>-->
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/requirements-and-process">Returning Singapore Citizen/PR</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/requirements-and-process">Returning Singapore Citizen/PR</a></td>
       <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px;">
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/wphl/requirements-and-process">Work Pass Holder Lane</a> </li>
 <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;"><a href="/stpl/requirements-and-process">Student's Pass Holder Lane</a></li>
