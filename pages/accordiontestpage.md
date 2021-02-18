@@ -20,7 +20,7 @@ label {
     padding: 8px 22px;
     margin: 0 0 1px 0;
     cursor: pointer;
-    background: #6AAB95;
+    background: #153855;
     border-radius: 3px;
     color: #FFF;
     transition: ease .5s;
