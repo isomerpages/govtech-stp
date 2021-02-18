@@ -20,29 +20,62 @@ permalink: /SHN-Calculator
   opacity: 0;
 }
 
-input {
-    display: none;
-}
-
-body {
-  padding: 4em;
-  background: #e5e5e5;
-  font: 13px/1.4 Geneva, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+body {  
+  font: 13px Verdana, sans-serif;
 }
 label {
   display: block;
 }
 input {
   border: 1px solid #c4c4c4;
-  border-radius: 5px;
-  background-color: #fff;
-  padding: 3px 5px;
-  box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
-  width: 190px;
+  background-color: #fff;  
+  width: 95px;
+}
+
+.coc-block-row {
+    width: 100%;
+    /*display:table-row;*/
+}
+.coc-block {
+    display: table-cell;
+    vertical-align: middle;
+    padding-bottom: 3px;
+}
+.coc-block-label {
+  font-family: Verdana;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+  padding-bottom: 3px;
+  padding-right: 5px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.coc-input {
+  font-family: Calibri;
+  height: 20px;
+  font-size: 12px;
+  padding-left: 3px;
+  padding-right: 3px;
+  border: 1px solid #999;
+ 
+}
+.coc-form {
+    padding-top: 5px;
+    padding-left: 8px;
 }
 
 </style>
+</head>
+
+<body>
 
 <h1>SHN End-date Calculator</h1>
-<label for="dateofbirth">Date Of Arrival/SHN Start Date</label>
-<input type="date" name="dateofbirth" id="dateofbirth">
+<div class="coc-form">
+  <div class="coc-block-row">
+    <label class="coc-block-label" for="dateofbirth">SHN Start Date</label>
+    <div class="coc-block">
+      <input class="coc-input" type="date" name="dateofbirth" id="dateofbirth">
+    </div>
+  </div>
+</div>
