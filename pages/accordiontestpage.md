@@ -41,7 +41,7 @@ label::after {
 }
 
 input:checked + label::after {
-	content: '\f077';
+	background-image:url("/images/Arrow.png");
 }
 
 .content {
