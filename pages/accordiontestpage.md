@@ -61,7 +61,7 @@ input:checked + label + .content {
 }
 
 .openall input + label + .content {
-    display: block;
+    
 }
 
 </style>
