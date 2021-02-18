@@ -9,6 +9,8 @@ Under this scheme, a limited number of business, official and high economic valu
 
 Travellers entering Singapore under this initiative will be subject to strict health and testing protocols to protect travellers and the local community. Travellers will be required to present a valid negative COVID-19 Polymerase Chain Reaction (PCR) test prior to leaving their home country and take a COVID-19 PCR test on arrival in Singapore.
 
-For the entire duration of their stay, travellers will be required to stay within a “bubble” at appointed facilities, undergo regular PCR testing and strictly observe all prevailing Safe Management Measures (SMMs). Travellers will be able to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities. 
+For the entire duration of their stay, travellers will be required to stay within a “bubble” at Appointed Facilities, undergo regular PCR testing and strictly observe all prevailing Safe Management Measures (SMMs). Travellers will be able to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities. 
+
+A traveller wishing to take part in the Connect@Singapore initiative must submit applications through an Appointed Facility (the latest list of Appointed Facilities can be found <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a>). The Appointed Facility will then apply for a SafeTravel Pass for the traveller on their behalf. A SafeTravel Pass approval letter will be issued to the Appointed Facility and travellers upon approval of the application. Travellers who require a visa to travel to Singapore must separately obtain a valid visa before departing for Singapore. Individuals can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>.
 
 
