@@ -20,12 +20,6 @@ permalink: /SHN-Calculator
   opacity: 0;
 }
 
-
-body {
-  <!--padding: 4em;-->
-  background: #fff;
-  font: 13px/1.4 Geneva, 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
-}
 label {
   display: block;
 }
