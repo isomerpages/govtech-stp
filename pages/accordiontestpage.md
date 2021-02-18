@@ -48,7 +48,6 @@ input:checked + label::after {
 .content {
     background: #FFFFFF;
     padding: 10px 25px;
-    border: 1px solid #A7A7A7;
     margin: 0 0 1px 0;
     border-radius: 3px;
 }
