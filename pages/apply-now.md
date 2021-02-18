@@ -17,6 +17,11 @@ permalink: /apply-now
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>Applications for ATP Vietnam are suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
     </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Connect@Singapore</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply through an Appointed Facility (the latest list of Appointed Facilities can be found here).</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>Applications for ATP Vietnam are suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
+    </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Periodic Commuting Arrangement (Singapore Work Pass Holders)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
