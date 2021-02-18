@@ -36,11 +36,9 @@ input {
 </style>
 </head>
 
-<body>
 
 <h1>SHN End-date Calculator</h1>
 <label for="dateofbirth">SHN Start Date</label>
 <input type="date" name="dateofbirth" id="dateofbirth">
 
-</body>
 </html>
