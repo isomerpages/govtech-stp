@@ -32,10 +32,9 @@ label:hover {
 }
 
 label::after {
-	font-family: "Font Awesome 5 Free";
-	content: '\f078';
-	font-weight: bold;
-	font-size: 22px;
+	background-image: url("/images/Arrow.png");
+	height:auto;
+	width:auto;
 	position: absolute;
 	right: 10px;
 	top: 6px;
