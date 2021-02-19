@@ -92,8 +92,21 @@ permalink: /shncalculator
 
 <form name="myForm" onSubmit="return false">
 <input type="text" name="myText">
-<input type="submit" value="Click Me">
+<input type="submit" value="Click Me" onclick="myFunction();">
     <label type="text" value="myText.value"></label>
 </form>
- 
 
+<body>
+
+Name: <input type="text" id="myText" value="Mickey">
+
+<p>Click the button to change the value of the text field.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  document.getElementById("myText").value = "Johnny Bravo";
+}
+</script>
+</body>
