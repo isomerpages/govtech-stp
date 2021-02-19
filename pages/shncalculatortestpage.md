@@ -3,6 +3,15 @@ title: Testpage calculator
 permalink: /shncalculator
 ---
 
+
+<style>
+.form-result{
+    display:none;   
+}
+
+
+</style>
+
 <p>You can use this calculator to determine the period of your 14-day SHN.</p>
 <div class="vt-container validity-tool-new">
     <div class="form-group">
