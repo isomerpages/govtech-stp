@@ -78,18 +78,18 @@ permalink: /shncalculator
     </div>
 </div>
 
-
+<body>
 
 <form name="myForm" onSubmit="return false">
 <input type="text" name="myText">
 <input type="submit" value="Click Me" onclick="myFunction()">
     <label id="demo" type="text"></label>
-    <div>
+</form>
 <script>
 function myFunction() {
  var x = document.getElementById("myText").value;
   document.getElementById("demo").innerHTML = x;
 }
 </script>
-    </div>
-</form>
+
+</body>
