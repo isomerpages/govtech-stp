@@ -90,11 +90,13 @@ permalink: /shncalculator
   <output name="o"></output>
 </form>
 
-<form action="/contact" method="POST" id="myForm">
-  <input type="text" name="name" placeholder="Name" />
-  <input type="email" name="email" placeholder="Email" />
-  <input type="submit" name="submit" value="Submit" />
-</form>
 
+<form action="/action_page.php" method="get" target="_blank">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
 
 
