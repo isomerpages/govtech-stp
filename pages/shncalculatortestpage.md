@@ -93,7 +93,7 @@ permalink: /shncalculator
 <form name="myForm" onSubmit="return false">
 <input type="text" name="myText">
 <input type="submit" value="Click Me">
-    <label type="text" value="submit.value"></label>
+    <label type="text" value="myText.value"></label>
 </form>
  
 
