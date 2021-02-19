@@ -84,11 +84,11 @@ permalink: /shncalculator
   Full name : <input type="text" name="txtFullName"  > <br><br>
 </form>
 
-
+<div>
 <form onsubmit="return false" oninput="o.value = parseInt(a.value) + parseInt(b.value)">
   <input name="a" type="number" step="any"> +
   <input name="b" type="number" step="any"> =
   <output name="o"></output>
 </form>
-
+</div>
 
