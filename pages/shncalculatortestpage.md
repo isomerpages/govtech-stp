@@ -93,7 +93,7 @@ permalink: /shncalculator
 <form name="myForm" onSubmit="return false">
 <input type="text" name="myText">
 <input type="submit" value="Click Me" onclick="myFunction()">
-    <label id="demo" type="text" value="myText.value"></label>
+    <label id="demo" type="text"></label>
 <script>
 function myFunction() {
  var x = document.getElementById("myText").value;
