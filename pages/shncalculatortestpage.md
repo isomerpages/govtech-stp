@@ -10,33 +10,7 @@ permalink: /shncalculator
         <div class="form-group form-error-msg" id="dateErrorMessage"></div>
         <p><span class="label">SHN issued on:</span>
             <label class="sr-only" for="day">Day</label>
-            <select class="form-control" id="d<?php
-echo '<!DOCTYPE html>';
-echo '<html>';
-echo '<body>';
-echo '<form action="/action_page.php">';
-echo 'Time:<br>';
-echo '<input type="text" name="Time" value=" ">';
-echo '<br>';
-echo 'Draw Time:<br>';
-echo '<input type="text" name="Draw Time" value=" ">';
-echo '<br>';
-echo 'AP:<br>';
-echo '<input type="text" name="AP" value=" ">';
-echo '<br>';
-echo 'JP:<br>';
-echo '<input type="text" name="JP" value=" ">';
-echo '<br>';
-echo 'S7:<br>';
-echo '<input type="text" name="7S" value=" ">';
-echo '<br><br>';
-echo '<input type="submit" value="Submit">';
-echo '</form>';
-echo '<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>';
-echo '</body>';
-echo '</html>';
-echo '';
-?>ay" name="day">
+            <select class="form-control" id="day" name="day">
 <option selected="selected" value="1">1</option>
 <option value="2">2</option>
 <option value="3">3</option>
