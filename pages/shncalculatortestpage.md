@@ -94,9 +94,11 @@ permalink: /shncalculator
 <input type="text" name="myText">
 <input type="submit" value="Click Me" onclick="myFunction();">
     <label type="text" value="myText.value"></label>
+    <p id="demo"></p>
 <script>
 function myFunction() {
-  document.getElementById("myText").value = "Johnny Bravo";
+ var x = document.getElementById("myText").value;
+  document.getElementById("demo").innerHTML = x;
 }
 </script>
 </form>
