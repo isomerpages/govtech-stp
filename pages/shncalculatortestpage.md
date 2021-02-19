@@ -78,21 +78,18 @@ permalink: /shncalculator
     </div>
 </div>
 
-<form oninput="txtFullName.value = txtFirstName.value +' '+ txtLastName.value">
-  First name : <input type="text" name="txtFirstName" /> <br><br>
-  Last name : <input type="text" name="txtLastName" /> <br><br>
-  Full name : <input type="text" name="txtFullName"  > <br><br>
-</form>
-
-<form onsubmit="return false" oninput="o.value = parseInt(a.value) + parseInt(b.value)">
-  <input name="a" type="number" step="any"> +
-  <input name="b" type="number" step="any"> =
-  <output name="o"></output>
-</form>
 
 
-<form action="/files/action_page.php" method="post">
- <p>Your name: <input type="text" name="name" /></p>
- <p>Your age: <input type="text" name="age" /></p>
- <p><input type="submit" /></p>
+<form name="myForm" method="post" onSubmit="return false">
+<input type="text" name="myText">
+<input type="submit" value="Click Me" onclick="myFunction()">
+    <label id="demo" type="text"></label>
+    <div>
+<script>
+function myFunction() {
+ var x = document.getElementById("myText").value;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+    </div>
 </form>
