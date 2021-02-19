@@ -4,7 +4,6 @@ permalink: /shncalculator
 ---
 
 
-<html>
 <head>
 <style>
 .error {color: #FF0000;}
