@@ -90,17 +90,24 @@ permalink: /shncalculator
   <output name="o"></output>
 </form>
 
-<form name="myForm" onSubmit="return false">
-<input type="text" name="myText">
-<input type="submit" value="Click Me" onclick="myFunction()">
-    <label id="demo" type="text"></label>
+<body>
+
+First Name: <input type="text" id="myText" value="Mickey">
+
+<p>Click the button to display the value of the value attribute of the text field.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
 <script>
 function myFunction() {
- var x = document.getElementById("myText").value;
+  var x = document.getElementById("myText").value;
   document.getElementById("demo").innerHTML = x;
 }
 </script>
-</form>
+
+</body>
 
 
 
