@@ -90,9 +90,10 @@ permalink: /shncalculator
   <output name="o"></output>
 </form>
 
-<div oninput="a.value +' '+b.value">
-    <input name="a" type="number"> 
-    <input name ="b" type="number">
-    <label value="a.value +' '+ b.value"></label>
-    </div>
+<form name="myForm" onSubmit="return false">
+<input type="text" name="myText">
+<input type="submit" value="Click Me">
+    <label value="myText.value"></label>
+</form>
+ 
 
