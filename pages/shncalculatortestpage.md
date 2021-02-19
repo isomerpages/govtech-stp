@@ -10,7 +10,33 @@ permalink: /shncalculator
         <div class="form-group form-error-msg" id="dateErrorMessage"></div>
         <p><span class="label">SHN issued on:</span>
             <label class="sr-only" for="day">Day</label>
-            <select class="form-control" id="day" name="day">
+            <select class="form-control" id="d<?php
+echo '<!DOCTYPE html>';
+echo '<html>';
+echo '<body>';
+echo '<form action="/action_page.php">';
+echo 'Time:<br>';
+echo '<input type="text" name="Time" value=" ">';
+echo '<br>';
+echo 'Draw Time:<br>';
+echo '<input type="text" name="Draw Time" value=" ">';
+echo '<br>';
+echo 'AP:<br>';
+echo '<input type="text" name="AP" value=" ">';
+echo '<br>';
+echo 'JP:<br>';
+echo '<input type="text" name="JP" value=" ">';
+echo '<br>';
+echo 'S7:<br>';
+echo '<input type="text" name="7S" value=" ">';
+echo '<br><br>';
+echo '<input type="submit" value="Submit">';
+echo '</form>';
+echo '<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>';
+echo '</body>';
+echo '</html>';
+echo '';
+?>ay" name="day">
 <option selected="selected" value="1">1</option>
 <option value="2">2</option>
 <option value="3">3</option>
@@ -91,12 +117,8 @@ permalink: /shncalculator
 </form>
 
 
-<form action="/action_page.php" method="get" target="_blank">
-  <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-  <label for="lname">Last name:</label>
-  <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
+<form action="/file/action_page.php" method="post">
+ <p>Your name: <input type="text" name="name" /></p>
+ <p>Your age: <input type="text" name="age" /></p>
+ <p><input type="submit" /></p>
 </form>
-
-
