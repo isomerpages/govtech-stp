@@ -91,7 +91,7 @@ permalink: /shncalculator
 </form>
 
 
-<form action="/file/action_page.php" method="post">
+<form action="/files/action_page.php" method="post">
  <p>Your name: <input type="text" name="name" /></p>
  <p>Your age: <input type="text" name="age" /></p>
  <p><input type="submit" /></p>
