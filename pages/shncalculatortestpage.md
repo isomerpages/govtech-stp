@@ -96,8 +96,6 @@ permalink: /shncalculator
     <label type="text" value="myText.value"></label>
 </form>
 
-<body>
-
 Name: <input type="text" id="myText" value="Mickey">
 
 <p>Click the button to change the value of the text field.</p>
@@ -109,4 +107,3 @@ function myFunction() {
   document.getElementById("myText").value = "Johnny Bravo";
 }
 </script>
-</body>
