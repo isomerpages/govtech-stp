@@ -1,4 +1,4 @@
-<html>
+<!--<html>
  <head>
     <script type="text/javascript">
         function GetDays(){
@@ -26,4 +26,21 @@
 
     </div>
 </body>
+</html> -->
+
+
+<html>
+ <body>
+ <form name="myForm" onSubmit="return false">
+<input type="text" name="myText">
+<input type="submit" value="Click Me" onclick="myFunction()">
+    <p id="demo"></p>
+</form>
+<script>
+function myFunction() {
+ var x = document.getElementById("myText").value;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+ </body>
 </html>
