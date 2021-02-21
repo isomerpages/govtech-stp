@@ -34,13 +34,16 @@
   <script type="text/javascript">
 function myFunction() {
  var x = document.getElementById("myText").value;
-  document.getElementById("demo").innerHTML = x;
+  var x1 = document.getElementById("myText2").value;
+ var sum = x - x1; 
+  document.getElementById("demo").innerHTML = sum;
 }
 </script>
  </head>
  <body>
  <form name="myForm" onSubmit="return false">
 <input type="text" name="myText">
+  <input type="text" name="myText2">
 <input type="submit" value="Click Me" onclick="myFunction()">
     <p id="demo" style="color:red;"></p>
 </form>
