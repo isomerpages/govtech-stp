@@ -278,13 +278,11 @@ You should schedule your travel into Singapore at least 21 days after your date 
 
 Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore.
 
-#### 6. I have recovered from COVID-19. Can I still travel to Singapore if I test positive on my COVID-19 PCR test within 72 hours before departure? Will I be denied entry into Singapore?
+#### 6. I have recovered from COVID-19. Am I required to undergo a pre-departure test (PDT) before entry into Singapore?
 
-Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. Travellers should schedule your travel into Singapore at least 21 days after the date of your first positive COVID-19 PCR test.
+Yes, you are required to take a COVID-19 PCR test within 72 hours before departure to Singapore.
 
-*E.g. Date of first positive PCR test received on 1 Nov (Day 1) — Departure from Singapore should only be from 22 Nov (Day 22) onwards*
-
-If the pre-departure COVID-19 PCR test result is positive, recovered individuals must also submit documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result in English with the date of test and traveller's identification details clearly stated. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore.
+If the pre-departure COVID-19 PCR test result is still positive, recovered individuals must also submit documentary proof of the date of their first-ever positive COVID-19 PCR test result and diagnosis. The date of the first positive PCR test result must be ≥ 22 days prior to the date of arrival in Singapore. Travellers who have past history of infection from COVID-19 will be required to undergo a [serology test](/health/covid19-tests/serology) on arrival in Singapore to confirm their recovered status.
 
 #### 7. How will I know my COVID-19 test result?
 
@@ -394,9 +392,9 @@ Please click [here](/rgl/overview) to find out more on the Reciprocal Green Lane
 
 #### 7.	I have recovered from COVID-19. Can I still travel to Singapore if I test positive on my COVID-19 PCR test within 72 hours before departure? 
 
-If the pre-departure COVID-19 PCR test result is positive, the recovered individual must be able to provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result in English with the date of test and traveller’s identification details clearly stated. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. The documentary proof should be presented to the airline before boarding and to the immigration officers at the checkpoints in Singapore. If unable to provide documentary proof, the recovered individual will be denied boarding for flights bound for Singapore.
+If the pre-departure COVID-19 PCR test result is positive, the recovered individual must be able to provide documentary proof of his/her past diagnosis of COVID-19, based on his/her first ever positive PCR test result in English with the date of test and traveller’s identification details clearly stated. The date of the first ever positive PCR test result must be ≥ 22 days prior to the date of arrival in Singapore. The documentary proof should be presented to the airline before boarding and to the immigration officers at the checkpoints in Singapore. If unable to provide documentary proof, the recovered individual will be denied boarding for flights bound for Singapore.
 
-Please also note that individuals with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding for flights bound for Singapore. 
+Please also note that individuals with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding for flights bound for Singapore.
 
 #### 8. I have received a COVID-19 vaccination. Do I need to declare my vaccinated status? Will I still be subjected to prevailing border measures and stay-home-notice requirements?
 
@@ -447,9 +445,9 @@ At this point in time, travellers will only be able to transit through Singapore
 
 #### 2. I have recovered from COVID-19. Do I still need to take a COVID-19 PCR test upon arrival? 
 
-You must be able to provide documentary proof of past diagnosis of COVID-19, based on your first ever positive PCR test result with the date of test and traveller’s identification details, all clearly stated in English. The date of the first ever positive PCR test result must be between 22 to 180 days prior to the date of arrival in Singapore. 
+You must be able to provide documentary proof of past diagnosis of COVID-19, based on your first ever positive PCR test result with the date of test and traveller’s identification details, all clearly stated in English. The date of the first ever positive PCR test result must be ≥ 22 days prior to the date of arrival in Singapore.
 
-Based on the documentary proof of your recovered status, you will be exempted from the COVID-19 PCR test upon arrival, but will instead be required to take a serology test to verify your recovered status. 
+Based on the documentary proof of your recovered status, you will be exempted from the COVID-19 PCR test upon arrival, but will instead be required to take a serology test to verify your recovered status.
 
 If passengers are found to have produced false/forged COVID-19 test certificates, it will affect their ability to obtain or sponsor immigration facilities in the future.
 
