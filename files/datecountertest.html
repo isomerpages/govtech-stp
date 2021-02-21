@@ -30,17 +30,20 @@
 
 
 <html>
- <body>
- <form name="myForm" onSubmit="return false">
-<input type="text" name="myText">
-<input type="submit" value="Click Me" onclick="myFunction()">
-    <p id="demo"></p>
-</form>
-<script>
+ <head>
+  <script>
 function myFunction() {
  var x = document.getElementById("myText").value;
   document.getElementById("demo").innerHTML = x;
 }
 </script>
+ </head>
+ <body>
+ <form name="myForm" onSubmit="return false">
+<input type="text" name="myText">
+<input type="submit" value="Click Me" onclick="myFunction()">
+    <p id="demo" style="color:red;"></p>
+</form>
+
  </body>
 </html>
