@@ -3,6 +3,7 @@ title: Testpage calculator
 permalink: /shncalculator
 ---
 
+<iframe src="https://www.checkfirst.gov.sg/c/checkertest-1"></iframe>
 
 <p>You can use this calculator to determine the period of your 14-day SHN.</p>
 <div class="vt-container validity-tool-new">
@@ -93,3 +94,8 @@ function myFunction() {
 </script>
 
 </body>
+
+
+<!--test calculator -->
+
+<iframe src="https://govtech-stp-staging.netlify.app/files/datecountertest.html" title="testtest"></iframe>
