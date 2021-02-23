@@ -1,7 +1,6 @@
 ---
 title: Frequently Asked Questions 
 permalink: /health/shn/sdfupgradefaq
-third_nav_title: Upgrade to an SDF Suite at Additional Costs
 ---
 
 ## Upgrading to an SDF Suite at Additional Costs 
