@@ -1,7 +1,6 @@
 ---
 title: Upgrade to an SDF Suite at Additional Costs 
 permalink: /health/shn/sdfupgrade
-third_nav_title: Self-Isolation and Segregation Measures
 ---
 
 Travellers who are required to complete their SHN at an SDF may upgrade to an SDF suite at additional charges, subject to availability.
