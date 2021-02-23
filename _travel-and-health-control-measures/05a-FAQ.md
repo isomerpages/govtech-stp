@@ -14,6 +14,7 @@ permalink: /health/FAQ
  5. [On-arrival Test for Travellers entering Singapore](#OAT)
  6. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
 
+
 <div id="shnsdf"></div>
 
 ## Stay Home Notice (SHN) and Dedicated SHN Facility
@@ -218,7 +219,7 @@ Please also identify yourself as a person subject to a Stay-Home Notice when boa
     </tr>
      <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
   </tbody>

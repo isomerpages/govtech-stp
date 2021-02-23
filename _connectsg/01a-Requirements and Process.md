@@ -10,6 +10,8 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <li>Seeking to make a short-term stay of up to 14 days.</li>
 </ul>
 
+Until further notice, travellers who have travelled to the United Kingdom and South Africa within the last 14 days will not be eligible under the Connect@Singapore scheme. 
+
 ### 2. Submit Approvals for Entry into Singapore
 
 <table>
