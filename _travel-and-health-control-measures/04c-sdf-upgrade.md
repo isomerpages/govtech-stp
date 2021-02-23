@@ -59,13 +59,13 @@ For suite upgrades prior to arrival
     </tr>
                    <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SINRS-duty.manager@hyatt.com">Grand Hyatt </a></td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
   </tbody>
-<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests.<br/><sup>#</sup>The typical size of a standard SDF room in these SDFs is between 30-45sqm.</p>
   </table>
+  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests.<br/><sup>#</sup>The typical size of a standard SDF room in these SDFs is between 30-45sqm.</p>
   
 **Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking confirmation at https://go.gov.sg/sdfsuiteupgrade to inform government agencies. This form must be submitted at least 48 hours prior to your arrival in Singapore. Travellers who do not submit their booking details on time will be assigned to any standard SDF room on arrival. The charge for a subsequent transfer to a suite is $450 (see suite upgrades after arrival).  
  
