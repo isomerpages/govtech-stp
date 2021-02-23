@@ -139,7 +139,7 @@ Please note that once your entry application is approved, there will be no refun
 
 <div id="sdfupgrade"></div>
 
-### Upgrading to an SDF Suite at Additional Costs 
+## Upgrading to an SDF Suite at Additional Costs 
 
 #### 1.	Who can I share the room with? 
 
