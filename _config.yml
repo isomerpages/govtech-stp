@@ -71,7 +71,7 @@ collections:
     output: true
   atp:
     output: true
-  sdfupgrade:
+  sdf-upgrade:
     output: true
 
   
