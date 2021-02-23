@@ -36,7 +36,7 @@ For suite upgrades prior to arrival
     </tr>
         <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost for additional persons (for food)</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="3">Additional $600 for every sharing person aged 4 and above*<br/>*Subject to maximum occupancy of suites, which may vary across SDFs. Children aged 3 years and under who require the SDF to provide food will be charged $600.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="3">Additional $600 for every sharing person aged 4 and above*<br/>*Subject to maximum occupancy of suites, which may vary across SDFs. Children aged 3 years and under who require the SDF to provide food will be charged $600.
 </td>
     </tr>
        <tr>
