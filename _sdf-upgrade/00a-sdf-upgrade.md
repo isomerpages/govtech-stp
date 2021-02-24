@@ -1,9 +1,10 @@
 ---
-title: Upgrade to an SDF Suite at Additional Costs 
+title: SDF Suite Upgrade at Additional Costs 
 permalink: /health/shn/sdfupgrade
 ---
 
-SDF Suite Upgrade at Additional Costs
+# SDF Suite Upgrade at Additional Costs 
+
 Travellers who are required to complete their SHN at an SDF may upgrade to an SDF suite at additional charges, subject to availability.
 
 After booking a suite directly with their preferred SDF, travellers should immediately proceed to submit their booking confirmation at <https://go.gov.sg/sdfsuiteupgrade> to inform government agencies. 
