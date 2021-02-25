@@ -5,7 +5,7 @@ permalink: /health/shn/sdfupgrade
 
 # SHN Dedicated Facility Suite Upgrade at Additional Costs 
 
-Travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility(SDF)](/health/shn/sdf) may upgrade to an SDF suite at additional charges, subject to availability.
+Travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility (SDF)](/health/shn/sdf) may upgrade to an SDF suite at additional charges, subject to availability.
 
 After booking a suite directly with their preferred SDF, travellers should immediately proceed to submit their booking confirmation at <https://go.gov.sg/sdfsuiteupgrade> to inform government agencies. 
 - If the booking is made before arrival, the form must be submitted at least 48 hours prior to travellers’ arrival in Singapore. Failure to do so may result in the assignment of travellers to a standard room at any SDF upon arrival. 
