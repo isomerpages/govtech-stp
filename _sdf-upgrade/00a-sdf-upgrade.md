@@ -3,7 +3,7 @@ title: SDF Suite Upgrade at Additional Costs
 permalink: /health/shn/sdfupgrade
 ---
 
-# SHN Dedicated Facility Suite Upgrade at Additional Costs 
+# SHN Dedicated Facility (SDF) Suite Upgrade at Additional Costs 
 
 Travellers who are required to complete their [Stay-Home Notice (SHN)](/health/shn) at an [SHN Dedicated Facility (SDF)](/health/shn/sdf) may upgrade to an SDF suite at additional charges, subject to availability.
 
