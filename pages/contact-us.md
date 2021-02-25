@@ -53,6 +53,13 @@ If the information on this SafeTravel website does not address your questions re
   </tr>
 </thead>
 <tbody>
+   <tr>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass related issues</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "><a href="mailto:COVID_ATP_Enquiries@caas.gov.sg"> COVID_ATP_Enquiries@caas.gov.sg  </a>
+     </td>
+      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">-</td>
+      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">CAAS</td>
+ </tr>
   <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">General immigration requirements</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; "><a href="mailto:ICA_SHNQ@ica.gov.sg"> ICA_SHNQ@ica.gov.sg  </a>
