@@ -1,5 +1,5 @@
 ---
-title: Requirements and Process for Foreign Domestic Workers and Confinement Nannies
+title: Requirements and Process
 permalink: /wphl/fdwcn-requirements-and-process
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
