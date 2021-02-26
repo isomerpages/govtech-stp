@@ -19,7 +19,7 @@ If the FDW’s/CN’s first positive COVID-19 PCR test was taken on 1 January 20
 
 FDWs/CNs should not travel if feeling unwell. 
 
-### 3. My FDW/nanny has recovered from a previous COVID-19 infection, can she be discharged from the dedicated SHN facility earlier?
+### 3. My FDW/CN has recovered from a previous COVID-19 infection, can she be discharged from the dedicated SHN facility earlier?
 FDWs and CNs serving SHN at the dedicated SHN facilities will have to take the COVID-19 serology and polymerase chain reaction (PCR) tests within the first few days of arrival.
 
 Based on these two test results, FDWs and CNs who have recovered from a previous COVID-19 infection will be identified. They will be discharged from SHN around Day 5 of their arrival. **They can only leave the dedicated SHN facility after getting instructions to do so.** 
