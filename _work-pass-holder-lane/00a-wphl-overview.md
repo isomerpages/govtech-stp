@@ -23,8 +23,8 @@ However, those conveying essential services or supplies (e.g. lorry drivers or v
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;>Foreign domestic workers</li>
-  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;>Confinement nannies</li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign domestic workers</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Confinement nannies</li>
   </ol>  
   </td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employers or employment agents can apply for the <a href="">SafeTravel Pass-WPHL.</a></td>
@@ -32,9 +32,9 @@ However, those conveying essential services or supplies (e.g. lorry drivers or v
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Existing work pass holders who meet <b>all of these conditions:</b>
    <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;>Are Malaysians or Malaysia PRs</li>
-  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;>Entering Singapore by land</li>
-       <li style="margin-top:0px; margin-bottom:0px; font-size:18px;>Staying in Singapore for at least 90 consecutive days for work </li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Are Malaysians or Malaysia PRs</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Entering Singapore by land</li>
+       <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Staying in Singapore for at least 90 consecutive days for work </li>
   </ol>    
   </td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can apply for the <a href="/pca/overview">Periodic Commuting Arrangement (PCA) scheme.</a></td>
