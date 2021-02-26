@@ -1,6 +1,6 @@
 ---
-title: overview
-permalink: wphl/overview
+title: Overview
+permalink: /wphl/overview
 ---
 
 ## Overview 
