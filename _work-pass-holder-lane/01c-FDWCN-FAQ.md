@@ -39,7 +39,7 @@ The room sharing request is subject to the availability of twin rooms at the ded
 If you and your FDW/CN are agreeable to proceed with the room sharing request, please complete these actions:
 
 <ol>
-<li>Get her to complete and sign the indemnity form. Print the version in her native language and ensure she has read and understood the terms of the indemnity form before signing it:</li>
+<li><b>Get her to complete and sign the indemnity form. Print the version in her native language and ensure she has read and understood the terms of the indemnity form before signing it:</li></b>
  <ul>
 <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bahasa-indonesia.pdf?la=en&hash=63C8D9B962DE71330F0A7B6046CDD8B8" target="_blank">Bahasa Indonesia</a></li>
 <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bengali.pdf?la=en&hash=8236BA141ED09911A1D4F1C521A8F09C" target="_blank">Bengali</a></li>
@@ -51,7 +51,7 @@ If you and your FDW/CN are agreeable to proceed with the room sharing request, p
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tagalog.pdf?la=en&hash=613D73D0057EF096FE5C37C15E5029A6" target="_blank">Tagalog</a></li>
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tamil.pdf?la=en&hash=266F452708B6E03AF24114C1D9C67434" target="_blank">Tamil</a></li>
 </ul>
-<li>Request for the room sharing during the entry approval application.</li>
+<li><b>Request for the room sharing during the entry approval application.</li></b>
 </ol>
 
 Once she has obtained entry approval to enter Singapore, she must present the following to the staff at the dedicated SHN facility upon check-in:
