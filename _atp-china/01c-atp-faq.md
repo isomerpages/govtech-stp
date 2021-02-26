@@ -195,13 +195,44 @@ Yes, all visitors to Singapore must download and activate the TraceTogether app.
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Visitors with a certified disability or special need are also exempted.
 
-#### 34. I have downloaded the app on or after 1 Feb, 0900hrs (Singapore time), but I cannot activate my TraceTogether App. What should I do?
+#### 34. After downloading the TraceTogether app, how do I activate it?
 
 You can activate your app only after clearing Singapore immigration. There might be a short lag after clearing immigration before you can activate the app. 
 
-If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. In this case, you will see the screen below, where the app will prompt you to check and edit the passport details on your app profile. Please click ‘OK’ to be navigated back to the Holding Screen.
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. 
 
-<img src="/images/TT_5.png" style="width:auto; height:auto;">
+Please ensure that your TraceTogether App is updated to the latest version. If you downloaded the app on or after 1 Feb 2021 (Singapore time), you will see the Holding Screen after you have registered your profile. You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore. Follow the instructions until you reach the Home Screen.
+
+<table>
+  <thead>
+    <tr>
+      <th>Holding Screen</th>
+      <th>Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TT_2.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TT_4.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+  </table>
+  
+If you downloaded the app before 1 Feb 2021 (Singapore time), you will see this screen:
+
+<img src="/images/TT_1.png" style="width:179px; height:318px;">
+
+For more information, please refer to the TraceTogether website.
+
+If you require assistance on how to download and activate the TraceTogether app, please email support@tracetogether.gov.sg.
+
+#### 35. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+
+Please check that your app has been updated to the latest version.
+
+You can activate your app only after clearing Singapore immigration. There might be a short lag after clearing immigration before you can activate the app. 
+
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. Follow the instructions to be navigated back to the Holding Screen.
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
