@@ -101,7 +101,7 @@ You need to request for an extension of your confinement nanny’s stay if:
 Please submit the extension request at least 2 weeks before her visit pass expires and upload these documents:
 - Front and back of her Disembarkation / Embarkation card (maximum 1MB)
 - Personal particulars page of her passport (maximum 1MB)
-- 
+
 We will email you the outcome within 2 weeks. A $40 extension fee will be charged for each extension made beyond 3 months from the date the visit pass was issued.
 
 ### 12. I encountered technical issues when completing the application form. What should I do? 
