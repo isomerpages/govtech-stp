@@ -49,5 +49,28 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Confirm the flight/transport</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must confirm the flight/transport immediately and arrange for the FDW/CN to enter Singapore.</td>
   </tr>
-  </tbody>
+    <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Buy medical insurance that covers COVID-19</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must buy a COVID-19 medical insurance for the FDW/CN before she arrives in Singapore. 
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">The insurance must cover at least $10,000 for medical expenses if she develops COVID-19 symptoms or tests positive within 14 days of arrival in Singapore.</p>
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Please check with the insurer whether the FDW/CN’s existing medical insurance plan meets the required coverage. If not, you can consider these <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">insurers</a>.</p>
+      </td>
+  </tr>
+     <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Fulfil the entry approval requirements</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies and the FDW/CN <u>must comply with the entry approval requirements listed in the approval email.</u> Otherwise, criminal and administrative actions will be taken. 
+      </td>
+  </tr>
+       <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Ensure FDW/CN has a valid pass to remain in Singapore </b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">FDWs on IPAs must complete their <a href="/health/shn">SHN</a> before you can get their <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit#get-the-permit-issued">Work Permits issued</a>. To cater for this, the validity of their Short-Term Visit Pass and IPAs will be automatically extended by 2 weeks. No letters will be issued for this extension.
+       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;"><b>CNs must complete their SHN before</b> they can start work. For CNs whose visit passes are expiring, please <a href="http://www.mom.gov.sg/extend-nanny-visit-pass">request for an extension</a> <b>at least 2 weeks before the expiry date.</b></p>
+      </td>
+  </tr>
+    </tbody>
 </table>
+
+### For more information
+
+Please refer to our FAQs [here](/wphl/fdwcn-faq).
+
