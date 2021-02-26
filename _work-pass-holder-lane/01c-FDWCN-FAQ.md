@@ -106,10 +106,10 @@ We will email you the outcome within 2 weeks. A $40 extension fee will be charge
 
 ### 12. I encountered technical issues when completing the application form. What should I do? 
 
-You can contact us at ICA-STO_Support@ica.gov.sg.
+Please refer to the common troubleshooting FAQ [here](/faq/tech). If the FAQs do not address your queries, you can contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx).
 
 ### 13. I did not receive the entry application outcome for my FDW/CN. What should I do? 
 
-Please check your spam and junk folders in case the outcome was sent there. [Contact us](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders. 
+Please check your spam and junk folders in case the outcome was sent there. Contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders. 
 
 
