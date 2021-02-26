@@ -206,8 +206,8 @@ Please ensure that your TraceTogether App is updated to the latest version. If y
 <table>
   <thead>
     <tr>
-      <th>Holding Screen</th>
-      <th>Home Screen</th>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
     </tr>
   </thead>
   <tbody>
