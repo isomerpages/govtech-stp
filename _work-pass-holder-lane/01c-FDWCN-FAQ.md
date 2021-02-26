@@ -68,23 +68,23 @@ Find out who is responsible for paying for the pass holders' COVID-19 treatment 
 
 <table>
   <tr>
-    <th>Type of FDWs</th>
-    <th>Purpose of Travel</th>
-    <th>Who is responsible for the costs?</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Type of FDWs</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Purpose of Travel</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Who is responsible for the costs?</th>
   </tr>
   <tr>
-    <td rowspan="2">Existing FDWs returning from overseas</td>
-    <td>Left Singapore for work (e.g. accompany employer overseas)</td>
-    <td>Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+    <td rowspan="2" style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Existing FDWs returning from overseas</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Left Singapore for work (e.g. accompany employer overseas)</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
   </tr>
   <tr>
-    <td>Left Singapore for personal reasons</td>
-    <td>Employers and FDWs should come to a mutual agreement on who bears the costs or how to share them.</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Left Singapore for personal reasons</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers and FDWs should come to a mutual agreement on who bears the costs or how to share them.</td>
   </tr>
   <tr>
-    <td>New FDWs on Work Permit in-principle approvals</td>
-    <td>Plan to enter Singapore for employment</td>
-    <td>Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">New FDWs on Work Permit in-principle approvals</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Plan to enter Singapore for employment</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
   </tr>
 </table>
 The party who submitted the FDW’s entry approval request must pay for the costs.
