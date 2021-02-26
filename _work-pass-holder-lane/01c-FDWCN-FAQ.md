@@ -62,7 +62,7 @@ If she does not have the indemnity form with her, the SHN facility operator can 
 
 ### 5. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
 
-Find out who is responsible for paying for the pass holders' COVID-19 treatment [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment).
+Find out who is responsible for paying for the pass holders' COVID-19 treatment <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
 ### 6. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
 
