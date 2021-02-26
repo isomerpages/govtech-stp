@@ -40,18 +40,18 @@ If you and your FDW/CN are agreeable to proceed with the room sharing request, p
 
 <ol>
 <li>Get her to complete and sign the indemnity form. Print the version in her native language and ensure she has read and understood the terms of the indemnity form before signing it:</li>
--	[Bahasa Indonesia](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bahasa-indonesia.pdf?la=en&hash=63C8D9B962DE71330F0A7B6046CDD8B8)
--	[Bengali](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bengali.pdf?la=en&hash=8236BA141ED09911A1D4F1C521A8F09C)
--	[Burmese](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-burmese.pdf?la=en&hash=6F9147F73011443D33BD7EFBB1AEC886)
--	[English](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-english.pdf?la=en&hash=E3128662C08792D9477A6E90DEE1CE09)
--	[Hindi](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-hindi.pdf?la=en&hash=DB23F7F02E88206A9E3F64BE8F962B89)
--	[Mandarin](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-mandarin.pdf?la=en&hash=F064A8698C4BDBEC21FD7D705695FC53)
--	[Sinhalese](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-sinhalese.pdf?la=en&hash=6E3C0210CDB1B58A85D113B33BDDF09F)
--	[Tagalog](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tagalog.pdf?la=en&hash=613D73D0057EF096FE5C37C15E5029A6)
--	[Tamil](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tamil.pdf?la=en&hash=266F452708B6E03AF24114C1D9C67434)
-
-<li>2.	Request for the room sharing during the entry approval application.</li>
-
+ <ul>
+<li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bahasa-indonesia.pdf?la=en&hash=63C8D9B962DE71330F0A7B6046CDD8B8" target="_blank">Bahasa Indonesia</a></li>
+<li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bengali.pdf?la=en&hash=8236BA141ED09911A1D4F1C521A8F09C" target="_blank">Bengali</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-burmese.pdf?la=en&hash=6F9147F73011443D33BD7EFBB1AEC886" target="_blank">Burmese</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-english.pdf?la=en&hash=E3128662C08792D9477A6E90DEE1CE09" target="_blank">English</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-hindi.pdf?la=en&hash=DB23F7F02E88206A9E3F64BE8F962B89" target="_blank">Hindi</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-mandarin.pdf?la=en&hash=F064A8698C4BDBEC21FD7D705695FC53" target="_blank">Mandarin</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-sinhalese.pdf?la=en&hash=6E3C0210CDB1B58A85D113B33BDDF09F">Sinhalese</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tagalog.pdf?la=en&hash=613D73D0057EF096FE5C37C15E5029A6" target="_blank">Tagalog</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tamil.pdf?la=en&hash=266F452708B6E03AF24114C1D9C67434" target="_blank">Tamil</a></li>
+</ul>
+<li>Request for the room sharing during the entry approval application.</li>
 </ol>
 
 Once she has obtained entry approval to enter Singapore, she must present the following to the staff at the dedicated SHN facility upon check-in:
