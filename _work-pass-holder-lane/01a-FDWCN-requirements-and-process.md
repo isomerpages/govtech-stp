@@ -33,7 +33,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     </ol> 
     </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the FDW/CN has a Singapore mobile number with internet connection. </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">iii.	Ensure there are available flights/transport on the FDW/CN’s planned arrival date.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure there are available flights/transport on the FDW/CN’s planned arrival date.</li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Once the application is approved, you will receive an approval email.</p>
  </td>
