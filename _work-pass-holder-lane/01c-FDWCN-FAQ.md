@@ -66,7 +66,27 @@ Find out who is responsible for paying for the pass holders' COVID-19 treatment 
 
 ### 6. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
 
-(table)
+<table>
+  <tr>
+    <th>Type of FDWs</th>
+    <th>Purpose of Travel</th>
+    <th>Who is responsible for the costs?</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Existing FDWs returning from overseas</td>
+    <td>Left Singapore for work (e.g. accompany employer overseas)</td>
+    <td>Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+  </tr>
+  <tr>
+    <td>Left Singapore for personal reasons</td>
+    <td>Employers and FDWs should come to a mutual agreement on who bears the costs or how to share them.</td>
+  </tr>
+  <tr>
+    <td>New FDWs on Work Permit in-principle approvals</td>
+    <td>Plan to enter Singapore for employment</td>
+    <td>Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+  </tr>
+</table>
 The party who submitted the FDW’s entry approval request must pay for the costs.
   
 Employment agencies which submitted the entry approval request may recover these costs from employers. If so, employment agencies should obtain the employers’ agreement to pay for the costs before submitting the entry approval request.
