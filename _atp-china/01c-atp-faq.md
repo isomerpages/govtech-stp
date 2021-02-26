@@ -280,7 +280,7 @@ Please have the following when you are making an appointment with the clinic:
 - Your available time slots to take the pre-departure COVID-19 PCR test;
 - Address in Singapore;
 - Contact number; and
-- Email address
+- Email address 
 
 #### 43. What documents must I bring along for my appointment?
 
