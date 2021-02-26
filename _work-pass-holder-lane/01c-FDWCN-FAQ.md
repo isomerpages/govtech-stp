@@ -126,7 +126,9 @@ We will email you the outcome within 2 weeks. A $40 extension fee will be charge
 
 ### 12. I encountered technical issues when completing the application form. What should I do? 
 
-Please refer to the common troubleshooting FAQ [here](/faq/tech). If the FAQs do not address your queries, you can contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx).
+Please refer to the common troubleshooting FAQ [here](/faq/tech). 
+
+If the troubleshooting FAQ does not address your queries, you can contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx).
 
 ### 13. I did not receive the entry application outcome for my FDW/CN. What should I do? 
 
