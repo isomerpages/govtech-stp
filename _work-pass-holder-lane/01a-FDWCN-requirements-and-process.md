@@ -22,7 +22,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Submit an entry application</b></td>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Submit an entry application</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Either the employer or employment agent can submit the application here.
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Before submitting the application, please complete these steps: </p>
 <ol style="margin-top:0px; list-style-type:disc;">
@@ -46,8 +46,8 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 <table>
 <tbody>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Confirm the flight/transport</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must confirm the flight/transport immediately and arrange for the FDW/CN to enter Singapore.</td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Confirm the flight/transport</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must confirm the flight/transport immediately and arrange for the FDW/CN to enter Singapore.</td>
   </tr>
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Buy medical insurance that covers COVID-19</b></td>
