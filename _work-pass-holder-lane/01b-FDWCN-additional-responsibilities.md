@@ -29,7 +29,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated until they get a negative test result </li>
 </ol> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><img src="/images/PDF.svg" href="/files/group-1-health.pdf" width="auto" height="auto"></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><img src="/images/PDF.svg" href="/files/group-1-health.pdf" width="100" height="200"></td>
   </tr>
   </tbody>
 </table>
