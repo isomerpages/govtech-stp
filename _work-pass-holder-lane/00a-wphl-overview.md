@@ -1,5 +1,5 @@
 ---
-title: WORK PASS HOLDER GENERAL LANE
+title: Work Pass Holder General Lane
 permalink: /wphl/overview
 ---
 
