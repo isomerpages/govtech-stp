@@ -64,7 +64,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
        <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Ensure FDW/CN has a valid pass to remain in Singapore </b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">FDWs on IPAs must complete their <a href="/health/shn">SHN</a> before you can get their <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit#get-the-permit-issued">Work Permits issued</a>. To cater for this, the validity of their Short-Term Visit Pass and IPAs will be automatically extended by 2 weeks. No letters will be issued for this extension.
-       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;"><b>CNs must complete their SHN before</b> they can start work. For CNs whose visit passes are expiring, please <a href="http://www.mom.gov.sg/extend-nanny-visit-pass">request for an extension</a> <b>at least 2 weeks before the expiry date.</b></p>
+       <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>CNs must complete their SHN before</b> they can start work. For CNs whose visit passes are expiring, please <a href="http://www.mom.gov.sg/extend-nanny-visit-pass">request for an extension</a> <b>at least 2 weeks before the expiry date.</b></p>
       </td>
   </tr>
     </tbody>
