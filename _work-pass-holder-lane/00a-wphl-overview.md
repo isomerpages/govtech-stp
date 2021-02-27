@@ -5,7 +5,7 @@ permalink: /wphl/overview
 
 ## Overview 
 
-The Work Pass Holder General Lane (WPHL) is a Safe Travel lane that facilitates the entry of foreigners with passes granted by Ministry of Manpower (pass holders) to enter Singapore. 
+The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that foreigners with passes granted by Ministry of Manpower (pass holders) may use to enter Singapore.
 
 Given the ongoing pandemic, all pass holders must obtain the relevant Entry Approvals, as stated below, to enter Singapore.
 However, those conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea crossing are exempted from the entry approval requirements.
