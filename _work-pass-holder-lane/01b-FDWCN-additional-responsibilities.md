@@ -62,7 +62,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before departure</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">iii.	Serve a 14-day SHN at: 
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at: 
       <ol style="margin-top:0px; list-style-type:lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence upon approval</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Dedicated SHN facilities</li>        
@@ -85,15 +85,16 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </tbody>
 </table>
 
-**Note:**
+<i><b>Note:</b><i>FDWs and CNs who departed from, transited through or visited any of these places within the last 14 days are **not allowed to enter Singapore until further notice.** Please defer their entry for now.
+<ul>
+  <li>South Africa</li>
+  <li>The United Kingdom</li>
+</i>
+</ul>
 
-FDWs and CNs who departed from, transited through or visited any of these places within the last 14 days are **not allowed to enter Singapore until further notice.**
-- South Africa
-- The United Kingdom
+<u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
 
-Please defer their entry for now.
-
-What employers/employment agencies must do when the FDW/CN enters Singapore
+Employers/employment agencies must:
 - Ensure she complies with the SHN upon arrival, if applicable.
 - Ensure she takes all the required COVID-19 tests.
 - Arrange for her to travel using the designated transport, unless she is serving SHN at a dedicated SHN facility.
