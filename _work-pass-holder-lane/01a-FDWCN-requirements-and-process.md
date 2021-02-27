@@ -31,7 +31,6 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">To find out if she needs to serve SHN at an SDF, click here. </li>
-    </ol> 
     </ul>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the FDW/CN has a Singapore mobile number with internet connection. </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure there are available flights/transport on the FDW/CN’s planned arrival date.</li>
