@@ -52,8 +52,8 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Buy medical insurance that covers COVID-19</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must buy a COVID-19 medical insurance for the FDW/CN before she arrives in Singapore. 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">The insurance must cover at least $10,000 for medical expenses if she develops COVID-19 symptoms or tests positive within 14 days of arrival in Singapore.</p>
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Please check with the insurer whether the FDW/CN’s existing medical insurance plan meets the required coverage. If not, you can consider these <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">insurers</a>.</p>
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">The insurance must cover at least $10,000 for medical expenses if she develops COVID-19 symptoms or tests positive within 14 days of arrival in Singapore.</p>
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please check with the insurer whether the FDW/CN’s existing medical insurance plan meets the required coverage. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.</p>
       </td>
   </tr>
      <tr>
