@@ -6,7 +6,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
 ### 1. Before submitting an entry application
 
-Employers or employment agencies must ensure that they can fulfil the additional responsibilities before submitting an entry application for a foreign domestic worker (FDW) or confinement nanny (CN). These would include, paying for her [COVID-19 tests](/health/covid19-tests) and [Stay-Home Notice (SHN) accommodation](/health/shn). Click [here](https://www.mom.gov.sg/covid-19/advisory-to-fdws-and-employers#additional-responsibilities) for the list of additional responsibilities.
+Employers or employment agencies must ensure that they can fulfil the additional responsibilities before submitting an entry application for a foreign domestic worker (FDW) or confinement nanny (CN). These would include, paying for her [COVID-19 tests](/health/covid19-tests) and [Stay-Home Notice (SHN)](/health/shn) accommodation. Click [here](https://www.mom.gov.sg/covid-19/advisory-to-fdws-and-employers#additional-responsibilities) for the list of additional responsibilities.
 
 The employer or employment agency must also inform the FDW/CN of the [conditions imposed during her SHN](https://www.mom.gov.sg/covid-19/advisory-to-fdws-and-employers#fdw-must-do)  and ensure that she can fulfil them. 
 
@@ -26,7 +26,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application <a href="https://eservices.ica.gov.sg/STO/">here</a>.
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Before submitting the application, please complete these steps: </p>
 <ol style="margin-top:0px;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s <a href="/health/shn">Stay-Home Notice (SHN) accommodation</a> if she is not required to serve SHN at a <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>:</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s <a href="/health/shn">Stay-Home Notice (SHN)</a> accommodation if she is not required to serve SHN at a <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>:</li>
     <ul>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
