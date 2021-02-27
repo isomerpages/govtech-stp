@@ -60,7 +60,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
   </tr>
      <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Fulfil the entry approval requirements</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies and the FDW/CN <u>must comply with the entry approval requirements listed in the approval email.</u> Otherwise, criminal and administrative actions will be taken. 
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies and the FDW/CN <u>must comply with the entry approval requirements listed in the approval email.</u> Otherwise, enforcement actions will be taken. 
       </td>
   </tr>
        <tr>
