@@ -44,7 +44,7 @@ permalink: /apply-now
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Singapore Work Pass Holder Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">For employers of Foreign Domestic Workers and Confinement Nannies <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">apply here</a> <br><br> For all other Work Pass Holders, <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">apply here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">For employers of Foreign Domestic Workers and Confinement Nannies <a href="https://eservices.ica.gov.sg/STO/">apply here</a> <br><br> For all other Work Pass Holders, <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">apply here</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/wphl/requirements-and-process">Details</a></td>
     </tr>
        <tr>
