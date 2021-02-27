@@ -4,6 +4,8 @@ permalink: /wphl/fdwcn-requirements-and-process
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
 
+## Entry Requirements and Process for Foreign Domestic Workers and Confinement Nannies
+
 ### 1. Before submitting an entry application
 
 Employers or employment agencies must ensure that they can fulfil the additional responsibilities before submitting an entry application for a foreign domestic worker (FDW) or confinement nanny (CN). These would include, paying for her [COVID-19 tests](/health/covid19-tests) and [Stay-Home Notice (SHN)](/health/shn) accommodation. Click [here](https://www.mom.gov.sg/covid-19/advisory-to-fdws-and-employers#additional-responsibilities) for the list of additional responsibilities.
