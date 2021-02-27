@@ -10,7 +10,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
 Employers who are unable to fulfil the [entry approval requirements for Foreign Domestic Workers (FDWs) or Confinement Nannies (CNs)](/wphl/fdwcn-additional-responsibilities) may get employment agencies to help with the entry approval and SHN arrangements. In this case, the employment agency needs to fulfil the entry approval requirements.
 
-If no party is willing and able to fulfil the entry approval requirements, the FDW or confinement nanny should not enter Singapore.
+If no party is willing and able to fulfil the entry approval requirements, the FDW or CN should not enter Singapore.
 
 ### 2. My FDW/CN has recovered from COVID-19, when can I bring her into Singapore?
 For FDWs/CNs who have recovered from COVID-19, they should only depart for Singapore **at least 21 days** after their first positive COVID-19 polymerase chain reaction (PCR) test. Otherwise, they will be denied boarding on flights to Singapore.
