@@ -26,7 +26,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application <a href="https://eservices.ica.gov.sg/STO/">here</a>.
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Before submitting the application, please complete these steps: </p>
 <ol style="margin-top:0px;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s <a href="/health/shn">Stay-Home Notice (SHN) accommodation</a> if she is not required to serve SHN at a <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>:
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s <a href="/health/shn">Stay-Home Notice (SHN) accommodation</a> if she is not required to serve SHN at a <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>:</li>
     <ul>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
