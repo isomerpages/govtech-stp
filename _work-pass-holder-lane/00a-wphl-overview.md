@@ -50,6 +50,6 @@ However, those conveying essential services or supplies (e.g. lorry drivers or v
 </tbody>
 </table>
 
-As the global situation evolves, Singapore will continue to adjust its border measures to limit the risk of importation and transmission to the community. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests), where applicable.
+As the global situation evolves, Singapore will continue to adjust its border measures to limit the risk of importation and prevent community transmission from imported cases. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests), where applicable.
 
 For the latest updates, please visit our website and [MOH’s website](https://www.moh.gov.sg/) regularly.
