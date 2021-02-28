@@ -31,7 +31,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated until they get a negative test result </li>
 </ol> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-1-health.pdf"><img src="/images/PDF.svg" style="width:40%;"></a></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-1-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
@@ -49,7 +49,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
 </ol> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-health.pdf"><img src="/images/PDF.svg" style="width:40%;"></a></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
@@ -72,7 +72,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
 </ol> </td>
-    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-3-health.pdf"><img src="/images/PDF.svg" style="width:40%;"></a></td>
+    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-3-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
@@ -99,7 +99,7 @@ Employers/employment agencies must:
 - Ensure she complies with the SHN upon arrival, if applicable.
 - Ensure she takes all the required COVID-19 tests.
 - Arrange for her to travel using the designated transport, unless she is serving SHN at a dedicated SHN facility.
-- Get her to download both [WhatsApp](https://www.whatsapp.com/) and [FWMOMCare app](http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf) on her mobile phone. She must respond to the Ministry of Manpower (MOM)’s phone calls, WhatsApp video calls or SMSes **within 1 hour**. This includes ensuring her prepaid card has sufficient value. She must also report her health status using the FWMOMCare app.
+- Get her to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on her mobile phone. She must respond to the Ministry of Manpower (MOM)’s phone calls, WhatsApp video calls or SMSes **within 1 hour**. This includes ensuring her prepaid card has sufficient value. She must also report her health status using the FWMOMCare app.
 - (Only for FDWs and CNs who are issued an electronic monitoring device by the checkpoint) Ensure she installs the mobile application and registers the device **within 1 hour of arriving at her SHN accommodation.**
 - Provide her with food and other daily essentials throughout her SHN, unless she is serving SHN at a dedicated SHN facility.
 - Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that she doesn't need to leave her SHN accommodation. 
