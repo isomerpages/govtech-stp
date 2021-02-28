@@ -25,11 +25,11 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED"><b>Submit an entry application</b></td>
-    <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application <a href="https://eservices.ica.gov.sg/STO/">here</a>. Please note the following regarding the application portal:
+    <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application <a href="https://eservices.ica.gov.sg/STO/">here</a>. Please note the following technical matters regarding the application portal:
 <ul>      
-<li style="font-size:17px;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
-<li style="font-size:17px;">Additional step for employment agents: To use the portal, please get your CorpPass administrator to add the ‘Safe Travel Portal’ eService to your CorpPass account and assign you with access rights.</li>
-<li style="font-size:17px;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs</a>.</li>
+<li style="font-size:17px; line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
+<li style="font-size:17px; line-height:1.5;">Additional step for employment agents: To use the portal, please get your CorpPass administrator to add the ‘Safe Travel Portal’ eService to your CorpPass account and assign you with access rights.</li>
+<li style="font-size:17px; line-height:1.5;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs</a>.</li>
 </ul>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Before submitting the application, please complete these steps: </p>
