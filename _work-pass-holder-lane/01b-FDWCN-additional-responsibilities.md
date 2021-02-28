@@ -87,7 +87,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </tbody>
 </table>
 
-<i><b>Note:</b> FDWs and CNs who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
+<i><b>Note:</b> FDWs and CNs who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:</i>
 <ul>
   <li style="line-height:1.5;"><i>South Africa</i></li>
   <li style="line-height:1.5;"><i>The United Kingdom</i></li>
