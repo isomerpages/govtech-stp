@@ -13,9 +13,10 @@ Employers who are unable to fulfil the [entry approval requirements for Foreign 
 If no party is willing and able to fulfil the entry approval requirements, the FDW or CN should not enter Singapore.
 
 ### 2. My FDW/CN has recovered from COVID-19, when can I bring her into Singapore?
+
 For FDWs/CNs who have recovered from COVID-19, they should only depart for Singapore **at least 21 days** after their first positive COVID-19 polymerase chain reaction (PCR) test. Otherwise, they will be denied boarding on flights to Singapore.
 
-If the FDW’s/CN’s first positive COVID-19 PCR test was taken on 1 January 2021, she can only depart for Singapore from 22 January 2021.
+If the FDW’s/CN’s first positive COVID-19 PCR test was taken on 1 March 2021, she can only depart for Singapore from 22 March 2021.
 
 FDWs/CNs should not travel if feeling unwell. 
 
@@ -34,7 +35,7 @@ All other individuals must serve their full 14-day SHN at the dedicated SHN faci
 
 You and your FDW or CN should take note of the risks, including contracting infectious diseases like COVID-19 from the person she is sharing room with. If any of them tests positive for COVID-19, their Stay-Home Notice (SHN) may be extended. In this case, there may be additional costs for her stay and medical related procedures.
 
-The room sharing request is subject to the availability of twin rooms at the dedicated SHN facility, which are limited, and room allocation by the facility operator upon check-in. If she is able to share a room, the cost of her stay will be $1,000 including GST. Otherwise, the standard rate of $1,500 including GST will apply.
+[Note] The room sharing request is subject to the availability of twin rooms at the dedicated SHN facility, which are limited, and room allocation by the facility operator upon check-in. If she is able to share a room, the cost of her stay will be $1,000 including GST. Otherwise, the standard rate of $1,500 including GST will apply.
 
 If you and your FDW/CN are agreeable to proceed with the room sharing request, please complete these actions:
 
@@ -104,21 +105,24 @@ If your FDW or CN is serving SHN at a:
 -	Non-dedicated SHN facility, you should ask her to wear a mask and take her to the nearest Public Health Preparedness Clinic (PHPC) or GP clinic. You should also inform MOM of such cases immediately by sending a WhatsApp message to <u>8361 8932</u>.
 
 ### 9. Can employers get a levy waiver for FDWs who go on home / overseas leave?
+
 For FDWs on home or overseas leave, employers can [apply for levy waiver](https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer) (for up to 60 days) **when their FDWs return to Singapore.**
 
 ### 10. My FDW or CN intends to travel out of Singapore. What do I need to consider?
-You may wish to as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
+
+You may wish to discourage your FDW/CN from travelling as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
 
 For all FDWs and nannies, new and existing, entering Singapore from 1 January 2021, [the Government will no longer cover their treatment costs](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. This is regardless of when they left Singapore.
 
 Find out who is responsible for the treatment costs [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment).
 
 ### 11. My CN's visit pass is expiring, how do I extend her stay in Singapore?
+
 You need to request for an extension of your confinement nanny’s stay if:
 - The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so.
 - She leaves Singapore during the employment period. Her visit pass will be cancelled when she leaves, and you have to request for an extension each time she leaves and returns to Singapore.
 
-Please submit the extension request at least 2 weeks before her visit pass expires and upload these documents:
+Please [submit the extension request](https://www.mom.gov.sg/extend-nanny-visit-pass) at least 2 weeks before her visit pass expires and upload these documents:
 - Front and back of her Disembarkation / Embarkation card (maximum 1MB)
 - Personal particulars page of her passport (maximum 1MB)
 
