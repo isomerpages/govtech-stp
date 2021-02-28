@@ -4,7 +4,7 @@ permalink: /wphl/FDWCN-additional-responsibilities
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
 
-## Additional Responsibilities for Party Submitting the Entry Application
+## Additional Responsibilities for Party Submitting the Entry Application (Employer or Employment Agency)
 
 ### Entry approval requirements
 
@@ -13,7 +13,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <tr>
     <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">FDWs/CNs who spent the last 14 consecutive days in </th>
     <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">What FDWs/CNs must do </th>
-    <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Read the documents below for more details </th>
+    <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Read the documents below for more details on your responsibilities </th>
   </tr>
 </thead>
 <tbody>
@@ -42,7 +42,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in: 
-      <ol style="margin-top:0px; list-style-type:lower-roman;">
+      <ol style="margin-top:0px; list-style-type:disc;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels (For FDWs on in-principle approvals (IPAs) and CNs)</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers’ houses or hotels (For existing FDWs)</li>        
   </ol>      
@@ -62,7 +62,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test within 72 hours before departure</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at: 
       <ol style="margin-top:0px; list-style-type:lower-roman;">
@@ -78,7 +78,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test within 72 hours before departure </li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at dedicated SHN facilities</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
@@ -87,7 +87,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </tbody>
 </table>
 
-<i><b>Note:</b> FDWs and CNs who departed from, transited through or visited any of these places within the last 14 days are <u>not allowed to enter Singapore until further notice.</u> Please defer their entry for now.</i>
+<i><b>Note:</b> FDWs and CNs who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
 <ul>
   <li style="line-height:1.5;"><i>South Africa</i></li>
   <li style="line-height:1.5;"><i>The United Kingdom</i></li>
