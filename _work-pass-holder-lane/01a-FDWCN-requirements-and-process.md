@@ -34,7 +34,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Before submitting the application, please complete these steps: </p>
 <ol style="margin-top:0px;">
-  <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation if she is not required to serve SHN at a <a href="/health/shn/sdf" target="_blank">SHN-Dedicated Facility (SDF)</a>:</li>
+  <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation if she is not required to serve SHN at an SHN-Dedicated Facility (SDF):</li>
     <ul>
     <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
     <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
