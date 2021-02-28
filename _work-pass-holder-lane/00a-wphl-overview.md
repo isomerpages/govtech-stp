@@ -7,7 +7,7 @@ permalink: /wphl/overview
 
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that foreigners with passes granted by Ministry of Manpower (pass holders) may use to enter Singapore.
 
-Given the ongoing pandemic, all pass holders must obtain the relevant Entry Approvals, as stated below, to enter Singapore.
+Given the ongoing pandemic, <b>all pass holders</b> must obtain the relevant Entry Approvals, as stated below, to enter Singapore.
 However, those conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea crossing are exempted from the entry approval requirements.
 
 ### Schemes to bring pass holders into Singapore 
@@ -44,12 +44,12 @@ However, those conveying essential services or supplies (e.g. lorry drivers or v
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can apply for <a href="/rgl/overview">RGL.</a></td>
 </tr>
 <tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">All other pass holders, including those on in-principle approval, Dependant’s Pass, Long Term Visit Pass or Letter of Consent.</td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">All other pass holders, including those on in-principle approval, Dependant’s Pass, Long Term Visit Pass or Letter of Consent</td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can request for <a href="http://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">Ministry of Manpower’s entry approval.</a></td>
 </tr>
 </tbody>
 </table>
 
-As the global situation evolves, Singapore will continue to adjust its border measures to limit the risk of importation and prevent community transmission from imported cases. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests), where applicable.
+As the global situation evolves, Singapore will continue to adjust its border measures to manage the risk of importation and transmission to the community. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the  [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests), where applicable.
 
 For the latest updates, please visit our website and [MOH’s website](https://www.moh.gov.sg/) regularly.
