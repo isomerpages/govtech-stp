@@ -106,15 +106,15 @@ If your FDW or CN is serving SHN at a:
 
 ### 9. Can employers get a levy waiver for FDWs who go on home / overseas leave?
 
-For FDWs on home or overseas leave, employers can [apply for levy waiver](https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer) (for up to 60 days) **when their FDWs return to Singapore.**
+For FDWs on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 60 days) **when their FDWs return to Singapore.**
 
 ### 10. My FDW or CN intends to travel out of Singapore. What do I need to consider?
 
 You may wish to discourage your FDW/CN from travelling as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
 
-For all FDWs and nannies, new and existing, entering Singapore from 1 January 2021, [the Government will no longer cover their treatment costs](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. This is regardless of when they left Singapore.
+For all FDWs and nannies, new and existing, entering Singapore from 1 January 2021, <a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers" target="_blank">the Government will no longer cover their treatment costs</a> if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. This is regardless of when they left Singapore.
 
-Find out who is responsible for the treatment costs [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment).
+Find out who is responsible for the treatment costs <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
 ### 11. My CN's visit pass is expiring, how do I extend her stay in Singapore?
 
@@ -122,7 +122,7 @@ You need to request for an extension of your confinement nanny’s stay if:
 - The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so.
 - She leaves Singapore during the employment period. Her visit pass will be cancelled when she leaves, and you have to request for an extension each time she leaves and returns to Singapore.
 
-Please [submit the extension request](https://www.mom.gov.sg/extend-nanny-visit-pass) at least 2 weeks before her visit pass expires and upload these documents:
+Please <a href="https://www.mom.gov.sg/extend-nanny-visit-pass" target="_blank">submit the extension request</a> at least 2 weeks before her visit pass expires and upload these documents:
 - Front and back of her Disembarkation / Embarkation card (maximum 1MB)
 - Personal particulars page of her passport (maximum 1MB)
 
