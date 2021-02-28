@@ -17,7 +17,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Application can be made 3 to 60 days before the FDW/CN’s planned arrival date </th>
+    <th colspan="2" style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Application can be made 3 to 60 days before the FDW/CN’s planned arrival date </th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
