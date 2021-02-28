@@ -48,7 +48,7 @@ If you and your FDW/CN are agreeable to proceed with the room sharing request, p
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-english.pdf?la=en&hash=E3128662C08792D9477A6E90DEE1CE09" target="_blank">English</a></li>
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-hindi.pdf?la=en&hash=DB23F7F02E88206A9E3F64BE8F962B89" target="_blank">Hindi</a></li>
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-mandarin.pdf?la=en&hash=F064A8698C4BDBEC21FD7D705695FC53" target="_blank">Mandarin</a></li>
-   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-sinhalese.pdf?la=en&hash=6E3C0210CDB1B58A85D113B33BDDF09F">Sinhalese</a></li>
+   <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-sinhalese.pdf?la=en&hash=6E3C0210CDB1B58A85D113B33BDDF09F" target="_blank">Sinhalese</a></li>
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tagalog.pdf?la=en&hash=613D73D0057EF096FE5C37C15E5029A6" target="_blank">Tagalog</a></li>
    <li><a href="https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tamil.pdf?la=en&hash=266F452708B6E03AF24114C1D9C67434" target="_blank">Tamil</a></li>
 </ul>
