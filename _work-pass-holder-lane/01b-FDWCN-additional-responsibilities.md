@@ -104,6 +104,7 @@ Employers/employment agencies must:
 - Provide her with food and other daily essentials throughout her SHN, unless she is serving SHN at a dedicated SHN facility.
 - Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that she doesn't need to leave her SHN accommodation. 
 
+<div id="FDWCNResponsibiities"></div>
 <u><b>What FDWs and CNs must do during their SHN</b></u>
 
 FDWs and CNs must:
