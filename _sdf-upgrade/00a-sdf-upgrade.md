@@ -52,17 +52,17 @@ Please refer [here](/health/shn/sdfupgradefaq) for a more detailed set of FAQs.
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-    </tr>
-           <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Dutymanager.RTP@Fairmont.com">Fairmont Singapore </a></td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-    </tr>
+   </tr>
                <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:dutymanager.sts@swissotel.com">Swissotel the Stamford</a></td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>
+      <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Dutymanager.RTP@Fairmont.com">Fairmont Singapore </a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
                    <tr>
