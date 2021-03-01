@@ -57,7 +57,7 @@ Travellers who are transferring to another suite mid-way through their SHN stay 
 
 #### 10.	I have already made payment to my sponsoring Government agency for the costs of my SDF stay. Do I still need to make payment to the SDF at check-in?
 
-Travellers who have made payment to sponsoring government agencies when obtaining approval to enter Singapore will be required to pay the difference in the cost of upgrading to an SDF suite. This additional amount will be paid to the SDF at check-in. 
+Travellers who have made payment to sponsoring government agencies [when obtaining approval](/arriving/overview) to enter Singapore will be required to pay the difference in the cost of upgrading to an SDF suite. This additional amount will be paid to the SDF at check-in. 
 
 For example: If traveller has already paid $2k to an agency when obtaining approval to enter Singapore, and later decides to upgrade to a Regular suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $4k to Fairmont Singapore at check-in.
 

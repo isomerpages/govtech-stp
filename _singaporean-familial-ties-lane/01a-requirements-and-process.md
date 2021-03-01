@@ -5,18 +5,18 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">The traveller must be an ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor who is:</span>
+<span class="font-size:16px;">The traveller must be:</span>
  <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR);
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR); <sup>1</sup>
        </li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; 
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of an SC or PR; 
        </li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR and ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities; or 
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) or ICA-Long Term Visit Pass IPA holders seeking to complete formalities for long-term immigration facilities; or 
        </li>
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A non-resident who has exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore).
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Singapore residents who have exceptional reasons for seeking short-term entry into Singapore (e.g. death of a family member in Singapore).
        </li>
       </ol>
-<p style="line-height:1.0;"><span style="font-size:14px;"> <i>Note: Work Pass holders, Student’s Pass (STP) holders, and STP In-Principle Approval (IPA) holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the <a href="/wphl/requirements-and-process">Work Pass Holder General Lane</a>. All other STP holders and STP IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></i></span></p>
+<p style="line-height:1.0;"><span style="font-size:14px;"> <i><sup>1</sup> Work Pass holders, Student’s Pass (STP) holders, and STP-IPA holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the  <a href="/wphl/requirements-and-process">Work Pass Holder General Lane</a>. All other STP holders and STP-IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></i></span></p>
             
 ### 2. Submit Approvals for Entry into Singapore
 
@@ -29,15 +29,30 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 </thead>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">The following categories of foreign travellers can use the SafeTravel application portal <a href="https://eservices.ica.gov.sg/STO/">here</a> to apply for entry approval:
-       <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR);</li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of a Singapore Citizen or a Singapore PR; or</li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A PR and ICA-LTVP IPA holder seeking to complete formalities for long-term immigration facilities.</li>
+   <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>Application via SafeTravel Portal</u>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal here using SingPass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
+</p>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants should have on hand the following details as part of the submission:
+    <ol style="margin-top:0px; list-style-type: lower-roman;">
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;">Traveller details:
+      <ol style="margin-top:0px; list-style-type:disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:-10px;">ID type, e.g. NRIC, FIN, In-Principle Approval letter;</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px;">Passport information, e.g. Date of Birth, Travel Document number;</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including mobile phone number and email address; and </li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Accommodation address to serve the Stay-Home Notice, if applicable.</li>
       </ol>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><u>SingPass is required to make an application via the <a href="https://eservices.ica.gov.sg/STO/">online portal</a>. If the traveller does not have SingPass, a Singapore Citizen or PR applicant with SingPass may apply for the traveller’s entry</u>. Entry approvals granted are valid for +/- 1 day from the approved date of entry.</p>
-     <br>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">For non-residents who have other exceptional reasons for seeking entry into Singapore (e.g. death of a family member in Singapore), please write in to <a href="mailto: ica_ncov_request@ica.gov.sg">ica_ncov_request@ica.gov.sg</a> to seek approval for entry, and provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>
+     </li>
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; ">Applicant details:
+      <ol style="margin-top:0px; list-style-type:disc;">
+       <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including a local mobile number and email address; and</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
+      </ol>    
+     </li>
+    </ol>
+    </p>
+   <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Entry approvals granted via the application portal are valid for +/- 1 day from the approved date of entry.</p>
+      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><u>Application outside of SafeTravel Portal</u></p>
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Eligible travellers who do not have a SingPass account and have exceptional reasons to enter Singapore on a short-term basis (e.g. death of a family member in Singapore) can write to <a href="mailto:ica_ncov_request@ica.gov.sg">ica_ncov_request@ica.gov.sg</a> to seek approval for entry. Applicants should provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>   
     </td>
   </tr>
     <thead>
@@ -69,37 +84,36 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   </tr>
   </thead>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test </b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers, including but not limiting to LTPHs/IPA holders and short-term visitors, who have spent the past consecutive 14 days to certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result in English.
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction Test (“PCR test”) </b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-SC/PR travellers arriving in Singapore from countries/regions with higher assessed risk of COVID-19 importation must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure to Singapore. The test should be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure, and the traveller is also required to obtain an English certificate for a negative COVID-19 PCR test.
+  <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers can refer to this table to find out if they are required to take a PCR test prior to arrival in Singapore.</p>
       </td>          
    </tr>
     <tr>
     <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved Travellers should monitor their health and avoid travelling if feeling <a href="/health/covid19-symptoms">unwell</a>. If travellers are fit for travel, they should:
      <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service  <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a> within 72 hours before departure to Singapore.;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>,for travellers who have spent the last 14 consecutive days in Australia, Brunei, Mainland China, New Zealand, Taiwan or Vietnam before departing for Singapore. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot.
-       </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Approved travellers who have spent the last 14 consecutive days in Australia, Brunei, Mainland China, New Zealand and/or Taiwan before departing for Singapore are encourage to pre-register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. Otherwise, the registration and payment will take place on-arrival, which may delay the administration of the on-arrival PCR test.
        </li>
       </ol>
     </td>
   </tr>
    <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Day of Departure to Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Day of Departure to Singapore</th>
   </tr>
   </thead>
    <tr>
     <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding Clearance</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers under the SC/PR Familial Ties Lane must produce the following documents for pre-boarding clearance:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must produce the following documents for pre-boarding clearance:
      <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Approval Letter of Entry;
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid FTL-Approval Letter of Entry;
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa to enter Singapore (for visa-required travellers); and
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore.
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Negative <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> result taken within 72 hours at an accredited/authorised testing facility before departure to Singapore (if applicable).
        </li>
       </ol>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
@@ -113,26 +127,22 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED    ">Day of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; ">Day of entry into Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
-       Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore here, travellers may be required to:
-        <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
-             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">SHN</a> at <a href="/health/shn/sdf">SHN Dedicated Facility (SDF)</a> and take a COVID-19 PCR test during the SHN period, at their own cost. </li>
-         </ol> 
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by ICA during the entry approval process.</p>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">After obtaining arrival immigration clearance, travellers will be directed to take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> before commuting directly to their own accommodation or <a href="/health/shn/sdf">SDF</a>.</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s last 14-day travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served. See Section 5 (“Post-Arrival”) for more details</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.</p>
     </td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must arrange for transport to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation, adhering to prevailing health measures. The use of public transport is not allowed.<br/><br/>
-For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All travellers must commute directly to their declared accommodation where they will serve their <a href="/health/shn">Stay-Home Notice</a> (SHN). Travellers should note that the use of public transport is prohibited.<br/><br/>
+While travellers serving their SHN at SDF will commute using the dedicated transport provided, travellers serving their SHN at their own residence can commute via a private transport that they have arranged. Click <a href="/health/faq#transport">here</a> for more information on private transport bookings.
     </td>
   </tr>
  </tbody>
@@ -149,9 +159,8 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
 <tbody>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation/SHN</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">For travellers eligible for <u>on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after they are notified of their negative result and go about their activities in Singapore.<br/><br/>
-      <u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
-Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><u>Travellers who are required only to take an on-arrival COVID-19 PCR test</u>, i.e. not served a <a href="/health/shn">Stay-Home Notice</a> (SHN), must remain in their declared accommodation of self-isolation until after they received a negative <u>PCR test (typically within 48 hours)</u>. <br/><br/>Travellers who have been served an SHN must remain in their accommodation for the entire duration of the SHN until after they are tested negative for COVID-19, whichever is later. <u>If you fall into this category of travellers, you may</u> refer to this <a href="/health/shn/sdf">page</a> for more information on the general duration of an SHN and its requirements.<br/><br/>
+     Travellers tested positive for <a href="/health/covid19-symptoms">COVID-19</a> will be accorded medical treatment, and charges shall apply as per prevailing public health policies.
     </td>
   </tr>
   <thead>
