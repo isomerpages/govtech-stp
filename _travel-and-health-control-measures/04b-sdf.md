@@ -10,6 +10,11 @@ To limit the spread of COVID-19, several hotels in Singapore have been designate
 
 Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to upgrade to an SDF suite at a specific hotel at additional cost, may click [here](/health/shn/sdfupgrade) to find out more.
 
+### SDF Opt-Out
+
+Travellers may opt-out of SDF if they satisfy either of the following conditions. Applications to opt-out of SDF must be submitted three working days before the traveller’s scheduled arrival in Singapore.
+
+
 <table>
   <thead>
     <tr>
