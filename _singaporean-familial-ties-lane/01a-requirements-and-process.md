@@ -36,15 +36,15 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <ol style="margin-top:0px; list-style-type: lower-roman;">
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;">Traveller details:
       <ol style="margin-top:0px; list-style-type:disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;">ID type, e.g. NRIC, FIN, In-Principle Approval letter;</li>
-            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px;">Passport information, e.g. Date of Birth, Travel Document number;</li>
-            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Valid contact details, including mobile phone number and email address; and </li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:-10px;">ID type, e.g. NRIC, FIN, In-Principle Approval letter;</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px;">Passport information, e.g. Date of Birth, Travel Document number;</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including mobile phone number and email address; and </li>
             <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Accommodation address to serve the Stay-Home Notice, if applicable.</li>
       </ol>
      </li>
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; ">Applicant details:
       <ol style="margin-top:0px; list-style-type:disc;">
-       <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Valid contact details, including a local mobile number and email address; and</li>
+       <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including a local mobile number and email address; and</li>
             <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
       </ol>    
      </li>
