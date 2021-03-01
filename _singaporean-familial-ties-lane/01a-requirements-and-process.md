@@ -7,7 +7,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 
 <span class="font-size:16px;">The traveller must be:</span>
  <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"1.	An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR); <sup>1</sup>
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR); <sup>1</sup>
        </li>
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of an SC or PR; 
        </li>
@@ -44,8 +44,8 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
      </li>
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applicant details:
       <ol style="margin-top:0px; list-style-type:disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">i.	Valid contact details, including a local mobile number and email address; and</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ii.	Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>, if applicable</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid contact details, including a local mobile number and email address; and</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
       </ol>    
      </li>
     </ol>
