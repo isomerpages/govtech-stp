@@ -39,7 +39,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 </ol>   
     </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in: 
       <ol style="margin-top:0px; list-style-type:disc;">
