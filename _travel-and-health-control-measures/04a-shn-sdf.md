@@ -37,7 +37,7 @@ Examples of how to calculate the end of each SHN duration can be found below. Tr
   </tbody>
   </table>
 
-Read the Health Advisory for Persons issued SHN [here](https://www.moh.gov.sg/docs/librariesprovider5/advisories/moh-health-advisory-for-persons-issued-stay-home-notice_4-nov.pdf), and watch the video below that explains the SHN Requirements.
+Read the Health Advisory for Persons issued SHN [here](/files/MOH-Health-Advisory-SHN.pdf), and watch the video below that explains the SHN Requirements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g-eZmUOp_7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
