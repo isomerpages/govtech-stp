@@ -1,17 +1,10 @@
 
-ICA-issued Long-Term Visit Pass (LTVP) holders and short-term visitors who belong to the categories below may apply for entry approval via the Singapore Citizen/Permanent Resident (PR) Familial Ties Lane:
+The Singapore Citizen (SC) /Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel lane primarily to support the social and community needs of Singapore Citizens and Permanent Residents, e.g. reuniting families amid the pandemic. This lane caters to both residents and non-residents who need to enter Singapore for one or more of the reasons below:
 
-- An immediate family member or relative of a Singapore Citizen or a Singapore PR;<sup>1</sup>
-- A spouse-to-be of a Singapore Citizen or a Singapore PR;
-- PR and ICA-LTVP IPA holders seeking to complete formalities for their long-term immigration facilities; or
-- A non-resident who has exceptional reasons for seeking entry to Singapore (e.g. death of a family member in Singapore).
+- Reunite with immediate family members or spouse-to-be of an SC/PR;
+- Complete formalities for long-term immigration facilities; or
+- Handle family emergencies, e.g. death of a family member in Singapore
 
-To apply for entry approval under this lane, please click the link <a href="https://form.gov.sg/#!/5e3648e9405c180011dc5f9c" target="_blank">here</a>.
+SC/PRs are not required to seek approval to enter Singapore. However, those who are returning to Singapore should note the entry processes under the [Returning SC/PR lane](/sc-pr/requirements-and-process) instead.
 
-### Border and Health Control Measures
-
-Please ensure you take note of the border and health control measures for entering Singapore found [here](/health).
-
------
-
-<sup>1</sup> Work Pass holders, Student’s Pass (STP) holders, and STP IPA holders who are an immediate family member or relative of a Singapore Citizen or a Singapore PR may also apply for entry approval via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the [Work Pass Holder General Lane](/wphl/overview). All other STP holders and STP IPA holders should apply for entry under the [Student’s Pass Holder Lane](/stpl/overview).
+Depending on the travellers’ travel history, they may be required to take [COVID-19 Polymerase Chain Reaction tests](/health/covid19-tests/pcrtest) (“PCR test”) and serve [Stay-Home Notice](/health/shn) (SHN) at either their own accommodation or [SHN-Dedicated Facility](/health/shn/sdf) (SDF) at their own expenses. Travellers can refer to this [table](/files/SHN-and-swab-summary.pdf) for more details.
