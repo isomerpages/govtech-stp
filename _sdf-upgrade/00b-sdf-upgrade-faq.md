@@ -15,9 +15,9 @@ Different SDFs have different caps on the maximum number of persons that can be 
 
 Travellers are strongly advised to verify with the SDF if the suite can accommodate the expected number of persons before confirming the booking.
 
-#### 3.	Can I book a suite from an SDF that is not listed here?  
+#### 3.	Can I book a suite from an SDF that is not listed?  
 
-No, only booking confirmations from the SDFs listed here will be accepted.
+No, only booking confirmations from the SDFs listed <a href="https://safetravel.ica.gov.sg/health/shn/sdfupgrade">here</a> will be accepted.
 
 #### 4.	Can I transfer to a suite if I am currently serving SHN in an SDF? 
 
