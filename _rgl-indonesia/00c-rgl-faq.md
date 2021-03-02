@@ -51,7 +51,7 @@ The traveller is required to present his/her valid SafeTravel Pass, certificate 
 
 When a company applies for the SafeTravel Pass on behalf of the traveller, it is also responsible for the timely submission of the accompanying documents. 
  
-The host company should also ensure that the traveller abides by the terms and conditions of the Singapore-Indonesia RGL, and the prevailing health measures during his/her stay in Singapore. Authorities may ask for proof of adherence to the controlled itinerary, including physical verification or SafeEntry Pass records (e.g. screenshots), and other terms and conditions when the traveller is in Singapore.  
+The host company should also ensure that the traveller abides by the terms and conditions of the Singapore-Indonesia RGL, and the prevailing health measures during his/her stay in Singapore. Authorities may ask for proof of adherence to the controlled itinerary, prompt answering of phonecalls or text messages to verify the traveller’s location, and other terms and conditions when the traveller is in Singapore.  
  
 You can access the terms and conditions of the Singapore-Indonesia RGL [here](https://safetravel.ica.gov.sg/indonesia/rgl/terms-and-conditions). Action will be taken against the traveller and the host company in the event of non-compliance. 
 
