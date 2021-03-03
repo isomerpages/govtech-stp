@@ -1,5 +1,5 @@
 ---
-title: Additional Responsibilities for Party Submitting the Entry Application
+title: Additional Responsibilities 
 permalink: /wphl/FDWCN-additional-responsibilities
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
