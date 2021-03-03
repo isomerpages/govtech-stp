@@ -218,10 +218,6 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
     </tr>
   </tbody>
   </table>
-  
-If you downloaded the app before 1 Feb 2021 (Singapore time), you will see this screen:
-
-<img src="/images/TT_1.png" style="width:179px; height:318px;">
 
 For more information, please refer to the TraceTogether website.
 
