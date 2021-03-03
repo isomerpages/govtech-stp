@@ -34,4 +34,5 @@ Given the increased cases observed in NSW, the Singapore Government will rescind
 
 Singapore Citizens, Singapore Permanent Residents and Long Term Pass Holders with travel history to NSW can still enter Singapore. They will be subject to the prevailing health measures upon entry into Singapore.
 
-
+#### Calculate Day To Leave here
+<iframe src="https://staging.checkfirst.gov.sg/c/ica-daytoleave-calculator"></iframe>
