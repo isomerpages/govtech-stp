@@ -201,7 +201,7 @@ You can activate your app only after clearing Singapore immigration. There might
 
 After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. 
 
-Please ensure that your TraceTogether App is updated to the latest version. If you downloaded the app on or after 1 Feb 2021 (Singapore time), you will see the Holding Screen after you have registered your profile. You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore. Follow the instructions until you reach the Home Screen.
+Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore. Follow the instructions until you reach the Home Screen.
 
 <table>
   <thead>
