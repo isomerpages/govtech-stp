@@ -29,9 +29,11 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 *Before the foreign employee leaves for Singapore*
 
 2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing or Singapore if:
-<ol list-style-type: lower-latin;>
+<ol style="list-style-type: lower-latin;">
+<li>the foreign employee is not a Singapore Citizen or a Singapore Permanent Resident; and</li>
+<li>the foreign employee had recent travel history to Malaysia within the last 14 days prior to entering Singapore.</li> 
 </ol>
-Travellers who are not Singapore Citizens or Singapore Permanent Residents, and who have recent travel history to Malaysia within the last 14 days prior to entry will be required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore. This requirement will take effect for all inbound PCA travellers arriving in Singapore from 27 November 2020, 2359 hours.
+Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore. This requirement for the PCR test for all inbound PCA travellers takes effect from 27 November 2020, 2359 hours.
 
 3. The Employer shall inform the foreign employee that he/she is required to serve a 14-day Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
 
