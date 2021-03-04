@@ -90,5 +90,6 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Travellers sh
 
 ### Calculate Day to Leave 
 Find out when you have to leave SHN using a simple calculator below.
-
-<iframe src="https://www.checkfirst.gov.sg/c/ica-daytoleave-calculator"></iframe>
+<div>
+<iframe src="https://www.checkfirst.gov.sg/c/ica-daytoleave-calculator" width="500" height="500"></iframe>
+</div>
