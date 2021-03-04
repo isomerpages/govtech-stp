@@ -1,8 +1,3 @@
----
-title: Information for Singapore Citizens and Permanent Residents
-permalink: /SC-PR/information
----
-
 ### Singapore Citizens and Permanent Residents General Entry into Singapore
 Singapore Citizens and Singapore Permanent Residents can return to Singapore without applying for any specific Safe Travel Lane. However, they will be subjected to the prevailing health measures imposed on incoming travellers. Please click [here](/health) for more information on the prevailing Stay-Home Notice (SHN) and swab requirements.
 
@@ -39,5 +34,3 @@ Given the increased cases observed in NSW, the Singapore Government will rescind
 
 Singapore Citizens, Singapore Permanent Residents and Long Term Pass Holders with travel history to NSW can still enter Singapore. They will be subject to the prevailing health measures upon entry into Singapore.
 
-#### Calculate Day To Leave here
-<iframe src="https://staging.checkfirst.gov.sg/c/ica-daytoleave-calculator"></iframe>
