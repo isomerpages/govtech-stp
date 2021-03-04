@@ -96,7 +96,7 @@ Visitors may refer to ICA [website](https://www.ica.gov.sg/visitor/visitor_entry
 
 #### 17. What are the ATP conditions of travel?
 
-Visitors must comply with the ATP Conditions [here](/vietnam/atp/conditions).
+Visitors must comply with the ATP Conditions [here](/atp/conditions).
 
 #### 18. Why must visitors take direct flights without transit to Singapore?
 
