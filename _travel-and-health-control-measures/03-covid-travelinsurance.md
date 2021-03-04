@@ -36,7 +36,7 @@ A list of available Singapore-based travel insurance products are as follows:
 </tbody>
 </table>
 
-<b><i>All [Air Travel Pass (ATP)](/atp/overview) & [Reciprocal Green Lane (RGL)](/rgl/overview) Travellers are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
+<b><i>All Short Term Visitors entering via [ATP](/atp/overview) and [RGL](/rgl/overview) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
