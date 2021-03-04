@@ -7,7 +7,7 @@ permalink: /health/travelinsurance
 
 ### Short-term Visitors
 
-With effect from 31 January 2021, 2359 hours, short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](https://safetravel.ica.gov.sg/atp/overview) and [Reciprocal Green Lanes (RGLs)](https://safetravel.ica.gov.sg/rgl/overview) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000. The travel insurance will help them pay for the costs of their medical treatment in Singapore.
+With effect from 31 January 2021, 2359 hours, short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview) and [Reciprocal Green Lanes (RGLs)](/rgl/overview) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000. The travel insurance will help them pay for the costs of their medical treatment in Singapore.
 
 Visitors should <u>purchase such travel insurance prior to travelling to Singapore</u>, either from Singapore-based or overseas insurers. 
 
@@ -36,7 +36,7 @@ A list of available Singapore-based travel insurance products are as follows:
 </tbody>
 </table>
 
-<b><i>All short-term visitors are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
+<b><i>All [Air Travel Pass (ATP)](/atp/overview) & [Reciprocal Green Lane (RGL)](/rgl/overview) Travellers are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, should they develop onset of symptoms for COVID-19 within 14 days of their return.
 
