@@ -70,23 +70,33 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 
 1. Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”).
 
-2. The foreign employee shall comply with the Stay-Home Notice period ("SHN period") which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
+*Before the foreign employee leaves for Singapore*
+
+2. The foreign employee shall take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing for Singapore if: 
+: a. the foreign employee is not a Singapore Citizen or a Singapore Permanent Resident; and 
+: b. the foreign employee had recent travel history to Malaysia within the last 14 days prior to entering Singapore. 
+
+Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government. The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore. This requirement for the PCR test for all inbound PCA travellers takes effect from 27 November 2020, 2359 hours
+
+*After the foreign employee arrives in Singapore*
+
+3. The foreign employee shall comply with the Stay-Home Notice period ("SHN period") which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
 : a. 14 days subsequent thereafter, and will end at 12 noon on the 15th day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN period will end immediately, whichever is later.
 
-3. The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her dedicated SHN facility to serve his/her SHN.
+4. The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her dedicated SHN facility to serve his/her SHN.
 
-4. The foreign employee shall not leave the dedicated SHN facility during the SHN period unless permitted to do so by the Controller.
+5. The foreign employee shall not leave the dedicated SHN facility during the SHN period unless permitted to do so by the Controller.
 
-5. The foreign employee shall ensure that he/she has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile date) with him/her at all times during the SHN period. He/she shall download WhatsApp on his mobile phone and shall respond within 1 hour when contacted by MOM via phone calls, WhatsApp video calls or Short Message Service (SMS).
+6. The foreign employee shall ensure that he/she has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile date) with him/her at all times during the SHN period. He/she shall download WhatsApp on his mobile phone and shall respond within 1 hour when contacted by MOM via phone calls, WhatsApp video calls or Short Message Service (SMS).
 
-6. The foreign employee shall download the FWMOMCARE  mobile app on his mobile phone, once he has received MOM's SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://www.mom.gov.sg/eservices/fwmomcare)). The foreign employee must have a thermometer to take and report his temperature.
+7. The foreign employee shall download the FWMOMCARE  mobile app on his mobile phone, once he has received MOM's SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://www.mom.gov.sg/eservices/fwmomcare)). The foreign employee must have a thermometer to take and report his temperature.
 
-7. The foreign employee shall not have visitors at his dedicated SHN facility, and he/she shall minimise contact with others during the SHN period.
+8. The foreign employee shall not have visitors at his dedicated SHN facility, and he/she shall minimise contact with others during the SHN period.
 
-8. The foreign employee shall maintain a record of persons he/she comes into close contact with, during the SHN period.
+9. The foreign employee shall maintain a record of persons he/she comes into close contact with, during the SHN period.
 
-9. The foreign employee shall act responsibly in line with any advisories (as amended from time to time) issued by the Government of Singapore during the SHN period.
+10. The foreign employee shall act responsibly in line with any advisories (as amended from time to time) issued by the Government of Singapore during the SHN period.
 
-10. The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to foreign employee at least one day prior to the COVID-19 test. Transport will be provided if the foreign employee has to travel to the test venue. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
+11. The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to foreign employee at least one day prior to the COVID-19 test. Transport will be provided if the foreign employee has to travel to the test venue. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
 
