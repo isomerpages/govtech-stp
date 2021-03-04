@@ -87,3 +87,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Travellers sh
   </tr>
  </tbody>
  </table>
+
+Calculate Day to Leave below
+
+<iframe src="https://www.checkfirst.gov.sg/c/ica-daytoleave-calculator"></iframe>
