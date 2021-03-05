@@ -110,7 +110,7 @@ Travellers with a recent diagnosis of COVID-19 infection in the past 21 days wil
 
 #### 15. What pre-departure requirements must I comply with prior to entry to Singapore?
 
-The complete list of pre-departure requirements prior to Connect@Singapore travellers’ entry into Singapore can be found <a href="https://safetravel.ica.gov.sg/connectsg/rrequirements-and-process">here</a>.
+The complete list of pre-departure requirements prior to Connect@Singapore travellers’ entry into Singapore can be found <a href="https://safetravel.ica.gov.sg/connectsg/requirements-and-process">here</a>.
 
 #### 16. What health measures will I be subjected to upon arrival in Singapore?
 
