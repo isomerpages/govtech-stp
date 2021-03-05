@@ -81,7 +81,7 @@ In general, travellers who are unwell should seek for immediate medical attentio
 
 #### 5. I was approved to travel to Singapore under the RGL. Can I transit through a second country to get to Singapore? What should my travel route look like?
 
-RGL travellers are only allowed to travel to Singapore via a non-stop, direct flight from selected airports (below) in the counterpart countries/regions; transits through another country is prohibited.
+RGL travellers are only allowed to travel to Singapore via a non-stop flight from selected airports (below) in the counterpart countries/regions; transits through another country is prohibited.
 
 <table>
   <thead>
