@@ -37,7 +37,7 @@ Examples of how to calculate the end of each SHN duration can be found below. Tr
   </tbody>
   </table>
   
-<sup>*</sup>For travellers serving SHN in an SDF, the SDF will inform the traveller of the check-out time once it receives confirmation of the negative COVID-19 test result from the relevant government agencies. The traveller will only be allowed to leave the SDF thereafter.
+<sup>*</sup><i>For travellers serving SHN in an SDF, the SDF will inform the traveller of the check-out time once it receives confirmation of the negative COVID-19 test result from the relevant government agencies. The traveller will only be allowed to leave the SDF thereafter.</i>
 
 Read the Health Advisory for Persons issued SHN [here](/files/MOH-Health-Advisory-SHN.pdf), and watch the video below that explains the SHN Requirements.
 
