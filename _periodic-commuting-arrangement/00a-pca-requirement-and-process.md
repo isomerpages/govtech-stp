@@ -8,7 +8,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 
 ### 1. Eligibility 
 
-Employers can use their CorpPass to apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass on behalf of their employees. These employees must be willing to spend at least 90 days in Singapore for work upon entry, and be a:
+Employers can use their Corppass to apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass on behalf of their employees. These employees must be willing to spend at least 90 days in Singapore for work upon entry, and be a:
 
 - Malaysian Citizen or Malaysian Permanent Resident, and hold a valid long-term pass* for business and work purposes in Singapore; <b><u>or</u></b>
 - Malaysian Citizen who is a Singapore Permanent Resident working in Singapore;
