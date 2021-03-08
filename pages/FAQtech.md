@@ -21,9 +21,9 @@ permalink: /FAQ/tech
 
 For best user experience, please use Google Chrome (version 84 or later) or Microsoft Edge Web Browser. Please also ensure that your pop-up blocker has been turned off to facilitate the payment process.
 
-#### 2. Why am I unable to access the Safe Travel Portal despite having a CorpPass?
+#### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
 
-Please ensure that you have a CorpPass administrator account to log in to the Safe Travel Portal. You may contact your CorpPass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your CorpPass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal. 
+Please ensure that you have a Corppass administrator account to log in to the Safe Travel Portal. You may contact your Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal. 
 
 #### 3. I have been asked to enter my name in basic Latin characters only. My name contains national characters of the Latin/Cyrillic/Arabic families of languages. What do I do?
 

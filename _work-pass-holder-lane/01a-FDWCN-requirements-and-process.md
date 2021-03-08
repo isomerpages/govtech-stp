@@ -28,7 +28,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
     <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application <a href="https://eservices.ica.gov.sg/STO/">here</a>. Please note the following technical matters regarding the application portal:
 <ul>      
 <li style="font-size:17px; line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
-<li style="font-size:17px; line-height:1.5;">Additional step for employment agents: To use the portal, please get your CorpPass administrator to add the ‘Safe Travel Portal’ eService to your CorpPass account and assign you with access rights.</li>
+<li style="font-size:17px; line-height:1.5;">Additional step for employment agents: To use the portal, please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.</li>
 <li style="font-size:17px; line-height:1.5;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs</a>.</li>
 </ul>
 

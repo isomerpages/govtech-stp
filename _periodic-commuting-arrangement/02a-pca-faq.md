@@ -55,13 +55,13 @@ For details on the application procedures and requirements for Singapore Citizen
 
 #### 8. What are the steps from the time an application is put in, to the time the result of the PCA application is received? How long is the processing time? What information/documents need to be submitted for the PCA application?
 
-Individuals are not permitted to apply for PCA. Singapore-based companies have to apply for the PCA on behalf of their employees to enter Singapore for work. The company has to submit the PCA application using their CorpPass at the PCA application platform. Applications for the PCA can be made up to 60 days prior to the intended date of entry.
+Individuals are not permitted to apply for PCA. Singapore-based companies have to apply for the PCA on behalf of their employees to enter Singapore for work. The company has to submit the PCA application using their Corppass at the PCA application platform. Applications for the PCA can be made up to 60 days prior to the intended date of entry.
 
 Upon successful application under the PCA, an email will be sent to the point of contact provided by the company in the application.
 
-#### 9. I am unable to log in with my CorpPass.
+#### 9. I am unable to log in with my Corppass.
 
-Please ensure that you are using a CorpPass administrator account to log in to the Safe Travel Portal. A CorpPass administrator can also assign all government, or specific e-service access to a CorpPass user within the same company via the CorpPass Website. Please search for ‘Safe Travel Portal’ under the e-service catalogue.
+Please ensure that you are using a Corppass administrator account to log in to the Safe Travel Portal. A Corppass administrator can also assign all government, or specific e-service access to a Corppass user within the same company via the Corppass Website. Please search for ‘Safe Travel Portal’ under the e-service catalogue.
 
 #### 10. Is the PCA approval of my employee transferrable?
 

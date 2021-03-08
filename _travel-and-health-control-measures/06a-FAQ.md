@@ -454,9 +454,9 @@ The combined PCR and IgM HealthCert will be available soon. In the meantime, tra
 
 The test results will be sent to the traveller by either the clinic where the PDT was taken, or by their partnering clinical laboratory. This will be in the form of a digital certificate in accordance with the HealthCerts schema and standards. In the event the traveller does not have the ability to show the digital certificate on arrival at the destination country/region, the traveller may request for a hardcopy from the doctor.
 
-#### 4. Can travellers still use digital certificates without a SingPass account (e.g. foreign citizen who is a short-stay traveller)?
+#### 4. Can travellers still use digital certificates without a Singpass account (e.g. foreign citizen who is a short-stay traveller)?
 
-Travellers may still digitally authenticate and endorse their test certificate on <https://www.notarise.gov.sg> without signing in to SingPass. However, please note that the traveller will only be receive the endorsed HealthCert via email, with no additional copy stored in the SingPass mobile app.
+Travellers may still digitally authenticate and endorse their test certificate on <https://www.notarise.gov.sg> without signing in to Singpass. However, please note that the traveller will only be receive the endorsed HealthCert via email, with no additional copy stored in the Singpass mobile app.
 
 #### 5. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
 
