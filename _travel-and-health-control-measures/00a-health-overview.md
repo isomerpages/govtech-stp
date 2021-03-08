@@ -9,16 +9,16 @@ Singapore is reopening its borders in a controlled and safe manner to maintain i
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
   <b>COVID-19 Tests</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR Test”)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;"><a href="/health/covid19-tests/serology">Serology Test</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;"><a href="/health/covid19-tests/pre-departure-test">Pre-departure test</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR Test”)</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/serology">Serology Test</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pre-departure-test">Pre-departure test</a></li>
     </ol>
   </li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"> <b>Self-Isolation and Segregation Measures<b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Devices</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Devices</a></li>
     </ol>
   </li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc">
