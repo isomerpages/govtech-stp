@@ -14,7 +14,7 @@ Singapore is reopening its borders in a controlled and safe manner to maintain i
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pre-departure-test">Pre-departure test</a></li>
     </ol>
   </li>
-  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"> <b>Self-Isolation and Segregation Measures<b>
+  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"> <b>Self-Isolation and Segregation Measures</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
