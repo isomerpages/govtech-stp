@@ -40,6 +40,3 @@ All outbound travellers taking their PDTs in Singapore will receive a digital re
 After using <www.notarise.gov.sg>, the QR code of your digitally authenticated and endorsed test certificate will be e-mailed to you within 15 minutes. If you have presented your NRIC at the clinic, the QR code will also be automatically uploaded onto your SingPass mobile app. The QR code can be shown to foreign immigration & customs authorities, who may scan the QR code with any reader (e.g. normal phone camera) to verify the authenticity of the digital certificate. 
 
 
-
-
-
