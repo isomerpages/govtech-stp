@@ -60,4 +60,4 @@ All travellers will take a PCR test upon arrival in Singapore. Depending on the 
   </tbody>
   </table>
 
-All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a SingPass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results. 
+All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results. 

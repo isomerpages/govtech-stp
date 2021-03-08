@@ -11,8 +11,9 @@ permalink: /health/FAQ
  2. [Transport arrangements during SHN](#transport)
  3. [COVID-19 PCR Test](#pcrtest)
  4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
- 5. [On-arrival Test for Travellers entering Singapore](#OAT)
- 6. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
+ 5. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
+ 6. [On-arrival Test for Travellers entering Singapore](#OAT)
+ 7. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
 
 
 <div id="shnsdf"></div>
@@ -433,6 +434,41 @@ You can contact the relevant parties (SHN helpline, MOM, MOE) to reschedule the 
 #### 15. Are children in Singapore also subject to COVID-19 swabs/tests? 
 
 Yes. Children aged 12 and under (in that calendar year) who fit the suspect case definition for COVID-19 or are close contacts of infected cases are required to undergo a swab test. Children with acute respiratory infection but do not meet the suspect criteria may also opt to undergo a swab test. 
+
+Click here to [Go Back To Top](#top).
+
+
+<div id="outboundPDT"></div>
+
+## Pre-Departure Tests for Travellers Departing from Singapore
+
+#### 1. Do clinics need to help travellers digitally authenticate and endorse their HealthCerts?
+
+No, the traveller should digitally authenticate and endorse their HealthCerts themselves at <https://www.notarise.gov.sg>. When issuing the HealthCerts to them, clinics, labs and/or the tech provider should also highlight the requirement to the traveller. In the event that the tech providers are already performing digital authentication and endorsement via Application Programming Interfaces (API), travellers will receive an endorsed document without having to transact on the Notαrise portal.
+
+#### 2. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
+
+The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. This [page](/health/covid19-tests/pre-departure-test) will be updated accordingly when the combined schema is available.
+
+#### 3. How will travellers receive their Pre-Departure Test (PDT) certificate?
+
+The test results will be sent to the traveller by either the clinic where the PDT was taken, or by their partnering clinical laboratory. This will be in the form of a digital certificate in accordance with the HealthCerts schema and standards. In the event the traveller does not have the ability to show the digital certificate on arrival at the destination country/region, the traveller may request for a hardcopy from the doctor.
+
+#### 4. Can travellers still use digital certificates without a SingPass account (e.g. foreign citizen who is a short-stay traveller)?
+
+Travellers may still digitally authenticate and endorse their test certificate on <https://www.notarise.gov.sg> without signing in to SingPass. However, please note that the traveller will only be receive the endorsed HealthCert via email, with no additional copy stored in the SingPass mobile app.
+
+#### 5. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
+
+Please check the email spam folder. If the email is still not there, please contact <a href="mailto:notarise_support@tech.gov.sg">notarise_support@tech.gov.sg</a>. 
+
+#### 6. Can a third party transact on behalf of a traveller who requires the assistance to digitally authenticate and endorse their PDT certificate?
+
+Yes, a third party may do so if they have the digital certificate of the traveller(s) that they will be transacting on behalf of.
+
+#### 7. Where can GP clinics find out more about digital certificate capabilities and providing PDTs?
+
+Clinics may refer to the following circulars on the MOH website: [Mandating Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/mandating-digital-health-certificates-for-covid-19-predeparture-testing), and [Extension of Deadline for Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/extension-of-deadline-for-digital-health-certificates-for-covid19-pre-departure-testing).
 
 Click here to [Go Back To Top](#top).
 
