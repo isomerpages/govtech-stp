@@ -30,7 +30,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>Application via SafeTravel Portal</u>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using SingPass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using Singpass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
 </p>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants should have on hand the following details as part of the submission:
     <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -52,7 +52,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     </p>
    <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Entry approvals granted via the application portal are valid for +/- 1 day from the approved date of entry.</p>
       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><u>Application outside of SafeTravel Portal</u></p>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Eligible travellers who do not have a SingPass account and have exceptional reasons to enter Singapore on a short-term basis (e.g. death of a family member in Singapore) can write to <a href="mailto:ica_ncov_request@ica.gov.sg">ica_ncov_request@ica.gov.sg</a> to seek approval for entry. Applicants should provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>   
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Eligible travellers who do not have a Singpass account and have exceptional reasons to enter Singapore on a short-term basis (e.g. death of a family member in Singapore) can write to <a href="mailto:ica_ncov_request@ica.gov.sg">ica_ncov_request@ica.gov.sg</a> to seek approval for entry. Applicants should provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>   
     </td>
   </tr>
     <thead>
