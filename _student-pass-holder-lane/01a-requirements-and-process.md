@@ -5,7 +5,7 @@ permalink: /stpl/requirements-and-process
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">The traveller must be a Student’s Pass (STP) holder (including STP-IPA holder) in Ministry of Education (MOE) schools, Institutes of Higher Learning, Arts Institutions, Private Education Institutions (PEIs), and other schools/institutions (and their accompanying family members on Long Term Visit Passes or Short Term Visit Passes), where applicable. STP holders must obtain MOE’s entry approval before travelling to Singapore and should do so by applying through their education institutions.</span>
+<span class="font-size:16px;">The traveller must be a Student’s Pass (STP) holder (including STP-IPA holder) in Ministry of Education (MOE) schools, Institutes of Higher Learning, Arts Institutions, Private Education Institutions (PEIs), and other schools/institutions (e.g. Pre-Schools) (and their accompanying family members on Long Term Visit Passes or Short Term Visit Passes), where applicable. STP holders must obtain MOE’s entry approval before travelling to Singapore and should do so by applying through their education institutions.</span>
  <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">STP holders studying in MOE schools and government funded SPED schools will need to apply for entry into Singapore via their school.
        </li>
