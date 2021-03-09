@@ -172,6 +172,10 @@ MOH’s contact tracing officers will assess who among the close contacts should
 
 For travellers that requires to extend their visit pass/stay, please contact the enquiries via <COVID_SafeTravelEnquiries@mti.gov.sg>.  
 
+#### 27. Can i visit the shops in the public area (e.g. to buy food or beverages) within airport terminal or Jewel upon arrival in Singapore?
+
+No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the host, the use of public transportation is not allowed. They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controled itineraries after being notified of their negative test results.
+
 ### **Health Measures in Singapore**
 
 #### 27. What health measures will I be subjected to upon arrival in Singapore? 
