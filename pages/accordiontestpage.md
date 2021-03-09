@@ -132,7 +132,19 @@ input:checked + label + .content {
 ### SHN Calculator
 
 
-<iframe width="400" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<table>
+<thead>
+	<tr>
+	<th><iframe width="400" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
+	<th><iframe width="400" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
+	<th><iframe width="400" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
+	</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
+
 
 
 
