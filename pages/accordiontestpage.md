@@ -127,14 +127,12 @@ input:checked + label + .content {
 <p>Your content goes here.</p>
 </div>
 </body>
+</html>
 
+### SHN Calculator
 
-
-### SHN calculator
 
 <iframe src="https://www.checkfirst.gov.sg/c/shn-date-calculator" style=“width:100%;height:500px”></iframe>
-
------
 
 
 
