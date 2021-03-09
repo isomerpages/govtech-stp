@@ -127,7 +127,7 @@ The cost of SDF stay, inclusive of GST, is about $2,000. Additional charges may 
 You may reach out to the relevant agency managing your entry approval for assistance:
 - <ICA_nCOV_Request@ica.gov.sg>, for **ICA Long Term Pass Holders, Singapore Citizens and PRs**;
 - <COVID_SafeTravelEnquiries@mti.gov.sg>, for **Work Pass Holders under the Periodic Commuting Arrangement**;
-- <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>, for **Work Pass Holders in general**; and
+- <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx>, for **Work Pass Holders in general**; and
 - <https://beta.moe.gov.sg/contact-us/>, for **Student’s Pass Holders**.
 
 #### 15. How do I request a refund for my stay at Stay-Home Notice (SHN) dedicated facilities (SDF)?
@@ -135,7 +135,7 @@ You may reach out to the relevant agency managing your entry approval for assist
 Please note that once your entry application is approved, there will be no refunds of the payment made even if you do not enter Singapore as planned, unless there are extenuating reasons (eg. trip cancellation due to passing of next-of-kin etc). 
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
 - For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>.
-- For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
+- For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx>.
 - For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
 
 <div id="transport"></div>
@@ -295,7 +295,7 @@ All travellers would be informed of their swab test results verbally by phone or
 Please note that once your entry application is approved, there will be no refunds of the payment made even if you do not enter Singapore as planned, unless there are extenuating reasons (eg. trip cancellation due to passing of next-of-kin etc). 
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
 - For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>
-- For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
+- For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx>.
 - For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
 
 #### 9. What if I refused to go for the COVID-19 test?
