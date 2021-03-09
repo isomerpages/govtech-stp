@@ -288,7 +288,7 @@ If the pre-departure COVID-19 PCR test result is still positive, recovered indiv
 
 #### 7. How will I know my COVID-19 test result?
 
-All travellers would be informed of their swab test results verbally by phone or in person. For travellers who have a Singpass account, they can login to the HealthHub [website](https://www.healthhub.sg/myhealth) to access their swab test results once available. No other hardcopy or softcopy report would be issued.
+All travellers would be informed of their swab test results verbally by phone or in person. For travellers who have a Singpass account, they can login to the HealthHub [website](https://www.healthhub.sg/HealtheServices) to access their swab test results once available. No other hardcopy or softcopy report would be issued.
 
 #### 8. How do I request a refund for my COVID-19 test.
 
