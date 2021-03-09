@@ -316,8 +316,6 @@ The clinic will email the results to your email address. You will need to print 
 
 <sup>1</sup>The term “sponsor” refers to the Singapore company or government agency making the application on behalf of the traveller. The term “host” refers to the Singapore company or government agency that receives the traveller in the destination country/region.  For company-sponsored travellers, the sponsor will also be the host company.
 
-<sup>2</sup>Travellers are allowed to use private hire cars or taxis, but not public transport. 
-
 <sup>3</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle. 
 
 <sup>4</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using a recommended QR scanner app on phones with local data sim cards, or by submitting their passport numbers to businesses to be manually keyed into the “SafeEntry for Business” app.  
