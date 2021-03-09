@@ -27,7 +27,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Travellers sh
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a>. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot; and</li>
-                  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.</li>
+                  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.</li>
          </ol> 
     </td>
   </tr>
