@@ -296,7 +296,7 @@ Please note that once your entry application is approved, there will be no refun
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
 - For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>
 - For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
-- For **Student’s pass holders** please write in to <https://beta.moe.govhave.sg/contact-us/>. 
+- For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
 
 #### 9. What if I refused to go for the COVID-19 test?
 
