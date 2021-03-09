@@ -41,7 +41,7 @@ You are encouraged to apply for the SafeTravel Pass as early as possible, factor
 
 When the SafeTravel Pass application is approved, an approval letter will be issued to the sponsoring company / government agency by email. Singapore’s visa-free entry policies prior to COVID-19 will apply for Indonesian Citizens travelling under the RGL.     
  
-The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eservices.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
+The approved applicant will have to submit pre-trip health and travel history declarations as well as declare his/her accommodation electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/), within 3 days prior to the date of arrival in Singapore. 
  
 Prior to the traveller’s departure from Indonesia, the sponsoring company or government agency should submit the traveller’s certificate of negative result for COVID-19 PCR test taken within 72 hours before departure and latest controlled itinerary in Singapore at <http://eservices.ica.gov.sg/STO>, for applications for entry into Singapore from 9 Nov 2020 onwards.
  
