@@ -282,13 +282,13 @@ All RGL travellers are required to take a COVID-19 Polymerase Chain Reaction tes
 
 In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore for the test.
 
-#### 17.What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
+#### 17. What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
 Travellers who test positive for COVID-19 will be given medical attention/treatment immediately. The cost of the relevant medical treatments will be borne in full by the travellers. As such travellers are required be insured for any COVID-19 related medical treatment before travelling to Singapore. Click [here](/health/travelinsurance) for more information on this requirement.
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
-#### 18.Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
+#### 18. Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
 
 No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the host, the use of public transportation is not allowed. They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controlled itineraries after being notified of their negative test results.
 
