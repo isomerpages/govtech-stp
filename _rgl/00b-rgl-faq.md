@@ -288,27 +288,31 @@ Travellers who test positive for COVID-19 will be given medical attention/treatm
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
+#### 18.Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
+
+No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the host, the use of public transportation is not allowed. They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controlled itineraries after being notified of their negative test results.
+
 <div id ="publichealth"></div>
 
 ### Public Health Safeguards in Singapore
 
-#### 18. What health measures will I be subjected to upon arrival in Singapore?
+#### 19. What health measures will I be subjected to upon arrival in Singapore?
 
-Travellers should refer to the relevant Terms & Conditions, which will be issued with the approval letter, for details on the health measures that they must observe upon arrival in Singapore. Travellers can click [here](/rgl/terms-and-conditions) to view the Terms and Conditions.
+Travellers should refer to the relevant Terms & Conditions, for details on the health measures that they must observe upon arrival in Singapore. Travellers can click [here](/rgl/terms-and-conditions) to view the Terms and Conditions.
 
-In general, RGL travellers must take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival in Singapore. They will then commute immediately using a vehicle arranged by the host company/government agency to their declared self-sourced accommodation until a negative PCR test result is released (typically within 48 hours). Travellers and application sponsors should note that the declared accommodation during the first 14 days of stay in Singapore must be a non-residential address. Any cost incurred, e.g. post-arrival PCR test in Singapore and stay in the declared accommodation, will be borne by the traveller. Failure to comply with any of these requirements may result in the immediate revocation of the Safe Travel Pass.
+In general, RGL travellers must take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the host. <b>The use of public transportation is not allowed.</b> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). Travellers and application sponsors should note that the declared accommodation during the first 14 days of stay in Singapore must be a non-residential address. Any cost incurred, e.g. post-arrival PCR test in Singapore and stay in the declared accommodation, will be borne by the traveller. Failure to comply with any of these requirements may result in the immediate revocation of the Safe Travel Pass.
 
 Travellers can leave their accommodation only if they are tested negative for COVID-19 in Singapore. All travellers are required to adhere strictly to the controlled itinerary submitted; access to common facilities/amenities in the declared accommodation, which is beyond the scope of his/her declared business activities in Singapore, is prohibited. Travellers are also prohibited from taking public transportation during their stay in Singapore and can only commute using private hire cars/taxis or cohorted company transport that the host company/government agency may arrange.
 
 Travellers should take their temperature twice daily and report their health status to the host company/government agency. During their stay in Singapore, travellers must adhere to prevailing public health requirements, which includes the use of the TraceTogether mobile application and SafeEntry.
 
-#### 19. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 20. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data.
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
-#### 20. What is SafeEntry?
+#### 21. What is SafeEntry?
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
 An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in.
@@ -317,7 +321,7 @@ Alternatively, some venues allow you to complete SafeEntry by presenting your pa
 
 More information on the system can be found [here](https://www.safeentry.gov.sg/).
 
-#### 21. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
+#### 22. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
 
 Close contacts of an active COVID-19 case will be identified by MOH through contact tracing. Individuals assess to be a close contact of an active COVID-19 case may be issued a quarantine order (QO) under the Infectious Diseases Act. Click [here](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders) for more on the QO. Affected travellers should extend their visit pass, if duration of the QO exceeds the visit pass’ validity period. 
 
@@ -325,7 +329,7 @@ Close contacts of an active COVID-19 case will be identified by MOH through cont
 
 ### Return to Countries/Regions of Departure
 
-#### 22. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
+#### 23. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
 
 As the specific requirements may change over time, RGL travellers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
