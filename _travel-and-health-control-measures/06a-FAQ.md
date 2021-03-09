@@ -288,7 +288,7 @@ If the pre-departure COVID-19 PCR test result is still positive, recovered indiv
 
 #### 7. How will I know my COVID-19 test result?
 
-All travellers would be informed of their swab test results verbally by phone or in person. For travellers who have a Singpass account, they can login to the HealthHub [website](https://www.healthhub.sg/myhealth) to access their swab test results once available. No other hardcopy or softcopy report would be issued.
+All travellers would be informed of their swab test results verbally by phone or in person. For travellers who have a Singpass account, they can login to the HealthHub [website](https://www.healthhub.sg/HealtheServices) to access their swab test results once available. No other hardcopy or softcopy report would be issued.
 
 #### 8. How do I request a refund for my COVID-19 test.
 
@@ -296,7 +296,7 @@ Please note that once your entry application is approved, there will be no refun
 - For **ICA Long Term Pass Holders, Singapore Citizens and PRs**, you may write in to <ICA_nCOV_Request@ica.gov.sg>, stating the reasons for the refund request. 
 - For **Work Pass Holders under Periodic Commuting Arrangement**, please write in to <COVID_SafeTravelEnquiries@mti.gov.sg>
 - For **Work Pass Holders in general**, please write in to <https://service2.mom.gov.sg/efeedback/Forms/eFeedback.asp>.
-- For **Student’s pass holders** please write in to <https://beta.moe.govhave.sg/contact-us/>. 
+- For **Student’s pass holders** please write in to <https://beta.moe.gov.sg/contact-us/>. 
 
 #### 9. What if I refused to go for the COVID-19 test?
 

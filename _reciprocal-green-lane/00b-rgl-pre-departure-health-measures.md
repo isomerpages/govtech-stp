@@ -36,7 +36,7 @@ In addition to meeting the travel history requirement, all RGL-approved travelle
   </tr>
   <tr>
       <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
-    <td style="text-align:left;border-right:1px solid #D8D8D8;">Please refer to the list of accredited medical testing facilities designated by the German Government <a href="https://www.g-f-v.org/node/1233">here</a> and <a href="https://www.corona-diagnostik-insights.de.">here</a></td>
+    <td style="text-align:left;border-right:1px solid #D8D8D8;">Please refer to the list of accredited medical testing facilities designated by the German Government <a href="https://www.g-f-v.org/node/1233">here</a> and <a href="https://www.corona-diagnostik-insights.de">here</a></td>
   </tr>
     <tr>
       <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>2</sup></b></td>

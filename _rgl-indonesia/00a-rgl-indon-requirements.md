@@ -142,7 +142,7 @@ When the SafeTravel Pass-RGL application is approved, an approval letter will be
   </tr>
     <tr>
     <td rowspan="1" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-   <td style="font-size:16px;border-right:1px solid #D8D8D8;">Per the prevailing health measures, the local host* must arrange for transport for the traveller to commute directly from the immigration checkpoint to the declared self-sourced accommodation. Use of public transport is not allowed.
+   <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers who are holding a STP will undergo a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the local host*. <b>The use of public transportation is not allowed.</b>
     </td>
   </tr>
   <tr>

@@ -127,11 +127,25 @@ input:checked + label + .content {
 <p>Your content goes here.</p>
 </div>
 </body>
+</html>
+
+### SHN Calculator
+
+
+<table>
+<thead>
+	<tr>
+	<th><iframe width="200" height="400" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
+	<th><iframe width="200" height="400" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
+	<th><iframe width="200" height="400" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
+	</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 
 
-
------
 
 
 

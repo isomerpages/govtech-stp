@@ -16,7 +16,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Singapore residents who have exceptional reasons for seeking short-term entry into Singapore (e.g. death of a family member in Singapore).
        </li>
       </ol>
-<p style="line-height:1.0;"><span style="font-size:14px;"> <i><sup>1</sup> Work Pass holders, Student’s Pass (STP) holders, and STP-IPA holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the  <a href="/wphl/requirements-and-process">Work Pass Holder General Lane</a>. All other STP holders and STP-IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></i></span></p>
+<p style="line-height:1.0;"><span style="font-size:14px;"> <i><sup>1</sup> Work Pass holders, Student’s Pass (STP) holders, and STP-IPA holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane. All other Work Pass holders should apply for entry under the  <a href="/wphl/overview">Work Pass Holder General Lane</a>. All other STP holders and STP-IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></i></span></p>
             
 ### 2. Submit Approvals for Entry into Singapore
 
