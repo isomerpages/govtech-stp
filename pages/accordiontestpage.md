@@ -130,6 +130,9 @@ input:checked + label + .content {
 
 
 
+### SHN calculator
+
+<iframe src="https://www.checkfirst.gov.sg/c/shn-date-calculator" style=“width:100%;height:500px”></iframe>
 
 -----
 
