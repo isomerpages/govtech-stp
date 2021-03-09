@@ -12,7 +12,7 @@ Foreigners who are short-term visitors travelling from one of the following coun
 - New Zealand
 - Taiwan
 
-Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders can travel via the [Returning SC/PRs lane](/sc-pr/requirements-and-process), [Work Pass Holder General Lane](/wphl/requirements-and-process) or [Student’s Pass Holder Lane](/stpl/requirements-and-process). These travellers are not required to apply for an ATP to travel to Singapore.
+Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders can travel via the [Returning SC/PRs lane](/sc-pr/requirements-and-process), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/requirements-and-process). These travellers are not required to apply for an ATP to travel to Singapore.
 
 ### 2. Submit Applications for Air Travel Pass and Visa
 
