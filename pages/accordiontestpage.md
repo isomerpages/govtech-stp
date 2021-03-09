@@ -135,9 +135,9 @@ input:checked + label + .content {
 <table>
 <thead>
 	<tr>
-	<th><iframe width="300" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
-	<th><iframe width="300" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
-	<th><iframe width="300" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
+	<th><iframe width="200" height="500" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
+	<th><iframe width="200" height="500" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
+	<th><iframe width="200" height="500" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</th>
 	</tr>
 </thead>
 <tbody>
