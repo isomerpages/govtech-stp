@@ -24,10 +24,10 @@ Travellers who are subjected to a 14 + 7 SHN regime are the following:
 
 ## 14-day SHN Calculator
 
-<iframe width="300" height="500" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 7-day SHN Calculator
 
-<iframe width="300" height="500" src="https://www.checkfirst.gov.sg/c/shn-date-calculator-2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="800" src="https://www.checkfirst.gov.sg/c/shn-date-calculator-2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
