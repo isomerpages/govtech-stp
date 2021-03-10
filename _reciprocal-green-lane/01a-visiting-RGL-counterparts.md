@@ -93,7 +93,7 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
       <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Malaysia)<span style="color:red;">*</span></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from Malaysian Immigration Department <a href="https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from Malaysian Immigration Department <a href="https://mtp.imi.gov.my/myTravelPass/main">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">FAQ</a></td>
   </tr>
       <tr>
