@@ -182,7 +182,7 @@ If you are feeling unwell on the day of your COVID-19 PCR swab appointment, do n
 
 #### 31. Are there any materials I can disseminate to my employees to prepare them for their SHN and COVID-19 test in Singapore?
 
-For more information on the SHN guidelines in Singapore, you may refer to <https://www.mom.gov.sg/covid-19/frequently-asked-questions/loa-shn-matters>.
+For more information on the SHN guidelines in Singapore, you may refer to <https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-for-foreign-employees-and-shn-requirements>.
 
 ### **Testing Arrangements**
 
