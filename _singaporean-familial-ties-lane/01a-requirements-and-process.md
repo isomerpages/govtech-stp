@@ -64,7 +64,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <td  style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Visa Application (if required)</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore.</b></u> 
      <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>; and
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers who are existing visa holders can check the status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid).
        </li>
