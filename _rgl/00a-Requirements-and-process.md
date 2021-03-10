@@ -103,7 +103,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8;"><b>Travellers to Submit Visa Application (if Required)</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b><u>Prospective SafeTravel Pass-RGL travellers who are visa-required passport holders</u> should apply through the usual channels for a visa to travel to Singapore.</b>
       <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>; and </li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>; and </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who are existing visa holders can check their status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid). </li>
          </ol> 
     </td>
