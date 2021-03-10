@@ -61,7 +61,7 @@ Appointed Facilities are responsible for applying for a SafeTravel Pass for Conn
 
 #### 9. Do I need a visa for travel to Singapore under the Connect@Singapore initiative?
 
-The SafeTravel Pass application does not supplant the requirement to apply for a visa for entry to and stay in Singapore. Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore. Individuals can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a>.
+The SafeTravel Pass application does not supplant the requirement to apply for a visa for entry to and stay in Singapore. Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore. Individuals can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.
 
 #### 10. What is the application window for the SafeTravel Pass application under the Connect@Singapore initiative? 
 
