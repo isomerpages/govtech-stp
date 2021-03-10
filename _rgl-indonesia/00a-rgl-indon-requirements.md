@@ -136,8 +136,7 @@ When the SafeTravel Pass-RGL application is approved, an approval letter will be
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative COVID-19 test, taken within 72 hours before departure for Singapore; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket).
 </li>
-         </ol> 
-     <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Upon confirmation of his/her traveller scheme, the traveller will take a COVID-19 PCR test at the immigration checkpoint. </p>
+         </ol>
     </td>
   </tr>
     <tr>

@@ -162,7 +162,7 @@ Residents in Singapore seeking to travel to China for essential business or offi
 
 If the application is approved, a Letter of Invitation specifically for essential business or official travel under the RGL will be issued to the applicant. The approved applicant will thereafter submit a visa application and health declaration to the PRC Embassy in Singapore, which will issue the applicant a visa. The requirement to obtain a visa also applies to Singaporeans visiting China for less than 15 days, as the 15-day visa free facility for Singaporeans travelling to China remains suspended by the PRC government until further notice. For more details on visa application, please contact the PRC Embassy in Singapore.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Travellers will need to take a pre-departure COVID-19 Polymerase Chain Reaction test (“PCR test”) obtain a negative test result within 48 hours before departure. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese Government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). Other requirements may include keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure, [here](https://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm).
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the provincial/municipal authorities prior to departure for China. Travellers will need to take a pre-departure COVID-19 Polymerase Chain Reaction test (“PCR test”) obtain a negative test result within 48 hours before departure. Only IgM antibody serology test certificates which state that the test was conducted using the venous blood method will be accepted. Please refer to the guidelines by the Chinese Government [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm). Other requirements may include keeping the local authorities informed of the traveller’s flight details, and submitting the traveller’s closed-loop itinerary to the local authorities. Travellers should also confirm with the PRC Embassy in Singapore the latest procedures and requirements, including approval for closed-loop management, before their departure, [here](http://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm).
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in China?
 
@@ -642,7 +642,7 @@ The traveller should verify the latest requirements of the Indonesian authoritie
 
 ### **Pre-Departure COVID-19 Tests in Indonesia** 
 
-Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_list_26102020.pdf). 
+Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_listing.pdf). 
 
 <div id="annexbindon"> </div>
 
@@ -684,7 +684,7 @@ Persons of all nationalities who are legally resident in Singapore (i.e., Singap
 
 #### 2. How do Singapore residents apply to travel to Malaysia under the RGL?
 
-Residents in Singapore seeking to travel to Malaysia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Malaysia, which will file an application on behalf of the applicant on the MyTravelPass website (<http://mtp.imi.gov.my/>) at least 10 working days before departure. 
+Residents in Singapore seeking to travel to Malaysia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Malaysia, which will file an application on behalf of the applicant on the MyTravelPass website (<https://mtp.imi.gov.my/myTravelPass/main>) at least 10 working days before departure. 
 
 When making the online application, the sponsor should provide the following:
 1. Letter of invitation specifying entry for business/official purposes
