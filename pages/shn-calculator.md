@@ -9,7 +9,7 @@ The following SHN calculators are general guides that will help you determine th
 
 ### Calculator Instructions
 
-For travellers subject to 14 or 7-day SHN, input your date of arrival in Singapore into the respective calculators below.
+For travellers subject to 14 or 7-day SHN, input your date of arrival in Singapore into the respective [calculators](#cal) below.
 
 For travellers who are required to serve 14-day SHN followed by an additional 7-day SHN, use the following steps for the calculators below to determine the end of the SHN regime:
 - Calculate the expected end of the 14-day SHN by inputting the traveller’s arrival date in Singapore. 
@@ -21,6 +21,8 @@ Travellers who are subjected to a 14 + 7 SHN regime are the following:
 - Newly arrived Work Permit and S Pass workers in the Construction, Marine and Processes sectors
 
 -----
+
+<div id="cal"></div>
 
 ## 14-day SHN Calculator
 
