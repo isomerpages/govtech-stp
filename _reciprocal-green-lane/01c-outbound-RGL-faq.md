@@ -684,7 +684,7 @@ Persons of all nationalities who are legally resident in Singapore (i.e., Singap
 
 #### 2. How do Singapore residents apply to travel to Malaysia under the RGL?
 
-Residents in Singapore seeking to travel to Malaysia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Malaysia, which will file an application on behalf of the applicant on the MyTravelPass website (<http://mtp.imi.gov.my/>) at least 10 working days before departure. 
+Residents in Singapore seeking to travel to Malaysia for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in Malaysia, which will file an application on behalf of the applicant on the MyTravelPass website (<https://mtp.imi.gov.my/myTravelPass/main>) at least 10 working days before departure. 
 
 When making the online application, the sponsor should provide the following:
 1. Letter of invitation specifying entry for business/official purposes
