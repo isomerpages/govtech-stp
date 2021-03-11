@@ -444,7 +444,6 @@ Travellers/application sponsors may refer to the table below for payment details
           <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Test should be paid for and booked via this eService before the traveller’s arrival in Singapore. </td>
    </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
           <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, travellers must register and pay for the tests at the checkpoints using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
@@ -453,7 +452,6 @@ Travellers/application sponsors may refer to the table below for payment details
            </ol> </td>
    </tr>
      <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"></td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
           <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Test should be paid for and booked via <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  </td>
    </tr>
@@ -481,7 +479,6 @@ Travellers/application sponsors may refer to the table below for payment details
           <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use this <a href="https://safetravel.changiairport.com/">eService</a> to book and pay for the tests before the FDW/CN arrives in Singapore. </td>
    </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
           <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, the FDW/CN must register and pay for the tests at the checkpoint using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
@@ -492,7 +489,6 @@ Travellers/application sponsors may refer to the table below for payment details
      </td>
    </tr>
      <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"></td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
           <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  </td>
    </tr>
