@@ -376,3 +376,143 @@ All other Long-Term Pass holders, (i.e., Employment Pass holders, Dependant’s 
 
 Click here to [Go Back To Top](#top).
 
+<div id="payments"></div>
+
+## Payments and Refunds
+
+#### 1. Do I have to pay for my stay at a Stay-Home Notice Dedicated facility (SDF) if I request for it?
+
+Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn/sdf) are required to pay for the cost of the accommodation.
+
+#### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
+
+All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and SDF. Travellers who are sponsored may work out the payment arrangement with their application sponsors.
+
+When and how payment is collected, will depend on the travellers’ scheme of travel:
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Scheme of Travel</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/atp/overview">Air Travel Pass</a>  </td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test [here](https://safetravel.changiairport.com/#/), before arrival.</td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overviews">Connect@Singapore</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Please enquire and make the necessary arrangement with your Appointed Facility.</td>
+    </tr>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment is collected at the point of application for the SDF and exit-from-SHN COVID-19 PCR test.
+<br/><br/>
+Travellers will pay for the on-arrival COVID-19 PCR test upon arrival at the land checkpoint. Payment can be made using NETS/Mastercard/Visa or cash.
+</td>
+    </tr>
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival;<br/>Travellers arriving via land or sea transport will pay for the PCR test upon arrival.
+</td>
+   </tr> 
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and exit-from-SHN COVID-19 PCR test will be provided upon provisional approval of application.<br/><br/>To expedite the on-arrival COVID-19 PCR test procedures at the airport, travellers arriving via should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival.
+</td>
+   </tr> 
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-processs">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
+<br/><br/>
+Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
+       <br/>
+       <table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab </th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location </th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival in Singapore  </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Changi Airport  </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Test should be paid for and booked via this eService before the traveller’s arrival in Singapore. </td>
+   </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, travellers must register and pay for the tests at the checkpoints using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">NETS </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">MasterCard or VISA </li>
+           </ol> </td>
+   </tr>
+     <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"></td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Test should be paid for and booked via <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  </td>
+   </tr>
+        </tbody>
+       </table>
+</td>
+   </tr> 
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane (WPHL) </a> <br/><br/>(Foreign Domestic Workers and Confinement Nannies only)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
+<br/><br/>
+Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
+    <table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab </th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location </th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival in Singapore  </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Changi Airport  </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use this <a href="https://safetravel.changiairport.com/">eService</a> to book and pay for the tests before the FDW/CN arrives in Singapore. </td>
+   </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, the FDW/CN must register and pay for the tests at the checkpoint using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">NETS </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">MasterCard or VISA </li>
+           </ol> 
+           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Employers must reimburse their FDW/CNs, unless the FDWs/CNs were already working for them earlier on and left Singapore for personal reasons.</p>
+     </td>
+   </tr>
+     <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"></td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  </td>
+   </tr>
+        </tbody>
+       </table>
+      <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above are not applicable to FDWs serving a 14-day SHN at dedicated SHN facilities by themselves or with another FDW.</p>
+</td>
+   </tr>
+   
+   
+   
+   
+   
+   
+  </tbody>
+  </table>
+
+
+
+
+
+Click here to [Go Back To Top](#top).
+
