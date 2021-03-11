@@ -11,7 +11,7 @@ permalink: /brunei/rgl/terms-and-conditions
 
 **“Host”** refers to the company or government agency that receives the traveller in Singapore. For company-sponsored travellers, the sponsor is the host.
 
-**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for the first 14 days in Singapore, which is limited to travel between places of business and accommodation, with limited contact with the community.
+**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for up to the first 14 days in Singapore. The Controlled Itinerary allows for travel between places of business and accommodation, and business/official meetings.
 
 ### **A. Terms & Conditions for Sponsor**
 
