@@ -64,14 +64,18 @@ input:checked + label + .content {
 </style>
 </head>
 <body>
-
-
 <input type="checkbox" id="title1" />
 <label for="title1">Stay Home Notice (SHN) and Dedicated SHN Facility</label>
 <div class="content">
 		<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?</b>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a>, or via the Safe Travel Lanes dropdown list at the top navigation bar of the SafeTravel website.</p>
-	</p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?</b></p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"><b>Singapore Citizens/ Permanent Residents</p>
+		<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the link go.gov.sg/shnhotelneeds. All requests will be assessed on a case-by-case basis.
+</p>
+		<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"><b>Long-Term Pass Holder</b></p>
+			<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass Holders will have to secure a suitable accommodation to serve their SHN in prior to their arrival in Singapore.</p>
+</p>
 </div>
 
 <input type="checkbox" id="title2" />
@@ -105,15 +109,12 @@ input:checked + label + .content {
 
 
 
-#### 2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?
 
-**Singapore Citizens/ Permanent Residents**
 
-Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the link go.gov.sg/shnhotelneeds. All requests will be assessed on a case-by-case basis.
 
-**Long-Term Pass Holder**
 
-Long-Term Pass Holders will have to secure a suitable accommodation to serve their SHN in prior to their arrival in Singapore.
+
+
 
 #### 3. Do I have to pay for my stay at a dedicated Stay-Home Notice (SHN) facility if I request to opt-in?
 
