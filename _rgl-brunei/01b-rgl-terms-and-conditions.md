@@ -23,9 +23,9 @@ permalink: /brunei/rgl/terms-and-conditions
 
 2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in Singapore. 
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a health centre authorised by the Government of Brunei Darussalam and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. 
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a health centre authorised by (the Government of Brunei Darussalam) and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
 
-4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with.
+4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
 5. Should there be any changes in the information provided, such as the arrival date or time of the traveller, the Sponsor shall promptly inform the Singapore Ministry of Trade and Industry (henceforth referred to as "MTI") immediately via <COVID_SafeTravelEnquiries@mti.gov.sg>.
 
@@ -35,7 +35,7 @@ permalink: /brunei/rgl/terms-and-conditions
 
 #### General
 
-1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host. The burden of proving compliance with these terms and conditions, including adherence to the controlled itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include prompt answering of phonecalls or text messages to verify the traveller’s location.
+1. The traveller agrees to be bound by these terms and conditions by acceptance and use of the SafeTravel Pass. The traveller understands that the grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host. The burden of proving compliance with these terms and conditions, including adherence to the Controlled Itinerary, lies with the traveller. The issuing authority or its designate may request for said proof of compliance. Examples of proof of compliance that may be requested include prompt answering of phone calls or text messages to verify the traveller’s location.
 
 2. Any Visit Pass issued to a traveller holding the SafeTravel Pass is also subject to these terms and conditions. Non-compliance with any of these terms and conditions may result in the traveller having his/her Visit Pass cancelled and being refused entry.
 
@@ -46,24 +46,30 @@ permalink: /brunei/rgl/terms-and-conditions
 5. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
 
 6. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
+ authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
 #### Pre-Departure to Singapore
 
-7. The traveller must remain in Brunei Darussalam in the 14 days prior to his/her departure for Singapore (exclusive of the day of arrival).
+1. The traveller must remain in Brunei Darussalam in the 14 days prior to his/her departure for Singapore (exclusive of the day of arrival).
 
-8. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns. 
+2. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns.
 
-9. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
+3. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-10. The traveller must undertake a COVID-19 PCR test from a health centre authorised by the Government of Brunei Darussalam, at his/her own cost, within 72 hours prior to departure from Brunei Darussalam, and obtain the negative test results prior to departure.
+4. The traveller must undertake a COVID-19 PCR test from (a health centre authorised by the Government of Brunei Darussalam), at his/her own cost, within 72 hours prior to departure from Brunei Darussalam and obtain the negative test results prior to departure.
 
-11. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
+5. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
 
-12. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
+6. For those travelling by air, the traveller is only allowed to travel to Singapore via a non-stop flight from the exit country. Transit through other countries are prohibited. 
+
+7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. 
+
+8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
-: b. Valid visa (for visa-required passport holders); and
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam; and
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
+: b. Valid visa (for visa-required passport holders);
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam;
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
+: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
 
 #### Post-Arrival in Singapore
 
