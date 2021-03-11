@@ -70,8 +70,9 @@ input:checked + label + .content {
 <div id="shnsdf"></div>
 <label for="title1">Stay Home Notice (SHN) and Dedicated SHN Facility</label>
 <div class="content">
-	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?</b></p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?</b>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a>, or via the Safe Travel Lanes dropdown list at the top navigation bar of the SafeTravel website.</p>
+	</p>
 </div>
 
 <input type="checkbox" id="title2" />
