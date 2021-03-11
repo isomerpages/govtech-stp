@@ -3,7 +3,7 @@ title: Terms & Conditions
 permalink: /china/rgl/terms-and-conditions
 ---
 
-### **Terms & Conditions of SafeTravel Pass (For Residents in the People’s Republic of China using the Singapore-China Fast Lane to Travel to Singapore)<sup>1</sup>**
+### **Terms & Conditions of SafeTravel Pass (For Residents in the People’s Republic of China using the Reciprocal Green Lane (RGL)/Singapore-China Fast Lane for Essential Travel Between the People’s Republic of China and Singapore to Travel to Singapore)<sup>1</sup>**
 
 ### **Definitions**
 
