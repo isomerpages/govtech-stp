@@ -98,16 +98,40 @@ Pass holders who are already serving their SHN at SDFs may complete this <a href
   </tbody>
   </table>
 
-#### 9. What are the penalties for not abiding with the requirements of the Stay-Home Notice (SHN)?
+#### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
-Those who fail to comply with the SHN requirements, including undergoing the Covid-19 test, may be prosecuted in court for an offence under Singapore law, including the Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, you may be liable to imprisonment, or a fine, or both.
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the relevant agencies below, for assistance:
 
-In addition, if you are a:
-- Singapore permanent resident or long-term pass holder (Long-Term Visit Pass/ Dependant’s Pass/ Student’s Pass), your Re-entry Permit or passes may be revoked, or the validity shortened and you may be barred from entering Singapore in future.
-- Short-term visitor, your visit pass may be cancelled and you may be barred from entering Singapore in future.
-- Work pass holder, your work pass may be revoked.
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Scheme of Travel</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Contact</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a>  </td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a></td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-shn-form">https://go.gov.sg/moe-shn-form</a></td>
+    </tr>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">For travellers who have yet to enter Singapore:<a href="mailto:ICA_nCOV_Request@ica.gov.sg">ICA_nCOV_Request@ica.gov.sg</a><br/>For travellers already in Singapore:SHN Helpline at <b>6812 5555</b>
+</td>
+    </tr>
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://mom.gov.sg/feedbackSHN">https://mom.gov.sg/feedbackSHN</a>
+</td>
+   </tr> 
+  </tbody>
+  </table>
 
-Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
+
 
 #### 10. What if I have extenuating circumstances to attend to before going to the Stay-Home Notice Dedicated Facility (SDF) on my arrival in Singapore?
 
