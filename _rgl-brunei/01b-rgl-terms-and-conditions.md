@@ -3,7 +3,7 @@ title: Terms & Conditions
 permalink: /brunei/rgl/terms-and-conditions
 ---
 
-### **Terms & Conditions of SafeTravel Pass (For Residents in Brunei Darussalam using the Reciprocal Green Lane for Essential Travel Between Brunei Darussalam and Singapore to Travel to Singapore)<sup>1</sup>**
+### **Terms & Conditions of SafeTravel Pass (For Residents in Brunei Darussalam using the Reciprocal Green Lane (RGL) for Essential Travel Between Brunei Darussalam and Singapore to Travel to Singapore)<sup>1</sup>**
 
 ### **Definitions**
 
