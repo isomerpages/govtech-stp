@@ -64,18 +64,6 @@ input:checked + label + .content {
 </style>
 </head>
 <body>
-	
-## Click to jump to the following sections:
-
-<div id="top"></div>
-
- 1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
- 2. [Transport arrangements during SHN](#transport)
- 3. [COVID-19 PCR Test](#pcrtest)
- 4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
- 5. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
- 6. [On-arrival Test for Travellers entering Singapore](#OAT)
- 7. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)	
 
 
 <input type="checkbox" id="title1" />
@@ -103,7 +91,17 @@ input:checked + label + .content {
 </html>
 
 
+## Click to jump to the following sections:
 
+<div id="top"></div>
+
+ 1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
+ 2. [Transport arrangements during SHN](#transport)
+ 3. [COVID-19 PCR Test](#pcrtest)
+ 4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
+ 5. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
+ 6. [On-arrival Test for Travellers entering Singapore](#OAT)
+ 7. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)	
 
 
 
