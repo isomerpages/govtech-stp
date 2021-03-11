@@ -74,7 +74,7 @@ Travellers who have booked a suite prior to arrival should make payment for the 
 
 Travellers who are transferring to another suite mid-way through their SHN stay should make payment for the suite at their existing SDF when checking-out.
 
-### 3. I have already paid for my SDF stay when I applied for my entry approval/SafeTravel Pass. Will I be charged again by the SDF when I check into my SDF suite?
+#### 3. I have already paid for my SDF stay when I applied for my entry approval/SafeTravel Pass. Will I be charged again by the SDF when I check into my SDF suite?
 
 Travellers who have made pre-payment when obtaining approval to enter Singapore will be required to pay the difference from the higher cost of the SDF suite. This additional amount will be paid to the SDF at check-in.
 
