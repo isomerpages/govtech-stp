@@ -15,6 +15,7 @@ permalink: /health/FAQ
  6. [On-arrival Test for Travellers entering Singapore](#OAT)
  7. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
 
+Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
 <div id="shnsdf"></div>
 
@@ -22,51 +23,70 @@ permalink: /health/FAQ
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page [here](https://safetravel.ica.gov.sg/arriving/overview), or via the Safe Travel Lanes dropdown list at the top navigation bar of the SafeTravel website.
+The duration of your SHN, if required, depends on your 14-day travel history and prescribed condition of your entry into Singapore. For approved travellers, this requirement will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
 
-#### 2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?
+Prospective travellers may refer to this [table](/files/SHN-and-swab-summary.pdf), or the specific SafeTravel lane (can be accessed from this [page](/arriving/overview)) for information pertaining to SHN.
 
-**Singapore Citizens/ Permanent Residents**
+#### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the link go.gov.sg/shnhotelneeds. All requests will be assessed on a case-by-case basis.
+Singapore citizens and permanent residents whose residence is unsuitable to serve their [SHN](/health/shn), may appeal to serve their SHN at an [SDF](/health/shn/sdf). These appeals, which are subject to approval, can be submitted using this link. 
 
-**Long-Term Pass Holder**
+Non-resident travellers who not required to serve their SHN at an SDF, i.e. those serving 7-day SHN, but wish to do so, may make a direct reservation with the hotel. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-Long-Term Pass Holders will have to secure a suitable accommodation to serve their SHN in prior to their arrival in Singapore.
+#### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Home (SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which imposes the mandatory 14-day SHN at an SDF. Which SHN measure will apply to me?
 
-#### 3. Do I have to pay for my stay at a dedicated Stay-Home Notice (SHN) facility if I request to opt-in?
+The more stringent travel health control measures would apply. This means that a traveller who had transited to Singapore via a second country where mandatory [SDF](/health/shn/sdf) stay is required, will serve their [SHN](/health/shn) at an SDF upon arrival into Singapore.
 
-From 1 Jan 2021, costs of stay at dedicated SHN facilities for SCs and PRs will no longer be waived. Click [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) for more details.
+#### 4. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
-#### 4. I am returning from a country/place which is eligible to opt to serve the 14-day SHN at a suitable place but transiting through a country/place which required a 14-day SHN at a dedicated facility. What SHN measure would apply?
+SHN are legal notices issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
-Such travellers would be required to serve a 14-day SHN at a dedicated facility. No opt out option would be available and prevailing border measures would apply.
+Travellers should note that basic essentials such as portable water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you require any financial, emotional or psychological support during the SHN period you may call **6812 5555**.
 
-#### 5. I am unable to stay at the accommodation I had declared in my Stay-Home Notice (SHN) at the checkpoint. What should I do?
+#### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-If you are a **Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor**, please call 6812 5555.
+The SHN comes into effect **immediately** on the day of arrival in Singapore and ends after a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result is conveyed, whichever is later. Travellers may be alerted via, SMS or by the SDF concierge. See illustrations [here](/health/shn) or use this [calculator](/shn-calculator) to determine the end of your SHN.
 
-If you are a **Work Pass holder** please submit your request at <https://mom.gov.sg/feedbackSHN>.
+#### 6. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
-If you are a **Student Pass holder** please submit your request at <https://go.gov.sg/moe-shn-form>.
+As a condition for entry into Singapore, all travellers must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
 
-#### 6. How can persons (Singapore citizens/ permanent residents/ Long-Term Visit Pass holders) obtain their daily necessities while on a Stay-Home Notice (SHN)?
+In the event of an emergency, travellers may contact the SHN helpline at **6812 5555** for assistance and advice.
 
-You must remain in your place of residence or SHN Dedicated Facilities (SDF) at all times during the SHN period. Do not leave your residence/SDF, even if it is to purchase food and essentials. If necessary, you may opt for home delivery services or enlist the assistance of others for your daily necessities.
+#### 7. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
 
-If you require special assistance, such as financial or emotional or psychological support, during the SHN period, Singapore citizens/ permanent residents and Long-Term Visit Pass holders may call <u><b>6812 5555</b></u>.
+Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to upgrade to an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgradefaq) for more information.
 
-#### 7. When will the Stay-Home Notice (SHN) begin?
+#### 8. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
 
-The SHN will commence from the day of your return to Singapore.
+Travellers may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. For requests that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to this page for more details, or submit a request to the corresponding channels, below:
 
-For example, if you return to Singapore on 18 Jun 2020, and served with a 14-day period SHN, your SHN commences on 18 Jun 2020 and will cease to have effect after 2 Jul 2020, 12 pm or until the results of the COVID-19 test are notified to you, whichever is later.
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Travel Scheme</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Request Channel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/atp/overview">Air Travel Pass</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_ATP_Enquiries@caas.gov.sg">COVID_ATP_Enquiries@caas.gov.sg</a></td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Connect@Singapore</td>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg">COVID_SafeTravelEnquiries@mti.gov.sg</a></td>
+    </tr>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Periodic Commuting Arrangement  </td>
+    </tr>
+  </tbody>
+  </table>
 
-You are required to complete your SHN even if the result of your COVID-19 test is negative. You are required to continue to remain at your dedicated SHN facilities/place of residence till you have completed your SHN.
 
-#### 8. Will I be informed or given any notice that my Stay-Home Notice (SHN) has expired?
 
-You will not be informed/given a notice after completing your SHN. An SHN duration calculator is available [here](https://service2.mom.gov.sg/shn/shn-calculator/).
+
+
 
 #### 9. What are the penalties for not abiding with the requirements of the Stay-Home Notice (SHN)?
 
