@@ -12,8 +12,8 @@ permalink: /health/FAQ
  3. [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](#pcrtest)
  4. [Pre-Departure Test for Travellers Departing to Singapore](#inboundPDT)
  5. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
- 6. [On-arrival Test for Travellers entering Singapore](#OAT)
- 7. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
+ 6. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
+ 7. [Payments and Refunds](#payments)
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
