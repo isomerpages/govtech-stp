@@ -124,4 +124,4 @@ permalink: /brunei/rgl/terms-and-conditions
 
 -----
 
-<sup>1</sup> The Terms and Conditions in this document are specific to the Reciprocal Green Lane for Essential Travel Between Brunei Darussalam and Singapore. Green/Fast Lanes are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions.
+<sup>1</sup> The Terms and Conditions in this document are specific to the Reciprocal Green Lane for Essential Travel Between Brunei Darussalam and Singapore. Green Lanes/Fast Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions.
