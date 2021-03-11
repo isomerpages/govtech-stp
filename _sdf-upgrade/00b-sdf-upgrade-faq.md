@@ -12,6 +12,7 @@ permalink: /health/shn/sdfsuitefaq
 </ol>
 
 <div id="general"></div>
+
 ### General Queries
 
 #### 1.	Who can I share the suite with?
@@ -56,6 +57,7 @@ To make changes to your suite bookings, please first contact the SDF to ensure t
 Please do not make multiple suite bookings. SDFs will be asked to cancel all bookings if a traveller is found to have made multiple bookings.
 
 <div id="payment"></div>
+
 ### Payment and Cost Issues
 
 #### 1.	How much will I be charged if I am already serving my SHN in a SHN dedicated facility (SDF)? 
