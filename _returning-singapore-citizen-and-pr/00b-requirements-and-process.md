@@ -73,7 +73,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Travellers sh
 <tbody>
  <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation/SHN</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">For travellers eligible for <u>on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation after they are notified of their negative result and go about their activities in Singapore.<br><br><u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br><br>Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">For travellers eligible for <u>on-arrival PCR test with self-isolation until test results are out within 48 hours</u>, they can leave their declared accommodation only after they are notified of their negative result.<br><br><u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF</u>, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br><br>Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
   </tr>
   <thead>
