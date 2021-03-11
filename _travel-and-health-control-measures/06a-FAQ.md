@@ -84,16 +84,19 @@ Travellers may contact the concierge at the Stay-Home Notice Dedicated Facility 
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Respective schools/institutions</td>
     </tr>
-    
-   
-   
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:ICA_nCOV_Request@ica.gov.sg">ICA_nCOV_Request@ica.gov.sg</a></td>
+    </tr>
+      <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Pass holders who have obtained entry approvals but yet to enter Singapore may submit their request <a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx">here</a>.
+<br/>
+Pass holders who are already serving their SHN at SDFs may complete this <a href="https://go.gov.sg/shnhotelneedsform">form</a>.
+</td>
+   </tr> 
   </tbody>
   </table>
-
-
-
-
-
 
 #### 9. What are the penalties for not abiding with the requirements of the Stay-Home Notice (SHN)?
 
