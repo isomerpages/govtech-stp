@@ -3,7 +3,7 @@ title: Terms & Conditions
 permalink: /germany/rgl/terms-and-conditions
 ---
 
-### **Terms & Conditions of SafeTravel Pass (For Residents in Germany using the Reciprocal Green Lane (RGL) Arrangement for Essential Travel Between Singapore and Germany to Travel to Singapore<sup>1</sup>**
+### **Terms & Conditions of SafeTravel Pass (For Residents in Germany using the Reciprocal Green Lane (RGL) for Essential Travel Between Germany and Singapore to Travel to Singapore<sup>1</sup>**
 
 ### **Definitions**
 
@@ -11,7 +11,7 @@ permalink: /germany/rgl/terms-and-conditions
 
 **“Host”** refers to the company or government agency that receives the traveller in Singapore. For company-sponsored travellers, the sponsor is the host.
 
-**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for the first 14 days in Singapore. The Controlled Itinerary allows for travel between places of business and accommodation, and business/official meetings. 
+**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for up to the first 14 days in Singapore. The Controlled Itinerary allows for travel between places of business and accommodation, and business/official meetings. 
 
 ### **A. Terms & Conditions for Sponsor**
 
@@ -23,9 +23,9 @@ permalink: /germany/rgl/terms-and-conditions
 
 2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in singapore. 
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the German government and taken within 72 hours from departure; (ii) final Controlled Itinerary in Singapore (for the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal. 
-
-4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host. 
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the Government of Germany and taken within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
+ 
+4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
 5. Should there be any changes in the information provided, such as the arrival date or time of the traveller, the Sponsor shall promptly inform the Singapore Ministry of Trade and Industry (henceforth referred to as “MTI”) immediately via  <COVID_SafeTravelEnquiries@mti.gov.sg>. 
 
@@ -49,39 +49,45 @@ permalink: /germany/rgl/terms-and-conditions
 
 #### Pre-Departure to Singapore
 
-7. The traveller must not have left Germany in the 14 days prior to his/her departure for Singapore (exclusive of the day of arrival).
+1. The traveller must remain in Germany in the 14 days prior to his/her departure for Singapore (exclusive of the day of arrival).
  
-8. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns.
+2. The traveller must secure in advance his/her accommodation in Singapore, which must be a non-residential address and an individual room with en-suite toilet. For the avoidance of doubt, the traveller must stay at a non-residential address for the first 14 days of stay in Singapore. A non-residential address refers to any address which is not commonly associated with habitual living and includes for example hotels and inns.
 
-9. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
+3. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-10. The traveller must undertake a COVID-19 PCR test from accredited medical institutions designated by the German government, at his/her own cost, within 72 hours prior to departure from Germany, and obtain the negative results prior to departure. The health certificate should be in English or accompanied by an English translation and clearly state the time and date the PCR test was taken.
+4. The traveller must undertake a COVID-19 PCR test from accredited medical institutions designated by the Government of Germany, at his/her own cost, within 72 hours prior to departure from Germany, and obtain the negative results prior to departure.
 
-11. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
+5. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
 
-12. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
+6. For those travelling by air, the traveller is only allowed to travel to Singapore via a non-stop flight from the exit country. Transit through other countries are prohibited. 
+
+7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. 
+
+8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel; 
-: b. Valid visa (for travellers holding passports that require a visa to enter Singapore); and 
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the German government; and
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
+: b. Valid visa (for travellers holding passports that require a visa to enter Singapore); 
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the Government of Germany;
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
+: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
 
 #### Post-Arrival in Singapore
 
-13. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport. 
+1. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
 
-14. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
+2. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
-: b. Valid Visa (for travellers holding passports that require a visa to enter Singapore); 
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the Germany government; and
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
+: b. Valid Visa (for visa-required passport holders); 
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the Government of Germany;
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
+: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
 
-15. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation. 
- 
-16. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative. 
+3. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
-17. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must promptly report any deviation from the Controlled Itinerary to his/her Host in advance. 
+4. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
 
-18. For the duration of the traveller’s stay in Singapore, the traveller must:
+5. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must promptly report any deviation from the Controlled Itinerary to his/her Host in advance.
+
+6. For the duration of the traveller’s stay in Singapore, the traveller must:
 : a. download and utilise relevant mobile applications and technology solutions, including TraceTogether and SafeEntry, to facilitate contact tracing;
 : b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
@@ -89,36 +95,31 @@ permalink: /germany/rgl/terms-and-conditions
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
   : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same delegation to Singapore; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
+: f. remain contactable for the duration of his/her stay in Singapore 
 
 #### Post-Departure from Singapore
 
-19. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
+1. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
 
-20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
-
-21. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Germany.
+2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Germany.
 
 ### **C. Terms & Conditions for Host**
 
 #### General
 
-1. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The Host is responsible for monitoring and ensuring that the traveller complies with these terms and conditions and the SafeTravel Pass may be revoked, and/or future applications by the Host rejected, if any of the terms and conditions are not complied with by either the traveller or the Host. 
+1. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The Host is responsible for monitoring and ensuring that the traveller complies with these terms and conditions and the SafeTravel Pass may be revoked, and/or future applications by the Host rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
 2. The Host of the traveller must arrange for transportation to transport the traveller directly from the airport to the traveller’s declared place of accommodation.
 
-3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity. 
+3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall promptly inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
 
-4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall promptly inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity. 
+4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
 
-5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app and SafeEntry during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller. 
+5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app and SafeEntry during the duration of his/her stay. The Host and traveller must also remain contactable for the duration of the traveller’s stay in Singapore.
 
-6. Where the Host had provided a TraceTogether-compatible device to the traveller, it shall ensure that the TraceTogether app remains installed in the device, and all TraceTogether data is retained, for at least 14 days after the departure of the traveller. 
+6. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
 
-7. Where the Host had provided a TraceTogether-compatible device to the traveller, the Host will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Germany.
-
-8. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
-
-9. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
+7. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
 -----
 

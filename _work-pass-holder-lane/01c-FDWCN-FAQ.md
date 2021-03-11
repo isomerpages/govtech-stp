@@ -100,9 +100,31 @@ For existing FDWs returning from overseas, you must continue paying her salary o
 
 ### 8. What should I do if my FDW or CN falls sick during her SHN?
 
-If your FDW or CN is serving SHN at a:
-- Dedicated SHN facility, please inform the staff there to assist in making the necessary arrangements.
--	Non-dedicated SHN facility, you should ask her to wear a mask and take her to the nearest Public Health Preparedness Clinic (PHPC) or GP clinic. You should also inform MOM of such cases immediately by sending a WhatsApp message to <u>8361 8932</u>.
+<table>
+  <tr>
+    <th style="text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">If your FDW or nanny is serving SHN at a</th>
+    <th style="text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">You should</th>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SHN facility</td>
+    <td style="border-right:1px solid #D8D8D8;">
+    <ul>
+       <li> Inform the staff there to assist in making the necessary arrangements.</li>
+       <li> If your FDW or nanny develops a fever or acute respiratory infection, get her to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+     </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
+       <ul>
+       <li>[For non-emergency medical situations] Get your FDW or nanny to call the SHN helpline at 6812 5555.</li>
+       <li>[For medical emergencies] Get your FDW or nanny to call 995.</li>
+       <li> If she develops a fever or acute respiratory infection, get her to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+     </ul>
+    </td>   
+  </tr>
+ </table>
 
 ### 9. Can employers get a levy waiver for FDWs who go on home / overseas leave?
 

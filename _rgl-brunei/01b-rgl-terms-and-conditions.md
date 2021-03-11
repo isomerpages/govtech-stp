@@ -73,21 +73,22 @@ permalink: /brunei/rgl/terms-and-conditions
 
 #### Post-Arrival in Singapore
 
-13. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
+1. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
 
-14. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
+2. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
-: b. Valid Visa (for visa-required passport holders); and
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam; and
-: d. Return air ticket or proof of other transportation arrangements to depart Singapore.
+: b. Valid Visa (for visa-required passport holders);
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a health centre authorised by the Government of Brunei Darussalam;
+: d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
+: e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore.
 
-15. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
+3. The traveller must utilise the dedicated transportation arranged by the Host for transport between the airport and the traveller’s declared place of accommodation.
 
-16. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
+4. The traveller must remain isolated at his/her declared place of accommodation until his/her post-arrival COVID-19 PCR test result is confirmed to be negative.
 
-17. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must report any deviation from the Controlled Itinerary to his/her Host in advance.
+5. Where the traveller is unable to abide by the Controlled Itinerary for any reason, the traveller must ensure that any deviations are kept to a minimum, and must promptly report any deviation from the Controlled Itinerary to his/her Host in advance.
 
-18. For the duration of the traveller’s stay in Singapore, the traveller must:
+6. For the duration of the traveller’s stay in Singapore, the traveller must:
 : a. download and utilise relevant mobile applications and technology solutions, including TraceTogether and SafeEntry, to facilitate contact tracing;
 : b. take his/her temperature twice daily and report his/her health status including any respiratory symptoms such as cough/breathlessness, to the Host once in the morning, and once in the afternoon/evening;
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
@@ -95,14 +96,13 @@ permalink: /brunei/rgl/terms-and-conditions
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
   : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same travel delegation to Singapore; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
+: f. remain contactable for the duration of his/her stay in Singapore.
 
 #### Post-Departure from Singapore
 
-19. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
+1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
 
-20. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
-
-21. Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Brunei Darussalam.
+2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Brunei Darussalam.
 
 ### **C. Terms & Conditions for Host**
 
@@ -112,20 +112,16 @@ permalink: /brunei/rgl/terms-and-conditions
 
 2. The Host of the traveller must arrange for transportation to transport the traveller directly from the airport to the traveller’s declared place of accommodation.
 
-3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall promptly inform the government agency Sponsor, MTI in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
+3. Should there be any deviation in the traveller’s Controlled Itinerary, reported or otherwise, the Host shall promptly inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, of such deviation at the earliest possible opportunity.
 
 4. If the traveller is assessed to be a COVID-19 suspect case or confirmed to be COVID-19 positive, the Host shall inform the government agency Sponsor, or MTI in cases where there is no government agency Sponsor, at the earliest possible opportunity.
 
-5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app and SafeEntry during the duration of his/her stay. Where the traveller does not have a TraceTogether-compatible device, the Host shall be responsible for sourcing said device for the traveller.
+5. The Host shall be responsible for supervising the traveller’s compliance with these terms and conditions, including the use of the TraceTogether app and SafeEntry during the duration of his/her stay. The Host and traveller must also remain contactable for the duration of the traveller’s stay in Singapore.
 
-6. Where the Host had provided a TraceTogether-compatible device to the traveller, it shall ensure that the TraceTogether app remains installed in the device, and all TraceTogether data is retained, for at least 14 days after the departure of the traveller.
+6. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
 
-7. Where the Host had provided a TraceTogether-compatible device to the traveller, the Host will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Brunei Darussalam.
-
-8. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
-
-9. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
+7. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
 -----
 
-<sup>1</sup> The Terms and Conditions in this document are specific to the Reciprocal Green Lane for Essential Travel Between Brunei Darussalam and Singapore. Green/Fast Lanes are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions.
+<sup>1</sup> The Terms and Conditions in this document are specific to the Reciprocal Green Lane for Essential Travel Between Brunei Darussalam and Singapore. Green Lanes/Fast Lanes/Travel Corridor Arrangements are based on reciprocal arrangements negotiated bilaterally with the governments of various countries/regions, and hence may vary across the countries/regions.

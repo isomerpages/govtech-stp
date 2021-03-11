@@ -278,7 +278,7 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 
 Yes. The Government of the People’s Republic of China requires all passengers travelling from Singapore to Mainland China to take both a COVID-19 nucleic acid test and an IgM anti-body test within 2 days before boarding their departure flight to Mainland China.
 
-Please refer to the PRC Embassy’s website [here](http://www.chinaembassy.org.sg/eng/lsfw/t1835751.htm) for information on the pre-departure testing requirements.
+Please refer to the PRC Embassy's website [here](http://www.chinaembassy.org.sg/eng/lsfw/) for the latest information on the pre-departure testing requirements for travel to Mainland China. 
 
 For information on how to take a COVID-19 nucleic acid test in Singapore, please refer to Questions 42. For IgM anti-body testing, visitors should check with their clinic or testing centre on the availability and cost, as well as whether they can receive their test results in time for their departure flight to Mainland China. They are advised to make an appointment with the clinic or testing centre of their choice as early as possible.
 
