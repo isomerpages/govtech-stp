@@ -48,7 +48,7 @@ Please refer [here](/health/shn/sdfupgradefaq) for a more detailed set of FAQs.
 </td>
     </tr>
         <tr>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" colspan="4">For all travellers
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" colspan="4"><b>For all travellers</b>
 </td>
     </tr>
     <tr>
