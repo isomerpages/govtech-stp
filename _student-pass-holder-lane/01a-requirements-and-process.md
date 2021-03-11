@@ -119,7 +119,7 @@ permalink: /stpl/requirements-and-process
   </tr>
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, taxi, or private hire car from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of public transport is not allowed.<br/><br/>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, <a href="/health/faq#transport">taxi, or private hire car</a> from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of public transport is not allowed.<br/><br/>
 For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.
     </td>
   </tr>
