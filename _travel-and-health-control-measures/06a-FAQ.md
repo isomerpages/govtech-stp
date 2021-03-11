@@ -496,13 +496,47 @@ Travellers/application sponsors may refer to the table below for payment details
        </table>
       <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above are not applicable to FDWs serving a 14-day SHN at dedicated SHN facilities by themselves or with another FDW.</p>
 </td>
+   </tr>   
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane  </a><br/><br/>(All other Work Pass Holders)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">
+      Once the pass holder has arrived in Singapore, the employing company will receive an email, within 10 days, containing a Credit Card payment link for SDF-stay and exit-from-SHN COVID-19 PCR test from no-reply@pay.gov.sg. Depending on your email settings, the email may be found in the junk/spam folder. <br/><br/>
+Payment must be made no later than 7 days from the date the payment email was sent. <br/><br/>
+Example: If you received the payment email on 1 March, payment must be made by 8 March. <br/>
+       <table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab </th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location </th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival in Singapore  </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Changi Airport  </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Employing companies must use <a href="https://safetravel.changiairport.com/">this eService</a> to book and pay for the tests <b>before the arrival of their sponsored pass holders in Singapore. </b> </td>
    </tr>
-   
-   
-   
-   
-   
-   
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, travellers must register and pay for the tests at the checkpoints using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">NETS </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">MasterCard or VISA </li>
+           </ol> 
+           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Employing companies may need to reimburse their pass holders. <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-for-foreign-employees-and-shn-requirements">Find out who is responsible</a> for the test cost.</p>
+     </td>
+   </tr>
+     <tr style="border-bottom:1.2px solid #E8E8E8">
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Employing companies must use <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  
+       <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above are not applicable to FDWs serving a 14-day SHN at dedicated SHN facilities by themselves or with another FDW.</p>
+      </td>
+   </tr>
+        </tbody>
+       </table>
+</td>
+   </tr>
   </tbody>
   </table>
 
