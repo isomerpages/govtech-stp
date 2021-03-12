@@ -1,11 +1,11 @@
 ---
-title: Additional Responsibiities for Party Submitting Entry Application 
+title: Additional Responsibilities for Party Submitting Entry Application 
 permalink: /wphl/owph-additional-responsibilities
-third_nav_title: All Other Work Pass Holders employed by companies and their dependants
+third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 ## Additional Responsibilities for Party Submitting the Entry Application (Employer or Employment Agency)
 
-### Entry approval requirements
+### Entry Approval Requirements
 
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -107,7 +107,7 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 </li>        
 </ul>      
 
-### What companies must do when pass holders enter Singapore
+### What Companies Must Do when Pass Holders Enter Singapore
 <ul>
   <li style="font-size:18px; line-height:1.5;">Ensure they comply with the SHN upon arrival, if applicable.</li>
   <li style="font-size:18px; line-height:1.5;">Ensure they take all the required COVID-19 tests.</li>
@@ -118,7 +118,7 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 <li style="font-size:18px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
 </ul>
 
-### What pass holders must do during their SHN
+### What Pass Holders Must Do During Their SHN
 
 Pass holders must:
 <ul>
@@ -131,7 +131,7 @@ Pass holders must:
 <li style="font-size:18px; line-height:1.5;">Act responsibly based on advisories issued by the Singapore Government.</li>
 </ul>
 
-### Penalties for non-compliance
+### Penalties for Non-compliance
 
 <p style="font-size:18px;">Companies and pass holders have a joint duty to comply with the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
 <p style="font-size:18px;">If any party is unable to fulfil the requirements, please <b>do not</b> bring the pass holders into Singapore.</p>
