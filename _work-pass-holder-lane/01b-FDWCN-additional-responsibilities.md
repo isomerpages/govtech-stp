@@ -57,13 +57,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   </tr>
       <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions</b>
-    </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
+  <ol style="margin-top:0px; list-style-type:decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">The United Kingdom</li>
 </ol>
 </td>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice.</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">&nbsp;</td>
   </tr>
