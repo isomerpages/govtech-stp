@@ -6,7 +6,7 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 
 ## Entry Requirements and Process for All Other Work Pass Holders and their Dependants
 
-### 1. Before submitting an entry application
+### 1. Before Submitting an Entry Application
 
 Companies and pass holders must ensure that they can fulfil the [additional responsibilities](/wphl/owph-additional-responsibilities) before submitting an entry application. These include paying for their COVID-19 tests and stay at the dedicated Stay-Home Notice (SHN) facilities, if applicable.
 
@@ -100,7 +100,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
 
 
 
-### For more information
+### For More Information
 
 Please refer to our FAQs [here](/wphl/owph-faq).
 
