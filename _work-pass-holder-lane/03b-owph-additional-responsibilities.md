@@ -3,7 +3,7 @@ title: Additional Responsibilities for Party Submitting Entry Application
 permalink: /wphl/owph-additional-responsibilities
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
-## Additional Responsibilities for Party Submitting the Entry Application (Employer or Employment Agency)
+## Additional Responsibilities for Party Submitting the Entry Application
 
 ### Entry Approval Requirements
 
@@ -44,7 +44,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) at a home or a hotel.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) at home or a hotel.</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
 </ol> </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
@@ -122,7 +122,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 
 Pass holders must:
 <ul>
-<li style="font-size:18px; line-height:1.5;">Remain in their SHN accommodation at all times</li>
+<li style="font-size:18px; line-height:1.5;">Remain in their SHN accommodation at all times.</li>
 <li style="font-size:18px; line-height:1.5;">Carry their mobile phones with internet connection at all times. They must respond to MOM’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>. They must also report their health status using the FWMOMCare app.</li>
 <li style="font-size:18px; line-height:1.5;">(Only for those who are issued an electronic monitoring device by the checkpoint) Wear the device and charge it throughout the SHN.</li>
 <li style="font-size:18px; line-height:1.5;">Take all the required COVID-19 tests.</li>
