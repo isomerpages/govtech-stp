@@ -79,13 +79,13 @@ Find out who is responsible for paying for the pass holders' COVID-19 treatment 
     <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
   </tr>
   <tr>
-    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Left Singapore for personal reasons</td>
-    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers and FDWs should come to a mutual agreement on who bears the costs or how to share them.</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Left Singapore for personal reasons</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers and FDWs should come to a mutual agreement on who bears the costs or how to share them.</td>
   </tr>
   <tr>
-    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">New FDWs on Work Permit in-principle approvals</td>
-    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Plan to enter Singapore for employment</td>
-    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">New FDWs on Work Permit in-principle approvals</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Plan to enter Singapore for employment</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
   </tr>
 </table>
 The party who submitted the FDW’s entry approval request must pay for the costs.
