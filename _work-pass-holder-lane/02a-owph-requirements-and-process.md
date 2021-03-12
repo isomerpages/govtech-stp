@@ -98,6 +98,8 @@ Work pass holders are also responsible for ensuring their dependants comply with
     </tbody>
 </table>
 
+
+
 ### For more information
 
 Please refer to our FAQs [here](/wphl/owph-faq).
