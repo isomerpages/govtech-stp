@@ -57,7 +57,7 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Work pass holders employed by companies, including those on IPA or Letter of Consent (LOC), and their dependants*^ <br/><br/><i><sup>*</sup>Foreigners with Long-Term Visit Passes granted by the Immigration & Checkpoints Authority (ICA) must apply for entry under the <a href="/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a>, even if their LOCs were granted by MOM.</i><br/><br/> <i>ˆExcludes Work Holiday Pass (WHP) holders</i>
   </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for the WPHL-pass holders using Corppass. Details <a href="/wphl/owph-requirements-and-process">here</a>.</td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for their pass holders using Corppass. Details <a href="/wphl/owph-requirements-and-process">here</a>.</td>
 </tr>            
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">
