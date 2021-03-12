@@ -53,15 +53,17 @@ Work pass holders are also responsible for ensuring their dependants comply with
 <tbody>
   <tr>
     <td style="font-size:17px;border-left:1px solid #D8D8D8;border-top:2px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Confirm the flight/transport</b></td>
-    <td style="font-size:17px;border-right:1px solid #D8D8D8;border-top:2px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must confirm the flight/transport <b>immediately</b> and arrange for the FDW/CN to enter Singapore.</td>
+    <td style="font-size:17px;border-right:1px solid #D8D8D8;border-top:2px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Please confirm the flight/transport <b>immediately</b> and arrange for the pass holders to enter Singapore.</td>
   </tr>
     <tr>
     <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Buy medical insurance that covers COVID-19</b></td>
-    <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies must buy a COVID-19 medical insurance for the FDW/CN <b>before she arrives in Singapore.</b> 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:17px; line-height:1.5;">The insurance must cover <b>at least $10,000</b> for medical expenses if she develops COVID-19 symptoms or tests positive within 14 days of arrival in Singapore.</p>
-      <p style="margin-top:10px; margin-bottom:0px; font-size:17px; line-height:1.5;">Please check with the insurer whether the FDW/CN’s existing medical insurance plan meets the required coverage. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance" target="_blank">these insurers</a>.</p>
-      </td>
-  </tr>
+      <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED">
+        <ol>      
+<li style="font-size:17px; line-height:1.5;">For all (new and existing) Work Permit, Training Work Permit and S Pass holders, employers must buy a COVID-19 medical insurance for them before they arrive in Singapore. <br/><br/> The insurance must cover at least $10,000 for medical expenses if the workers develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. <br/><br/>Please check with your insurer whether your workers’ existing medical insurance plans meet the required coverage. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.</li>
+<li style="font-size:17px; line-height:1.5;">For all other pass holders (e.g. Employment Pass holders or dependants), they are encouraged to buy medical insurance with the appropriate coverage before entering Singapore as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</li>
+</ol>
+</td>
+      </tr>
      <tr>
     <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Fulfil the entry approval requirements</b></td>
     <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers/Employment agencies and the FDW/CN must comply with the entry approval requirements listed in the approval email. Otherwise, enforcement actions will be taken. 
