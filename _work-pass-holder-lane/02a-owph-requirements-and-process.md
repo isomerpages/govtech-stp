@@ -74,16 +74,16 @@ Work pass holders are also responsible for ensuring their dependants comply with
 <table>
 <thead>
   <tr>
-    <th style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">For IPA holders of:</th>
-<th style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">If their Short-Term Visit Passes (STVPs) are expiring</th>
+    <th style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">For IPA holders of:</th>
+<th style="font-size:17px;border-top:3px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">If their Short-Term Visit Passes (STVPs) are expiring</th>
 <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Employment Pass, S Pass, Dependant’s Pass or Long Term Visit Pass</td>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Within 1 week. Please <a href="https://www.mom.gov.sg/extend-stay">request for time to do the issuance</a> while the pass holders serve SHN.<br/><br/> Example: If the STVP expires on 10 February, please submit this request from 3 February.
+    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Employment Pass, S Pass, Dependant’s Pass or Long Term Visit Pass</td>
+    <td style="font-size:17px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Within 1 week. Please <a href="https://www.mom.gov.sg/extend-stay">request for time to do the issuance</a> while the pass holders serve SHN.<br/><br/> Example: If the STVP expires on 10 February, please submit this request from 3 February.
 </td>
   </tr>
   <tr>
