@@ -14,7 +14,6 @@ For pass holders who have recovered from COVID-19, they should only depart for S
 If the pass holder’s first positive COVID-19 PCR test was taken on 1 March 2021, he/she can only depart for Singapore from 22 March 2021.
 
 Pass holders should not travel if feeling unwell.
-
 <div id="#2"></div>
 ### 2. Who is responsible for the costs of the work pass holder’s entry approval requirements, including COVID-19 tests, transport and SHN accommodation, as applicable?
 
@@ -43,30 +42,29 @@ For other work passes, employers and employees should come to a mutual agreement
 </tr>
 </table>
 
-
 ### 3. What should I do if my pass holder falls sick during their SHN?
 
 <table>
   <tr>
-    <th style="text-align:center; font-size:16px; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;background-color:#EDEDED">If your pass holder is serving SHN at a</th>
+    <th style="text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;background-color:#EDEDED">If your pass holder is serving SHN at a</th>
     <th style="font-size:16px; text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">You should</th>
   </tr>
   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Dedicated SHN facility</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Dedicated SHN facility</td>
     <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
     <ul>
-       <li style="font-size:16px;"> Inform the staff there to assist in making the necessary arrangements.</li>
-       <li style="font-size:16px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+       <li> Inform the staff there to assist in making the necessary arrangements.</li>
+       <li> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>
     </td>
   </tr>
   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
        <ul>
-       <li style="font-size:16px;">(For non-emergency medical situations) Get your pass holder to call the SHN helpline at 6812 5555.</li>
-       <li style="font-size:16px;">(For medical emergencies) Get your pass holder to call 995.</li>
-       <li style="font-size:16px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+       <li>(For non-emergency medical situations) Get your pass holder to call the SHN helpline at 6812 5555.</li>
+       <li>(For medical emergencies) Get your pass holder to call 995.</li>
+       <li> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>
     </td>   
   </tr>
