@@ -1,10 +1,10 @@
 ---
-title: Frequently Asked Questions
+title: FAQs
 permalink: /wphl/owph-faq
-third_nav_title: All Other Work Pass Holders employed by companies and their dependants
+third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 
-## FAQ for All Other Work Pass Holders employed by companies and their dependants
+## Frequently Asked Questions
 
 <div id="#1"></div>
 ### 1. My pass holders have recovered from COVID-19, when can I bring them into Singapore?
