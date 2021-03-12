@@ -118,6 +118,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <li style="font-size:18px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
 </ul>
 
+<div divid="FWResponsibilities"></div>
 ### What Pass Holders Must Do During Their SHN
 
 Pass holders must:
