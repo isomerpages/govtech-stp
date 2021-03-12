@@ -57,7 +57,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
   </tr>
     <tr>
     <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Buy medical insurance that covers COVID-19</b></td>
-      <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED">
+      <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8; >
         <ol style="list-style-type:disc;">      
 <li style="font-size:17px; line-height:1.5;">For all (new and existing) Work Permit, Training Work Permit and S Pass holders, employers must buy a COVID-19 medical insurance for them <b>before they arrive in Singapore.</b> <br/><br/> The insurance must cover <b>at least $10,000</b> for medical expenses if the workers develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. <br/><br/>Please check with your insurer whether your workers’ existing medical insurance plans meet the required coverage. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.</li>
 <li style="font-size:17px; line-height:1.5;">For all other pass holders (e.g. Employment Pass holders or dependants), they are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</li>
@@ -82,13 +82,13 @@ Work pass holders are also responsible for ensuring their dependants comply with
 </thead>
 <tbody>
   <tr>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Employment Pass, S Pass, Dependant’s Pass or Long Term Visit Pass</td>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Within 1 week. Please <a href="https://www.mom.gov.sg/extend-stay">request for time to do the issuance</a> while the pass holders serve SHN.<br/><br/> Example: If the STVP expires on 10 February, please submit this request from 3 February.
+    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;">Employment Pass, S Pass, Dependant’s Pass or Long Term Visit Pass</td>
+    <td style="font-size:17px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  ">Within 1 week. Please <a href="https://www.mom.gov.sg/extend-stay">request for time to do the issuance</a> while the pass holders serve SHN.<br/><br/> Example: If the STVP expires on 10 February, please submit this request from 3 February.
 </td>
   </tr>
   <tr>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">Work Permit</td>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED">The validities of their STVPs and IPAs will be automatically extended by 2 weeks. No letters will be issued for this extension.
+    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8; ">Work Permit</td>
+    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8; " >The validities of their STVPs and IPAs will be automatically extended by 2 weeks. No letters will be issued for this extension.
 </td>
   </tr>
   </tbody>
