@@ -26,12 +26,12 @@ Work pass holders are also responsible for ensuring their dependants comply with
   <tr>
     <td rowspan="2" style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED"><b>Submit an entry application</b></td>
     <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">The employing company must submit the entry application for the work pass holder (includes those on Letter of Consent) and his/her dependants.<br/> To proceed, please complete these steps:
-<ul>      
+<ol>      
 <li style="font-size:17px; line-height:1.5;">Ensure the pass holders have a suitable accommodation to serve SHN, unless they are required to serve SHN at dedicated SHN facilities.</li>
 <li style="font-size:17px; line-height:1.5;">Ensure the pass holders fully understand and are able to comply with the conditions imposed during the SHN, if applicable. </li>
 <li style="font-size:17px; line-height:1.5;">Ensure there are available flights/transport and the pass holders can travel to Singapore on their planned arrival date.</li>
   <li style="font-size:17px; line-height:1.5;">Submit their entry application using <a href="https://eservices.ica.gov.sg/STO/">our portal</a>.</li>
-</ul>
+</ol>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Before submitting the application, please complete these steps: </p>
 <ol style="margin-top:0px;">
