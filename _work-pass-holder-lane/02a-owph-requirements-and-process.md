@@ -30,7 +30,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
 <li style="font-size:17px; line-height:1.5;">Ensure the pass holders have a suitable accommodation to serve SHN, unless they are <a href="/wphl/owph-additional-responsibilities">required to serve SHN at dedicated SHN facilities</a>.</li>
 <li style="font-size:17px; line-height:1.5;">Ensure the pass holders fully understand and are able to comply with the <a href="/wphl/owph-additional-responsibilities#FWResponsibilities">conditions imposed during the SHN</a>, if applicable. </li>
 <li style="font-size:17px; line-height:1.5;">Ensure there are available flights/transport and the pass holders can travel to Singapore on their planned arrival date.</li>
-  <li style="font-size:17px; line-height:1.5;">Submit their entry application using <a href="https://eservices.ica.gov.sg/STO/">our portal</a>.</li>
+  <li style="font-size:17px; line-height:1.5;">Submit their entry application using the <a href="https://eservices.ica.gov.sg/STO/">SafeTravel Portal</a>.</li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;"><b> Note: </b></p>      
      <ol style="list-style-type:disc;">      
@@ -39,7 +39,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
 <li style="font-size:17px; line-height:1.5;">Please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.
 </li>
 <li style="font-size:17px; line-height:1.5;">Ensure there are available flights/transport and the pass holders can travel to Singapore on their planned arrival date.</li>
-  <li style="font-size:17px; line-height:1.5;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs.</a>.</li>
+  <li style="font-size:17px; line-height:1.5;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs.</a></li>
 </ol> 
       <p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Once the application is approved, you will receive an approval email.</p>
  </td>
@@ -87,8 +87,8 @@ Work pass holders are also responsible for ensuring their dependants comply with
 </td>
   </tr>
   <tr>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8; ">Work Permit</td>
-    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8; " >The validities of their STVPs and IPAs will be automatically extended by 2 weeks. No letters will be issued for this extension.
+    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Work Permit</td>
+    <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; " >The validities of their STVPs and IPAs will be automatically extended by 2 weeks. No letters will be issued for this extension.
 </td>
   </tr>
   </tbody>
@@ -97,7 +97,6 @@ Work pass holders are also responsible for ensuring their dependants comply with
   </tr>
     </tbody>
 </table>
-
 
 
 ### For More Information
