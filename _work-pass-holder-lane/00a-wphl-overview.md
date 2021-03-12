@@ -1,5 +1,5 @@
 ---
-title: Work Pass Holder General Lane - Overview
+title: Work Pass Holder General Lane
 permalink: /wphl/overview
 ---
 
@@ -22,8 +22,8 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign domestic workers</li>
-  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Confinement nannies</li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign domestic workers(FDWs)</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Confinement nannies(CNs)</li>
   </ol>  
   </td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employers or employment agents can apply for the <a href="/wphl/fdwcn-requirements-and-process">WPHL-FDWs and CNs</a></td>
@@ -43,17 +43,32 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can apply for <a href="/rgl/overview">RGL.</a></td>
 </tr>
 <tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Work Permit, Training Work Permit and S Pass holders in the Construction, Marine shipyard and Process sectors who are not entering Singapore with their dependants</td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Workers in the Construction, Marine shipyard or Process sector who meet <b>all of these conditions:</b>
+  <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Are on a Work Permit, Training Work Permit or S Pass, or in-principle approval (IPA) for any of these 3 passes</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Not entering Singapore with dependants</li>
+  </ol>     
+  </td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can request for <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore">Ministry of Manpower (MOM)’s entry approval.</a></td>
+</tr>
+<tr>
+<td colspan="2" style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">All Other Pass Holders:</td>
+</tr>      
+<tr>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Work pass holders employed by companies, including those on IPA or Letter of Consent (LOC), and their dependants*^ <br/><br/><sup>*</sup>Foreigners with Long-Term Visit Passes granted by the Immigration & Checkpoints Authority (ICA) must apply for entry under the Familial Ties Lane, even if their LOCs were granted by MOM.<br/><br/> <sup>ˆ</sup>Excludes Work Holiday Pass (WHP) holders
+  </td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for the <a href="/wphl/owph-requirements-and-process">WPHL - pass holders</a> using Corppass</td>
 </tr>            
 <tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">All other pass holders and their dependants*, including those on:
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">In-principle approval Or</li>
-  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Letter of Consent (LOC)</li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">WHP holders</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Personalised Employment Pass (PEP) holders (without employers) and their dependants
+</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">EntrePass holders (without Corppass) and their dependants</li>
   </ol>
   </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for the <a href="">WPHL - pass holders</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">WHP, PEP and EntrePass holders can request for MOM’s entry approval</td>
 </tr>
 
 
@@ -66,12 +81,10 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">EntrePass holders (without Corppass) and their dependants</li>
   </ol>
   </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">WHP, PEP and EntrePass holders can request for <a href="">MOM's entry approval.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">WHP, PEP and EntrePass holders can request for <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore">MOM's entry approval.</a></td>
 </tr>
 </tbody>
 </table>
-
-<sup>*</sup>Foreigners with Long-Term Visit Passes granted by the Immigration & Checkpoints Authority (ICA) must apply for entry under the Familial Ties Lane, even if their LOCs were granted by MOM.
 
 As the global situation evolves, Singapore will continue to adjust its border measures to manage the risk of importation and transmission to the community. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the  [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests), where applicable.
 
