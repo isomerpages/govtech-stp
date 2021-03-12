@@ -107,7 +107,7 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 </li>        
 </ul>      
 
-<u><b>What companies must do when the FDW/CN enters Singapore</b></u>
+### What companies must do when the FDW/CN enters Singapore
 
 Employers/employment agencies must:
 <ul>
