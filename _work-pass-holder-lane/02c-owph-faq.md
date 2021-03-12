@@ -7,6 +7,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 ## Frequently Asked Questions
 
 <div id="#1"></div>
+
 ### 1. My pass holders have recovered from COVID-19, when can I bring them into Singapore?
 
 For pass holders who have recovered from COVID-19, they should only depart for Singapore <b>at least 21 days after</b> their first positive COVID-19 polymerase chain reaction (PCR) test. Otherwise, they will be denied boarding on flights to Singapore.
