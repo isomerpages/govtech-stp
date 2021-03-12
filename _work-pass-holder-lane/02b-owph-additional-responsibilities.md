@@ -98,11 +98,11 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 <i><b>Note:</b></i> 
 
 <ul>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
 <ul>
-  <li style="font-size:16px; line-height:1.5;">South Africa</li>
-  <li style="font-size:16px; line-height:1.5;">The United Kingdom</li>
+  <li style="font-size:18px; line-height:1.5;">South Africa</li>
+  <li style="font-size:18px; line-height:1.5;">The United Kingdom</li>
 </ul>
 </li>        
 </ul>      
@@ -111,13 +111,13 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 
 Employers/employment agencies must:
 <ul>
-  <li style="font-size:16px; line-height:1.5;">Ensure they comply with the SHN upon arrival, if applicable.</li>
-  <li style="font-size:16px; line-height:1.5;">Ensure they take all the required COVID-19 tests.</li>
-<li style="font-size:16px; line-height:1.5;">Arrange for them to travel using the designated transport, unless they are serving SHN at dedicated SHN facilities.</li>
-<li style="font-size:16px; line-height:1.5;">Get them to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on their mobile phones. They must respond to the Ministry of Manpower (MOM)’s phone calls, WhatsApp video calls or SMSes **within 1 hour**. This includes ensuring their prepaid cards have sufficient value. They must also report their health status using the FWMOMCare app.</li>
-<li style="font-size:16px; line-height:1.5;">(Only for pass holders who are issued an electronic monitoring device by the checkpoint) Ensure they install the mobile application and register the device **within 1 hour of arriving at their SHN accommodation.**</li>
-<li style="font-size:16px; line-height:1.5;">Provide them with food and other daily essentials throughout their SHN, unless they are serving SHN at dedicated SHN facilities.</li>
-<li style="font-size:16px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
+  <li style="font-size:18px; line-height:1.5;">Ensure they comply with the SHN upon arrival, if applicable.</li>
+  <li style="font-size:18px; line-height:1.5;">Ensure they take all the required COVID-19 tests.</li>
+<li style="font-size:18px; line-height:1.5;">Arrange for them to travel using the designated transport, unless they are serving SHN at dedicated SHN facilities.</li>
+<li style="font-size:18px; line-height:1.5;">Get them to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on their mobile phones. They must respond to the Ministry of Manpower (MOM)’s phone calls, WhatsApp video calls or SMSes **within 1 hour**. This includes ensuring their prepaid cards have sufficient value. They must also report their health status using the FWMOMCare app.</li>
+<li style="font-size:18px; line-height:1.5;">(Only for pass holders who are issued an electronic monitoring device by the checkpoint) Ensure they install the mobile application and register the device **within 1 hour of arriving at their SHN accommodation.**</li>
+<li style="font-size:18px; line-height:1.5;">Provide them with food and other daily essentials throughout their SHN, unless they are serving SHN at dedicated SHN facilities.</li>
+<li style="font-size:18px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
 </ul>
 
 <div id="FWResponsibiities"></div>
@@ -126,19 +126,19 @@ Employers/employment agencies must:
 
 Pass holders must:
 <ul>
-<li style="font-size:16px; line-height:1.5;">Remain in their SHN accommodation at all times</li>
-<li style="font-size:16px; line-height:1.5;">Carry their mobile phones with internet connection at all times. They must respond to MOM’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>. They must also report their health status using the FWMOMCare app.</li>
-<li style="font-size:16px; line-height:1.5;">(Only for those who are issued an electronic monitoring device by the checkpoint) Wear the device and charge it throughout the SHN.</li>
-<li style="font-size:16px; line-height:1.5;">Take all the required COVID-19 tests.</li>
-<li style="font-size:16px; line-height:1.5;">Not have any visitors and minimise contact with others.</li>
-<li style="font-size:16px; line-height:1.5;">Maintain a record of persons they come into close contact with.</li>
-<li style="font-size:16px; line-height:1.5;">Act responsibly based on advisories issued by the Singapore Government.</li>
+<li style="font-size:18px; line-height:1.5;">Remain in their SHN accommodation at all times</li>
+<li style="font-size:18px; line-height:1.5;">Carry their mobile phones with internet connection at all times. They must respond to MOM’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>. They must also report their health status using the FWMOMCare app.</li>
+<li style="font-size:18px; line-height:1.5;">(Only for those who are issued an electronic monitoring device by the checkpoint) Wear the device and charge it throughout the SHN.</li>
+<li style="font-size:18px; line-height:1.5;">Take all the required COVID-19 tests.</li>
+<li style="font-size:18px; line-height:1.5;">Not have any visitors and minimise contact with others.</li>
+<li style="font-size:18px; line-height:1.5;">Maintain a record of persons they come into close contact with.</li>
+<li style="font-size:18px; line-height:1.5;">Act responsibly based on advisories issued by the Singapore Government.</li>
 </ul>
 
 ### Penalties for non-compliance
 
-<p style="font-size:16px;">Companies and pass holders have a joint duty to comply with the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
+<p style="font-size:18px;">Companies and pass holders have a joint duty to comply with the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
  
-<p style="font-size:16px;">If any party is unable to fulfil the requirements, please <b>do not</b> bring the pass holders into Singapore.</p>
+<p style="font-size:18px;">If any party is unable to fulfil the requirements, please <b>do not</b> bring the pass holders into Singapore.</p>
 
-<p style="font-size:16px;">Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declarations.</p>
+<p style="font-size:18px;">Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declarations.</p>
