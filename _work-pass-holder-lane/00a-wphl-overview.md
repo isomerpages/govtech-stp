@@ -40,7 +40,7 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
 </tr>
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Pass holders entering Singapore from the <a href="/rgl/overview">Reciprocal Green Lane (RGL)</a> counterpart countries/regions and staying for up to 14 days </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can apply for <a href="/rgl/overview">RGL.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies or Government agencies can apply for <a href="/rgl/overview">RGL.</a></td>
 </tr>
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Workers in the Construction, Marine shipyard or Process sector who meet <b>all of these conditions:</b>
