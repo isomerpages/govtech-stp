@@ -102,8 +102,8 @@ For existing FDWs returning from overseas, you must continue paying her salary o
 
 <table>
   <tr>
-    <th style="font-size:1px; text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">If your FDW or nanny is serving SHN at a</th>
-    <th style="font-size:18px; text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;">You should</th>
+    <th style="font-size:18px; text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">If your FDW or nanny is serving SHN at a</th>
+    <th style="font-size:18px; text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">You should</th>
   </tr>
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SHN facility</td>
