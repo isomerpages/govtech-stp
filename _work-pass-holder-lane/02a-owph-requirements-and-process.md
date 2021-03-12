@@ -1,7 +1,7 @@
 ---
 title: Requirements and Process 
 permalink: /wphl/owph-requirements-and-process
-third_nav_title: All Other Work Pass Holders employed by companies, and their dependants
+third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 
 ## Entry Requirements and Process for All Other Work Pass Holders and their Dependants
