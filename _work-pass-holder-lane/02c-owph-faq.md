@@ -46,25 +46,25 @@ For other work passes, employers and employees should come to a mutual agreement
 
 <table>
   <tr>
-    <th style="text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;background-color:#EDEDED">If your pass holder is serving SHN at a</th>
-    <th style="font-size:16px; text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">You should</th>
+    <th style="font-size:18px; text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;background-color:#EDEDED">If your pass holder is serving SHN at a</th>
+    <th style="font-size:18px; text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">You should</th>
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Dedicated SHN facility</td>
-    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Dedicated SHN facility</td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
     <ul>
-       <li style="font-size:16px;"> Inform the staff there to assist in making the necessary arrangements.</li>
-       <li style="font-size:16px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+       <li style="font-size:18px;"> Inform the staff there to assist in making the necessary arrangements.</li>
+       <li style="font-size:18px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>
     </td>
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
-    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
        <ul>
-       <li style="font-size:16px;">(For non-emergency medical situations) Get your pass holder to call the SHN helpline at 6812 5555.</li>
-       <li style="font-size:16px;">(For medical emergencies) Get your pass holder to call 995.</li>
-       <li style="font-size:16px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+       <li style="font-size:18px;">(For non-emergency medical situations) Get your pass holder to call the SHN helpline at 6812 5555.</li>
+       <li style="font-size:18px;">(For medical emergencies) Get your pass holder to call 995.</li>
+       <li style="font-size:18px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>
     </td>   
   </tr>
