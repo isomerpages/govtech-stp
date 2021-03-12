@@ -111,7 +111,6 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 
 Employers/employment agencies must:
 <ul>
-<ul>
   <li style="font-size:16px; line-height:1.5;">Ensure they comply with the SHN upon arrival, if applicable.</li>
   <li style="font-size:16px; line-height:1.5;">Ensure they take all the required COVID-19 tests.</li>
 <li style="font-size:16px; line-height:1.5;">Arrange for them to travel using the designated transport, unless they are serving SHN at dedicated SHN facilities.</li>
