@@ -55,8 +55,20 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </ol> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
+      <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions</b>
+    </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">The United Kingdom</li>
+</ol>
+</td>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice.</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">&nbsp;</td>
+  </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
@@ -90,12 +102,6 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   </tr>
     </tbody>
 </table>
-
-<i><b>Note:</b> FDWs and CNs who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:</i>
-<ul>
-  <li style="line-height:1.5;"><i>South Africa</i></li>
-  <li style="line-height:1.5;"><i>The United Kingdom</i></li>
-</ul>
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
 
