@@ -80,7 +80,7 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
 </ol> </td>
-    <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
+    <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
@@ -117,8 +117,6 @@ third_nav_title: All Other Work Pass Holders employed by companies and their dep
 <li style="font-size:18px; line-height:1.5;">Provide them with food and other daily essentials throughout their SHN, unless they are serving SHN at dedicated SHN facilities.</li>
 <li style="font-size:18px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
 </ul>
-
-<div id="FWResponsibiities"></div>
 
 ### What pass holders must do during their SHN
 
