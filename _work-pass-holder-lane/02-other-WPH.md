@@ -1,5 +1,5 @@
 ---
-title: All Other Work Pass Holders and Their Dependants
+title: All Other Work Pass Holders employed by companies and thier depaendants
 permalink: /wphl/other-wph
 ---
 
