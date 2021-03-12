@@ -123,7 +123,7 @@ Employers/employment agencies must:
 
 <div id="FWResponsibiities"></div>
 <u><b>What pass holders must do during their SHN</b></u>
-
+<br>
 Pass holders must:
 <ul>
 <li style="font-size:16px; line-height:1.5;">Remain in their SHN accommodation at all times</li>
