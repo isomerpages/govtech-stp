@@ -32,19 +32,16 @@ Work pass holders are also responsible for ensuring their dependants comply with
 <li style="font-size:17px; line-height:1.5;">Ensure there are available flights/transport and the pass holders can travel to Singapore on their planned arrival date.</li>
   <li style="font-size:17px; line-height:1.5;">Submit their entry application using <a href="https://eservices.ica.gov.sg/STO/">our portal</a>.</li>
 </ol>
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Before submitting the application, please complete these steps: </p>
-<ol style="margin-top:0px;">
-  <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation if she is not required to serve SHN at an SHN-Dedicated Facility (SDF):</li>
-    <ul>
-    <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
-    <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
-    <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">To find out if she needs to serve SHN at an SDF, <a href="/wphl/fdwcn-additional-responsibilities">click here</a>.</li>
-    </ul>
-<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the FDW/CN has a Singapore mobile number with internet connection. </li>
-<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure there are available flights/transport on the FDW/CN’s planned arrival date.</li>
-</ol>
-<p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Once the application is approved, you will receive an approval email.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:17px;"><b> Note: </b></p>      
+     <ol style="list-style-type:disc;">      
+<li style="font-size:17px; line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.
+</li>
+<li style="font-size:17px; line-height:1.5;">Please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.
+</li>
+<li style="font-size:17px; line-height:1.5;">Ensure there are available flights/transport and the pass holders can travel to Singapore on their planned arrival date.</li>
+  <li style="font-size:17px; line-height:1.5;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs.</a>.</li>
+</ol> 
+      <p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Once the application is approved, you will receive an approval email.</p>
  </td>
   </tr>
   </tbody>
