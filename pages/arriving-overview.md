@@ -45,7 +45,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#d5d5d5"><b>Singapore or Malaysia Work Pass Holders</b></td>
  </tr>
  <tr>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Any Purpose of Travel </b></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Any Purpose of Travel (Including Business & Official Travel) </b></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Business & Official Travel</b></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
  </tr>
@@ -58,13 +58,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Australia</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Brunei Darussalam</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><br/><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
@@ -94,7 +94,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
    <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Mainland China</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a><sup>2</sup><br/><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
@@ -106,13 +106,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">New Zealand</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Taiwan</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
@@ -124,7 +124,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Vietnam</td>
   <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
-  <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">&nbsp;</td>
+  <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">Air Travel Pass suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
   <td style="border-right:1px solid #bdbdbd;border-bottom:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
 </table>

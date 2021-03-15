@@ -5,7 +5,7 @@ permalink: /atp/requirements-and-process
 
 ### 1. Eligibility 
 
-Foreigners who are short-term visitors travelling from one of the following countries/regions may seek entry into Singapore by applying for an Air Travel Pass (ATP):
+Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may seek entry into Singapore by applying for an Air Travel Pass (ATP):
 - Australia
 - Brunei Darussalam
 - Mainland China

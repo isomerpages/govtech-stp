@@ -1,5 +1,5 @@
 ---
-title: Work Pass Holder General Lane
+title: Work Pass Holder General Lane - Overview
 permalink: /wphl/overview
 ---
 
@@ -7,10 +7,9 @@ permalink: /wphl/overview
 
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that foreigners with passes granted by Ministry of Manpower (pass holders) may use to enter Singapore.
 
-Given the ongoing pandemic, <b>all pass holders</b> must obtain the relevant Entry Approvals, as stated below, to enter Singapore.
-However, those conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea crossing are exempted from the entry approval requirements.
+Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry Approvals to enter Singapore. However, those conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea crossing are exempted from the entry approval requirements.
 
-### Schemes to bring pass holders into Singapore 
+### Schemes to Bring Pass Holders into Singapore 
 
 <table>
   <thead>
@@ -23,11 +22,11 @@ However, those conveying essential services or supplies (e.g. lorry drivers or v
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign domestic workers</li>
-  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Confinement nannies</li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Foreign domestic workers (FDWs)</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Confinement nannies (CNs)</li>
   </ol>  
   </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employers or employment agents can apply for the <a href="/wphl/fdwcn-requirements-and-process">SafeTravel Pass-WPHL.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employers or employment agents can apply for the <a href="/wphl/fdwcn-requirements-and-process">WPHL-FDWs and CNs.</a></td>
 </tr>
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Existing work pass holders who meet <b>all of these conditions:</b>
@@ -37,15 +36,39 @@ However, those conveying essential services or supplies (e.g. lorry drivers or v
        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Staying in Singapore for at least 90 consecutive days for work </li>
   </ol>    
   </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can apply for the <a href="/pca/overview">Periodic Commuting Arrangement (PCA) scheme.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for the <a href="/pca/overview">Periodic Commuting Arrangement (PCA).</a></td>
 </tr>
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Pass holders entering Singapore from the <a href="/rgl/overview">Reciprocal Green Lane (RGL)</a> counterpart countries/regions and staying for up to 14 days </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can apply for <a href="/rgl/overview">RGL.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies or Government agencies can apply for <a href="/rgl/overview">RGL.</a></td>
 </tr>
 <tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">All other pass holders, including those on in-principle approval, Dependant’s Pass, Long Term Visit Pass or Letter of Consent</td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies can request for <a href="http://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">Ministry of Manpower’s entry approval.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Workers in the Construction, Marine shipyard or Process sector who meet <b>all of these conditions:</b>
+  <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Are on a Work Permit, Training Work Permit or S Pass, or in-principle approval (IPA) for any of these 3 passes</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Not entering Singapore with dependants</li>
+  </ol>     
+  </td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can request for <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore">Ministry of Manpower (MOM)’s entry approval.</a></td>
+</tr>
+<tr>
+<td colspan="2" style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">All Other Pass Holders:</td>
+</tr>      
+<tr>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Work pass holders employed by companies, including those on IPA or Letter of Consent (LOC), and their dependants*^ <br/><br/><i><sup>*</sup>Foreigners with Long-Term Visit Passes granted by the Immigration & Checkpoints Authority (ICA) must apply for entry under the <a href="/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a>, even if their LOCs were granted by MOM.</i><br/><br/> <i>ˆExcludes Work Holiday Pass (WHP) holders</i>
+  </td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for the <a href="/wphl/owph-requirements-and-process">WPHL-pass holders</a> using Corppass.</td>
+</tr>            
+<tr>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">
+  <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">WHP holders</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Personalised Employment Pass (PEP) holders (without employers) and their dependants
+</li>
+  <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">EntrePass holders (without Corppass) and their dependants</li>
+  </ol>
+  </td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">WHP, PEP and EntrePass holders can request for <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore">MOM’s entry approval.</a></td>
 </tr>
 </tbody>
 </table>

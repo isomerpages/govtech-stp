@@ -34,7 +34,7 @@ permalink: /apply-now
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO">Apply</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO">Apply</a><br/><br/>Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/rgl/overview">Details</a><br><br>New RGL applications have been suspended for travellers from Germany, Indonesia, Japan, Malaysia and Republic of Korea. Click <a href="/rgl/overview">here</a> for more details.</td>
     </tr>
       <tr>
