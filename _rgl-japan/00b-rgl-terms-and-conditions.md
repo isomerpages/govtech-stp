@@ -11,13 +11,13 @@ permalink: /japan/rgl/terms-and-conditions
 
 **“Host”** refers to the company or government agency that receives the traveller in Singapore. For company-sponsored travellers, the sponsor is the host.
 
-**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for the first 14 days in Singapore. The Controlled Itinerary allows for travel between places of business and accommodation, and business/official meetings. 
+**“Controlled Itinerary”** refers to the traveller’s submitted itinerary for up to the first 14 days in Singapore. The Controlled Itinerary allows for travel between places of business and accommodation, and business/official meetings. 
 
 ### **A. Terms & Conditions for Sponsor**
 
 #### General
 
-1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller has read and understood:
+1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller and the host (if different from the Sponsor) have read and acknowledged:
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy>.
 
@@ -93,7 +93,7 @@ permalink: /japan/rgl/terms-and-conditions
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
-  : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same delegation to Singapore; and
+  : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same travel delegation to Singapore; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 : f. remain contactable for the duration of his/her stay in Singapore.
 
