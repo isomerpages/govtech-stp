@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: 
+notification: Scheduled maintenance will be taking place on:<br>&bull; 24 March 2021, from 12am to 8am. During this period, application services for Air Travel Pass will not be available.
 
 # Site colors
 colors:
