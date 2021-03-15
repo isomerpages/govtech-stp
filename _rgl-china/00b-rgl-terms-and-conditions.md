@@ -19,7 +19,7 @@ permalink: /china/rgl/terms-and-conditions
 
 #### General
 
-1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller has read and acknowledged:
+1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller and the host (if different from the Sponsor) have read and acknowledged:
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy/>.
 
@@ -76,7 +76,7 @@ permalink: /china/rgl/terms-and-conditions
 
 1. Upon arrival in Singapore, the traveller must undertake another COVID-19 PCR test, at his/her own cost, at the airport.
 
-2. The traveller is required to present the following documents (hard copy or electronic copy) at the Immigration:
+2. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid Visa (for visa-required passport holders);
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the relevant provincial/municipal government in China;
