@@ -23,7 +23,7 @@ permalink: /brunei/rgl/terms-and-conditions
 
 2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in Singapore. 
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a health centre authorised by (the Government of Brunei Darussalam) and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative result of COVID-19 polymerase chain reaction (PCR) test taken at a health centre authorised by the Government of Brunei Darussalam and within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
 
 4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
@@ -56,7 +56,7 @@ permalink: /brunei/rgl/terms-and-conditions
 
 3. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-4. The traveller must undertake a COVID-19 PCR test from (a health centre authorised by the Government of Brunei Darussalam), at his/her own cost, within 72 hours prior to departure from Brunei Darussalam and obtain the negative test results prior to departure.
+4. The traveller must undertake a COVID-19 PCR test from a health centre authorised by the Government of Brunei Darussalam, at his/her own cost, within 72 hours prior to departure from Brunei Darussalam and obtain the negative test results prior to departure.
 
 5. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
 
