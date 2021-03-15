@@ -68,7 +68,7 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">EntrePass holders (without Corppass) and their dependants</li>
   </ol>
   </td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">WHP, PEP and EntrePass holders can request for <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore">MOM’s entry approval.</a></td>
+<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">WHP, PEP and EntrePass holders can request for <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval.</a></td>
 </tr>
 </tbody>
 </table>
