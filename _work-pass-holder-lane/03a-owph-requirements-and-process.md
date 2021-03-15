@@ -59,7 +59,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
       <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8; ">
         <ol style="list-style-type:disc;">      
 <li style="font-size:17px; line-height:1.5;"><u>For all (new and existing) Work Permit, Training Work Permit and S Pass holders:</u> Employers must buy a COVID-19 medical insurance for them <b>before they arrive in Singapore.</b> <br/><br/> The insurance must cover <b>at least $10,000</b> for medical expenses if the workers develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. <br/><br/>Please check with your insurer whether your workers’ existing medical insurance plans meet the required coverage. If not, you can consider <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#where-can-i-buy-covid-19-insurance">these insurers</a>.</li>
-<li style="font-size:17px; line-height:1.5;"><u>For all other pass holders (e.g. Employment Pass holders or dependants):</u> they are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</li>
+<li style="font-size:17px; line-height:1.5;"><u>For all other pass holders (e.g. Employment Pass holders or dependants):</u> They are encouraged to buy medical insurance with the appropriate coverage <b>before entering Singapore</b> as they are responsible for their medical expenses if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore.</li>
 </ol>
 </td>
       </tr>
@@ -71,11 +71,12 @@ Work pass holders are also responsible for ensuring their dependants comply with
     <td style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Ensure pass holders have a valid pass to remain in Singapore</b></td>
     <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">In-principle approval (IPA) holders <b>must complete their SHN before</b> you can get their passes issued.
 <br>
+      <br/>
 <table>
 <thead>
   <tr>
     <th style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">For IPA holders of:</th>
-<th style="font-size:17px;border-top:3px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">If their Short-Term Visit Passes (STVPs) are expiring</th>
+<th style="font-size:17px;border-top:3px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">If their Short-Term Visit Passes (STVPs) are expiring: </th>
 <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
