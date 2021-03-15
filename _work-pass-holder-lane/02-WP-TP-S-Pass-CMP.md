@@ -7,5 +7,5 @@ For workers in the Construction, Marine shipyard or Process sector who meet all 
 - Are on a Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes
 - Not entering Singapore with dependants
 
-Please request for [MOM’s entry approval](https://www.mom.gov.sg/coid-19/actions-for-companies-to-bring-pass-holders-into-singapore) to bring them into Singapore.  
+Please request for [MOM’s entry approval](https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore) to bring them into Singapore.  
 

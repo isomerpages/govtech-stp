@@ -21,7 +21,7 @@ permalink: /germany/rgl/terms-and-conditions
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy>.
 
-2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in singapore. 
+2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in Singapore. 
 
 3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the Government of Germany and taken within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
  
@@ -65,7 +65,7 @@ permalink: /germany/rgl/terms-and-conditions
 
 8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel; 
-: b. Valid visa (for travellers holding passports that require a visa to enter Singapore); 
+: b. Valid visa (for visa-required passport holders); 
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, in English or accompanied by an English translation and obtained from accredited medical institutions designated by the Government of Germany;
 : d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
 : e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
@@ -93,13 +93,13 @@ permalink: /germany/rgl/terms-and-conditions
 : c. report any unexpected deviation in his/her Controlled Itinerary to his/her Host in advance (keeping these to a minimum as much as possible);
 : d. not use any public transportation with the exception of private hire cars/taxis or cohorted company transport;
 : e. adhere to prevailing public health regulations for the general population, including the Ministry of Manpower (MOM) safe management measures (SMM) at workplaces, and additionally comply with the following measures:
-  : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same delegation to Singapore; and
+  : i. Travellers shall have meals alone, with the exception of business-hosted meals and meals with the same travel delegation to Singapore; and
   : ii. Travellers shall not hold meetings with more than 10 attendees (inclusive of the traveller).
 : f. remain contactable for the duration of his/her stay in Singapore 
 
 #### Post-Departure from Singapore
 
-1. A traveller who does not have a TraceTogether-compatible device would be provided with one by his/her Host, for the purpose of his/her stay in Singapore. The traveller shall return the issued device to his/her Host prior to departing Singapore.
+1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
 
 2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Germany.
 
