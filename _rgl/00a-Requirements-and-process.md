@@ -48,7 +48,7 @@ The requirements and processes outlined on this page apply to inbound travellers
 ### 1. Eligibility
 
 Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass under the Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who is:
-- holding a valid passport holder of any nationality/citizenship;
+- Holding a valid passport holder of any nationality/citizenship;
 - A resident of the RGL partner country/region;
 - Seeking to make a single-entry, short-term essential travel; and
 - Travelling for business or official purposes between Singapore and country/region of departure.
@@ -169,9 +169,9 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result taken at an authorised testing facility within 72 hours before departure for Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus ticket) and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether- compatible device in Singapore</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result taken at an authorised testing facility within 72 hours before departure for Singapore;</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus ticket); and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether- compatible device in Singapore.</li>
          </ol> 
       <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents may be refused boarding by the airline or transport company.</p>     
     </td>
