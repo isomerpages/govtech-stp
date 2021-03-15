@@ -119,6 +119,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 </ul>
 
 <div divid="FWResponsibilities"></div>
+
 ### What Pass Holders Must Do During Their SHN
 
 Pass holders must:
