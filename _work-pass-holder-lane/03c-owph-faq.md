@@ -17,6 +17,7 @@ If the pass holder’s first positive COVID-19 PCR test was taken on 1 March 202
 Pass holders should not travel if feeling unwell.
 
 <div id="#2"></div>
+
 ### 2. Who is responsible for the costs of the work pass holder’s entry approval requirements, including COVID-19 tests, transport and SHN accommodation, as applicable?
 
 <table>
