@@ -3,7 +3,7 @@ title: Terms & Conditions
 permalink: /indonesia/rgl/terms-and-conditions
 ---
 
-### **Terms & Conditions of SafeTravel Pass (For Residents in Indonesia using the Reciprocal Green Lane/Travel Corridor Arrangement for Essential Travel Between Indonesia <sup>1</sup> and Singapore to Travel to Singapore)<sup>2</sup>**
+### **Terms & Conditions of SafeTravel Pass (For Residents in Indonesia using the Reciprocal Green Lane (RGL)/Travel Corridor Arrangement for Essential Travel Between Indonesia <sup>1</sup> and Singapore to Travel to Singapore)<sup>2</sup>**
 
 ### **Definitions**
 
@@ -17,7 +17,7 @@ permalink: /indonesia/rgl/terms-and-conditions
 
 #### General
 
-1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller has read and understood:
+1. Prior to submitting the application for SafeTravel Pass on behalf of the traveller, the Sponsor shall ensure that the traveller and the host (if different from the Sponsor) have read and acknowledged:
 : a. these terms and conditions; and
 : b. the Privacy Statement which can be found at <https://safetravel.ica.gov.sg/privacy>.
 
@@ -63,7 +63,7 @@ permalink: /indonesia/rgl/terms-and-conditions
 
 7. The traveller must download and install in advance the TraceTogether app on his/her mobile phone or alternatively, secure in advance the rental of a TraceTogether-compatible device if his/her mobile phone is not TraceTogether-compatible. 
 
-8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airlines/ferries check-in counter: 
+8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline/ferry check-in counter: 
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid visa (for visa-required passport holders); 
 : c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, from a medical institution designated by the Government of Indonesia and recognised by Singapore; 
