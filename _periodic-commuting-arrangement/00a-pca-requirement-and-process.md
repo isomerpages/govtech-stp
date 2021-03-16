@@ -13,7 +13,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 - Malaysian Citizen or Malaysian Permanent Resident, and hold a valid long-term pass* for business and work purposes in Singapore; <b><u>or</u></b>
 - Malaysian Citizen who is a Singapore Permanent Resident working in Singapore;
 
-<span class="font-size: 13px;"><i> *Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Employment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore.</i></span>
+<span class="font-size: 13px;"><i> *Long-term pass holders eligible for the PCA are holders of the following MOM-issued work passes:(i) Employment pass; (ii) EntrePass; (iii) Personalised Employment Pass;(iv) S Pass; (v) Work Permit; (vi) Training Employment Pass; (vii) Training Work Permit; and (viii) Work Holiday Pass. The pass should be valid for at least 15 days from the date of entry into Singapore. Work Pass In-Principle Approval holders are not allowed to use the PCA. For such workers, please obtain <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM's entry approval</a> to enter Singapore.</i></span>
  
 ### 2. Preparation for entry into Singapore
 
