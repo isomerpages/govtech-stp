@@ -122,7 +122,7 @@ For RGL travellers entering Singapore by land, entry is only permitted via the C
 
 ### B) RGL Application Process for Application Sponsors
 
-6. Under the RGL arrangement, what documents are accepted as proof of residency?
+#### 6. Under the RGL arrangement, what documents are accepted as proof of residency?
 
 <table>
   <thead>
@@ -391,6 +391,7 @@ No, travellers must keep their mobile devices and the Bluetooth function switche
 Travellers must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
 
 #### 28. What is SafeEntry?
+
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
 An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in.
@@ -403,11 +404,15 @@ More information on the system can be found [here](https://www.safeentry.gov.sg/
 
 Close contacts of an active COVID-19 case will be identified by MOH through contact tracing. Individuals assess to be a close contact of an active COVID-19 case may be issued a quarantine order (QO) under the Infectious Diseases Act. Click [here](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders) for more on the QO. Affected travellers should extend their visit pass, if duration of the QO exceeds the visit pass’ validity period. 
 
+#### 30. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
+
+No, travellers should seek assistance from their Host to make the purchases on their behalf to limit the contact with the local community. Any deviation from controlled itinerary may result in the cancellation of Visit Pass.
+
 <div id="return"></div>
 
 ### Return to Countries/Regions of Departure
 
-#### 30. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
+#### 31. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
 
 As the specific requirements may change over time, RGL travellers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
