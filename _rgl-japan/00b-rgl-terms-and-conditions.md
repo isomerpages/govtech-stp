@@ -23,7 +23,7 @@ permalink: /japan/rgl/terms-and-conditions
 
 2. At the point of application, the Sponsor should submit the traveller's arrival details (including flight number) if already available, as well as the Controlled Itinerary in singapore. 
 
-3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate obtained from authorities designated by the Government of Japan and taken within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
+3. Prior to departure to Singapore and after the SafeTravel Pass application has been approved, the Sponsor must submit (i) the traveller’s negative COVID-19 polymerase chain reaction (PCR) test certificate obtained from a medical institution designated by the Government of Japan and taken within 72 hours from departure; (ii) Controlled Itinerary in Singapore (for up to the first 14 days); and (iii) confirmed arrival details in Singapore including flight number and date of arrival, via the SafeTravel Pass portal.
 
 4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
@@ -55,7 +55,7 @@ permalink: /japan/rgl/terms-and-conditions
 
 3. The traveller must separately submit his/her pre-trip health and travel history declarations, as well as declare his/her accommodation electronically via the SG Arrival Card, within three days prior to the date of arrival in Singapore.
 
-4. The traveller must undertake a COVID-19 PCR test, at his/her own cost, within 72 hours prior to departure from Japan, and obtain a certificate of having tested negative for COVID-19 from authorities designated by the Government of Japan prior to departure.
+4. The traveller must undertake a COVID-19 PCR test from a medical institution designated by the Government of Japan, at his/her own cost, within 72 hours prior to departure from Japan, and obtain the negative test result prior to departure.
 
 5. The traveller has purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of stay in Singapore.
 
@@ -66,7 +66,7 @@ permalink: /japan/rgl/terms-and-conditions
 8. At the point of departure, the traveller is required to present the following documents (hard copy or electronic copy) at the airline check-in counter:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid visa (for visa-required passport holders);
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from authorities designated by the Government of Japan;
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from a medical institution designated by the Government of Japan;
 : d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
 : e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
 
@@ -77,7 +77,7 @@ permalink: /japan/rgl/terms-and-conditions
 2. The traveller is required to present the following documents (hard copy or electronic copy) at Immigration:
 : a. Valid SafeTravel Pass approval letter for the intended week of travel;
 : b. Valid Visa (for visa-required passport holders); and
-: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from authorities designated by the Government of Japan.
+: c. Valid certificate of negative result of COVID-19 PCR test taken within 72 hours prior to departure, and obtained from a medical institution designated by the Government of Japan.
 : d. Return air ticket or proof of other transportation arrangements to depart Singapore; and
 : e. TraceTogether app downloaded on mobile device with profile registered on app or proof of rental of TraceTogether-compatible device in Singapore. 
 
