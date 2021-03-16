@@ -165,7 +165,7 @@ The receipt for the COVID-19 PCR test payment would have been generated and disp
 #### 28. I have keyed in the wrong contact details in the electronic Health Declaration Form (eHDC) and would like to update/amend my contact details.
 
 If you would like to update your contact details provided in the eHDC, you are required to do both of the following:
-1. Email <COVID_SafeTravelEnquiries@mti.gov.sg> with your employee’s name and FIN, as well as your employee’s updated Singapore mobile number and/or address.
+1. Call us at 6812 5555 with your employee's name and FIN, as well as your employee's updated Singapore mobile number and/or address
 2. Your employee is also required to update their contact details here (<https://mom.gov.sg/feedbackshn>).
 
 #### 29. I am unable to input my contact details into the FWMOMCARE app.
@@ -194,7 +194,7 @@ There will be four stations at the COVID-19 PCR test site, comprising (i) holdin
 
 Your employee is required to undergo a COVID-19 PCR test on the 14th day of his/her SHN period. An SMS message and email notification will be sent to the employer/employee by the 11th day of the employee’s SHN period. The notification will indicate the employee’s test date, time of test and designated test site for the COVID-19 PCR test. Employers are then expected to inform their employees of the appointment details.
 
-If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 11th day</u> of the employee’s SHN period, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
+If the employee/employer does not receive a notification containing the details of the employee’s COVID-19 PCR test date, time and designated test site <u>by the 11th day</u> of the employee’s SHN period, please contact us at 6812 5555 with the employee’s name and FIN(for work pass holder) or NRIC (for Singapore PR), as well as your mobile number. 
 
 #### 34. My employee is unable to go for his/her COVID-19 test on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
@@ -235,7 +235,7 @@ The employee under the PCA is required to undergo a COVID-19 PCR test on the ass
 
 COVID-19 PCR test results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. While awaiting test results, individuals should continue to observe the SHN period in his/her declared SHN residence.
 
-If the employer does not receive a notification containing the results of the employee’s COVID-19 PCR test results within 2 days of the test, please contact us at <COVID_SafeTravelEnquiries@mti.gov.sg> with the employee’s name and FIN, as well as your mobile number.
+If the employer does not receive a notification containing the results of the employee’s COVID-19 PCR test results within 2 days of the test, please contact us at 6812 5555 with the employee’s name and FIN, as well as your mobile number.
 
 #### 41. What if my employee who returns from Malaysia develops onset of symptoms of COVID-19 in Singapore? Who will pay for my employee’s medical treatment?
 
@@ -269,7 +269,7 @@ Should your employee need to return to Malaysia before the end of the 3 months (
 
 #### 44. Who should I contact should I have any feedback or queries?
 
-You may wish to contact us via email at <COVID_SafeTravelEnquiries@mti.gov.sg>. We will endeavour to reply you within 3-5 working days.
+You may wish to contact us via call at 6812 5555 or email at <COVID_SafeTravelEnquiries@mti.gov.sg>. We will endeavour to reply you within 3-5 working days.
 
 ### **SHN in SHN Dedicated Facilities**
 
