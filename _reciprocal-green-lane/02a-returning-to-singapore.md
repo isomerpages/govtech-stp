@@ -15,7 +15,7 @@ Returning RGL travellers will be subjected to the health measures described in t
 
 ### 1. Pre-departure to Singapore
 
-Prior to leaving the RGL counterpart country, returning RGL travellers do not need not take a pre-departure PCR test.
+Prior to leaving the RGL counterpart country, returning RGL travellers do not need to take a pre-departure PCR test.
 
 <table>
 <thead>
