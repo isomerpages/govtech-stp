@@ -49,7 +49,7 @@ If you have already applied for entry into Singapore under any of the following 
 
 ### Contact Points
 
-If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to call our Contact Centre Hotline at 6812 5555 for assistance on issues relating to:
+If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to call the <u>SafeTravel Contact Centre Hotline at 6812 5555</u> for assistance on issues relating to:
 
 <ol style="font-size:18px; list-style-type:disc;">
 <li>Periodic Commuting Arrangement</li>
