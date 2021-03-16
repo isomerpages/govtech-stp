@@ -46,7 +46,6 @@ permalink: /brunei/rgl/terms-and-conditions
 5. The traveller and the Host shall be jointly liable for and bear all costs incurred as a consequence of any non-compliance with these terms and conditions including the cost of repatriation, as well as cost of custody and care pending repatriation.
 
 6. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
- authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
 #### Pre-Departure to Singapore
 
