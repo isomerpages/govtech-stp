@@ -9,7 +9,10 @@ permalink: /connectsg/FAQ
 2. [Application Process](#Process)
 3. [Health Measures in Singapore](#HealthMeasures)
 4. [Activities in the Appointed Facilities](#AppointedFac)
-5. [Departure from Singapore](#DepartSG)
+5. [Appointed Facilities](#AF)
+6. [Departure from Singapore](#DepartSG)
+7. [Enforcement of Health Protocol](#enforcement)
+8. [Tourism](#tourism)
 
 
 <div id="GenQuery"></div>
