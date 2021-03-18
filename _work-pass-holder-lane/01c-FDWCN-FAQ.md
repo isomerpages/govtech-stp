@@ -12,7 +12,21 @@ Employers who are unable to fulfil the [entry approval requirements for Foreign 
 
 If no party is willing and able to fulfil the entry approval requirements, the FDW or CN should not enter Singapore.
 
-### 2. My FDW/CN has recovered from COVID-19, when can I bring her into Singapore?
+### 2. My FDW/CN has obtained an entry approval to enter Singapore. However, she is unable to enter Singapore, can I ask for a refund of the charges paid?
+
+Employers and employment agents must ensure that the FDW/CN can enter Singapore on her planned arrival date before submitting an entry application. 
+
+This is because once an entry approval is granted, we need to cater for her entry (e.g. book the dedicated SHN facility and arrange for her COVID-19 tests) and cost will be incurred. 
+
+For us to consider a refund, please submit a request to cancel her entry approval <b>at least 5 days before the approved entry period</b> to Ministry of Manpower (MOM) using the relevant link below:
+
+<a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a>
+
+<a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a>
+
+For requests submitted less than 5 days, we will only consider a refund if the FDW/nanny is unable to travel due to unforeseen circumstances (e.g. tested positive for COVID-19 or last-minute flight cancellation by airline).  
+
+### 3. My FDW/CN has recovered from COVID-19, when can I bring her into Singapore?
 
 For FDWs/CNs who have recovered from COVID-19, they should only depart for Singapore **at least 21 days** after their first positive COVID-19 polymerase chain reaction (PCR) test. Otherwise, they will be denied boarding on flights to Singapore.
 
@@ -20,7 +34,7 @@ If the FDW’s/CN’s first positive COVID-19 PCR test was taken on 1 March 2021
 
 FDWs/CNs should not travel if feeling unwell. 
 
-### 3. My FDW/CN has recovered from a previous COVID-19 infection, can she be discharged from the dedicated SHN facility earlier?
+### 4. My FDW/CN has recovered from a previous COVID-19 infection, can she be discharged from the dedicated SHN facility earlier?
 FDWs and CNs serving SHN at the dedicated SHN facilities will have to take the COVID-19 serology and polymerase chain reaction (PCR) tests within the first few days of arrival.
 
 Based on these two test results, FDWs and CNs who have recovered from a previous COVID-19 infection will be identified. They will be discharged from SHN around Day 5 of their arrival. **They can only leave the dedicated SHN facility after getting instructions to do so.** 
@@ -31,7 +45,7 @@ Individuals with a positive PCR test result will be sent to a hospital or commun
 
 All other individuals must serve their full 14-day SHN at the dedicated SHN facilities. 
 
-### 4. How do I request for my FDW/CN to share a room at the dedicated SHN facility? Where can I find the room sharing indemnity forms?
+### 5. How do I request for my FDW/CN to share a room at the dedicated SHN facility? Where can I find the room sharing indemnity forms?
 
 You and your FDW or CN should take note of the risks, including contracting infectious diseases like COVID-19 from the person she is sharing room with. If any of them tests positive for COVID-19, their Stay-Home Notice (SHN) may be extended. In this case, there may be additional costs for her stay and medical related procedures.
 
@@ -61,11 +75,11 @@ Once she has obtained entry approval to enter Singapore, she must present the fo
 
 If she does not have the indemnity form with her, the SHN facility operator can print the form in her native language and get her to sign on the spot. 
 
-### 5. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
+### 6. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
 
 Find out who is responsible for paying for the pass holders' COVID-19 treatment <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
-### 6. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
+### 7. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
 
 <table>
   <tr>
@@ -92,13 +106,13 @@ The party who submitted the FDW’s entry approval request must pay for the cost
   
 Employment agencies which submitted the entry approval request may recover these costs from employers. If so, employment agencies should obtain the employers’ agreement to pay for the costs before submitting the entry approval request.
 
-### 7. Must I still pay my FDW salary while she is serving her SHN?
+### 8. Must I still pay my FDW salary while she is serving her SHN?
 
 For new FDWs, you must start paying her salary once she is deployed to your house after her SHN.
 
 For existing FDWs returning from overseas, you must continue paying her salary once she returns to Singapore.
 
-### 8. What should I do if my FDW or CN falls sick during her SHN?
+### 9. What should I do if my FDW or CN falls sick during her SHN?
 
 <table>
   <tr>
@@ -126,11 +140,11 @@ For existing FDWs returning from overseas, you must continue paying her salary o
   </tr>
  </table>
 
-### 9. Can employers get a levy waiver for FDWs who go on home / overseas leave?
+### 10. Can employers get a levy waiver for FDWs who go on home / overseas leave?
 
 For FDWs on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 60 days) **when their FDWs return to Singapore.**
 
-### 10. My FDW or CN intends to travel out of Singapore. What do I need to consider?
+### 11. My FDW or CN intends to travel out of Singapore. What do I need to consider?
 
 You may wish to discourage your FDW/CN from travelling as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
 
@@ -138,7 +152,7 @@ For all FDWs and nannies, new and existing, entering Singapore from 1 January 20
 
 Find out who is responsible for the treatment costs <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
-### 11. My CN's visit pass is expiring, how do I extend her stay in Singapore?
+### 12. My CN's visit pass is expiring, how do I extend her stay in Singapore?
 
 You need to request for an extension of your confinement nanny’s stay if:
 - The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so.
@@ -150,13 +164,13 @@ Please <a href="https://www.mom.gov.sg/extend-nanny-visit-pass" target="_blank">
 
 We will email you the outcome within 2 weeks. A $40 extension fee will be charged for each extension made beyond 3 months from the date the visit pass was issued.
 
-### 12. I encountered technical issues when completing the application form. What should I do? 
+### 13. I encountered technical issues when completing the application form. What should I do? 
 
 Please refer to the common troubleshooting FAQ [here](/faq/tech). 
 
 If the troubleshooting FAQ does not address your queries, you can contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx).
 
-### 13. I did not receive the entry application outcome for my FDW/CN. What should I do? 
+### 14. I did not receive the entry application outcome for my FDW/CN. What should I do? 
 
 Please check your spam and junk folders in case the outcome was sent there. Contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders. 
 
