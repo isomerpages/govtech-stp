@@ -41,7 +41,7 @@ Examples of how to calculate the end of each SHN duration can be found below. Tr
 
 Read the Health Advisory for Persons issued SHN [here](/files/MOH-Health-Advisory-SHN.pdf), and watch the video below that explains the SHN Requirements.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g-eZmUOp_7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIe-UBoILu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div id="sdf"></div>
 
