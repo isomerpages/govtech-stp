@@ -18,9 +18,10 @@ Employers and employment agents must ensure that the FDW/CN can enter Singapore 
 
 This is because once an entry approval is granted, we need to cater for her entry (e.g. book the dedicated SHN facility and arrange for her COVID-19 tests) and cost will be incurred. 
 
-For us to consider a refund, please submit a request to cancel her entry approval at least 5 days before the approved entry period to Ministry of Manpower (MOM) using the relevant link below:
+For us to consider a refund, please submit a request to cancel her entry approval <b>at least 5 days before the approved entry period</b> to Ministry of Manpower (MOM) using the relevant link below:
 
 <a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a>
+
 <a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a>
 
 For requests submitted less than 5 days, we will only consider a refund if the FDW/nanny is unable to travel due to unforeseen circumstances (e.g. tested positive for COVID-19 or last-minute flight cancellation by airline).  
