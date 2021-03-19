@@ -32,15 +32,14 @@ If the FDW’s/CN’s first positive COVID-19 PCR test was taken on 1 March 2021
 FDWs/CNs should not travel if feeling unwell. 
 
 ### 4. My FDW/CN has recovered from a previous COVID-19 infection, can she be discharged from the dedicated SHN facility earlier?
-FDWs and CNs serving SHN at the dedicated SHN facilities will have to take the COVID-19 serology and polymerase chain reaction (PCR) tests within the first few days of arrival.
 
-Based on these two test results, FDWs and CNs who have recovered from a previous COVID-19 infection will be identified. They will be discharged from SHN around Day 5 of their arrival. **They can only leave the dedicated SHN facility after getting instructions to do so.** 
+FDWs and CNs serving SHN at dedicated SHN facilities need to take the COVID-19 serology and polymerase chain reaction tests within the first few days of arrival.
 
-The party who submitted the FDW’s/CN’s entry approval request (employer or employment agent) will be notified of her discharge and must arrange for transport from the dedicated SHN facility. The charges for the dedicated SHN facility will be prorated and the excess will be refunded to the credit card used for payment. 
+Based on these two tests, FDWs and CNs identified to have recovered from COVID-19 will be discharged from SHN around Day 4 or 5 of their arrival. They can only leave the dedicated SHN facility <b>after getting instructions to do so</b>.
 
-Individuals with a positive PCR test result will be sent to a hospital or community care facility for isolation and treatment, where appropriate. 
+These FDWs and CNs will get an SMS with instructions to contact their employment agent or employer. Employment agents and employers must then arrange for transport to pick the FDWs and CNs up from the dedicated SHN facilities.
 
-All other individuals must serve their full 14-day SHN at the dedicated SHN facilities. 
+The charges for the stay at the dedicated SHN facility will be prorated. The excess will be refunded to the credit card used for payment <b>around 1 month after the SHN discharge</b>. Depending on your bank, it may take up to another 10 working days for the refund to be reflected on your credit card statement.
 
 ### 5. How do I request for my FDW/CN to share a room at the dedicated SHN facility? Where can I find the room sharing indemnity forms?
 
