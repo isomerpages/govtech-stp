@@ -12,19 +12,16 @@ Employers who are unable to fulfil the [entry approval requirements for Foreign 
 
 If no party is willing and able to fulfil the entry approval requirements, the FDW or CN should not enter Singapore.
 
-### 2. My FDW/CN has obtained an entry approval to enter Singapore. However, she is unable to enter Singapore, can I ask for a refund of the charges paid?
-
-Employers and employment agents must ensure that the FDW/CN can enter Singapore on her planned arrival date before submitting an entry application. 
-
-This is because once an entry approval is granted, we need to cater for her entry (e.g. book the dedicated SHN facility and arrange for her COVID-19 tests) and cost will be incurred. 
+### 2. My FDW/CN has obtained an entry approval to enter Singapore. However, I wish to change her arrival date or no longer want to employ her. Can I ask for a refund of the charges paid? 
 
 For us to consider a refund, please submit a request to cancel her entry approval <b>at least 5 days before the approved entry period</b> to Ministry of Manpower (MOM) using the relevant link below:
 
-<a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a>
+<ul>
+   <li><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a></li>
+   <li><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a></li>
+</ul>
 
-<a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a>
-
-For requests submitted less than 5 days, we will only consider a refund if the FDW/nanny is unable to travel due to unforeseen circumstances (e.g. tested positive for COVID-19 or last-minute flight cancellation by airline).  
+Once the entry approval is cancelled, you can submit another entry application with a new arrival date to bring her in. The new application will be subject to the prevailing entry controls. 
 
 ### 3. My FDW/CN has recovered from COVID-19, when can I bring her into Singapore?
 
@@ -35,15 +32,14 @@ If the FDW’s/CN’s first positive COVID-19 PCR test was taken on 1 March 2021
 FDWs/CNs should not travel if feeling unwell. 
 
 ### 4. My FDW/CN has recovered from a previous COVID-19 infection, can she be discharged from the dedicated SHN facility earlier?
-FDWs and CNs serving SHN at the dedicated SHN facilities will have to take the COVID-19 serology and polymerase chain reaction (PCR) tests within the first few days of arrival.
 
-Based on these two test results, FDWs and CNs who have recovered from a previous COVID-19 infection will be identified. They will be discharged from SHN around Day 5 of their arrival. **They can only leave the dedicated SHN facility after getting instructions to do so.** 
+FDWs and CNs serving SHN at dedicated SHN facilities need to take the COVID-19 serology and polymerase chain reaction tests within the first few days of arrival.
 
-The party who submitted the FDW’s/CN’s entry approval request (employer or employment agent) will be notified of her discharge and must arrange for transport from the dedicated SHN facility. The charges for the dedicated SHN facility will be prorated and the excess will be refunded to the credit card used for payment. 
+Based on these two tests, FDWs and CNs identified to have recovered from COVID-19 will be discharged from SHN around Day 4 or 5 of their arrival. They can only leave the dedicated SHN facility <b>after getting instructions to do so</b>.
 
-Individuals with a positive PCR test result will be sent to a hospital or community care facility for isolation and treatment, where appropriate. 
+These FDWs and CNs will get an SMS with instructions to contact their employment agent or employer. Employment agents and employers must then arrange for transport to pick the FDWs and CNs up from the dedicated SHN facilities.
 
-All other individuals must serve their full 14-day SHN at the dedicated SHN facilities. 
+The charges for the stay at the dedicated SHN facility will be prorated. The excess will be refunded to the credit card used for payment <b>around 1 month after the SHN discharge</b>. Depending on your bank, it may take up to another 10 working days for the refund to be reflected on your credit card statement.
 
 ### 5. How do I request for my FDW/CN to share a room at the dedicated SHN facility? Where can I find the room sharing indemnity forms?
 
