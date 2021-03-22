@@ -36,7 +36,7 @@ Please wait for an outcome **before submitting their entry application**.
 
 To proceed, please complete these steps:
 <ol style="margin-top:0px;">
-<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation, unless she is required to serve SHN at a dedicated SHN facility:
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation, unless she is <a href="https://safetravel.ica.gov.sg/wphl/fdwcn-additional-responsibilities">required to serve SHN at a dedicated SHN facility</a>:
 <ul>
 <li style="font-size:17px; line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
 <li style="font-size:17px; line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
