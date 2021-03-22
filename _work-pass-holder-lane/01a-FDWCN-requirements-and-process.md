@@ -12,7 +12,12 @@ Employers or employment agencies must ensure that they can fulfil the additional
 
 The employer or employment agency must also inform the FDW/CN of the [conditions imposed during her SHN](/wphl/FDWCN-additional-responsibilities#FDWCNResponsibiities) and ensure that she can fulfil them. 
 
-**Note**: For FDWs or CNs who have recovered from COVID-19, employment agencies can [submit a request](https://www.mom.gov.sg/recovered-fdw-cn-form) for them to stand a higher chance of getting an entry approval. Please wait for an outcome **before submitting their entry application**.
+**Note**: For FDWs or CNs who have recovered from COVID-19, you can submit a request for them to stand a higher chance of getting an entry approval. Use the relevant link below:
+<ul>
+  <li><a href="https://www.mom.gov.sg/recovered-fdw-cn-form-er">For employers</a></li>
+  <li><a href="https://www.mom.gov.sg/recovered-fdw-cn-form">For employment agents</a></li>
+</ul>
+Please wait for an outcome **before submitting their entry application**.
 
 ### 2. Entry Application 
 
@@ -27,26 +32,27 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED"><b>Submit an entry application</b></td>
-    <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application <a href="https://eservices.ica.gov.sg/STO/">here</a>. Please note the following technical matters regarding the application portal:
-<ul>      
-<li style="font-size:17px; line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
-<li style="font-size:17px; line-height:1.5;">Additional step for employment agents: To use the portal, please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.</li>
-<li style="font-size:17px; line-height:1.5;">For more details, please refer to our <a href="/faq/tech#GenTechQuery">technical FAQs</a>.</li>
-</ul>
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Before submitting the application, please complete these steps: </p>
+    <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application.
+<p style="margin-top:10px; margin-bottom:0px; font-size:17px;">To proceed, please complete these steps:</p>
 <ol style="margin-top:0px;">
-  <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation if she is not required to serve SHN at an SHN-Dedicated Facility (SDF):</li>
-    <ul>
-    <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
-    <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
-    <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">To find out if she needs to serve SHN at an SDF, <a href="/wphl/fdwcn-additional-responsibilities">click here</a>.</li>
-    </ul>
-<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the FDW/CN has a Singapore mobile number with internet connection. </li>
-<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure there are available flights/transport on the FDW/CN’s planned arrival date.</li>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation, unless she is <a href="https://safetravel.ica.gov.sg/wphl/fdwcn-additional-responsibilities">required to serve SHN at a dedicated SHN facility</a>:
+<ul>
+<li style="font-size:17px; line-height:1.5;">FDWs on in-principle approvals (IPAs) and CNs must serve SHN in hotels.</li>
+<li style="font-size:17px; line-height:1.5;">Existing FDWs returning from overseas can serve SHN in their employers’ houses or hotels.</li>
+</ul>
+</li>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure the FDW/CN has a Singapore mobile number with internet connection.</li>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure there are available flights/transport and the FDW/CN can travel to Singapore on her planned arrival date.</li>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit the entry application using the <a href="https://eservices.ica.gov.sg/STO/">SafeTravel Portal</a>.</li>
 </ol>
+<p style="margin-top:10px; margin-bottom:0px; font-size:17px;"><b>Note:</b></p>
+<ul>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional step for employment agents:</b> To use the portal, please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.</li>
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For more details, please refer to our <a href="https://safetravel.ica.gov.sg/faq/tech#GenTechQuery">technical FAQs</a>.</li>
+</ul>
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;">Once the application is approved, you will receive an approval email.</p>
- </td>
+</td>
   </tr>
   </tbody>
 </table>
