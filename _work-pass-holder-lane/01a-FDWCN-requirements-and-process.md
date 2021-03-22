@@ -14,8 +14,8 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 
 **Note**: For FDWs or CNs who have recovered from COVID-19, you can submit a request for them to stand a higher chance of getting an entry approval. Use the relevant link below:
 <ul>
-  <li style="font-size:17px; line-height:1.5;"><a href="https://www.mom.gov.sg/recovered-fdw-cn-form-er">For employers</a></li>
-  <li style="font-size:17px; line-height:1.5;"><a href="https://www.mom.gov.sg/recovered-fdw-cn-form">For employment agents</a></li>
+  <li><a href="https://www.mom.gov.sg/recovered-fdw-cn-form-er">For employers</a></li>
+  <li><a href="https://www.mom.gov.sg/recovered-fdw-cn-form">For employment agents</a></li>
 </ul>
 Please wait for an outcome **before submitting their entry application**.
 
