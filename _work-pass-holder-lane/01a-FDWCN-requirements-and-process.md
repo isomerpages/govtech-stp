@@ -33,8 +33,7 @@ Please wait for an outcome **before submitting their entry application**.
   <tr>
     <td rowspan="2" style="font-size:17px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:2px solid #D8D8D8;  background-color:#EDEDED"><b>Submit an entry application</b></td>
     <td style="font-size:17px;border-right:1px solid #D8D8D8; border-bottom:2px solid #D8D8D8; ">Either the employer or employment agent can submit the application.
-
-To proceed, please complete these steps:
+<p style="margin-top:10px; margin-bottom:0px; font-size:17px;">To proceed, please complete these steps:</p>
 <ol style="margin-top:0px;">
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Secure the FDW/CN’s SHN accommodation, unless she is <a href="https://safetravel.ica.gov.sg/wphl/fdwcn-additional-responsibilities">required to serve SHN at a dedicated SHN facility</a>:
 <ul>
