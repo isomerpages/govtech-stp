@@ -27,12 +27,9 @@ The following FAQs apply to persons who are residents in countries/regions that 
     <td rowspan="5" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>New applications have been suspended for these countries/regions.</b></span>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for the press releases regarding Singapore's RGL suspension for:</p>
       <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
+<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
       </ol>
  </td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
@@ -70,6 +67,10 @@ The SafeTravel Pass issued under the RGL arrangement is a non-transferrable sing
 #### 2. Is there a limit to the number of times I can apply for a SafeTravel Pass under the RGL arrangement?
 
 There is no limit to the number of times a traveller can be sponsored for a SafeTravel Pass under the RGL arrangement. However, as each SafeTravel pass is only valid for single-entry into Singapore, each new entry will require a fresh application by the sponsor. While there is no cap on the number of times a traveller can be sponsored for entry under the RGL, there may be penalties in repeated cases of non-utilisation (i.e. no show).
+
+#### 3. Do I need to pay to apply for a SafeTravel Pass? 
+
+No payment is required. 
 
 #### 3. I intend to visit Singapore, but I do not qualify for RGL. Is there another SafeTravel Pass that I apply for entry into Singapore? 
 
