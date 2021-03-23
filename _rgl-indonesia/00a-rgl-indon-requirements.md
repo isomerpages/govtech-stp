@@ -107,15 +107,16 @@ An approval letter will be issued to the applicant and sponsoring company or gov
     </td>
   </tr> 
   <tr>
-    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure/ Pre-boarding clearance</b></td>
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
     <td style="font-size:16px; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">Approved RGL travellers must produce the following documents when leaving for Singapore:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket).</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result taken at an authorised testing faciity within 72 hours before departure for Singapore;</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket); and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether-compatible device in Singapore</li>
          </ol> 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding. </p>     
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents at pre-boarding checks may be refused boarding by the airine or transport company </p>     
     </td>
   </tr>
   </tbody>
@@ -139,7 +140,9 @@ An approval letter will be issued to the applicant and sponsoring company or gov
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative COVID-19 test, taken within 72 hours before departure for Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket).
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/ferry ticket; and
+</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether-compatible device in Singapore. 
 </li>
          </ol>
     </td>
@@ -151,16 +154,15 @@ An approval letter will be issued to the applicant and sponsoring company or gov
   </tr>
   <tr>
     <td rowspan="1" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether App/Token</b></td>
-   <td style="font-size:16px;border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The local host* is required to:
+   <td style="font-size:16px;border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The local host* must:
       <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Provide a TraceTogether token to the traveller if the traveller does not have a TraceTogether-compatible device; </li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore;</li>
          </ol> 
     </td>
   </tr>
   </tbody>
 </table>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><i>*Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.</i></p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><i>*The local host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.</i></p>
 
 ### 5. Post-Arrival
 
@@ -175,7 +177,7 @@ An approval letter will be issued to the applicant and sponsoring company or gov
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>All approved RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours).</b> <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours).</b> <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
   <thead>
@@ -188,9 +190,10 @@ An approval letter will be issued to the applicant and sponsoring company or gov
   <tr>
     <td rowspan="1" style="font-size:16px; 
 border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>All approved RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the prevailing public health measures and itinerary submitted for the duration of stay in Singapore; andCommute using private hire cars/taxis, or cohorted company transport (commuting via public transport is prohibited).
-</li>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the Controlled Itinerary submitted for the duration of stay; and</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Commute using private hire cars/taxis, or cohorted company transport (commuting via public tansport is prohibited).</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Download and use the TraceTogether app as well as observe the SafeEntry rules.</li>
    </ol>
  </td>
   </tr>
@@ -205,7 +208,7 @@ border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><u>The information provided in this section is for reference only. Prior to making travel arrangements, travelers are advised to consult the latest entry and other requirements issued by the Indonesian authorities.</u></b> 
       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><b>RGL travellers who are returning to Indonesia from Singapore are required to undergo a PCR test within 72 hours before departure from Singapore.</b></p>
-      <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Please refer here for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the clinics in the attached list .</p>
+      <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Please refer <a href="/health/covid19-tets/pre-departure-test">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the clinics in the attached list .</p>
       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities.  </p><p style="font-size:16px; margin-top:0px; margin-bottom:0px;">RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19 (via a PCR test) at designated quarantine facilities in Indonesia. </p>
  </td>
   </tr>
