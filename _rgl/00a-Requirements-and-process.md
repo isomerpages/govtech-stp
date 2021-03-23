@@ -24,13 +24,9 @@ The requirements and processes outlined on this page apply to inbound travellers
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
     <td rowspan="5" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>New applications have been suspended for these countries/regions</b></span>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for the press releases regarding Singapore's RGL suspension for:</p>
-      <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
+      <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;"><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
       </ol>
  </td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
@@ -79,7 +75,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Address(es) of Traveller’s accommodation for his/her:
 <ol style="margin-top:0px; list-style-type:lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> results), and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">14-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
   <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Click <a href="https://sha.org.sg/hotel-accommodation">here</a> for a list of hotels that accept RGL travellers. This list is non-exhaustive, and travellers may book other accommodations that is a non-residential individual room with an en-suite toilet.</p>
@@ -125,7 +121,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">health centre </a>designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">medical institution</a>designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test, stating the time and ate which the test was administered. 
  </td>
   </tr>
   <thead>
@@ -140,7 +136,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a> for arrivals by air. For arrivals by land, travellers will amke the payment for their post-arrival COVID-19 PCR test upon arrival at the land checkpoints.</li>
          </ol> 
     </td>
   </tr>
@@ -197,14 +193,14 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result;</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/bus/ferry ticket; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/bus ticket; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether- compatible device in Singapore</li>
          </ol> 
     </td>
   </tr>
     <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-   <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers who are holding a STP will undergo a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the local host*. <b>The use of public transportation is not allowed.</b>
+   <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers who are holding a STP will undergo a COVID-19 PCR test upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the local host*. <b>The use of public transportation is not allowed.</b>
     </td>
   </tr>
   <tr>
