@@ -44,7 +44,7 @@ Travellers should note that basic essentials such as portable water, cleaning su
 
 #### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN comes into effect **immediately** on the day of arrival in Singapore and ends after a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result is conveyed, whichever is later. Travellers may be alerted via, SMS or by the SDF concierge. See illustrations [here](/health/shn) or use this [calculator](/shn-calculator) to determine the end of your SHN.
+The SHN comes into effect **immediately** on the day of arrival in Singapore and ends after a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result is conveyed, whichever is later. Travellers may be alerted via, SMS or by the SDF concierge. You may use this [calculator](/shn-calculator) to determine the end of your SHN.
 
 #### 6. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
