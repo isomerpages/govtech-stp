@@ -69,7 +69,7 @@ input:checked + label + .content {
 <div class="content">
 		<p style="margin-top:0px; margin-bottom:0px; font-size:18px; color:red;"><b>1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?</b>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a>, or via the Safe Travel Lanes dropdown list at the top navigation bar of the SafeTravel website.</p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:15px;"><b>2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?</b></p>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; color:red;"><b>2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?</b></p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:15px;"><b>Singapore Citizens/ Permanent Residents</b></p>
 		<p style="margin-top:0px; margin-bottom:0px; font-size:15px; ">Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the link go.gov.sg/shnhotelneeds. All requests will be assessed on a case-by-case basis.
 </p>
