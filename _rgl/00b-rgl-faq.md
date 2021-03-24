@@ -371,7 +371,7 @@ If you change your mobile device, you are required to download the TraceTogether
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
-Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
+Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
 
 #### 27. What happens if travellers do not have mobile devices to download the TraceTogether app?
 
