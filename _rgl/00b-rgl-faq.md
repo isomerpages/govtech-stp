@@ -349,7 +349,7 @@ Please ensure that your TraceTogether App is updated to the latest version. If y
 
 For more information, please refer to the TraceTogether website.
 
-If you require assistance on how to download and activate the TraceTogether app, please email "a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
+If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
 
 #### 25. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
 
