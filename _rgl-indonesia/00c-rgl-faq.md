@@ -211,7 +211,8 @@ Please ensure that your TraceTogether App is updated to the latest version. If y
   </table>
 
 If you are using an older version (before v2.6) of the app, you will see the following screen.
-(insert old screenshot here)
+
+<img src="/images/TT_1.png" style="width:179px; height:318px;">
  
 For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
 
