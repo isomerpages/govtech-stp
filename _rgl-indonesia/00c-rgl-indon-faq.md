@@ -1,20 +1,4 @@
 
-
-### **Application Process for Travellers in Indonesia** 
-
-A) General Queries
-
-B) RGL Application Process for Application Sponsor
-
-C) For RGL Travellers:
-<ul>
- <li>Mandatory Pre-Departure to Singapore Preparation</li>
-<li>COVID-19 Test on Arrival in Singapore</li>
-<li>Public Health Safeguards in Singapore</li>
-<li>Return to Indonesia</li>
-</ul>
-
-<------------------old content------------------->
 #### **Application Requirements**
 
 #### 1. What is the SafeTravel Pass under the RGL arrangement for travel to Singapore?
