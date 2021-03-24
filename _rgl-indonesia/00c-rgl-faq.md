@@ -296,7 +296,71 @@ If a RGL returnee subsequently tests positive for COVID-19 within 14 days after 
 
 ### **Pre-Departure COVID-19 Tests in Singapore** 
 
-Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_listing.pdf). 
+#### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test?
+
+Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers.
+
+Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment.
+
+#### 2. What is the latest timing I have to present myself at the clinic for the pre-departure COVID-19 PCR test, based on my departure flight timing?
+
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
+
+#### 3. When is the latest time/date I have to be at the clinic, based on my departure flight timing?
+
+You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
+
+#### 4. How can I make an appointment for pre-departure PCR testing?
+
+For RGL travel to Indonesia, the pre-departure PCR test must be done within 72 hours prior to departure.
+
+Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements.
+
+#### 5. How far in advance should I make an appointment for the pre-departure PCR test?
+
+Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application are approved.
+
+Please refer to the Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing. This is to ensure that you meet the RGL requirements.
+If you do not make a prior appointment, please note that:
+<ol>
+ <li>There is no guarantee that there will be a test slot for you; and</li>
+ <li>You may not get your results in time for your flight to qualify for RGL arrangements.</li>
+ 
+Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight.
+
+#### 6. What details will I need to book an appointment for the PCR test?
+
+Please have the following information on hand when making an appointment for your test:
+<ol>
+ <li>Identity card number or passport number.</li>
+ <li>Departure flight timing.</li>
+<li>Possible times for your test slot: Please refer to the Test Schedule to confirm your timing.</li>
+ <li>Address in Singapore.</li>
+ <li>Contact number.</li>
+ <li>Email address.</li>
+</ol>
+
+#### 7. What documents should I bring for my appointment?
+
+Please bring the following:
+<ol>
+<li>Identity card or passport.</li>
+<li>Softcopy booking reference showing your departure flight timing.</li>
+</ol>
+
+#### Testing
+
+#### 8. What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances?
+
+If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
+
+##### Test Results
+
+#### 9. When can I expect to get my PCR test results?
+
+You will receive your PCR test results and memo at least three hours before your flight.
+
+The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself.
 
 <div id="annexb"> </div>
 
