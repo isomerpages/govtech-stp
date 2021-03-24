@@ -196,15 +196,19 @@ After downloading the TraceTogether app, you need to follow the instructions tha
 Please ensure that your TraceTogether App is updated to the latest version. If you are using v2.6 and above, you will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore.</b> Follow the instructions to activate the app until you reach the Home Screen.
 
 <table>
- <tr>
-     <th>Holding Screen</th>
-    <th>Home Screen</th>
- </tr>
-<tr>
- <td><a href="XXXX">Holding screen image</a></td>
- <td><a href="XXXX">Home Screen Image</a></td>
- </tr>
-</table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TT_2.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TT_4.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+  </table>
 
 If you are using an older version (before v2.6) of the app, you will see the following screen.
 (insert old screenshot here)
