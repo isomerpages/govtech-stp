@@ -274,7 +274,7 @@ Three days before the travellers’ scheduled entry into Singapore, the applicat
 RGL travellers entering Singapore via air and land transport must produce the following documents:
 - A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore).
-- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.
+- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from). The certificate should also be in English or accompanied by an English translation.
 - Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 - A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether- compatible device in Singapore.
 
@@ -286,7 +286,7 @@ Traveller who does not have any of the above may be refuse boarding by the airli
 
 #### 18. What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
 
-All RGL travellers are required to take a COVID-19 Polymerase PCR test. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test, while travellers entering Singapore via land will pay on the day of arrival. Click [here](/health/covid19-tests/pcrtest) for more information on the tests and corresponding cost.
+All RGL travellers are required to take a COVID-19 PCR test. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test, while travellers entering Singapore via land will pay on the day of arrival. Click [here](/health/covid19-tests/pcrtest) for more information on the tests and corresponding cost.
 
 In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore for the test.
 
@@ -308,7 +308,7 @@ No, travellers are not allowed to enter any of these shops. After taking the COV
 
 Travellers should refer to the relevant Terms & Conditions, for details on the health measures that they must observe upon arrival in Singapore. Travellers can click [here](/rgl/terms-and-conditions) to view the Terms and Conditions.
 
-In general, RGL travellers must take a [COVID-19 PCR Test](/health/covid19-tests/pcrtest) upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car <u>pre-arranged</u> by the host. <b>The use of public transportation is not allowed.</b> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). Travellers and application sponsors should note that the declared accommodation during the first 14 days of stay in Singapore must be a non-residential address. Any cost incurred, e.g. post-arrival PCR test in Singapore and stay in the declared accommodation, will be borne by the traveller. Failure to comply with any of these requirements may result in the immediate revocation of the Safe Travel Pass.
+In general, RGL travellers must take a COVID-19 PCR Test upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car <u>pre-arranged</u> by the host. <b>The use of public transportation is not allowed.</b> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). Travellers and application sponsors should note that the declared accommodation during the first 14 days of stay in Singapore must be a non-residential address. Any cost incurred, e.g. post-arrival PCR test in Singapore and stay in the declared accommodation, will be borne by the traveller. Failure to comply with any of these requirements may result in the immediate revocation of the Safe Travel Pass.
 
 Travellers can leave their accommodation only if they are tested negative for COVID-19 in Singapore. All travellers are required to adhere strictly to the controlled itinerary submitted; access to common facilities/amenities in the declared accommodation, which is beyond the scope of his/her declared business activities in Singapore, is prohibited. Travellers are also prohibited from taking public transportation during their stay in Singapore and can only commute using private hire cars/taxis or cohorted company transport that the host company/government agency may arrange.
 
@@ -349,7 +349,7 @@ Please ensure that your TraceTogether App is updated to the latest version. If y
 
 For more information, please refer to the TraceTogether website.
 
-If you require assistance on how to download and activate the TraceTogether app, please email support@tracetogether.gov.sg.
+If you require assistance on how to download and activate the TraceTogether app, please email "a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
 
 #### 25. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
 
