@@ -13,10 +13,10 @@ B) [RGL Application Process for Application Sponsor](#ApplicationSponsor)
 
 C) [For RGL Travellers:](#RGLTravellers)
 <ul>
-<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#PreDeparturePrep">Mandatory Pre-Departure to Singapore Preparation</a></li>
-<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#OAT">COVID-19 Test on Arrival in Singapore</a></li>
-<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#HealthSafeguards">Public Health Safeguards in Singapore</a></li>
-<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#ReturntoIndonesia">Return to Indonesia</a></li>
+<li><a href="#PreDeparturePrep">Mandatory Pre-Departure to Singapore Preparation</a></li>
+<li><a href="#OAT">COVID-19 Test on Arrival in Singapore</a></li>
+<li><a href="#HealthSafeguards">Public Health Safeguards in Singapore</a></li>
+<li><a href="#ReturntoIndonesia">Return to Indonesia</a></li>
 </ul>
 
 <div id="GenQuery"></div>
