@@ -91,10 +91,11 @@ input:checked + label + .content {
 </li>
 </ol>
 	</p>
-
-	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"></p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"></p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"></p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>6. How can persons (Singapore citizens/ permanent residents/ Long-Term Visit Pass holders) obtain their daily necessities while on a Stay-Home Notice (SHN)?</b>
+</p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">You must remain in your place of residence or SHN Dedicated Facilities (SDF) at all times during the SHN period. Do not leave your residence/SDF, even if it is to purchase food and essentials. If necessary, you may opt for home delivery services or enlist the assistance of others for your daily necessities.<br/><br/>
+If you require special assistance, such as financial or emotional or psychological support, during the SHN period, Singapore citizens/ permanent residents and Long-Term Visit Pass holders may call <u><b>6812 5555</b></u>.
+</p>
 		
 </div>
 
@@ -130,20 +131,6 @@ input:checked + label + .content {
 
 
 
-
-
-
-
-
-
-
-
-
-#### 6. How can persons (Singapore citizens/ permanent residents/ Long-Term Visit Pass holders) obtain their daily necessities while on a Stay-Home Notice (SHN)?
-
-You must remain in your place of residence or SHN Dedicated Facilities (SDF) at all times during the SHN period. Do not leave your residence/SDF, even if it is to purchase food and essentials. If necessary, you may opt for home delivery services or enlist the assistance of others for your daily necessities.
-
-If you require special assistance, such as financial or emotional or psychological support, during the SHN period, Singapore citizens/ permanent residents and Long-Term Visit Pass holders may call <u><b>6812 5555</b></u>.
 
 #### 7. When will the Stay-Home Notice (SHN) begin?
 
