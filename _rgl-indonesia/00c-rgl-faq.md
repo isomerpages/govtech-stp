@@ -187,7 +187,7 @@ The app works best on phones with Android version 5.1 and above, as well as phon
 
 #### 26.	Must every traveller download and activate the TraceTogether app?
 
-Yes, all traveller to Singapore must download and activate the TraceTogether app.
+Yes, all travellers to Singapore must download and activate the TraceTogether app.
 
 #### 27.	After downloading the TraceTogether app, how do I activate it?
 
