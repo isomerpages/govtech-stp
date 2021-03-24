@@ -76,13 +76,13 @@ input:checked + label + .content {
 		<p style="margin-top:10px; margin-bottom:0px; font-size:15px;"><b>Long-Term Pass Holder</b></p>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass Holders will have to secure a suitable accommodation to serve their SHN in prior to their arrival in Singapore.</p>
 </p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>3. Do I have to pay for my stay at a dedicated Stay-Home Notice (SHN) facility if I request to opt-in?</b></p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">From 1 Jan 2021, costs of stay at dedicated SHN facilities for SCs and PRs will no longer be waived. Click [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers) for more details.</p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>4. I am returning from a country/place which is eligible to opt to serve the 14-day SHN at a suitable place but transiting through a country/place which required a 14-day SHN at a dedicated facility. What SHN measure would apply?</b>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px;"><b>3. Do I have to pay for my stay at a dedicated Stay-Home Notice (SHN) facility if I request to opt-in?</b></p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">From 1 Jan 2021, costs of stay at dedicated SHN facilities for SCs and PRs will no longer be waived. Click <a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers">here</a> for more details.</p>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px;"><b>4. I am returning from a country/place which is eligible to opt to serve the 14-day SHN at a suitable place but transiting through a country/place which required a 14-day SHN at a dedicated facility. What SHN measure would apply?</b>
 </p>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">Such travellers would be required to serve a 14-day SHN at a dedicated facility. No opt out option would be available and prevailing border measures would apply.
 </p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><b>5. I am unable to stay at the accommodation I had declared in my Stay-Home Notice (SHN) at the checkpoint. What should I do?</b>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:18px;"><b>5. I am unable to stay at the accommodation I had declared in my Stay-Home Notice (SHN) at the checkpoint. What should I do?</b>
 </p>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor</b>, please call 6812 5555.</p>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Work Pass holder</b> please submit your request at <a href="https://mom.gov.sg/feedbackSHN">https://mom.gov.sg/feedbackSHN</a>>.
