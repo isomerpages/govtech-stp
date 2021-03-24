@@ -12,9 +12,9 @@ permalink: /indonesia/rgl/requirements-and-process
 
 Either a Company or Government Agency in Singapore can sponsor/apply for a SafeTravel Pass-RGL under the Reciprocal Green Lane (i.e. SafeTravel Pass-RGL) on behalf of a prospective traveller, who is:
 - Holding a valid Indonesia passport;
-- An Indonesian citizen
+- An Indonesian citizen;
 - Seeking to make a single-entry, short-term essential travel; and
-- Travelling for business or official purposes between Singapore and country/place of departure.
+- Travelling for business or official purposes between Singapore and Indonesia.
 
 ### 2. Submit Approvals for Entry into Singapore
 
@@ -69,7 +69,7 @@ An approval letter will be issued to the applicant and sponsoring company or gov
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure to Singapore at an <a href="/pdf/IDN_clinic_listing.pdf"> medical institution</a> deignated by the Government of Indonesia and obtain a certificate for a negative COVID-19 tet result, in English, stating the time and date which the test was administered. 
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure to Singapore at an <a href="/pdf/IDN_clinic_listing.pdf">medical institution</a> designated by the Government of Indonesia and obtain a certificate for a negative COVID-19 test result, in English, stating the time and date which the test was administered. 
  </td>
   </tr>
   <thead>
@@ -103,7 +103,7 @@ An approval letter will be issued to the applicant and sponsoring company or gov
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test that was taken within 72 hours before departure; and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travel insurance, with a minimum coverage of S$30,000 for COVID-19-reated medical treatment and hospitialisation costs.</li>
          </ol>    
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;"> Note: Travellers are required to declare, at the point of application, that they have purchased or wiill be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of their stay in Singapore, as part of the Terms and Conditions of the SafeTravel Pass. Please refer to the <a href="/health/travelinsurance">list</a> of locally available.</p>
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;"> Note: Travellers are required to declare, at the point of application, that they have purchased or will be purchasing travel insurance that meets the minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs for the duration of their stay in Singapore, as part of the Terms and Conditions for the SafeTravel Pass. Please refer to the list of locally available insurance products <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a></p>
     </td>
   </tr> 
   <tr>
@@ -112,11 +112,11 @@ An approval letter will be issued to the applicant and sponsoring company or gov
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass approval letter (date of entry into Singapore must fall within the intended week of travel stated in the letter). Each SafeTravel Pass is valid for a single entry into Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result taken at an authorised testing faciity within 72 hours before departure for Singapore;</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result taken at an authorised testing facility within 72 hours before departure for Singapore;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air or ferry ticket); and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether-compatible device in Singapore</li>
          </ol> 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents at pre-boarding checks may be refused boarding by the airine or transport company </p>     
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company </p>     
     </td>
   </tr>
   </tbody>
@@ -139,17 +139,17 @@ An approval letter will be issued to the applicant and sponsoring company or gov
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid SafeTravel Pass for the intended week of travel;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative COVID-19 test, taken within 72 hours before departure for Singapore; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/ferry ticket; and
 </li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether-compatible device in Singapore. 
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether-compatible device in Singapore. 
 </li>
          </ol>
     </td>
   </tr>
     <tr>
     <td rowspan="1" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-   <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers who are holding a STP will undergo a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the local host*. <b>The use of public transportation is not allowed.</b>
+   <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers who are holding a STP will undergo a COVID-19 PCR test upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the local host*. <b>The use of public transportation is not allowed.</b>
     </td>
   </tr>
   <tr>
