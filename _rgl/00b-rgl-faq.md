@@ -127,7 +127,7 @@ For RGL travellers entering Singapore by land, entry is only permitted via the C
 
 ### B) RGL Application Process for Application Sponsors
 
-#### 7. Under the RGL arrangement, what documents are accepted as proof of residency?
+#### 8. Under the RGL arrangement, what documents are accepted as proof of residency?
 
 <table>
   <thead>
@@ -213,27 +213,27 @@ For RGL travellers entering Singapore by land, entry is only permitted via the C
   </tbody>
   </table>
 
-#### 8. What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
+#### 9. What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
 
 The application for the SafeTravel Pass is open for a period of two to five weeks before the week of the traveller’s planned departure to Singapore. As applications can take up to seven days (excluding the day of application) to process, any application submitted less than eight days from the planned date of entry will not be accepted.
 
 Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
 
-#### 9. How will I be notified of the outcome of the SafeTravel Pass application?
+#### 10. How will I be notified of the outcome of the SafeTravel Pass application?
 
 The applicant sponsor will be notified of the outcome of the SafeTravel Pass application via the email provided in the application. 
 
 Sponsors may also enquire about the application status [here](http://eservices.ica.gov.sg/STO) using the traveller’s identification details and intended date of arrival in Singapore.
 
-#### 10. I noticed a mistake in the application that I had submitted. What should I do to address the error? 
+#### 11. I noticed a mistake in the application that I had submitted. What should I do to address the error? 
 
 Amendments cannot be made once an application is submitted . Application sponsors should therefore ensure that all application details are accurate at the point of submission.
 
-#### 11. What should I do if there are changes in the 14-day controlled itinerary submitted?
+#### 12. What should I do if there are changes in the 14-day controlled itinerary submitted?
 
 As a [condition](/rgl/terms-and-conditions) for entry into Singapore, travellers approved under the RGL arrangement must adhere to the controlled itinerary submitted. Failure to do so can result in the immediate revocation of the SafeTravel Pass and termination of the visit pass. Application sponsors should therefore ensure that the controlled itinerary submitted is accurate. Should there be any changes in the itinerary, application sponsors can write to <COVID_SafeTravelEnquiries@mti.gov.sg> with the approved SafeTravel Pass reference and revised controlled itinerary. 
 
-#### 12. Why was my application rejected?
+#### 13. Why was my application rejected?
 
 Safe Travel Pass applications may be rejected for one or more of the following reasons:
 - Inadequate justifications for reason of travel
@@ -249,13 +249,13 @@ Safe Travel Pass applications may be rejected for one or more of the following r
 
 ### Visa Applications and Visit Pass Extensions
 
-#### 13. How do I know if I need a visa to visit Singapore? If I need a visa, how can I apply for one? 
+#### 14. How do I know if I need a visa to visit Singapore? If I need a visa, how can I apply for one? 
 
 Travellers should check [here](https://www.ica.gov.sg/enteringanddeparting/before/entryvisa/) on whether a visa is required for their entry into Singapore. 
 
 Travellers from visa-exempted countries do not need to apply for a visa. However, travellers who that require a visa to enter Singapore, can apply for a visa through the Singapore overseas missions, authorised visa agents, a local contact or company at least four working days before departure to Singapore; the granting of visas will depend on the merits of each application. Click [here](https://eservices.ica.gov.sg/esvclandingpage/save) to apply. 
 
-#### 14. How do I extend my visit pass/stay in Singapore, if necessary?
+#### 15. How do I extend my visit pass/stay in Singapore, if necessary?
 
 Requests to extend the visit pass/stay in Singapore must be made at least seven days before the expiry of the visit pass. An application for extension can be only be submitted online using ICA’s [e-Service](https://eservices.ica.gov.sg/esvclandingpage/extend), and the granting of extension will depend on the merits of each application. ICA no longer accepts over the counter extension requests.
 
@@ -263,13 +263,13 @@ Requests to extend the visit pass/stay in Singapore must be made at least seven 
 
 ### Mandatory Pre-Departure to Singapore Preparation 
 
-#### 15. What pre-departure requirements must I comply with before entering Singapore?
+#### 16. What pre-departure requirements must I comply with before entering Singapore?
 
 Three days before the travellers’ scheduled entry into Singapore, the application sponsor must submit the following:
 - Pre-trip health and travel history declarations and accommodation details electronically via the [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/); and
 - Traveller’s certificate of negative test result for COVID-19 (taken within 72 hours before departure at authorised testing facilities), and latest 14-day controlled itinerary in Singapore [here](http://eservices.ica.gov.sg/STO).
 
-#### 16. What documents do I need show to the airline during boarding and at Singapore’s immigration checkpoint?
+#### 17. What documents do I need show to the airline during boarding and at Singapore’s immigration checkpoint?
 
 RGL travellers entering Singapore via air and land transport must produce the following documents:
 - A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).
@@ -284,19 +284,19 @@ Traveller who does not have any of the above may be refuse boarding by the airli
 
 ### COVID-19 Test on Arrival in Singapore
 
-#### 17. What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
+#### 18. What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
 
 All RGL travellers are required to take a COVID-19 Polymerase PCR test. Travellers entering Singapore by air are encouraged to [pre-register and pre-pay](https://safetravel.changiairport.com/) for the PCR test, while travellers entering Singapore via land will pay on the day of arrival. Click [here](/health/covid19-tests/pcrtest) for more information on the tests and corresponding cost.
 
 In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore for the test.
 
-#### 18. What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
+#### 19. What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
 Travellers who test positive for COVID-19 will be given medical attention/treatment immediately. The cost of the relevant medical treatments will be borne in full by the travellers. As such travellers are required be insured for any COVID-19 related medical treatment before travelling to Singapore. Click [here](/health/travelinsurance) for more information on this requirement.
 
 Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 
-#### 19. Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
+#### 20. Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
 
 No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car <u>pre-arranged</u> by the host. <b>The use of public transportation is not allowed</b>. They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controlled itineraries after being notified of their negative test results.
 
@@ -304,7 +304,7 @@ No, travellers are not allowed to enter any of these shops. After taking the COV
 
 ### Public Health Safeguards in Singapore
 
-#### 20. What health measures will I be subjected to upon arrival in Singapore?
+#### 21. What health measures will I be subjected to upon arrival in Singapore?
 
 Travellers should refer to the relevant Terms & Conditions, for details on the health measures that they must observe upon arrival in Singapore. Travellers can click [here](/rgl/terms-and-conditions) to view the Terms and Conditions.
 
@@ -314,7 +314,7 @@ Travellers can leave their accommodation only if they are tested negative for CO
 
 Travellers should take their temperature twice daily and report their health status to the host company/government agency. During their stay in Singapore, travellers must adhere to prevailing public health requirements, which includes the use of the TraceTogether mobile application and SafeEntry.
 
-#### 21. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+#### 22. What is the TraceTogether app? Does the Singapore Government track my movements via the app?
 
 The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. Together with other digital contact tracing tools, TraceTogether's Bluetooth proximity data has helped to reduce average contact tracing time from 4 days to less than 1.5 days. 
 
@@ -322,13 +322,11 @@ The Bluetooth proximity data collected is stored locally in the user's phone. If
 
 The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://www.tracetogether.gov.sg/).
 
-
-#### 22. Must every travellers download the TraceTogether app?
+#### 23. Must every travellers download the TraceTogether app?
 
 Yes. All travellers to Singapore must download the TraceTogether app prior to departing for Singapore.
 
-
-#### 23. After downloading the TraceTogether app, how do I activate it? 
+#### 24. After downloading the TraceTogether app, how do I activate it? 
 
 After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the **same identification number, nationality and date of birth** as those shown in the passport that you are using to enter Singapore. 
 
@@ -353,7 +351,7 @@ For more information, please refer to the TraceTogether website.
 
 If you require assistance on how to download and activate the TraceTogether app, please email support@tracetogether.gov.sg.
 
-#### 24. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+#### 25. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
 
 Please check that your app has been updated to the latest version.
 
@@ -367,7 +365,7 @@ You can edit your passport details by clicking the ‘edit’ button on the Hold
 
 If you still face issues, please email <support@tracetogether.gov.sg> with your query and details of the issue you are facing, or call the support helpline at +65 6973 6511 during operating hours.
 
-#### 25. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+#### 26. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
 If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the RGL [Terms and Condition](/rgl/terms-and-conditions) 1(e)(ii).
 
@@ -375,7 +373,7 @@ If you change your SIM card but are still using the same mobile device, you will
 
 Please ensure that you keep your mobile device's Bluetooth function turned on so that the TraceTogether app renains activated throughout your stay in Singapore.
 
-#### 26. What happens if travellers do not have mobile devices to download the TraceTogether app?
+#### 27. What happens if travellers do not have mobile devices to download the TraceTogether app?
 
 All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile devices are compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
 
@@ -387,15 +385,15 @@ Travellers, who have rented a mobile device from Changi Recommends, must carry i
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Travellers with a certified disability or special need are also exempted.
 
-#### 27. Can travellers switch off their mobile devices while in Singapore?
+#### 28. Can travellers switch off their mobile devices while in Singapore?
 
 No, travellers must keep their mobile devices and the Bluetooth function switched on at all times while in Singapore.
 
-#### 28. Can travellers uninstall the TraceTogether app upon departing from Singapore?
+#### 29. Can travellers uninstall the TraceTogether app upon departing from Singapore?
 
 Travellers must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
 
-#### 29. What is SafeEntry?
+#### 30. What is SafeEntry?
 
 SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
 
@@ -405,15 +403,15 @@ Alternatively, some venues allow you to complete SafeEntry by presenting your pa
 
 More information on the system can be found [here](https://www.safeentry.gov.sg/).
 
-#### 30. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
+#### 31. I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
 
 Close contacts of an active COVID-19 case will be identified by MOH through contact tracing. Individuals assess to be a close contact of an active COVID-19 case may be issued a quarantine order (QO) under the Infectious Diseases Act. Click [here](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders) for more on the QO. Affected travellers should extend their visit pass, if duration of the QO exceeds the visit pass’ validity period. 
 
-#### 31. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
+#### 32. Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items?
 
 No, travellers should seek assistance from their Host to make the purchases on their behalf to limit the contact with the local community. Any deviation from controlled itinerary may result in the cancellation of Visit Pass.
 
-#### 32. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
+#### 33. What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
 
 The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance with any of the conditions of the SafeTravel Pass may result in refusal of entry into Singapore and/or cancellation of the SafeTravel Pass. The traveller and the Host shall be jointly liable for and bear all costs incurred for the cost of repatriation, as well as cost of custody and care pending repatriation. Furture SafeTravel Pass aplications may also be rejected. 
 
@@ -421,7 +419,7 @@ The Singapore Government takes a serious view of non-compliance with SafeTravel 
 
 ### Return to Countries/Regions of Departure
 
-#### 33. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
+#### 34. Do I need to be tested again before I return to my origin country/region of departure? What health measures will I be subjected to upon return to my country/region of departure?
 
 As the specific requirements may change over time, RGL travellers returning to their country/region of departure should verify the latest requirements with the respective country/region’s government.
 
