@@ -28,7 +28,7 @@ Prospective travellers may refer to this [table](/files/SHN-and-swab-summary.pdf
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Singapore citizens and permanent residents whose residence is unsuitable to serve their [SHN](/health/shn), may appeal to serve their SHN at an [SDF](/health/shn/sdf). These appeals, which are subject to approval, can be submitted using this link. 
+Singapore citizens and permanent residents whose residence is unsuitable to serve their [SHN](/health/shn), may appeal to serve their SHN at an [SDF](/health/shn/sdf). These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). 
 
 Non-resident travellers who not required to serve their SHN at an SDF, i.e. those serving 7-day SHN, but wish to do so, may make a direct reservation with the hotel. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
