@@ -361,7 +361,7 @@ Please bring the following:
 
 If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement.
 
-##### Test Results
+#### Test Results
 
 #### 9. When can I expect to get my PCR test results?
 
