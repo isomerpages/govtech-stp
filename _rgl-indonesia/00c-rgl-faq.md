@@ -110,136 +110,191 @@ Safe Travel Pass applications may be rejected for one or more of the following r
 </ul>
 
 <div id="RGLTravellers"></div>
+
 ### **C) For RGL Travellers**
 
 <div id="PreDeparturePrep"></div>
+
 ### Mandatory Pre-departure to Singapore Preparation
 
-#### 18. Can I use the RGL to come to Singapore to seek medical treatment? 
+#### 18.	What pre-departure requirements must I comply with before entering Singapore?
 
-The RGL is only for short-term essential business and official travel, and not for seeking medical treatment. Enforcement action will be taken against travellers found to have abused the RGL to seek medical treatment in Singapore, including not being able to apply for travel under the RGL again. 
+Three days before the travellers’ scheduled entry into Singapore, the application sponsor must submit the following:
+<ul>
+<li>Pre-trip health and travel history declarations and accommodation details electronically via the <a href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card</a>; and</li>
+<li>Traveller’s certificate of negative test result for COVID-19 (taken within 72 hours before departure at authorised testing facilities), and latest 14-day controlled itinerary in Singapore <a href="http://eservices.ica.gov.sg/STO">here</a>.</li>
+</ul>
+
+#### 19.	What documents do I need present during boarding and at Singapore’s immigration checkpoint?
+
+RGL travellers entering Singapore via air and sea transport must produce the following documents:
+<ul>
+<li>A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).</li>
+<li>A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore).</li>
+<li>A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.</li>
+<li>Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.</li>
+<li>A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether-compatible device in Singapore.</li>
  
-Travellers who are short-term visit pass holders from other countries seeking to enter Singapore for medical treatment should apply for entry approval through their Singapore doctors.   
-
-#### 19.  Can I use the RGL to transit through Singapore? 
-
-The RGL is only for short-term essential business and official travel between Singapore and Indonesia, and not for transit through Singapore. 
+Traveller who does not have any of the above may be refused boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 29.
 
 <div id="OAT"></div>
+
 ### COVID-19 Test on Arrival in Singapore
 
-#### 20. Are there restrictions on how I can travel to Singapore? 
+#### 20.	What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
 
-Under the RGL, travellers can depart from Soekarno-Hatta International Airport by plane, and arrive at Changi International Airport. Travellers can also depart from Batam Center Ferry Terminal by ferry, and arrive at Tanah Merah Ferry Terminal. 
- 
-RGL travellers from Indonesia are allowed to travel from other provinces in Indonesia to Jakarta or Batam, and depart for Singapore via Soekarno-Hatta International Airport or Batam Center Ferry Terminal, respectively. RGL travellers that are travelling from other provinces must also fulfil Indonesia’s requirements for domestic travel. 
+All RGL travellers are required to take a COVID-19 PCR test. Travellers entering Singapore by air are encouraged to <a href="https://safetravel.changiairport.com/">pre-register and pre-pay</a> for the PCR test, while travellers entering Singapore via land will pay on the day of arrival. Click <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">here</a> for more information on the tests and corresponding cost.
 
-### **Pre-Departure Measures in Indonesia**
+In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore for the test.
 
-#### 21. What health measures must I take in Indonesia before departing for Singapore? 
+#### 21.	What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
-Travellers must have remained in Indonesia for at least 14 days prior to departure for Singapore. They must monitor their health status before departure from Indonesia, and not depart for Singapore if feeling unwell. They must also undergo a pre-departure PCR test in Indonesia at least once within 72 hours before departure, and obtain a certificate of having tested negative for COVID-19 from healthcare institutions in Indonesia listed at [ANNEX A](#annexa). 
+Travellers who test positive for COVID-19 will be given medical attention/treatment immediately. The cost of the relevant medical treatments will be borne in full by the travellers. As such travellers are required be insured for any COVID-19 related medical treatment before travelling to Singapore. Click [here](https://safetravel.ica.gov.sg/health/travelinsurance) for more information on this requirement.
 
-#### 22. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
- 
-You should schedule your travel into Singapore at least 21 days after your date of COVID-19 diagnosis, based on your first positive PCR test. **For example, if the date of your swab which yielded your first positive PCR test is on 1 Nov (Day 1), you should only depart for Singapore on 22 Nov (Day 22) and onwards. You should not travel if feeling unwell.**
- 
-Travellers with a recent diagnosis of COVID-19 infection in the past 21 days will be denied boarding on flights bound for Singapore. 
-
-#### 23. What documentation do I need to present before I depart from Indonesia to Singapore? 
-
-Travellers are required to produce the following documents at the airlines/ferries check-in counter and immigration counter: 
- - A valid SafeTravel Pass approval letter (the date of entry into Singapore must fall within the period of entry stated in the letter); 
- - A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be from one of the healthcare institutions listed in [Annex A](#annexa) and <u>should be in English</u> and clearly state the time and date the PCR test was taken); and
- - A return air/ferry ticket or proof of other transport arrangements to depart Singapore. 
- 
- Otherwise, the traveller may be refused boarding. 
-
-<div id="HealthSafeguards"></div>
-### **Public Health Safeguards in Singapore**
- 
-#### 24. What COVID-19 tests will I be subject to upon arrival in Singapore? Where will the COVID-19 PCR test be administered? What are the payment modes accepted for the COVID-19 PCR test? 
- 
- Travellers entering Singapore on the RGL will be directed to take a COVID-19 PCR test upon arrival at Changi International Airport or Tanah Merah Ferry Terminal in Singapore. For RGL travellers to qualify for exemption from the Stay-Home-Notice (SHN) requirement, travellers must take the COVID-19 PCR test at the assigned swabbing station within the airport or ferry terminal. Please approach ground staff upon arrival for assistance. 
- 
-Travellers arriving in Singapore by plane are encouraged to pre-register and pre-pay for the COVID-19 PCR test prior to entry into Singapore. Pre-registration and prepayment can be made via the online portal at https://safetravel.changiairport.com. Travellers should expect to pay around S$160 (inclusive of GST) for the test upon arrival at the airport. 
- 
-Travellers arriving in Singapore by ferry will make payment for the COVID-19 PCR test via credit card or NETS upon arrival at Tanah Merah Ferry Terminal. Travellers should expect to pay around S$150 (inclusive of GST) for the on-arrival swab test at the ferry terminal.  
- 
-#### 25.  What if I test positive for COVID-19 in Singapore? 
-
-Travellers who test positive for COVID-19 will be given medical treatment accordingly. Travellers will be responsible for charges for COVID-19 treatment if symptoms develop during his/her stay in Singapore. 
-
-Singapore Citizens and PRs may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.  
-
+Singapore Permanent Residents may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders may tap on their usual financing arrangements, such as private insurance, where applicable.
 Note that all Short-Term Pass holders will be accorded the necessary medical treatment at their cost.
 
-#### 26. What if I am identified as a close contact of confirmed COVID-19 cases?  
-
-MOH’s contact tracing officers will assess who among the close contacts should be placed on quarantine and a quarantine order (QO) will be issued. A QO is a legal order issued to individuals under the Infectious Diseases Act, for more information, you may refer to this [link](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders). 
-
-For travellers that requires to extend their visit pass/stay, please contact the enquiries via <COVID_SafeTravelEnquiries@mti.gov.sg>.  
-
-#### 27. Can i visit the shops in the public area (e.g. to buy food or beverages) within airport terminal or Jewel upon arrival in Singapore?
-
-No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car <u>pre-arranged</u> by the host. <b>The use of public transportation is not allowed.</b> They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controled itineraries after being notified of their negative test results.
-
-### **Health Measures in Singapore**
-
-#### 28. What health measures will I be subjected to upon arrival in Singapore? 
-
-RGL travellers from Indonesia must take a COVID-19 PCR upon arrival in Singapore at the airport or ferry terminal. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car <u>pre-arranged</u> by the host, the use of public transportation is not allowed. RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). Any cost incurred, e.g. post-arrival PCR test in Singapore and stay in the declared accommodation, will be borne by the traveller. Failure to comply with any of these requirements may result in the immediate revocation of the Safe Travel Pass.
+#### 22.	I was identified as a close contact of a confirmed COVID-19 case. What does it mean?
  
-If the result indicates that the traveller has tested negative for COVID-19, the host company or government agency will ensure that the traveller is transported directly from the declared accommodation to the workplace and back according to the submitted controlled itinerary for the traveller’s stay in Singapore. The traveller may not use public transportation for this purpose, with the exception of private hire cars/taxis or cohorted company transport.<sup>2</sup> 
+Close contacts of an active COVID-19 case will be identified by MOH through contact tracing. Individuals assess to be a close contact of an active COVID-19 case may be issued a quarantine order (QO) under the Infectious Diseases Act. Click [here](https://www.gov.sg/article/everything-you-need-to-know-about-quarantine-orders) for more on the QO. Affected travellers should extend their visit pass, if duration of the QO exceeds the visit pass’ validity period.
 
-Throughout the duration of the traveller’s controlled itinerary, he/she is not allowed access to common facilities or amenities in the declared accommodation, that are not within the ambit of activities related to the conduct of business activities. Such examples include gyms, swimming pools, sauna facilities or any other recreational places.
- 
-Travellers to Singapore must use the TraceTogether app and SafeEntry<sup>3</sup>, take their temperature twice daily, report their health status to the host company or government agency, and adhere to prevailing public health requirements for the duration of their stay in Singapore. If the traveller subsequently tests positive for COVID-19 while in Singapore, he/she will be required to upload his/her TraceTogether app data via the TraceTogether app, using an upload code provided by MOH. If the traveller had used the TraceTogether app on a phone that was provided by the host/sponsor, the host/sponsor will be required to upload the TraceTogether app data via the same process. 
- 
-Travellers should also abide by the prevailing public health measures in Singapore. 
+#### 23.	Can I visit the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
 
-#### 29. What is the TraceTogether app? Does the Singapore Government track my movements via the app? 
- 
-The TraceTogether app supports Singapore’s nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby phones running the same app. The proximity data collected allows the identification of people who were in close contact with an infected person more efficiently. The proximity data collected is stored locally in the user’s phone, and is only shared with the Singapore Ministry of Health if the user tests positive for COVID-19. The TraceTogether app does not collect or track location data. 
- 
-The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found at <https://www.tracetogether.gov.sg>. 
- 
-#### 30. What is SafeEntry?
- 
-SafeEntry is a national digital check-in system that logs the personal identification numbers and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. 
+No, travellers are not allowed to enter any of these shops. After taking the COVID-19 PCR test, the travellers are to commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the host, the use of public transportation is not allowed. They must remain isolated at the accommodation until the test result is confirmed to be negative. Travellers will only be allowed to go about their activities within the submitted controlled itineraries after being notified of their negative test results.
 
-An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in. 
+<div id="HealthSafeguards"></div>
+
+### **Public Health Safeguards in Singapore**
  
+#### 24.	What health measures will I be subjected to upon arrival in Singapore?
+ 
+Travellers should refer to the relevant Terms & Conditions, for details on the health measures that they must observe upon arrival in Singapore. Travellers can click [here](https://safetravel.ica.gov.sg/rgl/terms-and-conditions) to view the Terms and Conditions.
+
+RGL travellers from Indonesia must take a PCR test upon arrival in Singapore. After undergoing the test, the RGL travellers will commute directly from the immigration checkpoint to the declared self-sourced (non-residential) accommodation through a dedicated vehicle in the form of private transportation, taxi, or private hire car pre-arranged by the host, the use of public transportation is not allowed. RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). Travellers and application sponsors should note that the declared accommodation during the first 14 days of stay in Singapore must be a non-residential address. Any cost incurred, e.g. post-arrival PCR test in Singapore and stay in the declared accommodation, will be borne by the traveller. Failure to comply with any of these requirements may result in the immediate revocation of the Safe Travel Pass.
+
+Travellers can leave their accommodation only if they are tested negative for COVID-19 in Singapore. All travellers are required to adhere strictly to the controlled itinerary submitted; access to common facilities/amenities in the declared accommodation, which is beyond the scope of his/her declared business activities in Singapore, is prohibited. Travellers are also prohibited from taking public transportation during their stay in Singapore and can only commute using private hire cars/taxis or cohorted company transport that the host company/government agency may arrange.
+
+Travellers should take their temperature twice daily and report their health status to the host company/government agency. During their stay in Singapore, travellers must adhere to prevailing public health requirements, which includes the use of the TraceTogether mobile application and SafeEntry.
+
+#### 25.	What is the TraceTogether app? Does the Singapore Government track my movements via the app?
+
+The TraceTogether app supports nationwide efforts to combat COVID-19 by enabling community-driven contact tracing. It facilitates the contact tracing process by exchanging Bluetooth signals with nearby mobile devices running the same app. Together with other digital contact tracing tools, TraceTogether’s Bluetooth proximity data has helped to reduce average contact tracing time from 4 days to less than 1.5 days.
+
+The Bluetooth proximity data collected is stored locally in the user’s phone.  If the user test positive for COVID-19, the Singapore Ministry of Health will approach the user to upload their Bluetooth proximity data for contact tracing purposes. TraceTogether app does not collect or track your GPS location data. You may read more about our [Privacy Safeguards](https://tracetogether.gov.sg/common/privacystatement/).
+
+The app works best on phones with Android version 5.1 and above, as well as phones with iOS version 10 and above. More information on the app can be found [here](https://tracetogether.gov.sg/).
+
+#### 26.	Must every traveller download and activate the TraceTogether app?
+
+Yes, all traveller to Singapore must download and activate the TraceTogether app.
+
+#### 27.	After downloading the TraceTogether app, how do I activate it?
+
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore. 
+
+Please ensure that your TraceTogether App is updated to the latest version. If you are using v2.6 and above, you will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore.</b> Follow the instructions to activate the app until you reach the Home Screen.
+
+<table>
+ <tr>
+     <th>Holding Screen</th>
+    <th>Home Screen</th>
+ </tr>
+<tr>
+ <td><a href="XXXX"</a>Holding screen image</td>
+  <td><a href="XXXX"</a>Home Screen Image</td>
+ </tr>
+</table>
+
+If you are using an older version (before v2.6) of the app, you will see the following screen.
+<insert old screenshot here>
+ 
+For more information, please refer to the TraceTogether [website](https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-).
+
+If you require assistance on how to download and activate the TraceTogether app, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a>.
+
+#### 28.	I have downloaded the app, but I cannot activate my TraceTogether App. What should I do?
+
+Please check if your app has been updated to the latest version.
+You can activate your app only after clearing Singapore immigration. Please note that there may be a short lag after clearing immigration before you can activate the app. 
+
+If you still are unable to activate your app after immigration clearance, please check that you registered your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. 
+
+Should you still encounter issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. Screenshots indicating error encountered will be most helpful.
+
+#### 29.	If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+ 
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the [RGL Terms and Conditions](https://safetravel.ica.gov.sg/rgl/terms-and-conditions).
+
+If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
+
+Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+
+#### 30.	What happens if travellers do not have mobile devices to download the TraceTogether app?
+ 
+All travellers must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074), [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
+
+A traveller who does not have a TraceTogether-compatible device must secure in advance the rental of a TraceTogether-compatible device prior to arrival. For more information on the rental of Trace-Together compatible devices, please visit the Changi Recommendation website [here](https://safe.menlosecurity.com/https:/www.changirecommends.com/reservation_form.aspx).
+
+Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
+
+Where the traveller used his/her own TraceTogether-compatible device for the download and usage of the TraceTogether app, the traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning.
+
+#### 31.	Can travellers switch off their mobile devices while in Singapore?
+
+No, travellers must keep mobile devices and the Bluetooth function switched on at all times while in Singapore.
+
+#### 32.	Can travellers uninstall the TraceTogether app upon departing from Singapore?
+
+Travellers must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
+
+#### 33.	What is SafeEntry?
+
+SafeEntry is a national digital check-in system that logs the NRIC/FIN and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters.
+
+An existing check-in method is via scanning of a QR code at the venue with a camera phone or a QR scanner app. Hence, you are encouraged to purchase a Singapore local data SIM card, or connect your mobile phone to a Singapore local Wi-Fi network to access the form for this mode of check-in.
+
 Alternatively, some venues allow you to complete SafeEntry by presenting your passport as identification. Establishments will assist visitors with manual SafeEntry check-in.
- 
-More information can be found at <https://www.safeentry.gov.sg>. 
+
+More information on the system can be found [here](https://www.safeentry.gov.sg/).
+
+#### 34.	What happens if I do not comply with the terms and conditions for the SafeTravel Pass?
+
+The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance with any of the conditions of the SafeTravel Pass may result in refusal of entry into Singapore and/or cancellation of the SafeTravel Pass. The traveller and the Host shall be jointly liable for and bear all costs incurred for the cost of repatriation, as well as cost of custody and care pending repatriation. Future SafeTravel Pass applications may also be rejected.
+
+#### 35.	Can I visit the convenient store/shopping mall/supermarket to purchase daily necessity or business-related items? 
+
+No, travellers should seek assistance from their Host to make the purchases on their behalf to limit the contact with the local community. Any deviation from controlled itinerary may result in the cancellation of Visit Pass.
 
 <div id="ReturntoIndonesia"></div>
+
 ### **Returning to Indonesia**
 
-#### 31. Do i need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia? 
+#### 36.	Do I need to be tested again in Singapore before i return to Indonesia? Do i need to be quarantined or be tested again upon return to Indonesia?
 
-Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test within 72 hours before departure. 
+Indonesia requires RGL travellers who return to Indonesia from Singapore to undergo a PCR test 72 hours before departure.
 
-The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on teh procedure to book an appointment are at [Annex C](#annexc). The traveller must take the test and obtain a health certificate of having tested negative for COVID-19. 
+The list of healthcare institutions that can perform pre-departure COVID-19 tests and details on the procedure to book an appointment are at [Annex A](#annexa). The traveller must take the test and obtain a health certificate of having tested negative for COVID-19.
 
-Travellers should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to the flight. 
+Travellers should make an appointment that fits your required testing window, and be present at the clinic early for the appointment, at least 48 hours prior to the flight.
+RGL travellers who are returning to Indonesia from Singapore should bring the following when presenting at the clinic for testing:
+<ul>
+ <li>Identity card or passport.</li>
+ <li>PDF copy of the SafeTravel Pass.</li>
+<li>Proof of return transportation arrangements from Singapore in softcopy (e.g. air/ferry ticket) indicating the departure flight/ferry timing.</li>
+</ul>
+RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities.
 
-RGL travellers who are returning to Indonesia from Singapore should bring the following when presenting at the clinic for testing: 
- - Identity card or passport.
- - Softcopy showing your departure flight/ferry timing.
+RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19(via a PCR test) at designated quarantine facilities in Indonesia.
 
-RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities. 
+For more information regarding Indonesia’s policy for travellers that are returning to Indonesia, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb))
 
-RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19(via a PCR test) at designated quarantine facilities in Indonesia. 
-
-For more information regarding Indonesia's policy for travellers that are returning to Indonesia, please contact the Indonesian Embassy in Singapore (point-of-contact listed at [Annex B](#annexb))
+If a RGL returnee subsequently tests positive for COVID-19 within 14 days after leaving Singapore, he/she will be required to upload his/her TraceTogether app data via the TraceTogether app, using an upload code provided by MOH. If the traveller had used the TraceTogether app on a phone that was provided by the host/sponsor, the host/sponsor will be required to upload the TraceTogether app data via the same process.
 
 <div id="annexa"> </div>
 
 ## **ANNEX A** 
 
-### **Pre-Departure COVID-19 Tests in Indonesia** 
+### **Pre-Departure COVID-19 Tests in Singapore** 
 
 Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken at selected healthcare institutions listed [here](/pdf/IDN_clinic_listing.pdf). 
 
@@ -251,80 +306,4 @@ Pre-departure COVID-19 tests for RGL travellers from Indonesia may only be taken
 
 The hotline for matters pertaining to travel to Indonesia under the RGL is 0855 746 746 27 (calling from Indonesia)/ (+62) 855 746 746 27 (calling from Singapore).
 
-The Embassy of the Republic of Indonesia in Singapore can be contacted at (+65) 6737 7422 (telephone) or <singapura.kbri@kemlu.go.id> (email). 
-
-<div id="annexc"> </div>
-
-## **ANNEX C** 
-
-### **Pre-Departure COVID-19 Tests in Singapore**
-
-#### 1. At which clinics can I take the pre-departure Polymerase Chain Reaction (PCR) test? 
-
-Pre-departure COVID-19 PCR tests for the Singapore-Indonesia RGL may only be performed at [selected clinics](https://go.gov.sg/covid19pcrtestproviders) for eligible RGL travellers. 
-
-Please call the clinic to make an appointment, before proceeding for the swab. Pre-departure swabs may not be performed if you do not have an appointment.
-
-#### 2. What is the latest timing I have to present myself at the clinic for the pre-departure COVID-19 PCR test, based on my departure flight timing?
-
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment, at least 48 hours prior to flight. Travellers who present themselves at the clinic less than 38-40 hours to the flight may not be able receive the result in time for the flight. You are responsible for checking that your testing window is in line with your destination country/region’s requirement.
-
-#### 3. When is the latest time/date I have to be at the clinic, based on my departure flight timing? 
-
-You should make an appointment that fits your required testing window and be present at the clinic early for the appointment.
-
-#### 4. How can I make an appointment for pre-departure PCR testing? 
-
-For RGL travel to Indonesia, the pre-departure PCR test must be done within 72 hours prior to departure. 
-
-Please call the clinic and book your test slot before the Cut-off Test Timing in the schedule above. This is to ensure that you will have sufficient time to meet the RGL requirements. 
-
-#### 5. How far in advance should I make an appointment for the pre-departure PCR test? 
-
-Due to limited slots, please make your appointment with the clinic as early as possible, once your flight timing and RGL application are approved. 
-
-Please refer to the <b>Schedule for the “Latest Cut-off Test Timing” and book your test slot within the indicated timing.</b> This is to ensure that you meet the RGL requirements. 
-
-If you do not make a prior appointment, please note that: 
-1. There is no guarantee that there will be a test slot for you; and 
-2. You may not get your results in time for your flight to qualify for RGL arrangements.
- 
-Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight. 
-
-#### 6. What details will I need to book an appointment for the PCR test? 
-
-Please have the following information on hand when making an appointment for your test: 
-1. Identity card number or passport number. 
-2. Departure flight timing. 
-3. Possible times for your test slot: Please refer to the Test Schedule to confirm your timing. 
-4. Address in Singapore.
-5. Contact number.
-6. Email address. 
-
-#### 7. What documents should I bring for my appointment? 
-
-Please bring the following: 
-1. Identity card or passport. 
-2. Softcopy booking reference showing your departure flight timing. 
-
-### **Testing** 
-
-#### 8.  What happens if the clinic assesses that I am unable to receive the PCR test for unforeseen circumstances? 
-
-If you are unable to receive the test, you may wish to reschedule your flight, if you still wish to tap on the RGL arrangement. 
-
-### **Test Results**
-
-#### 9. When can I expect to get my PCR test results? 
-
-You will receive your PCR test results and memo at least three hours before your flight. 
-
-The clinic will email the results to your email address. You will need to print and bring the memo overseas yourself. 
-
------
-
-<sup>1</sup>The term “sponsor” refers to the Singapore company or government agency making the application on behalf of the traveller. The term “host” refers to the Singapore company or government agency that receives the traveller in the destination country/region.  For company-sponsored travellers, the sponsor will also be the host company.
-
-<sup>2</sup>Cohorted company transport refers to an arrangement whereby inbound travellers on the same trip are transported in the same vehicle. 
-
-<sup>3</sup>Travellers can scan the SafeEntry QR code to submit their personal particulars using a recommended QR scanner app on phones with local data sim cards, or by submitting their passport numbers to businesses to be manually keyed into the “SafeEntry for Business” app.  
+The Embassy of the Republic of Indonesia in Singapore can be contacted at (+65) 6737 7422 (telephone) or <singapura.kbri@kemlu.go.id> (email).
