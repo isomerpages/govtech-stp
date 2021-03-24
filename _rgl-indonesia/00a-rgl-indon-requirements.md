@@ -154,10 +154,7 @@ An approval letter will be issued to the applicant and sponsoring company or gov
   </tr>
   <tr>
     <td rowspan="1" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether App/Token</b></td>
-   <td style="font-size:16px;border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The local host* must:
-      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore;</li>
-         </ol> 
+   <td style="font-size:16px;border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;">The local host* must ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore. 
     </td>
   </tr>
   </tbody>
@@ -192,8 +189,8 @@ An approval letter will be issued to the applicant and sponsoring company or gov
 border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"><b>RGL travellers must:</b>  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Adhere to the Controlled Itinerary submitted for the duration of stay; and</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Commute using private hire cars/taxis, or cohorted company transport (commuting via public tansport is prohibited).</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Download and use the TraceTogether app as well as observe the SafeEntry rules.</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Commute using private hire cars/taxis, or cohorted company transport (commuting via public transport is prohibited).</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Download and use the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app as well as observe the <a href="https://www.safeentry.gov.sg/">SafeEntry</a> rules.</li>
    </ol>
  </td>
   </tr>
@@ -206,7 +203,7 @@ border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:
 </thead>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><u>The information provided in this section is for reference only. Prior to making travel arrangements, travelers are advised to consult the latest entry and other requirements issued by the Indonesian authorities.</u></b> 
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b><u>The information provided in this section is for reference only. Prior to making travel arrangements, travellers are advised to consult the latest entry and other requirements issued by the Indonesian authorities.</u></b> 
       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><b>RGL travellers who are returning to Indonesia from Singapore are required to undergo a PCR test within 72 hours before departure from Singapore.</b></p>
       <p style="font-size:16px; margin-top:10px; margin-bottom:0px;">Please refer <a href="/health/covid19-tets/pre-departure-test">here</a> for the list of clinics that can perform pre-departure COVID-19 PCR tests and details on the procedure to book an appointment. Testing for RGL travel can only be carried out at the clinics in the attached list .</p>
       <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">RGL returnees who have a valid certificate of negative PCR test result in Singapore will not be required to undergo a PCR test upon arrival in Indonesia. The returnees are still required to self-quarantine for 14 days before they can return to activities.  </p><p style="font-size:16px; margin-top:0px; margin-bottom:0px;">RGL returnees who do not have a valid certificate of negative PCR test result in Singapore upon arrival in Indonesia will be quarantined and tested for COVID-19 (via a PCR test) at designated quarantine facilities in Indonesia. </p>
