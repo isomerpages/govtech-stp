@@ -7,11 +7,11 @@ permalink: /indonesia/rgl/faq
 
 ## **Application Process for Travellers in Indonesia**
 
-A) [General Queries]((#GenQuery)
+A) [General Queries](#GenQuery)
 
 B) [RGL Application Process for Application Sponsor](#ApplicationSponsor)
 
-C) For RGL Travellers:
+C) [For RGL Travellers:](#RGLTravellers)
 <ul>
 <a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#PreDeparturePrep"><li>Mandatory Pre-Departure to Singapore Preparation</li></a>
 <a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#OAT"><li>COVID-19 Test on Arrival in Singapore</li></a>
@@ -86,6 +86,9 @@ If the traveller’s SafeTravel Pass has expired, he/she should submit a new app
 #### 10.  What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
 
 The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance will result in enforcement action taken against the traveller, including not being able to apply for travel under the RGL again.   
+
+<div id="ApplicationSponsor"></div>
+### B) RGL Application Process for Application Sponsors
 
 #### 11. What is the duration of stay that I will be eligible for in Singapore? 
 
