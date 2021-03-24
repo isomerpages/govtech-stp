@@ -57,15 +57,15 @@ The RGL is only for short-term essential business and official travel. Traveller
 
 No payment is required. 
 
-#### 9. Is there a limit to the number of times I can apply for a SafeTravel Pass? 
+#### 9.	I was approved to travel to Singapore under the RGL. Can I transit through a second country to get to Singapore? What should my travel route look like?
 
-There is no limit to the number of times a traveller can apply for a SafeTravel Pass. Every entry to Singapore requires a new SafeTravel Pass application. 
- 
-If the traveller’s SafeTravel Pass has expired, he/she should submit a new application. One traveller can only hold one valid SafeTravel Pass for a single entry into Singapore at any one point in time. Please refrain from submitting multiple SafeTravel Pass applications or submitting new applications when you already have a valid SafeTravel Pass on hand. Duplicate applications will be rejected. 
+Indonesia RGL travellers are only allowed to travel to Singapore via a non-stop flight or ferry; transits through another country is prohibited.
 
-#### 10.  What happens if I do not comply with the terms and conditions for the SafeTravel Pass? 
+#### 10.	Are there restrictions on how I can travel to Singapore?
 
-The Singapore Government takes a serious view of non-compliance with SafeTravel terms and conditions and prevailing health measures. Non-compliance will result in enforcement action taken against the traveller, including not being able to apply for travel under the RGL again.   
+Under the RGL, travellers can depart from Soekarno-Hatta International Airport by plane, and arrive at Changi International Airport. Travellers can also depart from Batam Center Ferry Terminal by ferry, and arrive at Tanah Merah Ferry Terminal.
+
+RGL travellers from Indonesia are allowed to travel from other provinces in Indonesia to Jakarta or Batam, and depart for Singapore via Soekarno-Hatta International Airport or Batam Center Ferry Terminal, respectively. RGL travellers that are travelling from other provinces must also fulfil Indonesia’s requirements for domestic travel.
 
 <div id="ApplicationSponsor"></div>
 ### B) RGL Application Process for Application Sponsors
@@ -74,35 +74,39 @@ The Singapore Government takes a serious view of non-compliance with SafeTravel 
 
 A traveller using the RGL scheme may stay for up to 10 days in Singapore. 
 
-#### 12. My travel plans have changed/some information in my application is incorrect. How can I amend the details of my SafeTravel Pass application/approved SafeTravel Pass?
+#### 12. Under the RGL arrangement, what documents are accepted as proof of residency?
 
-Both the SafeTravel Pass application and issued SafeTravel Pass cannot be amended. Please ensure that all details of the application form are accurate at the point of submission.
+Indonesia RGL travellers are can upload their Indonesia passport page as proof of residency. 
 
-#### 13.  What can I do if I have changes to my controlled itinerary? 
+#### 13.	What is the application window and processing time for the SafeTravel Pass application under the RGL arrangement?
 
-The host company or government agency should be responsible for monitoring and reporting any deviation in your controlled itinerary. The host company or government agency should email the updated controlled itinerary on behalf of the traveller to <COVID_SafeTravelEnquiries@mti.gov.sg>. Please include the approved STP reference number and have the necessary documents on hand for submission, and ensure that the amendments or deviation from the controlled itinerary are in accordance with the stipulated guidelines. 
+The application for the SafeTravel Pass is open for a period of two to five weeks before the week of the traveller’s planned departure to Singapore. As applications can take up to seven days (excluding the day of application) to process, any application submitted less than eight days from the planned date of entry will not be accepted.
+
+Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
+
+#### 14.	How will I be notified of the outcome of the SafeTravel Pass application?
+
+The applicant sponsor will be notified of the outcome of the SafeTravel Pass application via the email provided in the application.
+
+Sponsors may also enquire about the application status <a href="http://eservices.ica.gov.sg/STO">here</a> using the traveller’s identification details and intended date of arrival in Singapore.
  
-#### 14.  Can the sponsoring company / agency or traveller check the status of the SafeTravel Pass application? 
+#### 15.	I noticed a mistake in the application that I had submitted. What should I do to address the error?
 
-For applications for entry into Singapore from 9 Nov 2020, the sponsoring company/agency or traveller may make enquires about the status of their application(s) at <https://eservices.ica.gov.sg/STO>. 
-
-Please prepare the traveller’s identification details and intended date of entry into Singapore as declared in the STP application.  
+Amendments cannot be made once an application is submitted . Application sponsors should therefore ensure that all application details are accurate at the point of submission..
  
-#### 15. Why was my application rejected? 
+#### 16.	What should I do if there are changes in the 14-day controlled itinerary submitted?
 
-SafeTravel Pass applications may be rejected for reasons, including the following: 
- - Inadequate justifications provided for reason of travel.
- - Non-compliant controlled itinerary submitted. 
- - Wrong proof of residency submitted. 
- - Quota limit reached for intended week of entry.
- 
-#### 16. Can I use the RGL to come to Singapore for long-term work? 
+As a <a href="https://safetravel.ica.gov.sg/rgl/terms-and-conditions">condition</a> for entry into Singapore, travellers approved under the RGL arrangement must adhere to the controlled itinerary submitted. Failure to do so can result in the immediate revocation of the SafeTravel Pass and termination of the visit pass. Application sponsors should therefore ensure that the controlled itinerary submitted is accurate. Should there be any changes in the itinerary, application sponsors can write to <a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg">COVID_SafeTravelEnquiries@mti.gov.sg</a> with the approved SafeTravel Pass reference and revised controlled itinerary.
 
-The RGL is only for short-term essential business and official travel, and not for longterm work. Travellers seeking to enter Singapore for long-term work may wish to visit <https://www.mom.gov.sg/passes-and-permits> for more information on a separate scheme. 
+#### 17.	Why was my application rejected?
 
-#### 17. Can I use the RGL to come to Singapore for long-term study? 
-
-The RGL is only for short-term essential business and official travel, and not for longterm study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/mediarelease/entry-approval-required-for-all-long-term-pass-holders> for more information.  
+Safe Travel Pass applications may be rejected for one or more of the following reasons:
+<ul>
+ <li>Inadequate justifications for reason of travel</li>
+ <li>Non-compliant 14-day controlled itinerary</li>
+ <li>Invalid proof of residency</li>
+ <li>Insufficient quota for the intended week of entry</li>
+</ul>
 
 <div id="RGLTravellers"></div>
 ### C) For RGL Travellers
