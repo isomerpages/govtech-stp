@@ -1,5 +1,3 @@
-
-
 ### **FREQUENTLY ASKED QUESTIONS (FAQS) ON RECIPROCAL GREEN LANE (RGL) ARRANGEMENTS** 
 The following FAQs apply to Indonesian citizens seeking single-entry, short-term essential business and official travel into Singapore under RGL (Indonesia).
 

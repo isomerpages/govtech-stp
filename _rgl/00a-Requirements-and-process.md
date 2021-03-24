@@ -121,7 +121,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">medical institution</a>designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test, stating the time and ate which the test was administered. 
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">medical institution</a> designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test, stating the time and date which the test was administered. 
  </td>
   </tr>
   <thead>
@@ -136,7 +136,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a> for arrivals by air. For arrivals by land, travellers will amke the payment for their post-arrival COVID-19 PCR test upon arrival at the land checkpoints.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a> for arrivals by air. For arrivals by land, travellers will make the payment for their post-arrival COVID-19 PCR test upon arrival at the land checkpoints.</li>
          </ol> 
     </td>
   </tr>
