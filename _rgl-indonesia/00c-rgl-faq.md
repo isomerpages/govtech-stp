@@ -68,7 +68,8 @@ Under the RGL, travellers can depart from Soekarno-Hatta International Airport b
 RGL travellers from Indonesia are allowed to travel from other provinces in Indonesia to Jakarta or Batam, and depart for Singapore via Soekarno-Hatta International Airport or Batam Center Ferry Terminal, respectively. RGL travellers that are travelling from other provinces must also fulfil Indonesia’s requirements for domestic travel.
 
 <div id="ApplicationSponsor"></div>
-### B) RGL Application Process for Application Sponsors
+
+### **B) RGL Application Process for Application Sponsors**
 
 #### 11. What is the duration of stay that I will be eligible for in Singapore? 
 
@@ -109,7 +110,7 @@ Safe Travel Pass applications may be rejected for one or more of the following r
 </ul>
 
 <div id="RGLTravellers"></div>
-### C) For RGL Travellers
+### **C) For RGL Travellers**
 
 <div id="PreDeparturePrep"></div>
 ### Mandatory Pre-departure to Singapore Preparation
