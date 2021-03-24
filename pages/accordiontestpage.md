@@ -69,9 +69,9 @@ input:checked + label + .content {
 <div class="content">
 		<p style="margin-top:0px; margin-bottom:0px; font-size:18px; color:red;"><b>1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?</b>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">Each Safe Travel Lane will have different requirements for SHN or have no SHN requirement. Please refer to the requirements of each Safe Travel Lane via the arrival overview page <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a>, or via the Safe Travel Lanes dropdown list at the top navigation bar of the SafeTravel website.</p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:18px; color:red;"><b>2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?</b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b>2. Can I choose to serve my Stay-Home Notice (SHN) at a dedicated SHN facility if I do not have a suitable place of residence?</b></p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:15px;"><b>Singapore Citizens/ Permanent Residents</b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:15px; ">Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the link go.gov.sg/shnhotelneeds. All requests will be assessed on a case-by-case basis.
+		<p style="margin-top:0px; margin-bottom:0px; font-size:15px; ">Singapore citizens and permanent residents who do not have a suitable residence to serve their SHN in may appeal to serve their SHN at a dedicated SHN facility through the <a href="go.gov.sg/shnhotelneeds">link</a>. All requests will be assessed on a case-by-case basis.
 </p>
 		<p style="margin-top:10px; margin-bottom:0px; font-size:15px;"><b>Long-Term Pass Holder</b></p>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">Long-Term Pass Holders will have to secure a suitable accommodation to serve their SHN in prior to their arrival in Singapore.</p>
@@ -84,11 +84,15 @@ input:checked + label + .content {
 </p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:18px;color:red;"><b>5. I am unable to stay at the accommodation I had declared in my Stay-Home Notice (SHN) at the checkpoint. What should I do?</b>
 </p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor</b>, please call 6812 5555.</p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Work Pass holder</b> please submit your request at <a href="https://mom.gov.sg/feedbackSHN">https://mom.gov.sg/feedbackSHN</a>>.
-</p>
-	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Student Pass holder</b> please submit your request at <a href="https://go.gov.sg/moe-shn-form">https://go.gov.sg/moe-shn-form</a>.
-</p>
+	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:15px;">
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Singapore citizen, permanent resident, Long-Term Visit Pass holder or short-term visitor</b>, please call 6812 5555.</li>
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Work Pass holder</b> please submit your request at <a href="https://mom.gov.sg/feedbackSHN">https://mom.gov.sg/feedbackSHN</a></li>
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">If you are a <b>Student Pass holder</b> please submit your request at <a href="https://go.gov.sg/moe-shn-form">https://go.gov.sg/moe-shn-form</a>.
+</li>
+</ol>
+	</p>
+
+	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"></p>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:18px;"></p>
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;"></p>
 		
