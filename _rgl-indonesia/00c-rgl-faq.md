@@ -13,10 +13,10 @@ B) [RGL Application Process for Application Sponsor](#ApplicationSponsor)
 
 C) [For RGL Travellers:](#RGLTravellers)
 <ul>
-<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#PreDeparturePrep"><li>Mandatory Pre-Departure to Singapore Preparation</li></a>
-<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#OAT"><li>COVID-19 Test on Arrival in Singapore</li></a>
-<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#HealthSafeguards"><li>Public Health Safeguards in Singapore</li></a>
-<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#ReturntoIndonesia"><li>Return to Indonesia</li></a>
+<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#PreDeparturePrep">Mandatory Pre-Departure to Singapore Preparation</a></li>
+<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#OAT">COVID-19 Test on Arrival in Singapore</a></li>
+<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#HealthSafeguards">Public Health Safeguards in Singapore</a></li>
+<li><a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#ReturntoIndonesia">Return to Indonesia</a></li>
 </ul>
 
 <div id="GenQuery"></div>
@@ -123,7 +123,12 @@ The RGL is only for short-term essential business and official travel, and not f
 #### 17. Can I use the RGL to come to Singapore for long-term study? 
 
 The RGL is only for short-term essential business and official travel, and not for longterm study. Travellers seeking to enter Singapore for study may wish to visit <https://www.ica.gov.sg/news-and-publications/media-releases/mediarelease/entry-approval-required-for-all-long-term-pass-holders> for more information.  
-   
+
+<div id="RGLTravellers"</div>
+### C) For RGL Travellers
+
+### Mandatory Pre-departure to Singapore Preparation
+
 #### 18. Can I use the RGL to come to Singapore to seek medical treatment? 
 
 The RGL is only for short-term essential business and official travel, and not for seeking medical treatment. Enforcement action will be taken against travellers found to have abused the RGL to seek medical treatment in Singapore, including not being able to apply for travel under the RGL again. 
