@@ -134,7 +134,8 @@ RGL travellers entering Singapore via air and sea transport must produce the fol
 <li>A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.</li>
 <li>Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.</li>
 <li>A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether-compatible device in Singapore.</li>
- 
+</ul>
+
 Traveller who does not have any of the above may be refused boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 29.
 
 <div id="OAT"></div>
@@ -325,7 +326,8 @@ If you do not make a prior appointment, please note that:
 <ol>
  <li>There is no guarantee that there will be a test slot for you; and</li>
  <li>You may not get your results in time for your flight to qualify for RGL arrangements.</li>
- 
+</ol>
+
 Travellers who miss the cut-off test timing will not be able to obtain a test result in time for their flight.
 
 #### 6. What details will I need to book an appointment for the PCR test?
