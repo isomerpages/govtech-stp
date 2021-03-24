@@ -201,8 +201,8 @@ Please ensure that your TraceTogether App is updated to the latest version. If y
     <th>Home Screen</th>
  </tr>
 <tr>
- <td><a href="XXXX"</a>Holding screen image</td>
-  <td><a href="XXXX"</a>Home Screen Image</td>
+ <td><a href="XXXX">Holding screen image</a></td>
+ <td><a href="XXXX">Home Screen Image</a></td>
  </tr>
 </table>
 
