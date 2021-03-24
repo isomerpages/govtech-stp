@@ -5,13 +5,23 @@ permalink: /indonesia/rgl/faq
 
 <div id="faq-top"></div>
 
-- [Application Process for Travellers in Indonesia](#faq-residents-indonesia)
-
-<div id="faq-residents-indonesia"></div>
-
 ## **Application Process for Travellers in Indonesia**
 
-### **Application**
+A) [General Queries]((#GenQuery)
+
+B) [RGL Application Process for Application Sponsor](#ApplicationSponsor)
+
+C) For RGL Travellers:
+<ul>
+<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#PreDeparturePrep"><li>Mandatory Pre-Departure to Singapore Preparation</li></a>
+<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#OAT"><li>COVID-19 Test on Arrival in Singapore</li></a>
+<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#HealthSafeguards"><li>Public Health Safeguards in Singapore</li></a>
+<a href="https//safetravel.ica.gov.sg/indonesia/rgl/faq#ReturntoIndonesia"><li>Return to Indonesia</li></a>
+</ul>
+
+<div id="GenQuery"></div>
+
+### **A) General Queries**
 
 #### 1. Who is eligible to apply to travel to Singapore under the RGL? 
 
