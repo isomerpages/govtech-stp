@@ -169,8 +169,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:10px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:10px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
          </ol> <br/>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
       <br/>
