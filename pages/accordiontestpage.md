@@ -96,7 +96,31 @@ input:checked + label + .content {
 	<p style="margin-top:0px; margin-bottom:0px; font-size:15px;">You must remain in your place of residence or SHN Dedicated Facilities (SDF) at all times during the SHN period. Do not leave your residence/SDF, even if it is to purchase food and essentials. If necessary, you may opt for home delivery services or enlist the assistance of others for your daily necessities.</p>
 <p style="margin-top:0px; margin-bottom:0px; font-size:15px;">If you require special assistance, such as financial or emotional or psychological support, during the SHN period, Singapore citizens/ permanent residents and Long-Term Visit Pass holders may call <u><b>6812 5555</b></u>.
 </p>
-		
+	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b>7. When will the Stay-Home Notice (SHN) begin?</b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">The SHN will commence from the day of your return to Singapore.</p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">For example, if you return to Singapore on 18 Jun 2020, and served with a 14-day period SHN, your SHN commences on 18 Jun 2020 and will cease to have effect after 2 Jul 2020, 12 pm or until the results of the COVID-19 test are notified to you, whichever is later.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">You are required to complete your SHN even if the result of your COVID-19 test is negative. You are required to continue to remain at your dedicated SHN facilities/place of residence till you have completed your SHN.
+</p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b>8. Will I be informed or given any notice that my Stay-Home Notice (SHN) has expired?</b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">You will not be informed/given a notice after completing your SHN. An SHN duration calculator is available <a href="https://service2.mom.gov.sg/shn/shn-calculator/">here</a>.
+</p>
+		<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b>9. What are the penalties for not abiding with the requirements of the Stay-Home Notice (SHN)?</b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">Those who fail to comply with the SHN requirements, including undergoing the Covid-19 test, may be prosecuted in court for an offence under Singapore law, including the Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, you may be liable to imprisonment, or a fine, or both.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">In addition, if you are a:</p>
+<ol style="margin-top:0px; margin-bottom:0px; font-size:15px;">
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">Singapore permanent resident or long-term pass holder (Long-Term Visit Pass/ Dependant’s Pass/ Student’s Pass), your Re-entry Permit or passes may be revoked, or the validity shortened and you may be barred from entering Singapore in future.</li>
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">Short-term visitor, your visit pass may be cancelled and you may be barred from entering Singapore in future.</li>
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">Work pass holder, your work pass may be revoked.</li>
+	</ol>
+</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
+</p>
+	
+	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b></b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;"></p>
+	
+	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b></b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;"></p>
 </div>
 
 <input type="checkbox" id="title2" />
@@ -131,29 +155,6 @@ input:checked + label + .content {
 
 
 
-
-#### 7. When will the Stay-Home Notice (SHN) begin?
-
-The SHN will commence from the day of your return to Singapore.
-
-For example, if you return to Singapore on 18 Jun 2020, and served with a 14-day period SHN, your SHN commences on 18 Jun 2020 and will cease to have effect after 2 Jul 2020, 12 pm or until the results of the COVID-19 test are notified to you, whichever is later.
-
-You are required to complete your SHN even if the result of your COVID-19 test is negative. You are required to continue to remain at your dedicated SHN facilities/place of residence till you have completed your SHN.
-
-#### 8. Will I be informed or given any notice that my Stay-Home Notice (SHN) has expired?
-
-You will not be informed/given a notice after completing your SHN. An SHN duration calculator is available [here](https://service2.mom.gov.sg/shn/shn-calculator/).
-
-#### 9. What are the penalties for not abiding with the requirements of the Stay-Home Notice (SHN)?
-
-Those who fail to comply with the SHN requirements, including undergoing the Covid-19 test, may be prosecuted in court for an offence under Singapore law, including the Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, you may be liable to imprisonment, or a fine, or both.
-
-In addition, if you are a:
-- Singapore permanent resident or long-term pass holder (Long-Term Visit Pass/ Dependant’s Pass/ Student’s Pass), your Re-entry Permit or passes may be revoked, or the validity shortened and you may be barred from entering Singapore in future.
-- Short-term visitor, your visit pass may be cancelled and you may be barred from entering Singapore in future.
-- Work pass holder, your work pass may be revoked.
-
-Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
 
 #### 10. What if I have extenuating circumstances to attend to before going to the Stay-Home Notice Dedicated Facility (SDF) on my arrival in Singapore?
 
