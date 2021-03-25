@@ -121,7 +121,20 @@ input:checked + label + .content {
 <label for="title2">Accordion Two</label>
 
 <div class="content">
-<p>Your content goes here.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b>8. Will I be informed or given any notice that my Stay-Home Notice (SHN) has expired?</b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">You will not be informed/given a notice after completing your SHN. An SHN duration calculator is available <a href="https://service2.mom.gov.sg/shn/shn-calculator/">here</a>.
+</p>
+		<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b>9. What are the penalties for not abiding with the requirements of the Stay-Home Notice (SHN)?</b></p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">Those who fail to comply with the SHN requirements, including undergoing the Covid-19 test, may be prosecuted in court for an offence under Singapore law, including the Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, you may be liable to imprisonment, or a fine, or both.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">In addition, if you are a:</p>
+<ol style="margin-top:0px; margin-bottom:0px; font-size:15px;">
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">Singapore permanent resident or long-term pass holder (Long-Term Visit Pass/ Dependant’s Pass/ Student’s Pass), your Re-entry Permit or passes may be revoked, or the validity shortened and you may be barred from entering Singapore in future.</li>
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">Short-term visitor, your visit pass may be cancelled and you may be barred from entering Singapore in future.</li>
+	<li style="list-style-type:disc; margin-top:0px; margin-bottom:0px; font-size:15px;">Work pass holder, your work pass may be revoked.</li>
+	</ol>
+</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:15px;">Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
+</p>
 </div>
 
 <input type="checkbox" id="title3" />
