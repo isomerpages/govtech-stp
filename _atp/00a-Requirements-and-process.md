@@ -74,11 +74,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">c)	Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
   <ul style="margin-top:0px;">
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"> Providing care for a COVID-19 patient, including in healthcare or family/social setting; </li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
-     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">•	Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
   </ul> 
   </li>
   </ol>
