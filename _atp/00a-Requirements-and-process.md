@@ -70,9 +70,21 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in their declared point of departure in the last 14 consecutive days before departing for Singapore</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure;</li>
-     </ol>
-    </td>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure; Visitors should not travel to Singapore if they:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
+ <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">c)	Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
+  <ul style="margin-top:0px;">
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"> Providing care for a COVID-19 patient, including in healthcare or family/social setting; </li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">•	Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
+  </ul> 
+  </li>
+  </ol>
+  </li>
+  </ol>
+  </td>
  </tr>
                <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mandatory COVID-19 Travel Insurance (for visitors who apply for an ATP from 31 January 2021, 2359hrs)</b> </td>
@@ -97,7 +109,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Non-Residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result<sup>1</sup> (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>);</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1–2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>);</li>
      </ol>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</i></p>
     </td>
@@ -106,7 +118,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>2</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
      </ol>
                 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
