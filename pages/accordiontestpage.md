@@ -115,12 +115,6 @@ input:checked + label + .content {
 </p>
 <p style="margin-top:15px; margin-bottom:0px; font-size:15px;">Full-time student attending a preschool, school or other educational institution in Singapore, you might be subject to disciplinary action, including suspension or dismissal.
 </p>
-	
-	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b></b></p>
-	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;"></p>
-	
-	<p style="margin-top:15px; margin-bottom:0px; font-size:18px; color:red;"><b></b></p>
-	<p style="margin-top:15px; margin-bottom:0px; font-size:15px;"></p>
 </div>
 
 <input type="checkbox" id="title2" />
