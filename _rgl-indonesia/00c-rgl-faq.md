@@ -29,7 +29,7 @@ The SafeTravel Pass issued under the RGL arrangement is a non-transferrable sing
 
 #### 2. Is there a limit to the number of times I can apply for a SafeTravel Pass under the RGL arrangement?
 
-Under the RGL, only Indonesian Citizens who need to make essential business or official travel are allowed to travel from Indonesia to Singapore. These would include Indonesian citizens who are also Singapore Permanent Residents or Singapore Long-Term Pass holders. 
+There is no limit to the number of times a traveller can be sponsored for a SafeTravel Pass under the RGL arrangement. However, as each SafeTravel pass is only valid for single-entry into Singapore, each new entry will require a fresh application by the sponsor. While there is no cap on the number of times a traveller can be sponsored for entry under the RGL, there may be penalties in repeated cases of non-utilisation (i.e. no show). 
 
 #### 3.	Do I need to pay to apply for a SafeTravel Pass?
 
@@ -53,9 +53,9 @@ Travellers who are short-term visit pass holders from other countries seeking to
 
 The RGL is only for short-term essential business and official travel. Travellers seeking to enter Singapore for other purposes may wish to visit <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a> for more information on other schemes. 
 
-#### 8. Do I need to pay to apply for a SafeTravel Pass? 
+#### 8.	I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
-No payment is required. 
+In general, travellers who are unwell should seek for immediate medical attention and defer their travels. Travellers diagnosed with <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">COVID-19</a> less than 21 days before the scheduled date of arrival in Singapore will not be permitted travel to Singapore; airlines will deny such travellers from boarding.
 
 #### 9.	I was approved to travel to Singapore under the RGL. Can I transit through a second country to get to Singapore? What should my travel route look like?
 
@@ -83,7 +83,7 @@ Indonesia RGL travellers are can upload their Indonesia passport page as proof o
 
 The application for the SafeTravel Pass is open for a period of two to five weeks before the week of the traveller’s planned departure to Singapore. As applications can take up to seven days (excluding the day of application) to process, any application submitted less than eight days from the planned date of entry will not be accepted.
 
-Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved forapplication and visa processing (if required), as well as the mandatory pre-departure <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
+Application sponsors should apply for the SafeTravel Pass-RGL as soon as practicable. Sponsors should take into consideration the time involved for application and visa processing (if required), as well as the mandatory pre-departure <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> before departure for Singapore. That aside, application sponsors should note that the hosting company or government agency must submit a copy of the traveller’s 14-day controlled itinerary at least a day before the travellers’ arrival in Singapore.
 
 #### 14.	How will I be notified of the outcome of the SafeTravel Pass application?
 
@@ -131,12 +131,12 @@ RGL travellers entering Singapore via air and sea transport must produce the fol
 <ul>
 <li>A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).</li>
 <li>A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore).</li>
-<li>A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from.) The certificate should also be in English or accompanied by an English translation.</li>
-<li>Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.</li>
+<li>A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of Indonesia.) The certificate should also be in English or accompanied by an English translation.</li>
+<li>Proof of return transportation arrangements to depart from Singapore (e.g. air and ferry return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.</li>
 <li>A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether-compatible device in Singapore.</li>
 </ul>
 
-Traveller who does not have any of the above may be refused boarding by the airline. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 29.
+Traveller who does not have any of the above may be refused boarding by the airline or transport company. For traveller who do not have mobile devices that can download the TraceTogether app, please refer to Question 30.
 
 <div id="OAT"></div>
 
@@ -144,9 +144,9 @@ Traveller who does not have any of the above may be refused boarding by the airl
 
 #### 20.	What COVID-19 tests am I required to take upon arrival in Singapore? Where will the tests be administered, and what are the available payment modes?
 
-All RGL travellers are required to take a COVID-19 PCR test. Travellers entering Singapore by air are encouraged to <a href="https://safetravel.changiairport.com/">pre-register and pre-pay</a> for the PCR test, while travellers entering Singapore via land will pay on the day of arrival. Click <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">here</a> for more information on the tests and corresponding cost.
+All RGL travellers are required to take a COVID-19 PCR test. Travellers entering Singapore by air are encouraged to <a href="https://safetravel.changiairport.com/">pre-register and pre-pay</a> for the PCR test, while travellers entering Singapore via sea will pay on the day of arrival. Click <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">here</a> for more information on the tests and corresponding cost.
 
-In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, Seletar Airport, Woodlands or Tuas Checkpoints in Singapore for the test.
+In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport or Tanah Merah Ferry Terminal in Singapore for the test.
 
 #### 21.	What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
