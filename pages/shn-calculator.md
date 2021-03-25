@@ -5,7 +5,7 @@ permalink: /shn-calculator
 
 ## Overview
 
-The following [SHN](/health/shn) end-date calculators are general guides that will help you determine the expected end of your SHN period. Should you have any further SHN-related queries, you may contact the SafeTavel helpline at **6812 5555** for assistance.
+The following [SHN](/health/shn) end-date calculators are general guides that will help you determine the expected end of your SHN period. Should you have any further SHN-related queries, you may contact the SafeTravel helpline at **6812 5555** for assistance.
 
 For travellers staying at their own accommodation, they may only leave their SHN accommodation after receiving a negative COVID-19 Polymerase Chain Reaction test result. 
 
