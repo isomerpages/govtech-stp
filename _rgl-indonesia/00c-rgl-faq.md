@@ -146,7 +146,7 @@ Traveller who does not have any of the above may be refused boarding by the airl
 
 All RGL travellers are required to take a COVID-19 PCR test. Travellers entering Singapore by air are encouraged to <a href="https://safetravel.changiairport.com/">pre-register and pre-pay</a> for the PCR test, while travellers entering Singapore via sea will pay on the day of arrival. Click <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">here</a> for more information on the tests and corresponding cost.
 
-In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport, or Tanah Merah Ferry Terminal in Singapore for the test.
+In general, travellers should, upon arrival, identify themselves as travellers of the RGL scheme to an airport or checkpoint officer. Upon confirmation of their RGL approved status, travellers will be brought to the swabbing station within Changi Airport or Tanah Merah Ferry Terminal in Singapore for the test.
 
 #### 21.	What happens if I test positive for COVID-19 in Singapore? Do I have to pay for my COVID-19 medical bills?
 
