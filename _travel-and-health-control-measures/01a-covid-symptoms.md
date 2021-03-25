@@ -7,7 +7,7 @@ On 30 January 2020, the World Health Organisation declared the rapid transmissio
 
 According to the WHO, about 15% of all COVID-19 patients would go on to develop severe health complications, potentially leading to death. As such, travellers who are experiencing/showing any combination of the following symptoms, should defer their travel plans and seek immediate medical attention:
 
--	Fever
+-	Fever (body temperature of 37.5 degrees Celsius or higher)
 -	Cough
 -	Fatigue
 -	Loss of taste or smell
