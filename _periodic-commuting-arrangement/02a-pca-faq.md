@@ -111,7 +111,7 @@ If your employee is a Singapore PR, please refer to FAQ number 3.
 
 #### 19. I am a confinement nanny. Can I apply for a PCA to enter Singapore?
 
-No. Please get your employer to apply for an entry approval with [MOM](http://www.mom.gov.sg/passes-and-permits/work-permit-for-confinement-nanny/covid-19-precautionary-measures-for-confinement-nannies).
+No. Please get your employer to apply for an entry approval with [MOM](https://www.mom.gov.sg/passes-and-permits/work-permit-for-confinement-nanny).
 
 #### 20. I am an employment agency. Can I apply for a PCA for the domestic helpers of my clients?
 
