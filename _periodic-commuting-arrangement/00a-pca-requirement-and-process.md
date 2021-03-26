@@ -45,7 +45,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement of the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> that he/she will be subject to for entry under the PCA; and </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> ("PCR test") results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>   
@@ -84,7 +84,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 <tbody>
   <tr>
    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test")</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <b><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test") within 72 hours before departure. The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a>.</b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure. The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
      
 <b><p style="font-size:18px; margin-top:0px; margin-bottom:0px;">As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:</p></b>
 <ol style="margin-top:0px; list-style-type: disc;">
