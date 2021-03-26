@@ -139,13 +139,14 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
 <tbody>
  <tr>
      <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">PCA travellers will take a COVID-19 PCR test immediately after clearing immigration in Singapore.<br/>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">PCA travellers will take a COVID-19 PCR test immediately after clearing immigration in Singapore.<br/><br/>
 The cost of the test is payable using NETS, Credit Card or Cash at the checkpoints. <a href="/health/covid19-tests/pcrtest">Click here</a> for more information.
 </td> 
  </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Upon clearing immigration, PCA travellers will be sent a <a href="/health/shn">Stay Home Notice (SHN)</a> via e-mail and sent directly to their assigned <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, where they will complete their SHN. <!--must make their way directly to their SHN accommodation.--> </b><br/><br/>
+Travellers will be transported to their assigned SDF using Government-arranged transport. The use of personal or public transport is prohibited, e.g. cars, motorcycles, taxis or public trains and buses. 
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
