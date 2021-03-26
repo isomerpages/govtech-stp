@@ -348,7 +348,7 @@ The SafeTravel website provides a list of products offered by Singapore-based in
 <tbody>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
-    <td style="border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Email:<a href="mailto:sgp.corpcomms@aig.com">sgp.corpcomms@aig.com</a></td>
+    <td style="border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Visit:<a href="https://www.aig.sg/contact-online">https://www.aig.sg/contact-online</a></td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Chubb Insurance Singapore Limited</b></td>
@@ -356,7 +356,7 @@ The SafeTravel website provides a list of products offered by Singapore-based in
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>HL Assurance Pte. Ltd. </b></td>
-    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; ">Cherie Teo<br/>Tel: +65 9777 2370<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Cherie.teo@hlas.com.sg</a></td>
+    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; ">Tel: +65 8745 3895<br/> Email:<a href="mailto:contactsg@hlas.com.sg">contactsg@hlas.com.sg</a></td>
   </tr>
  </tbody>
  </table>
@@ -598,7 +598,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane 
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process">Work Pass Holder Lane 
 </a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">For travellers who have yet to enter Singapore:<a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx">Feedback form </a>
 </td>
