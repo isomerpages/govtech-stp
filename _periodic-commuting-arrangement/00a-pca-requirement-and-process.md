@@ -87,7 +87,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <b><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test") within 72 hours before departure. The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a>.</b>
      
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:</b></p>
-<ul style= style="margin-top:0px; list-style-type: disc;">
+<ul style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date of the test.</li>
  </ul>
