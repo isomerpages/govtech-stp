@@ -83,15 +83,20 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
   </thead>
 <tbody>
   <tr>
-   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers, except for Singapore Permanent Residents, arriving in Singapore must take a <b>COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore.</b></td>
+   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test")</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers, except for Singapore Permanent Residents, arriving in Singapore must take a <b>COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers must present a valid negative COVID-19 test result in English (or accompanied with an English translation), with the following details:</b>
+<ul style= style="margin-top:0px; list-style-type: disc;">
+ <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date of the test.</li>
+ </ul>
+</td>
  </tr>
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications
 </b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b><br/>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling <u><a href="/health/covid19-symptoms">unwell</a>. If the traveller is healthy, he/she should:</b><br/>
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
          </ol>   
     </td>
@@ -104,11 +109,10 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance by Malaysia
 </b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers must be able to produce the following
-documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers should be prepared to produce the following documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English, except for Singapore Permanent Residents, from recognised or accredited laboratories in Malaysia; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter;</li>
+     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 Polymerase Chain Reaction test (“PCR test”) report (in English) from recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a> (except for Singapore Permanent Residents);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid Malaysia-issued passport; and</li>
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Work pass (for work pass holders) or Singapore NRIC (for Singapore PRs)</li>
          </ol>     
