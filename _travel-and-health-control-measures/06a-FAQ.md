@@ -611,7 +611,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </tbody>
   </table>
   
-Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage ([here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html)) or write to MPA ([here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
+Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage ([here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html) or write to MPA ([here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
 
 
 Click here to [Go Back To Top](#top).
