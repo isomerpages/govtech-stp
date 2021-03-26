@@ -51,7 +51,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
       </ol>   
     <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
 <br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of Singapore Permanent Residents who are Malaysian nationals, should:</b></p> 
+    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
@@ -61,10 +61,10 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain employees’ acknowledgement for the following:
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">That any breach in SHN requirements or submission of false declarations is an offence punishable under Singapore’s laws;</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose their COVID-19 PCR test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement that any breach in <a href="/health/shn">SHN</a> requirements or submission of false declarations constitutes an offence that is punishable under Singapore’s laws;</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Consent to disclosing their PCR test results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>      
@@ -84,7 +84,9 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 <tbody>
   <tr>
    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test")</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers, except for Singapore Permanent Residents, arriving in Singapore must take a <b>COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers must present a valid negative COVID-19 test result in English (or accompanied with an English translation), with the following details:</b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">AApproved PCA travellers, excluding Singapore Permanent Residents, must take a <b><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test") within 72 hours before departure. The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a>.
+     
+As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:</b>
 <ul style= style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date of the test.</li>
