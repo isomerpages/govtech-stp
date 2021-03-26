@@ -269,7 +269,7 @@ Action will be taken against errant travellers who fail to comply with any of th
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
-Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
+Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
 #### 9. I am travelling with my child. Is my child be required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
@@ -348,7 +348,7 @@ The SafeTravel website provides a list of products offered by Singapore-based in
 <tbody>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
-    <td style="border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Email:<a href="mailto:sgp.corpcomms@aig.com">sgp.corpcomms@aig.com</a></td>
+    <td style="border-right:1px solid #D8D8D8;">AIG Singapore, Corporate Communications <br/> Visit:<a href="https://www.aig.sg/contact-online">https://www.aig.sg/contact-online</a></td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Chubb Insurance Singapore Limited</b></td>
@@ -356,7 +356,7 @@ The SafeTravel website provides a list of products offered by Singapore-based in
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>HL Assurance Pte. Ltd. </b></td>
-    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; ">Cherie Teo<br/>Tel: +65 9777 2370<br/> Email:<a href="mailto:Juliana.lim@chubb.com">Cherie.teo@hlas.com.sg</a></td>
+    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; ">Tel: +65 8745 3895<br/> Email:<a href="mailto:contactsg@hlas.com.sg">contactsg@hlas.com.sg</a></td>
   </tr>
  </tbody>
  </table>
@@ -438,7 +438,7 @@ When and how payment is collected, will depend on the travellers’ scheme of tr
     <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test [here](https://safetravel.changiairport.com/#/), before arrival.</td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overviews">Connect@Singapore</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Please enquire and make the necessary arrangement with your Appointed Facility.</td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
@@ -459,7 +459,7 @@ Travellers will pay for the on-arrival COVID-19 PCR test upon arrival at the lan
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-processs">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
@@ -611,7 +611,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </tbody>
   </table>
   
-Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage ([here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html)) or write to MPA ([here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
+Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage ([here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html) or write to MPA ([here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
 
 
 Click here to [Go Back To Top](#top).

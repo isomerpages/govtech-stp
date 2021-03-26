@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: Scheduled maintenance will be taking place on:<br>&bull; 25 March 2021, from 7pm to 11pm. During this period, application services for Work Pass Holder Lane will not be available.<br/>Please note that from 11 April 2012, you will be required to login to government digital services for business (G2B) using Singpass instead of Corppass. For more information, visit <a href="go.gov.sg/coporate-login">go.gov.sg/coporate-login</a>
+notification: Please note that from 11 April 2012, you will be required to login to government digital services for business (G2B) using Singpass instead of Corppass. For more information, visit <a href="go.gov.sg/corporate-login">go.gov.sg/corporate-login</a>
 
 # Site colors
 colors:
