@@ -28,9 +28,9 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit PCA application</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">here</a></b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore-based companies (i.e. application sponsors) are to submit a <a href="/malaysia/pca/apply-now">PCA application</a> on behalf of their employees.</b>
     <br/><br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of Work Pass Holders, should: </b></p> 
+    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>To apply, application sponsors of <u>Work Pass Holders</u>, must: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
        <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
