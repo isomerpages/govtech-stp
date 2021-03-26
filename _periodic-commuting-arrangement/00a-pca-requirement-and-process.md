@@ -97,7 +97,7 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications
 </b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">
-     <b>Approved PCA travellers should monitor their health and avoid travelling if feeling <u><a href="/health/covid19-symptoms">unwell</a>. If the traveller is healthy, he/she should:</b><br/>
+     <b>Approved PCA travellers should monitor their health and avoid travelling if feeling <a href="/health/covid19-symptoms">unwell</a>. If the traveller is healthy, he/she should:</b><br/>
 
    </td>
   </tr>
