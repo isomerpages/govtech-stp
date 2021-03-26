@@ -42,10 +42,10 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain employees’ acknowledgement for the following:
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Additional work pass conditions that he/she is subjected to under the PCA (click <a href="/malaysia/pca/terms-and-conditions">here</a>); and </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose their COVID-19 PCR test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement of the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> that he/she will be subject to for entry under the PCA; and </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>   
