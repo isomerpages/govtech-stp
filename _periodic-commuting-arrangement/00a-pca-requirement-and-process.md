@@ -30,9 +30,9 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit PCA application</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore-based companies (i.e. application sponsors) are to submit a <a href="/malaysia/pca/apply-now">PCA application</a> on behalf of their employees.</b>
     <br/><br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>To apply, application sponsors of <u>Work Pass Holders</u>, must: </b></p> 
+    <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>To apply, application sponsors of <u>Work Pass Holders</u>, must: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
+       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
@@ -137,6 +137,12 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
   </tr>
   </thead>
 <tbody>
+ <tr>
+     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">PCA travellers will take a COVID-19 PCR test immediately after clearing immigration in Singapore.<br/>
+The cost of the test is payable using NETS, Credit Card or Cash at the checkpoints. <a href="/health/covid19-tests/pcrtest">Click here</a> for more information.
+</td> 
+ </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
