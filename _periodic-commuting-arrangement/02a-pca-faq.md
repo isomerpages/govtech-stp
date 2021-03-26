@@ -275,8 +275,8 @@ Approved PCA travellers whose non-Singapore Citizen/Singapore Permanent Resident
 <tr>
 <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Holders of the Ministry of Manpower issued:
 <ul>
-<li style="font-size:17px;">Dependents Pass</li>
-<li style="font-size:17px;">Long-Term Visit Pass</li>
+<li style="font-size:16px;">Dependents Pass</li>
+<li style="font-size:16px;">Long-Term Visit Pass</li>
 </ul>
 </td>
 <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
