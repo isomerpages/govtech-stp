@@ -168,25 +168,25 @@ Travellers will be transported to their assigned SDF using Government-arranged t
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
-"><b><u>Days 0-14 after arriving</u></b> in Singapore</th>
+"><b><u>Up to 14 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
- <tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SHN at dedicated SHN facilities</b></td>
-  <td style="font-size:18px; border-right:1px solid #D8D8D8;">The employee must remain in the dedicated SHN facility for at least 14 days from the date of entry into Singapore and test negative for COVID-19, whichever is later. The employee will undergo the COVID-19 PCR test on-site at the dedicated SHN facility. Otherwise, arrangements will be made for the employee to be transported to the test venue.
-   <br/><br/>
-  Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
-    </td>
-  </tr>
- <tr>
-    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+<tr>
+    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction (PCR) Test ("PCR Test")</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees remain in their SHN accommodation until the end of their 14-day SHN or when a negative COVID-19 PCR test is conveyed, whichever is later.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details (sent to the sponsor's email and mobile phone) to their employees;</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees turn up for the test appointment; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees comply with the SHN requirements.</li>
          </ol>   
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at an SHN-dedicated facility (SDF)</b></td>
+  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf">SDF</a> for the period stipulated in the <a href="/health/shn/sdf">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted on-site, or at a specified testing facility, and travellers must return to their SDF immediately after the test.<br/><br/>
+Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
+Singapore Permanent Residents who are Malaysian nationals may access Government subsidies and Medishield Life/Integrated Shield Plans to help pay for their medical bills.
     </td>
   </tr>
  <thead>
@@ -196,10 +196,10 @@ Travellers will be transported to their assigned SDF using Government-arranged t
   </thead> 
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All approved PCA travellers must:</b><br/>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All PCA travellers must:</b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and </li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the necessary mobile applications (e.g. TraceTogether).</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Comply with prevailing local public health requirements and safe distancing measures; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications (e.g. <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.safeentry.gov.sg/">SafeEntry</a>) where required.</li>
          </ol>   
     </td>
  </tr>
