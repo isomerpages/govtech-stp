@@ -459,7 +459,7 @@ Travellers will pay for the on-arrival COVID-19 PCR test upon arrival at the lan
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-processs">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
