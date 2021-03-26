@@ -1,6 +1,11 @@
-Contents
+---
+title: Frequently Asked Questions
+permalink: /malaysia/pca/faq
+---
 
-A.	[General Queries](#GenQueries)
+### Contents
+
+A. [General Queries](#GenQueries)
 <ul>
 <li><a href="#Background">Background and Feedback</a></li>
 <li><a href="#SDF">Stay-Home Notice Dedicated Facilities</a></li>
@@ -8,14 +13,14 @@ A.	[General Queries](#GenQueries)
 <li><a href="#Payment">Payment Matters</a></li>
 </ul>
 
-B.	[FAQs for Employee(s)/Sponsored Traveller(s)](#EmployeeTravellers)
+B. [FAQs for Employee(s)/Sponsored Traveller(s)](#EmployeeTravellers)
 <ul>
 <li><a href="#SCPR">Eligibility (Singapore Citizens & Singapore Permanent Residents)</a></li>
 <li><a href="#PassHolders">Eligibility (Work and other MOM and ICA-issued pass holders)</a></li>
 <li><a href="#PCRTraveller">COVID-19 Polymerase Chain Reaction test (“PCR Test”)</a></li>
 </ul>
 
-C.	[FAQs for Employer/Application Sponsor](#EmployerSponsors)
+C. [FAQs for Employer/Application Sponsor](#EmployerSponsors)
 <ul>
 <li><a href="#GenIssues">General Issues</a></li>
 <li><a href="#Eligibility">Eligibility</a></li>
