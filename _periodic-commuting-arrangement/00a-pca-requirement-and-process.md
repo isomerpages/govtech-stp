@@ -145,7 +145,7 @@ The cost of the test is payable using NETS, Credit Card or Cash at the checkpoin
  </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Upon clearing immigration, PCA travellers will be sent a <a href="/health/shn">Stay Home Notice (SHN)</a> via e-mail and sent directly to their assigned <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, where they will complete their SHN. <!--must make their way directly to their SHN accommodation.--> </b><br/><br/>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Upon clearing immigration, PCA travellers will be sent a <a href="/health/shn">Stay Home Notice (SHN)</a> via e-mail and sent directly to their assigned <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, where they will complete their SHN. <!--must make their way directly to their SHN accommodation.--><br/><br/>
 Travellers will be transported to their assigned SDF using Government-arranged transport. The use of personal or public transport is prohibited, e.g. cars, motorcycles, taxis or public trains and buses. 
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
