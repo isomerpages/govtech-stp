@@ -51,7 +51,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
       </ol>   
     <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
 <br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</b></p> 
+    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
@@ -84,9 +84,8 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 <tbody>
   <tr>
    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test")</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure. The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
-     
-<b><p style="font-size:18px; margin-top:0px; margin-bottom:0px;">As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:</p></b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px;">As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:</p>
 <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date of the test.</li>
@@ -103,6 +102,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
          </ol>   
     </td>
   </tr>
+ </tbody>
  <thead>
   <tr>
     <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
