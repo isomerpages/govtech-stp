@@ -269,7 +269,7 @@ Action will be taken against errant travellers who fail to comply with any of th
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
-Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
+Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
 #### 9. I am travelling with my child. Is my child be required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
