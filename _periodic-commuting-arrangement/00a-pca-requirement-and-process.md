@@ -73,7 +73,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 </tbody>
 </table>
 
-### 3. Pre-Departure for Singapore ?
+### 3. Pre-Departure for Singapore
 
 <table>
 <thead>
@@ -101,8 +101,8 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
          </ol>   
-    </td>
-  </tr>
+     </td>
+     </tr>
  <thead>
   <tr>
     <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
