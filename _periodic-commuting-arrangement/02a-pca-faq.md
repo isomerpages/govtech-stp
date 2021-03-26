@@ -34,7 +34,7 @@ permalink: /malaysia/pca/faq
 
 <div id="Background"></div>
 
-**Background and Feedback**
+### **Background and Feedback**
 
 #### 1. What is the Periodic Commuting Arrangement?
 
@@ -59,7 +59,7 @@ You may send an email to <a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg">C
 
 <div id="SDF"></div>
 
-**Stay-Home Notice Dedicated Facilities (SDF)**
+### **Stay-Home Notice Dedicated Facilities (SDF)**
 
 #### 1. My immediate family member and I are approved to travel to Singapore under the PCA on the same day. Can we stay in the same SDF room?
 
@@ -71,7 +71,7 @@ Employers whose employees have successfully arranged to serve their Stay-Home No
 
 <div id="Transport"></div>
 
-**Transport Matters**
+### **Transport Matters**
 
 #### 1. I am approved under the PCA scheme to enter Singapore. Am I permitted to drive into Singapore and directly to my SDF?
 
@@ -79,7 +79,7 @@ PCA travellers may travel to Singapore in their own vehicles. However, they will
 
 <div id="Payment"></div>
  
-**Payment Matters**
+### **Payment Matters**
 
 #### 1. My employee is unable to enter Singapore on the date indicated in the application. Can I amend the application and seek a refund for the COVID-19 PCR test?
 
@@ -114,11 +114,11 @@ SCs/SPRs holding the Malaysia-issued MyTravelPass may access Government subsidie
  
 <div id="EmployeeTravellers"></div>
 
-**B) For Employees/Sponsored Travellers**
+### **B) For Employees/Sponsored Travellers**
 
 <div id="SCPR"></div>
 
-**Eligibility (Singapore Citizens and Singapore Permanent Residents)**
+### **Eligibility (Singapore Citizens and Singapore Permanent Residents)**
 
 #### 1. I am a Singapore Citizen presently living/working in Malaysia. Do I need to apply for a PCA pass to return to Singapore?
 
@@ -136,11 +136,11 @@ Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are
 
 #### 4. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
 
-For further clarification on entry to Malaysia, you may wish to reach out to the Malaysian Ministry of Foreign Affairs (<www.kln.gov.my>), the Malaysian Immigration Department (<www.imi.gov.my>) or the Malaysian High Commission in Singapore (<https://www.kln.gov.my/web/sgp_singapore>) for further advice regarding entry to Malaysia.
+For further clarification on entry to Malaysia, you may wish to reach out to the Malaysian Ministry of Foreign Affairs [(www.kln.gov.my)](www.kln.gov.my), the Malaysian Immigration Department [(www.imi.gov.my)](www.imi.gov.my) or the Malaysian High Commission in Singapore [(https://www.kln.gov.my/web/sgp_singapore)](https://www.kln.gov.my/web/sgp_singapore) for further advice regarding entry to Malaysia.
 
 <div id="PassHolders"></div>
 
-**Eligibility (Work and other MOM and ICA-issued Pass Holders)**
+### **Eligibility (Work and other MOM and ICA-issued Pass Holders)**
  
 #### 5. I am a confinement nanny. Do I apply for a PCA pass to enter Singapore?
 
@@ -152,7 +152,7 @@ Entries into Singapore under the PCA must be sponsored by a Singapore-based comp
 
 <div id="PCRTraveller"></div>
 
-**COVID-19 Polymerase Chain Reaction Test**
+### **COVID-19 Polymerase Chain Reaction Test**
 
 #### 1. What should I do if I feel unwell on or before the date of my COVID-19 Polymerase Chain Reaction test (“PCR test”) appointment?
 
@@ -185,7 +185,6 @@ Click [here](/health/covid19-tests/pcrtest#price) to check for the latest cost o
 
 The cost of the COVID-19 PCR test taken on-arrival at the checkpoint, will be collected in cash, NETS or Credit Card payment on the spot. For the exit from [Stay Home Notice (SHN)](/health/shn) COVID-19 [PCR test](/health/covid19-tests/pcrtest), payment would already be collected at the point of application. 
 
-
 #### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
 Travellers who are unwell or recently diagnosed with [COVID-19](/health/covid19-symptoms) should defer their travels. 
@@ -209,11 +208,11 @@ In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into 
 
 <div id="EmployerSponsors"></div>
 
-**C) For Employers/Application Sponsors**
+### **C) For Employers/Application Sponsors**
 
 <div id="GenIssues"></div>
 
-**General Issues**
+### **General Issues**
 
 #### 1. My employee has been approved for a PCA Pass but he is unable to travel to Singapore. Can I transfer his/her PCA approval to another employee?
 
@@ -234,7 +233,7 @@ For more information on the prevailing health control measures, including SHN an
 
 <div id="Eligibility"></div>
 
-**Eligibility**
+### **Eligibility**
 
 #### 1. Can I sponsor a PCA application for an employee who is given in-principle approval (IPA) or Letter of Consent (LOC) to work in Singapore?
  
@@ -290,7 +289,7 @@ Approved PCA travellers whose non-Singapore Citizen/Singapore Permanent Resident
 
 <div id="AppMatters"></div>
 
-**Application Matters**
+### **Application Matters**
 
 #### 1. When should I submit a PCA application and what do I need to prepare for the application?
 
@@ -314,7 +313,7 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 <div id="PCREmployer"></div>
 
-**COVID-19 Polymerase Chain Reaction Test (“PCR test”)**
+### **COVID-19 Polymerase Chain Reaction Test (“PCR test”)**
 
 #### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
@@ -335,6 +334,3 @@ Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are [un
 COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/pcrtest) results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
 
 Employers that do not receive a notification of the test result, 2 days from when the test was taken, should write to [COVID_SafeTravelEnquiries@mti.gov.sg](mailto:COVID_SafeTravelEnquiries@mti.gov.sg) and provide the employee’s name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer’s contact details.
-
-
-
