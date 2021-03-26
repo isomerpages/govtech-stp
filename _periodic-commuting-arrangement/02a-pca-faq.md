@@ -279,11 +279,11 @@ Approved PCA travellers whose non-Singapore Citizen/Singapore Permanent Resident
 <li>Long-Term Visit Pass</li>
 </ul>
 </td>
-<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">[Work Pass Holder General Lane](/wphl/overview)</td>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
 </tr>
 <tr>
 <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Foreigners with familial ties to a Singapore Citizen/ Singapore Permanent Resident</td>
-<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">[Singapore Citizen/Permanent Resident Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process)</td>
+<td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
 </tr>
 </table>
 
