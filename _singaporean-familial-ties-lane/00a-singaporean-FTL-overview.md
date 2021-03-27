@@ -6,7 +6,7 @@ permalink: /scpr-familial-ties-lane/overview
 
 The Singapore Citizen (SC) /Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel lane primarily to support the social and community needs of Singapore Citizens and Permanent Residents, e.g. reuniting families amid the pandemic. This lane caters to both residents and non-residents who need to enter Singapore for one or more of the reasons below:
 
-- Reunite with immediate family members or spouse-to-be of an SC/PR;
+- Reunite with immediate family members or fiancé/fiancée of an SC/PR;
 - Complete formalities for long-term immigration facilities; or
 - Handle family emergencies, e.g. death of a family member in Singapore
 
