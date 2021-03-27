@@ -65,7 +65,7 @@ For other work passes, employers and employees should come to a mutual agreement
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
        <ul>
-       <li style="font-size:18px;">(For non-emergency medical situations) Get your pass holder to call the SHN helpline at 6812 5555.</li>
+       <li style="font-size:18px;">(For non-emergency medical situations) Get your pass holder to call the SafeTravel Helpline at 6812 5555.</li>
        <li style="font-size:18px;">(For medical emergencies) Get your pass holder to call 995.</li>
        <li style="font-size:18px;"> If your pass holder develops a fever or acute respiratory infection, get them to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>

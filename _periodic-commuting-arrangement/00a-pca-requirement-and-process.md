@@ -28,11 +28,11 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit PCA application</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore-based companies (i.e. application sponsors) to submit a PCA application on behalf of their employees <a href="/malaysia/pca/apply-now">here</a></b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Singapore-based companies (i.e. application sponsors) are to submit a <a href="/malaysia/pca/apply-now">PCA application</a> on behalf of their employees.</b>
     <br/><br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of Work Pass Holders, should: </b></p> 
+    <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>To apply, application sponsors of <u>Work Pass Holders</u>, must: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  ">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
+       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
@@ -42,16 +42,16 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain employees’ acknowledgement for the following:
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Additional work pass conditions that he/she is subjected to under the PCA (click <a href="/malaysia/pca/terms-and-conditions">here</a>); and </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose their COVID-19 PCR test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement of the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> that he/she will be subject to for entry under the PCA; and </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>   
     <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
 <br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><b>Application sponsors of Singapore Permanent Residents who are Malaysian nationals, should:</b></p> 
+    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
@@ -61,10 +61,10 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain employees’ acknowledgement for the following:
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">That any breach in SHN requirements or submission of false declarations is an offence punishable under Singapore’s laws;</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclose their COVID-19 PCR test results to the employer and relevant government authorities in Singapore, either by himself/herself or through the medical provider. </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement that any breach in <a href="/health/shn">SHN</a> requirements or submission of false declarations constitutes an offence that is punishable under Singapore’s laws;</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Consent to disclosing their PCR test results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>      
@@ -83,18 +83,26 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
   </thead>
 <tbody>
   <tr>
-   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers, except for Singapore Permanent Residents, arriving in Singapore must take a <b>COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departure. Travellers will need to present a valid negative COVID-19 test result in English, from recognised or accredited laboratories in Malaysia, as a condition of approval to enter Singapore.</b></td>
+   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test")</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
+
+As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:
+<ol style="margin-top:0px; list-style-type: disc;">
+ <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date of the test.</li>
+ </ol>
+</td>
  </tr>
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Installation of Mandatory Mobile Applications
 </b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Approved PCA travellers should monitor their health and avoid travelling if feeling unwell. If the traveller is healthy, he/she should:</b><br/>
-        <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
-         </ol>   
-    </td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">
+     <b>Approved PCA travellers should monitor their health and avoid travelling if feeling <a href="/health/covid19-symptoms">unwell</a>. If the traveller is healthy, he/she should:</b><br/>
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
+      </ol>
+   </td>
   </tr>
  <thead>
   <tr>
@@ -104,11 +112,10 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance by Malaysia
 </b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers must be able to produce the following
-documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers should be prepared to produce the following documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter; and</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English, except for Singapore Permanent Residents, from recognised or accredited laboratories in Malaysia; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter;</li>
+     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 Polymerase Chain Reaction test (“PCR test”) report (in English) from recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a> (except for Singapore Permanent Residents);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid Malaysia-issued passport; and</li>
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Work pass (for work pass holders) or Singapore NRIC (for Singapore PRs)</li>
          </ol>     
@@ -130,9 +137,16 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
   </tr>
   </thead>
 <tbody>
+ <tr>
+     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">PCA travellers will take a COVID-19 PCR test immediately after clearing immigration in Singapore.<br/><br/>
+The cost of the test is payable using NETS, Credit Card or Cash at the checkpoints. <a href="/health/covid19-tests/pcrtest">Click here</a> for more information.
+</td> 
+ </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>After immigration, the employee will be informed of their assigned dedicated SHN facility and transport will be provided for employees to travel there directly. Please follow the instructions provided after arrival into Singapore for transportation to the assigned dedicated SHN facility. The employee is not allowed to arrange his/her own transport (e.g. personal vehicles, taxis, buses) to travel to the dedicated SHN facility.  <!--must make their way directly to their SHN accommodation.--> </b>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Upon clearing immigration, PCA travellers will be sent a <a href="/health/shn">Stay Home Notice (SHN)</a> via e-mail and sent directly to their assigned <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, where they will complete their SHN. <!--must make their way directly to their SHN accommodation.--><br/><br/>
+Travellers will be transported to their assigned SDF using Government-arranged transport. The use of personal or public transport is prohibited, e.g. cars, motorcycles, taxis or public trains and buses. 
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
@@ -154,25 +168,25 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
-"><b><u>Days 0-14 after arriving</u></b> in Singapore</th>
+"><b><u>Up to 14 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
- <tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SHN at dedicated SHN facilities</b></td>
-  <td style="font-size:18px; border-right:1px solid #D8D8D8;">The employee must remain in the dedicated SHN facility for at least 14 days from the date of entry into Singapore and test negative for COVID-19, whichever is later. The employee will undergo the COVID-19 PCR test on-site at the dedicated SHN facility. Otherwise, arrangements will be made for the employee to be transported to the test venue.
-   <br/><br/>
-  Travellers who develop COVID-19 symptoms within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.
-    </td>
-  </tr>
- <tr>
-    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+<tr>
+    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction (PCR) Test ("PCR Test")</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details to their employees. Details of the appointment will be sent to the application sponsor via email and SMS; </li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees show up for their test appointment; and</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees remain in their SHN accommodation until the end of their 14-day SHN or when a negative COVID-19 PCR test is conveyed, whichever is later.</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details (sent to the sponsor's email and mobile phone) to their employees;</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees turn up for the test appointment; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees comply with the SHN requirements.</li>
          </ol>   
+    </td>
+  </tr>
+  <tr>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at an SHN-dedicated facility (SDF)</b></td>
+  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf">SDF</a> for the period stipulated in the <a href="/health/shn/sdf">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted on-site, or at a specified testing facility, and travellers must return to their SDF immediately after the test.<br/><br/>
+Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
+Singapore Permanent Residents who are Malaysian nationals may access Government subsidies and Medishield Life/Integrated Shield Plans to help pay for their medical bills.
     </td>
   </tr>
  <thead>
@@ -182,10 +196,10 @@ documents if requested by the Malaysian authorities when leaving Malaysia for Si
   </thead> 
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
-    <td style="font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All approved PCA travellers must:</b><br/>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All PCA travellers must:</b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Abide by prevailing local public health requirements and safe distancing measures; and </li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the necessary mobile applications (e.g. TraceTogether).</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Comply with prevailing local public health requirements and safe distancing measures; and</li>
+          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications (e.g. <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.safeentry.gov.sg/">SafeEntry</a>) where required.</li>
          </ol>   
     </td>
  </tr>
