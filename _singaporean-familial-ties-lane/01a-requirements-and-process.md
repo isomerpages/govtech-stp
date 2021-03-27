@@ -9,7 +9,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
  <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR); <sup>1</sup>
        </li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A spouse-to-be of an SC or PR; 
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A fiancé/fiancée of an SC or PR; 
        </li>
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) or ICA-Long Term Visit Pass IPA holders seeking to complete formalities for long-term immigration facilities; or 
        </li>
