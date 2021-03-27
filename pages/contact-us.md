@@ -77,6 +77,13 @@ For the matters below, you can also enquire with the following contact points, i
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">6391 6100</td>
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">ICA</td>
  </tr>
+   <tr>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; word-wrap: break-word;">Work Pass Holders and IPA holders travelling to Singapore under the Work Pass Holder General Lane</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx">here</a> for Feedback/Enquiry Form
+     </td>
+      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">6438 5122</td>
+      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MOM</td>
+ </tr>
 <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Email to: <a href="mailto:COVID_ATP_Enquiries@caas.gov.sg"> COVID_ATP_Enquiries@caas.gov.sg</a>
@@ -97,13 +104,6 @@ For the matters below, you can also enquire with the following contact points, i
      </td>
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">-</td>
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MTI</td>
- </tr>
- <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; word-wrap: break-word;">Work Pass Holders and IPA holders travelling to Singapore under the Work Pass Holder General Lane</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://service2.mom.gov.sg/efeedback/Forms/eFeedback.aspx">here</a> for Feedback/Enquiry Form
-     </td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">6438 5122</td>
-      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MOM</td>
  </tr>
     <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">General enquiries on COVID-19 health control measures (e.g. SHN, PDT) while in Singapore</td>
