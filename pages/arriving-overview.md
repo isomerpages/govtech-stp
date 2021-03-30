@@ -153,7 +153,7 @@ Please refer to the Civil Aviation Authority of Singapore [website](https://www.
 
 <b><u>For sea crew & pleasure craft owners</u></b>
 
-Please click here for application of the following:-
+Please click [here](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info) for application of the following:-
 <ul>
   <li style="list-style-type:disc; margin-top:0px; margin-bottom:0px;">Arrival or departure immigration clearance of vessel</li>
 <li style="list-style-type:disc; margin-top:0px; margin-bottom:0px;">Crew sign-on or sign-off</li>
