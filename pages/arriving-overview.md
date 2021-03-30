@@ -145,5 +145,20 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 |New Zealand| [Air Travel Pass](newzealand/atp/requirements-and-process) |  | |
 |Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
 |Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |-->
+## Air and Sea Crew Arrival
 
+<b><u>For air crew</u></b>
+
+Please refer to the Civil Aviation Authority of Singapore [website](https://www.caas.gov.sg/legislation-regulations/covid-19-publications) for the latest circulars and directives relating to border and health control measures applicable to air operators, airport operators and other airport services and facilities’ providers at the Changi Airport and Seletar Airport.
+
+<b><u>For sea crew & pleasure craft owners</u></b>
+
+Please click here for application of the following:-
+<ul>
+  <li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;">Arrival or departure immigration clearance of vessel</li>
+<li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;">Crew sign-on or sign-off</li>
+<li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;">Transfer of crew from one vessel to another</li>
+<li style="font-size:1rem; list-style-type:disc; margin-top:0px; margin-bottom:0px;">Extension of stay of crew</li>
+</ul>
+Please visit the Maritime and Port of Authority of Singapore website for information on the [application of crew changes under various circumstances](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info), as well as the MPA’s latest circulars and notices [here](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community).
 
