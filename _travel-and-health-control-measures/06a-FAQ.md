@@ -619,7 +619,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="vaccinated"></div>
 
-## Vaccinated Travellers intending to travel back/to Singapore
+## Vaccinated Travellers intending to travel to Singapore
 
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
