@@ -59,7 +59,7 @@ You can check your PCA application status <a href="https://eservices.ica.gov.sg/
 
 You may send an email to <a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg">COVID_SafeTravelEnquiries@mti.gov.sg</a>, and we will endeavour to reply to you within 3-5 working days.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="SDF"></div>
 
@@ -73,7 +73,7 @@ In general, immediate family members travelling to Singapore together will be se
 
 Employers whose employees have successfully arranged to serve their Stay-Home Notice (SHN), may request for a refund. To do so, employers can write to <b><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a></b> with the <b>(i) PCA Reference Number, (ii) FIN/ IC numbers of the affected travellers, (iii) email address of the Sponsoring Organisation’s Contact Person and (iv) screenshot of proof of payment</b>, to submit a request.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="Transport"></div>
 
@@ -83,7 +83,7 @@ Employers whose employees have successfully arranged to serve their Stay-Home No
 
 PCA travellers may travel to Singapore in their own vehicles. However, they will not be permitted to commute directly to their SDF. Travellers will receive more instructions on the parking arrangement at the checkpoint, and on the transport arrangement to their SDF.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top].(#top).
 
 <div id="Payment"></div>
  
@@ -120,7 +120,7 @@ The cost arrangement for travellers diagnosed with COVID-19 within the first 14 
 
 SCs/SPRs holding the Malaysia-issued MyTravelPass may access Government subsidies and MediShield Life / Integrated Shield Plan (MSHL/IP) to help pay for their bills.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="EmployeeTravellers"></div>
 
@@ -148,7 +148,7 @@ Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are
 
 For further clarification on entry to Malaysia, you may wish to reach out to the Malaysian Ministry of Foreign Affairs [(www.kln.gov.my)](www.kln.gov.my), the Malaysian Immigration Department [(www.imi.gov.my)](www.imi.gov.my) or the Malaysian High Commission in Singapore [(https://www.kln.gov.my/web/sgp_singapore)](https://www.kln.gov.my/web/sgp_singapore) for further advice regarding entry to Malaysia.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="PassHolders"></div>
 
@@ -162,7 +162,7 @@ No. Confinement nannies can only enter Singapore using a MOM-issued Letter of En
 
 Entries into Singapore under the PCA must be sponsored by a Singapore-based company. The PCA scheme is not open to IPA holders, and they may be sponsored for an Entry Approval under the <a href="/wphl/overview">Work Pass Holder General Lane</a> instead.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="PCRTraveller"></div>
 
@@ -220,7 +220,7 @@ Travellers that have recovered from COVID-19 may write to [COVID_SafeTravelAppea
 
 In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 [PCR test](/health/covid19-tests/pcrtest) toward the end of their [Stay Home Notice (SHN)](/health/shn). 
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="EmployerSponsors"></div>
 
@@ -247,7 +247,7 @@ Travellers approved to visit Singapore under the PCA are only permitted to enter
 
 For more information on the prevailing health control measures, including SHN and COVID-19 tests, you may go to [this page](/health). You may also wish to share with your employees the [additional work pass conditions](/malaysia/pca/terms-and-conditions) imposed on them as a condition for entry into Singapore via the PCA.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="Eligibility"></div>
 
@@ -305,7 +305,7 @@ Approved PCA travellers whose non-Singapore Citizen/Singapore Permanent Resident
 </tr>
 </table>
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="AppMatters"></div>
 
@@ -331,7 +331,7 @@ Fresh PCA applications can only be submitted for an entry date <u>90 days after<
 
 The employee is permitted to leave Singapore. However, employers should note that they will only be able to apply for another PCA for the employee’s re-entry into Singapore, 90 days <u>after</u> their previous entry into Singapore.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
 
 <div id="PCREmployer"></div>
 
@@ -357,4 +357,4 @@ COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/p
 
 Employers that do not receive a notification of the test result, 2 days from when the test was taken, should write to [COVID_SafeTravelEnquiries@mti.gov.sg](mailto:COVID_SafeTravelEnquiries@mti.gov.sg) and provide the employee’s name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer’s contact details.
 
-##### Click here to go to the [top](#top)
+##### Click here to go to the [top](#top).
