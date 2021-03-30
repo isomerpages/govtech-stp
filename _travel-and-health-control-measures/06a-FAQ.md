@@ -435,7 +435,7 @@ When and how payment is collected, will depend on the travellers’ scheme of tr
   <tbody>
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/atp/overview">Air Travel Pass</a>  </td>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test [here](https://safetravel.changiairport.com/#/), before arrival.</td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival.</td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore</a></td>
@@ -495,7 +495,7 @@ Travellers/application sponsors may refer to the table below for payment details
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane (WPHL) </a> <br/><br/>(Foreign Domestic Workers and Confinement Nannies only)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane (WPHL) </a> <br/><br/>(Foreign Domestic Workers and Confinement Nannies only)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
