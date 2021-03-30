@@ -13,6 +13,7 @@ permalink: /health/FAQ
  4. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
  5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
  6. [Payments and Refunds](#payments)
+ 7. [Vaccinated Travellers intending to travel back/to Singapore](#vaccinated)
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
@@ -615,4 +616,17 @@ Travellers who have paid for their COVID-19 PCR test separately to Changi Airpor
 
 
 Click here to [Go Back To Top](#top).
+
+<div id="payments"></div>
+
+## Vaccinated Travellers intending to travel back/to Singapore
+
+#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+
+The Singapore government is currently looking into more flexible guidelines for vaccinated travellers. In the meantime, the prevailing border health control measures are applied to all travellers. 
+
+
+Click here to [Go Back To Top](#top).
+
+
 
