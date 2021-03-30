@@ -44,8 +44,8 @@ permalink: /apply-now
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Singapore Work Pass Holder Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">For employers of Foreign Domestic Workers and Confinement Nannies, <a href="https://eservices.ica.gov.sg/STO/">apply here</a> <br><br> For all other Work Pass Holders, <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">apply here</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">For employers of Foreign Domestic Workers and Confinement Nannies, <a href="/wphl/fdwcn-requirements-and-process">details here</a> <br><br> For all other Work Pass Holders, <a href="https://www.mom.gov.sg/covid-19/requirements-to-bring-pass-holders-into-singapore">details here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
     </tr>
        <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Singapore Student's Pass Holder Lane</td>

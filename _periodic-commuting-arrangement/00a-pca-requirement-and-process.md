@@ -4,8 +4,6 @@ permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Working in Singapore
 ---
 
-**Notice:** *Given the increase in COVID-19 cases in Malaysia, approved **Periodic Commuting Arrangement (PCA) travellers that have remained in Malaysia in the past 14 days prior to arrival in Singapore,** will serve a <u>14-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF)</u>. Approved travellers that breach the SHN requirements, submit a false declaration, and/or fail to comply with their Work Pass Conditions will have legal action taken against them. This could include an imprisonment term, fine, or revocation of their Work Passes.* 
-
 ### 1. Eligibility 
 
 Employers can use their Corppass to apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass on behalf of their employees. These employees must be willing to spend at least 90 days in Singapore for work upon entry, and be a:
