@@ -44,8 +44,8 @@ permalink: /apply-now
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Singapore Work Pass Holder Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various applicaiton processes depending on worker profile</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various applicaiton processes depending on worker profile</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
     </tr>
        <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Singapore Student's Pass Holder Lane</td>
