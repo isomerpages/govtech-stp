@@ -23,13 +23,13 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-The duration of your SHN, if required, depends on your 14-day travel history and prescribed condition of your entry into Singapore. For approved travellers, this requirement will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
+The duration of your SHN, if required, depends on your 14-day travel history. The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued. [Click here](/shn-calculator) to calculate the end date of your SHN.
 
-Prospective travellers may refer to this [table](/files/SHN-and-swab-summary.pdf), or the specific SafeTravel lane (can be accessed from this [page](/arriving/overview)) for information pertaining to SHN.
+Prospective travellers may also refer to this [table](/files/SHN-and-swab-summary.pdf), or the specific SafeTravel lane (can be accessed from this [page](/arriving/overview)) for information pertaining to SHN and its duration.
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Singapore citizens and permanent residents whose residence is unsuitable to serve their [SHN](/health/shn), may appeal to serve their SHN at an [SDF](/health/shn/sdf). These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). 
+Singapore citizens and permanent residents whose residence is unsuitable to serve their [SHN](/health/shn), may appeal to opt-in to serve their SHN at an [SDF](/health/shn/sdf). These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). 
 
 Non-resident travellers who not required to serve their SHN at an SDF, i.e. those serving 7-day SHN, but wish to do so, may make a direct reservation with the hotel. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
@@ -39,97 +39,38 @@ The more stringent travel health control measures would apply. This means that a
 
 #### 4. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
-SHN are legal notices issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
+An SHN is a legal notices issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
-Travellers should note that basic essentials such as portable water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you require any financial, emotional or psychological support during the SHN period you may call **6812 5555**.
+Travellers should note that basic essentials such as portable water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
 
 #### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN comes into effect **immediately** on the day of arrival in Singapore and ends after a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result is conveyed, whichever is later. Travellers may be alerted via, SMS or by the SDF concierge. You may use this [calculator](/shn-calculator) to determine the end of your SHN.
+The SHN comes into effect **immediately** on the day of arrival in Singapore and ends after a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result is conveyed. [Click here](/shn-calculator) to calculate the end date of your SHN.
+
+Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
+
+Travekkers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
 #### 6. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
 As a condition for entry into Singapore, all travellers must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
 
-In the event of an emergency, travellers may contact the SHN helpline at **6812 5555** for assistance and advice.
+In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 #### 7. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
 
-Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to upgrade to an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgradefaq) for more information.
+Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to book an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgradefaq) for more information.
 
 #### 8. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
 
-Travellers may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. For requests that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to this page for more details, or submit a request to the corresponding channels, below:
+Travellers already in SDF may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. 
 
-<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Travel Scheme</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Request Channel</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/atp/overview">Air Travel Pass</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_ATP_Enquiries@caas.gov.sg">COVID_ATP_Enquiries@caas.gov.sg</a></td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore</a></td>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg">COVID_SafeTravelEnquiries@mti.gov.sg</a></td>
-    </tr>
-   <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a>  </td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Respective schools/institutions</td>
-    </tr>
-   <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:ICA_nCOV_Request@ica.gov.sg">ICA_nCOV_Request@ica.gov.sg</a></td>
-    </tr>
-      <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Pass holders who have obtained entry approvals but yet to enter Singapore may submit their request <a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx">here</a>.
-<br/>
-Pass holders who are already serving their SHN at SDFs may complete this <a href="https://go.gov.sg/shnhotelneedsform">form</a>.
-</td>
-   </tr> 
-  </tbody>
-  </table>
+For travellers who are not yet in Singapore or for requet that the SDF is unable to facilitate, e.g. caregiver support, SDF-opt0out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
+
 
 #### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
-Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the relevant agencies below, for assistance:
-
-<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Scheme of Travel</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Contact</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a>  </td>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a></td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/moe-shn-form">https://go.gov.sg/moe-shn-form</a></td>
-    </tr>
-   <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">For travellers who have yet to enter Singapore:<a href="mailto:ICA_nCOV_Request@ica.gov.sg">ICA_nCOV_Request@ica.gov.sg</a><br/><br/>For travellers already in Singapore:SHN Helpline at <b>6812 5555</b>
-</td>
-    </tr>
-      <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://mom.gov.sg/feedbackSHN">https://mom.gov.sg/feedbackSHN</a>
-</td>
-   </tr> 
-  </tbody>
-  </table>
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 <div id="transport"></div>
 
@@ -242,7 +183,7 @@ Due to the fast-evolving epidemiological situation, travellers should confirm wi
 
 As a condition to enter Singapore, travellers may be required to produce a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result. This may be enforced by the airline during pre-boarding checks. Unless there are other compelling reasons, travellers failing to meet this condition will be denied entry into Singapore.
 
-Travellers that present a falsified COVID-19 test certificates will be dealt with accordingly, and this antecedent will be taken into consideration for their future applications for entry into or stay in Singapore.
+Travellers who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future applications for entry into or stay in Singapore.
 
 #### 4. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
@@ -256,17 +197,17 @@ If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-
 
 In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller should also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.
 
-#### 6. How will I know my COVID-19 test result?
+#### 6. How will I be informed of my COVID-19 test result?
 
 Hardcopy/softcopy of the COVID-19 test result will not be issued. Travellers who are Work Pass Holders (and their dependants) will receive their results via SMS or email. All other travellers will be informed of their swab test results verbally by phone or in person. 
 
 Travellers with a SingPass account may login to [HealthHub](https://www.healthhub.sg/HealtheServices) to view their swab test results once available.
 
-#### 7. Can I refuse the COVID-19 test?
+#### 7. Can I refuse the COVID-19 test in Singapore?
 
 As a condition for entry into Singapore, travellers may be required to take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) and/or [serology test](/health/covid19-tests/serology) while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
 
-Action will be taken against errant travellers who fail to comply with any of the stipulated requirement/condition for entry into Singapore. This may amount to a fine and/or imprisonment term as prescribed in the Infectious Diseases Act. Additional penalties such as the revocation of a Work Pass may also apply.
+Action will be taken against travellers who fail to comply with any of the stipulated requirement/condition for entry into Singapore. This may amount to a fine and/or imprisonment term as prescribed in the Infectious Diseases Act. Additional penalties such as revocation of Work Pass may also apply.
 
 #### 8. Do I have to complete my Stay-Home Notice (SHN) if I have been tested negative for COVID-19 before departing to Singapore?
 
@@ -278,7 +219,7 @@ Travellers arriving from countries that require a [COVID-19 Polymerase Chain Rea
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
-Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission,. COVID-19 testing is extended to inbound travellers aged 7 and above (in that calendar year). 
+Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission. COVID-19 testing is extended to inbound travellers aged 7 and above (in that calendar year). 
 
 #### 11. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
@@ -309,6 +250,7 @@ In such a case, the traveller may request for a hardcopy test result from the do
 #### 4. How will travellers receive their Pre-Departure Test (PDT) certificate?
 
 The test results will be sent to the traveller by either the clinic where the PDT was taken, or by their partnering clinical laboratory. This will be in the form of a digital certificate in accordance with the HealthCerts schema and standards. In the event the traveller does not have the ability to show the digital certificate on arrival at the destination country/region, the traveller may request for a hardcopy from the doctor.
+
 #### 5. Can travellers still use digital certificates without a SingPass account (e.g. foreign citizen who is a short-stay traveller)?
 
 Travellers may still digitally authenticate and endorse their test certificate on www.notarise.gov.sg without signing in to SingPass. However, please note that the traveller will only be receive the endorsed HealthCert via email, with no additional copy stored in the SingPass mobile app.
@@ -331,13 +273,13 @@ Click here to [Go Back To Top](#top).
 
 ## **Travel Insurance with COVID-19 Coverage** 
 
-#### 1.	Do all travellers entering Singapore require mandatory insurance coverage?
+#### 1.	Do all travellers entering Singapore require mandatory travel insurance covering COVID-19?
 
-The requirement will apply to short-term visitors who are entering Singapore under the Air Travel Pass (ATP) and Reciprocal Green Lanes (RGLs). It will not apply to returning Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to tap on regular healthcare financing arrangements for their inpatient medical bills should they develop onset of COVID-19 symptoms within 14 days of their return.
+The mandatory insurance requirement will apply to short-term visitors who are entering Singapore under the Air Travel Pass (ATP) and Reciprocal Green Lanes (RGLs). It will not apply to returning Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to tap on regular healthcare financing arrangements for their inpatient medical bills should they develop onset of COVID-19 symptoms within 14 days of their return.
 
 #### 2.	How can travellers purchase the insurance coverage?
 
-The SafeTravel website provides a list of products offered by Singapore-based insurers (see below). Travellers can visit the respective insurers’ websites to purchase the inbound insurance plan. Travellers may also purchase overseas products which cover their visit to Singapore.
+There are products offered by Singapore-based insurers. Travellers can visit the respective insurers’ websites or enquire with the contact points in the table below to purchase the inbound insurance plan. Travellers may also purchase overseas products which cover their visit to Singapore.
 
 <table>
 <thead>
@@ -364,47 +306,39 @@ The SafeTravel website provides a list of products offered by Singapore-based in
 
 #### 3.	Do travellers need to show proof of travel insurance purchase when they apply for the ATP or RGL? What documents do they need to submit to show that they are insured?
 
-With effect from 1 February 2021, 0000 hrs (Singapore time), visitors who apply to enter Singapore under the ATP and RGLs will have to declare, at the point of ATP application, that they will purchase travel insurance with minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs prior to travel to Singapore. They are required to bring along an electronic or physical copy of their insurance policy before departing for Singapore.
+Visitors who apply to enter Singapore under the ATP and RGLs will have to declare, at the point of ATP application, that they will purchase travel insurance with minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs prior to travel to Singapore. They are required to bring along an electronic or physical copy of their insurance policy before departing for Singapore.
 
 #### 4.	Must the insurance be bought prior to their travel to Singapore? Can travellers purchase it upon arrival in Singapore?
 
-Yes, the insurance must  be bought prior to their travel to Singapore. 
+The insurance must  be bought prior to their travel to Singapore. 
 
 #### 5.	Are foreign travellers entitled to use public hospitals?
 
-Foreign travellers who test positive for COVID-19  receive care in private hospitals.
+Hospitals are assigned based on operational considerations. Patients who have been tested positive for COVID-19 are not permitted to choose their hospital. 
 
-#### 6.	What does the S$30,000 requirement cover?
-
-The S$30,000 minimum insurance requirement refers to coverage for COVID-19-related medical treatment and hospitalisation costs. 
-
-#### 7.	What is the basis of setting the minimum insurance coverage requirement at S$30,000?
+#### 6.	What is the basis of setting the minimum insurance coverage requirement at S$30,000?
 
 The requirement is based on COVID-19 bill sizes at private hospitals. 
 
-#### 8.	How much are the typical hospital bills?
-
-The cost of COVID-19 treatment varies depending on the patient’s clinical condition. The insurance coverage was sized to cover the majority of COVID-19 hospital bills in private hospitals.
-
-#### 9.	How much are the premiums? 
+#### 7.	How much are the premiums? 
 
 The premiums would depend on factors such as the country/region from which the traveller is departing from, the length of the trip and/or factors such as the travellers’ age. More details can be found on the respective insurers’ websites. 
 
-#### 10.	Will this requirement cover all short-term visitors? How about short-term visitors from the other travel lanes? 
+#### 8.	Will this requirement cover all short-term visitors? How about short-term visitors from the other travel lanes? 
 
 The Government will review whether to extend the requirement to short-term visitors from other countries, taking into consideration the availability of products in the insurance market.
 
-#### 11.	Do recovered COVID-19 visitors need to buy insurance? How about vaccinated travellers? 
+#### 9.	Do recovered COVID-19 visitors need to buy insurance? How about vaccinated travellers? 
 
 Yes, both recovered and vaccinated foreign travellers need to buy insurance before travel to Singapore. There is still a risk that these travellers can get the COVID-19 infection, and require medical attention or hospitalisation for evaluation.
 
-#### 12.	Should the COVID-19 treatment cost go beyond $30,000, who will pay the excess? 
+#### 10.	Should the COVID-19 treatment cost go beyond $30,000, who will pay the excess? 
 
 As per existing practice, travellers will have to pay for their own treatment costs beyond insurance coverage. 
 
 Visitors and/or hosts will be required to declare, at the point of application, that they have purchased or will be purchasing travel insurance that meets MOH’s minimum coverage requirements for the duration of their stay in Singapore, and will pay for any treatment costs beyond the insurance coverage, before being given approval to travel to Singapore.
 
-#### 13.	Would Long Term Pass Holders be required to buy insurance? 
+#### 11.	Would Long Term Pass Holders be required to buy insurance? 
 
 With effect from 1 Jan 2021, all Work Permit and S Pass holders entering Singapore must be covered by insurance for COVID-19 treatment if the pass holder develops COVID-19 symptoms or test positive within 14 days of arrival into Singapore. 
 
@@ -496,7 +430,7 @@ Travellers/application sponsors may refer to the table below for payment details
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane (WPHL) </a> <br/><br/>(Foreign Domestic Workers and Confinement Nannies only)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/fdwcn-requirements-and-proces">Foreign Domestic Workers and Confinement Nannies</a>, <a href="/wphl/owph-requirements-and-proces">all other Work Pass Holders and their dependents</a>)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
@@ -512,7 +446,7 @@ Travellers/application sponsors may refer to the table below for payment details
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td rowspan="3" style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">On arrival in Singapore  </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Changi Airport  </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use this <a href="https://safetravel.changiairport.com/">eService</a> to book and pay for the tests before the FDW/CN arrives in Singapore. </td>
+          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use this <a href="https://safetravel.changiairport.com/">eService</a> to book and pay for the tests <b>before the FDW/CN arrives in Singapore</b>. </td>
    </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
@@ -521,7 +455,7 @@ Travellers/application sponsors may refer to the table below for payment details
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">NETS </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">MasterCard or VISA </li>
            </ol> 
-           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Employers must reimburse their FDW/CNs, unless the FDWs/CNs were already working for them earlier on and left Singapore for personal reasons.</p>
+           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">responsible for the test cost</a></p>
      </td>
    </tr>
      <tr style="border-bottom:1.2px solid #E8E8E8">
@@ -530,50 +464,13 @@ Travellers/application sponsors may refer to the table below for payment details
    </tr>
         </tbody>
        </table>
-      <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above are not applicable to FDWs serving a 14-day SHN at dedicated SHN facilities by themselves or with another FDW.</p>
+      <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving 14-day SHN at an SDF alone or with other FDW; and </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
+           </ol>  </p>
 </td>
    </tr>   
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane  </a><br/><br/>(All other Work Pass Holders)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">
-      Once the pass holder has arrived in Singapore, the employing company will receive an email, within 10 days, containing a Credit Card payment link for SDF-stay and exit-from-SHN COVID-19 PCR test from no-reply@pay.gov.sg. Depending on your email settings, the email may be found in the junk/spam folder. <br/><br/>
-Payment must be made no later than 7 days from the date the payment email was sent. <br/><br/>
-Example: If you received the payment email on 1 March, payment must be made by 8 March. <br/>
-       <table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab </th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location </th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td rowspan="3" style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">On arrival in Singapore  </td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Changi Airport  </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Employing companies must use <a href="https://safetravel.changiairport.com/">this eService</a> to book and pay for the tests <b>before the arrival of their sponsored pass holders in Singapore. </b> </td>
-   </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, travellers must register and pay for the tests at the checkpoints using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">NETS </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">MasterCard or VISA </li>
-           </ol> 
-           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Employing companies may need to reimburse their pass holders. <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/entry-approvals-for-foreign-employees-and-shn-requirements">Find out who is responsible</a> for the test cost.</p>
-     </td>
-   </tr>
-     <tr style="border-bottom:1.2px solid #E8E8E8">
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Employing companies must use <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  
-       <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above are not applicable to FDWs serving a 14-day SHN at dedicated SHN facilities by themselves or with another FDW.</p>
-      </td>
-   </tr>
-        </tbody>
-       </table>
-</td>
-   </tr>
-  </tbody>
+      </tbody>
   </table>
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
@@ -599,10 +496,21 @@ Requests for refunds will only be considered if there are strong mitigating fact
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process">Work Pass Holder Lane 
-</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">For travellers who have yet to enter Singapore:<a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx">Feedback form </a>
-</td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process"><a href="/wphl/overview">Work Pass Holder Lane
+       </a><br/><br/> <i>(Foreign Domestic Workers (FDW) and Confinement Nannies)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the FDW or nanny's entry approval <b>at least 5 days before the approved entry date:</b></a><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
+           </ol>
+   </td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br/><i>(All other Work Pass Holders and their dependents)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b></a><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-approval">For Work Pass holder or dependant</a> </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-individual">For Personalised Empoyer Pass hlder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
+           </ol>
+   </td>
     </tr>
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane user</a></td>
