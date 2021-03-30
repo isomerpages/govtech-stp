@@ -617,7 +617,7 @@ Travellers who have paid for their COVID-19 PCR test separately to Changi Airpor
 
 Click here to [Go Back To Top](#top).
 
-<div id="payments"></div>
+<div id="vaccinated"></div>
 
 ## Vaccinated Travellers intending to travel back/to Singapore
 
