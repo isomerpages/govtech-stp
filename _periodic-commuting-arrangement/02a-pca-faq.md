@@ -83,7 +83,7 @@ Employers whose employees have successfully arranged to serve their Stay-Home No
 
 PCA travellers may travel to Singapore in their own vehicles. However, they will not be permitted to commute directly to their SDF. Travellers will receive more instructions on the parking arrangement at the checkpoint, and on the transport arrangement to their SDF.
 
-##### Click here to go to the [top].(#top).
+##### Click here to go to the [top](#top).
 
 <div id="Payment"></div>
  
