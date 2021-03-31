@@ -5,28 +5,40 @@ permalink: /FAQ
 
 ## Safe Travel Lane FAQs
 
-### Air Travel Pass (ATP)
-
-Short-term visitors travelling to Singapore from the following countries/regions may click on the links below for Frequently Asked Questions on using the [Air Travel Pass](https://safetravel.ica.gov.sg/atp/overview) to Travel to Singapore.
 
 <table>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/australia/atp/faq">Australia</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/brunei/atp/faq">Brunei</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/china/atp/faq">Mainland China</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/newzealand/atp/faq">New Zealand</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/taiwan/atp/faq">Taiwan</a></td>
-<!--<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/vietnam/atp/faq">Vietnam</a></td>-->
-</tr>
-</table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Safe Travel Lane</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Frequently Asked Questions</th>
+           </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"> <a href="/atp/overview">Air Travel Pass</a>
+</td> 
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> FAQ for Travellers arriving from: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/australia/atp/faq">Australia</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/brunei/atp/faq">Brunei</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/china/atp/faq">Mainland China</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/newzealand/atp/faq">New Zealand</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/taiwan/atp/faq">Taiwan</a></li>
+        </ol>
+        </td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore </a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="connectsg/faq">FAQ</a> 
+</td>
+    </tr>
+  </tbody>
+  </table>
 
-### Connect@Singapore
 
-Short-term visitors travelling to Singapore from all countries/regions for business and official purposes may utilise [Connect@Singapore](/connectsg/overview) to stay within a “bubble” at Appointed Facilities, to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities.
 
-Click [here](/connectsg/faq) to read the FAQ for Connect@Singapore.
+
+
+
 
 ### Reciprocal Green Lane (RGL)
 
