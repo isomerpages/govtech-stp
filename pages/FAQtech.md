@@ -50,7 +50,7 @@ There may be compulsory fields in the form that have not been filled in.
 
 The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-up window, if the pop-up blocker has been turned off per the instructions during the payment process. We regret to inform that we are unable to generate the same receipt a second time.
 
-7. Why can’t I choose certain dates for the ‘Period of Entry’?
+#### 7. Why can’t I choose certain dates for the ‘Period of Entry’?
 
 As the COVID-19 situation is constantly evolving, the period/date of entry allowed to be selected will only be for a limited number of weeks ahead of the application date. Travellers are also not allowed to apply for entry dates which are too close to the application date, in order to allow time for application processing.
 
