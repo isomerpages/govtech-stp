@@ -49,18 +49,22 @@ If you have already applied for entry into Singapore under any of the following 
 
 ### Contact Points
 
-If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to call the <u>SafeTravel Contact Centre Hotline at 6812 5555</u> for assistance on issues relating to:
+If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to either:
+- Call our SafeTravel Enquiries helpline at **6812 5555** for assistance; or
+- Write to us using our enquiry form [here](https://go.gov.sg/sto-enquiry).
 
-<ol style="font-size:18px; list-style-type:disc;">
+
+
+<!--<ol style="font-size:18px; list-style-type:disc;">
 <li>Periodic Commuting Arrangement</li>
 <li>Reciprocal Green Lane</li>
 <li>Appeals to enter Singapore for essential travel for business or official purpose</li>
 <li>SHN-related matters</li>
-</ol>
+</ol>-->
 
-For the matters below, you can also enquire with the following contact points, if applicable: 
+<!--For the matters below, you can also enquire with the following contact points, if applicable: -->
 
-<table>
+<!--<table>
 <thead>
   <tr>
     <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Nature of Enquiries</th>
@@ -113,4 +117,4 @@ For the matters below, you can also enquire with the following contact points, i
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MOH Emergency Line</td>
  </tr>
   </tbody>
-  </table>
+  </table>-->
