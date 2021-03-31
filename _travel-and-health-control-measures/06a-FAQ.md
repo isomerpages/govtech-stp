@@ -13,7 +13,7 @@ permalink: /health/FAQ
  4. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
  5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
  6. [Payments and Refunds](#payments)
- 7. [Vaccinated Travellers intending to travel back/to Singapore](#vaccinated)
+ 7. [Vaccinated Travellers intending to travel to Singapore](#vaccinated)
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
