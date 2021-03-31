@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website to find out what requirements apply to you when entering or departing Singapore.
+As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
 
 ### Application Status
 
@@ -19,7 +19,7 @@ If you have already applied for entry into Singapore under any of the following 
 <tbody>
   <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Periodic Commuting Arrangement</td>
-   <td rowspan ="4" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
+   <td rowspan ="3" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
      </td>
  </tr>
     <tr>
@@ -29,11 +29,8 @@ If you have already applied for entry into Singapore under any of the following 
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singaporean Citizen/Permanent Resident Familial Ties Lane</td>
  </tr>
 <tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holder General Lane (Foreign Domestic Workers and Confinement Nannies)</td>
- </tr>
-<tr>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holder General Lane (All other Work Pass Holders, including IPA, Dependent’s Pass, Long Term Visit Pass or Letter of Consent)</td>
-   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Please write to MOM directly.</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Work Pass Holder General Lane</td>
+   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">If you applied for entry via the SafeTravel Portal, please check <a href="https://eservices.ica.gov.sg/STO">here</a>. If you applied with MOM, please write to MOM directly.</td>
  </tr>
    <tr>
      <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Air Travel Pass</td>
@@ -49,18 +46,22 @@ If you have already applied for entry into Singapore under any of the following 
 
 ### Contact Points
 
-If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to call the <u>SafeTravel Contact Centre Hotline at 6812 5555</u> for assistance on issues relating to:
+If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to either:
+- Call our SafeTravel Helpine at **6812 5555** for assistance; or
+- Write to us using our enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
 
-<ol style="font-size:18px; list-style-type:disc;">
+
+
+<!--<ol style="font-size:18px; list-style-type:disc;">
 <li>Periodic Commuting Arrangement</li>
 <li>Reciprocal Green Lane</li>
 <li>Appeals to enter Singapore for essential travel for business or official purpose</li>
 <li>SHN-related matters</li>
-</ol>
+</ol>-->
 
-For the matters below, you can also enquire with the following contact points, if applicable: 
+<!--For the matters below, you can also enquire with the following contact points, if applicable: -->
 
-<table>
+<!--<table>
 <thead>
   <tr>
     <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Nature of Enquiries</th>
@@ -113,4 +114,4 @@ For the matters below, you can also enquire with the following contact points, i
       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">MOH Emergency Line</td>
  </tr>
   </tbody>
-  </table>
+  </table>-->
