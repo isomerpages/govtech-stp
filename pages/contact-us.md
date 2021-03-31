@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website to find out what requirements apply to you when entering or departing Singapore.
+As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
 
 ### Application Status
 
