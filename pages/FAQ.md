@@ -42,7 +42,7 @@ permalink: /FAQ
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Mainland China</a></li>
           <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Malaysia</a></li>
           <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Republic of Korea</a></li>
-        </ol></a>
+        </ol>
       </td>
     </tr>
   </tbody>
