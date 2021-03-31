@@ -498,15 +498,15 @@ Requests for refunds will only be considered if there are strong mitigating fact
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process"><a href="/wphl/overview">Work Pass Holder Lane
        </a><br/><br/> <i>(Foreign Domestic Workers (FDW) and Confinement Nannies)</i></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the FDW or nanny's entry approval <b>at least 5 days before the approved entry date:</b></a><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the FDW or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
            </ol>
    </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br/><i>(All other Work Pass Holders and their dependents)</i></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b></a><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane</a><br><br/><i>(All other Work Pass Holders and their dependents)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the pass holder's entry approval <b>at least 7 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-approval">For Work Pass holder or dependant</a> </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-entry-individual">For Personalised Empoyer Pass hlder without employer, Entrepass and Work Holiday Pass and their dependants</a> </li>
            </ol>
