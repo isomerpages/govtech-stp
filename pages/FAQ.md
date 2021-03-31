@@ -37,7 +37,7 @@ permalink: /FAQ
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Brunei</a></li>
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Germany</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Indonesia</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/indonesia/rgl/faq">Indonesia</a></li>
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Japan</a></li>
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Mainland China</a></li>
           <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Malaysia</a></li>
@@ -45,6 +45,20 @@ permalink: /FAQ
         </ol>
       </td>
     </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for Visiting RGL Counterpart Countries </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-germany">Germany</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-indonesia">Indonesia</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-japan">Japan</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-china">Mainland China</a></li>
+          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">Malaysia</a></li>
+          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-rok">Republic of Korea</a></li>
+        </ol>
+      </td>
+    </tr>
+
   </tbody>
   </table>
 
@@ -53,49 +67,6 @@ permalink: /FAQ
 
 
 
-
-### Reciprocal Green Lane (RGL)
-
-#### RGL Travellers Visiting Singapore
-
-Travellers <u>visiting Singapore for business/official purposes</u> may click on the links below for Frequently Asked Questions pertaining to the requirements and processes under the [Reciprocal Green Lane](https://safetravel.ica.gov.sg/rgl/overview).
-
-<table>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Brunei</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Germany</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/indonesia/rgl/faq">Indonesia</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Japan</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Mainland China</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Malaysia</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/faq">Republic of Korea</a></td>
-</tr>
-</table>
-
-
-#### Visiting RGL Counterpart Countries
-
-Travellers <u>visiting the following countries/regions for business/official purposes</u> may click on the links below for frequently asked questions pertaining to the requirements and processes under the [Reciprocal Green Lane](https://safetravel.ica.gov.sg/rgl/outbound/faq).
-
-<table>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-germany">Germany</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-indonesia">Indonesia</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-japan">Japan</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-china">Mainland China</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-malaysia">Malaysia</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/outbound/faq#faq-outbound-rok">Republic of Korea</a></td>
-</tr>
-</table>
 
 #### RGL Travellers Returning to Singapore
 
