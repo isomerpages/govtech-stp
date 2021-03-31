@@ -496,8 +496,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg </a></td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/requirements-and-process"><a href="/wphl/overview">Work Pass Holder Lane
-       </a><br/><br/> <i>(Foreign Domestic Workers (FDW) and Confinement Nannies)</i></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder Lane</a><br/><br/> <i>(Foreign Domestic Workers (FDW) and Confinement Nannies)</i></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Use the relevant form below to cancel the FDW or nanny's entry approval <b>at least 5 days before the approved entry date:</b><ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a> </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a> </li>
@@ -520,7 +519,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </tbody>
   </table>
   
-Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage ([here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html) or write to MPA ([here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
+Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage [here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html) or write to MPA [here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
 
 
 Click here to [Go Back To Top](#top).
