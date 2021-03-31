@@ -10,7 +10,7 @@ permalink: /FAQ
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Safe Travel Lane</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Frequently Asked Questions</th>
+       <th colspan"2"style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Frequently Asked Questions</th>
            </tr>
   </thead>
   <tbody>
