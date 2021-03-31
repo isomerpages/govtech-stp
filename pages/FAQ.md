@@ -58,48 +58,39 @@ permalink: /FAQ
         </ol>
       </td>
     </tr>
-
+<tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Returning to Singapore </td>
+        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-brunei">Brunei</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-germany">Germany</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-indonesia">Indonesia</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-japan">Japan</a></li>
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-china">Mainland China</a></li>
+          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-malaysia">Malaysia</a></li>
+          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-rok">Republic of Korea</a></li>
+        </ol>
+      </td>
+    </tr>
+<tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement </a></td>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/malaysia/pca/faq">FAQ</a> 
+      </td>
+    </tr>  
+<tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapre Citizen/PR Familial Ties Lane</a></td>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/faq">FAQ</a> 
+      </td>
+    </tr>
+    
+    
+    
+    
   </tbody>
   </table>
 
 
 
 
-
-
-
-#### RGL Travellers Returning to Singapore
-
-Travellers <u>returning to Singapore after using RGL to visit any of the listed counterpart country/region</u> may click on the country of visit below for Frequently Asked Questions pertaining to requirements on return to Singapore.
-
-<table>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-brunei">Brunei</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-germany">Germany</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-indonesia">Indonesia</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-japan">Japan</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-china">Mainland China</a></td>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-malaysia">Malaysia</a></td>
-</tr>
-<tr>
-<td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/returnees/faq#faq-return-rok">Republic of Korea</a></td>
-</tr>
-</table>
-
-
-### Periodic Commuting Arrangement (PCA)
-
-The Periodic Commuting Arrangement (PCA) supports companies in Singapore and Malaysia by facilitating the movement of workers between both countries. Approved travellers/employees are required to remain in their country of employment for at least 90 days before returning to their home country for short-term home leave. 
-
-Click [here](https://safetravel.ica.gov.sg/malaysia/pca/faq) for the FAQs about the [PCA](/pca/overview).
-
-### Singapore Citizen/PR Familial Ties Lane
-
-Travellers who are ICA-issued Long-Term Visit Pass (LTVP) holder or a short-term visitor, with family members who are Singapore citizens/permanent residents, may sought entry into Singapore through the Singapore Citizen/PR Familial Ties Lane if they fulfil the eligibility criteria. 
-
-Click [here](https://safetravel.ica.gov.sg/scpr-familial-ties-lane/faq) for FAQs under the [Singapore Citizen/PR Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process).
 
 -----------
 
