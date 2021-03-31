@@ -48,7 +48,7 @@ If you have already applied for entry into Singapore under any of the following 
 
 If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to either:
 - Call our SafeTravel Helpine at **6812 5555** for assistance; or
-- Write to us using our enquiry form [here](https://go.gov.sg/sto-enquiry).
+- Write to us using our enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>.
 
 
 
