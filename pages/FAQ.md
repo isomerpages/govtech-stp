@@ -28,12 +28,12 @@ permalink: /FAQ
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore </a></td>
-      <td colspan="2"style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="connectsg/faq">FAQ</a> 
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="connectsg/faq">FAQ</a> 
       </td>
     </tr>  
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td rowspan="3"style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Visiting singapore
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Visiting singapore</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Brunei</a></li>
         <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Germany</a></li>
