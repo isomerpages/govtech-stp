@@ -27,7 +27,7 @@ permalink: /indonesia/rgl/terms-and-conditions
 
 4. The grant of the SafeTravel Pass is subject to full compliance with these terms and conditions, and all prevailing immigration and health policies. The SafeTravel Pass may be revoked, and/or future applications rejected, if any of the terms and conditions are not complied with by either the traveller or the Host.
 
-5. Should there be any changes in the information provided, such as the arrival date or time of the traveller, the Sponsor shall promptly inform the Singapore Ministry of Trade and Industry (henceforth referred to as “MTI”) immediately via <COVID_SafeTravelEnquiries@mti.gov.sg>. 
+5. Should there be any changes in the information provided, such as the arrival date or time of the traveller, the Sponsor shall promptly inform the Singapore Ministry of Trade and Industry (henceforth referred to as “MTI”) immediately via the webform at <https://go.gov.sg/sto-enquiry>.
 
 6. These terms and conditions may be modified at any time, at the relevant authorities’ discretion for reasons including, but not limited to, safeguarding public health.
 
