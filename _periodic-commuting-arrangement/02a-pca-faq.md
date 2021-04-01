@@ -57,7 +57,7 @@ You can check your PCA application status <a href="https://eservices.ica.gov.sg/
 
 #### 4. Who should I contact for feedback or queries?
 
-You may send an email to <a href="mailto:COVID_SafeTravelEnquiries@mti.gov.sg">COVID_SafeTravelEnquiries@mti.gov.sg</a>, and we will endeavour to reply to you within 3-5 working days.
+You may call us at **6812 5555** or submit your query via the webform at <a href="https://go.gov.sg/sto-enquiry">https://go.gov.sg/sto-enquiry</a>. We will endeavour to reply to you within 3-5 working days.
 
 ##### Click here to go to the [top](#top).
 

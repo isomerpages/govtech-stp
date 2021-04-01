@@ -30,7 +30,6 @@ Please ensure that you have a Corppass administrator account to log in to the Sa
 To facilitate the smooth processing and clearance of your application, please note that we are only able to accept name entries containing the following:-
 
 - Basic Latin characters (A to Z and a to z);
-- Arabic numerals 1 to 9;
 
 For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine readable zone of the passport. An illustration can be found below to show how to locate the passport’s machine readable zone.
 
