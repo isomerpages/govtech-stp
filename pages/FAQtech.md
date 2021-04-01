@@ -84,8 +84,7 @@ If you encountered errors while uploading, please follow the following troublesh
 
 #### 5. I am still encountering errors with the RGL portal despite following the advice given in this guide. Who may I contact for assistance?
 
-Should you still encounter error messages with your application, please mail to <COVID_SafeTravelEnquiries@mti.gov.sg>, and provide the screenshots of the error(s) with contact details for follow up.
-
+Should you still encounter error messages with your application, please write to us [here](https://go.gov.sg/sto-enquiry), and provide the screenshots of the error(s) for follow up.
 
 <div id="PCATech"></div>
 
@@ -108,7 +107,7 @@ Travellers with the following types of MOM-issued work passes are allowed to tra
 
 To apply for or renew a pass, please <a href="https://www.mom.gov.sg/passes-and-permits">visit MOM’s website</a> and click on the relevant pass for more details.
 
-If the error persists even though the traveller’s work pass is valid, please write in to <COVID_SafeTravelAppeals@mti.gov.sg> and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
+If the error persists even though the traveller’s work pass is valid, please write us [here](https://go.gov.sg/sto-enquiry) and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
 
 #### 2. Can I change the PCA entry date?
 
@@ -122,21 +121,20 @@ Yes, a fresh PCA application must be submitted. Employers must ensure that the i
 
 The approval letter will be sent as an email from the SafeTravel Office (SafeTravelOffice@ica.gov.sg) to the email address provided by the applicant shortly after payment. This will be the email address that an email verification OTP is sent to during the application process. Depending on the recipient’s email settings, the approval letter could be found in the recipient’s spam or junk folder.
 
-If the problem persists, please contact us via email at <COVID_SafeTravelAppeals@mti.gov.sg> with the following information:
+If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
 <br>
 <ul>
 <li>PCA application Reference Number (PCA-<i>X</i>-<i>XXXXX</i>);</li>
 <li>Email of the Sponsoring Organisation’s contact person;</li>
 <li>Screenshot of your application status or payment invoice;</li>
 <li>FIN and FIN expiry number of your employee(s);</li>
-<li>Your contact details for follow up.</li>
 </ul>
 <br>
 Requests to have the approval letter sent to a different email address, i.e. not stated in the application, will not be entertained.
 
 #### 5. I am still encountering errors with the PCA portal despite following the advice given in this guide. Who may I contact for assistance?
 
-Should you still encounter error messages with your application, please mail to <COVID_SafeTravelEnquiries@mti.gov.sg>, and provide the screenshots of the error(s) with contact details for follow up.
+Should you still encounter error messages with your application, please contact us [here](https://go.gov.sg/sto-enquiry) and provide the screenshots of the error(s) for follow up.
 
 <div id="SCPRFamTiesLane"></div>
 
@@ -144,4 +142,4 @@ Should you still encounter error messages with your application, please mail to 
 
 #### 1.	I am still encountering errors when using the portal and I am unable to locate a solution in this FAQ. Who may I contact for assistance?
 
-Should you still encounter error messages with your application, please contact <ICA_nCOV_Request@ica.gov.sg> and provide us with your contact details, as well as information of the error(s) encountered (e.g. screenshots).
+Should you still encounter error messages with your application, please contact [here](https://go.gov.sg/sto-enquiry) and provide information of the error(s) encountered (e.g. screenshots).
