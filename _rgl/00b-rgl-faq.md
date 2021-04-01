@@ -231,7 +231,7 @@ Amendments cannot be made once an application is submitted . Application sponsor
 
 #### 12. What should I do if there are changes in the 14-day controlled itinerary submitted?
 
-As a [condition](/rgl/terms-and-conditions) for entry into Singapore, travellers approved under the RGL arrangement must adhere to the controlled itinerary submitted. Failure to do so can result in the immediate revocation of the SafeTravel Pass and termination of the visit pass. Application sponsors should therefore ensure that the controlled itinerary submitted is accurate. Should there be any changes in the itinerary, application sponsors can write to <COVID_SafeTravelEnquiries@mti.gov.sg> with the approved SafeTravel Pass reference and revised controlled itinerary. 
+As a [condition](/rgl/terms-and-conditions) for entry into Singapore, travellers approved under the RGL arrangement must adhere to the controlled itinerary submitted. Failure to do so can result in the immediate revocation of the SafeTravel Pass and termination of the visit pass. Application sponsors should therefore ensure that the controlled itinerary submitted is accurate. Should there be any changes in the itinerary, application sponsors can submit the webform at <a href="https://go.gov.sg/sto-enquiry">https://go.gov.sg/sto-enquiry</a> with the approved SafeTravel Pass reference and revised controlled itinerary. 
 
 #### 13. Why was my application rejected?
 
