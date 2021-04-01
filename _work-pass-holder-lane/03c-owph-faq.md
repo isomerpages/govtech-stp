@@ -112,7 +112,7 @@ Please refer to the common troubleshooting FAQ <a href="https://safetravel.ica.g
 
 If the troubleshooting FAQ does not address your queries, you can contact us <a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx">here</a>.
 
-### 10. I did not receive the entry application for my pass holder. What should I do? 
+### 10. I did not receive the entry application outcome for my pass holder. What should I do? 
 
 Please check your spam and junk folders in case the outcome was sent there. 
 
