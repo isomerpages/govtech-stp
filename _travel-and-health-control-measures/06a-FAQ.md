@@ -291,7 +291,7 @@ There are products offered by Singapore-based insurers. Travellers can visit the
 <tbody>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
-    <td style="border-right:1px solid #D8D8D8;">Visit: <a href="https://www.aig.sg/contact-online">https://www.aig.sg/contact-online</a></td>
+    <td style="border-right:1px solid #D8D8D8;">Visit: <a href="https://www.aig.sg/contact-online" target="_blank">https://www.aig.sg/contact-online</a></td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Chubb Insurance Singapore Limited</b></td>

@@ -23,15 +23,15 @@ A list of available Singapore-based travel insurance products are as follows:
 <tbody>
 <tr>
 <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>AIG Asia Pacific Insurance Pte. Ltd.</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://www.aig.sg/singapore-travel-assist">Singapore Travel Assist</a></td>
+<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://www.aig.sg/singapore-travel-assist" target="_blank">Singapore Travel Assist</a></td>
 </tr>
 <tr>
 <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Chubb Insurance Singapore Limited</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://sgtravelinsured.chubbtravelinsurance.com/">SG Travel Insured</a></td>
+<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://sgtravelinsured.chubbtravelinsurance.com/" target="_blank">SG Travel Insured</a></td>
 </tr>
 <tr>
 <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>HL Assurance Pte. Ltd.</b></td>
-<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://changiassure.changirecommends.com/">ChangiAssure Covid Insurance</a></td>
+<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://changiassure.changirecommends.com/" target="_blank">ChangiAssure Covid Insurance</a></td>
 </tr>
 </tbody>
 </table>
