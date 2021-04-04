@@ -54,6 +54,7 @@ The following groups should **not** apply for entry through the STPHL:
   </tr>
   </tbody>
 </table>
+
   
 ### 3. Pre-Departure for Singapore
 
@@ -104,6 +105,7 @@ The following groups should **not** apply for entry through the STPHL:
 </tbody>
 </table>
 
+
 ### 4. Arrival in Singapore
 
 <table>
@@ -135,6 +137,8 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
  </tbody>
  </table>
  
+ 
+
 ### 5. Post-Arrival 
 
 <table>
