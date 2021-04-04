@@ -35,7 +35,7 @@ The following groups should **not** apply for entry through the STPHL:
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">Eligible travellers should submit applications for entry approval through SafeTravel online portal, at least two weeks from the planned date of entry. They can apply for entry up to about two months in advance. You may refer to the <a href="/files/stp-application-step-by-step-guide.pdf">Guide to Applying for Entry Approval</a> when submitting the application. <br/><br/>
     STP holders and their accompanying family members (if eligible) should submit their applications together. Via the online portal, STP holders may only apply for up to three travellers at a time. <b>If you meet the above-mentioned eligibility criteria but need to apply for more than three travellers, please write in using the <a href="https://go.gov.sg/sto-enquiry">SafeTravel enquiry form.</a></b><br/><br/>
-     Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for the week of travel indicated in the application.
+     Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for the week of travel indicated in the application.</td>
     </tr>
     <thead>
      <tr>
