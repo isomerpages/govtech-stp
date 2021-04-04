@@ -34,7 +34,7 @@ A list of available Singapore-based travel insurance products* are as follows:
 <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://changiassure.changirecommends.com/" target="_blank">ChangiAssure Covid Insurance</a></td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px; line-height:1.0; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><i>*Note: ICA has no affiliations to the insurers listed above and we are unable to assist with any queries relating to product information or the application process. Should you require further assistance during the course of application, <b>please enquire directly with the insurers</b>. For more information on our third-party sites' policy, please click <a href="/terms-of-use#ThirdPartySitesPolicy">here</a>.</i></td>
+<td colspan="2" style="font-size:16px; line-height:1.5; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><i>*Note: ICA has no affiliations to the insurers listed above and we are unable to assist with any queries relating to product information or the application process. Should you require further assistance during the course of application, <b>please enquire directly with the insurers</b>. For more information on our third-party sites' policy, please click <a href="/terms-of-use#ThirdPartySitesPolicy">here</a>.</i></td>
 </tr>
 </tbody>
 </table>
