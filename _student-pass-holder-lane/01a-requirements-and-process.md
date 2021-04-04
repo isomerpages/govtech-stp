@@ -21,6 +21,7 @@ The following groups should **not** apply for entry through the STPHL:
 - Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the details on the application process under the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
 - Immediate family members or relatives of Singapore Citizens (SC) or Singapore Permanent Residents (PR) should **not** apply for entry through the STPHL. They should apply via the [Familial Ties Lane](/scpr-familial-ties-lane/overview) instead. 
 
+
 ### 2. Submit Approvals for Entry into Singapore
 
 <table>
