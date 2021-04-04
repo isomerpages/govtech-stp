@@ -3,7 +3,7 @@ title: Requirements and Process
 permalink: /stpl/requirements-and-process
 ---
 
-<span class="font-size:16px;">The Student’s Pass Holder Lane (STPHL) is a Safe Travel Lane that Student’s Pass (STP) holders and eligible accompanying family members may use to enter Singapore. All STP holders and eligible accompanying family members must be obtained entry approval before travelling to Singapore. </span>
+<span class="font-size:16px;">The Student’s Pass Holder Lane (STPHL) is a Safe Travel Lane that Student’s Pass (STP) holders and eligible accompanying family members may use to enter Singapore. All STP holders and eligible accompanying family members must ontain entry approval before travelling to Singapore. </span>
 
 ### 1. Eligibility 
 
@@ -18,7 +18,7 @@ The following travellers are eligible to apply for entry through the Student’s
 - *Accompanying family members must hold an ICA-issued pass (e.g. Long-Term Visit Pass) or be a short-term visitor to be eligible for entry application through the STPHL. Short-term visitors who are eligible for entry into Singapore will receive a Short-Term Visit Pass on arrival. For more information on the prevailing entry requirements, you may visit [here](https://www.ica.gov.sg/enter-depart/entry_requirements.)* 
 
 The following groups should **not** apply for entry through the STPHL: 
-- Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the details on the application process under the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
+- Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the application process for the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
 - Immediate family members or relatives of Singapore Citizens (SC) or Singapore Permanent Residents (PR) should **not** apply for entry through the STPHL. They should apply via the [Familial Ties Lane](/scpr-familial-ties-lane/overview) instead. 
 
 
@@ -48,7 +48,7 @@ The following groups should **not** apply for entry through the STPHL:
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>; and
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers who are existing visa holders can check the status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid).
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers who are existing visa holders can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a> (travellers need not apply for a visa if his/her existing visa remains valid).
        </li>
       </ol>
     </td>
