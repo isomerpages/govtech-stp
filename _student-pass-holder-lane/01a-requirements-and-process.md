@@ -84,7 +84,7 @@ The following groups should **not** apply for entry through the STPHL:
   </tr>
    <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Day of Departure to Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED ">Day of Departure to Singapore</th>
   </tr>
   </thead>
    <tr>
