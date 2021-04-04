@@ -37,6 +37,7 @@ A list of available Singapore-based travel insurance products* are as follows:
 </table>
 <i>*Note: ICA has no affiliations to the insurers listed above and we are unable to assist with any queries relating to product information or the application process. Should you require further assistance during the course of application, <b>please enquire directly with the insurers</b>. For more information on our third-party sites' policy, please click here.</i>
 <br/>
+<br/>
 <b><i>All Short Term Visitors entering via [ATP](/atp/overview) and [RGL](/rgl/overview) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
 
 The mandatory travel insurance <u>does not</u> apply to Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to access Government subsidies and MediShield Life / Integrated Shield Plans to help pay for their medical bills, should they develop onset of symptoms for COVID-19 within 14 days of their return.
