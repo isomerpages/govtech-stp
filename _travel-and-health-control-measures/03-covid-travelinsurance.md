@@ -11,7 +11,7 @@ With effect from 31 January 2021, 2359 hours, short-term visitors applying to en
 
 Visitors should <u>purchase such travel insurance prior to travelling to Singapore</u>, either from Singapore-based or overseas insurers. 
 
-A list of available Singapore-based travel insurance products are as follows:
+A list of available Singapore-based travel insurance products* are as follows:
 
 <table>
 <thead>
@@ -35,6 +35,7 @@ A list of available Singapore-based travel insurance products are as follows:
 </tr>
 </tbody>
 </table>
+<i>*Note: ICA has no affiliations to the insurers listed above and we are unable to assist with any queries relating to product information or the application process. Should you require further assistance during the course of application, <b>please enquire directly with the insurers</b>. For more information on our third-party sites' policy, please click here.</i>
 
 <b><i>All Short Term Visitors entering via [ATP](/atp/overview) and [RGL](/rgl/overview) are required to prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore. </i></b>
 
