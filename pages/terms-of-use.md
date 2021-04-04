@@ -45,6 +45,8 @@ permalink: /terms-of-use
 - use any device, software or routine to interfere or attempt to interfere with the proper working of this website; and
 - take any action that imposes an unreasonable or disproportionately large load on ICA's servers.
 
+<div id="ThirdPartySitesPolicy"></div>
+
 ### **Hyperlinks to Third Party Sites**
 
 14. This website contains hyperlinks to web sites which are not maintained nor controlled by ICA. ICA shall not be responsible for the content of any hyperlinked website or any hyperlink contained in a hyperlinked web site, and shall not be liable for any damages or loss arising from access to those websites. Use of the hyperlinks and access to such hyperlinked websites are entirely at your own risk.
