@@ -39,11 +39,11 @@ The following groups should **not** apply for entry through the STPHL:
     </tr>
     <thead>
      <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED    ">At least 7 days before planned entry date into in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">At least 7 days before planned entry date into in Singapore</th>
   </tr>
     </thead>
      <tr>
-    <td  style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Visa Application (if required)</b></td>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Visa Application (if required)</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Eligible travellers who require a visa for travel to Singapore must separately obtain a valid visa before departing for Singapore.</b></u> 
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers can check if they require a visa to enter Singapore <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>; and
@@ -72,7 +72,7 @@ The following groups should **not** apply for entry through the STPHL:
       </td>          
    </tr>
     <tr>
-    <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
@@ -90,7 +90,7 @@ The following groups should **not** apply for entry through the STPHL:
   </tr>
   </thead>
    <tr>
-    <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED "><b>Pre-boarding Clearance</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED "><b>Pre-boarding Clearance</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Travellers under the Student’s Pass Holder Lane (STPHL) must produce the following documents when leaving for Singapore:
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid Approval Letter of Entry;
