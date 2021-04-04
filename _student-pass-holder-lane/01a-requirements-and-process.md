@@ -15,7 +15,7 @@ The following travellers are eligible to apply for entry through the Student’s
 
 *For accompanying family members, please note that:*
 - *Accompanying family members must send their application and travel together with the STP holders to be eligible for entry application through the STPHL. Different travel dates between STP holders and their family members will not be allowed.*
-- *Accompanying family members must hold an ICA-issued pass (e.g. Long-Term Visit Pass) or be a short-term visitor to be eligible for entry application through the STPHL. Short-term visitors who are eligible for entry into Singapore will receive a Short-Term Visit Pass on arrival. For more information on the prevailing entry requirements, you may visit [here](https://www.ica.gov.sg/enter-depart/entry_requirements.)* 
+- *Accompanying family members must hold an ICA-issued pass (e.g. Long-Term Visit Pass) or be a short-term visitor to be eligible for entry application through the STPHL. Short-term visitors who are eligible for entry into Singapore will receive a Short-Term Visit Pass on arrival. For more information on the prevailing entry requirements, you may visit the main ICA website [here](https://www.ica.gov.sg/enter-depart/entry_requirements.)* 
 
 The following groups should **not** apply for entry through the STPHL: 
 - Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the application process for the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
