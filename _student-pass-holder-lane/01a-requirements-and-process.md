@@ -3,15 +3,23 @@ title: Requirements and Process
 permalink: /stpl/requirements-and-process
 ---
 
+<span class="font-size:16px;">The Student’s Pass Holder Lane (STPHL) is a Safe Travel Lane that Student’s Pass (STP) holders and eligible accompanying family members may use to enter Singapore. All STP holders and eligible accompanying family members must be obtained entry approval before travelling to Singapore. </span>
+
 ### 1. Eligibility 
 
-<span class="font-size:16px;">The traveller must be a Student’s Pass (STP) holder (including STP-IPA holder) in Ministry of Education (MOE) schools, Institutes of Higher Learning, Arts Institutions, Private Education Institutions (PEIs), and other schools/institutions (e.g. Pre-Schools) (and their accompanying family members on Long Term Visit Passes or Short Term Visit Passes), where applicable. STP holders must obtain MOE’s entry approval before travelling to Singapore and should do so by applying through their education institutions.</span>
- <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">STP holders studying in MOE schools and government funded SPED schools will need to apply for entry into Singapore via their school.
-       </li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">STP holders studying in the Institute of Technical Education, Polytechnics, Autonomous Universities, Arts Institutions, PEIs, and other schools/institutions will need to submit their applications to their respective institutions which will apply on their behalf to MOE.
-       </li>
-      </ol>
+The following travellers are eligible to apply for entry through the Student’s Pass Holder Lane:
+- Student’s Pass (STP) holder, including Student’s Pass – In Principle Approval (STP-IPA) holder, in Ministry of Education (MOE) schools, Institutes of Higher Learning, Arts Institutions, Private Education Institutions (PEIs), and other schools/institutions (e.g. preschools);
+- Accompanying parent/guardian of STP holders who are 19 years old and under (only one accompanying adult per family unit is allowed);
+- Accompanying siblings, not enrolled in an educational institution, who are 6 years old and under;
+- Accompanying spouse and children of STP holders on post-graduate programmes.
+
+*For accompanying family members, please note that:*
+- *Accompanying family members must send their application and travel together with the STP holders to be eligible for entry application through the STPHL. Different travel dates between STP holders and their family members will not be allowed.*
+- *Accompanying family members must hold an ICA-issued pass (e.g. Long-Term Visit Pass) or be a short-term visitor to be eligible for entry application through the STPHL. Short-term visitors who are eligible for entry into Singapore will receive a Short-Term Visit Pass on arrival. For more information on the prevailing entry requirements, you may visit [here](https://www.ica.gov.sg/enter-depart/entry_requirements.)* 
+
+The following groups should **not** apply for entry through the STPHL: 
+- Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the details on the application process under the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
+- Immediate family members or relatives of Singapore Citizens (SC) or Singapore Permanent Residents (PR) should **not** apply for entry through the STPHL. They should apply via the [Familial Ties Lane](/scpr-familial-ties-lane/overview) instead. 
 
 ### 2. Submit Approvals for Entry into Singapore
 
@@ -19,14 +27,15 @@ permalink: /stpl/requirements-and-process
   <tbody>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">At least 2 weeks before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">At least 2 weeks before planned date of entry into Singapore</th>
   </tr>
 </thead>
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Eligible travellers should submit applications for entry approval through their education institutions, at least two weeks from the planned date of entry and up to 60 days in advance. The time taken for application processing is about one to two weeks. <br/><br/>Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for 1 week from the date of issuance.
-    </td>
-  </tr>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Eligible travellers should submit applications for entry approval through SafeTravel online portal, at least two weeks from the planned date of entry. They can apply for entry up to about two months in advance. You may refer to the <a href="/files/stp-application-step-by-step-guide.pdf">Guide to Applying for Entry Approval</a> when submitting the application. <br/><br/>
+    STP holders and their accompanying family members (if eligible) should submit their applications together. Via the online portal, STP holders may only apply for up to three travellers at a time. <b>If you meet the above-mentioned eligibility criteria but need to apply for more than three travellers, please write in using the SafeTravel enquiry form.</b><br/><br/>
+     Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for the week of travel indicated in the application.
+    </tr>
     <thead>
      <tr>
     <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED    ">At least 7 days before planned entry date into in Singapore</th>
