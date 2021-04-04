@@ -152,7 +152,7 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation/SHN</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours, they have to self-isolate at their declared accommodation until they are notified of their negative result.<br/><br/>
-      <u>For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
+     For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
   </tr>
