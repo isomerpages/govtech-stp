@@ -49,7 +49,7 @@ The SHN comes into effect **immediately** on the day of arrival in Singapore and
 
 Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
 
-Travekkers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
+Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
 #### 6. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
