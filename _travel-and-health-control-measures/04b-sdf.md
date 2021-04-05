@@ -6,14 +6,13 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-To limit the spread of COVID-19, several hotels in Singapore have been designated as SHN-Dedicated Facilities (SDF). In general, travellers issued with a 14-day SHN are required to complete their SHN at an SDF. As of 1 Jan 2021, all returning travellers will have to pay for the cost of their SDF stay. The cost is $2,000, inclusive of meals and GST. This does not include the relevant [charges for COVID-19 tests](/health/covid19-tests/pcrtest#price). Travellers who fail to pay for their SDF may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
+To limit the spread of COVID-19, several hotels in Singapore have been designated as SHN-Dedicated Facilities (SDF). In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete their SHN at an SDF. The standard cost of the 14-day SDF stay for a single traveller, is $2,000, and it includes meals and GST. There will be varying additional costs payable for groups requesting to share an SDF room, and these costs will be made known during the entry approval application process. Travellers who fail to pay for their SDF may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
 Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
 
 ### SDF Opt-Out
 
 Travellers may opt-out of SDF if they satisfy either of the following conditions. Applications to opt-out of SDF must be submitted three working days before the traveller’s scheduled arrival in Singapore.
-
 
 <table>
   <thead>
