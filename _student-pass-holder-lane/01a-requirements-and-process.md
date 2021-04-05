@@ -3,7 +3,7 @@ title: Requirements and Process
 permalink: /stpl/requirements-and-process
 ---
 
-<span class="font-size:16px;">The Student’s Pass Holder Lane (STPHL) is a Safe Travel Lane that Student’s Pass (STP) holders and eligible accompanying family members may use to enter Singapore. All STP holders and eligible accompanying family members must ontain entry approval before travelling to Singapore. </span>
+<span class="font-size:16px;">The Student’s Pass Holder Lane (STPHL) is a Safe Travel Lane that Student’s Pass (STP) holders and eligible accompanying family members may use to enter Singapore. All STP holders and eligible accompanying family members must obtain entry approval before travelling to Singapore. </span>
 
 ### 1. Eligibility 
 
