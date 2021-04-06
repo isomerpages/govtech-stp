@@ -52,7 +52,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     </p>
    <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Entry approvals granted via the application portal are valid for +/- 1 day from the approved date of entry.</p>
       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><u>Application outside of SafeTravel Portal</u></p>
-     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Eligible travellers who do not have a Singpass account and have exceptional reasons to enter Singapore on a short-term basis (e.g. death of a family member in Singapore) can write to <a href="mailto:ica_ncov_request@ica.gov.sg">ica_ncov_request@ica.gov.sg</a> to seek approval for entry. Applicants should provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>   
+     <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Eligible travellers who do not have a Singpass account and have exceptional reasons to enter Singapore on a short-term basis (e.g. death of a family member in Singapore) can complete the webform via <a href="https://go.gov.sg/sto-enquiry">https://go.gov.sg/sto-enquiry</a> or contact our SafeTravel Enquiries Helpline at 6812 5555 to seek approval for entry. Applicants should provide the relevant supporting documents to facilitate smooth processing (e.g. doctor’s memo, death certificate, traveller’s passport biodata page).</p>   
     </td>
   </tr>
     <thead>
