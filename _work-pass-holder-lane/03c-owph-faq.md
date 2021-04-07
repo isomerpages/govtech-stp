@@ -55,7 +55,7 @@ For us to consider a refund, please submit a request to cancel the entry approva
   <li><a href="http://www.mom.gov.sg/cancel-entry-individual">EntrePass holders (without Corppass) and their dependants</a></li>
 </ul>
 
-Once the entry approval is cancelled, you can submit abnother entry application with a new arrival date to bring them in. The new application will be subject to the prevailing entry controls.
+Once the entry approval is cancelled, you can submit another entry application with a new arrival date to bring them in. The new application will be subject to the prevailing entry controls.
 
 ### 4. What should I do if my pass holder falls sick during their SHN?
 
