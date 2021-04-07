@@ -49,10 +49,10 @@ For other work passes, employers and employees should come to a mutual agreement
 
 For us to consider a refund, please submit a request to cancel the entry approval <b>at least 7 days before the pass holder's approved entry period</b> to Ministry of Manpower (MOM) using the relevant link below. For:
 <ul>
-  <li>Foreign employees employed by companies and their dependants</li>
-  <li>Work Holiday Pass holders</li>
-  <li>Personalised Employment Pass holders (without employers) and their dependants</li>
-  <li>EntrePass holders (without Corppass) and their dependants</li>
+  <li><a href="http://www.mom.gov.sg/cancel-entry-approval">Foreign employees employed by companies and their dependants</a></li>
+  <li><a href="http://www.mom.gov.sg/cancel-entry-individual">Work Holiday Pass holders</a></li>
+  <li><a href="http://www.mom.gov.sg/cancel-entry-individual">Personalised Employment Pass holders (without employers) and their dependants</a></li>
+  <li><a href="http://www.mom.gov.sg/cancel-entry-individual">EntrePass holders (without Corppass) and their dependants</a></li>
 </ul>
 
 Once the entry approval is cancelled, you can submit abnother entry application with a new arrival date to bring them in. The new application will be subject to the prevailing entry controls.
