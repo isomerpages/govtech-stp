@@ -8,16 +8,16 @@ permalink: /FAQ/tech
 
 <div id="top"></div>
 
-A. [General Application Issues](#GenAppIssues)
-B. [Traveller Details](#TravellerDetails)
-C. [Entry Dates](#entrydates)
-D. [Document Uploads](#upload)
-E. [Receipts and Approval Letters](#receiptandapproval)
-F. [Amendment of Approved Applications](#amendment)
+1. [General Application Issues](#GenAppIssues)
+2. [Traveller Details](#TravellerDetails)
+3. [Entry Dates](#entrydates)
+4. [Document Uploads](#upload)
+5. [Receipts and Approval Letters](#receiptandapproval)
+6. [Amendment of Approved Applications](#amendment)
 
 <div id="GenAppIssues"></div>
 
-## A. General Application Issues
+## General Application Issues
 
 #### 1. What are the browsers compatible with Safe Travel Portal?
 
@@ -49,7 +49,7 @@ Should you still encounter error messages with your application, please contact 
 
 <div id="TravellerDetails"></div>
 
-## B. Traveller Details
+## Traveller Details
 
 #### 1. I have been asked to enter my name in basic Latin characters only. My name contains national characters of the Latin/Cyrillic/Arabic families of languages. What do I do?
 
@@ -83,7 +83,7 @@ If the error persists even though the traveller’s work pass is valid, please w
 
 <div id="entrydates"></div>
 
-## C. Entry Dates
+## Entry Dates
 
 #### 1. I am unable to select my desired entry date during application. Why?
 
@@ -93,7 +93,7 @@ Entry into Singapore is staggered to manage COVID-19 importation risk. If there 
 
 <div id="upload"></div>
 
-## D. Document Uploads
+## Document Uploads
 
 #### 1.	What file formats can be uploaded?
 
@@ -122,7 +122,7 @@ If you encountered errors while uploading, please follow the following troublesh
 
 <div id="receiptandapproval"></div>
 
-## E. Receipts and Approval Letters
+## Receipts and Approval Letters
 
 #### 1. Can I obtain a copy of the COVID-19 PCR test payment receipt?
 
@@ -143,7 +143,7 @@ Requests to have the approval letter sent to a different email address, i.e. not
 
 <div id="amendment"></div>
 
-## F. Amendment of Approved Applications
+## Amendment of Approved Applications
 
 #### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
 
