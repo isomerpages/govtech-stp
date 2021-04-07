@@ -49,7 +49,7 @@ permalink: /apply-now
     </tr>
        <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Singapore Student's Pass Holder Lane</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply through the student's educational institution</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="https://eservices.ica.gov.sg/STO/">Apply</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/requirements-and-process">Details</a></td>
     </tr>
   </tbody>
