@@ -29,7 +29,7 @@ From 11 April 2021, the login process for Corppass will be changed to first veri
 
 Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
 
-For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at (www.singpass.gov.sg) or (go.gov.sg/corporate-login).
+For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at [www.singpass.gov.sg](www.singpass.gov.sg) or [go.gov.sg/corporate-login](go.gov.sg/corporate-login).
 
 #### 3. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
 
@@ -133,14 +133,12 @@ The receipt for the COVID-19 PCR test payment would have been generated and disp
 The approval letter will be sent as an email from the SafeTravel Office (SafeTravelOffice@ica.gov.sg) to the email address provided by the applicant shortly after payment. This will be the email address that an email verification OTP is sent to during the application process. Depending on the recipient’s email settings, the approval letter could be found in the recipient’s spam or junk folder.
 
 If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
-<br>
 <ul>
 <li>Application Reference Number</li>
 <li>Contact details</li>
 <li>Screenshot of your application status or payment invoice</li>
 <li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
 </ul>
-<br>
 Requests to have the approval letter sent to a different email address, i.e. not stated in the application, will not be entertained.
 
 <div id="amendment"></div>
