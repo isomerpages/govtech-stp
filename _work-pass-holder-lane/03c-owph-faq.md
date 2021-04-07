@@ -45,7 +45,19 @@ For other work passes, employers and employees should come to a mutual agreement
 </tr>
 </table>
 
-### 3. What should I do if my pass holder falls sick during their SHN?
+### 3. My pass holders have obtained an entry approval to enter Singapore. However, I wish to change their arrival date or no longer want to bring them in. Can I ask for a refund of the charges paid?
+
+For us to consider a refund, please submit a request to cancel the entry approval <b>at least 7 days before the pass holder's approved entry period</b> to Ministry of Manpower (MOM) using the relevant link below. For:
+<ul>
+  <li>Foreign employees employed by companies and their dependants</li>
+  <li>Work Holiday Pass holders</li>
+  <li>Personalised Employment Pass holders (without employers) and their dependants</li>
+  <li>EntrePass holders (without Corppass) and their dependants</li>
+</ul>
+
+Once the entry approval is cancelled, you can submit abnother entry application with a new arrival date to bring them in. The new application will be subject to the prevailing entry controls.
+
+### 4. What should I do if my pass holder falls sick during their SHN?
 
 <table>
   <tr>
@@ -73,21 +85,21 @@ For other work passes, employers and employees should come to a mutual agreement
   </tr>
 </table>
 
-### 4. Can MOM extend or renew work passes nearing expiry if the foreign employees cannot return to Singapore because of the travel restrictions?
+### 5. Can MOM extend or renew work passes nearing expiry if the foreign employees cannot return to Singapore because of the travel restrictions?
 
 We advise employers to submit a new work pass application for such workers after the situation stabilises.
 
-### 5. Can employers get a levy waiver if their Work Permit or S Pass holder is quarantined?
+### 6. Can employers get a levy waiver if their Work Permit or S Pass holder is quarantined?
 
 Employers can get a levy waiver for Work Permit or S Pass holders who are given quarantine orders by MOH, as it is a form of hospitalisation leave.
 
 <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer">Apply for levy waiver</a>
 
-### 6. Can employers get a levy waiver for Work Permit or S Pass holders who went on home / overseas leave?
+### 7. Can employers get a levy waiver for Work Permit or S Pass holders who went on home / overseas leave?
 
 For employees on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer">apply for levy waiver</a> (for up to 60 days) <b>when the employees return to Singapore</b>.
 
-### 7. Can employers send their pass holders for any issuance-related procedures (e.g. medical examination, finger-printing, Settling-In-Programme or safety courses) during the SHN?
+### 8. Can employers send their pass holders for any issuance-related procedures (e.g. medical examination, finger-printing, Settling-In-Programme or safety courses) during the SHN?
 
 No, pass holders must complete their SHN before their employers can send them for any of the above-mentioned issuance-related procedures. If their Short-Term Visit Passes (STVP) are expiring soon, for:
 
@@ -98,7 +110,7 @@ No, pass holders must complete their SHN before their employers can send them fo
 
 MOM will not hesitate to take enforcement measures against any parties who do not comply with the SHN requirements. Measures include criminal proceedings, work pass revocations and withdrawal of work pass privileges.
 
-### 8. My pass holders intend to travel out of Singapore. What risks should I consider and how should I advise them?
+### 9. My pass holders intend to travel out of Singapore. What risks should I consider and how should I advise them?
 
 Please discourage your pass holder from going overseas as the country he/she is visiting may have travel restrictions. Thus, there could be significant delays before he/she can return to Singapore.
 
@@ -106,13 +118,13 @@ For all pass holders, new and existing, entering Singapore <b>from 1 January 202
 
 Find out who is <b><a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment">responsible for the treatment costs</a></b>.
 
-### 9. I encountered technical issues when completing the application form. What should I do? 
+### 10. I encountered technical issues when completing the application form. What should I do? 
 
 Please refer to the common troubleshooting FAQ <a href="https://safetravel.ica.gov.sg/faq/tech">here</a>.
 
 If the troubleshooting FAQ does not address your queries, you can contact us <a href="https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx">here</a>.
 
-### 10. I did not receive the entry application outcome for my pass holder. What should I do? 
+### 11. I did not receive the entry application outcome for my pass holder. What should I do? 
 
 Please check your spam and junk folders in case the outcome was sent there. 
 
