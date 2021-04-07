@@ -8,14 +8,16 @@ permalink: /FAQ/tech
 
 <div id="top"></div>
 
-1. [General Technical Queries](#GenTechQuery)
-2. [Reciprocal Green Lane Portal](#RGLTech)
-3. [Periodic Commuting Arrangement Portal](#PCATech)
-4. [Singaporean Citizen/PR Familial Ties Lane](#SCPRFamTiesLane)
+1. [General Application Issues](#GenAppIssues)
+2. [Traveller Details](#TravellerDetails)
+3. [Entry Dates](#entrydates)
+4. [Document Uploads](#upload)
+5. [Receipts and Approval Letters](#receiptandapproval)
+6. [Amendment of Approved Applications](#amendment)
 
-<div id="GenTechQuery"></div>
+<div id="GenAppIssues"></div>
 
-## General Technical Queries
+## General Application Issues
 
 #### 1. What are the browsers compatible with Safe Travel Portal?
 
@@ -23,38 +25,75 @@ For best user experience, please use Google Chrome (version 84 or later) or Micr
 
 #### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
 
-Please ensure that you have a Corppass administrator account to log in to the Safe Travel Portal. You may contact your Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal. 
+From 11 April 2021, the login process for Corppass will be changed to first verify your identity via Singpass, before you can proceed to access and transact with government digital services.
 
-#### 3. I have been asked to enter my name in basic Latin characters only. My name contains national characters of the Latin/Cyrillic/Arabic families of languages. What do I do?
+Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
+
+For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at (www.singpass.gov.sg) or (go.gov.sg/corporate-login).
+
+#### 3. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
+
+Please ensure you have read through the terms and conditions/ declaration and ensure that the checkbox is ticked before clicking the “I AGREE”/ “SUBMIT” button.
+
+#### 4. Why am I unable to click ‘NEXT’ to proceed to the next step of application?
+
+There may be compulsory fields in the form that have not been filled in.
+
+#### 5. Why was I logged out mid-way through my application?
+
+Users will be logged out of their accounts after approximately 20 minutes of inactivity and will have to re-submit any previously entered application details. This will help prevent any unauthorised access to the application data.
+
+#### 6. I am still encountering errors when using the portal and I am unable to locate a solution in this FAQ. Who may I contact for assistance?
+
+Should you still encounter error messages with your application, please contact us using the enquiry form [here](https://go.gov.sg/sto-enquiry).
+
+<div id="TravellerDetails"></div>
+
+## Traveller Details
+
+#### 1. I have been asked to enter my name in basic Latin characters only. My name contains national characters of the Latin/Cyrillic/Arabic families of languages. What do I do?
 
 To facilitate the smooth processing and clearance of your application, please note that we are only able to accept name entries containing the following:-
 
-- Basic Latin characters (A to Z and a to z);
+- Basic Latin characters (A to Z and a to z)
 
 For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine readable zone of the passport. An illustration can be found below to show how to locate the passport’s machine readable zone.
 
 <img src="/images/MRZ.png" style="width:auto; height:auto;">
 
 
-#### 4. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
+#### 2. I see an “invalid FIN number” prompt during my application. What does it mean?
 
-Please ensure you have read through the terms and conditions/ declaration and ensure that the checkbox is ticked before clicking the “I AGREE”/ “SUBMIT” button.
+This error has likely occurred because the traveller’s Singapore work pass <b>is invalid, has expired or will expire in less than 15 days from the date of entry into Singapore.</b>  
 
-#### 5. Why am I unable to click ‘NEXT’ to proceed to the next step of application?
+Travellers with the following types of MOM-issued work passes are allowed to travel under the PCA: 
+<ul style="list-style-type:lower-roman">
+  <li>Employment Pass;</li>
+  <li>EntrePass;</li> 
+  <li>Personalised Employment Pass;</li> 
+  <li>S Pass;</li> 
+  <li>Work Permit;</li> 
+  <li>Training Employment Pass;</li> 
+  <li>Training Work Permit; and</li> 
+  <li>Work Holiday Pass. </li>
+</ul>
+To apply for or renew a pass, please <a href="https://www.mom.gov.sg/passes-and-permits">visit MOM’s website</a> and click on the relevant pass for more details.
 
-There may be compulsory fields in the form that have not been filled in.
+If the error persists even though the traveller’s work pass is valid, please write us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
 
-#### 6. Can I obtain a copy of the COVID-19 PCR test payment receipt?
+<div id="entrydates"></div>
 
-The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-up window, if the pop-up blocker has been turned off per the instructions during the payment process. We regret to inform that we are unable to generate the same receipt a second time.
+## Entry Dates
 
-#### 7. Why can’t I choose certain dates for the ‘Period of Entry’?
+#### 1. I am unable to select my desired entry date during application. Why?
 
-As the COVID-19 situation is constantly evolving, the period/date of entry allowed to be selected will only be for a limited number of weeks ahead of the application date. Travellers are also not allowed to apply for entry dates which are too close to the application date, in order to allow time for application processing.
+Prospective travellers/applicants will only be able to select entry dates between 3 to 60 days from the date of application.
 
-<div id="RGLTech"></div>
+Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
 
-## Reciprocal Green Lane Portal
+<div id="upload"></div>
+
+## Document Uploads
 
 #### 1.	What file formats can be uploaded?
 
@@ -74,70 +113,46 @@ Please note that the <u>maximum</u> file size limit for uploaded document is <u>
 #### 4.	I encountered an error message when uploading my file. What should I do?
 
 If you encountered errors while uploading, please follow the following troubleshooting steps.
+<ul style="list-style-type:disc">
+  <li>Use Google Chrome or Microsoft Edge Web Browsers</li>
+  <li>Use <u>only</u> English Characters for all input fields, including file names for the file uploads</li>
+  <li>Remove any special characters and symbols</li>
+  <li>Shorten the file's name to 10-15 characters.</li>
+</ul>
 
-•	Use Google Chrome or Microsoft Edge Web Browsers
-•	Use <u>only</u> English Characters for all input fields, including file names for the file uploads
-•	Remove any special characters and symbols
-•	Shorten the file's name to 10-15 characters.
+<div id="receiptandapproval"></div>
 
-#### 5. I am still encountering errors with the RGL portal despite following the advice given in this guide. Who may I contact for assistance?
+## Receipts and Approval Letters
 
-Should you still encounter error messages with your application, please write to us [here](https://go.gov.sg/sto-enquiry), and provide the screenshots of the error(s) for follow up.
+#### 1. Can I obtain a copy of the COVID-19 PCR test payment receipt?
 
-<div id="PCATech"></div>
+The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-up window, if the pop-up blocker has been turned off per the instructions during the payment process. We regret to inform that we are unable to generate the same receipt a second time.
 
-## Period Commuting Arrangement (PCA) Portal
-
-#### 1. I see an “invalid FIN number” prompt during my application. What does it mean?
-
-This error has likely occurred because the traveller’s Singapore work pass <b>is invalid, has expired or will expire in less than 15 days from the date of entry into Singapore.</b>  
-
-Travellers with the following types of MOM-issued work passes are allowed to travel under the PCA: 
-
-(i) Employment Pass; 
-(ii) EntrePass; 
-(iii) Personalised Employment Pass; 
-(iv) S Pass; 
-(v) Work Permit; 
-(vi) Training Employment Pass; 
-(vii) Training Work Permit; and 
-(viii) Work Holiday Pass. 
-
-To apply for or renew a pass, please <a href="https://www.mom.gov.sg/passes-and-permits">visit MOM’s website</a> and click on the relevant pass for more details.
-
-If the error persists even though the traveller’s work pass is valid, please write us [here](https://go.gov.sg/sto-enquiry) and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
-
-#### 2. Can I change the PCA entry date?
-
-No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. Please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
-
-#### 3. There is a mistake in my application. Do I need to submit a new PCA application? If so, can I ask for a refund for the previous application?
-
-Yes, a fresh PCA application must be submitted. Employers must ensure that the information submitted during application is accurate. There will be no refunds for applications that have been approved.
-
-#### 4. I have completed payment for my PCA application. However, I did not receive an approval letter. What should I do?
+#### 2. I have completed payment for my application. However, I did not receive an approval letter. What should I do?
 
 The approval letter will be sent as an email from the SafeTravel Office (SafeTravelOffice@ica.gov.sg) to the email address provided by the applicant shortly after payment. This will be the email address that an email verification OTP is sent to during the application process. Depending on the recipient’s email settings, the approval letter could be found in the recipient’s spam or junk folder.
 
 If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
 <br>
 <ul>
-<li>PCA application Reference Number (PCA-<i>X</i>-<i>XXXXX</i>);</li>
-<li>Email of the Sponsoring Organisation’s contact person;</li>
-<li>Screenshot of your application status or payment invoice;</li>
-<li>FIN and FIN expiry number of your employee(s);</li>
+<li>Application Reference Number</li>
+<li>Contact details</li>
+<li>Screenshot of your application status or payment invoice</li>
+<li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
 </ul>
 <br>
 Requests to have the approval letter sent to a different email address, i.e. not stated in the application, will not be entertained.
 
-#### 5. I am still encountering errors with the PCA portal despite following the advice given in this guide. Who may I contact for assistance?
+<div id="amendment"></div>
 
-Should you still encounter error messages with your application, please contact us [here](https://go.gov.sg/sto-enquiry) and provide the screenshots of the error(s) for follow up.
+## Amendment of Approved Applications
 
-<div id="SCPRFamTiesLane"></div>
+#### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
 
-## Singaporean Citizen/PR Familial Ties Lane
+Yes, a fresh application must be submitted. Employers must ensure that the information submitted during application is accurate. There will be no refunds for applications that have been approved.
 
-#### 1.	I am still encountering errors when using the portal and I am unable to locate a solution in this FAQ. Who may I contact for assistance?
+#### 2. Can I change the traveller's entry date?
 
-Should you still encounter error messages with your application, please contact [here](https://go.gov.sg/sto-enquiry) and provide information of the error(s) encountered (e.g. screenshots).
+No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. If there are exceptional circumstances for a change in entry date, please write to us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the traveller's details including passport number, FIN number (where applicable) and approval reference number.
+
+For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
