@@ -17,7 +17,7 @@ Travellers issued with an SHN should refer to the SHN Health Advisory [here](/fi
 
 ### Guide to Determine the SHN End Date
 
-Reflected in the table below are three examples of how the SHN end date is typically calculated. You may alo [click here](/shn-calculator) to calculate the estimated end date of your SHN. Travellers should note that the SHN comes into effect <u>immediately</u> on the day of its issuance. 
+Reflected in the table below are three examples of how the SHN end date is typically calculated. You may also [click here](/shn-calculator) to calculate the estimated end date of your SHN. Travellers should note that the SHN comes into effect <u>immediately</u> on the day of its issuance. 
 
 
 <table>
