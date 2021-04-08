@@ -10,14 +10,14 @@ The Stay-Home Notice(SHN) is a legal notice issued under the Infectious Diseases
 
 The requirements for SHN and COVID-19 tests are specific to individual [Safe Travel Lanes](/arriving/overview). Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take. In general, travellers issued with a 7 or 14-day SHN will take a mandatory [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest)(“PCR test”) towards the end of their SHN. Travellers that had been in the United Kingdom or South Africa in the past 14 days prior to arriving in Singapore will need to serve a 14-day SHN at an SDF plus, and a further 7-day SHN at their place of residence; a COVID-19 PCR test will be conducted at the end of each SHN.
 
-Travellers issued with an SHN should refer to the SHN Health Advisory [here](/files/MOH-Health-Advisory-SHN.pdf),and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN should refer to the [Frequently Asked Questions (FAQ) section](/health/faq#shnsdf). Those in need of additional support can refer to this [page](https://www.gov.sg/article/call-these-helplines-if-you-need-emptional-or-psychological-support) for a list of local helplines and resources.
+Travellers issued with an SHN should refer to the SHN Health Advisory [here](/files/MOH-Health-Advisory-SHN.pdf),and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN should refer to the [Frequently Asked Questions (FAQ) section](/health/faq#shnsdf). Those in need of additional support can refer to this [page](https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support) for a list of local helplines and resources.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_iO3-H1FjgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Guide to Determine the SHN End Date
 
-Reflected in the table below are three examples of how the SHN end date is typically calculated. You may alo [click here](/shn-calculator) to calculate the estimated end date of your SHN. Travellers should note that the SHN comes into effect <u>immediately</u> on the day of its issuance. 
+Reflected in the table below are three examples of how the SHN end date is typically calculated. You may also [click here](/shn-calculator) to calculate the estimated end date of your SHN. Travellers should note that the SHN comes into effect <u>immediately</u> on the day of its issuance. 
 
 
 <table>
