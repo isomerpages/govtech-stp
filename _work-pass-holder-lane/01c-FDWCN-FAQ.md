@@ -73,7 +73,7 @@ If she does not have the indemnity form with her, the SHN facility operator can 
 
 ### 6. My FDW/CN was assigned a shared room at the dedicated SHN facility. How do I request for a refund of the excess amount paid for the dedicated facility?
 
-Please submit your request using <a href="http://wwww.mom.gov.sg/enquire-shn-payment">this form</a>.
+Please submit your request using <a href="http://www.mom.gov.sg/enquire-shn-payment">this form</a>.
 
 ### 7. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
 
