@@ -71,11 +71,15 @@ Once she has obtained entry approval to enter Singapore, she must present the fo
 
 If she does not have the indemnity form with her, the SHN facility operator can print the form in her native language and get her to sign on the spot. 
 
-### 6. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
+### 6. My FDW/CN was assigned a shared room at the dedicated SHN facility. How do I request for a refund of the excess amount paid for the dedicated facility?
+
+Please submit your request using <a href="http://wwww.mom.gov.sg/enquire-shn-payment">this form</a>.
+
+### 7. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
 
 Find out who is responsible for paying for the pass holders' COVID-19 treatment <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
-### 7. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
+### 8. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
 
 <table>
   <tr>
@@ -102,13 +106,13 @@ The party who submitted the FDW’s entry approval request must pay for the cost
   
 Employment agencies which submitted the entry approval request may recover these costs from employers. If so, employment agencies should obtain the employers’ agreement to pay for the costs before submitting the entry approval request.
 
-### 8. Must I still pay my FDW salary while she is serving her SHN?
+### 9. Must I still pay my FDW salary while she is serving her SHN?
 
 For new FDWs, you must start paying her salary once she is deployed to your house after her SHN.
 
 For existing FDWs returning from overseas, you must continue paying her salary once she returns to Singapore.
 
-### 9. What should I do if my FDW or CN falls sick during her SHN?
+### 10. What should I do if my FDW or CN falls sick during her SHN?
 
 <table>
   <tr>
@@ -136,11 +140,11 @@ For existing FDWs returning from overseas, you must continue paying her salary o
   </tr>
  </table>
 
-### 10. Can employers get a levy waiver for FDWs who go on home / overseas leave?
+### 11. Can employers get a levy waiver for FDWs who go on home / overseas leave?
 
 For FDWs on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 60 days) **when their FDWs return to Singapore.**
 
-### 11. My FDW or CN intends to travel out of Singapore. What do I need to consider?
+### 12. My FDW or CN intends to travel out of Singapore. What do I need to consider?
 
 You may wish to discourage your FDW/CN from travelling as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
 
@@ -148,7 +152,7 @@ For all FDWs and nannies, new and existing, entering Singapore from 1 January 20
 
 Find out who is responsible for the treatment costs <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
-### 12. My CN's visit pass is expiring, how do I extend her stay in Singapore?
+### 13. My CN's visit pass is expiring, how do I extend her stay in Singapore?
 
 You need to request for an extension of your confinement nanny’s stay if:
 - The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so.
@@ -160,13 +164,13 @@ Please <a href="https://www.mom.gov.sg/extend-nanny-visit-pass" target="_blank">
 
 We will email you the outcome within 2 weeks. A $40 extension fee will be charged for each extension made beyond 3 months from the date the visit pass was issued.
 
-### 13. I encountered technical issues when completing the application form. What should I do? 
+### 14. I encountered technical issues when completing the application form. What should I do? 
 
 Please refer to the common troubleshooting FAQ [here](/faq/tech). 
 
 If the troubleshooting FAQ does not address your queries, you can contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx).
 
-### 14. I did not receive the entry application outcome for my FDW/CN. What should I do? 
+### 15. I did not receive the entry application outcome for my FDW/CN. What should I do? 
 
 Please check your spam and junk folders in case the outcome was sent there. Contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders. 
 
