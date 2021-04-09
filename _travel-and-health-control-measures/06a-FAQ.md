@@ -65,7 +65,7 @@ Due to the fast-changing demands for SDFs, travellers will be assigned to an ava
 
 Travellers already in SDF may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. 
 
-For travellers who are not yet in Singapore or for requet that the SDF is unable to facilitate, e.g. caregiver support, SDF-opt0out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
+For travellers who are not yet in Singapore or for request that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
 
 
 #### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
