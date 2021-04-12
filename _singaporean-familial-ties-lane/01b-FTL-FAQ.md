@@ -10,7 +10,7 @@ You would need to resubmit a new application via the new portal at: <https://ese
 
 #### 2. My entry application was unsuccessful. How can I make an appeal?
 
-Each entry application is carefully considered and reviewed before a decision is made. If there are additional or updated information/documents since your last application, you may consider writing to us using our webform at <https://go.gov.sg/sto-enquiry
+Each entry application is carefully considered and reviewed before a decision is made. If there are additional or updated information/documents since your last application, you may consider writing to us using our webform at <https://go.gov.sg/sto-enquiry>
 
 Please note that the outcome of a re-appeal will remain the same if there are no changes to your circumstances.
 
