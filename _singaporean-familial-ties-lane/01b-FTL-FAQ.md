@@ -8,13 +8,13 @@ You are not allowed to amend the date of entry or seek a refund for the payment 
  
 You would need to resubmit a new application via the new portal at: <https://eservices.ica.gov.sg/STO/> or write in to us via our webform at <https://go.gov.sg/sto-enquiry> if you had obtained your entry approval due to exceptional reasons.
 
-#### 3. My entry application was unsuccessful. How can I make an appeal?
+#### 2. My entry application was unsuccessful. How can I make an appeal?
 
 Each entry application is carefully considered and reviewed before a decision is made. If there are additional or updated information/documents since your last application, you may consider writing to us using our webform at <https://go.gov.sg/sto-enquiry
 
 Please note that the outcome of a re-appeal will remain the same if there are no changes to your circumstances.
 
-#### 4. I have already submitted an entry application to ICA via https://eservices.ica.gov.sg/STO/, but there are changes to my circumstances, how do I amend the details of my application?
+#### 3. I have already submitted an entry application to ICA via https://eservices.ica.gov.sg/STO/, but there are changes to my circumstances, how do I amend the details of my application?
 
 If there are additional or updated information/documents since your last application, you may consider submitting a fresh application online through <https://eservices.ica.gov.sg/STO/>.
  
