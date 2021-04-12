@@ -18,11 +18,11 @@ permalink: /FAQ
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"> <a href="/atp/overview">Air Travel Pass</a>
 </td> 
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> FAQ for Travellers arriving from: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/australia/atp/faq">Australia</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/brunei/atp/faq">Brunei</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/china/atp/faq">Mainland China</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/newzealand/atp/faq">New Zealand</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/taiwan/atp/faq">Taiwan</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/australia/atp/faq">Australia</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/brunei/atp/faq">Brunei</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/china/atp/faq">Mainland China</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/newzealand/atp/faq">New Zealand</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/taiwan/atp/faq">Taiwan</a></li>
         </ol>
         </td>
     </tr>
@@ -35,39 +35,39 @@ permalink: /FAQ
       <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Visiting singapore</td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Brunei</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Germany</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/indonesia/rgl/faq">Indonesia</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Japan</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Mainland China</a></li>
-          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Malaysia</a></li>
-          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Republic of Korea</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Brunei</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Germany</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/indonesia/rgl/faq">Indonesia</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Japan</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Mainland China</a></li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Malaysia</a></li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Republic of Korea</a></li>
         </ol>
       </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for Visiting RGL Counterpart Countries </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-germany">Germany</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-indonesia">Indonesia</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-japan">Japan</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-china">Mainland China</a></li>
-          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">Malaysia</a></li>
-          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-rok">Republic of Korea</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-germany">Germany</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-indonesia">Indonesia</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-japan">Japan</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-china">Mainland China</a></li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-malaysia">Malaysia</a></li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-rok">Republic of Korea</a></li>
         </ol>
       </td>
     </tr>
 <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Returning to Singapore </td>
         <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-brunei">Brunei</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-germany">Germany</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-indonesia">Indonesia</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-japan">Japan</a></li>
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-china">Mainland China</a></li>
-          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-malaysia">Malaysia</a></li>
-          <li styl="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-rok">Republic of Korea</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-brunei">Brunei</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-germany">Germany</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-indonesia">Indonesia</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-japan">Japan</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-china">Mainland China</a></li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-malaysia">Malaysia</a></li>
+          <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-rok">Republic of Korea</a></li>
         </ol>
       </td>
     </tr>
@@ -98,10 +98,6 @@ permalink: /FAQ
     </tr>  
   </tbody>
   </table>
-
-
-
-
 
 -----------
 
