@@ -11,7 +11,7 @@ permalink: /connectsg/FAQ
 
 #### 1. What is the Connect@Singapore initiative?
 
-The Connect@Singapore initiative allows a limited number of business, official and high economic value travellers to enter Singapore to enter Singapore via air travel, for short-term stays of up to 14 days. Travellers from all countries are eligible to apply to the scheme, subject to prevailing national travel policies. For the entire duration of their stay, travellers will be housed in Appointed Facilities, undergo regular testing, and strictly observe all prevailing Safe Management Measures (SMMs). Travellers will be able to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities.
+The Connect@Singapore initiative allows a limited number of business, official and high economic value travellers to enter Singapore via air travel, for short-term stays of up to 14 days. Travellers from all countries are eligible to apply to the scheme, subject to prevailing national travel policies. For the entire duration of their stay, travellers will be housed in Appointed Facilities, undergo regular testing, and strictly observe all prevailing Safe Management Measures (SMMs). Travellers will be able to conduct meetings with local visitors and with other traveller groups (with SMMs in place) while in the facilities.
 
 #### 2. What is a SafeTravel Pass under the Connect@Singapore initiative? 
 
