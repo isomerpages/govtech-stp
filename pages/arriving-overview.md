@@ -162,3 +162,6 @@ Please click [here](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_c
 </ul>
 Please visit the Maritime and Port of Authority of Singapore website for information on the [application of crew changes under various circumstances](https://www.mpa.gov.sg/web/porta;/home/port-of-singapore/operations/crew-change), as well as the MPA’s latest circulars and notices [here](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community).
 
+## All Other Travellers
+
+For all other travellers not covered by the arrangements above, entry is not allowed except in exceptional and urgent circumstances. If you have further enquiries on entering Singapore, please [contact us](/contact-us).
