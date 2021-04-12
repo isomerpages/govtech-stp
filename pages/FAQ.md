@@ -88,11 +88,11 @@ permalink: /FAQ
     </tr>
 <tr style="border-bottom:1.2px solid #E8E8E8">
         <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/owph-faq">FAQ for All Other Work Pass Holders Employed by Companies,and their Dependants </a><br/><br/><i>Note: Excludes the following, please check with <a href="https://www.mom.gov.sg/covid-19">MOM</a> for the entry requirements:</i>
-          <ol style="margin-top:0px; margin-bottom:0px; font-size:14px; list-style-type:disc">
-        <li styl="margin-top:0px; margin-bottom:0px; font-size:14px;"><i>Work permit and S-Pass holders from the Construction, Marine and Process sectors without dependants</i></li>
-            <li styl="margin-top:0px; margin-bottom:0px; font-size:14px;"><i>Work Holiday Pass Holders</i></li>
-            <li styl="margin-top:0px; margin-bottom:0px; font-size:14px;"><i>Personalised Employment Pass holder and their dependants</i></li>
-            <li styl="margin-top:0px; margin-bottom:0px; font-size:14px;"><i>EntrePass holders and their dependants</i></li>
+          <ol style="margin-top:0px; margin-bottom:0px; list-style-type:disc">
+        <li styl="margin-top:0px; margin-bottom:0px; font-size:16px;"><i>Work permit and S-Pass holders from the Construction, Marine and Process sectors without dependants</i></li>
+            <li styl="margin-top:0px; margin-bottom:0px; font-size:16px;"><i>Work Holiday Pass Holders</i></li>
+            <li styl="margin-top:0px; margin-bottom:0px; font-size:16px;"><i>Personalised Employment Pass holder and their dependants</i></li>
+            <li styl="margin-top:0px; margin-bottom:0px; font-size:16px;"><i>EntrePass holders and their dependants</i></li>
         </ol>
       </td>
     </tr>  
