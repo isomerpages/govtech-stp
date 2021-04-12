@@ -8,44 +8,57 @@ permalink: /FAQ/tech
 
 <div id="top"></div>
 
-1. [General Application Issues](#GenAppIssues)
-2. [Traveller Details](#TravellerDetails)
-3. [Entry Dates](#entrydates)
-4. [Document Uploads](#upload)
-5. [Receipts and Approval Letters](#receiptandapproval)
-6. [Amendment of Approved Applications](#amendment)
+1. [Entry Dates](#entrydates)
+2. [Amendment of Approved Applications](#amendment)
+3. [Receipts and Approval Letters](#receiptandapproval)
+4. [Traveller Details](#TravellerDetails) 
+5. [Document Uploads](#upload)
+6. [Other General Application Issues](#GenAppIssues) 
 
-<div id="GenAppIssues"></div>
+<div id="entrydates"></div>
 
-## General Application Issues
+## Entry Dates
 
-#### 1. What are the browsers compatible with Safe Travel Portal?
+#### 1. I am unable to select my desired entry date during application. Why?
 
-For best user experience, please use Google Chrome (version 84 or later) or Microsoft Edge Web Browser. Please also ensure that your pop-up blocker has been turned off to facilitate the payment process.
+Prospective travellers/applicants will only be able to select entry dates between 3 to 60 days from the date of application.
 
-#### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
+Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
 
-From 11 April 2021, the login process for Corppass will be changed to first verify your identity via Singpass, before you can proceed to access and transact with government digital services.
+<div id="amendment"></div>
 
-Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
+## Amendment of Approved Applications
 
-For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at [www.singpass.gov.sg](www.singpass.gov.sg) or [go.gov.sg/corporate-login](go.gov.sg/corporate-login).
+#### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
 
-#### 3. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
+Yes, a fresh application must be submitted. Employers must ensure that the information submitted during application is accurate. There will be no refunds for applications that have been approved.
 
-Please ensure you have read through the terms and conditions/ declaration and ensure that the checkbox is ticked before clicking the “I AGREE”/ “SUBMIT” button.
+#### 2. Can I change the traveller's entry date?
 
-#### 4. Why am I unable to click ‘NEXT’ to proceed to the next step of application?
+No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. If there are exceptional circumstances for a change in entry date, please write to us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the traveller's details including passport number, FIN number (where applicable) and approval reference number.
 
-There may be compulsory fields in the form that have not been filled in.
+For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
 
-#### 5. Why was I logged out mid-way through my application?
+<div id="receiptandapproval"></div>
 
-Users will be logged out of their accounts after approximately 20 minutes of inactivity and will have to re-submit any previously entered application details. This will help prevent any unauthorised access to the application data.
+## Receipts and Approval Letters
 
-#### 6. I am still encountering errors when using the portal and I am unable to locate a solution in this FAQ. Who may I contact for assistance?
+#### 1. Can I obtain a copy of the COVID-19 PCR test payment receipt?
 
-Should you still encounter error messages with your application, please contact us using the enquiry form [here](https://go.gov.sg/sto-enquiry).
+The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-up window, if the pop-up blocker has been turned off per the instructions during the payment process. We regret to inform that we are unable to generate the same receipt a second time.
+
+#### 2. I have completed payment for my application. However, I did not receive an approval letter. What should I do?
+
+The approval letter will be sent as an email from the SafeTravel Office (SafeTravelOffice@ica.gov.sg) to the email address provided by the applicant shortly after payment. This will be the email address that an email verification OTP is sent to during the application process. Depending on the recipient’s email settings, the approval letter could be found in the recipient’s spam or junk folder.
+
+If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
+<ul>
+<li>Application Reference Number</li>
+<li>Contact details</li>
+<li>Screenshot of your application status or payment invoice</li>
+<li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
+</ul>
+Requests to have the approval letter sent to a different email address, i.e. not stated in the application, will not be entertained.
 
 <div id="TravellerDetails"></div>
 
@@ -60,7 +73,6 @@ To facilitate the smooth processing and clearance of your application, please no
 For applicant’s names with other characters which are not accepted above, please provide the name as reflected in the machine readable zone of the passport. An illustration can be found below to show how to locate the passport’s machine readable zone.
 
 <img src="/images/MRZ.png" style="width:auto; height:auto;">
-
 
 #### 2. I see an “invalid FIN number” prompt during my application. What does it mean?
 
@@ -80,16 +92,6 @@ Travellers with the following types of MOM-issued work passes are allowed to tra
 To apply for or renew a pass, please <a href="https://www.mom.gov.sg/passes-and-permits">visit MOM’s website</a> and click on the relevant pass for more details.
 
 If the error persists even though the traveller’s work pass is valid, please write us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the FIN number and FIN expiry date of the employee(s) to be sponsored for entry into Singapore under the PCA scheme.
-
-<div id="entrydates"></div>
-
-## Entry Dates
-
-#### 1. I am unable to select my desired entry date during application. Why?
-
-Prospective travellers/applicants will only be able to select entry dates between 3 to 60 days from the date of application.
-
-Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
 
 <div id="upload"></div>
 
@@ -120,37 +122,34 @@ If you encountered errors while uploading, please follow the following troublesh
   <li>Shorten the file's name to 10-15 characters.</li>
 </ul>
 
-<div id="receiptandapproval"></div>
+<div id="GenAppIssues"></div>
 
-## Receipts and Approval Letters
+## Other General Application Issues
 
-#### 1. Can I obtain a copy of the COVID-19 PCR test payment receipt?
+#### 1. What are the browsers compatible with Safe Travel Portal?
 
-The receipt for the COVID-19 PCR test payment would have been generated and displayed at the point of payment via a pop-up window, if the pop-up blocker has been turned off per the instructions during the payment process. We regret to inform that we are unable to generate the same receipt a second time.
+For best user experience, please use Google Chrome (version 84 or later) or Microsoft Edge Web Browser. Please also ensure that your pop-up blocker has been turned off to facilitate the payment process.
 
-#### 2. I have completed payment for my application. However, I did not receive an approval letter. What should I do?
+#### 2. Why am I unable to access the Safe Travel Portal despite having a Corppass?
 
-The approval letter will be sent as an email from the SafeTravel Office (SafeTravelOffice@ica.gov.sg) to the email address provided by the applicant shortly after payment. This will be the email address that an email verification OTP is sent to during the application process. Depending on the recipient’s email settings, the approval letter could be found in the recipient’s spam or junk folder.
+From 11 April 2021, the login process for Corppass will be changed to first verify your identity via Singpass, before you can proceed to access and transact with government digital services.
 
-If the problem persists, please contact us via the enquiry form [here](https://go.gov.sg/sto-enquiry) with the following information:
-<ul>
-<li>Application Reference Number</li>
-<li>Contact details</li>
-<li>Screenshot of your application status or payment invoice</li>
-<li>(If applicable) FIN and FIN expiry number of your employee(s)</li>
-</ul>
-Requests to have the approval letter sent to a different email address, i.e. not stated in the application, will not be entertained.
+Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
 
-<div id="amendment"></div>
+For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at [www.singpass.gov.sg](www.singpass.gov.sg) or [go.gov.sg/corporate-login](go.gov.sg/corporate-login).
 
-## Amendment of Approved Applications
+#### 3. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
 
-#### 1. There is a mistake in my application. Do I need to submit a new application? If so, can I ask for a refund for the previous application?
+Please ensure you have read through the terms and conditions/ declaration and ensure that the checkbox is ticked before clicking the “I AGREE”/ “SUBMIT” button.
 
-Yes, a fresh application must be submitted. Employers must ensure that the information submitted during application is accurate. There will be no refunds for applications that have been approved.
+#### 4. Why am I unable to click ‘NEXT’ to proceed to the next step of application?
 
-#### 2. Can I change the traveller's entry date?
+There may be compulsory fields in the form that have not been filled in.
 
-No. We regret to inform you that no changes to the date of entry are allowed once an application has been approved. If there are exceptional circumstances for a change in entry date, please write to us using our enquiry form [here](https://go.gov.sg/sto-enquiry) and provide the traveller's details including passport number, FIN number (where applicable) and approval reference number.
+#### 5. Why was I logged out mid-way through my application?
 
-For PCA applications, please note that should your employee be unable to enter on the approved date, you will not be able to apply for another PCA for the same employee for a date of entry within 90 days from his/her last approved date of entry.
+Users will be logged out of their accounts after approximately 20 minutes of inactivity and will have to re-submit any previously entered application details. This will help prevent any unauthorised access to the application data.
+
+#### 6. I am still encountering errors when using the portal and I am unable to locate a solution in this FAQ. Who may I contact for assistance?
+
+Should you still encounter error messages with your application, please contact us using the enquiry form [here](https://go.gov.sg/sto-enquiry).
