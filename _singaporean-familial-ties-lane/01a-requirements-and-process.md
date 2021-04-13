@@ -48,6 +48,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   </tr>
 </table>
 
+
 ### 2. Submit Approvals for Entry into Singapore
 
 <table>
