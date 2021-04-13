@@ -105,7 +105,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
     </tr>
   </tbody>
   </table>
-  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests. Travellers who have already paid the default SDF cost only need to pay the difference.<br/><sup>#</sup>Typical size of a standard SDF room in these SDFs is between 30 – 45 sqm. <br/> <sup>*</sup>Subject to maximum occupancy of suites, which may vary across SDFs.</p>
+  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests. Prices may be revised periodically. In the event of a change in price, travellers will continue to pay the prevailing price at the point of booking.<br/><sup>#</sup>The typical size of a standard SDF room is 25sqm. <br/> <sup>*</sup>Subject to maximum occupancy of suites, which may vary across SDFs.</p>
   
 --------------------
 
