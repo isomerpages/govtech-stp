@@ -44,7 +44,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a> (all countries/regions except UK and South Africa)</td>
   </tr>
   <tr>
-    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/overview">Reciprocal Green Lane (selected countries/regions)</a></td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/overview">Reciprocal Green Lane</a>(selected countries/regions)</td>
   </tr>
 </table>
 
