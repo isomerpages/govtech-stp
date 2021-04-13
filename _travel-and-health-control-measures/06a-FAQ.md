@@ -489,7 +489,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   <tbody>
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Singapore Citizens (SC) and <a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Permanent Residents (PR) and SC/PR Familial Ties Lane users</a>  </td>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:ICA_nCOV_Request@ica.gov.sg">ICA_nCOV_Request@ica.gov.sg</a></td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/sto-enquiry">go.gov.sg/sto-enquiry</a></td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Work Pass Holders travelling to Singapore via the <a href="/pca/overview">Periodic Commuting Arrangement</a></td>
