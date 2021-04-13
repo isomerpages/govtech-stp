@@ -23,33 +23,29 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 <p style="font-size:18px;">The following types of travellers <u>without direct family ties to an SC/PR</u> should not apply or appeal under this lane and use the appropriate lanes listed below instead.</p>
 
 <table>
-<thead>
   <tr>
-    <th style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Traveller Type</th>
-    <th style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th>
- </thead>
-  </tr>
-<tbody>
-  <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Work Pass holders and their family members/spouses-to-be</td>
-     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Work Pass Holder General Lane</td>
+    <th>Traveller Type</th>
+    <th>Safe Travel Lane</th> 
   </tr>
   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Student’s Pass Holder Lane</td>
-    </tr>
-<tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Short term social or business visitors from Air Travel Pass countries/regions</td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Air Travel Pass (selected countries/regions)</td>
+    <td>Work Pass holders and their family members/spouses-to-be</td>
+    <td>Work Pass Holder General Lane</td>
   </tr>
   <tr>
-    <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Short term business visitors</td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Connect@SG (all countries/regions except UK and South Africa)</td>
- </tr>
- <tr>
-   <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Reciprocal Green Lane (selected countries/regions)</td>
-</tr>
-              </tbody>
+    <td>Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
+    <td>Student’s Pass Holder Lane</td>
+  </tr>
+    <tr>
+    <td>Short term social or business visitors from Air Travel Pass countries/regions</td>
+    <td>Air Travel Pass (selected countries/regions)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Short term business visitors</td>
+    <td>Connect@SG  (all countries/regions except UK and South Africa)</td>
+  </tr>
+  <tr>
+    <td>Reciprocal Green Lane (selected countries/regions)</td>
+  </tr>
 </table>
 
 ### 2. Submit Approvals for Entry into Singapore
