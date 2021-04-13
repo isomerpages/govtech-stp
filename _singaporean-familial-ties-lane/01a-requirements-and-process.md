@@ -76,7 +76,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; ">Applicant details:
       <ol style="margin-top:0px; list-style-type:disc;">
        <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including a local mobile number and email address; and</li>
-            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Debit/Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
       </ol>    
      </li>
     </ol>
