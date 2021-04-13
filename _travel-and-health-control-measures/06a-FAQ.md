@@ -257,7 +257,7 @@ Travellers may still digitally authenticate and endorse their test certificate o
 
 #### 6. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
 
-Please check the email spam folder. If the email is still not there, please contact <notarise_support@tech.gov.sg>. 
+Please check the email spam folder. If the email is still not there, please contact <support@notarise.gov.sg>. 
 
 #### 7. Can a third party transact on behalf of a traveller who requires the assistance to digitally authenticate and endorse their PDT certificate?
 
