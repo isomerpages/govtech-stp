@@ -47,7 +47,9 @@ For other work passes, employers and employees should come to a mutual agreement
 
 ### 3. My pass holders have obtained an entry approval to enter Singapore. However, I wish to change their arrival date or no longer want to bring them in. Can I ask for a refund of the charges paid?
 
-For us to consider a refund, please submit a request to cancel the entry approval <b>at least 7 days before the pass holder's approved entry period</b> to Ministry of Manpower (MOM) using the relevant link below. For:
+For us to consider a refund, please submit a request to cancel the entry approval <b>at least 7 days before the pass holder's approved arrival date</b> to Ministry of Manpower (MOM) using the relevant link below.
+
+<b>Note:</b> The <b>approved arrival date</b> is the middle date stated on the entry approval letter or email. E.g. if the pass holder is allowed to enter Singapore from 1 May to 3 May, the approved arrival date is 2 May.
 <ul>
   <li><a href="http://www.mom.gov.sg/cancel-entry-approval">Foreign employees employed by companies and their dependants</a></li>
   <li><a href="http://www.mom.gov.sg/cancel-entry-individual">Work Holiday Pass holders</a></li>
