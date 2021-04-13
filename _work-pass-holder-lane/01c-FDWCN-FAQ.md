@@ -16,7 +16,7 @@ If no party is willing and able to fulfil the entry approval requirements, the F
 
 For us to consider a refund, please submit a request to cancel her entry approval <b>at least 5 days before the approved arrival date</b> to Ministry of Manpower (MOM) using the relevant link below:
 
-<b>Note</b>: The <b>approved arrival date</b> is the middle date stated on the entry approval letter. E.g. if the FDW/CN is allowed to enter Singapore from 1 May to 3 May, the approved arrival date is 2 May.
+<b>Note:</b> The <b>approved arrival date</b> is the middle date stated on the entry approval letter. E.g. if the FDW/CN is allowed to enter Singapore from 1 May to 3 May, the approved arrival date is 2 May.
 
 <ul>
    <li><a href="https://www.mom.gov.sg/cancel-fdw-entry">Employers</a></li>
