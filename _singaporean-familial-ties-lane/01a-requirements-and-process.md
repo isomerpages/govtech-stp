@@ -25,26 +25,26 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 <table>
   <tr>
     <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Traveller Type</th>
-    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th> 
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th> 
   </tr>
   <tr>
-    <td>Work Pass holders and their family members/spouses-to-be</td>
-    <td>Work Pass Holder General Lane</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Pass holders and their family members/spouses-to-be</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Pass Holder General Lane</td>
   </tr>
   <tr>
-    <td>Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
-    <td>Student’s Pass Holder Lane</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Student’s Pass Holder Lane</td>
   </tr>
     <tr>
-    <td>Short term social or business visitors from Air Travel Pass countries/regions</td>
-    <td>Air Travel Pass (selected countries/regions)</td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Short term social or business visitors from Air Travel Pass countries/regions</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Air Travel Pass (selected countries/regions)</td>
   </tr>
   <tr>
-    <td rowspan="2">Short term business visitors</td>
-    <td>Connect@SG  (all countries/regions except UK and South Africa)</td>
+    <td rowspan="2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Short term business visitors</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Connect@SG  (all countries/regions except UK and South Africa)</td>
   </tr>
   <tr>
-    <td>Reciprocal Green Lane (selected countries/regions)</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Reciprocal Green Lane (selected countries/regions)</td>
   </tr>
 </table>
 
