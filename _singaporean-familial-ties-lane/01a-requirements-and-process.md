@@ -24,8 +24,8 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 
 <table>
   <tr>
-    <th>Traveller Type</th>
-    <th>Safe Travel Lane</th> 
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Traveller Type</th>
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th> 
   </tr>
   <tr>
     <td>Work Pass holders and their family members/spouses-to-be</td>
