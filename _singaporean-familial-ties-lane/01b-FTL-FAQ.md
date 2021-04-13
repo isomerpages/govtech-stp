@@ -2,23 +2,41 @@
 title: Frequently Asked Questions
 permalink: /scpr-familial-ties-lane/FAQ
 ---
-#### 1. What if I am unable to book a flight within the validity of my approval ?
 
-You are not allowed to amend the date of entry or seek a refund for the payment of the COVID-19 PCR test and SHN dedicated facility (if applicable) once the application has been approved.
+<div id="top"></div>
+
+ 1. [Application via the SafeTravel Portal](#portal)
+ 2. [ICA Approval Letter of Entry (ALE) - Entry Request](#ale)
+ 3. [Approved SafeTravel Pass](#stp)
+ 4. [Entering Singapore](#entry)
+ 5. [Health Measures](#healthmeasures)
  
-You would need to resubmit a new application via the new portal at: <https://eservices.ica.gov.sg/STO/> or write in to us via our webform at <https://go.gov.sg/sto-enquiry> if you had obtained your entry approval due to exceptional reasons.
+<div id="stp"></div>
 
-#### 2. My entry application was unsuccessful. How can I make an appeal?
+### SafeTravel Pass (STP) - Application via the SafeTravel Portal 
 
-Each entry application is carefully considered and reviewed before a decision is made. If there are additional or updated information/documents since your last application, you may consider writing to us using our webform at <https://go.gov.sg/sto-enquiry>
+#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://eservices.ica.gov.sg/STO/>), when will i receive the outcome of my application? 
+
+Eligible applicant will receive the SafeTravel Pass (STP) via email after making the necessary payment (if applicable) for the stay at the SHN Dedicated Facility (SDF) and COVID-19 swab test at the end of the application  via the SafeTravel Portal. 
+
+If you did not receive the email with the STP after making the payment at the end of the application, plese write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry), with the receipt of the payment made and the details of the applicant. 
+
+### ICA Approval Letter of Entry (ALE) - Entry Request
+
+#### 2. I am not eligibe to apply for entry under the Familial Ties Lane and would like to submit an appeal to ICA for entry in Singapore as a short-term visitor, what should i do?
+
+Fr non-residents with exceptional reasons (e.g. death of a family member in Singapore) to seek entry into Singapore may write to us via the [enquiry form](https://go.gov.sg/sto-enquiry) with the relevant supporting documents to facilitate smooth processing (e.g. Doctor's memo, death certificate, traveller's passport biodata page). ICA wil respond to he request at the eariest time possible an epeddite the approval if the appciant is eligible for enry, based on our assesment.
+
+#### 3. My entry request was rejected. How can i make an appeal? 
+
+Each entry request is carefully considered and reviewed before a decision is made. If there are additional or updated information/documents since your last request, you may consider writing to us using our enquiry form [here](http://go.gov.sg/sto-enquiry).
 
 Please note that the outcome of a re-appeal will remain the same if there are no changes to your circumstances.
 
-#### 3. I have already submitted an entry application to ICA via https://eservices.ica.gov.sg/STO/, but there are changes to my circumstances, how do I amend the details of my application?
 
-If there are additional or updated information/documents since your last application, you may consider submitting a fresh application online through <https://eservices.ica.gov.sg/STO/>.
- 
-### Health Control Measures FAQ
+### Approved SafeTravel Pass (STP)
+
+
 
 You may click on the following links for more information on [Travel Health Control Measures](/health) such as [Stay Home Notice (SHN)](/health/shn) and [COVID-19 Tests](/health/covid19-tests).
 
