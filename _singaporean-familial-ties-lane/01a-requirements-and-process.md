@@ -23,10 +23,13 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 <p style="font-size:18px;">The following types of travellers <u>without direct family ties to an SC/PR</u> should not apply or appeal under this lane and use the appropriate lanes listed below instead.</p>
 
 <table>
+<thead>
   <tr>
     <th style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Traveller Type</th>
     <th style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th>
+ </thead>
   </tr>
+<tbody>
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Work Pass holders and their family members/spouses-to-be</td>
      <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Work Pass Holder General Lane</td>
@@ -46,6 +49,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
  <tr>
    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Reciprocal Green Lane (selected countries/regions)</td>
 </tr>
+              </tbody>
 </table>
 
 ### 2. Submit Approvals for Entry into Singapore
