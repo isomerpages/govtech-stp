@@ -42,6 +42,8 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   <tr>
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Short term business visitors</td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Connect@SG (all countries/regions except UK and South Africa)</td>
+ </tr>
+ <tr>
    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Reciprocal Green Lane (selected countries/regions)</td>
 </tr>
 </table>
