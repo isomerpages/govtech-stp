@@ -191,6 +191,8 @@ Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.
 
 To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 21 days or fewer from date of travel. Travellers should only schedule their trip to Singapore 21 days after the first diagnosis and after they have fully recovered from COVID-19. 
 
+<div id="pcrtestQ5"></div>
+
 #### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before entry into Singapore?
 
 If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
