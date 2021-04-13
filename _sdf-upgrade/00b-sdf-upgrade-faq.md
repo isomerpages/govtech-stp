@@ -56,6 +56,10 @@ To make changes to your suite bookings, please first contact the SDF to ensure t
 
 Please do not make multiple suite bookings. SDFs will be asked to cancel all bookings if a traveller is found to have made multiple bookings.
 
+#### 9. I had booked a ‘Regular’ suite, but this option is no longer indicated under [Suite Options](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options). Will there be any change to my suite booking?
+
+‘Regular’ suites were renamed as ‘Standard’ suites on 14 Apr 2021. The size of suites within this category is unchanged (80-100sqm).
+
 <div id="payment"></div>
 
 ### Payment and Cost Issues
@@ -66,7 +70,7 @@ Travellers will be charged a pro-rated cost for the suite, based on the number o
 
 In addition, travellers will also be charged additional costs of up to $450 ($300 for specialised cleaning costs for the vacated room; $150/vehicle for transport to the next SDF) for their transfers.
 
-For example, total costs for a traveller who transfers to a suite on Day 2: [2/14 * $2k at existing SDF] + [12/14 * $6k at the regular suite] + $450 = $5.9k (rounded up). Travellers who have already paid the default SDF cost only need to pay the difference.
+For example, total costs for a traveller who transfers to a suite on Day 2: [2/14 * $2k at existing SDF] + [12/14 * $7.5k at the standard suite] + $450 = $7.2k (rounded up). Travellers who have already paid the default SDF cost only need to pay the difference.
 
 #### 2. How do I pay for my suite?
 
@@ -78,4 +82,11 @@ Travellers who are transferring to another suite mid-way through their SHN stay 
 
 Travellers who have made pre-payment when obtaining approval to enter Singapore will be required to pay the difference from the higher cost of the SDF suite. This additional amount will be paid to the SDF at check-in.
 
-For example: If traveller has already paid $2k to an agency when obtaining approval to enter Singapore, and later decides to book a regular suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $4k to Fairmont Singapore at check-in.
+For example: If traveller has already paid $2k to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $5.5k to Fairmont Singapore at check-in.
+
+#### 4. When I made my suite booking, prices were different from what is [currently](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) published. Which price will I pay?
+
+The [current](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) prices for ‘Standard’ (previously ‘Regular’), ‘Large’, and ‘Extra Large’ suites took effect on 14 Apr 2021. Travellers who made suite bookings with SDFs before 14 Apr 2021, will continue to pay the previous price listed for the suite at the point of booking. However, should travellers decide to make changes to their booking (i.e. change of dates, SDF, or suite type), they will be subject to the new prices instead. This does not apply to additional costs imposed, which are separate from the suite charges (e.g. charges for COVID-19 tests).
+
+
+
