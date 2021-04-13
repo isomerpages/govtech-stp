@@ -29,7 +29,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Pass holders and their family members/spouses-to-be</td>
-    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/wphl/overview">Work Pass Holder General Lane></a></td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/wphl/overview">Work Pass Holder General Lane</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
