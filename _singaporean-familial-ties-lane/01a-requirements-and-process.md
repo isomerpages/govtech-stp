@@ -31,12 +31,16 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Work Pass holders and their family members/spouses-to-be</td>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Short term social or business visitors from Air Travel Pass countries/regions</td>
+               </tr>
+               <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Short term business visitors</td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Work Pass Holder General Lane</td>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Student’s Pass Holder Lane</td>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Air Travel Pass (selected countries/regions)</td>
+   </tr>
+ <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Connect@SG (all countries/regions except UK and South Africa)</td>
    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;>Reciprocal Green Lane (selected countries/regions)</td>
   </tr>
