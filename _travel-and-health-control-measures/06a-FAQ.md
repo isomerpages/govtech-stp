@@ -191,6 +191,8 @@ Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.
 
 To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 21 days or fewer from date of travel. Travellers should only schedule their trip to Singapore 21 days after the first diagnosis and after they have fully recovered from COVID-19. 
 
+<div id="pcrtestQ5"></div>
+
 #### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before entry into Singapore?
 
 If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
@@ -257,7 +259,7 @@ Travellers may still digitally authenticate and endorse their test certificate o
 
 #### 6. What if the digitally authenticated and endorsed certificate was not sent to the traveller?
 
-Please check the email spam folder. If the email is still not there, please contact <notarise_support@tech.gov.sg>. 
+Please check the email spam folder. If the email is still not there, please contact <support@notarise.gov.sg>. 
 
 #### 7. Can a third party transact on behalf of a traveller who requires the assistance to digitally authenticate and endorse their PDT certificate?
 
@@ -489,7 +491,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   <tbody>
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Singapore Citizens (SC) and <a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Permanent Residents (PR) and SC/PR Familial Ties Lane users</a>  </td>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="mailto:ICA_nCOV_Request@ica.gov.sg">ICA_nCOV_Request@ica.gov.sg</a></td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/sto-enquiry">go.gov.sg/sto-enquiry</a></td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">Work Pass Holders travelling to Singapore via the <a href="/pca/overview">Periodic Commuting Arrangement</a></td>

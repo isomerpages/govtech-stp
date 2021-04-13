@@ -5,26 +5,57 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">The traveller must be:</span>
+<span class="font-size:16px;">The traveller must be any of the following:</span>
  <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR); <sup>1</sup>
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An immediate family member or relative of a Singapore Citizen (SC) or a Singapore Permanent Resident (PR);
        </li>
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A fiancé/fiancée of an SC or PR; 
        </li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) or ICA-Long Term Visit Pass IPA holders seeking to complete formalities for long-term immigration facilities; or 
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) or ICA-Long Term Visit Pass IPA holders seeking to complete formalities for long-term immigration facilities; 
        </li>
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Singapore residents who have exceptional reasons for seeking short-term entry into Singapore (e.g. death of a family member in Singapore).
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC or PR with IPA Dependent Pass issued by the Ministry of Social and Family Development (MSF); 
+       </li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Non-Singapore residents who have exceptional reasons for seeking short-term entry into Singapore (e.g. death of a family member in Singapore); or
+       </li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass holder, existing Student's Pass (STP) holder, former STP holder entering to fulfil their scholarship obligations, and STP-IPA holders <u>who are immediate family members or relatives of a Singapore Citizen or a Singapore PR</u>.
        </li>
       </ol>
-<p style="line-height:1.0;"><span style="font-size:14px;"> <i><sup>1</sup> Work Pass holders, Student’s Pass (STP) holders, and STP-IPA holders who are immediate family members or relatives of a Singapore Citizen or a Singapore PR may also apply for entry approvals via the SC/PR Familial Ties Lane ("FTL"). All other Work Pass holders should apply for entry under the  <a href="/wphl/overview">Work Pass Holder General Lane</a>. All other STP holders and STP-IPA holders should apply for entry under the <a href="/stpl/requirements-and-process/">Student’s Pass Holder Lane.</a></i></span></p>
-            
+<p style="font-size:18px;">The following types of travellers <u>without direct family ties to an SC/PR</u> should not apply or appeal under this lane and use the appropriate lanes listed below instead.</p>
+
+<table>
+  <tr>
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Traveller Type</th>
+    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th> 
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Work Pass holders and their family members/spouses-to-be</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/wphl/overview">Work Pass Holder General Lane</a></td>
+  </tr>
+  <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Student’s Pass holders and STP-IPA holders and their accompanying family members/spouses-to-be</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/stpl/requirements-and-process/">Student’s Pass Holder Lane</a></td>
+  </tr>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Short term social or business visitors from Air Travel Pass countries/regions</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/atp/overview">Air Travel Pass</a> (selected countries/regions)</td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Short term business visitors</td>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a> (all countries/regions except UK and South Africa)</td>
+  </tr>
+  <tr>
+    <td style="border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/rgl/overview">Reciprocal Green Lane</a> (selected countries/regions)</td>
+  </tr>
+</table>
+
+
 ### 2. Submit Approvals for Entry into Singapore
 
 <table>
   <tbody>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">At least 4 calendar days before planned date of entry into Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">At least 4 calendar days before planned date of entry into Singapore</th>
   </tr>
 </thead>
   <tr>
@@ -45,7 +76,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; ">Applicant details:
       <ol style="margin-top:0px; list-style-type:disc;">
        <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including a local mobile number and email address; and</li>
-            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Debit/Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
       </ol>    
      </li>
     </ol>

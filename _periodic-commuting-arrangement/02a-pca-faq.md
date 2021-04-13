@@ -355,6 +355,6 @@ Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are [un
 
 COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/pcrtest) results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
 
-Employers that do not receive a notification of the test result, 2 days from when the test was taken, should write to [COVID_SafeTravelEnquiries@mti.gov.sg](mailto:COVID_SafeTravelEnquiries@mti.gov.sg) and provide the employee’s name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer’s contact details.
+Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call us at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry> and provide the employee's name and FIN (for work pas holders) or NRIC number (for Singapore PRs), as well as the empoyer's contact details. 
 
 ##### Click here to go to the [top](#top).
