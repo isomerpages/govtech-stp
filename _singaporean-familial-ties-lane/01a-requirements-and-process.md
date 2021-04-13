@@ -20,7 +20,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass holder, existing Student's Pass (STP) holder, former STP holder entering to fulfil their scholarship obligations, and STP-IPA holders <u>who are immediate family members or relatives of a Singapore Citizen or a Singapore PR</u>.
        </li>
       </ol>
-<p><span style="font-size:18px;">The following types of travellers <u>without direct family ties to an SC/PR</u> should not apply or appeal under this lane and use the appropriate lanes listed below instead.</span></p>
+<p style="font-size:18px;">The following types of travellers <u>without direct family ties to an SC/PR</u> should not apply or appeal under this lane and use the appropriate lanes listed below instead.</p>
 
 <table>
   <tr>
