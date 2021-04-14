@@ -8,7 +8,7 @@ third_nav_title: COVID-19 Tests
 
 ### Pre-Departure Test
 
-Travellers required by the destination country/region to take a COVID-19 test in Singapore before departure can do so at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
+Travellers are advised to check with the destination country/region on whether inbound travellers are required to take a COVID-19 test before departure. Travellers who are required to take a COVID-19 test in Singapore before their departure can do so at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
 #### Making an appointment
 
