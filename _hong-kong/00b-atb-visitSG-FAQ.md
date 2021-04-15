@@ -322,7 +322,20 @@ Visitors who are (i) children aged 12 or younger in that calendar year and trave
 After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore. 
 
 Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore.</b> Follow the instructions until you reach the Home Screen.
-<!------copy code for images here-------->
+
+  <thead>
+    <tr>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TT_2.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TT_4.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+  </table>
  	 
 For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
 
@@ -337,7 +350,7 @@ You can activate your app only <u>after</u> clearing Singapore immigration. Ther
 If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. Follow the instructions to be navigated back to the Holding Screen.
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
- <!------insert code for image here-------->
+<img src="/images/TT_6.png" style="width:179px; height:318px;">
 
 If you still face issues, please email <support@tracetogether.gov.sg> with your query and details of the issue you are facing.
  
