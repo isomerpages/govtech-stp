@@ -1,6 +1,6 @@
-----
-title: Terms and Conditions
-permalink:
+---
+title: Terms and Conditions           
+permalink: /hongkong/atb/terms-and-conditions
 ---
 
 <ol style="font-size:20px;"; list-style-type: decimal;">
