@@ -5,16 +5,16 @@ permalink:
 
 <div id="top"></div>
 
-1. Air Travel Pass
-2. Visa Application
-3. ATP Conditions of Travel
-4. Designated Air Travel Bubble (ATB) Flights
-5. Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test
-6. Mandatory COVID-19 Travel Insurance Coverage
-7. On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test
-8. Contact Tracing – TraceTogether App
-9. Departing from Singapore
-10. Others
+1. [Air Travel Pass](#atp)
+2. [Visa Application](#visa)
+3. [ATP Conditions of Travel](#conditions)
+4. [Designated Air Travel Bubble (ATB) Flights](#ATBFlight)
+5. [Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test](#PCRTest)
+6. [Mandatory COVID-19 Travel Insurance Coverage](#insurance)
+7. [On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test](#OAT)
+8. [Contact Tracing – TraceTogether App](#TraceTogether)
+9. [Departing from Singapore](#Depart)
+10. [Others](#others)
 
 <div id="atp"></div>
 
@@ -113,6 +113,7 @@ For those travelling from Hong Kong to Singapore on a non-designated flight, the
 <b>There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.</b>
 
 #### 12. Can travel agents apply for an Air Travel Pass on behalf of their clients?
+
 No. Visitors will need to submit the application themselves as they are required to agree to the conditions of the ATP, read and agree to the Privacy Statement, as well as verify all submitted information.
 
 #### 13. Why was my ATP application rejected?
