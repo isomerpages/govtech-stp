@@ -256,6 +256,8 @@ Visitors are responsible for their medical bills should they require medical tre
     <td style="font-size:16px;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
     </td>
   </tr>
+            </tbody>
+            </table>
   
   ### 6. Departure from Singapore
   
