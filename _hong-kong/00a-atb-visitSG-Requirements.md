@@ -65,30 +65,32 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <tr>
     <td style="font-size:18px;"><b>Designated ATB flight</b> </td>
     <td style="font-size:18px;">
-     <ul style="margin-top:0px; list-style-type: disc;">
+     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/><br/>
            <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does <b>not</b> guarantee an ATP.</i>          
        </li>
-     </ul>
+     </ol>
     </td>
  </tr>
      <tr>
     <td style="font-size:18px;"><b>Travel history</b> </td>
-    <td style="font-size:18px;"><ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px;">
+                <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
-<ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;"><li>Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
+<ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">
+            <li>Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
+            </ol> 
+</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
-            <ul style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">
+            <ol style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">
                         <li>Providing care for a COVID-19 patient, including in healthcare or family/social setting;</li> 
             <li>Staying in the same place as a person with COVID-19 (e.g. household members); or </li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
 </ol> 
 </li>
-</ol> 
-</li>
-     </ul>
+     </ol>
     </td>     
  </tr>
   <tr>
@@ -183,6 +185,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
   </tbody>
 </table>
+  
   
 ### 4. Arrival in Singapore
 
