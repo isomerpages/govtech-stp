@@ -220,7 +220,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <tr>
     <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
     <td style="font-size:16px;">Visitors who are holding an ATP will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
-    <br>
+    <br/><br/>
 Visitors are <b>not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport.</b> The only exceptions are for:
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">purchase of Singapore dollars or SIM cards, or mobile phone rental, <u>which should be done in the airport transit area</u>, before arrival immigration; and</li>
