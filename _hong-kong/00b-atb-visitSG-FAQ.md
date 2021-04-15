@@ -461,6 +461,7 @@ When checking in at the departure airport, visitors must present the following t
 <li>Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
 <li>Name of the testing institution where the test was taken, which must be from the list of recognised testing institutions in Hong Kong</li>
 </ol>
+ </li>
 <li>an electronic or physical copy of their travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
 <li>a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.</li>
 </ol>
