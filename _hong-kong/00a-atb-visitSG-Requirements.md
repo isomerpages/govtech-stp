@@ -80,7 +80,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">
             <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Are diagnosed or suspected to have COVID-19 in the last 21 days before departing for Singapore; or</li>
             </ol> 
 </li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
@@ -114,7 +114,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
              <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.<br/>
-<i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- or overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></li>         
+<i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore or overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></li>         
      </ol>
     </td>
  </tr>
@@ -218,7 +218,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
 </li>
     </ol><br/>
-      <b>Visitors who does not have any of the above may be refused entry into Singapore by ICA.</b>
+      <b>Visitors who do not have any of the above may be refused entry into Singapore by ICA.</b>
                 <br/>
                   <br/>
 *Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore, and follow the instructions to activate the app.
