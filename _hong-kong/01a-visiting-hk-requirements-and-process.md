@@ -126,20 +126,20 @@ Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take eit
 
 They must ensure that they meet the requirements of the type of flight that they are taking.
 
-<b><u>(A) Designated ATB Flights</b></u>
+<b><u>(A) Designated ATB Flights</u></b>
 
 For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN).
 
 In order to be eligible to take a designated ATB flight, they are required to:
 
 <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.0;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and </li> 
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.0;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.0;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and </li> 
+          <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
             <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;line-height:1.0;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li> 
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A negative COVID-19 PCR test result;</li>  
-               <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Date and time when the COVID-19 PCR test was taken; and</li>  
-               <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.0;">	Name of the testing institution where the test was taken.</li>  
+         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.0;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li> 
+          <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A negative COVID-19 PCR test result;</li>  
+               <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Date and time when the COVID-19 PCR test was taken; and</li>  
+               <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Name of the testing institution where the test was taken.</li>  
             </ol>
   </li>  
       </ol>
@@ -155,7 +155,7 @@ Children aged 6 or younger in that calendar year are not required to:
 - undergo a COVID-19 PCR test at the airport upon arrival in Singapore.
 
 
-<b><u>(B) Non-Designated ATB Flights</b></u>
+<b><u>(B) Non-Designated ATB Flights</u></b>
 
 For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to the Singapore Immigration & Checkpoints Authority’s (ICA) website [here](https://safetravel.ica.gov.sg/health/).
 
