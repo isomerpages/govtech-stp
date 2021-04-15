@@ -202,7 +202,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
             </tr>            
    <tr>
     <td style="font-size:18px;"><b>Immigration clearance</b></td>
-    <td style="font-size:18px;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
+    <td style="font-size:18px;">During immigration clearance in Singapore, the visitor must present to the ICA officer:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
@@ -288,11 +288,11 @@ Please refer <a href="">here</a> for information about travel from Singapore to 
 <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM) system installed by employers that prevents downloads from the App Store, Google Play store or Huawei App Gallery</li>
             </ol>
 <span style="font-size:18px;">
-Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing from Singapore. 
+Visitors who are unable to download the TraceTogether app on their existing mobile device can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing from Singapore. 
               <br/><br/>
-Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing from Singapore.
+Visitors who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing from Singapore.
  <br/> <br/>
-Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and nd with their profiles registered on the app. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
+Visitors who have rented a mobile device or booked a Singapore SIM card from Changi Recommends must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
  <br/> <br/>
 Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to do so may be denied entry into Singapore by ICA.</b>
  
