@@ -79,7 +79,7 @@ Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take eit
 
 They must meet the requirements for the type of flight that they are taking below.
 
-<b><u>(A) Designated ATB Flights</b></u>
+<b><u>(A) Designated ATB Flights</u></b>
 
 For those travelling from Hong Kong to Singapore on a flight designated by the Singapore Government and Hong Kong Government under the ATB, they will be allowed to go about their activities upon entry into Singapore, without a need to serve a Stay-Home Notice (SHN). Please refer to the relevant airlines’ websites for details of the designated flights.
 
