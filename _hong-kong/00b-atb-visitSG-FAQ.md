@@ -323,6 +323,7 @@ After downloading the TraceTogether app, you need to follow the instructions tha
 
 Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore.</b> Follow the instructions until you reach the Home Screen.
 
+<table>
   <thead>
     <tr>
       <th style="text-align:center;">Holding Screen</th>
@@ -350,6 +351,7 @@ You can activate your app only <u>after</u> clearing Singapore immigration. Ther
 If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. Follow the instructions to be navigated back to the Holding Screen.
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+
 <img src="/images/TT_6.png" style="width:179px; height:318px;">
 
 If you still face issues, please email <support@tracetogether.gov.sg> with your query and details of the issue you are facing.
