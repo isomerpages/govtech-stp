@@ -6,16 +6,16 @@ A summary of the requirements and process for those travelling to Hong Kong unde
 
 ### 1. Eligibility 
 
-<span class="font-size:16px;">Any person, except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.</span>
-            
-<span class="font-size:16px;">Persons travelling to Hong Kong under the ATB arrangement must ensure that they meet the entry requirements of Hong Kong.</span>
- 
+Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.
+
+Persons travelling to Hong Kong under the ATB arrangement must ensure that they meet the entry requirements of Hong Kong below.
+
 ### 2. Pre-Departure to Hong Kong
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;">Prior to departing for Hong Kong, eligible travellers must fulfil the following requirements:</th>
+    <th colspan="2" style="font-size:18px;">Prior to departing for Hong Kong, eligible travellers must fulfil the following requirements:</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
@@ -32,22 +32,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
     <td style="font-size:16px;"><b>Designated ATB flight</b> </td>
     <td style="font-size:16px;">
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Singapore to Hong Kong on one of the following flights designated by the Hong Kong Government and Singapore Government under the ATB:
-        <ol style="margin-top:0px; list-style-type: disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight) </b>
-          <ol style="margin-top:0<px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
-          </ol>
-                    </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 to 31 December 2020</b>
-                         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX734 (SIN-HKG) operated by Cathay Pacific Airways</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ890 (SIN-HKG) operated by Singapore Airlines</li>
-                                         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.</li>
-          </ol>
-          </li>
-           </ol>
-                 </li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Singapore to Hong Kong on one of the flights designated by the Hong Kong Government and Singapore Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.  </li>
                 </ol>
     </td>
  </tr>
