@@ -37,7 +37,6 @@ An Air Travel Pass holder must:
 
 <li>adhere to the prevailing public health measures while in Singapore.</li>
 </ol>
-</li>
   
 <li>The requirement in Condition 1(c) to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the flight departing from Hong Kong does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year.</li>
 
