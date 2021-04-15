@@ -132,14 +132,14 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 
 In order to be eligible to take a designated ATB flight, they are required to:
 
-<ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.0;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and </li> 
-          <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
-            <ol style="margin-top:0px; list-style-type: upper-alpha;">
-         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.0;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li> 
-          <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A negative COVID-19 PCR test result;</li>  
-               <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Date and time when the COVID-19 PCR test was taken; and</li>  
-               <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Name of the testing institution where the test was taken.</li>  
+<ol style="margin-top:0px; list-style-type:disc;">
+         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.5;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and </li> 
+          <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+            <ol style="margin-top:0px; list-style-type: lower-roman;">
+         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.5;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li> 
+          <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A negative COVID-19 PCR test result;</li>  
+               <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>  
+               <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Name of the testing institution where the test was taken.</li>  
             </ol>
   </li>  
       </ol>
