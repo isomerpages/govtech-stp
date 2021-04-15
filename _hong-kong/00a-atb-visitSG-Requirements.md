@@ -211,7 +211,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
 </li>
     </ol><br/>
-      <b>Visitors who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
+      <b>Visitors who does not have any of the above may be refused entry into Singapore by ICA.</b>
+                <br/>
+                  <br/>
 *Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore, and follow the instructions to activate the app.
          </td>
  </tr>
@@ -263,7 +265,7 @@ Visitors are responsible for their medical bills should they require medical tre
   
 Visitors who have travelled to Singapore on the ATP and intend to return Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements.
 
-Please refer here for information about travel from Singapore to Hong Kong under the Air Travel Bubble arrangement.
+Please refer <a href="">here</a> for information about travel from Singapore to Hong Kong under the Air Travel Bubble arrangement.
  
 -----
 
