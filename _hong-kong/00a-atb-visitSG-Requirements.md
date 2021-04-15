@@ -5,7 +5,7 @@
 
 <span class="font-size:16px;">Foreigners who are short-term visitors travelling from Hong Kong under the Air Travel Bubble (ATB) arrangement may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
             
-<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health">here</a> for the prevailing health measures applicable upon entry into Singapore.</span>
+<span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. SC and PRs may enter Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/PRs Lane</a>, while Long- Term Pass Holders will have to seek entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a> or the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a>. </span>
  
 ### 2. Submit Applications for Air Travel Pass and Visa
 
