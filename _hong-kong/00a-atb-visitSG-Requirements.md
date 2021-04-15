@@ -16,15 +16,15 @@ third_nav_title: Visiting Singapore
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">Between 7 and 30 calendar days before intended date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Between 7 and 30 calendar days before intended date of entry into Singapore</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:18px;"><b>Submit Air Travel Pass application</b></td>
-    <td style="font-size:18px;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge <a href="https://go.gov.sg/atpsg">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
+    <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Submit Air Travel Pass application</b></td>
+    <td style="font-size:18px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8 ">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge <a href="https://go.gov.sg/atpsg">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
      <br/><br/>
 Visitors must comply with the <a href="/hongkong/atp/conditions">conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
 Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
@@ -37,14 +37,14 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
   <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">After Air Travel Pass has been approved</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">After Air Travel Pass has been approved</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:18px;"><b>Submit visa application (if required)</b></td>
-    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ol>
+    <td rowspan="2" style="font-size:18px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Submit visa application (if required)</b></td>
+    <td style="font-size:18px;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> <ol style="margin-top:0px; list-style-type: disc;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ol>
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
          </ol> 
@@ -58,13 +58,13 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">Prior to departing for Singapore, visitors holding an ATP must: </th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Prior to departing for Singapore, visitors holding an ATP must: </th>
   </tr>
 </thead>
 <tbody>
     <tr>
-    <td style="font-size:18px;"><b>Designated ATB flight</b> </td>
-    <td style="font-size:18px;">
+    <td style="font-size:18px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Designated ATB flight</b> </td>
+    <td style="font-size:18px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/><br/>
            <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does <b>not</b> guarantee an ATP approval.</i>          
@@ -73,8 +73,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
      <tr>
-    <td style="font-size:18px;"><b>Travel history</b> </td>
-    <td style="font-size:18px;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8 "><b>Travel history</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">
                 <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
@@ -94,8 +94,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>     
  </tr>
   <tr>
-    <td style="font-size:18px;"><b>Pre-Departure COVID-19 PCR Test in Hong Kong</b> </td>
-    <td style="font-size:18px;"><ul style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Pre-Departure COVID-19 PCR Test in Hong Kong</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
@@ -109,8 +109,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>     
  </tr>
  <tr>
- <td style="font-size:18px;"><b>Mandatory COVID-19 Travel Insurance</b></td>
- <td style="font-size:18px;"> 
+ <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Mandatory COVID-19 Travel Insurance</b></td>
+ <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
  <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
              <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.<br/>
@@ -119,16 +119,16 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
       <tr>
-    <td style="font-size:18px;"><b>SG Arrival Card</b> </td>
-    <td style="font-size:18px;"> 
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>SG Arrival Card</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore.</li>
      </ol>
     </td>
  </tr>
  <tr>
-    <td style="font-size:18px;"><b>Non-residential accommodation and individual room with attached toilet</b> </td>
-    <td style="font-size:18px;"> 
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Non-residential accommodation and individual room with attached toilet</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>)</li>
      </ol>
@@ -136,8 +136,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
   <tr>
-    <td style="font-size:18px;"><b>TraceTogether app</b> </td>
-    <td style="font-size:18px;"> 
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>TraceTogether app</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
 </li>
@@ -150,8 +150,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
  <tr>
- <td style="font-size:18px;"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
-    <td style="font-size:18px;"> 
+ <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
 <ol style="margin-top:0px; list-style-type: disc;">
             <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
 </ol>
@@ -160,12 +160,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
             </tr>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">Day of Departure to Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of Departure to Singapore</th>
   </tr>
 </thead>
    <tr>
-    <td style="font-size:18px;"><b>Check-in for designated ATB flight at departure airport</b></td>
-    <td style="font-size:18px;"> When checking in for the designated flight at the departure airport, visitors must present to the airline staff:
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Check-in for designated ATB flight at departure airport</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> When checking in for the designated flight at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors)</li>
@@ -192,17 +192,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">Day of arrival in Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of arrival in Singapore</th>
   </tr>
   </thead>
 <tbody>
             <tr>
-                         <td style="font-size:18px;"><b>Upon arrival in Changi Airport</b></td>
-    <td style="font-size:18px;">Visitors who need to procure any goods and services (e.g. purchase Singapore dollars or SIM cards, or rent mobile phones), should do so in the airport transit area, <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on “Transport from airport to accommodation” below.</td>
+                         <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Upon arrival in Changi Airport</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">Visitors who need to procure any goods and services (e.g. purchase Singapore dollars or SIM cards, or rent mobile phones), should do so in the airport transit area, <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on “Transport from airport to accommodation” below.</td>
             </tr>            
    <tr>
-    <td style="font-size:18px;"><b>Immigration clearance</b></td>
-    <td style="font-size:18px;">During immigration clearance in Singapore, the visitor must present to the ICA officer:
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Immigration clearance</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">During immigration clearance in Singapore, the visitor must present to the ICA officer:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
@@ -225,8 +225,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          </td>
  </tr>
  <tr>
-    <td style="font-size:18px;"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:18px;">Visitors who are holding an ATP will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Transport from airport to accommodation</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">Visitors who are holding an ATP will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
     <br/><br/>
 Visitors are <b>not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport.</b> The only exceptions are for:
 <ol style="margin-top:0px; list-style-type: decimal;">
@@ -236,8 +236,8 @@ Visitors are <b>not permitted to enter any retail or food & beverage establishme
     </td>
  </tr>
   <tr>
-    <td style="font-size:18px;"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
-    <td style="font-size:18px;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.
     <br>
     <br>
 Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
@@ -251,18 +251,18 @@ Visitors are responsible for their medical bills should they require medical tre
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">During stay in Singapore and up to 14 days after departure from Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore and up to 14 days after departure from Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
-    <td style="font-size:18px;"><b>Adhere to prevailing public health measures in Singapore</b></td>
-    <td style="font-size:18px;">During their stay in Singapore, visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing.
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Adhere to prevailing public health measures in Singapore</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">During their stay in Singapore, visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing.
     </td>
   </tr>
   <tr>
-    <td style="font-size:18px;"><b>Activation and retention of TraceTogether app, with data</b></td>
-    <td style="font-size:18px;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Activation and retention of TraceTogether app, with data</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
     </td>
   </tr>
             </tbody>
