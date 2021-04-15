@@ -40,10 +40,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 </thead>
   <tr>
     <td rowspan="2" style="font-size:16px;"><b>Submit visa application (if required)</b></td>
-    <td style="font-size:16px;"> Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.
-      <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;"> <ul style="margin-top:0px; list-style-type: disc;"><li>Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ul>
+      <ul style="margin-top:0px; list-style-type: circle;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
-         </ol> 
+         </ul> 
     </td>
   </tr>
   </tbody>
@@ -89,7 +89,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
   <tr>
     <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test in Hong Kong</b> </td>
-    <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;"><ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
@@ -99,7 +99,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
       </ol>
 <i>Note: Children aged 6 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.</i>
       </li>
-     </ol>
+     </ul>
     </td>     
  </tr>
  <tr>
@@ -115,27 +115,27 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
       <tr>
     <td style="font-size:16px;"><b>SG Arrival Card</b> </td>
     <td style="font-size:16px;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
+     <ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
-     </ol>
+     </ul>
     </td>
  </tr>
  <tr>
     <td style="font-size:16px;"><b>Non-residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:16px;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
+     <ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>)</li>
-     </ol>
+     </ul>
      <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
     </td>
  </tr>
   <tr>
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
+     <ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found here.
 </li>
-     </ol>
+     </ul>
                <p style="margin-top:0px; margin-bottom:0px; font-size:16px;"> <i> Note: the following groups are not required to download the TraceTogether app:</i></p>
                   <ol style="margin-top:0px; list-style-type: circle;">
                               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian</li>
