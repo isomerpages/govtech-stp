@@ -62,7 +62,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Designated ATB flight</b> </td>
     <td style="font-size:16px;">
      <ul style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/><br/>
            <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does not guarantee an ATP.</i>          
        </li>
      </ul>
