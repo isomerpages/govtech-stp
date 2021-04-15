@@ -1,6 +1,7 @@
 ---
 title: Terms and Conditions           
 permalink: /hongkong/atb/terms-and-conditions
+third_nav_title: Visiting Singapore
 ---
 
 <ol style="font-size:20px;"; list-style-type: decimal;">
