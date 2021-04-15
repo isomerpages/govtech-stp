@@ -9,7 +9,7 @@ third_nav_title: Visiting Singapore
 
 <span class="font-size:18px;">Foreigners who are short-term visitors travelling from Hong Kong under the Air Travel Bubble (ATB) arrangement may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
             
-<span class="font-size:18px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. SC and PRs may enter Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/PRs Lane</a>, while Long- Term Pass Holders will have to seek entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a> or the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a>. </span>
+<span class="font-size:18px;">Singapore Citizens(SC), Singapore Permanent Residents(PR), and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. SC and PRs may enter Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/PRs Lane</a>, while Long-Term Pass Holders will have to seek entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a> or the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a>. </span>
  
 ### 2. Submit Applications for Air Travel Pass and Visa
 
@@ -28,7 +28,7 @@ third_nav_title: Visiting Singapore
      <br/><br/>
 Visitors must comply with the <a href="/hongkong/atp/conditions">conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
 Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
-For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the Safe Travel hotline at 6812 5555.
+For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
      <br/><br/>
 <span style="color:red;"> <b>IMPORTANT</b><br/>
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
@@ -44,7 +44,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 </thead>
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit visa application (if required)</b></td>
-    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ol>
+    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ol>
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
          </ol> 
@@ -67,7 +67,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/><br/>
-           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does <b>not</b> guarantee an ATP.</i>          
+           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does <b>not</b> guarantee an ATP approval.</i>          
        </li>
      </ol>
     </td>
@@ -76,7 +76,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px;"><b>Travel history</b> </td>
     <td style="font-size:18px;">
                 <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">
             <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
@@ -122,7 +122,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px;"><b>SG Arrival Card</b> </td>
     <td style="font-size:18px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore.</li>
      </ol>
     </td>
  </tr>
@@ -132,7 +132,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>)</li>
      </ol>
-     <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
+     <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and an individual room with an attached toilet.</i>
     </td>
  </tr>
   <tr>
@@ -142,9 +142,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
 </li>
      </ol>
-               <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <i> Note: the following groups are not required to download the TraceTogether app:</i></p>
+               <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <i> Note: The following groups are not required to download the TraceTogether app:</i></p>
                   <ol style="margin-top:0px; list-style-type: circle;">
-                              <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian</li>
+                              <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian.</li>
                               <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability and/or special need.</li>
                  </ol>      
     </td>
