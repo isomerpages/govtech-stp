@@ -144,10 +144,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
  <tr>
- <td style="font-size:16px;"><b>TraceTogether app</b> </td>
+ <td style="font-size:16px;"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
     <td style="font-size:16px;"> 
 <ul style="margin-top:0px; list-style-type: disc;">
-<li>Visitors should also register and make payment for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
+            <li>Visitors should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
 </ul>
                 <i>Note: Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i>
              </td>
@@ -161,17 +161,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Check-in for designated ATB flight at departure airport</b></td>
     <td style="font-size:16px;"> When checking in for the designated flight at the departure airport, visitors must present to the airline staff:
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors)</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app</li>
     </ol> 
      <br/>
      <b>Visitors who do not have any of the above may be refused boarding by the airline. </b>
@@ -189,6 +189,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
   </thead>
 <tbody>
+            <tr>
+                         <td style="font-size:16px;"><b>Upon arrival in Changi Airport</b></td>
+    <td style="font-size:16px;">Visitors who need to procure any goods and services (e.g. purchase Singapore dollars or SIM cards, or rent mobile phones), should do so in the airport transit area, <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on “Transport from airport to accommodation” below.</td>
+            </tr>            
    <tr>
     <td style="font-size:16px;"><b>Immigration clearance</b></td>
     <td style="font-size:16px;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
@@ -199,21 +203,27 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">The date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
-       </li>     
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and activated.</li>
+       </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+</li>
     </ol><br/>
-      <b>Visitors who does not have any of the above may be refused entry into Singapore by ICA.</b>
+      <b>Visitors who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
+*Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore, and follow the instructions to activate the app.
          </td>
  </tr>
  <tr>
     <td style="font-size:16px;"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;">Visitors who are holding an ATP will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation (which must be non-residential and an individual room with attached toilet) and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    <td style="font-size:16px;">Visitors who are holding an ATP will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
     <br>
-    <br>
-    <i>Note: Visitors travelling from Hong Kong will <b>not</b> need to pay for the on-arrival COVID-19 PCR test if they are entering Singapore <b>from 22 November 2020 to 28 November 2020</b>. Children aged 12 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i>
+Visitors are <b>not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport.</b> The only exceptions are for:
+<ol style="margin-top:0px; list-style-type: decimal;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">purchase of Singapore dollars or SIM cards, or mobile phone rental, <u>which should be done in the airport transit area</u>, before arrival immigration; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.</li>
+                </ol>
     </td>
  </tr>
   <tr>
@@ -246,24 +256,12 @@ Visitors are responsible for their medical bills should they require medical tre
     <td style="font-size:16px;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
     </td>
   </tr>
-  <tr>
-    <td style="font-size:16px;"><b>Responsibility to bear related costs of medical treatment for COVID-19 while in Singapore</b></td>
-    <td style="font-size:16px;">Should ATP visitors test positive for COVID-19 in Singapore, they will be accorded the necessary medical treatment. Such visitors are required to bear the full cost of medical treatment, tests and isolation imposed on them for public health reasons.
-    </td>
-  </tr>
-  <thead>
-  <tr>
-    <th colspan="2" style="font-size:16px;">Returning to Hong Kong</th>
-  </tr>
-  </thead>
-  <tr>
-    <td style="font-size:16px;"><b>Entry Requirements for Hong Kong</b></td>
-              <td style="font-size:16px;">Visitors, who have travelled to Singapore on the ATP and intend to return Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements. <p style="margin-top:0px; margin-bottom:0px;"></p>Please refer <a href="/hongkong/requirements-and-process">here</a> for information about travel from Singapore to Hong Kong under the travel bubble arrangement.
-    </td>
-  </tr>
   
- </tbody>
- </table>
+  ### 6. Departure from Singapore
+  
+Visitors who have travelled to Singapore on the ATP and intend to return Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements.
+
+Please refer here for information about travel from Singapore to Hong Kong under the Air Travel Bubble arrangement.
  
 -----
 
@@ -271,21 +269,20 @@ Visitors are responsible for their medical bills should they require medical tre
 <span style="font-size:16px; ">
 <sup>1</sup>Mobile devices that are incompatible with the TraceTogether app include:
  <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Huawei phones that do not have access to Google Play store (e.g. Mate 30, P40, P40 Pro.) </li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones that do not have access to the Apple App Store, Google Play Store, or Huawei App Gallery </li>
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with Android version 5.0 and below </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones running on Blackberry OS or Symbian OS </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM system installed by employers that prevents downloads from the Google Play store or App Store)</li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Phones that do not have access to the Google Play store, App Store, or Google Play Services</li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM) system installed by employers that prevents downloads from the App Store, Google Play store or Huawei App Gallery</li>
             </ol>
 <span style="font-size:16px;">
-Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends here before departing from Singapore. 
+Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing from Singapore. 
               <br/><br/>
-Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends here before departing from Singapore.
+Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing from Singapore.
  <br/> <br/>
-Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and activated. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
+Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and nd with their profiles registered on the app. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
  <br/> <br/>
-Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same passport number submitted for their ATP application. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
+Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to do so may be denied entry into Singapore by ICA.</b>
  
 
