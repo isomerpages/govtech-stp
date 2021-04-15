@@ -43,7 +43,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
 </thead>
   <tr>
-    <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8""><b>Submit visa application (if required)</b></td>
+    <td rowspan="2" style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Submit visa application (if required)</b></td>
     <td style="font-size:18px;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> <ol style="margin-top:0px; list-style-type: disc;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ol>
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
