@@ -450,19 +450,21 @@ Please refer to Hong Kong’s dedicated ATB website <a href="http://www.tourism.
 #### 53. What must visitors present to airline staff during check-in at the departure airport in Hong Kong?
 
 When checking in at the departure airport, visitors must present the following to the airline staff:
-<ul style="font-size:18px; list-style-type:disc;">
+
+<ol style="font-size:18px; list-style-type:disc;">
 <li>a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;</li>
 <li>a valid visa (for visa-required visitors);</li>
 <li>a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
-<ul style="font-size:18px; list-style-type:none;">
-<li> - Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
-<li>- A negative COVID-19 PCR test result;</li>
-<li>- Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
-<li>- Name of the testing institution where the test was taken, which must be from the list of recognised testing institutions in Hong Kong</li>
-</ul>
+<ol style="font-size:18px; list-style-type:none;">
+<li>Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+<li>A negative COVID-19 PCR test result;</li>
+<li>Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
+<li>Name of the testing institution where the test was taken, which must be from the list of recognised testing institutions in Hong Kong</li>
+</ol>
 <li>an electronic or physical copy of their travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
 <li>a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. Children aged 12 or younger in that calendar year and travelling with family are exempted from this requirement. Visitors with a certified disability or special need are also exempted.</li>
-</ul>
+</ol>
+
 Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.
 
 A visitor who does not have any of the above may be refused boarding by the airline.
