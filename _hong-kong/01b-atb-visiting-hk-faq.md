@@ -1,3 +1,9 @@
+---
+title: Frequently Asked Questions           
+permalink: /hongkong/atb/visitingHK-faq
+third_nav_title: Visiting Hong Kong
+---
+
 ## Eligibility
 
 #### 1. Who is eligible to travel to Hong Kong under the Air Travel Bubble (ATB) arrangement?
