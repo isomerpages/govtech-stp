@@ -270,7 +270,7 @@ Visitors are responsible for their medical bills should they require medical tre
 
 ### 6. Departure from Singapore
   
-Visitors who have travelled to Singapore on the ATP and intend to return Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements.
+Visitors who have travelled to Singapore on the ATP and intend to return to Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements.
 
 Please refer <a href="">here</a> for information about travel from Singapore to Hong Kong under the Air Travel Bubble arrangement.
  
