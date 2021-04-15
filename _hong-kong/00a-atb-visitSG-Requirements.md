@@ -79,14 +79,14 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">
-            <li>Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
+            <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
             </ol> 
 </li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
             <ol style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">
-                        <li>Providing care for a COVID-19 patient, including in healthcare or family/social setting;</li> 
-            <li>Staying in the same place as a person with COVID-19 (e.g. household members); or </li>
+                        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Providing care for a COVID-19 patient, including in healthcare or family/social setting;</li> 
+            <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Staying in the same place as a person with COVID-19 (e.g. household members); or </li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
 </ol> 
 </li>
@@ -98,7 +98,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px;"><ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken</li>
@@ -174,7 +174,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
         </ol>
        </li>     
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app</li>
