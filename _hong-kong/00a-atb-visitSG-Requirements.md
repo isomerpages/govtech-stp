@@ -44,10 +44,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 </thead>
   <tr>
     <td rowspan="2" style="font-size:18px;"><b>Submit visa application (if required)</b></td>
-    <td style="font-size:18px;"> <ul style="margin-top:0px; list-style-type: disc;"><li>Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ul>
-      <ul style="margin-top:0px; list-style-type: circle;">
+    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;"><li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors, who require a visa for travel to Singapore, must separately obtain a valid visa after receiving their Air Travel Pass approval and before departing for Singapore. Such visitors are encouraged to apply for their Air Travel Pass early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.</li></ul>
+      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.</li>
-         </ul> 
+         </ol> 
     </td>
   </tr>
   </tbody>
@@ -74,17 +74,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
      <tr>
     <td style="font-size:18px;"><b>Travel history</b> </td>
-    <td style="font-size:18px;"><ul style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px;"><ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;"><li>Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
-<li>Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
-<li>Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
             <ul style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">
                         <li>Providing care for a COVID-19 patient, including in healthcare or family/social setting;</li> 
             <li>Staying in the same place as a person with COVID-19 (e.g. household members); or </li>
-<li>Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
-</ul> 
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
+</ol> 
 </li>
 </ol> 
 </li>
@@ -109,37 +109,37 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <tr>
  <td style="font-size:18px;"><b>Mandatory COVID-19 Travel Insurance</b></td>
  <td style="font-size:18px;"> 
- <ul style="margin-top:0px; list-style-type: disc;">
+ <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
              <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.<br/>
 <i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- or overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></li>         
-     </ul>
+     </ol>
     </td>
  </tr>
       <tr>
     <td style="font-size:18px;"><b>SG Arrival Card</b> </td>
     <td style="font-size:18px;"> 
-     <ul style="margin-top:0px; list-style-type: disc;">
+     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Submit their health, travel history, and accommodation declarations electronically via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard">here</a>, no earlier than 3 days prior to their date of arrival in Singapore;</li>
-     </ul>
+     </ol>
     </td>
  </tr>
  <tr>
     <td style="font-size:18px;"><b>Non-residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:18px;"> 
-     <ul style="margin-top:0px; list-style-type: disc;">
+     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>)</li>
-     </ul>
+     </ol>
      <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
     </td>
  </tr>
   <tr>
     <td style="font-size:18px;"><b>TraceTogether app</b> </td>
     <td style="font-size:18px;"> 
-     <ul style="margin-top:0px; list-style-type: disc;">
+     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
 </li>
-     </ul>
+     </ol>
                <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <i> Note: the following groups are not required to download the TraceTogether app:</i></p>
                   <ol style="margin-top:0px; list-style-type: circle;">
                               <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian</li>
@@ -150,9 +150,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <tr>
  <td style="font-size:18px;"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
     <td style="font-size:18px;"> 
-<ul style="margin-top:0px; list-style-type: disc;">
-            <li>Visitors should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
-</ul>
+<ol style="margin-top:0px; list-style-type: disc;">
+            <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
+</ol>
                 <i>Note: Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i>
              </td>
             </tr>
@@ -264,8 +264,8 @@ Visitors are responsible for their medical bills should they require medical tre
   </tr>
             </tbody>
             </table>
-  
-  ### 6. Departure from Singapore
+
+### 6. Departure from Singapore
   
 Visitors who have travelled to Singapore on the ATP and intend to return Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements.
 
