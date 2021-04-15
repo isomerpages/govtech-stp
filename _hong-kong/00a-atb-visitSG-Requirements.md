@@ -22,7 +22,7 @@
     <td rowspan="2" style="font-size:16px;"><b>Submit Air Travel Pass application</b></td>
     <td style="font-size:16px;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge <a href="https://go.gov.sg/atpsg">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
      <br/><br/>
-Visitors must comply with the <a href="/hongkong/atp/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
+Visitors must comply with the <a href="/hongkong/atp/conditions">conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
 Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
 For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the Safe Travel hotline at 6812 5555.
      <br/><br/>
@@ -63,7 +63,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;">
      <ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/><br/>
-           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does not guarantee an ATP.</i>          
+           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does <b>not</b> guarantee an ATP.</i>          
        </li>
      </ul>
     </td>
@@ -72,8 +72,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Travel history</b> </td>
     <td style="font-size:16px;"><ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Monitor their health status before departure;visitors should not travel to Singapore if they: 
-<ol style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;"><li>Have symptoms of COVID-19;</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
+<ol style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;"><li>Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
 <li>Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
 <li>Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
             <ul style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">
@@ -108,7 +108,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.<br/>
-<i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></li>         
+<i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- or overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></li>         
      </ul>
     </td>
  </tr>
