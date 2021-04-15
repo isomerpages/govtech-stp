@@ -19,30 +19,30 @@ Persons travelling to Hong Kong under the ATB arrangement must ensure that they 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">Prior to departing for Hong Kong, eligible travellers must fulfil the following requirements:</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Prior to departing for Hong Kong, eligible travellers must fulfil the following requirements:</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="font-size:18px;"><b>Visa application (if required)</b></td>
-    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Visa application (if required)</b></td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Travellers who require a visa for travel to Hong Kong must obtain a valid visa before departing to Hong Kong. Please refer to Immigration Department of Hong Kong’s website <a href="https://www.immd.gov.hk/eng/services/visas/immigration-entry-guideline.html">here</a> for more information.</li>
          </ol> 
  </td>
   </tr>
      <tr>
-    <td style="font-size:18px;"><b>Designated ATB flight</b> </td>
-    <td style="font-size:18px;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Designated ATB flight</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc; ">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Singapore to Hong Kong on one of the flights designated by the Hong Kong Government and Singapore Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.  </li>
                 </ol>
     </td>
  </tr>
   <tr>
-    <td style="font-size:18px;"><b>Pre-departure COVID-19 PCR Test</b></td>
-    <td style="font-size:18px;"> 
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Pre-departure COVID-19 PCR Test</b></td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> 
                 <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test in Singapore within 72 hours before the scheduled departure time of the designated ATB flight from Singapore to Hong Kong at one of the <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers">clinics</a> designated by the Singapore Government, and obtain a negative test result report. Please refer here for more information.
       </li>
@@ -50,16 +50,16 @@ Persons travelling to Hong Kong under the ATB arrangement must ensure that they 
  </td>
   </tr>
     <tr>
-    <td style="font-size:18px;"><b>Online Health & Quarantine Information Declaration Form</b></td>
-    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Online Health & Quarantine Information Declaration Form</b></td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Declare their travel history in the past 14 days prior to departure from Singapore, health conditions, and contact information (phone number, email, address, etc.) using the <a href="https://www.chp.gov.hk/hdf/">online health & quarantine information declaration form</a> as required by the Hong Kong Government. Note that making a false declaration is a criminal offence in Hong Kong which is punishable by imprisonment and a fine.
       </li>
          </ol> 
  </td>
   </tr>
              <tr>
-    <td style="font-size:18px;"><b>Book and pay for post-arrival COVID-19 PCR test</b></td>
-    <td style="font-size:18px;"> <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Book and pay for post-arrival COVID-19 PCR test</b></td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers can register and pay for their post-arrival COVID-19 PCR test at Hong Kong International Airport via a web-based application <a href="https://hkia.prenetics.com/">here</a>.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code, which should be presented during check-in.
       </li>
          </ol> 
@@ -67,12 +67,12 @@ Persons travelling to Hong Kong under the ATB arrangement must ensure that they 
   </tr>
    <thead>
   <tr>
-    <th colspan="2" style="font-size:18px;">Day of departure to Hong Kong</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of departure to Hong Kong</th>
   </tr>
 </thead>
   <tr>
-    <td  style="font-size:18px;"><b>Check-in for designated ATB flight at Changi airport</b></td>
-    <td style="font-size:18px;">When checking in for the designated ATB flight at Changi Airport, travellers must present to the airline staff:
+    <td  style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Check-in for designated ATB flight at Changi airport</b></td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">When checking in for the designated ATB flight at Changi Airport, travellers must present to the airline staff:
       <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid travel document</li>  
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (if required under the prevailing visa policy of Hong Kong )</li>
