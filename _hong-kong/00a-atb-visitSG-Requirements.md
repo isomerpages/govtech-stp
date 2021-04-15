@@ -24,7 +24,7 @@
      <br/><br/>
 Visitors must comply with the <a href="/hongkong/atp/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
 Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
-For enquiries, please email <a href="COVID_ATP_Enquiries@caas.gov.sg">COVID_ATP_Enquiries@caas.gov.sg</a>.
+For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the Safe Travel hotline at 6812 5555.
      <br/><br/>
 <span style="color:red;"> <b>IMPORTANT</b><br/>
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
@@ -61,49 +61,56 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <tr>
     <td style="font-size:16px;"><b>Designated ATB flight</b> </td>
     <td style="font-size:16px;">
-     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the following flights designated by the Singapore Government and the Hong Kong Government under the ATB:
-        <ol style="margin-top:0px; list-style-type: disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>On 22 November 2020 (inaugural flight)</b> 
-          <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
-          </ol>
-          </li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 23 November 2020 to 31 December 2020 </b>
-                         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CX759 (HKG–SIN) operated by Cathay Pacific Airways</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SQ891 (HKG–SIN) operated by Singapore Airlines</li>
-   <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For information on the designated ATB flights from 1 January 2021 onwards, please refer to the websites of Cathay Pacific Airways and Singapore Airlines.</li>
-          </ol>
-          </li>
-           </ol>
-           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does not guarantee an ATP.</i>           
+     <ul style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have a flight ticket from Hong Kong to Singapore on one of the flights designated by the Singapore Government and the Hong Kong Government under the ATB. Please refer to the relevant airlines’ websites for details of the designated flights.<br/>
+           <i>  Note: Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated flight from Hong Kong to Singapore. Visitors are responsible for obtaining their own flight tickets. Similarly, having a flight ticket on a designated flight from Hong Kong to Singapore does not guarantee an ATP.</i>          
        </li>
-     </ol>
+     </ul>
     </td>
  </tr>
      <tr>
     <td style="font-size:16px;"><b>Travel history</b> </td>
-    <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;"><ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Monitor their health status before departure;</li>
-     </ol>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Monitor their health status before departure;visitors should not travel to Singapore if they: 
+<ol style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;"><li>Have symptoms of COVID-19;</li>
+<li>Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
+<li>Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
+            <ul style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:disc;">
+                        <li>Providing care for a COVID-19 patient, including in healthcare or family/social setting;</li> 
+            <li>Staying in the same place as a person with COVID-19 (e.g. household members); or </li>
+<li>Close (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>
+</ul> 
+</li>
+</ol> 
+</li>
+     </ul>
     </td>     
  </tr>
   <tr>
     <td style="font-size:16px;"><b>Pre-Departure COVID-19 PCR Test in Hong Kong</b> </td>
     <td style="font-size:16px;"><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken</li>
       </ol>
-<i>Note: Children aged 12 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.</i>
+<i>Note: Children aged 6 or younger in that calendar year are not required to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore.</i>
       </li>
      </ol>
     </td>     
+ </tr>
+ <tr>
+ <td style="font-size:16px;"><b>Mandatory COVID-19 Travel Insurance</b></td>
+ <td style="font-size:16px;"> 
+ <ul style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.</li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Prepare an electronic or physical copy of their insurance policy to bring with them to facilitate their entry into Singapore.<br/>
+<i>Note: Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click <a href="https://safetravel.ica.gov.sg/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i></li>         
+     </ul>
+    </td>
  </tr>
       <tr>
     <td style="font-size:16px;"><b>SG Arrival Card</b> </td>
@@ -117,24 +124,34 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;"><b>Non-residential accommodation and individual room with attached toilet</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be non-residential and an individual room with an attached toilet)</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Book an accommodation in Singapore to serve out their isolation period for 1-2 days while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>)</li>
      </ol>
-     <i>Note: Visitors may refer to the <a href="https://sha.org.sg/green-lane-travellers" target="_blank">Singapore Hotel Association (SHA) website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
+     <i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg" target="_blank">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as it is non-residential and individual room with an attached toilet.</i>
     </td>
  </tr>
   <tr>
     <td style="font-size:16px;"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found here.
+</li>
      </ol>
                <p style="margin-top:0px; margin-bottom:0px; font-size:16px;"> <i> Note: the following groups are not required to download the TraceTogether app:</i></p>
-                  <ol style="margin-top:0px; list-style-type: disc;">
+                  <ol style="margin-top:0px; list-style-type: circle;">
                               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children aged 12 or younger in that calendar year and travelling with a parent or guardian</li>
-                              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability an/or special need.</li>
+                              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability and/or special need.</li>
                  </ol>      
     </td>
  </tr>
+ <tr>
+ <td style="font-size:16px;"><b>TraceTogether app</b> </td>
+    <td style="font-size:16px;"> 
+<ul style="margin-top:0px; list-style-type: disc;">
+<li>Visitors should also register and make payment for their on-arrival COVID-19 PCR test prior to departing for Singapore.</li>
+</ul>
+                <i>Note: Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i>
+             </td>
+            </tr>
 <thead>
   <tr>
     <th colspan="2" style="font-size:16px;">Day of Departure to Singapore</th>
