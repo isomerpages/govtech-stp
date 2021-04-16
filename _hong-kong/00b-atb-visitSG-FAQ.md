@@ -149,7 +149,7 @@ Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/visitor/vi
 
 #### 15. What are the ATP conditions of travel?
 
-Visitors must comply with the ATP Conditions <a href="https://safetravel.ica.gov.sg/hongkong/atp/conditions">here</a>.
+Visitors must comply with the ATP Conditions <a href="/hongkong/atb/terms-and-conditions">here</a>.
 
 <div id="ATBFlight"></div>
 
@@ -165,7 +165,7 @@ Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated
 
 #### 18. I have an ATP and a pre-departure COVID-19 PCR test result certificate, and I meet the travel history condition of the ATP, but I did not manage to get a flight ticket on a designated ATB flight from Hong Kong to Singapore. Will I still be allowed to enter Singapore?
 
-As set out in ATP <a href="https://safetravel.ica.gov.sg/hongkong/atp/conditions">Conditions</a>, an ATP holder must travel from Hong Kong to Singapore on a flight designated by the Singapore Government and the Hong Kong Government under the ATB.
+As set out in ATP <a href="/hongkong/atb/terms-and-conditions">Conditions</a>, an ATP holder must travel from Hong Kong to Singapore on a flight designated by the Singapore Government and the Hong Kong Government under the ATB.
 
 If you are not travelling on a designated ATB flight from Hong Kong to Singapore, you will not be allowed to enter Singapore.
 
@@ -360,7 +360,7 @@ If you still face issues, please email <support@tracetogether.gov.sg> with your 
  
 #### 41. If I change my mobile device or SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
-If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the ATP <a href="https://safetravel.ica.gov.sg/hongkong/atp/conditions">Condition</a> 1(f)(ii).
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the ATP <a href="/hongkong/atb/terms-and-conditions">Condition</a> 1(f)(ii).
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
