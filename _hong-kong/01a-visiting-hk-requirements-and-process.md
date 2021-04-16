@@ -6,7 +6,7 @@ third_nav_title: Air Travel Bubble - Visiting Hong Kong
 
 ### AIR TRAVEL BUBBLE - VISITING HONG KONG
 
-A summary of the requirements and process for those travelling to Hong Kong under the Air Travel Bubble (ATB) arrangement is provided below. Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for the full details. 
+A summary of the requirements and process for those travelling to Hong Kong under the Air Travel Bubble (ATB) arrangement is provided below. Please refer to Hong Kong’s dedicated ATB website <a href="http://www.tourism.gov.hk/travelbubble" target="_blank">here</a> for the full details. 
 
 ### 1. Eligibility 
 
