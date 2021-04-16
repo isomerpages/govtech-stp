@@ -37,7 +37,7 @@ third_nav_title: Air Travel Bubble - Visiting Singapore
 <li>adhere to the prevailing public health measures while in Singapore.</li>
 </ol>
 
-<ol start="2" style="font-size:20px; list-style-type: decimal;>
+<ol start="2" style="font-size:20px;">
 <li>The requirement in Condition 1(c) to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the flight departing from Hong Kong does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year.</li>
 
 <li>The requirement in Condition 1(d) to undergo a COVID-19 PCR test at the airport upon arrival in Singapore does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year.</li>
