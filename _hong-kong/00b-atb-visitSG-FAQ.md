@@ -400,7 +400,7 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 
 #### 46. I had travelled from Hong Kong to Singapore on an ATP. What are the requirements I need to meet if I intend to return to Hong Kong after my stay in Singapore?
 
-For information on travel to Hong Kong under the Air Travel Bubble arrangement, please refer <a href="https://safetravel.ica.gov.sg/hongkong/requirements-and-process">here</a>.
+For information on travel to Hong Kong under the Air Travel Bubble arrangement, please refer <a href="/hongkong/atb/visitingHK">here</a>.
 
 #### 47. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Hong Kong is within 72 hours before my departure from Singapore?
 
