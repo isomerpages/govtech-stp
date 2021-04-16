@@ -4,8 +4,8 @@ permalink: /hongkong/atb/terms-and-conditions
 third_nav_title: Air Travel Bubble - Visiting Singapore
 ---
 
-<ol style="font-size:20px; list-style-type: decimal; start="1">
-An Air Travel Pass holder must:
+
+1. An Air Travel Pass holder must:
 
 <ol style="font-size:20px; list-style-type: lower-latin;">
 <li>Have only been in Hong Kong, or both Hong Kong and Singapore, in the last 14 consecutive days before departing from Hong Kong;</li>
@@ -37,6 +37,7 @@ An Air Travel Pass holder must:
 <li>adhere to the prevailing public health measures while in Singapore.</li>
 </ol>
 
+<ol style="font-size:20px; list-style-type: decimal; start="2">
 <li>The requirement in Condition 1(c) to undergo a COVID-19 PCR test within 72 hours before the scheduled departure time of the flight departing from Hong Kong does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year.</li>
 
 <li>The requirement in Condition 1(d) to undergo a COVID-19 PCR test at the airport upon arrival in Singapore does not apply to an Air Travel Pass holder who is 6 years of age or younger in that calendar year.</li>
