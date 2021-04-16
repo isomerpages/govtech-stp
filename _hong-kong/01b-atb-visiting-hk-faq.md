@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions           
 permalink: /hongkong/atb/visitingHK-faq
-third_nav_title: Visiting Hong Kong
+third_nav_title: Air Travel Bubble - Visiting Hong Kong
 ---
 
 ## Eligibility
