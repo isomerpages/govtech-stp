@@ -149,7 +149,7 @@ Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/visitor/vi
 
 #### 15. What are the ATP conditions of travel?
 
-Visitors must comply with the ATP Conditions <a href="/hongkong/atb/terms-and-conditions">here</a>.
+Visitors must comply with the ATP Conditions <a href="https://safetravel.ica.gov.sg/hongkong/atb/terms-and-conditions">here</a>.
 
 <div id="ATBFlight"></div>
 
