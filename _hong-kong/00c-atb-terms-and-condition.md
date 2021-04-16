@@ -1,7 +1,7 @@
 ---
 title: Terms and Conditions           
 permalink: /hongkong/atb/terms-and-conditions
-third_nav_title: Visiting Singapore
+third_nav_title: Air Travel Bubble - Visiting Singapore
 ---
 
 
