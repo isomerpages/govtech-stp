@@ -122,7 +122,23 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All other coun
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">4.	Take an exit-from-SHN COVID-19 PCR test during SHN</li>
          </ol>
     </td>
-  </tr>       
+  </tr>   
+     <tr>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>1.</b></td>
+    <td style="font-size:16px; 
+border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">   
+    <ol style="margin-top:0px; list-style-type: disc;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom</li>
+      </ol>
+    </td>
+       <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; color:red;"> Disallowed from entry into Singapore via FTL
+    </td>
+  </tr>   
+       <tr>
+    <td rowspan="3" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Notes</u></b><br/><br/><i>[1] Excludes children who are 6 years old and below in the calendar year. For smooth entry, travellers are strongly encouraged to register and pay for their on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”). Click here for more information.</i><br/><br/><i>[2] When making a booking with the hotel, travellers should check and ensure that the hotel can accommodate guests serving their SHN.</i>
+      </td>
+     </tr>
   </tbody>
 </table>
 
