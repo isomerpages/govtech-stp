@@ -60,10 +60,46 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
          </ol>
     </td>
   </tr>
-    
-    
-    
-    
+     <tr>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>3.</b></td>
+    <td style="font-size:16px; 
+border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">   
+    <ol style="margin-top:0px; list-style-type: disc;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Fiji</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
+      </ol>
+    </td>
+       <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
+    <ol style="margin-top:0px; list-style-type: lower-roman;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 72 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+      <ol style="margin-top:0px; list-style-type: lower-roman;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="">[Note 1]</a></sup></li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at: 
+       <ol style="margin-top:0px; list-style-type: lower-alpha;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Contains the following:
+          <ol style="margin-top:0px; list-style-type: disc;">
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">COVID-19 test results and date of test;</li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Traveller’s name; and</li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+                </ol>        
+         </li>
+            </ol>          
+      </li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="">[Note 1]</a></sup></li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at: 
+       <ol style="margin-top:0px; list-style-type: lower-alpha;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence; or</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a></li>
+            </ol>      
+      </li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">4.	Take an exit-from-SHN COVID-19 PCR test during SHN</li>
+         </ol>
+    </td>
+  </tr>   
   </tbody>
 </table>
 
