@@ -34,7 +34,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
     </td>
        <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
     <ol style="margin-top:0px; list-style-type: lower-roman;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="">[Note 1]</a></sup></li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="#notes">[Note 1]</a></sup></li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in self-isolation until a negative PCR test result is conveyed (typically within 48 hours)</li>
          </ol>
     </td>
@@ -53,7 +53,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at: 
        <ol style="margin-top:0px; list-style-type: lower-alpha;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence; or</li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Self-sourced hotel <sup><a href="">[Note 2]</a></sup></li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Self-sourced hotel <sup><a href="#notes">[Note 2]</a></sup></li>
             </ol>      
       </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">3.	Take an exit-from-SHN COVID-19 PCR test during SHN</li>
@@ -86,7 +86,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
          </li>
             </ol>          
       </li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="">[Note 1]</a></sup></li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="#notes">[Note 1]</a></sup></li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at: 
        <ol style="margin-top:0px; list-style-type: lower-alpha;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence; or</li>
@@ -116,7 +116,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All other coun
          </li>
             </ol>          
       </li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="">[Note 1]</a></sup></li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”) <sup><a href="#notes">[Note 1]</a></sup></li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at the <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a> 
       </li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">4.	Take an exit-from-SHN COVID-19 PCR test during SHN</li>
@@ -124,7 +124,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All other coun
     </td>
   </tr>   
      <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>1.</b></td>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>5.</b></td>
     <td style="font-size:16px; 
 border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">   
     <ol style="margin-top:0px; list-style-type: disc;">
@@ -136,7 +136,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
     </td>
   </tr>   
        <tr>
-    <td colspan="3" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Notes</u></b><br/><br/><i>[1] Excludes children who are 6 years old and below in the calendar year. For smooth entry, travellers are strongly encouraged to register and pay for their on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”). Click here for more information.</i><br/><br/><i>[2] When making a booking with the hotel, travellers should check and ensure that the hotel can accommodate guests serving their SHN.</i>
+    <td id="notes" colspan="3" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Notes</u></b><br/><br/><i>[1] Excludes children who are 6 years old and below in the calendar year. For smooth entry, travellers are strongly encouraged to register and pay for their on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”). Click here for more information.</i><br/><br/><i>[2] When making a booking with the hotel, travellers should check and ensure that the hotel can accommodate guests serving their SHN.</i>
       </td>
      </tr>
   </tbody>
