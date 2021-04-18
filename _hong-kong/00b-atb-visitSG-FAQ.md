@@ -141,7 +141,7 @@ Visitors, who require a visa for travel to Singapore, must separately obtain a v
 
 If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
 
-Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/visitor/visitor_entryvisa">here</a> for information on visa requirements and application.
+Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on visa requirements and application.
 
 <div id="conditions"></div>
 
