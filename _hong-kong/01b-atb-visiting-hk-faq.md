@@ -8,8 +8,7 @@ third_nav_title: Air Travel Bubble - Visiting Hong Kong
 
 #### 1. Who is eligible to travel to Hong Kong under the Air Travel Bubble (ATB) arrangement?
 
-Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive 
-Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
+Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong. Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
 - staying in Singapore and/or Hong Kong in the last 14 days before departure
 - taking a designated ATB flight from Singapore to Hong Kong
 - undergoing a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government
