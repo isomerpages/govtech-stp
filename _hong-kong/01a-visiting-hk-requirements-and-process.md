@@ -157,7 +157,7 @@ Children aged 6 or younger in that calendar year are not required to:
 
 <b><u>(B) Non-Designated ATB Flights</u></b>
 
-For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to the Singapore Immigration & Checkpoints Authority’s (ICA) website [here](https://safetravel.ica.gov.sg/health/).
+For those travelling from Hong Kong to Singapore on a non-designated flight, they will be required to undergo an on-arrival COVID-19 PCR test at Changi Airport, serve a 7-day SHN at their own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on the prevailing SHN and COVID-19 test requirements upon entry into Singapore, please refer to the Singapore Immigration & Checkpoints Authority’s (ICA) website [here](https://safetravel.ica.gov.sg/health/).
 
 There is no need to undergo a pre-departure COVID-19 PCR test in Hong Kong for those travelling on non-designated flights.
 
