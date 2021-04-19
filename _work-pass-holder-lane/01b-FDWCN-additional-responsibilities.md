@@ -40,6 +40,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 </ol>   
     </td>
@@ -55,7 +56,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </ol> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
-      <tr>
+    <!--  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
   <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
@@ -64,12 +65,12 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice.</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">&nbsp;</td>
-  </tr>
+  </tr>-->
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
@@ -89,7 +90,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
+       <ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa (for arrivals from 22 April 2021, 23:59 hours</li>
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom (for arrivals from 22 April 2021, 23:59 hours)</li>
+      </ol>
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
