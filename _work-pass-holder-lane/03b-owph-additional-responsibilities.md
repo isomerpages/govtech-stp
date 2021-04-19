@@ -39,6 +39,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 </ol>   
     </td>
@@ -49,7 +50,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 </ol> </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
-    <tr>
+   <!-- <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
 <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
@@ -58,12 +59,12 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Defer entry. Not allowed to enter Singapore until further notice.</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&nbsp;</td>
-  </tr>
+  </tr>-->
   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
@@ -79,7 +80,11 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
+       <ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
+      </ol>
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
@@ -96,12 +101,12 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 
 <ul>
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
+        <!-- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
 <ul>
   <li style="font-size:18px; line-height:1.5;">South Africa</li>
   <li style="font-size:18px; line-height:1.5;">The United Kingdom</li>
 </ul>
-</li>        
+</li>        -->
 </ul>      
 
 ### What Companies Must Do when Pass Holders Enter Singapore
