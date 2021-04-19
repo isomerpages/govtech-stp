@@ -31,7 +31,7 @@ Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders ca
      <br/><br/>
 Visitors must comply with the <a href="/atp/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
 Personal data will be collected for Air Travel Pass applications. Please click <a href="/privacy">here</a> to view the Privacy Statement.<br/><br/>
-      For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the Safe Travel Hotline at 6812 5555.
+      For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
      <br/><br/>
 <span style="color:red;"> <b>IMPORTANT</b><br/>
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the conditions or cancellation of the Air Travel Pass at short notice. Visitors will be notified of changes to the conditions or cancellation of their Air Travel Passes.
