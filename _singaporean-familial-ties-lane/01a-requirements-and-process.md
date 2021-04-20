@@ -174,7 +174,13 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, <a href="/health/faq#transport">taxi, or private hire car</a> from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of public transport is not allowed.<br/><br/>
 
-For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.
+For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided from the checkpoint to the accomodation.
+
+For travellers who are required to serve SHN at an SHN Dedicated Facility (SDF) <u>but have received approval to opt-out of stay at the SDFs</u>, they must make transport arrangements at their own cost from Strides Transportation Pte Ltd for the following:
+<ul style="font-size: 16px; list-style-type:lower-roman";>
+ <li>transportation from the checkpoint to your place of residence; and</li>
+ <li>transportation to and from place of residence to your scheduled COVID-19 test appointment at the designated testing facility or for approved purposes.</li>
+ </ul>
     </td>
   </tr>
  </tbody>
