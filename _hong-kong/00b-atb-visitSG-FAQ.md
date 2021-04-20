@@ -1,8 +1,4 @@
----
-title: Frequently Asked Questions        
-permalink: /hongkong/atb/visitingSG-faq
-third_nav_title: Air Travel Bubble - Visiting Singapore
----
+
 
 <div id="top"></div>
 
