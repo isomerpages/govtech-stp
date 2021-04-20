@@ -106,7 +106,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 
 <ul>
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Due to the worsening situation i India and emergence of new virus variants, entry approvals for foreigners from India will be reduced. </li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Due to the worsening situation in India and emergence of new virus variants, entry approvals for foreigners from India will be reduced. </li>
         <!-- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
 <ul>
   <li style="font-size:18px; line-height:1.5;">South Africa</li>
