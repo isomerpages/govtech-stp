@@ -1,4 +1,8 @@
-
+---
+title: Terms and Conditions
+permalink: /hongkong/atb/terms-and-conditions
+third_nav_title: Visiting Singapore
+---
 
 1. An Air Travel Pass holder must:
 
