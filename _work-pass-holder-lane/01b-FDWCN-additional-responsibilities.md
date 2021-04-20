@@ -99,9 +99,15 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at dedicated SHN facilities</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at SDFs</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over
+      <br/> Additional procedures for FDWs/CNs with travel history to India, South Africa or United Kingdom. <ol style="margin-top:0px; list-style-type:decimal;">
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For those entering Singapore from 22 Apri 2021, 23:59 hours,</b> after their 14-day SHN at SDFs, they must serve an additional 7-day SHn at a place of residence or hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">(Only for FDWs/CNs from India) For those who have not completed their 14-day SHN by 22 April 2021, 23:59 hours, they will also be subject to the additional 7-day SHN.</li>
+              </ol>
+      </li>
 </ol> </td>
+      <i><b>Note</b></i> Due to the worsening situaton in India an emergence of new virus variants, entry approvas for foreigners entering from India will be reduced. 
   </tr>
     </tbody>
 </table>
