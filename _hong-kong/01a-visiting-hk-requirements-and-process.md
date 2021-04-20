@@ -10,7 +10,7 @@ A summary of the requirements and process for those travelling to Hong Kong unde
 
 ### 1. Eligibility 
 
-Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong.
+Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements) before departing for Hong Kong.
 
 Persons travelling to Hong Kong under the ATB arrangement must ensure that they meet the entry requirements of Hong Kong below.
 
@@ -87,7 +87,7 @@ Persons travelling to Hong Kong under the ATB arrangement must ensure that they 
                   </li>                                                
       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">the QR code confirming booking and payment for the post-arrival COVID-19 PCR test at Hong Kong International Airport</li>                                                           
        </ol> 
-Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong in the last 14 days prior to departure to Hong Kong. <br/><br/>
+Airlines will also check that travellers have no travel history to any place other than Singapore or Hong Kong in the last 14 days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements) prior to departure to Hong Kong. <br/><br/>
 <b>Travellers who do not meet any of the above requirements may be refused boarding by the airline.</b>                              
    </td>
   </tr>
@@ -133,7 +133,7 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 In order to be eligible to take a designated ATB flight, they are required to:
 
 <ol style="margin-top:0px; list-style-type:disc;">
-         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.5;">remain in Hong Kong and/or Singapore in the last 14 consecutive days before departure from Hong Kong; and </li> 
+         <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.5;">remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements) before departure from Hong Kong; and</li> 
           <li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
             <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:20px; margin-top:10px; margin-bottom:0px;line-height:1.5;">Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li> 
