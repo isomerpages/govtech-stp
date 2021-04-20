@@ -68,6 +68,9 @@ Please note that the ATP is not an immigration visit pass. It only allows visito
 
 All applications for extension of visit pass must be submitted online using ICA’s e-service <a href="https://eservices.ica.gov.sg/esvclandingpage/extend">here</a> at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
 
+
+<div id="FAQ11"></div>
+
 #### 11. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
 No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP to travel from Hong Kong to Singapore under the Air Travel Bubble (ATB) arrangement. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
