@@ -3,6 +3,10 @@ title: Travelling to Singapore
 permalink: /arriving/overview
 ---
 
+#### *Travellers that had ben in India, the United Kingdom or South Africa in the past 14 days prior to arriving in Singapore will need to serve a 14-day SHN at an SDF and a further 7-day SHN at their place of residence; 
+
+#### A COVID-19 PCR test will be conducted at the end ofeach SHN
+
 ## General Entry from All Countries/Regions
 For travellers arriving from <u>all countries/regions</u>, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
 
