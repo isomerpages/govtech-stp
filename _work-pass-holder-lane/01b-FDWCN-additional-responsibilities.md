@@ -40,6 +40,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 </ol>   
     </td>
@@ -55,7 +56,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </ol> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
-      <tr>
+    <!--  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
   <ol style="margin-top:0px; list-style-type:disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
@@ -64,12 +65,12 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice.</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">&nbsp;</td>
-  </tr>
+  </tr>-->
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
@@ -84,22 +85,33 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Dedicated SHN facilities</li>        
   </ol>      
       </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over</li>
 </ol> </td>
-    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
+    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-3-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
+       <ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours</b></li>
+           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
+      </ol>
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at dedicated SHN facilities</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
-</ol> </td>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at SDFs</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over
+      <br/><br/> Additional procedures for FDWs/CNs with travel history to India, South Africa or United Kingdom. <ol style="margin-top:0px; list-style-type:disc;">
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For those entering Singapore from 22 Apri 2021, 23:59 hours,</b> after their 14-day SHN at SDFs, they must serve an additional 7-day SHn at a place of residence or hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>(Only for FDWs/CNs from India)</b> For those who have not completed their 14-day SHN by 22 April 2021, 23:59 hours, they will also be subject to the additional 7-day SHN.</li>
+              </ol>
+      </li>
+</ol> </td> 
   </tr>
     </tbody>
 </table>
+
+<i><b>Note: </b></i> Due to the worsening situaton in India an emergence of new virus variants, entry approvals for foreigners entering from India will be reduced.
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
 
@@ -113,6 +125,7 @@ Employers/employment agencies must:
 - Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that she doesn't need to leave her SHN accommodation. 
 
 <div id="FDWCNResponsibiities"></div>
+
 <u><b>What FDWs and CNs must do during their SHN</b></u>
 
 FDWs and CNs must:

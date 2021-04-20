@@ -1,9 +1,10 @@
+
+
 ## Eligibility
 
 #### 1. Who is eligible to travel to Hong Kong under the Air Travel Bubble (ATB) arrangement?
 
-Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive 
-Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
+Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong. Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
 - staying in Singapore and/or Hong Kong in the last 14 days before departure
 - taking a designated ATB flight from Singapore to Hong Kong
 - undergoing a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government
@@ -92,7 +93,7 @@ Travellers can register and pay for the post-arrival COVID-19 PCR test via a web
 
 #### 14. What happens if Singapore Citizens / Permanent Residents / Long-Term Pass holders are unable to get a flight ticket on a flight designated by the Singapore Government and Hong Kong Government under the ATB to travel to Singapore?
 
-If you are unable to get a flight ticket on a designated ATB flight, you may still take a non-designated flight to travel to Singapore. However, you will be required to serve a 7-day SHN at your own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on SHN and COVID-19 test requirements upon entry into Singapore, please refer [here](https://safetravel.ica.gov.sg/health/).
+If you are unable to get a flight ticket on a designated ATB flight, you may still take a non-designated flight to travel to Singapore. However, you will be required to undergo an on-arrival COVID-19 PCR test at Changi Airport, serve a 7-day SHN at your own accommodation upon entry into Singapore and undergo a COVID-19 PCR test during the SHN period. For more information on SHN and COVID-19 test requirements upon entry into Singapore, please refer [here](https://safetravel.ica.gov.sg/health/).
 
 #### 15. I am a Singapore Citizen / Permanent Resident / Long-Term Pass holder who has a negative pre-departure COVID-19 PCR test result report issued in Hong Kong, but I am travelling on a non-designated flight from Hong Kong to Singapore. Will I still be exempted from the Stay-Home Notice (SHN) requirement upon entry into Singapore?
 
