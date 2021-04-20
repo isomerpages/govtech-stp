@@ -7,7 +7,7 @@ third_nav_title: Visiting Singapore
 1. An Air Travel Pass holder must:
 
 <ol style="font-size:20px; list-style-type: lower-latin;">
-<li>Have only been in Hong Kong, or both Hong Kong and Singapore, in the last 14 consecutive days before departing from Hong Kong;</li>
+<li>Have only been in Hong Kong, or both Hong Kong and Singapore, in the last 14 consecutive days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements) before departing from Hong Kong;</li>
 
 <li>travel from Hong Kong to Singapore on a flight designated by the Singapore Government and the Hong Kong Government under the Air Travel Bubble arrangement;</li>
 
