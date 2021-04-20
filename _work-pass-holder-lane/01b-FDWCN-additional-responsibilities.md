@@ -108,9 +108,10 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       </li>
 </ol> </td> 
   </tr>
-  <i><b>Note</b></i> Due to the worsening situaton in India an emergence of new virus variants, entry approvas for foreigners entering from India will be reduced.
     </tbody>
 </table>
+
+<i><b>Note</b></i> Due to the worsening situaton in India an emergence of new virus variants, entry approvas for foreigners entering from India will be reduced.
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
 
@@ -124,6 +125,7 @@ Employers/employment agencies must:
 - Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that she doesn't need to leave her SHN accommodation. 
 
 <div id="FDWCNResponsibiities"></div>
+
 <u><b>What FDWs and CNs must do during their SHN</b></u>
 
 FDWs and CNs must:
