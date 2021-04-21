@@ -1,8 +1,4 @@
----
-title: Requirement and Process
-permalink: /hongkong/atb/visithk-requirements-and-process
-third_nav_title: Visiting Hong Kong
----
+
 
 ### AIR TRAVEL BUBBLE - VISITING HONG KONG
 
