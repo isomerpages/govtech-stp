@@ -7,7 +7,7 @@ permalink: /atp/overview
 
 The Air Travel Pass (ATP) enables foreigners who are short-term visitors departing from the countries/regions listed below to seek entry into Singapore.
 
-Those seeking entry into Singapore under the Air Travel Bubble arrangement should also apply for an ATP.
+<!--Those seeking entry into Singapore under the Air Travel Bubble arrangement should also apply for an ATP.-->
 
 Please click on the relevant links below for more information about the ATP.
 
@@ -33,12 +33,12 @@ Please click on the relevant links below for more information about the ATP.
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/brunei/atp/faq">Click here</a></td>
   </tr>
-  <tr>
+<!--  <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Hong Kong</b></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/hongkong/atb/visitingsg-requirements-and-process">Click here</a></td>
       <td style="text-align:center;"><a href="/hongkong/atb/terms-and-conditions">Click here</a></td>
       <td style="text-align:center;"><a href="/hongkong/atb/visitingsg-faq">Click here</a></td>
-  </tr>
+  </tr>-->
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China</b></td>
     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
@@ -66,11 +66,11 @@ Please click on the relevant links below for more information about the ATP.
   </tbody>
   </table>
 
-## Travelling to Air Travel Bubble Countries / Regions
+<!--## Travelling to Air Travel Bubble Countries / Regions-->
  
-Please click on the relevant links below for more information on departure from Singapore on the Air Travel Bubble arrangement.
+<!--Please click on the relevant links below for more information on departure from Singapore on the Air Travel Bubble arrangement.-->
 
-<table>
+<!--<table>
 <thead>
   <tr>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
@@ -80,11 +80,11 @@ Please click on the relevant links below for more information on departure from 
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Hong Kong</b></td>
-        <td style="text-align:center;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/hongkong/atb/visithk-requirements-and-process">Click here</a></td>
+        <td style="text-align:center;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/hongkong/atb/visithk-requirements-and-process">Click here</a></td>-->
        <!--<td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"><a href="/atp/conditions">Click here</a></td>
     <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"><a href="/vietnam/atp/faq">Click here</a></td>-->
-  </tr>
+ <!-- </tr>
   </tbody>
-  </table>
+  </table>-->
 
 
