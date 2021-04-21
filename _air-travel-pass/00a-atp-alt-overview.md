@@ -66,25 +66,4 @@ Please click on the relevant links below for more information about the ATP.
   </tbody>
   </table>
 
-<!--## Travelling to Air Travel Bubble Countries / Regions-->
- 
-<!--Please click on the relevant links below for more information on departure from Singapore on the Air Travel Bubble arrangement.-->
-
-<!--<table>
-<thead>
-  <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Departure and Return Requirements & Process</th>
-  </tr>
-</thead>
-<tbody>
-<tr>-->
-   <!-- <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Hong Kong</b></td>
-        <td style="text-align:center;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/hongkong/atb/visithk-requirements-and-process">Click here</a></td>-->
-       <!--<td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"><a href="/atp/conditions">Click here</a></td>
-    <td style="border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; text-align:center;"><a href="/vietnam/atp/faq">Click here</a></td>-->
- <!-- </tr>
-  </tbody>
-  </table>-->
-
 
