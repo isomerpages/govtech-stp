@@ -8,7 +8,7 @@ The Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane (FTL) is a
  <li>Reunite with immediate family members or spouse-to-be of an SC/PR;</li>
  <li>Complete formalities for long-term immigration facilities; or</li>
  <li>Handle family emergencies, e.g. death of a family member in Singapore.</li>
-</ul><br/>
+</ul>
 SC/PRs are not required to seek approval to enter Singapore. However, those who are returning to Singapore should note the entry processes under the <a href="https://safetravel.ica.gov.sg/sc-pr/requirements-and-process">Returning SC/PR lane</a> instead.<br/>
 
 
