@@ -3,7 +3,7 @@ title: Overview
 permalink: /atp/overview
 ---
 
-## Air Travel Pass / Air Travel Bubble
+## Air Travel Pass
 
 The Air Travel Pass (ATP) enables foreigners who are short-term visitors departing from the countries/regions listed below to seek entry into Singapore.
 
