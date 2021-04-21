@@ -70,7 +70,7 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-    <i>[Notice] The entry of travellers is staggered to manage COVID-19 importation risk. If there are no available entry dates, you may wish to defer travel plans until the situation has stabilised and other entry dates become available.</i><br/>
+    <i><span style= "color:red;"> [Notice] The entry of travellers is staggered to manage COVID-19 importation risk. If there are no available entry dates, you may wish to defer travel plans until the situation has stabilised and other entry dates become available.</span></i><br/><br/>
     <u>Application via SafeTravel Portal</u>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using Singpass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
 </p>
