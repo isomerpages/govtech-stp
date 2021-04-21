@@ -75,7 +75,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8 "><b>Travel history</b> </td>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">
                 <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements) before departing for Singapore</li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any compulsory quarantine in Hong Kong, arising from the visitor’s last return to Hong Kong, or compulsory Stay-Home Notice (SHN) period in Singapore, arising from the visitor’s last return to Singapore) before departing for Singapore.</li>
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Monitor their health status before departure; visitors should not travel to Singapore if they: 
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-roman;">
             <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
@@ -97,7 +97,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><ul style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated flight from Hong Kong to Singapore, at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
       <ol style="margin-top:0px; list-style-type:lower-roman;">
-        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken</li>
@@ -138,7 +138,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>TraceTogether app</b> </td>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and personal details on the app. Visitors must register their profile on the app with the same identification number, nationality/citizenship and date of birth as those shown in the passport/travel document that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
 </li>
      </ol>
                <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <i> Note: The following groups are not required to download the TraceTogether app:</i></p>
@@ -157,6 +157,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
                 <i>Note: Children aged 6 years old or younger in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i>
              </td>
             </tr>
+            <tr>
+ <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Vaccination requirement (if applicable)</b> </td>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"> 
+Visitors should refer to Hong Kong’s website <a href="https://www.tourism.gov.hk/travel-bubble/en/singapore.html">here</a> to check whether they are required to be vaccinated before travelling from Hong Kong to Singapore.
+             </td>
+            </tr>
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of Departure to Singapore</th>
@@ -168,9 +174,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors)</li>
+                  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid vaccination certificate (if required by the Hong Kong Government)</li>
       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
@@ -207,7 +214,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors);</li>
       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document);</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">The date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
@@ -271,7 +278,7 @@ Visitors are responsible for their medical bills should they require medical tre
   
 Visitors who have travelled to Singapore on the ATP and intend to return to Hong Kong after their stay in Singapore, should ensure that they meet Hong Kong’s entry requirements.
 
-Please refer to the details on Hong Kong's website <a href="https://www.tourism.gov.hk/travel-bubble/en/singapore.html" target="_blank">here</a> for information about returning to Hong Kong under the Air Travel Bubble arrangement.
+Please refer to the details on Hong Kong's website <a href="https://www.tourism.gov.hk/travel-bubble/en/hongkong.html" target="_blank">here</a> for information about returning to Hong Kong under the Air Travel Bubble arrangement.
  
 -----
 
@@ -293,6 +300,6 @@ Visitors who can download the TraceTogether app but are unable to obtain an SMS 
  <br/> <br/>
 Visitors who have rented a mobile device or booked a Singapore SIM card from Changi Recommends must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
  <br/> <br/>
-Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to do so may be denied entry into Singapore by ICA.</b>
+Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the <b>same identification number, nationality/citizenship and date of birth</b> as those shown in the passport/travel document that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to do so may be denied entry into Singapore by ICA.</b>
  
 
