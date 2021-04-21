@@ -182,7 +182,7 @@ Singapore Citizens (SC) and Singapore Permanent Residents (PR) may enter Singapo
 <ul style="font-size:18px; list-style-type:none;">
 <li>- <a href="/wphl/overview">Work Pass Holder General Lane</a>;</li> 
 <li>- <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>; or</li>
-<li>- <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a></li>
+<li>- <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
 </ul>
 
 #### 20. Why must visitors take designated ATB flights from Hong Kong to Singapore?
