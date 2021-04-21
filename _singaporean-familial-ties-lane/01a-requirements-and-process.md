@@ -127,8 +127,17 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
   </thead>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction Test (“PCR test”) </b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-SC/PR travellers arriving in Singapore from countries/regions with higher assessed risk of COVID-19 importation must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure to Singapore. The test should be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure, and the traveller is also required to obtain an English certificate for a negative COVID-19 PCR test.
-  <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers can refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out if they are required to take a PCR test prior to arrival in Singapore.</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-SC/PR travellers arriving in Singapore from countries/regions with higher assessed risk of COVID-19 importation must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure to Singapore. Travellers can refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out if they are required to take a PCR test prior to arrival in Singapore.<br/><br/>
+     
+To travel to Singapore, travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test,  travellers should ask for a copy of the COVID-19 PCR test report that:
+
+<div id="testresults"></div>
+
+<ol style="font-size:16px; list-style-type: lower-roman;">
+ <li>Is in English (or accompanied with an English translation);</li>
+ <li>Contains the traveller's name, and date of birth or passport number (per the passport used to travel to Singapore); and</li>
+ <li>Reflects the date and result of the PCR test.</li>
+</ol>
       </td>          
    </tr>
     <tr>
@@ -155,7 +164,7 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa to enter Singapore (for visa-required travellers); and
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Negative <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> result taken within 72 hours at an accredited/authorised testing facility before departure to Singapore (if applicable).
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/scpr-familial-ties-lane/requirements-and-process#testresults">Negative COVID-19 PCR test</a> result taken within 72 hours at an accredited/authorised testing facility before departure to Singapore (if applicable).
        </li>
       </ol>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
