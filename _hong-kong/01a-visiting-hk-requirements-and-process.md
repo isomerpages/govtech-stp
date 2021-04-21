@@ -117,7 +117,7 @@ Should travellers, who are non-Hong Kong residents, become COVID-19 positive whi
  
 #### After staying in Hong Kong, travellers may return to Singapore using the ATB or proceed on to another country/region.  
  
-For travellers returning to Singapore on the ATB, there is no need to apply for an Air Travel Pass to enter Singapore. However, <u>Long-Term Pass holders will have to seek entry approval before travelling to Singapore (please apply via the Work Pass Holder General Lane, Student’s Pass Holder Lane or Familial Ties Lane depending on your pass type)</u>.  
+For travellers returning to Singapore on the ATB, there is no need to apply for an Air Travel Pass to enter Singapore. However, <u>Long-Term Pass holders will have to seek entry approval before travelling to Singapore (please apply via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a> or <a href="/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> depending on your pass type)</u>.  
  
 Singapore Citizens, Permanent Residents, and Long-Term Pass holders may take either:
 
