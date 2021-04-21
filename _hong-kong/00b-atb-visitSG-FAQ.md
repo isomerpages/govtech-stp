@@ -1,8 +1,3 @@
----
-title: Frequently Asked Questions
-permalink: /hongkong/atb/visitingsg-faq
-third_nav_title: Visiting Singapore
----
 
 <div id="top"></div>
 
