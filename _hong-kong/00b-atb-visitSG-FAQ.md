@@ -23,13 +23,13 @@ third_nav_title: Visiting Singapore
 
 #### 1. When can visitors start applying for an ATP?
 
-Visitors can apply for an ATP from [Date], XXXXhrs, Singapore time (GMT +8), for entry into Singapore on or after [Date].
+Visitors can apply for an ATP from 22 April 2021, 1130hrs, Singapore time (GMT +8), for entry into Singapore on or after 19 May 2021.
 
 #### 2. How can visitors apply for an ATP?
 
 Applications for the ATP can be made between 7 and 30 calendar days prior to the intended date of entry into Singapore.
 
-For example, visitors who intend to enter Singapore on [Date] must apply for an ATP between [Date] and [Date].
+For example, visitors who intend to enter Singapore on 31 May 2021 must apply for an ATP between 1 May 2021 and 24 May 2021.
 
 #### 3. How long will it take for an ATP application to be processed?
 
@@ -52,7 +52,8 @@ If submitting multiple ATP applications, visitors should ensure that the intende
 #### 7. How long is the validity of an ATP?
 
 An ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
-For example, visitors who hold a valid ATP to enter Singapore on [Date], have up to [Date] to do so should they need to make changes to their flight departure date.
+
+For example, visitors who hold a valid ATP to enter Singapore on 1 June 2021, have up to 8 June 2021 to do so should they need to make changes to their flight departure date.
 
 #### 8. Once an ATP application is approved, can the relevant authorities change the conditions of travel or even cancel the ATP?
 
@@ -60,7 +61,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### 9. How long can visitors stay in Singapore?
 
-Visitors who are granted entry into Singapore will be issued with a visit pass by the Singapore Immigration & Checkpoints Authority (ICA) at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
+Visitors who are granted entry into Singapore will be issued with a visit pass by the Singapore Immigration & Checkpoints Authority (ICA) at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport/travel document holder prior to the COVID-19 pandemic.
 
 Please note that the ATP is not an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
 
@@ -88,10 +89,10 @@ For those travelling from Hong Kong to Singapore on a flight designated by the S
 
 To be eligible to take a designated ATB flight, they are required to:
 <ul style="font-size:18px; list-style-type:disc;">
-<li>remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements) before departure from Hong Kong; and</li>
+<li>remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any compulsory quarantine in Hong Kong, arising from the visitor’s last return to Hong Kong, or compulsory Stay-Home Notice (SHN) period in Singapore, arising from the visitor’s last return to Singapore) before departure from Hong Kong; and</li>
 <li>undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore at one of the <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> recognised by the Hong Kong Government, and obtain a test result certificate in English stating the following:
 <ul style="font-size:18px; list-style-type:circle;">
-<li>Traveller’s name, date of birth, and passport number (as indicated in his/her passport);</li>
+<li>Traveller’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document);</li>
 <li>A negative COVID-19 PCR test result;</li>
 <li>Date and time when the COVID-19 PCR test was taken; and</li>
 <li>Name of the testing institution where the test was taken.</li>
@@ -168,7 +169,7 @@ Having an ATP does <b>not</b> guarantee visitors a flight ticket on a designated
 
 #### 18. Am I eligible to travel on the designated ATB flight if I had been quarantined in Hong Kong within the last 14 days prior to my departure to Singapore? 
 
-As set out in ATP [Conditions](/hongkong/atb/terms-and-conditions), an ATP holder must remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any period that was spent in quarantine in Hong Kong or Singapore due to border control requirements).
+As set out in ATP [Conditions](/hongkong/atb/terms-and-conditions), an ATP holder must remain in Hong Kong and/or Singapore in the last 14 consecutive days (excluding any compulsory quarantine in Hong Kong, arising from the visitor’s last return to Hong Kong, or compulsory Stay-Home Notice (SHN) period in Singapore, arising from the visitor’s last return to Singapore).
 
 If you had travelled outside Hong Kong and had been quarantined upon arrival in Hong Kong due to border control requirements, you would not be eligible to travel on a designated ATB flight, until you have spent 14 days in Hong Kong outside of quarantine. This does not include quarantine resulting from non-border control related requirements.
 
@@ -199,11 +200,11 @@ The quota is allocated to designated ATB flights, which have been agreed between
 
 Visitors must undergo a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of their designated ATB flight from Hong Kong to Singapore and be tested negative for COVID-19.
 
-For example, if the scheduled departure date and time of the visitor’s designated ATB flight is [Date], 1030hrs, the test must be taken no earlier than [Date], 1030hrs.
+For example, if the scheduled departure date and time of the visitor’s designated ATB flight is 31 May 2021, 1030hrs, the test must be taken no earlier than 28 May 2021, 1030hrs.
 
 The pre-departure COVID-19 PCR test must be taken at one of the testing institutions in Hong Kong recognised by the Hong Kong Government. The list of recognised testing institutions can be found <a href="https://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">here</a>. The test result certificate must be in English and state the following:
 <ul style="font-size:18px; list-style-type:disc;">
-<li>Visitor’s name, date of birth, and passport number, as indicated in his/her passport;</li>
+<li>Visitor’s name, date of birth, and passport/travel document number, as indicated in his/her passport/travel document;</li>
 <li>a negative COVID-19 PCR test result;</li>
 <li>the date and time when the COVID-19 PCR test was taken; and</li>
 <li>the name of the testing institution where the COVID-19 PCR test was taken.</li>
@@ -306,7 +307,7 @@ Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://www
 
 #### 37. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 
-Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 14 days prior to departure for Singapore.
+Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 14 days (excluding any compulsory quarantine in Hong Kong, arising from the visitor’s last return to Hong Kong, or compulsory Stay-Home Notice (SHN) period in Singapore, arising from the visitor’s last return to Singapore) prior to departure for Singapore.
 
 Please also note that if the visitor’s test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
 
@@ -330,7 +331,7 @@ Visitors who are (i) children aged 12 or younger in that calendar year and trave
 
 #### 40. After downloading the TraceTogether app, how do I activate it?
 
-After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that you are using to enter Singapore. 
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the <b>same identification number, nationality/citizenship  and date of birth</b> as those shown in the passport/travel document  that you are using to enter Singapore. 
 
 Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. <b>You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore.</b> Follow the instructions until you reach the Home Screen.
 
@@ -359,9 +360,10 @@ Please check that your app has been updated to the latest version.
 
 You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag after clearing immigration before you can activate the app.
  
-If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. Follow the instructions to be navigated back to the Holding Screen.
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality/citizenship and date of birth as those shown in the passport/travel document that you have used to enter Singapore. Follow the instructions to be navigated back to the Holding Screen.
 
-You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+You can edit your passport/travel document details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+
 
 <img src="/images/TT_6.png" style="width:179px; height:318px;">
 
@@ -381,7 +383,7 @@ All visitors must have a mobile device to download the TraceTogether app. They a
 
 Visitors, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
 
-Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality/citizenship and date of birth as those shown in the passport/travel document that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
 
 Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 14 consecutive days after departing Singapore.
 
@@ -391,7 +393,7 @@ Children aged 12 or younger in that calendar year and travelling with parent/gua
 
 Visitors who can download the TraceTogether app but are unable to obtain an SMS OTP to register their profile on the app due to network restrictions, can book a Singapore SIM card from the Changi Recommends website <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
 
-Visitors can pay for and collect their Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate their Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+Visitors can pay for and collect their Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate their Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and the same identification number, nationality/citizenship and date of birth as those shown in the passport/travel document that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
 
 Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from the TraceTogether app requirement. Visitors with a certified disability or special need are also exempted.
 
@@ -437,7 +439,7 @@ Please ensure that the booked date and time of your COVID-19 test meets the entr
 Please bring along the following documents for your appointment:
 <ol style="font-size:18px; list-style-type: lower-roman;">
 <li>Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass holders only)</li>
-<li>Passport (for all travellers);</li>
+<li>Passport/travel document (for all travellers);</li>
 <li>Electronic or physical copy of ATP approval letter; and</li>
 <li>Electronic or physical copy of departure flight ticket</li>
 </ol>
@@ -463,9 +465,10 @@ When checking in at the departure airport, visitors must present the following t
 <ol style="font-size:18px; list-style-type:disc;">
 <li>a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;</li>
 <li>a valid visa (for visa-required visitors);</li>
+<li>valid vaccination certificate (if required by the Hong Kong Government);</li>
 <li>a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="font-size:18px; list-style-type:none;">
-<li>Visitor’s name, date of birth, and passport number (as indicated in his/her passport)</li>
+<li>	Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
 <li>A negative COVID-19 PCR test result;</li>
 <li>Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
 <li>Name of the testing institution where the test was taken, which must be from the list of recognised testing institutions in Hong Kong</li>
@@ -479,7 +482,7 @@ Children aged 6 years old or younger in that calendar year are not required to u
 
 A visitor who does not have any of the above may be refused boarding by the airline.
 
-For visitors who do not have mobile devices that can download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 42 and 43.
+For visitors who do not have mobile devices that can download the TraceTogether app or are unable to receive an SMS One-Time Password to register their profile on the TraceTogether app, please refer to Questions 43 and 44.
 
 #### 55. Can visitors use the ATP to transit / transfer through Singapore?
 
