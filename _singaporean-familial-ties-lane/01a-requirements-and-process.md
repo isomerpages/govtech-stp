@@ -135,7 +135,7 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
 
 <ol style="font-size:16px; list-style-type: lower-roman;">
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
- <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and date of birth or passport number (per the passport used to travel to Singapore); and</li>
+ <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the PCR test.</li>
 </ol>
       </td>          
