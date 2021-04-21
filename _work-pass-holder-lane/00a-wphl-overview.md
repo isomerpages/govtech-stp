@@ -4,7 +4,7 @@ permalink: /wphl/overview
 ---
 
 <b><span style="color:red">[NOTICE]</span> </b> <br/>
-<b><span style="font-size:16px; line-height:1.0; color:red;">Pass holders' entry into Singapore are staggered to manage COVID-19 importation risk. If there are no available entry dates, pass holders and their employers may wish to defer travel plans until the situation has <u>stabilised</u>.
+<b><span style="font-size:16px; line-height:1.0; color:red;">Pass holders' entry into Singapore are staggered to manage COVID-19 importation risk. If there are no available entry dates, pass holders and their employers may wish to defer travel plans until the situation has stabilised.
 </span></b><br/>
 
 ## Overview 
