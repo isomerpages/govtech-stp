@@ -68,7 +68,12 @@ The following groups should **not** apply for entry through the STPHL:
   </thead>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test </b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers, including but not limited to Long Term Pass Holders (LTPH) and short-term visitors, who have spent the last 14 consecutive days in certain countries/regions, as listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore  <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">authorised health centre</a> designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result in English.
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers, including but not limited to Long Term Pass Holders (LTPH) and short-term visitors, who have spent the last 14 consecutive days in certain countries/regions, as listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore  <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">authorised health centre</a> designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result, that:
+      <ol style="list-style-type: lower-roman;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and the result of the PCR test.</li>
+      </ol>
       </td>          
    </tr>
     <tr>
