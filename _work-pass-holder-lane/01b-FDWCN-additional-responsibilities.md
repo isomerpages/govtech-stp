@@ -103,7 +103,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to India who:</b>
                 <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Enter Singapore before 23 April 2021, 23:59 hours:</b> must complete a 21-day SHN at SDFs.</li>
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>ave not completed their 14-day SHN by 22 April 2021, 23:59hours:  </b>Will also be subject to the additional 7-day SHN.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Have not completed their 14-day SHN by 22 April 2021, 23:59hours:  </b>Will also be subject to the additional 7-day SHN.</li>
                 </ul>
               </li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to South Africa or United Kingdom:</b>
