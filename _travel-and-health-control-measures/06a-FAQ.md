@@ -175,8 +175,6 @@ In general, travellers who are required to take a PCR test must do so <u>within 
 
 #### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to have a valid negative COVID-19 test result?
 
-Only travellers transiting in Singapore from India / Indonesia / Philippines are required to present a negative COVID-19 PCR test result.
-
 Due to the fast-evolving epidemiological situation, travellers should confirm with the airline on their transit details/requirements.
 
 #### 3. What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
