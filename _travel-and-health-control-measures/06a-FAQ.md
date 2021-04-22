@@ -72,6 +72,19 @@ For travellers who are not yet in Singapore or for request that the SDF is unabl
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
+#### 10. I require to use a nebuliser for management of my medical condition, what must I do before I enter Singapore?
+All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
+
+The declaration would not affect your entry approval status/application for entry into Singapore. The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act.
+
+In addition, travellers would be required to arrange for a tele-consultation upon arrival at their stay-home notice location for assessment on conversion to an inhaler/spacer.
+
+#### 11. I require to use a nebuliser for management of my medical condition, would I be allowed entry into Singapore?
+Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
+
+The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act.
+
+
 <div id="transport"></div>
 
 ## Transport Arrangements During SHN
@@ -175,6 +188,8 @@ In general, travellers who are required to take a PCR test must do so <u>within 
 
 #### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to have a valid negative COVID-19 test result?
 
+Only travellers transiting in Singapore from Indonesia & Philippines are required to present a negative COVID-19 PCR test result.
+
 Due to the fast-evolving epidemiological situation, travellers should confirm with the airline on their transit details/requirements.
 
 #### 3. What will happen if I arrive in Singapore and do not have a valid negative PCR test certificate?
@@ -233,7 +248,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="outboundPDT"></div>
 
-## Pre-Departure Tests for Travellers Departing from Singapore
+## Pre-Departure Test for Travellers Departing from Singapore
 
 #### 1. I have been vaccinated in Singapore. Am I still required to take a pre-departure test to leave the country?
 Travellers who have been vaccinated in Singapore should check with the authorities of the destination country/region, on whether they are still required to take a pre-departure test before arrival.
