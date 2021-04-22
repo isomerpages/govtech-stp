@@ -94,8 +94,8 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over
       <br/><br/> <b>Additional procedures for pass holders with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore:</b> 
               <ol style="margin-top:0px; list-style-type:disc;">
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to India who: </b><br/><br/> Enter Singapore after 23 Apri 2021, 23:59 hours: must complete a 21-day SHN, they will take 2 COVID-19 swab tests. <br/><br/> Have not completed their 14-day SHN by 22 April 2021, 2359 hours: will also be subject to the 21-day SHN at SDFs.</li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to South Africa or United Kingdom:</b> <br/><br/> Entering Singapore from 22 April 2021, 23:59 hours: After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at home or a hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to India who: </b><br/><br/> <b>Enter Singapore after 23 Apri 2021, 23:59 hours:</b> must complete a 21-day SHN, they will take 2 COVID-19 swab tests. <br/><br/> Have not completed their 14-day SHN by 22 April 2021, 2359 hours: will also be subject to the 21-day SHN at SDFs.</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to South Africa or United Kingdom:</b> <br/><br/> <b>Entering Singapore from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at home or a hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
               </ol>
       </li>
 </ol> 
