@@ -50,7 +50,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 </td>
     </tr>
         <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers <!-- except those with travel history in the last 14 days to India--></b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers <!--except those with travel history in the last 14 days to India--></b>
 </td>
     </tr>
     <tr>
