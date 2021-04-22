@@ -19,7 +19,7 @@ permalink: /scpr-familial-ties-lane/FAQ
 
 Eligible applicant will receive the SafeTravel Pass (STP) via email after making the necessary payment (if applicable) for the stay at the SHN Dedicated Facility (SDF) and COVID-19 swab test at the end of the application  via the SafeTravel Portal. 
 
-If you did not receive the email with the STP after making the payment at the end of the application, plese write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry), with the receipt of the payment made and the details of the applicant. 
+If you did not receive the email with the STP after making the payment at the end of the application, please write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry), with the receipt of the payment made and the details of the applicant. 
 
 <div id="ale"></div>
 
@@ -27,7 +27,7 @@ If you did not receive the email with the STP after making the payment at the en
 
 #### 2. I am not eligibe to apply for entry under the Familial Ties Lane and would like to submit an appeal to ICA for entry in Singapore as a short-term visitor, what should i do?
 
-Fr non-residents with exceptional reasons (e.g. death of a family member in Singapore) to seek entry into Singapore may write to us via the [enquiry form](https://go.gov.sg/sto-enquiry) with the relevant supporting documents to facilitate smooth processing (e.g. Doctor's memo, death certificate, traveller's passport biodata page). ICA wil respond to he request at the eariest time possible an epeddite the approval if the appciant is eligible for enry, based on our assesment.
+For non-residents with exceptional reasons (e.g. death of a family member in Singapore) to seek entry into Singapore may write to us via the [enquiry form](https://go.gov.sg/sto-enquiry) with the relevant supporting documents to facilitate smooth processing (e.g. Doctor's memo, death certificate, traveller's passport biodata page). ICA wil respond to the request at the earliest time possible and expedite the approval if the applicant is eligible for enry, based on our assesment.
 
 #### 3. My entry request was rejected. How can i make an appeal? 
 
@@ -39,7 +39,7 @@ Please note that the outcome of a re-appeal will remain the same if there are no
 
 ### Approved SafeTravel Pass (STP)
 
-#### 4. I reased that there is an error in the name and passport details on my approved STP, how can i amend the details?
+#### 4. I realised that there is an error in the name and passport details on my approved STP, how can i amend the details?
 
 Please write to us using the enquiry form [here](https;//go.gov.sg/sto-enquiry) with the STP reference number and explaining the details of the error. Kindly also include a copy of the applicant passport biodata page.
 
@@ -78,9 +78,9 @@ Travvel insurance covering COVID-19 is not mandatory for travellers entering Sin
 
 #### 11. I have received a COVID-19 vaccination. Will I still be subjected to prevailing border measures and stay-home-notice requirement? 
 
-Please refer to the FAQ on vaccinated travellers [here](https://safetravel.ica.gov.sg/health/faq#vaccinated)
+Please refer to the FAQ on vaccinated travellers [here](https://safetravel.ica.gov.sg/health/faq#vaccinated).
 
 #### 12. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can i still visit Singapore? 
 
-Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be dvised acccordingly on the need to fulfil the SHN requirements
+Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be advised acccordingly on the need to fulfil the SHN requirements.
 
