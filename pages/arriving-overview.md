@@ -50,7 +50,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd; background-color:#EDEDED"><b>Periodic Commuting Between Malaysia and Singapore</b></td>
  </tr>
   <tr>
-  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">All countries/regions <!--except UK and South Africa--></td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">All countries/regions except India</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd">&nbsp;</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="https://safetravel.ica.gov.sg/connectsg/overview">Connect@SG</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>

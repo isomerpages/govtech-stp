@@ -13,7 +13,7 @@ third_nav_title: SDF Opt-out for SC/PR
 - Are occupying their place of residence (i.e. residential address*) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
 - There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
 
-<sup>*</sup>Excludes hotels, serviced apartments and otehr temporary forms of accommodation (including AirBnB accommodation).
+<sup>*</sup>Excludes hotels, serviced apartments and other temporary forms of accommodation (including AirBnB accommodation).
 
 3. **For Singapore Citizens (SCs) and Permanent Residents (PRs), the application must be made at least three (3) days prior to arrival via <a href="https://go.gov.sg/scproptoutsdf"> here </a> . Upon successful submission, they will receive an approval letter from the Safe Travel Office via email. The approval letter takes effect two days after the date of the approval, and is valid for only one month thereafter. To illustrate, if the approval letter is dated 2 Nov 20, it is effective only from 4 Nov 20 and valid up to 4 Dec 20. Non-SCs/PRs who wish to apply to opt-out of SHN Dedicated Facilities (SDF) must do so separately as part of their entry approval application process.** <br/><br/>
 
