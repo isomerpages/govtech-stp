@@ -106,7 +106,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to India:</b>
                 <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Who have not completed their 14-day SHN <b>by 22 April 2021, 23:59hours:</b>Will also be subject to the additional 7-day SHN.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Who have not completed their 14-day SHN <b>by 22 April 2021, 23:59hours </b>Will also be subject to the additional 7-day SHN.</li>
                 </ul>
               </li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to South Africa or United Kingdom:</b>
