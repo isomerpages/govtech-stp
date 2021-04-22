@@ -83,7 +83,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at: 
       <ol style="margin-top:0px; list-style-type:disc;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence upon approval</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Dedicated SHN facilities</li>        
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN Dedicated facilities (SDFs)</li>        
   </ol>      
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over</li>
