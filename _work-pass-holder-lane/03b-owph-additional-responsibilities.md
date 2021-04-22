@@ -98,7 +98,9 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Enter Singapore before 23 April 2021, 23:59 hours:</b> must complete a 21-day SHN at SDFs.</li>
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Have not completed their 14-day SHN by 22 April 2021, 23:59hours:  </b>Will also be subject to the additional 7-day SHN.</li>
                 </ul></li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to South Africa or United Kingdom:</b> <br/><br/> <b>Entering Singapore from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at home or a hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to South Africa or United Kingdom:</b>   <ul style="margin-top:0px; list-style-type:disc;">
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at a hotel or their employers' houses (only allowed for existing FDWs). They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+                </ul>  </li>
               </ol>
       </li>
 </ol> 
