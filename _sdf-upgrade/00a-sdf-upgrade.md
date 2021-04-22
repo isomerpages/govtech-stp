@@ -15,7 +15,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 14 days to certain countries/regions before booking their suite. 
 
-**Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is $345 ($300 for specialised cleaning costs for the vacated room; $150/vehicle for transport to the next SDF).
+**Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF).
  
 **Step 4:** Travellers (including Singapore Citizens and Permanent Residents) will pay for the full cost of the suite directly to the SDF during check-in. Travellers who have already paid the default SDF cost when applying for entry approval or a SafeTravel Pass will pay the difference in cost directly to the SDF during check-in. 
 
@@ -129,7 +129,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 ## For Suite Bookings After Arrival
 
-**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of $345 ($300 for specialised cleaning costs for the vacated room; $150/vehicle for transport to the next SDF). 
+**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF). 
 
 **Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 14 days to certain countries/regions before booking their suite.
 
