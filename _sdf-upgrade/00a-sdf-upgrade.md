@@ -38,7 +38,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   </thead>
   <tbody>
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (for 1<sup>st</sup> person/single occupancy)^</td>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (for 1<sup>st</sup> person, for 14-day SDF stay)^</td>
          <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$5,000</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$7,500</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$13,000</td>
@@ -50,7 +50,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 </td>
     </tr>
         <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers <!--except those with travel history in the last 14 days to India--></b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers except those with travel history in the last 14 days prior to entering Singapore from India</b>
 </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history in the last 14 days to <!--India,--> South Africa and the United Kingdom</b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history in the last 14 days prior to entering Singapore from India, South Africa and the United Kingdom</b>
 </td>
     </tr>
    <tr>
@@ -86,7 +86,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
    </tr>
     <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history in the last 14 days to India, Indonesia, Philippines, South Africa and the United Kingdom</b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history in the last 14 days prior to entering Singapore from India, Indonesia, Philippines, South Africa and the United Kingdom</b>
 </td>
     </tr>
       <tr>
@@ -103,8 +103,8 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
-<!-- <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b><u>Only</u> for travellers with travel history in the last 14 days to India</b>
+<tr>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b><u>Only</u> for travellers with travel history in the last 14 days prior to entering Singapore from India <br/></br/> <u>Costs will be based on pro-ration of existing rates for a 14-day SDF stay</u></b>
 </td>
     </tr>
   <tr>
@@ -120,7 +120,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>-->
+    </tr>
   </tbody>
   </table>
   <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests. Prices may be revised periodically. In the event of a change in price, travellers will continue to pay the prevailing price at the point of booking.<br/><sup>#</sup>The typical size of a standard SDF room is 25sqm. <br/> <sup>*</sup>Subject to maximum occupancy of suites, which may vary across SDFs.</p>
@@ -129,7 +129,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 ## For Suite Bookings After Arrival
 
-**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of $450 ($300 for specialised cleaning costs for the vacated room; $150/vehicle for transport to the next SDF). 
+**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of $345 ($300 for specialised cleaning costs for the vacated room; $150/vehicle for transport to the next SDF). 
 
 **Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 14 days to certain countries/regions before booking their suite.
 
