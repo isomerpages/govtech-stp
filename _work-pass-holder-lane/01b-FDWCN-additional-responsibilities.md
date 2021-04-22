@@ -102,10 +102,19 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at SDFs</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over
-      <br/><br/> Additional procedures for FDWs/CNs with travel history to India, South Africa or United Kingdom. <ol style="margin-top:0px; list-style-type:disc;">
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For those entering Singapore from 22 Apri 2021, 23:59 hours,</b> after their 14-day SHN at SDFs, they must serve an additional 7-day SHn at a place of residence or hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>(Only for FDWs/CNs from India)</b> For those who have not completed their 14-day SHN by 22 April 2021, 23:59 hours, they will also be subject to the additional 7-day SHN.</li>
-              </ol>
+      <br/><br/> Additional procedures for FDWs/CNs with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore. <ul style="margin-top:0px; list-style-type:disc;">
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to India:</b>
+                <ul style="margin-top:0px; list-style-type:disc;">
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Who have not completed their 14-day SHN <b>by 22 April 2021, 23:59hours:</b>Will also be subject to the additional 7-day SHN.</li>
+                </ul>
+              </li>
+             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to South Africa or United Kingdom:</b>
+             <ul style="margin-top:0px; list-style-type:disc;">
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at a hotel or their employers' houses (only allowed for existing FDWs). They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+                </ul>  
+              </li>
+              </ul>
       </li>
 </ol> </td> 
   </tr>
