@@ -47,28 +47,23 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in: 
-      <ol style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels (For FDWs on in-principle approvals (IPAs) and CNs)</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers’ houses or hotels (For existing FDWs)</li>        
-  </ol>      
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) at home or hotel
       </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before SHN is over</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before7-day SHN is over</li>
 </ol> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
-    <!--  <tr>
+      <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
   <ol style="margin-top:0px; list-style-type:disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">The United Kingdom</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India (from 23 April 2021, 23:59 hours)</li>
 </ol>
 </td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice.</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">&nbsp;</td>
-  </tr>-->
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-3-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
+  </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>
@@ -79,16 +74,12 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at: 
-      <ol style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence upon approval</li>
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN Dedicated facilities (SDFs)</li>        
-  </ol>      
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test within 72 hours before departure.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at home (upon approval) or SHN dedicated facilities (SDFs). <br/><br/> After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing at designated facilities</a>
       </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
 </ol> </td>
-    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-3-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
+    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
@@ -105,7 +96,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       <br/><br/> Additional procedures for FDWs/CNs with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore. <ul style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to India:</b>
                 <ul style="margin-top:0px; list-style-type:disc;">
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at Government facilities. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at Government facilities. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Who have not completed their 14-day SHN <b>by 22 April 2021, 23:59hours:  </b>Will also be subject to the additional 7-day SHN.</li>
                 </ul>
               </li>
