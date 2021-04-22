@@ -6,7 +6,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### Overview 
 
-The Stay-Home Notice(SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
+The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
 
 In general, travellers under SHN are required to take a mandatory [COVID-19 Polymerase Chain Reaction test ("PCR Test")](/health/covid-19-tests/pcrtest) towards the end of their SHN. <b>Travellers can check their required SHN duration and required [COVID-19 tests](/health/covid19-tests) on the individual [SafeTravel Lanes pages](/arriving/overview)</b>.Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take. 
 
@@ -37,15 +37,15 @@ Reflected in the table below are four examples of how the SHN end date is typica
       </td>
     </tr>
      <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>14+7-day SHN <br/><br/> <i><u>Note:</u> Applies to travellers who had been to the <b><u>United Kingdom</u></b> and/or <b><u>South Africa</u></b> in the past consecutive days prior to arrival in Singapore.</i> </b>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>14+7-day SHN <br/><br/> <i><u>Note:</u> Applies to travellers who had been to the <b><u>United Kingdom</u></b> and/or <b><u>South Africa</u></b> in the past 14 consecutive days prior to arrival in Singapore.</i> </b>
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller C arrived in Singapore on 1 March 2021. His 14-day SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his 1st COVID-19 test result is released. The subsequent 7-day SHN will start on 15 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released.
       </td>
     </tr>
       <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>21-day SHN <br/><br/> <i><u>Note:</u> Applies to travellers who had been to <b><u>India</u></b>in the past 14 consecutive days prior to arrival in Singapore.</i> </b>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>21-day SHN <br/><br/> <i><u>Note:</u> Applies to travellers who had been to <b><u>India</u></b> in the past 14 consecutive days prior to arrival in Singapore.</i> </b>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller D arrived in Singapore on 1 March 2021. His 21-day SHN will start with immediate effect on 1 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released. In total, traveller D will take two COVID-19 PCR tests, one on the 14th day after his arrival, and another on the 20th day of his SHN
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller D arrived in Singapore on 1 March 2021. His 21-day SHN will start with immediate effect on 1 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released. In total, traveller D will take two COVID-19 PCR tests, one on the 14th day after his arrival, and another on the 20th day of his SHN.
       </td>
     </tr>
   </tbody>
