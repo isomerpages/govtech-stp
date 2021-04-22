@@ -3,6 +3,15 @@ title: Requirements and Process
 permalink: /scpr-familial-ties-lane/requirements-and-process
 ---
 
+The Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel lane primarily to support the social and community needs of Singapore Citizens and Permanent Residents, e.g. reuniting families amid the pandemic. This lane caters to both residents and non-residents who need to enter Singapore for one or more of the reasons below:
+<ul>
+ <li>Reunite with immediate family members or spouse-to-be of an SC/PR;</li>
+ <li>Complete formalities for long-term immigration facilities; or</li>
+ <li>Handle family emergencies, e.g. death of a family member in Singapore.</li>
+</ul>
+SC/PRs are not required to seek approval to enter Singapore. However, those who are returning to Singapore should note the entry processes under the <a href="https://safetravel.ica.gov.sg/sc-pr/requirements-and-process">Returning SC/PR lane</a> instead.<br/>
+
+
 ### 1. Eligibility 
 
 <span class="font-size:16px;">The traveller must be any of the following:</span>
@@ -60,7 +69,9 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 </thead>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
-   <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>Application via SafeTravel Portal</u>
+   <td style="font-size:16px; border-right:1px solid #D8D8D8;">
+    <i><span style= "color:red;"> [Notice] The entry of travellers is staggered to manage COVID-19 importation risk. If there are no available entry dates, you may wish to defer travel plans until the situation has stabilised and other entry dates become available.</span></i><br/><br/>
+    <u>Application via SafeTravel Portal</u>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using Singpass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
 </p>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants should have on hand the following details as part of the submission:
@@ -116,8 +127,17 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
   </thead>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction Test (“PCR test”) </b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-SC/PR travellers arriving in Singapore from countries/regions with higher assessed risk of COVID-19 importation must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure to Singapore. The test should be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure, and the traveller is also required to obtain an English certificate for a negative COVID-19 PCR test.
-  <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers can refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out if they are required to take a PCR test prior to arrival in Singapore.</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-SC/PR travellers arriving in Singapore from countries/regions with higher assessed risk of COVID-19 importation must take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure to Singapore. Travellers can refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out if they are required to take a PCR test prior to arrival in Singapore.<br/><br/>
+
+<div id="testresults"></div>
+
+To travel to Singapore, travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test,  travellers should ask for a copy of the COVID-19 PCR test report that:
+
+<ol style="font-size:16px; list-style-type: lower-roman;">
+ <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+ <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+ <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the PCR test.</li>
+</ol>
       </td>          
    </tr>
     <tr>
@@ -144,7 +164,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa to enter Singapore (for visa-required travellers); and
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Negative <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> result taken within 72 hours at an accredited/authorised testing facility before departure to Singapore (if applicable).
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/scpr-familial-ties-lane/requirements-and-process#testresults">Negative COVID-19 PCR test</a> result taken within 72 hours at an accredited/authorised testing facility before departure to Singapore (if applicable).
        </li>
       </ol>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
@@ -175,7 +195,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, <a href="/health/faq#transport">taxi, or private hire car</a> from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of public transport is not allowed.<br/><br/>
 
 For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided from the checkpoint to the accomodation.
-
+<br/><br/>
 For travellers who are required to serve SHN at an SHN Dedicated Facility (SDF) <u>but have received approval to opt-out of stay at the SDFs</u>, they must make transport arrangements at their own cost from Strides Transportation Pte Ltd for the following:
 <ol style="margin-top:0px; list-style-type:lower-latin;">
  <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px">transportation from the checkpoint to your place of residence; and</li>

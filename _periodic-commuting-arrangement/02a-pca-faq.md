@@ -326,8 +326,12 @@ If the employee had returned to Malaysia <u>with</u> a valid Singapore-issued PC
 #### 3. I am unable to submit a fresh PCA application for an employee who was previously approved under the scheme to travel to Singapore. Why is that so?
  
 Fresh PCA applications can only be submitted for an entry date <u>90 days after</u> the employee’s previous entry into Singapore.
+
+#### 4. Can I edit the details of my Employee/Sponsor details after my application has been approved?
+
+Yes. From 1 March 2021, employers can update Sponsor's details and employee's passport details through the PCA application website via <https://eservices.ica.gov.sg/STO/> at least 3 days before the approved date of entry. Employers will have to log in with their Corppass. Once the changes have been made, a new PCA confirmation letter will be sent to the Sponsor's email.
  
-#### 4. What do I do if my employee needs to return to Malaysia before the 3-month (i.e. 90 days) stay is up?
+#### 5. What do I do if my employee needs to return to Malaysia before the 3-month (i.e. 90 days) stay is up?
 
 The employee is permitted to leave Singapore. However, employers should note that they will only be able to apply for another PCA for the employee’s re-entry into Singapore, 90 days <u>after</u> their previous entry into Singapore.
 
@@ -355,6 +359,6 @@ Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are [un
 
 COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/pcrtest) results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
 
-Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call us at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry> and provide the employee's name and FIN (for work pas holders) or NRIC number (for Singapore PRs), as well as the empoyer's contact details. 
+Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call the SafeTravel Enquiries Helpline at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry> and provide the employee's name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer's contact details. 
 
 ##### Click here to go to the [top](#top).

@@ -4,12 +4,14 @@
 
 #### 1. Who is eligible to travel to Hong Kong under the Air Travel Bubble (ATB) arrangement?
 
-Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days before departing for Hong Kong. Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
-- staying in Singapore and/or Hong Kong in the last 14 days before departure
-- taking a designated ATB flight from Singapore to Hong Kong
-- undergoing a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government
+Any person, <u>except holders of Work Permits or S-Passes issued by the Singapore Ministry of Manpower working in the construction, marine shipyard, or process sectors</u>, who has remained in Singapore and/or Hong Kong in the last 14 consecutive days (excluding any compulsory quarantine in Hong Kong, arising from the visitor’s last return to Hong Kong, or compulsory Stay-Home Notice (SHN) period in Singapore, arising from the visitor’s last return to Singapore) before departing for Hong Kong.
+ 
+Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB, must meet the requirements laid out by the Hong Kong Government, which include:
+- staying in Singapore and/or Hong Kong in the last 14 days (excluding any compulsory quarantine in Hong Kong, arising from the visitor’s last return to Hong Kong, or compulsory Stay-Home Notice (SHN) period in Singapore, arising from the visitor’s last return to Singapore) before departure
+- taking a designated ATB flight from Singapore to Hong Kong.
+- undergoing a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government.
 - declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the [online health & quarantine information declaration form](https://www.chp.gov.hk/hdf/) 
-- [booking and paying](https://hkia.prenetics.com/) for the post-arrival COVID-19 PCR test at Hong Kong International Airport
+- [booking and paying](https://hkia.prenetics.com/) for the post-arrival COVID-19 PCR test at Hong Kong International Airport.
 
 Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for more information regarding the requirements to travel to Hong Kong under the ATB arrangement.
 
@@ -53,7 +55,7 @@ Please refer [here](https://safetravel.ica.gov.sg/health/covid19-tests/pre-depar
 
 Please have the following information on hand when you are making an appointment with the clinic:
 - Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass holders only);
-- Passport (for all travellers);
+- Passport/travel document (for all travellers);
 - Confirmed departure flight date and time;
 - Your available time slots to take the pre-departure COVID-19 PCR test;
 - Address in Singapore;
@@ -65,7 +67,7 @@ Please have the following information on hand when you are making an appointment
 Please bring the following:
 - Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass holders only);
 - Respective Long-Term Passes issued by the Singapore Immigration & Checkpoints Authority or Ministry of Manpower (for Long-Term Pass holders only)
-- Passport (for all travellers);
+- Passport/travel document (for all travellers);
 - Electronic or physical copy of ATP approval letter; and
 - Electronic or physical copy of your departure flight ticket to Hong Kong
 

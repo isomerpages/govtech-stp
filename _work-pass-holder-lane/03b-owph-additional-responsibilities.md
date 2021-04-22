@@ -25,6 +25,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
+    <!--  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a></li>-->
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan</li>
@@ -39,7 +40,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b><!--(entering on non-designated flights--> (for arrivals from 22 April 2021, 23:59 hours)</b></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 </ol>   
     </td>
@@ -92,9 +93,10 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at SDFs.
      <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0105-additional-testing-regime-for-newly-arrived-foreign-workers">additional 7-day testing at designated facilities</a>.</p></li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over
-      <br/><br/> Additional procedures for pass holders with travel history to India, South Africa or United Kingdom. <ol style="margin-top:0px; list-style-type:disc;">
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For those entering Singapore from 22 Apri 2021, 23:59 hours,</b> after their 14-day SHN at SDFs, they must serve an additional 7-day SHn at a place of residence or hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>(Only for pass holders who arrived from India)</b> For those who have not completed their 14-day SHN by 22 April 2021, 23:59 hours, they will also be subject to the additional 7-day SHN.</li>
+      <br/><br/> <b>Additional procedures for pass holders with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore:</b> 
+              <ol style="margin-top:0px; list-style-type:disc;">
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For those entering Singapore from 22 Apri 2021, 23:59 hours,</b> after their 14-day SHN at SDFs, they must serve an additional 7-day SHN at a place of residence or hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>(Only for pass holders who arrived from India)</b> For those who have not completed their 14-day SHN <b>by 22 April 2021, 23:59 hours</b>, they will also be subject to the additional 7-day SHN.</li>
               </ol>
       </li>
 </ol> </td>
