@@ -210,7 +210,7 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
-In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller should also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.
+In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller may also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.
 
 #### 6. How will I be informed of my COVID-19 test result?
 
