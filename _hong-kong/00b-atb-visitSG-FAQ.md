@@ -253,7 +253,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 #### 29. Are visitors required to take an on-arrival COVID-19 PCR test?
 All arriving passengers from Hong Kong under the Singapore-Hong Kong Air Travel Bubble (ATB) will be required to take an on-arrival COVID-19 Polymerase Chain Reaction (PCR) test at Changi Airport.
  
-After taking the test, Air Travel Pass holders travelling under the ATB are required to take private transportation, taxi, or private hire car from the airport to the declared place of accommodation, which must be non-residential and an individual room with attached toilet. They must remain isolated at their accommodation until their test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
+After taking the test, Air Travel Pass holders travelling under the ATB are required to immediately take private transportation, taxi, or private hire car from the airport to the declared place of accommodation, which must be non-residential and an individual room with attached toilet. They must remain isolated at their accommodation until their test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
 To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment <a href="https://safetravel.changiairport.com/">here</a>.
 
@@ -269,9 +269,9 @@ The only exceptions are for the:
 
 Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
 
-#### 31. Do children need to undergo a post-arrival COVID-19 PCR test?
+#### 31. Do children need to undergo an on-arrival COVID-19 PCR test?
 
-Children aged 6 or younger in that calendar year are not required to undergo a post-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+Children aged 6 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
 
 #### 32. How much is the on-arrival COVID-19 PCR test at the airport?
 
@@ -283,7 +283,7 @@ If visitors refuse to undergo the on-arrival COVID-19 PCR test, they may be refu
 
 #### 34. What types of transportation can visitors take from the airport to their declared place of accommodation?
 
-Air Travel Pass holders travelling under the ATB are required to take private transportation, taxi, or private hire car from the airport to the declared place of accommodation, which must be non-residential and an individual room with attached toilet. They must remain isolated at their accommodation until their test result is confirmed to be negative.
+Air Travel Pass holders travelling under the ATB are required to immediately take private transportation, taxi, or private hire car from the airport to the declared place of accommodation, which must be non-residential and an individual room with attached toilet. They must remain isolated at their accommodation until their test result is confirmed to be negative.
 
 #### 35. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
 
@@ -465,7 +465,7 @@ When checking in at the departure airport, visitors must present the following t
 <ol style="font-size:18px; list-style-type:disc;">
 <li>a valid ATP approval letter (electronic or physical copy) for the intended week of entry into Singapore;</li>
 <li>a valid visa (for visa-required visitors);</li>
-<li>valid vaccination certificate (if required by the Hong Kong Government);</li>
+<li>valid vaccination certificate or declaration form for exemption(as required by the Hong Kong Government);</li>
 <li>a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="font-size:18px; list-style-type:none;">
 <li>	Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
