@@ -30,8 +30,8 @@ Please click on the relevant links below for more information about the RGL
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
-    <td style=" text-align:left;border-right:1px solid #D8D8D8;" >Reciprocal Green Lane suspended. Click <a href="/rgl/notice">here</a> for more details.</td>
-      <!-- <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>-->
+    <!--<td style=" text-align:left;border-right:1px solid #D8D8D8;" >Reciprocal Green Lane suspended. Click <a href="/rgl/notice">here</a> for more details.</td>-->
+       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
