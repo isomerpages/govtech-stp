@@ -81,7 +81,7 @@ To find out more about the application process and requirements to use the RGL t
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia<sup>**</sup></b></td>
     <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/requirements-and-process">Click here</a></td>
        <!--<td style=" text-align:left;border-right:1px solid #D8D8D8;" colspan="2">Reciprocal Green Lane suspended. Click <a href="/rgl/notice">here</a> for more details.</td>-->
-      <td style=" text-align:center;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>
+      <!--<td style=" text-align:center;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>-->
     <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/faq">Click here</a></td>
   </tr>
   <tr>
