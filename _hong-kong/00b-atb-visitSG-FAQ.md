@@ -413,9 +413,9 @@ Visitors must retain the TraceTogether app with the data on their mobile devices
 
 For information on travel to Hong Kong under the Air Travel Bubble arrangement, please refer <a href="/hongkong/atb/visitingHK">here</a>.
 
-#### 48. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Hong Kong is within 72 hours before my departure from Singapore?
+#### 48. Do I still need to take a COVID-19 PCR test in Singapore before I return to Hong Kong, if the COVID-19 PCR test I had taken in Singapore upon arrival is within 72 hours before my departure from Singapore?
 
-There is no need to take another COVID-19 PCR test in Singapore. You will need to present the COVID-19 PCR test result certificate issued to you in Hong Kong to the airline staff when checking in for your departure flight in Singapore.
+There is no need to take another COVID-19 PCR test in Singapore. You will need to present the COVID-19 PCR test result certificate issued to you in Singapore to the airline staff when checking in for your departure flight in Singapore.
 
 #### 49. How can I take a pre-departure COVID-19 PCR test in Singapore?
 
