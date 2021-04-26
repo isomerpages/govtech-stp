@@ -1,6 +1,6 @@
 ---
 title: Requirements and Process
-permalink: /hongkong/atb/visithk-requirements-and-process
+permalink: /hongkong/atb/visitinghk-requirements-and-process
 third_nav_title: Visiting Hong Kong
 ---
 
