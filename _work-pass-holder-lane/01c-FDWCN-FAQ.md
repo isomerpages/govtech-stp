@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Frequently Asked Questions
 permalink: /wphl/fdwcn-faq
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
