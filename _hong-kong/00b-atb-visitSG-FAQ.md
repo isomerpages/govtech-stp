@@ -179,7 +179,7 @@ As set out in ATP <a href="/hongkong/atb/terms-and-conditions">Conditions</a>, a
 
 If you are not travelling on a designated ATB flight from Hong Kong to Singapore, you will not be allowed to enter Singapore.
 
-Singapore Citizens (SC) and Singapore Permanent Residents (PR) may enter Singapore via the <a href="https://safetravel.ica.gov.sg/sc-pr/requirements-and-process">Returning SC/PRs Lane</a> . Long-Term Pass Holders will have to seek entry approval via the:
+Singapore Citizens (SC) and Singapore Permanent Residents (PR) may enter Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/PRs Lane</a> . Long-Term Pass Holders will have to seek entry approval via the:
 <ul style="font-size:18px; list-style-type:none;">
 <li>- <a href="/wphl/overview">Work Pass Holder General Lane</a>;</li> 
 <li>- <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>; or</li>
