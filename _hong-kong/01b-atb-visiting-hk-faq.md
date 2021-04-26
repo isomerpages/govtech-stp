@@ -1,4 +1,8 @@
-
+---
+title: Frequently Asked Questions
+permalink: /hongkong/atb/visitinghk-faq
+third_nav_title: Visiting Hong Kong
+---
 
 ## Eligibility
 
@@ -11,7 +15,7 @@ Eligible persons, who intend to travel from Singapore to Hong Kong under the ATB
 - taking a designated ATB flight from Singapore to Hong Kong.
 - undergoing a COVID-19 polymerase chain reaction (PCR) test within 72 hours before the scheduled departure time of the designated ATB flight from Singapore to Hong Kong at one of [clinics or testing centres](https://go.gov.sg/covid19pcrtestproviders) designated by the Singapore Government.
 - declaring their travel history in the past 14 days prior to departure, health conditions, and contact information (phone number, email, address, etc.) using the [online health & quarantine information declaration form](https://www.chp.gov.hk/hdf/) 
-- [booking and paying](https://hkia.prenetics.com/) for the post-arrival COVID-19 PCR test at Hong Kong International Airport.
+- booking and paying for the post-arrival COVID-19 PCR test at Hong Kong International Airport.
 
 Please refer to Hong Kong’s dedicated ATB website [here](http://www.tourism.gov.hk/travelbubble) for more information regarding the requirements to travel to Hong Kong under the ATB arrangement.
 
@@ -89,7 +93,7 @@ Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong Internat
 
 #### 13. How do I book and pay for the post-arrival COVID-19 PCR test at Hong Kong International Airport?
 
-Travellers can register and pay for the post-arrival COVID-19 PCR test via a web-based application [here](https://hkia.prenetics.com/).  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
+Travellers can register and pay for the post-arrival COVID-19 PCR test. Please refer to Hong Kong website [here](https://www.torism.gov.hk/travel-bubble/en/hongkong.html) for more information.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
 
 ## Returning to Singapore (Optional)
 

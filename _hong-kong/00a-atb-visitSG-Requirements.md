@@ -1,4 +1,8 @@
-
+---
+title: Requirements and Process
+permalink: /hongkong/atb/visitingsg
+third_nav_title: Visiting Singapore
+---
 
 ### 1. Eligibility 
  
@@ -170,7 +174,7 @@ Visitors should refer to Hong Kong’s website <a href="https://www.tourism.gov.
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid ATP approval letter (electronic or physical copy) for the specified period of entry into Singapore</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid visa (for visa-required visitors)</li>
-                  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid vaccination certificate (if required by the Hong Kong Government)</li>
+                  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid vaccination certificate or declaration form for exemption(as required by the Hong Kong Government)</li>
       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
@@ -265,6 +269,11 @@ Visitors are responsible for their medical bills should they require medical tre
   <tr>
     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Activation and retention of TraceTogether app, with data</b></td>
     <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    </td>
+  </tr>
+   <tr>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8"><b>Responsibility to bear related costs of medical treatment for COVID-19 while in Singapore</b></td>
+    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8">Should ATP visitors test positive for COVID-19 in Singapore, they will be accorded the necessary medical treatment. Such visitors are required to bear the full cost of medical treatment, tests and isolation imposed on them for public health reasons. 
     </td>
   </tr>
             </tbody>

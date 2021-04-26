@@ -216,8 +216,6 @@ Travellers that have recovered from [COVID-19](/health/covid19-symptoms) but con
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
 
-Travellers that have recovered from COVID-19 may write to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg) and provide the relevant supporting documents for an exemption to be considered. 
-
 In general, as a [condition](/malaysia/pca/terms-and-conditions) for entry into Singapore, all PCA travellers must adhere to the health control measures imposed on the group. This includes the taking of a COVID-19 [PCR test](/health/covid19-tests/pcrtest) toward the end of their [Stay Home Notice (SHN)](/health/shn). 
 
 ##### Click here to go to the [top](#top).

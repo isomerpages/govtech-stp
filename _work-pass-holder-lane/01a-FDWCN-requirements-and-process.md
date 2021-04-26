@@ -12,8 +12,6 @@ Employers or employment agencies must ensure that they can fulfil the additional
 
 The employer or employment agency must also inform the FDW/CN of the [conditions imposed during her SHN](/wphl/FDWCN-additional-responsibilities#FDWCNResponsibiities) and ensure that she can fulfil them. 
 
-**Note**: For FDWs or CNs who have recovered from COVID-19, employment agencies can [submit a request for them](https://www.mom.gov.sg/recovered-fdw-cn-form) to stand a higher chance of getting an entry approval. Please wait for an outcome **before submitting their entry application**.
-
 ### 2. Entry Application 
 
 <table>

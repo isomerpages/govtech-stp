@@ -26,7 +26,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
-    <!--  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a> </li>-->
+     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a> </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan</li>
@@ -41,7 +41,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b><!--(entering on non-designated flights--> (for arrivals after 22 April 2021, 23:59 hours)</b></li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(entering on non-designated flights) <!-- (for arrivals after 22 April 2021, 23:59 hours)--></b></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 </ol>   
     </td>
@@ -59,7 +59,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
   <ol style="margin-top:0px; list-style-type:disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India (from 23 April 2021, 23:59 hours)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India</li>
 </ol>
 </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Defer entry. <b>Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval</b></td>
@@ -69,7 +69,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>
+        <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
@@ -88,11 +88,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
-       <ol style="margin-top:0px; list-style-type:disc;">
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions <!--including:--></b>
+       <!--<ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours</b></li>
            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
-      </ol>
+      </ol>-->
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
@@ -102,13 +102,13 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       <br/><br/> Additional procedures for FDWs/CNs with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore. <ul style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to India who:</b>
                 <ul style="margin-top:0px; list-style-type:disc;">
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Enter Singapore before 23 April 2021, 23:59 hours:</b> must complete a 21-day SHN at SDFs.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Entered Singapore before 23 April 2021, 23:59 hours:</b> must complete a 21-day SHN at SDFs.</li>
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Have not completed their 14-day SHN by 22 April 2021, 23:59 hours:  </b>Will also be subject to the additional 7-day SHN.</li>
                 </ul>
               </li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>For FDWs/CNs with travel history to South Africa or United Kingdom:</b>
              <ul style="margin-top:0px; list-style-type:disc;">
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Entering Singapore <b>from 22 April 2021, 23:59 hours:</b> After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at a hotel or their employers' houses (only allowed for existing FDWs). They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at a hotel or their employers' houses (only allowed for existing FDWs). They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
                 </ul>  
               </li>
               </ul>
@@ -118,7 +118,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </tbody>
 </table>
 
-<i><b>Note: </b></i> From 23 April 2021, 23:59 hours: FDWs/CNs with recent travel history (including transit) to India within the last 14 days are not allowed to enter Singapore until further notice. This also applies to those who had obtained an entry approval. 
+<i><b>Note: </b></i>FDWs/CNs with recent travel history (including transit) to India within the last 14 days are not allowed to enter Singapore until further notice. This also applies to those who had obtained an entry approval. 
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
 

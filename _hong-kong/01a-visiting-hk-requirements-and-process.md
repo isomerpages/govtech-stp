@@ -1,4 +1,8 @@
-
+---
+title: Requirements and Process
+permalink: /hongkong/atb/visitinghk
+third_nav_title: Visiting Hong Kong
+---
 
 ### AIR TRAVEL BUBBLE - VISITING HONG KONG
 
@@ -56,7 +60,7 @@ Persons travelling to Hong Kong under the ATB arrangement must ensure that they 
              <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Book and pay for post-arrival COVID-19 PCR test</b></td>
     <td style="font-size:18px; border-left:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers can register and pay for their post-arrival COVID-19 PCR test at Hong Kong International Airport via a web-based application <a href="https://hkia.prenetics.com/">here</a>.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code, which should be presented during check-in.
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers can register and pay for their post-arrival COVID-19 PCR test at Hong Kong International Airport. Please refer to Hong Kong’s website <a href="https://www.tourism.gov.hk/travel-bubble/en/hongkong.html">here</a> for more information.   It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family.  Upon completion of the booking and payment, the traveller will receive a QR code, which should be presented during check-in.
       </li>
          </ol> 
  </td>
