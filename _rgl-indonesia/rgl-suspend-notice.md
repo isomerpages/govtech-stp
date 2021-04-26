@@ -1,7 +1,4 @@
----
-title: NOTICE
-permalink: /rgl/notice
----
+
 
 ## IMPORTANT NOTICE
 
