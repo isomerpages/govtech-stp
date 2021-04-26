@@ -28,6 +28,11 @@ For travellers serving SHN in an [SHN Dedicated Facility (SDF)](/health/shn/sdf)
 <iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/shn-date-calculator-3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## 21-day SHN Calculator
+
+<iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/9858b9c8-950e-4393-93f6-92afc1c47e3e" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
