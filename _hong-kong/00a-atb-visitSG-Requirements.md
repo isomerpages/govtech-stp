@@ -1,6 +1,6 @@
 ---
 title: Requirements and Process
-permalink: /hongkong/atb/visitingsg-requirements-and-process
+permalink: /hongkong/atb/visitingsg
 third_nav_title: Visiting Singapore
 ---
 
