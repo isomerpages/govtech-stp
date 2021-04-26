@@ -1,7 +1,4 @@
----
-title: Terms & Conditions
-permalink: /indonesia/rgl/terms-and-conditions
----
+
 
 ### **Terms & Conditions of SafeTravel Pass (For Residents in Indonesia using the Reciprocal Green Lane (RGL)/Travel Corridor Arrangement for Essential Travel Between Indonesia <sup>1</sup> and Singapore to Travel to Singapore)<sup>2</sup>**
 
