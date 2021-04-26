@@ -58,4 +58,4 @@ These RGLs have specific departure requirements and application processes and mo
 
 ### Air Travel Bubble
 
-The Singapore-Hong Kong Air Travel Bubble will commence its first flights on May 26. Please click [here](/hongkong/atb/visitinghk) for more details on travelling to Hong Kong or refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html).
+The Singapore-Hong Kong Air Travel Bubble (ATB) will commence its first flights on May 26. Please click [here](/hongkong/atb/visitinghk) for more details on travelling to Hong Kong or refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html).
