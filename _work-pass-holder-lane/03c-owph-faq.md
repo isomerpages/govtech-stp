@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Frequently Asked Questions
 permalink: /wphl/owph-faq
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
