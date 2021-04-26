@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /hongkong/atb/visithk-faq
+permalink: /hongkong/atb/visitinghk-faq
 third_nav_title: Visiting Hong Kong
 ---
 
