@@ -1,4 +1,7 @@
-
+---
+title: Requirements and Process
+permalink: /indonesia/rgl/faq
+---
 
 <div id="faq-top"></div>
 
