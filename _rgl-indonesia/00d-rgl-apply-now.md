@@ -1,4 +1,7 @@
-
+---
+title: Apply Now
+permalink: /indonesia/rgl/apply-now
+---
 
 <table>
   <thead>
