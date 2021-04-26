@@ -1,5 +1,5 @@
 ---
-title: Requirements and Process
+title: Frequently Asked Questions
 permalink: /indonesia/rgl/faq
 ---
 
