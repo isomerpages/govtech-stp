@@ -1,5 +1,5 @@
 ---
-title: Requirements & Process
+title: Requirements and Process
 permalink: /indonesia/rgl/requirements-and-process
 ---
 

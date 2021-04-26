@@ -94,7 +94,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 
 7. The foreign employee shall ensure that he/she has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile date) with him/her at all times during the SHN period. He/she shall download WhatsApp on his mobile phone and shall respond within 1 hour when contacted by MOM via phone calls, WhatsApp video calls or Short Message Service (SMS).
 
-8. The foreign employee shall download the FWMOMCARE  mobile app on his mobile phone, once he has received MOM's SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://www.mom.gov.sg/eservices/fwmomcare)). The foreign employee must have a thermometer to take and report his temperature.
+8. The foreign employee shall download the FWMOMCARE mobile app on his mobile phone, once he has received MOM's SMS sent within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to [user guide](https://www.mom.gov.sg/eservices/fwmomcare)). The foreign employee must have a thermometer to take and report his temperature.
 
 9. The foreign employee shall not have visitors at his dedicated SHN facility, and he/she shall minimise contact with others during the SHN period.
 

@@ -14,6 +14,7 @@ permalink: /health/FAQ
  5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
  6. [Payments and Refunds](#payments)
  7. [Vaccinated Travellers intending to travel to Singapore](#vaccinated)
+ 8. [Travellers who require the use of Nebuliser](#nebuliser)
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
@@ -71,19 +72,6 @@ For travellers who are not yet in Singapore or for request that the SDF is unabl
 #### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
-
-#### 10. I require to use a nebuliser for management of my medical condition, what must I do before I enter Singapore?
-All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
-
-The declaration would not affect your entry approval status/application for entry into Singapore. The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act.
-
-In addition, travellers would be required to arrange for a tele-consultation upon arrival at their stay-home notice location for assessment on conversion to an inhaler/spacer.
-
-#### 11. I require to use a nebuliser for management of my medical condition, would I be allowed entry into Singapore?
-Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
-
-The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act.
-
 
 <div id="transport"></div>
 
@@ -553,5 +541,23 @@ The Singapore government is currently looking into more flexible guidelines for 
 
 Click here to [Go Back To Top](#top).
 
+<div id="nebuliser"></div>
+
+## Travellers who require the use of nebuliser
+
+#### 1. I require to use a nebuliser for management of my medicial condition, what must i do before i enter Singapore?
+
+All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
+
+The declaration would not affect your entry approval status/application for entry into Singapore. The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act. 
+
+In addition, travellers would be required to arrange for a tele-consultation upon arrival at their stay-home notice location for assessment on conversion to inhaler/spacer. 
+
+#### 2. I require to use a nebuliser for management of my medical condition, would i be allowed entry into Singapore? 
+
+Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore. 
+
+The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act. 
 
 
+Click here to [Go Back To Top](#top).
