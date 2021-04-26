@@ -23,7 +23,7 @@ third_nav_title: Visiting Singapore
 
 #### 1. When can visitors start applying for an ATP?
 
-Visitors can apply for an ATP from 22 April 2021, 1130hrs, Singapore time (GMT +8), for entry into Singapore on or after 19 May 2021.
+Visitors can apply for an ATP from 26 April 2021, 1130hrs, Singapore time (GMT +8), for entry into Singapore on or after 26 May 2021.
 
 #### 2. How can visitors apply for an ATP?
 
