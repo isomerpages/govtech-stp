@@ -274,7 +274,7 @@ Three days before the travellers’ scheduled entry into Singapore, the applicat
 RGL travellers entering Singapore via air and land transport must produce the following documents:
 - A valid SafeTravel Pass approval letter (the date of entry to Singapore must fall within the period of entry stated in the letter).
 - A valid visa to enter Singapore (for visa-required passport holders who are short-term visitors to Singapore).
-- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from). The certificate should also be in English or accompanied by an English translation.
+- A valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (the certificate must be issued by an authorised COVID-19 testing facility designated by the government of the country/region the traveller is departing from). The certificate should also be in English or accompanied with an English translation.It should also contain the (i) Traveller's name, Date of Birth or Passport number (per passport used to travel to Singapore); and (ii) Date and result of the PCR test. 
 - Proof of return transportation arrangements to depart from Singapore (e.g. air, train and bus return ticket). Travellers arriving by air who do not produce a return air ticket during pre-boarding checks may be refused boarding.
 - A mobile device with the TraceTogether app already downloaded or proof of rental of TraceTogether- compatible device in Singapore.
 
