@@ -1,7 +1,7 @@
 title: SafeTravel
 url: "https://safetravel.ica.gov.sg"
 favicon: /images/favicon-stp.svg
-notification: Scheduled maintenance will be taking place on:<br>&bull; <u>28 April 2021 - from 12am to 8am and 29 April 2021 - from 6pm to 1159pm.</u> During this period, application services for Air Travel Pass will not be available.<br>&bull; Please note that from 11 April 2021, you will be required to login to government digital services for business (G2B) using Singpass instead of Corppass. For more information, visit <a href="https://go.gov.sg/corporate-login">go.gov.sg/corporate-login</a>
+notification: Scheduled maintenance will be taking place on:<br>&bull; 28 April 2021 - from 12am to 8am and 29 April 2021 - from 6pm to 1159pm. During this period, application services for Air Travel Pass will not be available.<br>&bull; Please note that from 11 April 2021, you will be required to login to government digital services for business (G2B) using Singpass instead of Corppass. For more information, visit <a href="https://go.gov.sg/corporate-login">go.gov.sg/corporate-login</a>
 
 # Site colors
 colors:
