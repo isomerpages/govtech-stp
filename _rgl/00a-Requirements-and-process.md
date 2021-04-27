@@ -121,7 +121,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 <tbody>
   <tr>
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised <a href="/rgl/pre-departure-measures">medical institution</a> designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test, stating the time and date which the test was administered. 
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test. <a href="/rgl/pre-departure-measures">Click here</a> for the list of authorised health centres and information on what constitutes a valid COVID-19 PCR test report.  
  </td>
   </tr>
   <thead>
