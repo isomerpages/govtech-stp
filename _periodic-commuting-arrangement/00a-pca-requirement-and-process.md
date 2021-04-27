@@ -81,13 +81,13 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
   </thead>
 <tbody>
   <tr>
-   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test")</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, excluding Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
+   <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers, except for Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
 
-As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), with the following details:
+As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), which contains the following details:
 <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date of the test.</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
  </ol>
 </td>
  </tr>
@@ -97,7 +97,7 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">
      <b>Approved PCA travellers should monitor their health and avoid travelling if feeling <a href="/health/covid19-symptoms">unwell</a>. If the traveller is healthy, he/she should:</b><br/>
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
       </ol>
    </td>
@@ -113,7 +113,7 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
      <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers should be prepared to produce the following documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter;</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 Polymerase Chain Reaction test (“PCR test”) report (in English) from recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a> (except for Singapore Permanent Residents);</li>
+     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English,except for Singapore Permanent Resident, from recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a> (except for Singapore Permanent Residents);</li>
           <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid Malaysia-issued passport; and</li>
      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Work pass (for work pass holders) or Singapore NRIC (for Singapore PRs)</li>
          </ol>     
