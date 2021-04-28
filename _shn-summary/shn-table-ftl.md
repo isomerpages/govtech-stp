@@ -1,4 +1,3 @@
-
 ---
 title: Summary Table - SC/PR Familial 
 permalink: /shn/summary
