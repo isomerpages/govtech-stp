@@ -22,20 +22,14 @@ permalink: /shn/summary
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>-->
   </tr>
     <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="">Click here</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Returning SC/PR</b></td>
+      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/shn/summary-scpr">Click here</a></td>
       <!-- <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>-->
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Hong Kong</b></td>
-      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="">Click here</a></td>
-      <!-- <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
-      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>-->
-  </tr>
-    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China</b></td>
-    <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="">Click here</a></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Student Pass Holder Lane</b></td>
+      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/shn/summary-stphl">Click here</a></td>
       <!-- <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>-->
   </tr>
