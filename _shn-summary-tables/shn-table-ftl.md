@@ -65,7 +65,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
     <td style="font-size:16px; 
 border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">   
     <ol style="margin-top:0px; list-style-type: disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Fiji</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
