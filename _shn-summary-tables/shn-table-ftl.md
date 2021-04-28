@@ -57,7 +57,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Self-sourced hotel <sup><a href="#notes">[Note 2]</a></sup></li>
             </ol>      
       </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">3.	Take an exit-from-SHN COVID-19 PCR test during SHN</li>
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an exit-from-SHN COVID-19 PCR test during SHN</li>
          </ol>
     </td>
   </tr>
