@@ -1,5 +1,5 @@
 ---
-title: Summary Table - Student Pass Holder Lane
+title: Summary Table - Returning SC/PR
 permalink: /shn/summary-scpr
 ---
 
