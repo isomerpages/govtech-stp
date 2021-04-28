@@ -1,6 +1,6 @@
 ---
 title: Summary Table - SC/PR Familial 
-permalink: /shn/summary
+permalink: /shn/summary-ftl
 ---
 
 ## Applicable Health Control Measures for travellers approved for entry under the Singapore Citizens/Permanent Residents Familial Ties Lane (FTL)
