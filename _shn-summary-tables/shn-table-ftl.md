@@ -45,6 +45,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">   
     <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao SAR</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong[Non-Air Travel Bubble (ATB) Flights] <br/><i><u>Note:</u> For more information on the <a href="/hongkong/atb/visitingsg">ATB</a> and <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated ATB flights</a>, which have reduced health requirements, please click here.</i></li>
       </ol>
     </td>
        <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
@@ -66,7 +67,6 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">   
     <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
