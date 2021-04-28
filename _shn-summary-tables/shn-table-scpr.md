@@ -143,7 +143,7 @@ border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
     </td>
   </tr>   
        <tr>
-    <td id="notes" colspan="3" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Notes</u></b><br/><br/><i>[1] Excludes children who are 6 years old and below in the calendar year. For smooth entry, travellers are strongly encouraged to register and pay for their on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”). Click here for more information.</i><br/><br/><i>[2] When making a booking with the hotel, travellers should check and ensure that the hotel can accommodate guests serving their SHN.</i>
+    <td id="notes" colspan="3" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Notes</u></b><br/><br/><i>[1] Excludes children who are 6 years old and below in the calendar year. For smooth entry, travellers are strongly encouraged to register and pay for their on-arrival COVID-19 Polymerase Chain Reaction test (“PCR test”). <a href="/health/covid19-tests/pcrtest">Click here</a> for more information.</i><br/><br/><i>[2] When making a booking with the hotel, travellers should check and ensure that the hotel can accommodate guests serving their SHN.</i>
       </td>
      </tr>
   </tbody>
