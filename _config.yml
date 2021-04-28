@@ -77,6 +77,9 @@ collections:
     output: true
   shn-summary:
     output: true
+  shn-summary-tables:
+    output: true
+  
 
 
   
