@@ -218,7 +218,7 @@ Yes, travellers must complete their SHN even after they are tested negative for 
 
 #### 9. I am travelling with my child. Is my child be required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born in and before 2015. Travellers whose children are below seven years old in that calendar year, i.e. born after 2015, are exempted.
+Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born in and before 2015. Travellers whose children are below six years old in that calendar year, i.e. born after 2015, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
@@ -436,7 +436,7 @@ Travellers/application sponsors may refer to the table below for payment details
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/fdwcn-requirements-and-proces">Foreign Domestic Workers and Confinement Nannies</a>, <a href="/wphl/owph-requirements-and-proces">all other Work Pass Holders and their dependents</a>)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/fdwcn-requirements-and-process">Foreign Domestic Workers and Confinement Nannies</a>, <a href="/wphl/owph-requirements-and-process">all other Work Pass Holders and their dependents</a>)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
@@ -525,7 +525,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </tbody>
   </table>
   
-Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage [here](https://www.changiairport.com/en/airport-guide/covid-19/FAQ.html) or write to MPA [here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
+Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage [here](https://www.changiairport.com/en/airport-guide/Covid-19/FAQ.html) or write to MPA [here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
 
 
 Click here to [Go Back To Top](#top).

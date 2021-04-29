@@ -161,7 +161,7 @@ Please click [here](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_c
 <li style="list-style-type:disc; margin-top:0px; margin-bottom:0px;">Transfer of crew from one vessel to another</li>
 <li style="list-style-type:disc; margin-top:0px; margin-bottom:0px;">Extension of stay of crew</li>
 </ul>
-Please visit the Maritime and Port of Authority of Singapore website for information on the [application of crew changes under various circumstances](https://www.mpa.gov.sg/web/porta;/home/port-of-singapore/operations/crew-change), as well as the MPA’s latest circulars and notices [here](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community).
+Please visit the Maritime and Port of Authority of Singapore website for information on the [application of crew changes under various circumstances](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change), as well as the MPA’s latest circulars and notices [here](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community).
 
 ## All Other Travellers
 

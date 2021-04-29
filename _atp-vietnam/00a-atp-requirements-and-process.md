@@ -1,12 +1,9 @@
-
-
-
 ### 1. Eligibility 
 
 <span class="font-size:16px;">Foreigners who are short-term visitors travelling from Vietnam may seek entry into Singapore by applying for an Air Travel Pass (ATP).</span>
-            
+
 <span class="font-size:16px;">Singapore Citizens, Singapore Permanent Residents, and Singapore Long-Term Pass holders are not required to apply for an ATP to travel to Singapore. However, Singapore Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies, which issued their Long-Term Pass, before travelling to Singapore. Please refer <a href="/health/shn">here</a> for the prevailing health measures applicable upon entry into Singapore.</span>
- 
+
 ### 2. Submit Applications for Air Travel Pass and Visa
 
 <table>
@@ -48,7 +45,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
   </tbody>
 </table>
-  
+
 ### 3. Pre-Departure to Singapore
 
 <table>
@@ -133,7 +130,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
   </tbody>
 </table>
-  
+
 ### 4. Arrival in Singapore
 
 <table>
@@ -170,7 +167,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </table>
 
 ### 5. During and After Stay in Singapore
- 
+
  <table>
 <thead>
   <tr>
@@ -195,7 +192,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
  </tbody>
  </table>
- 
+
 -----
 
 <p style="margin-top:0px; margin-bottom:0px;">

@@ -47,7 +47,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day Stay-Home Notice (SHN) at home or hotel.</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take another COVID-19 test before 7-day SHN is over.</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 7-day SHN is over.</li>
 </ol> </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -61,7 +61,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   </tr>
   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
      <!--   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
@@ -74,7 +74,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at home (upon approval) or SHN dedicated facilities (SDFs).
-<p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must under go an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing at designated facilities</a>.</p></li>
+<p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must under go an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
 </ol> </td>
     <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
@@ -90,13 +90,13 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at SDFs.
-     <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing at designated facilities</a>.</p></li>
+     <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over
       <br/><br/> <b>Additional procedures for pass holders with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore:</b> 
               <ol style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to India who: </b>  <ul style="margin-top:0px; list-style-type:disc;">
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Entered Singapore before 23 April 2021, 23:59 hours: </b> must complete a 21-day SHN at SDFs.</li>
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Have not completed their 14-day SHN by 22 April 2021, 23:59hours: </b> Will also be subject to the additional 7-day SHN.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Entered Singapore before 23 April 2021, 23:59 hours: </b> Must complete a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Have not completed their 14-day SHN by 22 April 2021, 23:59hours: </b> Will also be subject to the 21-day SHN at SDFs.</li>
                 </ul></li>
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Pass holders with travel history to South Africa or United Kingdom: </b>   <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at home or a hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>

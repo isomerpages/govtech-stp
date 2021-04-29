@@ -41,7 +41,7 @@ Please note that the outcome of a re-appeal will remain the same if there are no
 
 #### 4. I realised that there is an error in the name and passport details on my approved STP, how can i amend the details?
 
-Please write to us using the enquiry form [here](https;//go.gov.sg/sto-enquiry) with the STP reference number and explaining the details of the error. Kindly also include a copy of the applicant passport biodata page.
+Please write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry) with the STP reference number and explaining the details of the error. Kindly also include a copy of the applicant passport biodata page.
 
 #### 5. What if i am unable to enter Singapore within the validity of my STP? 
 
