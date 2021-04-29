@@ -65,7 +65,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
      <!--   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
+      <!--  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>-->
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
 </ol>   
@@ -96,7 +96,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
               <ol style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to India who: </b>  <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Entered Singapore before 23 April 2021, 23:59 hours: </b> Must complete a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
-                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Have not completed their 14-day SHN by 22 April 2021, 23:59hours: </b> Will also be subject to the 21-day SHN at SDFs.</li>
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Have not completed their 14-day SHN by 22 April 2021, 23:59 hours: </b> Will also be subject to the 21-day SHN at SDFs.</li>
                 </ul></li>
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Pass holders with travel history to South Africa or United Kingdom: </b>   <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at home or a hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
