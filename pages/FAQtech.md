@@ -136,7 +136,7 @@ From 11 April 2021, the login process for Corppass will be changed to first veri
 
 Please ensure that your Singpass ID is linked to your business's Corppass account to log in to the Safe Travel Portal. You may contact your business's Corppass administrator to ensure that you have been added and assigned the <i>‘Safe Travel Portal’</i> e-service to your Corppass e-services and the administrator had assigned you administrative rights to access the Safe Travel Portal.
 
-For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at <a href="www.singpass.gov.sg">www.singpass.gov.sg</a> or [go.gov.sg/corporate-login](go.gov.sg/corporate-login).
+For foreign users, you would have received an email about your pre-registered Singpass account. Your newly created Singpass account has been linked to your existing Corppass accounts and will be the new login method. For more information, please visit the Singpass website at <a href="www.singpass.gov.sg">www.singpass.gov.sg</a> or <a href="go.gov.sg/corporate-login">go.gov.sg/corporate-login</a>.
 
 #### 3. On the “Terms and Conditions” and “Declaration” pages, why am I unable to click the “I AGREE”/ “SUBMIT” buttons?
 
