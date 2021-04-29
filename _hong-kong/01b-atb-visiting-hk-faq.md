@@ -93,7 +93,7 @@ Travellers are subject to a COVID-19 PCR test upon arrival at Hong Kong Internat
 
 #### 13. How do I book and pay for the post-arrival COVID-19 PCR test at Hong Kong International Airport?
 
-Travellers can register and pay for the post-arrival COVID-19 PCR test. Please refer to Hong Kong website [here](https://www.torism.gov.hk/travel-bubble/en/hongkong.html) for more information.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
+Travellers can register and pay for the post-arrival COVID-19 PCR test. Please refer to Hong Kong website [here](https://www.tourism.gov.hk/travel-bubble/en/hongkong.html) for more information.  It does not require a Hong Kong mobile number. A single mobile number can be registered for multiple travellers in the case of a family. Upon completion of the booking and payment, the traveller will receive a QR code which should be presented during check-in at Changi Airport.
 
 ## Returning to Singapore (Optional)
 
