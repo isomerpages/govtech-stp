@@ -218,7 +218,7 @@ Yes, travellers must complete their SHN even after they are tested negative for 
 
 #### 9. I am travelling with my child. Is my child be required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born in and before 2015. Travellers whose children are below seven years old in that calendar year, i.e. born after 2015, are exempted.
+Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above six years of age in that calendar year, i.e. born in and before 2015. Travellers whose children are below seven years old in that calendar year, i.e. born after 2015, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
