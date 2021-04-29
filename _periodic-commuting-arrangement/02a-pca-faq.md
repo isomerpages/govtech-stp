@@ -146,7 +146,7 @@ Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are
 
 #### 4. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
 
-For further clarification on entry to Malaysia, you may wish to reach out to the Malaysian Ministry of Foreign Affairs [(www.kln.gov.my)](www.kln.gov.my), the Malaysian Immigration Department [(www.imi.gov.my)](www.imi.gov.my) or the Malaysian High Commission in Singapore [(https://www.kln.gov.my/web/sgp_singapore)](https://www.kln.gov.my/web/sgp_singapore) for further advice regarding entry to Malaysia.
+For further clarification on entry to Malaysia, you may wish to reach out to the Malaysian Ministry of Foreign Affairs <a href="www.kln.gov.my">www.kln.gov.my</a>, the Malaysian Immigration Department <a href="www.imi.gov.my">www.imi.gov.my</a> or the Malaysian High Commission in Singapore <a href="https://www.kln.gov.my/web/sgp_singapore">https://www.kln.gov.my/web/sgp_singapore</a> for further advice regarding entry to Malaysia.
 
 ##### Click here to go to the [top](#top).
 
