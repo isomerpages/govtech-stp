@@ -70,7 +70,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
         <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
+        <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>-->
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
 </ol>   
