@@ -17,6 +17,26 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 <tbody>
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
+      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
+  </tr>
+  <tr>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
+  </tr>
+  </tbody>
+  </table>
+  
+## Important Notice
+
+<table>
+<thead>
+  <tr>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">NOTE</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
       <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8; vertical-align: middle;">Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
   </tr>
   <tr>
