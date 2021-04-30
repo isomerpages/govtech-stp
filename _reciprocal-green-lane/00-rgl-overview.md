@@ -31,14 +31,14 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a> instead. 
 
 
-<!--<br><br>
+<!-- <br><br>
 To find out more about the application process and requirements to use the RGL to travel to Singapore, click on the link below that corresponds to your country of departure.
-<br>-->
-<!--<table>
+<br> -->
+<!-- <table>
 <thead>
   <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Requirements & Process</th>-->
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>-->
+   <!-- <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Requirements & Process</th>-->
    <!-- <th>RGL Terms & Conditions</th>-->
    <!-- <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Frequently Asked Questions</th>
   </tr>
