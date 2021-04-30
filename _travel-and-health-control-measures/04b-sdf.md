@@ -6,9 +6,9 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete their SHN at a SHN Dedicated Facility (SDF). The standard cost for a 14-day SDF stay is provided in the tale below. This excludes the costs of PCR tests and laundry.
+In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete their SHN at a SHN Dedicated Facility (SDF). The standard cost for a 14-day SDF stay is provided in the tables below. These exclude the costs of PCR tests and laundry.
 
-<b>Cost of SDF Stay (14 days)</b>
+<b>Cost of SDF Stay (14 Days)</b>
 
 <table>
   <tr>
@@ -26,19 +26,17 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
   </tr>
  </table>
 <br/><br/>
-<sup>*</sup>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.
 <br/><br/>
 <b> Cost of SDF Stay (21 Days)</b>
 
 <table>
   <tr>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$3,000 per person</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$3,000 per person for accomodation and food.</td>
   </tr>
   <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
-    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,950 per person
-    </td>   
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,950 per person for accomodation and food.</td>   
   </tr>
     <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Minors</td>
@@ -46,6 +44,9 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
   </tr>
  </table>
 <br/><br/>
+
+<sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
+
 The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
 Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.>
