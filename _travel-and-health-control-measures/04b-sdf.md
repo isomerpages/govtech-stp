@@ -6,11 +6,49 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-To limit the spread of COVID-19, several hotels in Singapore have been designated as SHN-Dedicated Facilities (SDF). In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete their SHN at an SDF. The standard cost of the 14-day SDF stay for a single adult, is S$2,000, inclusive of meals and GST. The cost excludes the relevant charges for COVID-19 tests. It also excludes laundry, which will require a separate top-up if requested. If there are two adult family members sharing a room (specifically, grandparents, parents, spouse, parents-in-law, siblings or children), the cost of the 14-day SDF stay is S$1,300 per person. Costs will vary for minors depending on their age. The costs will be made known to travellers during the entry approval application process or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
+In general, travellers issued with a 14-day or a 21-day Stay-Home Notice (SHN) will complete their SHN at a SHN Dedicated Facility (SDF). The standard costs are provided in the tables below. These exclude the costs of PCR tests and laundry.
 
-Travellers with travel history from India in the last 14 days prior to entering Singapore will have to serve 21-day SHN at an SDF. The standard cost of the 21-day SDF stay for a single adult is S$3,000, based on pro-ration of existing rates for a 14-day SDF stay. Costs for minors and shared rooms will be likewise be pro-rated the same way. 
+<b>Cost of SDF Stay (14 Days)</b>
+
+<table>
+  <tr>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$2,000 per person for accomodation and food.</td>
+  </tr>
+  <tr>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,300 per person for accomodation and food.
+    </td>   
+  </tr>
+    <tr>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Minors</td>
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
+  </tr>
+ </table>
+
+<b> Cost of SDF Stay (21 Days)</b>
+
+<table>
+  <tr>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$3,000 per person for accomodation and food.</td>
+  </tr>
+  <tr>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,950 per person for accomodation and food.</td>   
+  </tr>
+    <tr>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Minors</td>
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
+  </tr>
+ </table>
+<sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
+
+The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
 Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
+
+
 
 ### SDF Opt-Out
 
