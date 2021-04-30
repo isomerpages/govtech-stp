@@ -26,7 +26,6 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
   </tr>
  </table>
 <br/><br/>
-<br/><br/>
 <b> Cost of SDF Stay (21 Days)</b>
 
 <table>
@@ -43,7 +42,6 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </table>
-<br/><br/>
 
 <sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
 
