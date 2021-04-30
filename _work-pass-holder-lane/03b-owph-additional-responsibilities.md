@@ -54,7 +54,10 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Bangladesh (for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Nepal(for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pakistan(for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka(for arrivals from 1 May 2021, 23:59 hours)</li>
 </ol>
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Defer entry. Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval.</b></td>
@@ -66,7 +69,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
      <!--   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
         <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>-->
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand (for arrivals before 2 May 2021, 23:59 hours)</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
 </ol>   
     </td>
@@ -80,11 +83,12 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions <!--including:--></b>
-     <!--  <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
-      </ol>-->
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
+     <ol style="margin-top:0px; list-style-type:disc;">
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Thailand (for arrivals from 2 May 2021, 23:59 hours)</b></li>
+  <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>-->
+      </ol>
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
@@ -92,12 +96,16 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at SDFs.
      <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before SHN is over
-      <br/><br/> <b>Additional procedures for pass holders with travel history to India, South Africa or United Kingdom within the last 14 days before entering Singapore:</b> 
+      <br/><br/> <b>Additional procedures for pass holders with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom within the last 14 days before entering Singapore:</b> 
               <ol style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to India who: </b>  <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Entered Singapore before 23 April 2021, 23:59 hours: </b> Must complete a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Have not completed their 14-day SHN by 22 April 2021, 23:59 hours: </b> Will also be subject to the 21-day SHN at SDFs.</li>
                 </ul></li>
+                    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Pass holders with travel history to Bangladesh, Nepal, Pakistan or Sri Lanka who: </b>   <ul style="margin-top:0px; list-style-type:disc;">
+                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Enter Singapore before 1 May 2021, 23:59 hours: Must complete a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
+                       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">•	Have not completed their 14-day SHN by 2 May 2021, 23:59 hours: Will also be subject to the 21-day SHN at SDFs.</li>
+                </ul>  </li>
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b> Pass holders with travel history to South Africa or United Kingdom: </b>   <ul style="margin-top:0px; list-style-type:disc;">
                 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After their 14-day SHN at SDFs, they must serve an additional 7-day SHN at home or a hotel. They must take another COVID-19 swab test before the additional 7-day SHN is over.</li>
                 </ul>  </li>
@@ -113,7 +121,14 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 
 <ul>
         <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with recent travel history (including transit) to India within the last 14 days are not allowed to enter Singapore until further notice. This also applies to those who had obtained an entry approval. </b> </li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with recent travel history (including transit) to <u>any of the following countries/regions</u> within the last 14 days are not allowed to enter Singapore until further notice. This also applies to those who had obtained an entry approval:. </b> </li>
+ <ul> 
+   <li style="font-size:18px; line-height:1.5;">Bangladesh (for arrivals from 1 May 2021, 23:59 hours)</li>
+  <li style="font-size:18px; line-height:1.5;">India </li>
+    <li style="font-size:18px; line-height:1.5;">Nepal (for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:18px; line-height:1.5;">Pakistan (for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:18px; line-height:1.5;">Sri Lanka (for arrivals from 1 May 2021, 23:59 hours)</li>
+  </ul>
         <!-- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who departed from, transited through or visited any of the following places within the last 14 days are <b>not allowed to enter Singapore until further notice</b>. Please defer their entry for now:
 <ul>
   <li style="font-size:18px; line-height:1.5;">South Africa</li>
