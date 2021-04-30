@@ -21,10 +21,10 @@ Please click on the relevant links below for more information about the RGL
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/brunei/rgl/terms-and-conditions">Click here</a></td>
   </tr>
        <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8;"><b>Mainland China<sup>2</sup></b></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8;"><b>Mainland China*</b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>
   </tr>
   </tbody>
   </table>
   
-  <sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+<i>* Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang</i>
