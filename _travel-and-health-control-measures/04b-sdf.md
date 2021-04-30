@@ -25,7 +25,7 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </table>
-<br/><br/>
+<br/>
 <b> Cost of SDF Stay (21 Days)</b>
 
 <table>
@@ -46,7 +46,8 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
 
 The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
-Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.>
+Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
+
 
 
 ### SDF Opt-Out
