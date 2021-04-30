@@ -6,7 +6,7 @@ third_nav_title: RGL Travellers Visiting Singapore
 
 ## **Reciprocal Green Lane(RGL) Terms & Conditions**
 
-Please click on the relevant links below for more information about the RGL
+Please click on the relevant links below for more information about the RGL Terms and Conditions.
 
 <table>
 <thead>
