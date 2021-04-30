@@ -25,8 +25,8 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
   <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>*</sup></b></td>
-    <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>*</sup></b></td>
+    <td style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
       <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
