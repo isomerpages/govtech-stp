@@ -45,7 +45,7 @@ third_nav_title: RGL Travellers Visiting Singapore
   </table>
   
   
-  ### Travel history
+### Travel history
 
 Approved RGL-travellers travelling from Mainland China, must remain in Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang, for at least seven days prior to departure for Singapore. 
 
