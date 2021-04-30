@@ -42,7 +42,6 @@ In general, travellers issued with a 14-day Stay-Home Notice (SHN) will complete
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </table>
-
 <sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
 
 The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
