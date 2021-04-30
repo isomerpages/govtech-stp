@@ -6,7 +6,7 @@ third_nav_title: RGL Travellers Visiting Singapore
 
 ## **Reciprocal Green Lane(RGL) Terms & Conditions**
 
-Please click on the relevant links below for more information about the RGL
+Please click on the relevant links below for more information about the RGL Terms and Conditions.
 
 <table>
 <thead>
@@ -20,32 +20,11 @@ Please click on the relevant links below for more information about the RGL
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/brunei/rgl/terms-and-conditions">Click here</a></td>
   </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/germany/rgl/terms-and-conditions">Click here</a></td>
-  </tr>
        <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>2</sup></b></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
-    <!--<td style=" text-align:left;border-right:1px solid #D8D8D8;" >Reciprocal Green Lane suspended. Click <a href="/rgl/notice">here</a> for more details.</td>-->
-       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/indonesia/rgl/terms-and-conditions">Click here</a></td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
-       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/japan/rgl/terms-and-conditions">Click here</a></td>
-  </tr>
-     <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
-       <td style=" text-align:left;border-right:1px solid #D8D8D8;"><a href="/malaysia/rgl/terms-and-conditions">Click here</a></td>
-  </tr>
-       <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Republic of Korea</b></td>
-       <td style=" text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rok/rgl/terms-and-conditions">Click here</a></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8;"><b>Mainland China*</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>
   </tr>
   </tbody>
   </table>
   
-  <sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
+<i>* Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang</i>
