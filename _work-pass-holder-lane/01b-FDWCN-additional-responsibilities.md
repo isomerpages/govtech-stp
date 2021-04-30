@@ -59,11 +59,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
   <ol style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Bangladesh (for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Bangladesh <b>(for arrivals from 1 May 2021, 23:59 hours)</b></li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Nepal (for arrivals from 1 May 2021, 23:59 hours)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pakistan (for arrivals from 1 May 2021, 23:59 hours)</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka (for arrivals from 1 May 2021, 23:59 hours)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Nepal <b>(for arrivals from 1 May 2021, 23:59 hours)</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pakistan <b>(for arrivals from 1 May 2021, 23:59 hours)</b></li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka <b>(for arrivals from 1 May 2021, 23:59 hours)</b></li>
 </ol>
 </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:center; ">Defer entry. <b>Not allowed to enter Singapore until further notice. This also applies to FDWs and CNs who had obtained an entry approval</b></td>
@@ -75,7 +75,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
         <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
         <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>-->
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand (for arrivals before 2 May 2021, 23:59 hours)</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand <b>(for arrivals before 2 May 2021, 23:59 hours)</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
 </ol>   
     </td>
