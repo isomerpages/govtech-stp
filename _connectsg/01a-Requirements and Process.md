@@ -9,7 +9,13 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <li>Travelling for business or official purposes, or of high economic value to Singapore; and</li>
 <li>Seeking to make a short-term stay of up to 14 days.</li>
 </ul>
-From <b>23 April 2021, 2359 hours</b> until further notice, travellers with travel history to India in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>.<br/>
+
+Until further notice, travellers with travel history to the following countries/regions in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
+- Bangladesh (from 1 May, 2359 hours)
+- India 
+- Nepal (from 1 May, 2359 hours)
+- Pakistan (from 1 May, 2359 hours)
+- Sri Lanka (from 1 May, 2359 hours)
 
 ### 2. Submit Approvals for Entry into Singapore
 
