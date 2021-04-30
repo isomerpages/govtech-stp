@@ -22,7 +22,10 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   <tr>
       <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
   </tr>
-   
+     <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
+  </tr>
   </tbody>
   </table>
 Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a> instead. 
