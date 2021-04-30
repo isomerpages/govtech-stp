@@ -6,7 +6,9 @@ third_nav_title: RGL Travellers Visiting Singapore
 
 ## Reciprocal Green Lane
 
-The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following counterpart countries/regions:
+The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following counterpart countries/regions.
+
+Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a>
 
 <table>
 <thead>
@@ -32,8 +34,9 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   </tr>
   </tbody>
   </table>
+  *Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
   
-## Important Notice
+## RGL Suspension Notices for Germany, Indonesia, Malaysia, Japan and Republic of Korea
 
 <table>
 <thead>
@@ -43,13 +46,6 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8; vertical-align: middle;">Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
-  </tr>
-  <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
-  </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
        <td style="text-align:left;border-right:1px solid #D8D8D8;"><b>IMPORTANT NOTICE</b><br/><br/>The Singapore-Germany Reciprocal Green Lane (RGL) is currently suspended until further notice.<br/><br/>Singapore Citizens (SC) and Permanent Residents (PR) can still travel from Germany to Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/ PR Lane</a>. Long-term Pass Holders may apply for entry into Singapore through the <a href="/wphl/overview">Work Pass Holder Lane</a>, <a href="/pca/overview">Periodic Commuting Arrangement</a> or the <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>. Family members of Singapore Citizens and Permanent Residents may also apply for entry into Singapore through the <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a>. <br/><br/>For all other travellers not covered by the arrangements above, entry into Singapore is not allowed except in exceptional and urgent circumstances.<br/><br/> For travels from Singapore to Germany, please refer to the Singapore MFA Germany Travel Page for information on entry requirements into Germany and health measures upon arrival. </td>
