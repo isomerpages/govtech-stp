@@ -13,4 +13,10 @@ For the entire duration of their stay, travellers will be required to stay withi
 
 A traveller wishing to take part in the Connect@Singapore initiative must submit applications through an Appointed Facility (the latest list of Appointed Facilities can be found [here](https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html)). The Appointed Facility will then apply for a SafeTravel Pass for the traveller on their behalf. A SafeTravel Pass approval letter will be issued to the Appointed Facility and travellers upon approval of the application. Travellers who require a visa to travel to Singapore must separately obtain a valid visa before departing for Singapore. Individuals can check if they require a visa to enter Singapore [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements). 
 
-From <b>23 April 2021, 2359 hours</b> until further notice, travellers with travel history to India in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>.
+### Notice - Exclusions
+Until further notice, travellers with travel history to the following countries/regions in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
+- Bangladesh (from 1 May, 2359 hours)
+- India 
+- Nepal (from 1 May, 2359 hours)
+- Pakistan (from 1 May, 2359 hours)
+- Sri Lanka (from 1 May, 2359 hours)
