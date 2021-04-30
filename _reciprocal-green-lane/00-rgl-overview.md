@@ -36,6 +36,8 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   </table>
   *Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin, Zhejiang
   
+Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a> instead. 
+  
 ## RGL Suspension Notices for Germany, Indonesia, Malaysia, Japan and Republic of Korea
 
 <table>
@@ -68,7 +70,4 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
   </tr>
   </tbody>
   </table>
-  
-Singapore residents who wish to travel to an RGL counterpart country/region via the RGL, may click <a href="https://safetravel.ica.gov.sg/rgl/visiting-rgl-counterparts">here</a> instead. 
-
-
+ 
