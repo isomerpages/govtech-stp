@@ -7,20 +7,28 @@ third_nav_title: RGL Travellers Visiting Singapore
 ## Reciprocal Green Lane
 
 The Reciprocal Green Lane (RGL) facilitates short-term essential business and official travel between Singapore and the following counterpart countries/regions:
+
 <table>
 <thead>
   <tr>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">NOTE</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Requirements & Process</th>
+   <!-- <th>RGL Terms & Conditions</th>-->
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Frequently Asked Questions</th>
   </tr>
 </thead>
 <tbody>
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">Business and official travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
+     <!-- <td style="text-align:center;"><a href="/brunei/rgl/terms-and-conditions">Click here</a></td>-->
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
   <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China<sup>*</sup></b></td>
+    <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/requirements-and-process">Click here</a></td>
+      <!--<td style="text-align:center;"><a href="/china/rgl/terms-and-conditions">Click here</a></td>-->
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/faq">Click here</a></td>
   </tr>
   </tbody>
   </table>
