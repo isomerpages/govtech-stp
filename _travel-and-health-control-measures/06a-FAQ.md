@@ -239,7 +239,7 @@ Click here to [Go Back To Top](#top).
 ## Pre-Departure Test for Travellers Departing from Singapore
 
 #### 1. I have been vaccinated in Singapore. Am I still required to take a pre-departure test to leave the country?
-Travellers who have been vaccinated in Singapore should check with the authorities of the destination country/region, on whether they are still required to take a pre-departure test before arrival.
+Travellers who have been vaccinated in Singapore should check with the authorities of the destination country/region, on whether they are still required to take a pre-departure test before arrival. Non-vaccinated individuals (including children) who intend to travel should likewise check on the prevailing border and health control measures they should abide by in the destination country/region.
 
 #### 2. Do clinics need to help travellers digitally authenticate and endorse their HealthCerts?
 
