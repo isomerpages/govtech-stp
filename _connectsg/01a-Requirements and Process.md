@@ -11,11 +11,11 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 </ul>
 
 Until further notice, travellers with travel history to the following countries/regions in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
-- Bangladesh (from 1 May, 2359 hours)
+- Bangladesh 
 - India 
-- Nepal (from 1 May, 2359 hours)
-- Pakistan (from 1 May, 2359 hours)
-- Sri Lanka (from 1 May, 2359 hours)
+- Nepal 
+- Pakistan 
+- Sri Lanka 
 
 ### 2. Submit Approvals for Entry into Singapore
 
