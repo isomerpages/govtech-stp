@@ -87,7 +87,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </td>
  </tr>
                <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mandatory COVID-19 Travel Insurance (for visitors who apply for an ATP from 31 January 2021, 2359hrs)</b> </td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mandatory COVID-19 Travel Insurance</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs.
@@ -163,6 +163,9 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
   </thead>
 <tbody>
+  <tr> <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Upon arrival in Changi Airport</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors should complete all procurement of goods and services in the transit area of the airport, <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on <i>"Transport from airport to accommodation"</i> below.</td>
+  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
@@ -179,7 +182,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>
+Visitors are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exceptions are for:
+<ol style="margin-top:0px; list-style-type: decimal;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">procurement of goods and services in the airport transit area, before arrival immigration; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.</li>
+         </ol>
          </td>
  </tr>
   <tr>
@@ -206,8 +214,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
   </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
     </td>
   </tr>
 
