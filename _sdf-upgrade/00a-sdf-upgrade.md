@@ -13,7 +13,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 1:** Travellers who require entry approval to Singapore will need to obtain entry approval before making a suite booking. If you are unsure whether you need entry approval, please check the list of Safe Travel Lanes [here](/arriving/overview).
 
-**Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 14 days to certain countries/regions before booking their suite. 
+**Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite. 
 
 **Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF).
  
@@ -50,7 +50,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 </td>
     </tr>
         <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 14 days prior to entering Singapore</b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 21 days prior to entering Singapore</b>
 </td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 14 days prior to entering Singapore</b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 21 days prior to entering Singapore</b>
 </td>
     </tr>
    <tr>
@@ -86,7 +86,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
    </tr>
     <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa, United Kingdom, Indonesia or Philippines in the last 14 days prior to entering Singapore</b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa, United Kingdom, Indonesia or Philippines in the last 21 days prior to entering Singapore</b>
 </td>
     </tr>
       <tr>
@@ -104,7 +104,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
 <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b><u>Only</u> for travellers with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 14 days prior to entering Singapore <br><br> <u>Costs will be based on pro-ration of existing rates for a 14-day SDF stay (at the top of this table)</u></b>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b><u>Only</u> for travellers with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 21 days prior to entering Singapore <br><br> <u>Costs will be based on pro-ration of existing rates for a 14-day SDF stay (at the top of this table)</u></b>
 </td>
     </tr>
   <tr>
@@ -131,7 +131,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF). 
 
-**Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 14 days to certain countries/regions before booking their suite.
+**Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite.
 
 **Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
 
