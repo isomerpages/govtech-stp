@@ -25,7 +25,7 @@ The following groups should **not** apply for entry through the STPHL:
 
 Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table [here](/files/SHN-and-swab-summary.pdf). You may click the links to find out more about [SHN](/health/shn), [SHN in dedicated facilities](/health/shn/sdf) and [COVID-19 swabs](/health/covid19-tests/pcrtest), including details on costs and payment procedures.
 
-The border health requirements will be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
+The border health requirements may be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
 
 ### 3. Submit Approvals for Entry into Singapore
 
