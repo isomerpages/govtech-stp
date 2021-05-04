@@ -185,9 +185,9 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">After obtaining arrival immigration clearance, travellers will be directed to take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> before commuting directly to their own accommodation or <a href="/health/shn/sdf">SDF</a>.</p>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served. See Section 5 (“Post-Arrival”) for more details</p>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">After obtaining arrival immigration clearance, travellers will be directed to take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> before commuting directly to their own accommodation or <a href="/health/shn/sdf">SDF</a>.</p><br/>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served. See Section 5 (“Post-Arrival”) for more details</p><br/>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.</p><br/>
       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers arriving from countries/regions at S/N 3 of the table here are permitted to opt out of staying at the SDF, subject to approval and relevant terms and conditions here.</p>
     </td>
   </tr>
