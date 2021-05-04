@@ -1,15 +1,15 @@
 ---
-title: SDF Opt-out for SC/PR
+title: SDF Partial Opt-out for SC/PR
 permalink: /SC-PR/opt-out
-third_nav_title: SDF Opt-out for SC/PR
+third_nav_title: SDF Partial Opt-out for SC/PR
 ---
 
-## Stay-Home Notice Dedicated Facility (SDF) Opt-out
+## Stay-Home Notice Dedicated Facility (SDF) Partial Opt-out
 
-1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve their 14-day SHN at a suitable place of residence. <br/><br/>
+1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve part of their 21-day SHN at a suitable place of residence. <br/><br/>
 
-2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may apply to opt-out of SHN dedicated facilities, and serve their 14-day Stay-Home Notice (SHN) at their place of residence, if they fulfil the following criteria:
-- Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 14 days prior to departure for Singapore;
+2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may apply to serve their last 7-days of the 21 day SHN at their place of residence, if they fulfil the following criteria:
+- Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 21 days prior to departure for Singapore;
 - Are occupying their place of residence (i.e. residential address*) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
 - There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.
 
@@ -25,7 +25,7 @@ third_nav_title: SDF Opt-out for SC/PR
 
 7. Strict enforcement action will be taken against those who breach the requirements of the SHN or make false declarations. If they are found to have breached any of the conditions stated above or to be in non-compliance with the terms of the SHN, they may be prosecuted in court for an offence under Singapore law, including the Penal Code and Infectious Diseases Act and/or any regulations promulgated thereunder, such as the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020. Upon conviction, they may be liable to a fine or to imprisonment or to both. Also, the approval to opt-out of SDF may be revoked, and the approved traveller(s) and their household members may be required to serve out the entire duration of the SHN at an SDF at their own cost. 
 
-#**Transport Service Provider for Persons Serving 14-Day SHN at Place of Residence**
+#**Transport Service Provider for Persons Serving 21-Day SHN at Place of Residence**
 
 <table>
   <thead>

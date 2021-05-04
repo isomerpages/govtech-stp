@@ -24,7 +24,7 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-The duration of your SHN, if required, depends on your 14-day travel history. The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued. [Click here](/shn-calculator) to calculate the end date of your SHN.
+The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore. The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued. [Click here](/shn-calculator) to calculate the end date of your SHN.
 
 Prospective travellers may also refer to this [table](/files/SHN-and-swab-summary.pdf), or the specific SafeTravel lane (can be accessed from this [page](/arriving/overview)) for information pertaining to SHN and its duration.
 

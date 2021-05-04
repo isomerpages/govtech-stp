@@ -21,8 +21,13 @@ The following groups should **not** apply for entry through the STPHL:
 - Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the application process for the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
 - Immediate family members or relatives of Singapore Citizens (SC) or Singapore Permanent Residents (PR) should **not** apply for entry through the STPHL. They should apply via the [Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process) instead. 
 
+### 2. Check Border Health Requirements
 
-### 2. Submit Approvals for Entry into Singapore
+Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table [here](/files/SHN-and-swab-summary.pdf). You may click the links to find out more about [SHN](/health/shn), [SHN in dedicated facilities](/health/shn/sdf) and [COVID-19 swabs](/health/covid19-tests/pcrtest), including details on costs and payment procedures.
+
+The border health requirements will be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
+
+### 3. Submit Approvals for Entry into Singapore
 
 <table>
   <tbody>
@@ -34,8 +39,8 @@ The following groups should **not** apply for entry through the STPHL:
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-    <i><span style= "color:red;">[Notice] Foreigners with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 14 days will not be granted entry approvals to enter Singapore until further notice. Entry approvals granted to enter Singapore from 2 May 2021 have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>      
-Eligible travellers should submit applications for entry approval through <a href="https://eservices.ica.gov.sg/STO">SafeTravel online portal</a>, at least <b><u>two weeks</u></b> from the planned date of entry. They can apply for entry up to about two months in advance. You may refer to the <a href="/files/stp-application-step-by-step-guide.pdf">Guide to Applying for Entry Approval</a> when submitting the application. <br/><br/>
+    <i><span style= "color:red;">[Notice] Foreigners with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. Entry approvals granted to enter Singapore from 2 May 2021 have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>      
+Eligible travellers should submit applications for entry approval through the <a href="https://eservices.ica.gov.sg/STO">SafeTravel online portal</a>, at least <b><u>two weeks</u></b> from the planned date of entry. They can apply for entry up to about two months in advance. You may refer to the <a href="/files/stp-application-step-by-step-guide.pdf">Guide to Applying for Entry Approval</a> when submitting the application. <br/><br/>
     STP holders and their accompanying family members (if eligible) should submit their applications together. Via the online portal, STP holders may only apply for up to three travellers at a time. <b>If you meet the above-mentioned eligibility criteria but need to apply for more than three travellers, please write in using the <a href="https://go.gov.sg/sto-enquiry">SafeTravel enquiry form.</a></b><br/><br/>
      Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for the week of travel indicated in the application.</td>
     </tr>
@@ -59,7 +64,7 @@ Eligible travellers should submit applications for entry approval through <a hre
 </table>
 
   
-### 3. Pre-Departure for Singapore
+### 4. Pre-Departure for Singapore
 
 <table>
 <tbody>
@@ -70,7 +75,7 @@ Eligible travellers should submit applications for entry approval through <a hre
   </thead>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test </b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers, including but not limited to Long Term Pass Holders (LTPH) and short-term visitors, who have spent the last 14 consecutive days in certain countries/regions, as listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore  <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">authorised health centre</a> designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result, that:
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers, including but not limited to Long Term Pass Holders (LTPH) and short-term visitors, who had travel history to certain countries/regions, as listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore  <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">authorised health centre</a> designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result, that:
       <ol style="list-style-type: lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
@@ -84,7 +89,7 @@ Eligible travellers should submit applications for entry approval through <a hre
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://oat.mpa.gov.sg/">here</a> if they are arriving at Tanah Merah Ferry Terminal. For travelers arriving from land checkpoints, there is no need to register and pre-pay for their tests. Travellers who have yet to pay for their on-arrival COVID-19 PCR test will be required to pay on the spot; and
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://oat.mpa.gov.sg/">here</a> if they are arriving at Tanah Merah Ferry Terminal. For travellers arriving from land checkpoints, there is no need to register and pre-pay for their tests. Travellers who have yet to pay for their on-arrival COVID-19 PCR test will be required to pay on the spot; and
        </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
        </li>
@@ -104,7 +109,7 @@ Eligible travellers should submit applications for entry approval through <a hre
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa to enter Singapore (for visa-required travellers); and
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore.
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore. (if applicable)
        </li>
       </ol>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
@@ -114,7 +119,7 @@ Eligible travellers should submit applications for entry approval through <a hre
 </table>
 
 
-### 4. Arrival in Singapore
+### 5. Arrival in Singapore
 
 <table>
 <thead>
@@ -127,18 +132,19 @@ Eligible travellers should submit applications for entry approval through <a hre
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
-       Depending on the traveller’s recent travel history in the past consecutive 14 days to countries/regions listed in the Summary Table  <a href="/files/SHN-and-swab-summary.pdf">here</a>, travellers may be required to:
-        <ol style="margin-top:0px; list-style-type: lower-roman;">
+       Depending on the traveller’s travel history prior to arrival in Singapore, a Stay-Home Notice (SHN) may be served. <br/><br/> 
+       Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
+       <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 PCR test and Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 PCR test and Serve 14-day <a href="/health/shn">SHN</a> at <a href="/health/shn/sdf">SHN Dedicated Facility (SDF)</a> and take a COVID-19 PCR test during the SHN period, at their own cost. </li>
-         </ol> 
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by MOE during the entry approval process.</p>
+         </ol> -->
+      <!-- <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers arriving from certain countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a> are permitted to opt out of staying at the SDF, subject to approval by MOE during the entry approval process.</p>-->
     </td>
   </tr>
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving <a href="/health/shn">Stay Home Notice (SHN)</a> at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, <a href="/health/faq#transport">taxi, or private hire car</a> from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of <b>public transport is not allowed</b>.<br/><br/>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation or serving <a href="/health/shn">Stay Home Notice (SHN)</a> at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, <a href="/health/faq#transport">taxi, or private hire car</a> from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of <b>public transport is not allowed</b>.<br/><br/>
 For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided.
     </td>
   </tr>
@@ -146,20 +152,19 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
  </table>
  
  
-
-### 5. Post-Arrival 
+### 6. Post-Arrival 
 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 14 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 21 days after arriving in Singapore</th>
   </tr>
   </thead>
 <tbody>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation/SHN</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours, they have to self-isolate at their declared accommodation until they are notified of their negative result.<br/><br/>
-     For travellers who are required to serve 7 or 14-day SHN at place of residence or SDF, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
+     For travellers who are required to serve SHN at a place of residence or SDF, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
     </td>
   </tr>

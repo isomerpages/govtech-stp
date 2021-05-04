@@ -166,12 +166,12 @@ Travellers will be transported to their assigned SDF using Government-arranged t
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
-"><b><u>Up to 14 days after arriving</u></b> in Singapore</th>
+"><b><u>Up to 21 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
 <tr>
-    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction (PCR) Test ("PCR Test")</b></td>
+    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test(s) ("PCR Test")</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details (sent to the sponsor's email and mobile phone) to their employees;</li>
