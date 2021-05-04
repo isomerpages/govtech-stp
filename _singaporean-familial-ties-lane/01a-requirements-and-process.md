@@ -57,8 +57,14 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
   </tr>
 </table>
 
+### 2. Check Border Health Requirements
 
-### 2. Submit Approvals for Entry into Singapore
+Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table [here](/files/SHN-and-swab-summary.pdf). You may click the links to find out more about [SHN](/health/shn), [SHN in dedicated facilities](/health/shn/sdf) and [COVID-19 swabs](/health/covid19-tests/pcrtest), including details on costs and payment procedures.
+
+The border health requirements will be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
+
+
+### 3. Submit Approvals for Entry into Singapore
 
 <table>
   <tbody>
@@ -70,7 +76,7 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-    <i><span style= "color:red;"> [Notice] Non-residents with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. All entry approvals granted to enter Singapore from 2 May 2021 had been withdrawn. Payment made for the stay at the dedicated SHN facilities and COVID-19 exit swab test will be fully refunded. If payment had been made for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>
+    <i><span style= "color:red;"> [Notice] Non-residents with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. All entry approvals granted to enter Singapore from 2 May 2021 all had been withdrawn. Payment made for the stay at the dedicated SHN facilities and COVID-19 exit swab test will be fully refunded. If payment had been made for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>
     <u>Application via SafeTravel Portal</u>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using Singpass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
 </p>
@@ -116,7 +122,7 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
   </tbody>
 </table>
   
-### 3. Pre-Departure for Singapore
+### 4. Pre-Departure for Singapore
 
 <table>
 <tbody>
@@ -173,7 +179,7 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
 </tbody>
 </table>
 
-### 4. Arrival in Singapore
+### 5. Arrival in Singapore
 
 <table>
 <thead>
@@ -186,9 +192,8 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">After obtaining arrival immigration clearance, travellers will be directed to take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> before commuting directly to their own accommodation or <a href="/health/shn/sdf">SDF</a>.</p><br/>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served. See Section 5 (“Post-Arrival”) for more details</p><br/>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served.</p><br/>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.</p><br/>
-      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers arriving from countries/regions at S/N 3 of the table here are permitted to opt out of staying at the SDF, subject to approval and relevant terms and conditions here.</p>
     </td>
   </tr>
   <tr>
@@ -207,7 +212,7 @@ For travellers who are required to serve SHN at an SHN Dedicated Facility (SDF) 
  </tbody>
  </table>
  
-### 5. Post-Arrival 
+### 6. Post-Arrival 
 
 <table>
 <thead>
