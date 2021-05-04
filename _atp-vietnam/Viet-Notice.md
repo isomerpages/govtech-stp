@@ -5,7 +5,7 @@ permalink: /vietnam/atp/notice
 
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR VIETNAM 
 
-Given the evolving COVID-19 situation in Vietnam, Singapore will tighten border measures for travellers with travel history to Vietnam within the last 21 days before departure for Singapore. 
+Given the evolving COVID-19 situation in Vietnam, Singapore will tighten border measures for travellers with travel history to Vietnam within the last 14 days before departure for Singapore. 
 
 
 ### Short-term Visitors 
