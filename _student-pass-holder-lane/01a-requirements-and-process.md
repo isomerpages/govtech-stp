@@ -21,8 +21,13 @@ The following groups should **not** apply for entry through the STPHL:
 - Foreign students and their family members holding MOM-issued passes (e.g. Dependent’s Pass) are not eligible for entry application through the STPHL. They should refer to the application process for the [Work Pass Holder General Lane (WPHL)](/wphl/overview).
 - Immediate family members or relatives of Singapore Citizens (SC) or Singapore Permanent Residents (PR) should **not** apply for entry through the STPHL. They should apply via the [Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process) instead. 
 
+### 2. Check Border Health Requirements
 
-### 2. Submit Approvals for Entry into Singapore
+Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table [here](/files/SHN-and-swab-summary.pdf). You may click the links to find out more about [SHN](/health/shn), [SHN in dedicated facilities](/health/shn/sdf) and [COVID-19 swabs](/health/covid19-tests/pcrtest), including details on costs and payment procedures.
+
+The border health requirements will be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
+
+### 3. Submit Approvals for Entry into Singapore
 
 <table>
   <tbody>
@@ -59,7 +64,7 @@ Eligible travellers should submit applications for entry approval through the <a
 </table>
 
   
-### 3. Pre-Departure for Singapore
+### 4. Pre-Departure for Singapore
 
 <table>
 <tbody>
@@ -114,7 +119,7 @@ Eligible travellers should submit applications for entry approval through the <a
 </table>
 
 
-### 4. Arrival in Singapore
+### 5. Arrival in Singapore
 
 <table>
 <thead>
@@ -127,8 +132,8 @@ Eligible travellers should submit applications for entry approval through the <a
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
-       Depending on the traveller’s travel history prior to arrival in Singapore, a Stay-Home Notice (SHN) may be served. See Section 5 (“Post-Arrival”) for more details. 
-Travellers may refer to this table to find out which requirement they would be subjected to upon arrival.
+       Depending on the traveller’s travel history prior to arrival in Singapore, a Stay-Home Notice (SHN) may be served. <br/><br/> 
+       Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 PCR test and Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
@@ -147,8 +152,7 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
  </table>
  
  
-
-### 5. Post-Arrival 
+### 6. Post-Arrival 
 
 <table>
 <thead>
