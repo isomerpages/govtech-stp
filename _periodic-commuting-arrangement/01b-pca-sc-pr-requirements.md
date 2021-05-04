@@ -4,7 +4,7 @@ permalink: /pca/scpr-requirement-and-process
 third_nav_title: Singapore Citizens/PRs Working in Malaysia
 ---
 
-No application is required for Singapore Citizens (SC) or Singapore Permanent Residents (PR). From 7 May 2021, 2359 hrs, all travellers who have had recent travel history to Malaysia within the last 21 days prior to arrival in Singapore will be required to serve <u>a 21-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)</u>.
+No application is required for Singapore Citizens (SC) or Singapore Permanent Residents (PR). From 7 May 2021, 2359 hrs, all travellers with travel history to Malaysia in the last 21 days before arriving in Singapore will be required to serve <u>a 21-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)</u>.
 
 For more information on the prevailing health measures for SC/PRs returning from abroad please refer [here](/health/shn).
 
