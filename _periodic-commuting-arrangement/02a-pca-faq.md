@@ -341,7 +341,7 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for two other PCR tests on the 14th and 21st day of their SHN. 
+Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for two other PCR tests on the 14<sup>th</sup> and 21<sup>st</sup> day of their SHN. 
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 
