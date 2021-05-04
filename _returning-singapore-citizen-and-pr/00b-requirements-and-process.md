@@ -13,8 +13,8 @@ permalink: /SC-PR/requirements-and-process
 
 ### 3. Check Border Health Requirements
 
-<span class="font-size:16px;">Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a>. You may click the links to find out more about <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a>, <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in dedicated facilities</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 swabs</a>, including details on costs and payment procedures.<br/><br/>
-The border health requirements will be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
+<span class="font-size:16px;">Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements which depend on your travel history in the past 21 days prior to arriving in Singapore, via this table <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a>. You may click the links to find out more about <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a>, <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in dedicated facilities</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 swabs</a>, including details on costs and payment procedures.<br/><br/>
+The border health requirements may be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
 </span>
 
 ### 4. Pre-Departure to Singapore
