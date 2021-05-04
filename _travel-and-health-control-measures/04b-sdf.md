@@ -6,7 +6,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-In general, travellers issued with a 21-day Stay-Home Notice (SHN) will complete their SHN at a SHN Dedicated Facility (SDF). The standard costs are provided in the tables below. These exclude the costs of PCR tests and laundry.
+Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF) assigned to them by the Singaprore Government. The standard costs for SDF stays are provided in the tables below. These exclude the costs of PCR tests and laundry.
 
 <b>Cost of SDF Stay (14 Days)</b>
 
@@ -44,10 +44,9 @@ In general, travellers issued with a 21-day Stay-Home Notice (SHN) will complete
  </table>
 <sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
 
-The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
+The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
-Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
-
+Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
 
 
 ### SDF Opt-Out
@@ -68,7 +67,7 @@ Travellers may opt-out of SDF if they satisfy either of the following conditions
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using Safe Travel Lanes from countries/regions eligible for SDF partial opt-out, where they have remained for the past 21 days before departure to Singapore, and will serve their SHN at their own residence<sup>[1]</sup>:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out, where they have remained for the past 21 days before departure to Singapore, and will serve their SHN at their own residence<sup>[1]</sup>:
           <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
             <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> Alone, i.e. no domestic helper(s); or </li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>

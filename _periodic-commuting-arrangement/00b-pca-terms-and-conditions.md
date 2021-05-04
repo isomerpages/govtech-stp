@@ -52,7 +52,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 
 9. The Employer/foreign employee shall bear the full costs of the foreign employee's stay at a dedicated SHN facility during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee. 
 
-10. The Employer/foreign employee shall bear the full costs of the foreign employee's COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 21 days of returning to Singapore.
+10. The Employer/foreign employee shall bear the full costs of the foreign employee's COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 14 days of returning to Singapore.
 
 11. The Employer shall ensure that the foreign employee fully complies with the additional work pass conditions imposed on the foreign employee for the SHN period.
 

@@ -151,7 +151,7 @@ Visitors may refer to the Singapore Hotel Association (SHA) [website](https://sh
 
 #### 27. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 
-Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 14 days prior to departure for Singapore.
+Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 21 days prior to departure for Singapore.
 
 Please also note that if the visitor's test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
 

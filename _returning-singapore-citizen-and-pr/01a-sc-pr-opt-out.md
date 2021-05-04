@@ -8,7 +8,7 @@ third_nav_title: SDF Partial Opt-out for SC/PR
 
 1. The Multi-Ministry Taskforce regularly reviews our border measures to manage the risk of importation and onward local transmission from travellers. Given the surveillance regime that we have put in place for travellers serving Stay-Home Notice (SHN) at their own residence, we will also adopt a risk-based approach and allow more travellers to serve part of their 21-day SHN at a suitable place of residence. <br/><br/>
 
-2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may apply to serve their last 7-days of the 21 day SHN at their place of residence, if they fulfil the following criteria:
+2. Travellers from [selected countries](/files/SHN-and-swab-summary.pdf) (as indicated in S/N 3 of the table) may apply to serve their last 7-days of the 21-day SHN at their place of residence, if they fulfil the following criteria:
 - Travelled to no other country/region/place than the above mentioned countries/regions/places, in the last consecutive 21 days prior to departure for Singapore;
 - Are occupying their place of residence (i.e. residential address*) alone, or only with household members with the same travel history, who are also serving their SHN of the same duration and period; and
 - There is no one ordinarily residing at the place of residence (e.g. domestic helper) who does not share the same travel history, and the traveller has already made all necessary arrangements to ensure that any such person will not reside at the place of residence until the conclusion of the SHN period.

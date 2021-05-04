@@ -4,7 +4,7 @@ permalink: /wphl/overview
 ---
 
 <b><span style="color:red">[NOTICE]</span> </b> <br/>
-<b><span style="font-size:16px; line-height:1.0; color:red;">Foreigners with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. Entry approvals granted to enter Singapore from 2 May 2021 have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.
+<b><span style="font-size:16px; line-height:1.0; color:red;">Due to the worsening global situation, entry approvals for foreigners will be reduced with immediate effect. Foreigners with recent travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka will not be granted entry approvals to enter Singapore until further notice.
 </span></b><br/>
 
 ## Overview 
