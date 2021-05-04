@@ -331,7 +331,7 @@ Yes. From 1 March 2021, employers can update Sponsor's details and employee's pa
  
 #### 5. What do I do if my employee needs to return to Malaysia before the 3-month (i.e. 90 days) stay is up?
 
-The employee is permitted to leave Singapore. However, employers should note that they will only be able to apply for another PCA for the employee’s re-entry into Singapore, 90 days <u>after</u> their previous entry into Singapore.
+The employee is permitted to leave Singapore. However, employers should note that they will only be able to apply for another PCA for the employee’s re-entry into Singapore, 90 days after their previous entry into Singapore.
 
 ##### Click here to go to the [top](#top).
 
@@ -341,11 +341,11 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees. All arriving PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints, and the exit from Stay-Home Notice (SHN) PCR test is automatically scheduled by the relevant authorities. 
+Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for two other PCR tests on the 14th and 21st day of their SHN. 
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 
-Employers or employees that do not have the details of the COVID-19 PCR test appointment date, time and designated test site <u>by the 11th day</u> of the SHN period should write in to [COVID_SafeTravelAppeals@mti.gov.sg](mailto:COVID_SafeTravelAppeals@mti.gov.sg). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
+Employers or employees that do not have the details of the COVID-19 PCR test appointment date, time and designated test site <u>by the 11th day</u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
 
 #### 2. My employee did not turn up for his/her COVID-19 Polymerase Chain Reaction test (“PCR test”) on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
@@ -355,8 +355,8 @@ Travellers should not turn up for their COVID-19 PCR test <u>if</u> they are [un
 
 #### 3. How will I and/or my employee be informed of his/her COVID-19 test result?
 
-COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/pcrtest) results will be sent to employers <u>within 2 days</u> of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
+COVID-19 [Polymerase Chain Reaction test (“PCR test")](/health/covid19-tests/pcrtest) results will be sent to employers within 2 days of the test. Should there be a need for a second test, employers will be informed. Employers should remind their employees to remain in their accommodation until after being tested negative for COVID-19.
 
-Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call the SafeTravel Enquiries Helpline at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry> and provide the employee's name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer's contact details. 
+Employers that do not receive a notification of the test result, 2 days from when the test was taken, should either call us at 6812 5555 or submit a webform via <https://go.gov.sg/sto-enquiry>  and provide the employee’s name and FIN (for work pass holders) or NRIC number (for Singapore PRs), as well as the employer’s contact details.
 
 ##### Click here to go to the [top](#top).
