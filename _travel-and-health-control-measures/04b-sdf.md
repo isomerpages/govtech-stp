@@ -6,7 +6,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-In general, travellers issued with a 21-day Stay-Home Notice (SHN) will complete their SHN at a SHN Dedicated Facility (SDF). The standard costs are provided in the tables below. These exclude the costs of PCR tests and laundry.
+Travellers arriving from high-risk countries/regions will be required to serve their Stay Home Notice at an SHN Dedicated Facility(SDF). The standard costs are provided in the tables below. These exclude the costs of PCR tests and laundry.
 
 <b>Cost of SDF Stay (14 Days)</b>
 
