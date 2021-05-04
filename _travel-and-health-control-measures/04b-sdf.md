@@ -13,11 +13,11 @@ In general, travellers issued with a 14-day or a 21-day Stay-Home Notice (SHN) w
 <table>
   <tr>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$2,000 per person for accomodation and food.</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$2,000 per person for accommodation and food.</td>
   </tr>
   <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
-    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,300 per person for accomodation and food.
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,300 per person for accommodation and food.
     </td>   
   </tr>
     <tr>
@@ -31,11 +31,11 @@ In general, travellers issued with a 14-day or a 21-day Stay-Home Notice (SHN) w
 <table>
   <tr>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$3,000 per person for accomodation and food.</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$3,000 per person for accommodation and food.</td>
   </tr>
   <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
-    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,950 per person for accomodation and food.</td>   
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,950 per person for accommodation and food.</td>   
   </tr>
     <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Minors</td>
