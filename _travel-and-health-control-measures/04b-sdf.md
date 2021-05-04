@@ -68,7 +68,7 @@ Travellers may opt-out of SDF if they satisfy either of the following conditions
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using Safe Travel Lanes from countries/regions eligible for SDF partial opt-out, where they have remained for the past 21 days before departure to Singapore, and will serve their SHN at their own residence<sup>[1]</sup>:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out, where they have remained for the past 21 days before departure to Singapore, and will serve their SHN at their own residence<sup>[1]</sup>:
           <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
             <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> Alone, i.e. no domestic helper(s); or </li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
