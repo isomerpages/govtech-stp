@@ -109,7 +109,7 @@ Eligible travellers should submit applications for entry approval through the <a
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid visa to enter Singapore (for visa-required travellers); and
        </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore. (if applicable)
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore (if applicable).
        </li>
       </ol>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
@@ -132,7 +132,7 @@ Eligible travellers should submit applications for entry approval through the <a
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
-       Depending on the traveller’s travel history prior to arrival in Singapore, a Stay-Home Notice (SHN) may be served. <br/><br/> 
+       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. <br/><br/> 
        Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
