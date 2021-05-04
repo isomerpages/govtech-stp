@@ -46,7 +46,7 @@ Travellers arriving from high-risk countries/regions will be required to serve t
 
 The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
-Due to the fast-changing demand for SDF capacity, all arriving travellers will be assigned to an SDF by the Government. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
+Due to the fast-changing demand for SDF capacity, <u> all arriving travellers will be assigned to an SDF by the Government</u>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
 
 
 
