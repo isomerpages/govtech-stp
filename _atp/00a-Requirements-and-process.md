@@ -69,7 +69,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel history</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in their declared point of departure in the last 14 consecutive days before departing for Singapore</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in their declared point of departure in the last 21 consecutive days before departing for Singapore</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure; Visitors should not travel to Singapore if they:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
