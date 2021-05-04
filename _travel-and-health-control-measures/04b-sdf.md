@@ -6,7 +6,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice at an SHN Dedicated Facility (SDF). The standard costs are provided in the tables below. These exclude the costs of PCR tests and laundry.
+Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF) assigned to them by the Singaprore Government. The standard costs for SDF stays are provided in the tables below. These exclude the costs of PCR tests and laundry.
 
 <b>Cost of SDF Stay (14 Days)</b>
 
@@ -44,10 +44,9 @@ Travellers arriving from higher-risk countries/regions will be required to serve
  </table>
 <sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
 
-The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments.  Please refer to the [FAQs](/health/faq#shnsdf) for more information.
+The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
-Due to the fast-changing demand for SDF capacity, <u> all arriving travellers will be assigned to an SDF by the Government</u>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
-
+Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
 
 
 ### SDF Opt-Out
