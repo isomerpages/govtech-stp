@@ -70,7 +70,7 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-    <i><span style= "color:red;"> [Notice] Foreigners with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. Entry approvals granted to enter Singapore from 2 May 2021 have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>
+    <i><span style= "color:red;"> [Notice] Non-residents with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. All entry approvals granted to enter Singapore from 2 May 2021 had been withdrawn. Payment made for the stay at the dedicated SHN facilities and COVID-19 exit swab test will be fully refunded. If payment had been made for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>
     <u>Application via SafeTravel Portal</u>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using Singpass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
 </p>
@@ -87,7 +87,7 @@ SC/PRs are not required to seek approval to enter Singapore. However, those who 
      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; ">Applicant details:
       <ol style="margin-top:0px; list-style-type:disc;">
        <li style="font-size:16px; margin-top:-10px; margin-bottom:-10px; ">Valid contact details, including a local mobile number and email address; and</li>
-            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Debit/Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>,if applicable</li>
+            <li style="font-size:16px; margin-top:-10px; margin-bottom:0px; ">Debit/Credit card to make online payment for COVID-19 tests and/or <a href="/health/shn">SHN</a> stay at an <a href="/health/shn/sdf">SDF</a>, if applicable</li>
       </ol>    
      </li>
     </ol>
@@ -146,7 +146,7 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service  <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a> within 72 hours before departure to Singapore.;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Approved travellers who have spent the last 14 consecutive days in Australia, Brunei, Mainland China, New Zealand and/or Taiwan before departing for Singapore are encourage to pre-register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. Otherwise, the registration and payment will take place on-arrival, which may delay the administration of the on-arrival PCR test.
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Approved travellers who have spent the last 21 consecutive days in Australia, Brunei, Mainland China, New Zealand and/or Taiwan before departing for Singapore are encourage to pre-register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. Otherwise, the registration and payment will take place on-arrival, which may delay the administration of the on-arrival PCR test.
        </li>
       </ol>
     </td>
@@ -186,15 +186,16 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">After obtaining arrival immigration clearance, travellers will be directed to take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> before commuting directly to their own accommodation or <a href="/health/shn/sdf">SDF</a>.</p>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s last 14-day travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served. See Section 5 (“Post-Arrival”) for more details</p>
+       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn/">Stay-Home Notice</a> (SHN) may be served. See Section 5 (“Post-Arrival”) for more details</p>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.</p>
+      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers arriving from countries/regions at S/N 3 of the table here are permitted to opt out of staying at the SDF, subject to approval and relevant terms and conditions here.</p>
     </td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">For travellers on self-isolation/serving Stay Home Notice (SHN) at a place of residence/self-sourced (non-residential) accommodation, they must take private transportation, <a href="/health/faq#transport">taxi, or private hire car</a> from the immigration checkpoint to the declared place of accommodation immediately after their on-arrival COVID-19 PCR test. The use of public transport is not allowed.<br/><br/>
 
-For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided from the checkpoint to the accomodation.
+For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transport will be provided from the checkpoint to the accommodation.
 <br/><br/>
 For travellers who are required to serve SHN at an SHN Dedicated Facility (SDF) <u>but have received approval to opt-out of stay at the SDFs</u>, they must make transport arrangements at their own cost from Strides Transportation Pte Ltd for the following:
 <ol style="margin-top:0px; list-style-type:lower-latin;">
@@ -211,7 +212,7 @@ For travellers who are required to serve SHN at an SHN Dedicated Facility (SDF) 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 14 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 21 days after arriving in Singapore</th>
   </tr>
   </thead>
 <tbody>
