@@ -87,7 +87,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
-</ol> <br/><br/>Note:<br/>
+</ol> <br/>Note:<br/>
       <ul tyle="margin-top:0px; list-style-type:disc;">
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to Group 4 countries/regions in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. Those with a suitable place of residence have the option to serve the last 7 days of their SHN at the residence. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Those who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. Those who are currently serving SHN at:<br/>
@@ -111,7 +111,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at SDFs</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
-      </ol><br/><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
+      </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs entering Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Those who have not completed their 14-day SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom:</b> Currently required to serve a 21-day SHN at SDFs. Those who have not completed their 21-day SHN by <b>7 May 2021, 23:59 hours</b>, must complete their 21-day SHN at their current SHN accommodation. During their 21-day SHN, they will take 2 COVID-19 swab tests.
@@ -123,8 +123,8 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
 <i><b>Note:</b></i>
 <ul style="margin-top:0px; list-style-type:disc;">
- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">* The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore from 7 May 2021, 23:59 hours, does not apply to ATB flights.</li>
-   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Due to the worsening global situation, entry approvals for foreigners will be reduced with immediate effect.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">* The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore from 7 May 2021, 23:59 hours, does not apply to ATB flights.</li>
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Due to the worsening global situation, entry approvals for foreigners will be reduced with immediate effect.</li>
 </ul>
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
