@@ -194,11 +194,15 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 <div id="pcrtestQ5"></div>
 
-#### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before entry into Singapore?
+#### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
 If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
-In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller may also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.
+<!--In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller may also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.-->
+
+Effective from 7 May, 2359 hours, travellers will be denied boarding by their airline or ferry if:
+- diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
+- tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore.
 
 #### 6. How will I be informed of my COVID-19 test result?
 
@@ -208,7 +212,7 @@ Travellers with a SingPass account may login to [HealthHub](https://www.healthhu
 
 #### 7. Can I refuse the COVID-19 test in Singapore?
 
-As a condition for entry into Singapore, travellers may be required to take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) and/or [serology test](/health/covid19-tests/serology) while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
+As a condition for entry into Singapore, travellers may be required to take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) <!--and/or [serology test](/health/covid19-tests/serology)--> while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
 
 Action will be taken against travellers who fail to comply with any of the stipulated requirement/condition for entry into Singapore. This may amount to a fine and/or imprisonment term as prescribed in the Infectious Diseases Act. Additional penalties such as revocation of Work Pass may also apply.
 

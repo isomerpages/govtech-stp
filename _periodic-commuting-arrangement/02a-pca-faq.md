@@ -205,16 +205,20 @@ Travellers who are unwell or recently diagnosed with [COVID-19](/health/covid19-
 
 Those diagnosed with COVID-19 should only schedule their trip to Singapore 21 days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
 
-#### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 72 hours before entry into Singapore?
+#### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 72 hours before departure for Singapore?
 
 As a condition for entry into Singapore, <u>all</u> travellers arriving from Malaysia (except SC/PRs) under the PCA scheme <u>must</u> take a COVID-19 PCR test within 72 hours before departure for Singapore. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR test report that:
 
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
  
-Travellers will be turned away at Singapore's checkpoint if: 
+Effective from 7 May, 2359 hours, travellers will be turned away at Singapore's checkpoint if:
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
-- tested positive on the pre-departure COVID-19 PCR test.
+- tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore. 
+ 
+<!--Travellers will be turned away at Singapore's checkpoint if: 
+- diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
+- tested positive on the pre-departure COVID-19 PCR test.-->
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
 

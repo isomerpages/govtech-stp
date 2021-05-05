@@ -70,7 +70,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Germany</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>
@@ -83,13 +83,13 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Indonesia</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/indonesia/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Japan</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
    <tr>
@@ -101,7 +101,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Malaysia</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
  </tr>
  <tr>
@@ -119,7 +119,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Republic of Korea</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/requirements-and-process">Reciprocal Green Lane</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
