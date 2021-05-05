@@ -1,8 +1,4 @@
----
-title: SDF Partial Opt-out for SC/PR
-permalink: /SC-PR/opt-out
-third_nav_title: SDF Partial Opt-out for SC/PR
----
+
 
 ## Stay-Home Notice Dedicated Facility (SDF) Partial Opt-out
 
