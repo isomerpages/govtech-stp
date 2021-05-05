@@ -1,7 +1,4 @@
----
-title: Requirements and Process
-permalink: /indonesia/rgl/requirements-and-process
----
+
 
 <div id="notice"></div>
 <b><span style="color:red">IMPORTANT NOTICE</span> </b> <br/>
