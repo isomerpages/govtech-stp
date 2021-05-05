@@ -37,7 +37,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated until they get a negative test result:
       <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel Room</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in employer's house (only allowed for FDWs who are already working for their employers before they left Singapore)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in employer's house (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>)</li>
       </ol>
       </li>
 </ol> </td>
@@ -54,7 +54,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in one of the following:  <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (only allowed for FDWs who are already working for their employers before they left Singapore)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>)</li>
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 7-day SHN is over</li>
@@ -94,10 +94,10 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
 </ol> <br/>Note:<br/>
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to <u><b>Fiji or Vietnam</b></u> in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN. They must serve the first 14 days of their SHN in SDFs, and serve the lasdt 7 days in hotels or their employer's houses (only allowed for FDWs who are already working for their employers before they left Singapore). During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to <u><b>Fiji or Vietnam</b></u> in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN. They must serve the first 14 days of their SHN in SDFs, and serve the lasdt 7 days in hotels or their employer's houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>). During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
 - Place of residence, they can continue to serve the remainder of their 21-day SHN at the residence.<br/>
-- SDFs, they will serve the last 7 days of their 21-day SHN in hotels or their employers' houses (only allowed for FDWs who are already working for their employers before they left Singapore).   
+- SDFs, they will serve the last 7 days of their 21-day SHN in hotels or their employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>).   
 </li>
       </ul>
     </td>
