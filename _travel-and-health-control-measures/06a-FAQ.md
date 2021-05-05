@@ -194,7 +194,7 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 <div id="pcrtestQ5"></div>
 
-#### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure into Singapore?
+#### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
 If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
