@@ -30,7 +30,7 @@ The Connect@Singapore initiative is open for application to travellers from all 
 
 #### 4. Are Singapore Citizens and Permanent Residents, eligible for the Connect@Singapore initiative?
 
-Singapore Citizens and Permanent Residents are eligible for the Connect@Singapore initiative. However, should they wish to return to the community, they will be required to serve a 14-day Stay-Home Notice (SHN) at dedicated SHN facilities, regardless of the duration of stay at Connect@Singapore Appointed Facilities. An individual’s time spent in the Appointed Facility is not considered as part of the SHN period, as they may interact with other high-risk travellers during their stay.
+Singapore Citizens and Permanent Residents are eligible for the Connect@Singapore initiative. However, should they wish to return to the community, they will be required to serve a 21-day Stay-Home Notice (SHN) at dedicated SHN facilities, regardless of the duration of stay at Connect@Singapore Appointed Facilities. An individual’s time spent in the Appointed Facility is not considered as part of the SHN period, as they may interact with other high-risk travellers during their stay.
 
 #### 5. How long can I stay in Singapore under the Connect@Singapore initiative? 
  
