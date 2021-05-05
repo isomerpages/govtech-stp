@@ -1,8 +1,4 @@
----
-title: SDF Partial Opt-out for SC/PR
-permalink: /SC-PR/opt-out
-third_nav_title: SDF Partial Opt-out for SC/PR
----
+
 
 ## Stay-Home Notice Dedicated Facility (SDF) Partial Opt-out
 
@@ -27,7 +23,7 @@ third_nav_title: SDF Partial Opt-out for SC/PR
 
 #**Transport Service Provider for Persons Serving 21-Day SHN at Place of Residence**
 
-<table>
+<table> 
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;

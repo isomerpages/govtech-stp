@@ -212,7 +212,9 @@ As a condition for entry into Singapore, <u>all</u> travellers arriving from Mal
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
  
-Travellers that have recovered from [COVID-19](/health/covid19-symptoms) but continue to test positive for their COVID-19 PCR test will be permitted entry into Singapore, if they can provide documentary proof of their past diagnosis of COVID-19. Travellers who have contracted COVID-19 less than 21 days ago will be turned away at Singapore’s checkpoint.
+Travellers will be turned away at Singapore's checkpoint if: 
+- diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
+- tested positive on the pre-departure COVID-19 PCR test.
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
 
