@@ -1,7 +1,4 @@
----
-title: Testpage accordion
-permalink: /accordion
----
+
 
 <html>
 
