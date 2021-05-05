@@ -34,7 +34,12 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated until they get a negative test result </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated until they get a negative test result:
+      <ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel Room</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in employer's house (only allowed for FDWs who are already working for their employers before they left Singapore)</li>
+      </ol>
+      </li>
 </ol> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-1-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -47,9 +52,9 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in:  <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels (For FDWs on in-principle approvals (IPAs) and CNs)</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses or hotels (For existing FDWs)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in one of the following:  <ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (only allowed for FDWs who are already working for their employers before they left Singapore)</li>
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 7-day SHN is over</li>
@@ -81,7 +86,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at:<ol style="margin-top:0px; list-style-type:disc;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN in one of the following:<ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence upon approval</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
   </ol>
@@ -89,10 +94,10 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
 </ol> <br/>Note:<br/>
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to Group 4 countries/regions in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. Those with a suitable place of residence have the option to serve the last 7 days of their SHN at the residence. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Those who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. Those who are currently serving SHN at:<br/>
-- Place of residence can continue to serve the remainder of their 21-day SHN at the residence.<br/>
-- SDFs can serve the remainder of their 21-day SHN at SDFs. Those with a suitable place of residence have the option to serve the last 7 days of their SHN at the residence.  
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to <u><b>Fiji or Vietnam</b></u> in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN. They must serve the first 14 days of their SHN in SDFs, and serve the lasdt 7 days in hotels or their employer's houses (only allowed for FDWs who are already working for their employers before they left Singapore). During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
+- Place of residence, they can continue to serve the remainder of their 21-day SHN at the residence.<br/>
+- SDFs, they will serve the last 7 days of their 21-day SHN in hotels or their employers' houses (only allowed for FDWs who are already working for their employers before they left Singapore).   
 </li>
       </ul>
     </td>
@@ -109,13 +114,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at SDFs</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN in SDFs</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
       </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs entering Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Those who have not completed their 14-day SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
-             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom:</b> Currently required to serve a 21-day SHN at SDFs. Those who have not completed their 21-day SHN by <b>7 May 2021, 23:59 hours</b>, must complete their 21-day SHN at their current SHN accommodation. During their 21-day SHN, they will take 2 COVID-19 swab tests.
-</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs who have not completed their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
   </tr>
     </tbody>
