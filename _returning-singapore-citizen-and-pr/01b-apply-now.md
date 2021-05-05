@@ -1,8 +1,4 @@
----
-title: Apply Now
-permalink: /SC-PR/opt-out/apply-now
-third_nav_title: SDF Partial Opt-out for SC/PR
----
+
 
 <table>
   <thead>
