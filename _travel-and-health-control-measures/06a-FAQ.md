@@ -200,7 +200,7 @@ If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-
 
 <!--In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller may also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.-->
 
-Effective from 7 May, 2359 hoursm travellers will be denied boarding by their airline or ferry if:
+Effective from 7 May, 2359 hours, travellers will be denied boarding by their airline or ferry if:
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
 - tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore.
 
