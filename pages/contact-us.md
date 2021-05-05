@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-<span style="font-size:16px; line-height:1.0; color:red;">[Notice] Non-Singapore Citizens or PRs with recent travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. Prior entry approvals granted to enter Singapore have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span>
+<span style="font-size:16px; line-height:1.0; color:red;">[Notice] Foreigners with recent travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. Prior entry approvals granted to enter Singapore have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span>
 
 As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
 
