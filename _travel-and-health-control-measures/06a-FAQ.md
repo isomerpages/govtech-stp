@@ -212,7 +212,7 @@ Travellers with a SingPass account may login to [HealthHub](https://www.healthhu
 
 #### 7. Can I refuse the COVID-19 test in Singapore?
 
-As a condition for entry into Singapore, travellers may be required to take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) and/or [serology test](/health/covid19-tests/serology) while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
+As a condition for entry into Singapore, travellers may be required to take a [COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pcrtest) <!--and/or [serology test](/health/covid19-tests/serology)--> while in the country. These conditions would be made explicit during application and reiterated to the traveller again, by way of a condition stipulated in their Entry Approval Letter or SafeTravel Pass. 
 
 Action will be taken against travellers who fail to comply with any of the stipulated requirement/condition for entry into Singapore. This may amount to a fine and/or imprisonment term as prescribed in the Infectious Diseases Act. Additional penalties such as revocation of Work Pass may also apply.
 
