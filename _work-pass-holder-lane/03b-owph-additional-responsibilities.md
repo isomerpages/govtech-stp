@@ -33,7 +33,12 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated until they get negative test result. </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated in one of the following until they get negative test result: 
+      <ol style="margin-top:0px; list-style-type:disc;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in their house</li>
+  </ol>
+      </li>
 </ol> </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -46,8 +51,13 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day Stay-Home Notice (SHN) at home or hotel.</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 7-day SHN is over.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day Stay-Home Notice (SHN) in one of the following:
+      <ol style="margin-top:0px; list-style-type:disc;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (only occupied by the pass holder or family)</li>
+  </ol>
+      </li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 7-day SHN is over.</li>
 </ol> </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -77,19 +87,19 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN at: 
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN in one of the following: 
   <ul style="margin-top:0px; list-style-type: disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence upon approval</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs).</li>
   </ul>
 <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
 </ol><br/>Note:<br/>
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to Group 4 countries/regions in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. Those with a suitable place of residence have the option to serve the last 7 days of their SHN at the residence. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Those who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. Those who are currently serving SHN at:<br/>
-- Place of residence can continue to serve the remainder of their 21-day SHN at the residence.<br/>
-- SDFs can serve the remainder of their 21-day SHN at SDFs. Those with a suitable place of residence have the option to serve the last 7 days of their SHN at the residence.  
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to <u><b>Fiji or Vietnam</b></u> in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN. They must serve the first 14 days of their SHN in SDFs, and serve the last 7 days in a place of residence (only occupied by the pass holder or family) or hotel. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
+- Place of residence, they can continue to serve the remainder of their 21-day SHN in the residence.<br/>
+- SDFs, they will serve the last 7 days of their 21 day SHN in a place of residence (only occupied by the pass holder or family) or hotel.   
 </li>
       </ul></td>
     <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
@@ -104,15 +114,13 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b>. </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test. </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day SHN at SDFs.
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN in SDFs.
         <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over</li>
       </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders entering Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Those who have not completed their 14-day SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
-             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom:</b> Currently required to serve a 21-day SHN at SDFs. Those who have not completed their 21-day SHN by <b>7 May 2021, 23:59 hours</b>, must complete their 21-day SHN at their current SHN accommodation. During their 21-day SHN, they will take 2 COVID-19 swab tests.
-</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
   </tr>
     </tbody>
