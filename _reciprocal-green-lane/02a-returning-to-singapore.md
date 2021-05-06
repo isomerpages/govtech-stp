@@ -71,7 +71,7 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
       <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Upon arrival, returning RGL travellers from Germany, Indonesia, Japan, Malaysia and Republic of Korea will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:0px; margin-bottom:-40px; ">Take the PCR test; and</li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Served a 14-day SHN, which they will serve in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a PCR test toward the end of their SHN.</li>
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Served a 21-day SHN, which they will serve in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a PCR test on Day 14 and 21 at the end of their SHN.</li>
 </ol>
  </td>
   </tr>

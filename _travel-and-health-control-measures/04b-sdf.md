@@ -51,8 +51,9 @@ Travellers who wish to book an SDF suite at a specific hotel at higher cost, may
 
 ### SDF Opt-Out
 
-Travellers may opt-out of SDF if they satisfy either of the following conditions. Applications to opt-out of SDF must be submitted three working days before the traveller’s scheduled arrival in Singapore.
+Travellers may opt-out of SDF if they suffer from <u> critical illness, special medical condition, or have mobility issues</u>, via the form [here](https://go.gov.sg/shnhotelneeds). Applications to opt-out of SDF must be submitted three working days before the traveller’s scheduled arrival in Singapore.
 
+<!--
 <table>
   <thead>
     <tr>
@@ -79,5 +80,6 @@ Travellers may opt-out of SDF if they satisfy either of the following conditions
     </tr>
   </tbody>
   </table>
-  
+-->
+
 Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable. 
