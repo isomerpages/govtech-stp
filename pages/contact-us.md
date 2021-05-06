@@ -4,7 +4,7 @@ permalink: /contact-us
 ---
 
 <div style="padding-left: 5px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>NOTICE</b></p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE</b></p>
 <p style="font-size:14px; margin-top:0px; margin-bottom:0px;">From 7 May 11.59pm, all travellers entering Singapore from higher risk countries or regions previously on 14-day Stay Home Notice (SHN) will be required to serve a 21-day SHN at dedicated SHN facilities. You should refer to the details of the individual SafeTravel Lanes <a href="/arriving/overview">here</a> to check if you are affected.</p>
 <p style="font-size:14px; margin-top:10px; margin-bottom:0px;"><u><b>Travellers currently on SHN affected by SHN extension</b></u></p>
 <p style="font-size:14px; margin-top:0px; margin-bottom:0px;">Travellers who have not completed their 14-day SHN by 7 May 11.59pm will be subjected to an additional 7-day SHN at their current dedicated SHN facility for a total of 21 days’ SHN, and will be contacted by the relevant government agencies regarding the additional payments required for the extended SHN. Appeals to shorten or waive serving the additional SHN at SDF facilities will not be entertained except where there are strong medical grounds. <u>Reasons such as having your own residence to serve your SHN, being a vaccinated or recovered traveller, the need to sit for an exam, attending a marriage or urgent meeting are not sufficient grounds of appeal</u>.</p>
