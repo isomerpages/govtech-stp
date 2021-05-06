@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-<div style="padding-left: 5px; font-size:small; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
+<div style="padding-left: 5px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 <p><b>NOTICE</b></p>
 <p>From 7 May 11.59pm, all travellers entering Singapore from higher risk countries or regions previously on 14-day Stay Home Notice (SHN) will be required to serve a 21-day SHN at dedicated SHN facilities. You should refer to the details of the individual SafeTravel Lanes <a href="/arriving/overview">here</a> to check if you are affected.</p>
 <p><u><b>Travellers currently on SHN affected by SHN extension</b></u></p>
