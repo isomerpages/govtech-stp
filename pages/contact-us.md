@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-<span style="font-size:16px; line-height:1.0; color:red;">
+<div style="font-size:16px; line-height:1.0; color:red;">
 <b>NOTICE</b>
 <p> From 7 May 11.59pm, all travellers entering Singapore from higher risk countries or regions previously on 14-day SHN will be required to serve a 21-day SHN at dedicated SHN facilities. You should refer to the details of the individual SafeTravel Lanes [here](/arriving/overview) to check if you are affected.</p>
 
@@ -16,7 +16,7 @@ permalink: /contact-us
 <p><u>Refunds for travellers who cancel their travel plans</u></p>
 
 <p>For travellers who wish to cancel their travel plans to Singapore and receive refunds for fees paid, please write in via the SafeTravel enquiry form below for us to process your request.</p>
-</span>
+</div>
 
 As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
 
