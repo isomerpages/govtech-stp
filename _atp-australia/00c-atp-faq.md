@@ -143,11 +143,59 @@ After taking the COVID-19 PCR test, visitors are to immediately take private tra
 
 The designated taxi operators are:
 
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; "> &nbsp;</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Contact Number* / Mobile Application</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort & CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+    </tr>
+  </tbody>
+  </table>
 
+#### 26. Can visitors shop and eat at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
 
-#### 26. Can visitors enter the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
+No, visitors are not allowed to shop and eat at Changi Airport, including Jewel Changi Airport. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
 
-No, visitors may not enter any of these shops. After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
+The only exceptions are for the:
+
+(i) procurement of goods and services in the airport transit area, before arrival immigration; and
+
+(ii) accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.
+
+Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
 
 #### 27. What types of accommodation do visitors need to use while waiting for their test results?
 
