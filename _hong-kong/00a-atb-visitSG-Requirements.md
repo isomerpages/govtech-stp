@@ -236,7 +236,7 @@ Visitors should refer to Hong Kong’s website <a href="https://www.tourism.gov.
     <br/><br/>
 Visitors are <b>not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport.</b> The only exceptions are for:
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">purchase of Singapore dollars or SIM cards, or mobile phone rental, <u>which should be done in the airport transit area</u>, before arrival immigration; and</li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">procurement of goods and services in the airport transit area, before arrival immigration; and</li>
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.</li>
                 </ol>
     </td>
