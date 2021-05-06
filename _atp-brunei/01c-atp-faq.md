@@ -185,9 +185,17 @@ The designated taxi operators are:
   </tbody>
   </table>
 
-#### 26. Can visitors enter the shops in the public area (e.g. to buy food or beverages) within airport terminals or Jewel upon arrival in Singapore?
+#### 26. Can visitors shop and eat at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
 
-No, visitors may not enter any of these shops. After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
+No, visitors are not allowed to shop and eat at Changi Airport, including Jewel Changi Airport. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
+
+The only exceptions are for the:
+
+(i) procurement of goods and services in the airport transit area, before arrival immigration; and
+
+(ii) accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.
+
+Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
 
 #### 27. What types of accommodation do visitors need to use while waiting for their test results?
 
