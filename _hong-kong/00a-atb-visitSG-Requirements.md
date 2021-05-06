@@ -177,7 +177,7 @@ Visitors should refer to Hong Kong’s website <a href="https://www.tourism.gov.
                   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid vaccination certificate or declaration form for exemption(as required by the Hong Kong Government)</li>
       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a valid COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitor’s name, date of birth, and passport/travel document number (as indicated in his/her passport/travel document)</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A negative COVID-19 PCR test result;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Date and time when the COVID-19 PCR test was taken, which must be within 72 hours before the scheduled departure time of the designated ATB flight from Hong Kong to Singapore; and</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Name of the testing institution where the test was taken, which must be from the list of recognised <a href="http://www.coronavirus.gov.hk/pdf/List_of_recognised_laboratories_RTPCR.pdf">testing institutions</a> in Hong Kong</li>
