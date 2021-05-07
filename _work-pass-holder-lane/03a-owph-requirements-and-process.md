@@ -4,6 +4,9 @@ permalink: /wphl/owph-requirements-and-process
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 
+<b><span style="color:red">[NOTICE]</span></b><br/>
+<b><span style="font-size:16px; line-height:1.0; color:red;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect. We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</span></b><br/>
+
 ## Entry Requirements and Process for All Other Work Pass Holders and their Dependants
 
 ### 1. Before Submitting an Entry Application
