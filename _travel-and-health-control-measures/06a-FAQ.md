@@ -10,7 +10,7 @@ permalink: /health/FAQ
  1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
  2. [Transport arrangements during SHN](#transport)
  3. [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](#pcrtest)
- 4. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
+ 4. [Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore](#outboundPDT)
  5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
  6. [Payments and Refunds](#payments)
  7. [Vaccinated Travellers intending to travel to Singapore](#vaccinated)
@@ -240,7 +240,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="outboundPDT"></div>
 
-## Pre-Departure Test for Travellers Departing from Singapore
+## Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore
 
 #### 1. I have been vaccinated in Singapore. Am I still required to take a pre-departure test to leave the country?
 Travellers who have been vaccinated in Singapore should check with the authorities of the destination country/region, on whether they are still required to take a pre-departure test before arrival. Non-vaccinated individuals (including children) who intend to travel should likewise check on the prevailing border and health control measures they should abide by in the destination country/region.
@@ -276,6 +276,20 @@ Yes, a third party may do so if they have the digital certificate of the travell
 #### 9. Where can GP clinics find out more about digital certificate capabilities and providing PDTs?
 
 Clinics may refer to the following circulars on the MOH website: [Mandating Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/mandating-digital-health-certificates-for-covid-19-predeparture-testing), and [Extension of Deadline for Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/extension-of-deadline-for-digital-health-certificates-for-covid19-pre-departure-testing)
+
+#### 10. Where can I see my vaccination records? 
+
+Vaccination records are kept electronically in the National Immunisation Registry, as well as on apps such as TraceTogether and HealthHub. You can also refer to your physical vaccination card that is given to all vaccinated individuals. These are for your own reference, to check if you are vaccinated.
+
+#### 11. Can I use my physical vaccination card for travel purposes? 
+
+The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes. We are actively engaging international counterparts and monitoring global developments on the development and recognition of digital vaccination certificates for travel purposes. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a>.
+
+#### 12. How can I prove to foreign authorities that I have been vaccinated? 
+
+The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes/ proof of vaccination. For purposes of travel, you can request for a digital vaccination certificate from <a href="https://www.notarise.gov.sg">Notαrise</a>. This will be sent to your email and/or Singpass app, and can also be printed out. Please be aware that the use of this digital vaccination certificate is subject to the prevailing entry requirements of your destination country. 
+
+Travellers should check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to">MFA website</a> for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by <a href="https://www.moh.gov.sg/covid-19">MOH</a> .
 
 Click here to [Go Back To Top](#top).
 
