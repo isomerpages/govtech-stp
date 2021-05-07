@@ -4,6 +4,9 @@ permalink: /wphl/fdwcn-requirements-and-process
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
 
+<b><span style="color:red">[NOTICE]</span></b><br/>
+<b><span style="font-size:16px; line-height:1.0; color:red;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect. We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</span></b><br/>
+
 ## Entry Requirements and Process for Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
 ### 1. Before submitting an entry application
