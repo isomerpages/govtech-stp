@@ -122,7 +122,6 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 </table>
 
 <i>* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i><br/><br/>
-
 <i><b>Note:</b></i> 
 
 <ul>
