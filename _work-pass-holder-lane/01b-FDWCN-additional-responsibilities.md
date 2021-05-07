@@ -77,10 +77,8 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-        <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
-        <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>-->
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
 </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
@@ -103,11 +101,6 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   </tr>
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
-        <!--<ol style="margin-top:0px; list-style-type:disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand</li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours</b></li>
-           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
-      </ol>-->
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
@@ -120,11 +113,10 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   </tr>
     </tbody>
 </table>
-
+</br><i>*The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>
 <i><b>Note:</b></i>
 <ul style="margin-top:0px; list-style-type:disc;">
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">* The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs who have obtained an entry approval to enter from higher-risk countries/regions are allowed to enter Singapore, except for some with arrival dates before 7 June 2021 who will be rescheduled. Affected employers and employment agencies will receive an email from Ministry of Manpower (MOM).</li>
 </ul>
 
