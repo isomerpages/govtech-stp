@@ -113,8 +113,8 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   </tr>
     </tbody>
 </table>
-</br><i>*The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>
-</br><i><b>Note:</b></i>
+<br><i>*The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>
+<br><i><b>Note:</b></i>
 <ul style="margin-top:0px; list-style-type:disc;">
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs who have obtained an entry approval to enter from higher-risk countries/regions are allowed to enter Singapore, except for some with arrival dates before 7 June 2021 who will be rescheduled. Affected employers and employment agencies will receive an email from Ministry of Manpower (MOM).</li>
