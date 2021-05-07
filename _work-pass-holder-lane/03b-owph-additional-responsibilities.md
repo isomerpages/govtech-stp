@@ -121,11 +121,11 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </tbody>
 </table>
 
+<i>* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i><br/><br/>
+
 <i><b>Note:</b></i> 
 
 <ul>
-        
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who have obtained an entry approval to enter from higher-risk countries/regions with arrival dates before 5 July 2021 will not be allowed to enter. Affected employers will receive an email from the Ministry of Manpower (MOM) on when to re-apply for entry and will be prioritised for entry approvals then.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
