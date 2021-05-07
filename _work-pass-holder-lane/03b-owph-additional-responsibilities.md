@@ -56,7 +56,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day Stay-Home Notice (SHN) in one of the following:
         <ol style="margin-top:0px; list-style-type:disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (<b>only occupied by the pass holder or family</b>)</li>
         </ol>
         </li>
@@ -113,7 +113,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
       </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
