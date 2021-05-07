@@ -34,6 +34,8 @@ Work pass holders are also responsible for ensuring their dependants comply with
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;"><b> Note: </b></p>      
      <ol style="list-style-type:disc;">      
+<li style="font-size:17px; line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
+<li style="font-size:17px; line-height:1.5;">Pass holders who have obtained an entry approval to enter from higher-risk countries/regions with arrival dates before 5 July 2021 will not be allowed to enter. Affected employers will receive an email from the Ministry of Manpower (MOM) on when to re-apply for entry and will be prioritised for entry approvals then.</li>
 <li style="font-size:17px; line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.
 </li>
 <li style="font-size:17px; line-height:1.5;">Please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.
