@@ -23,102 +23,104 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan</li>
-</ol>   
+    </ol>   
     </td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated in one of the following until they get negative test result: 
-      <ol style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in their house</li>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
+      <ol style="margin-top:0px; list-style-type:decimal;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated in one of the following until they get negative test result:
+        <ol style="margin-top:0px; list-style-type:disc;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in their house</li>
+        </ol>
       </ol>
-   </td>
+    </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(entering on non-designated flights) <!-- (for arrivals after 22 April 2021, 23:59 hours)--></b></li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
-</ol>   
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(entering on non-designated flights)</b></li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
+    </ol>   
     </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day Stay-Home Notice (SHN) in one of the following:
-      <ol style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (<b>only occupied by the pass holder or family</b>)</li>
-  </ol>
-      </li>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
+    <ol style="margin-top:0px; list-style-type:decimal;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 7-day Stay-Home Notice (SHN) in one of the following:
+        <ol style="margin-top:0px; list-style-type:disc;">
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel room</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (<b>only occupied by the pass holder or family</b>)</li>
+        </ol>
+      </ol>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 7-day SHN is over.</li>
 </ol> </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-2-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 3 countries/regions:</b>
-<ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Bangladesh</li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Nepal</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pakistan</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
-</ol>
+    <ol style="margin-top:0px; list-style-type:disc;">
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Bangladesh</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">India</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Nepal</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pakistan</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
+    </ol>
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><b>Defer entry. Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval.</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&nbsp;</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   </tr>
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-     <!--   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <b>(for arrivals before 22 April 2021, 23:59 hours)</b></li>-->
-        <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>-->
-       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand <b>(for arrivals before 2 May 2021, 23:59 hours)</b></li>-->
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
-</ol>   
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
+    </ol>   
     </td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
+      <ol style="margin-top:0px; list-style-type:decimal;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN: 
-  <ul style="margin-top:0px; list-style-type: disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">First 14 days of SHN to be served in SHN dedicated facilities (SDFs).</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Last 7 days of SHN to be served in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.</li>
-  </ul>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-</ol><br/>Note:<br/>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN: 
+          <ul style="margin-top:0px; list-style-type: disc;">
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">First 14 days of SHN to be served in SHN dedicated facilities (SDFs).</li>
+              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Last 7 days of SHN to be served in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.</li>
+          </ul>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
+      </ol>
+      <br/>Note:<br/>
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
 - Place of residence, they can continue to serve the remainder of their 21-day SHN in the residence.<br/>
 - SDFs, they will serve the last 7 days of their 21 day SHN in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.   
 </li>
-      </ul></td>
+      </ul>
+    </td>
     <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
-    <tr>
+  <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
-      <!--<ol style="margin-top:0px; list-style-type:disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Thailand <b>(for arrivals from 2 May 2021, 23:59 hours)</b></li>
- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">South Africa <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">United Kingdom <b>(for arrivals from 22 April 2021, 23:59 hours)</b></li>
-      </ol>-->
     </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
+      <ol style="margin-top:0px; list-style-type:decimal;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-      </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
-</ul></td> 
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
+      </ol>
+      <br/>Note:
+      <ul style="margin-top:0px; list-style-type:disc;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
+      </ul>
+    </td> 
   </tr>
-    </tbody>
+</tbody>
 </table>
 
 <i><b>Note:</b></i> 
