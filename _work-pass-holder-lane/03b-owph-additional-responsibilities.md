@@ -14,7 +14,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <table>
 <thead>
   <tr>
-    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Countries/Regions pass holders spent the last 14 consecutive days in before entering Singapore<br/><br/> Note: From 7 May 2021, 23:59 hours, prevailing border measures will be based on pass holders' travel history in the last 21 consecutive days before entering Singapore</th>
+    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Countries/Regions pass holders spent the last 21 consecutive days in before entering Singapore</th>
     <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">What pass holders must do </th>
     <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Read the documents below for more details on your company's additional responsibilities </th>
   </tr>
@@ -89,16 +89,15 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       <ol style="margin-top:0px; list-style-type:decimal;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test.</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN in one of the following: 
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN: 
         <ul style="margin-top:0px; list-style-type: disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence upon approval</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs).</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">First 14 days of SHN to be served in SHN dedicated facilities (SDFs).</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Last 7 days of SHN to be served in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.</li>
         </ul>
-<p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
+        </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
 </ol><br/>Note:<br/>
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders with travel history to <u><b>Fiji or Vietnam</b></u> in the last 21 consecutive days before entry and arrive in Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN. They must serve the first 14 days of their SHN in SDFs, and serve the last 7 days in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
 - Place of residence, they can continue to serve the remainder of their 21-day SHN in the residence.<br/>
 - SDFs, they will serve the last 7 days of their 21 day SHN in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.   
@@ -109,15 +108,14 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
     </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b>. </li>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
+     <ol style="margin-top:0px; list-style-type:decimal;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day SHN in SDFs.
-        <p style= "font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After SHN, pass holders staying in dormitories must undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day testing regime at designated facilities</a>.</p></li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
       </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
-              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders entering Singapore from 7 May 2021, 23:59 hours</b>: Must serve a 21-day SHN at SDFs. During their 21-day SHN, they will take 2 COVID-19 swab tests.</li>
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
   </tr>
     </tbody>
@@ -126,9 +124,11 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <i><b>Note:</b></i> 
 
 <ul>
-        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
-  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore from 7 May 2021, 23:59 hours, does not apply to ATB flights.</li>
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Due to the worsening global situation, entry approvals for foreigners will be reduced with immediate effect.</li>
+        
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who have obtained an entry approval to enter from higher-risk countries/regions with arrival dates before 5 July 2021 will not be allowed to enter. Affected employers will receive an email from the Ministry of Manpower (MOM) on when to re-apply for entry and will be prioritised for entry approvals then.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
 </ul>      
 
 ### What Companies Must Do when Pass Holders Enter Singapore
@@ -136,7 +136,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:18px; line-height:1.5;">Ensure they comply with the SHN upon arrival, if applicable.</li>
   <li style="font-size:18px; line-height:1.5;">Ensure they take all the required COVID-19 tests.</li>
 <li style="font-size:18px; line-height:1.5;">Arrange for them to travel using the designated transport, unless they are serving SHN at dedicated SHN facilities.</li>
-<li style="font-size:18px; line-height:1.5;">Get them to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on their mobile phones. They must respond to the Ministry of Manpower (MOM)’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>. This includes ensuring their prepaid cards have sufficient value. They must also report their health status using the FWMOMCare app.</li>
+<li style="font-size:18px; line-height:1.5;">Get them to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on their mobile phones. They must respond to MOM’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>. This includes ensuring their prepaid cards have sufficient value. They must also report their health status using the FWMOMCare app.</li>
 <li style="font-size:18px; line-height:1.5;">(Only for pass holders who are issued an electronic monitoring device by the checkpoint) Ensure they install the mobile application and register the device <b>within 1 hour of arriving at their SHN accommodation.</b></li>
 <li style="font-size:18px; line-height:1.5;">Provide them with food and other daily essentials throughout their SHN, unless they are serving SHN at dedicated SHN facilities.</li>
 <li style="font-size:18px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
