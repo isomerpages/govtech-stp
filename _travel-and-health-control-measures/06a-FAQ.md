@@ -277,6 +277,20 @@ Yes, a third party may do so if they have the digital certificate of the travell
 
 Clinics may refer to the following circulars on the MOH website: [Mandating Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/mandating-digital-health-certificates-for-covid-19-predeparture-testing), and [Extension of Deadline for Digital Health Certificates for COVID-19 Pre-Departure Testing](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/extension-of-deadline-for-digital-health-certificates-for-covid19-pre-departure-testing)
 
+#### 10. Where can I see my vaccination records? 
+
+Vaccination records are kept electronically in the National Immunisation Registry, as well as on apps such as TraceTogether and HealthHub. You can also refer to your physical vaccination card that is given to all vaccinated individuals. These are for your own reference, to check if you are vaccinated.
+
+#### 11. Can I use my physical vaccination card for travel purposes? 
+
+The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes. We are actively engaging international counterparts and monitoring global developments on the development and recognition of digital vaccination certificates for travel purposes. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by MOH (https://www.moh.gov.sg/covid-19).
+
+#### 12. How can I prove to foreign authorities that I have been vaccinated? 
+
+The physical vaccination card that is given to all vaccinated individuals is not meant to be used for travel purposes/ proof of vaccination. For purposes of travel, you can request for a digital vaccination certificate from Notαrise (https://www.notarise.gov.sg). This will be sent to your email and/or Singpass app, and can also be printed out. Please be aware that the use of this digital vaccination certificate is subject to the prevailing entry requirements of your destination country. 
+
+Travellers should check the MFA website (https://www.mfa.gov.sg/where-are-you-travelling-to) for the latest travel advisories to other countries/ regions, as well as the immigration authority or embassy of the destination country/ region on the relevant health requirements imposed on travellers from Singapore. Travellers should also take note of the latest travel advisory for Singaporeans and residents of Singapore published by MOH (https://www.moh.gov.sg/covid-19).
+
 Click here to [Go Back To Top](#top).
 
 <div id="inboundtravelinsurance"></div>
