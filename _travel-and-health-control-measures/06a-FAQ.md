@@ -10,7 +10,7 @@ permalink: /health/FAQ
  1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
  2. [Transport arrangements during SHN](#transport)
  3. [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](#pcrtest)
- 4. [Pre-Departure Tests for Travellers Departing from Singapore](#outboundPDT)
+ 4. [Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore](#outboundPDT)
  5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
  6. [Payments and Refunds](#payments)
  7. [Vaccinated Travellers intending to travel to Singapore](#vaccinated)
@@ -240,7 +240,7 @@ Click here to [Go Back To Top](#top).
 
 <div id="outboundPDT"></div>
 
-## Pre-Departure Test for Travellers Departing from Singapore
+## Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore
 
 #### 1. I have been vaccinated in Singapore. Am I still required to take a pre-departure test to leave the country?
 Travellers who have been vaccinated in Singapore should check with the authorities of the destination country/region, on whether they are still required to take a pre-departure test before arrival. Non-vaccinated individuals (including children) who intend to travel should likewise check on the prevailing border and health control measures they should abide by in the destination country/region.
