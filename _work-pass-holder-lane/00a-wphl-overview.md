@@ -3,7 +3,7 @@ title: Work Pass Holder General Lane - Overview
 permalink: /wphl/overview
 ---
 
-<b><span style="color:red">[NOTICE]</span></b><br/>
+<b><span style="color:red">[NOTICE]</span></b>
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect.</b></p>
 <p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected pass holders will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
 <p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</b></p>
