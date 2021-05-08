@@ -4,9 +4,10 @@ permalink: /wphl/owph-requirements-and-process
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 
-<b><span style="color:red">[NOTICE]</span></b><br/>
-<b><span style="font-size:16px; line-height:1.0; color:red;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect. We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</span></b><br/>
-
+<b><span style="color:red">[NOTICE]</span></b>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected pass holders will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</b></p>
 ## Entry Requirements and Process for All Other Work Pass Holders and their Dependants
 
 ### 1. Before Submitting an Entry Application
@@ -39,6 +40,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
      <ol style="list-style-type:disc;">      
 <li style="font-size:17px; line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
 <li style="font-size:17px; line-height:1.5;">Pass holders who have obtained an entry approval to enter from higher-risk countries/regions with arrival dates before 5 July 2021 will not be allowed to enter. Affected employers will receive an email from the Ministry of Manpower (MOM) on when to re-apply for entry and will be prioritised for entry approvals then.</li>
+       <li style="font-size:17px; line-height:1.5;">Pass holders affected by the two measures above will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can request for an extension.</li>
 <li style="font-size:17px; line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.
 </li>
 <li style="font-size:17px; line-height:1.5;">Please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.
