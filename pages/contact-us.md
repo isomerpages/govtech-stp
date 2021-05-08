@@ -2,11 +2,12 @@
 title: Contact Us
 permalink: /contact-us
 ---
+
 <div style="padding-left: 5px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - Entry Approvals</b></p>
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;">New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>
 </div>
-
+<br><br>
 <div style="padding-left: 5px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - 21 Day SHN</b></p>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">From 7 May, 2359 hours, all travellers entering Singapore from higher risk countries or regions previously on 14-day Stay Home Notice (SHN) will be required to serve a 21-day SHN at dedicated SHN facilities. You should refer to the details of the individual SafeTravel Lanes <a href="/arriving/overview">here</a> to check if you are affected.</p>
