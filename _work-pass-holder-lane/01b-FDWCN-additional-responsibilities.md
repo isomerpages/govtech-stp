@@ -118,6 +118,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 <ul style="margin-top:0px; list-style-type:disc;">
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs who have obtained an entry approval to enter from higher-risk countries/regions are allowed to enter Singapore, except for some with arrival dates before 7 June 2021 who will be rescheduled. Affected employers and employment agencies will receive an email from Ministry of Manpower (MOM).</li>
+  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs affected by the two measures above will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</li>
 </ul>
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
