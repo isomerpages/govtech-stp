@@ -4,8 +4,10 @@ permalink: /wphl/fdwcn-requirements-and-process
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
 
-<b><span style="color:red">[NOTICE]</span></b><br/>
-<b><span style="font-size:16px; line-height:1.0; color:red;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect. We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</span></b><br/>
+<b><span style="color:red">[NOTICE]</span></b>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected pass holders will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</b></p>
 
 ## Entry Requirements and Process for Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
@@ -45,6 +47,7 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 <ul>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) <b>will no longer be accepted with immediate effect</b>. </li>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs who have obtained an entry approval to enter from higher-risk countries/regions are allowed to enter Singapore, except for some with arrival dates before 7 June 2021 who will be rescheduled. Affected employers and employment agencies will receive an email from Ministry of Manpower (MOM).</li>
+  <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs affected by the two measures above will have their IPA validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</li>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional step for employment agents:</b> To use the portal, please get your Corppass administrator to add the ‘Safe Travel Portal’ eService to your Corppass account and assign you with access rights.</li>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For more details, please refer to our <a href="https://safetravel.ica.gov.sg/faq/tech#GenTechQuery">technical FAQs</a>.</li>
