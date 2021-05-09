@@ -34,7 +34,7 @@ Singapore citizens and permanent residents whose residence is unsuitable to serv
 
 Non-resident travellers who not required to serve their SHN at an SDF, i.e. those serving 7-day SHN, but wish to do so, may make a direct reservation with the hotel. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-#### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Home (SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which imposes the mandatory 14-day SHN at an SDF. Which SHN measure will apply to me?
+#### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
 The more stringent travel health control measures would apply. This means that a traveller who had transited to Singapore via a second country where mandatory [SDF](/health/shn/sdf) stay is required, will serve their [SHN](/health/shn) at an SDF upon arrival into Singapore.
 
@@ -83,7 +83,7 @@ Upon arrival, travellers will commute directly to their assigned SDF using gover
 
 Travellers should only leave their SDF for their PCR test appointment only if they are feeling well. Travellers who are unwell should remain in their accommodation and alert the relevant agencies listed in this [page](https://go.gov.sg/tc) immediately.
 
-#### 2. What are the types of transport that I can take if I am serving my 14-day Stay-Home Notice (SHN) at my place of residence?
+#### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
 
 Travellers who are serving their [SHN](/health/shn/sdf) at their own residence are only permitted to arrange for transport with the following transport operators. During the SHN period, travellers are prohibited from leaving their place of residence unless they are due to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at a designated testing facility. Travellers may arrange for transport with the same transport operators below if they are commuting to the testing facility for their PCR test. When arranging for transport with the transport operator, travellers must identify themselves as persons serving SHN.
 
@@ -489,7 +489,7 @@ Travellers/application sponsors may refer to the table below for payment details
         </tbody>
        </table>
       <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving 14-day SHN at an SDF alone or with other FDW; and </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving SHN at an SDF alone or with other FDW; and </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
            </ol>  </p>
 </td>
