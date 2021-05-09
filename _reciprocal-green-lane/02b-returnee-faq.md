@@ -101,7 +101,7 @@ Upon arrival in Singapore, all Singapore-based travellers returning from their t
 - Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
 - Served a 14-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
 
-Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
+Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to take a COVID-19 test before I return to Singapore?
 
@@ -123,9 +123,9 @@ Singapore Citizens and Permanent Residents may access Government subsidies and M
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel on the Singapore-Japan RGL, will be:
 - Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Served a 14-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
+- Served a 21-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
 
-Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
+Travellers will pay for the cost of the 21-day SHN and the PCR swab test. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to take a COVID-19 test before I return to Singapore?
 
@@ -147,9 +147,9 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel on the Singapore-Germany RGL, will be:
 - Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Served a 14-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
+- Served a 21-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
 
-Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
+Travellers will pay for the cost of the 21-day SHN and the PCR swab test. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Indonesia?
 
@@ -169,9 +169,9 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel on the Singapore-Malaysia RGL, will be:
 - Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Served a 14-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
+- Served a 21-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
 
-Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
+Travellers will pay for the cost of the 21-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to take a COVID-19 test before I return to Singapore?
 
@@ -193,9 +193,9 @@ Singapore Citizens and PRs may access Government subsidies and MediShield Life/I
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel on the Singapore-Republic of Korea RGL, will be:
 - Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Served a 14-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
+- Served a 21-day [SHN](/health/shn) which they will serve at the [SHN-Dedicated Facility](/health/shn/sdf), and take another PCR test before the end of the SHN. 
 
-Travellers will pay for the cost of the 14-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
+Travellers will pay for the cost of the 21-day SHN and the PCR swab test. Click here for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from the ROK?
 
