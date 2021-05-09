@@ -6,7 +6,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 ### SHN-Dedicated Facilities (SDF)
 
-Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF) assigned to them by the Singaprore Government. The standard costs for SDF stays are provided in the tables below. These exclude the costs of PCR tests and laundry.
+Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF) assigned to them by the Singapore Government. The standard costs for SDF stays are provided in the tables below. These exclude the costs of PCR tests and laundry.
 
 <b>Cost of SDF Stay (14 Days)</b>
 
