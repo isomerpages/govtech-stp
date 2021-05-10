@@ -37,7 +37,7 @@ For travellers arriving from <u>all countries/regions</u>, the following travell
 
 Singapore has arranged additional Safe Travel Lanes with the following countries/regions to facilitate shorter term entry into Singapore.
 
-
+ 
 <table>
  <tr>
   <td rowspan="2" style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid#bdbdbd; background-color:#d5d5d5"><b>Country/Region of Departure</b></td>
