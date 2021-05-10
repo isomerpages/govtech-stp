@@ -133,19 +133,18 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
 <font size="3"> <i><sup>2</sup>Applies only to travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang
 </i></font>
 
-<!--
-|Country/Place of Departure | Any Purpose of Travel | Business & Official Travel | Periodic Commuting for Singapore or Malaysia Work Pass Holders|
-|-------------|-------------------|-------------------|-------------|
-|Australia| [Air Travel Pass](australia/atp/requirements-and-process) |  |  | 
-|Brunei Darussalam| [Air Travel Pass](/brunei/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Mainland China | [Air Travel Pass](/china/atp/requirements-and-process) | [Reciprocal Green Lane](/rgl/overview)<sup>2</sup>|  |
-|Germany|  | [Reciprocal Green Lane](/rgl/overview)| |
-|Indonesia| | [Reciprocal Green Lane](/rgl/overview)| |
-|Japan|  | [Reciprocal Green Lane](/rgl/overview)| |
-|Malaysia|  | [Reciprocal Green Lane](/rgl/overview)|[Periodic Commuting Arrangement](/pca/overview)|
-|New Zealand| [Air Travel Pass](newzealand/atp/requirements-and-process) |  | |
-|Republic of Korea|  | [Reciprocal Green Lane](/rgl/overview)|  | 
-|Vietnam| [Air Travel Pass](/vietnam/atp/requirements-and-process) |  |  |-->
+## Death and Critical Illness Emergency Visit (Short Term)
+
+Foreign travellers from all countries/regions may appeal to visit a <u>family member</u> in Singapore for emergency reasons such as death or critical illness. Only a <u>maximum of two visitors per case</u> is allowed.
+
+In such a case, please write in via our enquiry form [here](/contact-us) under the category “Appeal for entry into Singapore under Compassionate Reasons” and we will get back to you as soon as possible. Please write in with relevant supporting documents such as: 
+- Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases); 
+- Official documents to prove familial connection; 
+- Passport biodata page of all travellers;
+- Any other supporting documents.
+
+Approved travellers will be required to abide by the stipulated health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
+
 ## Air and Sea Crew Arrival
 
 <b><u>For air crew</u></b>
