@@ -14,7 +14,7 @@ To minimise the public health risks associated with the border reopening, travel
   <b>COVID-19 Tests</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR Test”)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/serology">Serology Test</a></li>
+  <!--  <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/serology">Serology Test</a></li>-->
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pre-departure-test">Pre-departure test</a></li>
     </ol>
   </li>
