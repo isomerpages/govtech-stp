@@ -7,9 +7,9 @@ sections:
     - hero:
         title: Ministry of ABC
         subtitle: We provide Singaporeans with XYZ services
-        background: /images/banner.png
+        background: /images/hero-banner-stp.svg
         url: /contact-us/
-        button: Contact
+        button: Contact Us
         key_highlights:
             - title: ABC services
               description: Find out what ABC can do for you
