@@ -17,10 +17,4 @@ sections:
               url: /transit/overview
             - title: Departing from Singapore
               url: /departing/overview
-  - infobar:
-        title: Work for the public good
-        subtitle: Careers
-        description: Start a fulfulling and rewarding career with the Ministry of ABC!
-        button: Join Us
-        url: /contact-us
 ---
