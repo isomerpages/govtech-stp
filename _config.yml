@@ -73,6 +73,9 @@ collections:
     output: true
   hong-kong:
     output: true
+  post:
+    output: true
+    future: true
   
 
 resources_name: "media"
