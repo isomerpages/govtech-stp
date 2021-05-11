@@ -33,7 +33,7 @@ No, only booking confirmations from the SDFs listed <a href="https://safetravel.
 
 Yes, travellers who are currently serving SHN in an SDF may book a suite with one of the SDFs listed <a href="https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options">here</a>. 
 
-However, travellers should note that they will be charged additional costs of up to $345 ($300 for specialised cleaning costs of the vacated room; $45/vehicle for transport to the next SDF) for transfers requested mid-way through their SHN stay.
+However, travellers should note that they will be charged additional costs of at least $345 ($300 for specialised cleaning costs of the vacated room; $45/vehicle for transport to the next SDF) for transfers requested mid-way through their SHN stay.
 
 #### 5.	Can I transfer to a suite from any SDF?  
 
@@ -45,13 +45,14 @@ To book a suite to complete your SHN in, please refer to the guide [here](/healt
 
 #### 7. Do I need to inform anyone after I have booked my suite?
 
-Yes, travellers must submit a form at <https://go.gov.sg/sdfsuite> to inform government agencies of the booking. This is to ensure you and your family members (if applicable) are conveyed to the SHN Dedicated Facility (SDF) where you had booked the suite. 
+Travellers must submit a form at <https://go.gov.sg/sdfsuite> to inform government agencies of the booking. This is to ensure you and your family members (if applicable) are conveyed to the SHN Dedicated Facility (SDF) where you had booked the suite.
 
 For suite bookings before arrival in Singapore, the submission must be made at least 48 hours before your arrival in Singapore. Failure to do so may result in your assignment to a standard room at any SDF upon your arrival.
 
-For suite bookings after arrival in Singapore, the submission must be made at least 48 hours prior to the intended stay at the suite. 
+For suite bookings after arrival in Singapore, the submission must be made at least 48 hours prior to the intended stay at the suite. Please note that an additional fee of at least $345 ($300 for specialised cleaning costs for the vacated room and $45/vehicle for transport to the next SDF) applies.
 
 #### 8. Can I make any changes to my suite booking?
+
 To make changes to your suite bookings, please first contact the SDF to ensure that there is suite availability. Subsequently, please submit a form at <https://go.gov.sg/changesuitebooking> to inform government agencies of your updated details.
 
 Please do not make multiple suite bookings. SDFs will be asked to cancel all bookings if a traveller is found to have made multiple bookings.
@@ -59,6 +60,10 @@ Please do not make multiple suite bookings. SDFs will be asked to cancel all boo
 #### 9. I had booked a ‘Regular’ suite, but this option is no longer indicated under [Suite Options](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options). Will there be any change to my suite booking?
 
 ‘Regular’ suites were renamed as ‘Standard’ suites on 14 Apr 2021. The size of suites within this category is unchanged (80-100sqm).
+
+#### 10. The duration of SHN I am required to serve at an SDF changed after I booked my suite. Will I be able to stay in the suite I booked for the entire new duration of my SHN?
+
+The SDF will contact you to share possible options. If your SHN duration has increased, your suite booking is subject to availability. Costs will be pro-rated based on the actual number of days stayed in the suite.
 
 <div id="payment"></div>
 
@@ -68,7 +73,7 @@ Please do not make multiple suite bookings. SDFs will be asked to cancel all boo
 
 Travellers will be charged a pro-rated cost for the suite, based on the number of nights spent at the suite, if they book a suite mid-way through their SHN stay.
 
-In addition, travellers will also be charged additional costs of up to $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF) for their transfers.
+In addition, travellers will also be charged additional costs of at least $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF) for their transfers.
 
 For example, total costs for a travelleron 14-day SHN at an SDF: [2/14 * $2k at existing SDF] + [12/14 * $7.5k at the standard suite] + $345 = $7.1k (rounded up). Travellers who have already paid the default SDF cost only need to pay the difference.
 
