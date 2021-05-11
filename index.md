@@ -15,7 +15,7 @@ sections:
             - title: Departing from Singapore
               url: /departing/overview
     - resources:
-        title: Media
+        title: Press Release
         subtitle: Learn more
         button: View More
 ---
