@@ -43,7 +43,7 @@ Yes, travellers can transfer from any SDF to a suite under the SDFs listed <a hr
 
 To book a suite to complete your SHN in, please refer to the guide [here](/health/shn/sdfupgrade). 
 
-#### 7. Do I need to inform anyone after I have booked my suite?
+#### 7. Do I need to inform anyone after I have booked my suite? What are the transport arrangements to bring me to the SDF where I had booked my suite?
 
 Travellers must submit a form at <https://go.gov.sg/sdfsuite> to inform government agencies of the booking. This is to ensure you and your family members (if applicable) are conveyed to the SHN Dedicated Facility (SDF) where you had booked the suite.
 
