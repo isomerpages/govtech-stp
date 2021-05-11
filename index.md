@@ -5,18 +5,16 @@ description: SafeTravel Pass is required for travellers entering into Singapore 
 permalink: /
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
+        title: Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the COVID-19 pandemic.
+        subtitle: Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.
         background: /images/hero-banner-stp.svg
         url: /contact-us/
         button: Contact Us
         key_highlights:
-            - title: ABC services
-              description: Find out what ABC can do for you
-              url: /services/
-            - title: Our Annual Reports
-              url: /annual-reports/
-            - title: Join ABC
-              description: Unleash your passion and be rewarded with a fulfilling career!
-              url: /careers/
+            - title: Travelling to Singapore
+              url: /arriving/overview
+            - title: Transiting through Singapore
+              url: /transit/overview
+            - title: Departing from Singapore
+              url: /departing/overview
 ---
