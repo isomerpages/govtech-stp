@@ -85,6 +85,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 21-day SHN:<ol style="margin-top:0px; list-style-type:disc;">
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">First 14 days of SHN to be served in SHN dedicated facilities (SDFs).</li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Last 7 days of SHN to be served in hotels or their employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>).</li>
   </ol>
       </li>
