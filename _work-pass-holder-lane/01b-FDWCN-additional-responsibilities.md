@@ -92,7 +92,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
-      </ol> <br/><b>Note:</b><br/><br/> <b>FDWs and CNs with travel history to Vietnam who:</b>
+      </ol><b>Note:</b><br/><br/> <b>FDWs and CNs with travel history to Vietnam who:</b>
       <ul style="margin-top:0px; list-style-type:disc;">
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Complete their 14-day SHN at SDFs <b>before 15 May 2021, 23:59 hours</b>, can serve the last 7 days of their SHN in their employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>) or hotels. 
 </li>
@@ -105,7 +105,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
       <ol style="margin-top:0px; list-style-type:disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (for arrivals from 13  May 2021)</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals from 13  May 2021</b>)</li>
       </ol>
       </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
@@ -113,7 +113,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 21-day SHN in SDFs</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
-      </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
+      </ol>Note:<ul style="margin-top:0px; list-style-type:disc;">
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>FDWs/CNs did not complete  their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
   </tr>
