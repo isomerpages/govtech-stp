@@ -97,16 +97,18 @@ layout: skeleton
       background-color: white;
  }  
  
-.section-5 .view-more {
+.section-5, .view-more {
       text-align: center;
       padding: 28px 0 10px;
 }
   
-.section-5>h4{
+.section-5>h4, 
+.section-6>h4{
       margin-bottom: 16px;
 }  
   
-.section-5>h1{
+.section-5>h1, 
+.section-6>h1{
       font-weight: 600;
       font-size: 48px;
       line-height: 52px;
@@ -118,6 +120,18 @@ layout: skeleton
 .break-desktop {
       display: block;
 }
+	
+.section-6 {
+      padding: 100px 0;
+      background-color: #F1F4F6;
+}
+	
+.section-6>h1 {
+        font-size: 40px;
+        line-height: 44px;
+        width: 80%;
+        margin: 0 auto;
+      }
   
 	
 </style>
@@ -237,7 +251,12 @@ layout: skeleton
 	  </div>
 	  </section>		
 	
+	
+
+	
+	
 	<!-- Media/Resource Sections -->
+	 
 <section id="media" class="bp-section" style="padding-left:1.5rem; padding-top:0.8rem; padding-bottom:0.8rem; padding-right:1.5rem;"> 
   <div class="bp-container" style="background-color:#4372d6;">
     <div class="row"> 
@@ -253,8 +272,18 @@ layout: skeleton
     </div>		     
 	  </div>
 	 </div>
+	
+	 <div class="section-6">
+      <p class="uppercase-text">Contact Us</p>
+      <h1>Need Answers to your queries?</h1>
+      <div class="help-buttons-container">
+        {% include primary-btn.html href="/faqs/" text="View Our FAQs" %}
+        {% include secondary-btn.html href="/contact-us/" text="Contact Us" %}
+      </div>
+    </div>
+  </div>
+	
 	</section>
-
 	
 										       
 <!-- Collaboration logos -->
