@@ -61,7 +61,7 @@
   {% assign uniq_cats = cats | uniq %}
   {% for post in site.posts limit:3 %}
   <div class="col">
-    <a href="{{post.url}}">
+    <a href="{{post.url | post.file_url}}">
       <div
         class="media-card-plain 
         {% if post.categories[1] == uniq_cats[0] %}
@@ -77,10 +77,10 @@
         {% endif %}
         padding--lg resources">
         <div>
-          <small class="has-text-white padding--bottom">{{ post.permalink | post.file_url | remove:'/media/' | split: '/' |
+          <small class="has-text-white padding--bottom">{{ post.permalink | remove:'/media/' | split: '/' |
             first | join: '' | replace: '-', ' ' | upcase
             }}</small>
-          <h4 class="has-text-white padding--bottom--lg">{{ post.title | post.file_url }}</h4>
+          <h4 class="has-text-white padding--bottom--lg">{{ post.title }}</h4>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">{{ post.date | date_to_string | upcase }}</small>
