@@ -5,7 +5,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 ---
 ## Additional Responsibilities for Party Submitting the Entry Application
 
-### Entry Approval Requirements
+### Entry Approval Requirements under the Work Pass Holder General Lane
 
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -75,14 +75,15 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
 </ol>
     </td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><b>Defer entry. Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval.</b></td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><b>Defer entry. Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval.</b><br/><br/>In-principle approval (IPA) holders will have their IPA validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, employers can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension.</a>     
+      </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   </tr>
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals before 13 May 2021</b>)</li>
     </ol>   
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
@@ -96,17 +97,20 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         </ul>
         </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-</ol><br/>Note:<br/>
+</ol>Note:<br/><br/>Pass holders with travel history to Vietnam who:
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their 14-day SHN by 7 May 2021, 23:59 hours</b>: Also subject to the 21-day SHN. For those who are currently serving SHN in:<br/>
-- Place of residence, they can continue to serve the remainder of their 21-day SHN in the residence.<br/>
-- SDFs, they will serve the last 7 days of their 21 day SHN in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.   
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Complete their 14-day SHN at SDFs <b>before 15 May 2021, 23:59 hours</b>, can serve the last 7 days of their SHN in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.
 </li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Did not complete their 14-day SHN at SDFs <b>by 15 May 2021, 23:59 hours</b>, must serve the remainder of their 21-day SHN in SDFs. Employers of such pass holders will be contacted on the additional charges for the SDF stay.</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Are currently serving SHN at a place of residence or hotel, must complete the remainder of their 21-day SHN at their current SHN accommodation.  </li>
       </ul></td>
     <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
+      <ol style="margin-top:0px; list-style-type:decimal;">
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals from 13  May 2021</b>)</li>
+      </ol>
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type:decimal;">
@@ -115,7 +119,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
       </ol><br/>Note:<ul style="margin-top:0px; list-style-type:disc;">
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who have not completed their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
+               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who did not complete their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
   </tr>
     </tbody>
@@ -125,9 +129,13 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <i><b>Note:</b></i> 
 
 <ul>
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will <b>no longer be accepted with immediate effect</b>.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) are <b> no longer accepted.</b>.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who have obtained an entry approval to enter from higher-risk countries/regions with arrival dates before 5 July 2021 will not be allowed to enter. Affected employers will receive an email from the Ministry of Manpower (MOM) on when to re-apply for entry and will be prioritised for entry approvals then.</li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the two measures above will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions* who have earlier obtained an entry approval under the Work Pass Holder General Lane: Those with arrival dates before 5 July 2021 are not allowed to enter Singapore.<br/><br/>
+Affected employers will receive an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>. <br/><br/>
+<sup>*</sup> Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.
+  </li>
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
 </ul>      
 
