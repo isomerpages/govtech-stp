@@ -122,7 +122,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
 <i>*The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>
 <br><br><i><b>Note:</b></i>
 <ul style="margin-top:0px; list-style-type:disc;">
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) are <b>no longer accepted.</b>.</li>
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) are <b>no longer accepted</b>.</li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For FDWs and CNs from higher-risk countries/regions* who have earlier obtained an entry approval: Are allowed to enter Singapore, except for some with arrival dates before 7 June 2021 who will be rescheduled. <br/><br/>
 Affected employers and employment agents will receive an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges paid for FDWs and CNs who need to be rescheduled will be used for their subsequent entry into Singapore.<br/><br/>
    <sup>*</sup> FDWs and CNs with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are not allowed to enter Singapore until further notice even if they had obtained an entry approval.
