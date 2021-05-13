@@ -4,8 +4,8 @@ permalink: /wphl/overview
 ---
 
 <b><span style="color:red">[NOTICE]</span></b>
-<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) will no longer be accepted with immediate effect.</b></p>
-<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected pass holders will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">pass holders from higher-risk countries/regions</a> (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) are no longer accepted. Pass holders entering under the <a href="/pca/overview">Periodic Commuting Arrangement (PCA)</a> or <a href="/rgl/overview">Reciprocal Green Lane (RGL)</a> are not affected by this change.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected pass holders under the Work Pass Holder General Lane will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
 <p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</b></p>
 
 ## Overview 
@@ -43,10 +43,10 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
   </td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Employing companies can apply for the <a href="/pca/overview">Periodic Commuting Arrangement (PCA).</a></td>
 </tr>
-<tr>
+<!--<tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Pass holders entering Singapore from the <a href="/rgl/overview">Reciprocal Green Lane (RGL)</a> counterpart countries/regions and staying for up to 14 days </td>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Companies or Government agencies can apply for <a href="/rgl/overview">RGL.</a></td>
-</tr>
+</tr>-->
 <tr>
 <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Workers in the Construction, Marine shipyard or Process sector who meet <b>all of these conditions:</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc;">
