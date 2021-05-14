@@ -192,7 +192,7 @@ Visitors are not permitted to enter any retail or food & beverage establishments
  </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<br/><br/>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Visitors are not permitted to enter any retail food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services in the airport transit area, before arrival immigration.<br/><br/>The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<br/><br/>
      Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
          </td>
  </tr>
