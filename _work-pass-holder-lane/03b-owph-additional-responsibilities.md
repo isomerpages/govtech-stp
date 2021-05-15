@@ -84,7 +84,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (for arrivals from 16 May 2021, 23:59 hours)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals from 16 May 2021, 23:59 hours</b>)</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals before 13 May 2021</b>)</li>
     </ol>   
     </td>
@@ -132,7 +132,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <ul>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b> no longer accepted</b>.</li>
    <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions* who have earlier obtained an entry approval under the Work Pass Holder General Lane: Those with arrival dates before 5 July 2021 are <b>not allowed to enter Singapore.</b><br/><br/>
-Affected employers would have receive an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>. <br/><br/>
+Affected employers would have received an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>. <br/><br/>
 <sup>*</sup> Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.
   </li>
    <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
