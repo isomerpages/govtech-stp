@@ -43,7 +43,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       </li>
       </ol> 
       <b>Note:</b><br/><br/>
-      Pass holders with travel history to Taiwan within the last 21 days before arrival, and enter Singapore from 15 May 2021, 00:01 hours, to 16 May 2021, 2359 hours, will be subject to Government-funded COVID-19 tests on Day 3 and Day 7 of their arrival. Affected pass holders will be contacted on how they can take thier tests. 
+      Pass holders with travel history to Taiwan within the last 21 days before arrival, and enter Singapore from 15 May 2021, 00:01 hours, to 16 May 2021, 2359 hours, will be subject to Government-funded COVID-19 tests on Day 3 and Day 7 of their arrival. Affected pass holders will be contacted on how they can take their tests. 
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
