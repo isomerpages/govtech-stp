@@ -15,7 +15,7 @@ permalink: /apply-now
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Air Travel Pass</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>Applications for ATP Vietnam are suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>Applications for ATP Taiwan are suspended. Click <a href="/taiwan/atp/notice">here</a> for more details.<br><br>Applications for ATP Vietnam are suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Connect@Singapore</td>
