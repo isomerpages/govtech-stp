@@ -112,8 +112,8 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Taiwan</td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Air Travel Pass suspended. Click <a href="/taiwan/atp/notice">here</a> for more details.</td>
+  <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Air Travel Pass suspended. Click <a href="/taiwan/atp/notice">here</a> for more details.</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
   <tr>

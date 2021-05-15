@@ -18,7 +18,7 @@ Depending on the travellers’ travel history and [Safe Travel lane](/arriving/o
 
 All travellers will take a PCR test upon arrival in Singapore. 
 
-Depending on the country of departure/14-day travel history and [Safe Travel lane](/arriving/overview) used, travellers may be required to serve a [Stay Home Notice (SHN)](/health/shn) and take another PCR test before the end of their SHN. 
+Depending on the country of departure/travel history and [Safe Travel lane](/arriving/overview) used, travellers may be required to serve a [Stay Home Notice (SHN)](/health/shn) and take another PCR test before the end of their SHN. 
 
 The cost of the PCR test taken in Singapore will be borne by all travellers, as follows:
 

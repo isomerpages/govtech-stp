@@ -28,8 +28,9 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)</li>
 </ol>   
+<i>* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
       <ol style="margin-top:0px; list-style-type:decimal;">
@@ -41,6 +42,8 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         </ol>
       </li>
       </ol> 
+      <b>Note:</b><br/><br/>
+      Pass holders with travel history to Taiwan within the last 21 days before arrival, and enter Singapore from 15 May 2021, 00:01 hours, to 16 May 2021, 2359 hours, will be subject to Government-funded COVID-19 tests on Day 3 and Day 7 of their arrival. Affected pass holders will be contacted on how they can take their tests. 
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -83,6 +86,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals from 16 May 2021, 23:59 hours</b>)</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals before 13 May 2021</b>)</li>
     </ol>   
     </td>
@@ -97,7 +101,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         </ul>
         </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-</ol>Note:<br/><br/>Pass holders with travel history to Vietnam who:
+      </ol><b>Note:</b><br/><br/><b>Pass holders with travel history to Vietnam who:</b>
       <ul style="margin-top:0px; list-style-type:disc;">
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Complete their 14-day SHN at SDFs <b>before 15 May 2021, 23:59 hours</b>, can serve the last 7 days of their SHN in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.
 </li>
@@ -118,22 +122,22 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-      </ol>Note:<ul style="margin-top:0px; list-style-type:disc;">
+      </ol><b>Note:</b><ul style="margin-top:0px; list-style-type:disc;">
                <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who did not complete their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
 </ul></td> 
   </tr>
     </tbody>
 </table>
 
-<i>* The assessment of border measures based on pass holders’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i><br/><br/>
 <i><b>Note:</b></i> 
 
 <ul>
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) are <b> no longer accepted</b>.</li>
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders who have obtained an entry approval to enter from higher-risk countries/regions with arrival dates before 5 July 2021 will not be allowed to enter. Affected employers will receive an email from the Ministry of Manpower (MOM) on when to re-apply for entry and will be prioritised for entry approvals then.</li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions* who have earlier obtained an entry approval under the Work Pass Holder General Lane: Those with arrival dates before 5 July 2021 are not allowed to enter Singapore.<br/><br/>
-Affected employers will receive an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>. <br/><br/>
-<sup>*</sup> Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.
+ <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b> no longer accepted</b>.</li>
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions* who have earlier obtained an entry approval under the Work Pass Holder General Lane: <ul style=" margin-top:0px; list-style-type:lower-roman">
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Those with arrival dates before 5 July 2021 are <b>not allowed to enter Singapore.</b>
+Affected employers would have received an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>.</li>
+       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</li>
+     </ul>
   </li>
    <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
