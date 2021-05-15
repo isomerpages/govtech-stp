@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /taiwan/atp/faq
+
 --- 
 
 ### **Air Travel Pass (ATP)**
