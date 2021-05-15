@@ -133,8 +133,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 
 <ul>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b> no longer accepted</b>.</li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions* who have earlier obtained an entry approval under the Work Pass Holder General Lane: 
-     <ul style="list-style-type:lower-roman">
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions* who have earlier obtained an entry approval under the Work Pass Holder General Lane: <ul style=" margin-top:0px; list-style-type:lower-roman">
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Those with arrival dates before 5 July 2021 are <b>not allowed to enter Singapore.</b>
 Affected employers would have received an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>.</li>
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</li>
