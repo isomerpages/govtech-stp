@@ -19,3 +19,5 @@ With immediate effect, applications for the ATP for short-term visitors travelli
 ### Singapore Citizens/Permanent Residents/Long-Term Pass Holders 
 
 Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders can still travel from Taiwan to Singapore via the [Returning SC/PRs lane](/sc-pr/requirements-and-process), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/requirements-and-process). Short term visitors with SC/PR family in Singapore and who need to enter Singapore for extenuating reasons can do so via the [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process).
+
+Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders with travel history to Taiwan within the last 21 days before departure for Singapore, and who entered Singapore between 15 May 2021, 0001 hours, and 16 May 2021, 2359 hours, will be subject to Government-funded COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore. Affected travellers will be contacted with additional details on how they can take their COVID-19 PCR tests.
