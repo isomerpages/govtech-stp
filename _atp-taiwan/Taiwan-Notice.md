@@ -1,6 +1,6 @@
 ---
 title: NOTICE
-permalink: /vietnam/atp/notice
+permalink: /taiwan/atp/notice
 --- 
 
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR TAIWAN 
@@ -22,4 +22,4 @@ Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders ca
 
 ### Non-Singapore Citizens/Permanent Residents
 
-Travellers who are not SCs or PRs, with recent travel history to Taiwan in the last 21 days prior to arrival in Singapore will be required to take a COVID-19 PCR test within 72 hours before departure.
+Travellers who are not SCs or PRs, with recent travel history to Taiwan in the last 21 days prior to arrival in Singapore after 16 May 2021, 2359 hours, will be required to take a COVID-19 PCR test within 72 hours before departure.
