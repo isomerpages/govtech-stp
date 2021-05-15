@@ -10,7 +10,7 @@ Given the evolving COVID-19 situation in Taiwan, Singapore will tighten border m
 
 ### Short-term Visitors 
 
-**Short-term visitors with travel history to Taiwan, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **16 May 2021, 2359hrs (Singapore time)**. Please refer to the press release [here](INSERT MOH PR) issued by the Singapore Ministry of Health (MOH) dated 15 May 2021. 
+**Short-term visitors with travel history to Taiwan, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **16 May 2021, 2359hrs (Singapore time)**. Please refer to the press release [here](https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-taiwan) issued by the Singapore Ministry of Health (MOH) dated 15 May 2021. 
 
 For avoidance of doubt, these revised measures do not apply to Air Travel Pass (ATP) holders who are entering Singapore <b>before 16 May 2021, 2359 hours</b>.
 
