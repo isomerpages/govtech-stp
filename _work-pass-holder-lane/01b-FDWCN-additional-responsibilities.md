@@ -133,7 +133,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</li>
 </ul>
 
-<p style="margin-top:0px; margin-bottom:0px; font-size:16pxl line-height:1.5;"><i>* FDWs and CNs with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</i></p>
+<p style="margin-top:0px; margin-bottom:0px; font-size:16pxl line-height:1.0;"><i>* FDWs and CNs with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</i></p>
 
 <u><b>What employers/employment agencies must do when the FDW/CN enters Singapore</b></u>
 
