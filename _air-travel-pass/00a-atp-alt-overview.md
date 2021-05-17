@@ -67,7 +67,7 @@ Please click on the relevant links below for more information about the ATP.
   </tbody>
   </table>
 
-## Travelling to Air Travel Bubble Countries / Regions-->
+## Travelling to Air Travel Bubble Countries / Regions
  
 Please click on the relevant links below for more information on departure from Singapore on the Air Travel Bubble arrangement.
 
