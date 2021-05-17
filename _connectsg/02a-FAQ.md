@@ -148,7 +148,7 @@ Travellers are not allowed to leave the Appointed Facility throughout the durati
 
 #### 24. Can I use the Appointed Facility to serve my Stay-Home Notice (SHN) as a Singapore Citizen or Permanent Resident?
 
-No. Singapore Citizens or Permanent Residents who wish to exit the Appointed Facility (AF) and remain in Singapore will need to serve a further 14-day Stay-Home Notice (SHN) at dedicated SHN facilities, regardless of the duration of time spent at the Connect@Singapore AF. An individual’s time spent in the AF is not considered SHN, as they may interact with other high-risk travellers during their stay.
+No. Singapore Citizens or Permanent Residents who wish to exit the Appointed Facility (AF) and remain in Singapore will need to serve a further 21-day Stay-Home Notice (SHN) at dedicated SHN facilities, regardless of the duration of time spent at the Connect@Singapore AF. An individual’s time spent in the AF is not considered SHN, as they may interact with other high-risk travellers during their stay.
 
 <div id="DepartSG"></div>
 
