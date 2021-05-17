@@ -5,7 +5,7 @@ permalink: /hongkong/atb/notice
 
 ## IMPORTANT NOTICE
 
-## DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
+### DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
 
 Given the evolving COVID-19 situation in Singapore, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health. 
 
