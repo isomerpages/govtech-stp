@@ -75,8 +75,8 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
  </tr>
   <tr>
   <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Hong Kong</td>
-   <!-- <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Air Travel Bubble launch deferred. Click <a href="/hongkong/atp/notice">here</a> for more details.</td>-->
-    <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"> <a href="/hongkong/atb/visitingsg">Air Travel Bubble</a></td>
+   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Air Travel Bubble launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</td>
+    <!--<td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"> <a href="/hongkong/atb/visitingsg">Air Travel Bubble</a></td>-->
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
