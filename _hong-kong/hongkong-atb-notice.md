@@ -21,5 +21,5 @@ Singapore Citizens, Permanent Residents, and Long-Term Pass holders can still tr
 
 ### Visiting Hong Kong
 
-Travellers to Hong Kong will be subject to the prevailing border control and health requirements of Hong Kong. Please refer to Hong Kong’s dedicated ATB website here for the latest information. 
+Travellers to Hong Kong will be subject to the prevailing border control and health requirements of Hong Kong. Please refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html) for the latest information. 
 
