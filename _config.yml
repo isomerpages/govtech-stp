@@ -73,12 +73,8 @@ collections:
     output: true
   hong-kong:
     output: true
-  post:
-    output: true
-    future: true
-  
 
-resources_name: "media"
+  
   
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
