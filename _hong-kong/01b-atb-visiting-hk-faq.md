@@ -1,8 +1,4 @@
----
-title: Frequently Asked Questions
-permalink: /hongkong/atb/visitinghk-faq
-third_nav_title: Visiting Hong Kong
----
+
 
 ## Eligibility
 

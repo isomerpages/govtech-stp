@@ -58,6 +58,7 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
   </table>
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
 
-### Air Travel Bubble
 
-The Singapore-Hong Kong Air Travel Bubble (ATB) will commence its first flights on 26 May 2021. Please click [here](/hongkong/atb/visitinghk) for more details on travelling to Hong Kong or refer to Hong Kong’s dedicated ATB website [here](https://www.tourism.gov.hk/travel-bubble/en/index.html).
+### DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
+
+Given the evolving COVID-19 situation in Singapore, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health. For more information, please refer to the deferment notice [here](/hongkong/atb/notice).
