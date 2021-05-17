@@ -83,7 +83,7 @@ Upon arrival, travellers will commute directly to their assigned SDF using gover
 
 Travellers should only leave their SDF for their PCR test appointment only if they are feeling well. Travellers who are unwell should remain in their accommodation and alert the relevant agencies listed in this [page](https://go.gov.sg/tc) immediately.
 
-#### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
+#### 2. What are the types of transport that I can take if I am serving my 14-day Stay-Home Notice (SHN) at my place of residence?
 
 Travellers who are serving their [SHN](/health/shn/sdf) at their own residence are only permitted to arrange for transport with the following transport operators. During the SHN period, travellers are prohibited from leaving their place of residence unless they are due to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at a designated testing facility. Travellers may arrange for transport with the same transport operators below if they are commuting to the testing facility for their PCR test. When arranging for transport with the transport operator, travellers must identify themselves as persons serving SHN.
 
