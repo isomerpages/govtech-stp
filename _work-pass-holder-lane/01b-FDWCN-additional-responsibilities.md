@@ -29,8 +29,8 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
-      <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)-->
-      </li>
+      <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)
+      </li>-->
 </ol>   
 <!--<i>*The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>-->
     </td>
