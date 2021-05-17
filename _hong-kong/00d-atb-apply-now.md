@@ -1,8 +1,4 @@
----
-title: Apply Now
-permalink: /hongkong/atb/apply-now
-third_nav_title: Visiting Singapore
----
+
 
 <table>
   <thead>
