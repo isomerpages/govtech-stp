@@ -15,7 +15,7 @@ third_nav_title: Visiting Singapore
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Between 7 and 30 calendar days before intended date of entry into Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Between 7 and 30 calendar days before intended date of entry into Singapore </th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
