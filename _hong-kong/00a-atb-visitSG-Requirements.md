@@ -1,8 +1,4 @@
----
-title: Requirements and Process
-permalink: /hongkong/atb/visitingsg
-third_nav_title: Visiting Singapore
----
+
 
 ### 1. Eligibility 
  
