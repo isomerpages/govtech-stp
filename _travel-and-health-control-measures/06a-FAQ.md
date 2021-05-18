@@ -36,7 +36,7 @@ Travellers without a suitable place of residence for SHN may make a direct reser
 
 Travellers who choose not to serve their 7-day SHN in a self-sourced accommodation may appeal to opt-in to an assigned SDF . These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). Relevant charges will apply.
 
-* Some travellers with travel history countries of moderate risk are allowed to serve the last 7 days of the 21-day SHN at their place of residence.
+<span>*</span>Some travellers with travel history countries of moderate risk are allowed to serve the last 7 days of the 21-day SHN at their place of residence.
 
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
