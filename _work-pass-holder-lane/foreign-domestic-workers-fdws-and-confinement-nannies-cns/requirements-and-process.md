@@ -3,11 +3,10 @@ title: Requirements and Process
 permalink: /wphl/fdwcn-requirements-and-process
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
-
 <b><span style="color:red">[NOTICE]</span></b>
-<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications for <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">FDWs and CNs from higher-risk countries/regions</a>  (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are no longer accepted.</b></p>
-<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected FDWs and CNs  will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
-<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are no longer accepted.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected FDWs and CNs will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter in a safe and calibrated manner, mitigate the risk of COVID-19 importation and avoid overburdening our public health system. </b></p>
 
 ## Entry Requirements and Process for Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
@@ -46,9 +45,10 @@ The employer or employment agency must also inform the FDW/CN of the [conditions
 <p style="margin-top:10px; margin-bottom:0px; font-size:17px;"><b>Note:</b></p>
 <ul>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b>no longer accepted</b>. </li>
-<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For FDWs and CNs from higher-risk countries/regions* who have earlier obtained an entry approval: Are allowed to enter Singapore, except for some with arrival dates before 7 June 2021 who will be rescheduled. <br/><br/>
-Affected employers and employment agents would have received an email from Ministry of Manpower (MOM) by 12 May 2021. The entry approval charges paid for FDWs and CNs who need to be rescheduled will be used for their subsequent entry into Singapore.<br/><br/>
-  <sup>*</sup> FDWs and CNs with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.  
+<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For FDWs and CNs from higher-risk countries/regions who have earlier obtained an entry approval: <ol style="margin-top:0px;">
+	<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;">Those with arrival dates <b>from 22 May 2021 will be rescheduled</b>. Affected employers and employment agents will receive an email from Ministry of Manpower (MOM). The entry approval charges paid for FDWs and CNs who need to be rescheduled will be used for their subsequent entry into Singapore.</li>
+		<li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5; list-style-type:lower-roman;">FDWs and CNs with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days <b>are not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</li>
+	</ol>
   </li>
   <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their IPA validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</li>
 <li style="font-size:17px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For the best user experience, use Google Chrome (version 84 or later) or Microsoft Edge Web Browser to access the portal.</li>
@@ -93,4 +93,3 @@ Affected employers and employment agents would have received an email from Minis
 ### For more information
 
 Please refer to our FAQs [here](/wphl/fdwcn-faq).
-
