@@ -1,0 +1,17 @@
+collections:
+  travel-and-health-control-measures:
+    output: true
+    order:
+      - overview.md
+      - covid-19-symptoms.md
+      - covid-19-tests/.keep
+      - covid-19-tests/overview.md
+      - covid-19-tests/covid-19-polymerase-chain-reaction-test-pcr-test.md
+      - covid-19-tests/outbound-pre-departure-test.md
+      - mandatory-covid-19-travel-insurance-inbound-travellers-to-singapore.md
+      - self-isolation-and-segregation-measures/.keep
+      - self-isolation-and-segregation-measures/stay-home-notice-shn.md
+      - self-isolation-and-segregation-measures/shn-dedicated-facilities-sdf.md
+      - self-isolation-and-segregation-measures/shn-electronic-monitoring-device.md
+      - treatment-for-covid-19.md
+      - frequently-asked-questions.md

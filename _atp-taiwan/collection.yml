@@ -1,0 +1,5 @@
+collections:
+  atp-taiwan:
+    output: true
+    order:
+      - notice.md

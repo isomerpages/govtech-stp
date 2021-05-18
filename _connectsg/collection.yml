@@ -1,0 +1,7 @@
+collections:
+  connectsg:
+    output: true
+    order:
+      - connect-singapore-overview.md
+      - requirements-and-process.md
+      - frequently-asked-questions-connect-sg.md

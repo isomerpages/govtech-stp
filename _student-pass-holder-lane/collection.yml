@@ -1,0 +1,6 @@
+collections:
+  student-pass-holder-lane:
+    output: true
+    order:
+      - requirements-and-process.md
+      - application-user-guide.md

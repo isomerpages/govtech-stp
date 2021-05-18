@@ -1,0 +1,5 @@
+collections:
+  rgl-malaysia:
+    output: true
+    order:
+      - terms-conditions.md

@@ -1,0 +1,8 @@
+collections:
+  rgl-indonesia:
+    output: false
+    order:
+      - requirements-and-process.md
+      - terms-and-conditions.md
+      - frequently-asked-questions.md
+      - apply-now.md

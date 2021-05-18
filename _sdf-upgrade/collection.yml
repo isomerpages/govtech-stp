@@ -1,0 +1,6 @@
+collections:
+  sdf-upgrade:
+    output: true
+    order:
+      - book-an-sdf-suite-at-higher-cost.md
+      - frequently-asked-questions.md

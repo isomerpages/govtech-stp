@@ -1,0 +1,15 @@
+collections:
+  work-pass-holder-lane:
+    output: true
+    order:
+      - work-pass-holder-general-lane-overview.md
+      - foreign-domestic-workers-fdws-and-confinement-nannies-cns/.keep
+      - foreign-domestic-workers-fdws-and-confinement-nannies-cns/requirements-and-process.md
+      - foreign-domestic-workers-fdws-and-confinement-nannies-cns/additional-responsibilities-for-party-submitting-the-entry-application.md
+      - foreign-domestic-workers-fdws-and-confinement-nannies-cns/frequently-asked-questions.md
+      - work-permit-training-work-permit-and-s-pass-holders-in-construction-marine-shipyard-and-process-sectors-not-entering-singapore-with-dependants.md
+      - all-other-work-pass-holders-employed-by-companies-and-their-dependants/.keep
+      - all-other-work-pass-holders-employed-by-companies-and-their-dependants/requirements-and-process.md
+      - all-other-work-pass-holders-employed-by-companies-and-their-dependants/additional-responsibilities-for-party-submitting-entry-application.md
+      - all-other-work-pass-holders-employed-by-companies-and-their-dependants/frequently-asked-questions.md
+      - work-holiday-pass-personalised-employment-pass-without-employers-entrepass-holders-without-corppass-and-their-dependants.md
