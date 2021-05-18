@@ -30,9 +30,13 @@ Prospective travellers may also refer to this [table](/files/SHN-and-swab-summar
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Singapore citizens and permanent residents whose residence is unsuitable to serve their [SHN](/health/shn), may appeal to opt-in to serve their SHN at an [SDF](/health/shn/sdf). These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). 
+Some groups of travellers are allowed to serve SHN at a self-sourced accommodation (i.e. those serving 7-day SHN*). This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at [www.moh.gov.sg/covid-19].
 
-Non-resident travellers who not required to serve their SHN at an SDF, i.e. those serving 7-day SHN, but wish to do so, may make a direct reservation with the hotel. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their 7-day SHN.
+
+Travellers who choose not to serve their 7-day SHN in a self-sourced accommodation may appeal to opt-in to an assigned SDF . These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). Relevant charges will apply.
+
+* Some travellers with travel history countries of moderate risk are allowed to serve the last 7 days of the 21-day SHN at their place of residence.
 
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
