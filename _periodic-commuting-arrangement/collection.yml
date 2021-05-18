@@ -1,0 +1,13 @@
+collections:
+  periodic-commuting-arrangement:
+    output: true
+    order:
+      - periodic-commuting-arrangement-overview.md
+      - malaysian-citizens-prs-working-in-singapore/.keep
+      - malaysian-citizens-prs-working-in-singapore/requirements-and-process.md
+      - malaysian-citizens-prs-working-in-singapore/additional-work-pass-conditions.md
+      - singapore-citizens-prs-working-in-malaysia/.keep
+      - singapore-citizens-prs-working-in-malaysia/returning-to-singapore-for-short-term-home-leave.md
+      - singapore-citizens-prs-working-in-malaysia/entering-malaysia-for-work.md
+      - frequently-asked-questions.md
+      - apply-now.md

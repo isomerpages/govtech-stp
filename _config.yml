@@ -20,59 +20,6 @@ colors:
       color: '#00838f'
 
 #collections
-collections:
-  air-travel-pass:
-    output: true
-  atp-australia:
-    output: true
-  atp-brunei:
-    output: true
-  atp-china:
-    output: true
-  atp-new-zealand:
-    output: true
-  atp-vietnam:
-    output: true
-  atp-taiwan:
-    output: true
-  rgl-brunei:
-    output: true
-  rgl-china:
-    output: true
-  rgl-japan:
-    output: true
-  rgl-malaysia:
-    output: true
-  rgl-republic-of-korea:
-    output: true
-  reciprocal-green-lane:
-    output: true 
-  periodic-commuting-arrangement:
-    output: true
-  returning-singapore-citizen-and-pr:
-    output: true
-  travel-and-health-control-measures:
-    output: true
-  work-pass-holder-lane:
-    output: true
-  student-pass-holder-lane:
-    output: true
-  singaporean-familial-ties-lane:
-    output: true
-  rgl:
-    output: true
-  rgl-germany:
-    output: true
-  atp-hong-kong:
-    output: true
-  connectsg:
-    output: true
-  atp:
-    output: true
-  sdf-upgrade:
-    output: true
-  hong-kong:
-    output: true
 
   
   
@@ -94,9 +41,12 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+staging: https://govtech-stp-staging.netlify.app
+prod: https://govtech-stp-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+  - jekyll-remote-theme

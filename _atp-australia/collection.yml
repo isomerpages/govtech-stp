@@ -1,0 +1,5 @@
+collections:
+  atp-australia:
+    output: true
+    order:
+      - frequently-asked-questions.md

@@ -1,0 +1,5 @@
+collections:
+  atp-brunei:
+    output: true
+    order:
+      - frequently-asked-questions.md
