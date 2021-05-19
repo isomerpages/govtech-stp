@@ -10,13 +10,13 @@ This page provides information on the various COVID-19 tests to be taken when tr
 The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lane</a> for full details.
 
 
-#### PCR Test before Departing to Singapore
+#### 1. PCR Test before Departing to Singapore
 
 Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours <u>before</u> departing to Singapore. This has to be done at a clinic approved by the authorities of the country/region of departure.
 
 <div id="price"></div>
 
-#### On-Arrival Tests
+#### 2. On-Arrival Tests
 
 All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost of the tests taken in Singapore will be borne by all travellers, as follows:
 
@@ -58,7 +58,7 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
 
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
 
-#### Tests During SHN
+#### 3. Tests During SHN
 
 Depending on the country of departure/ travel history and <a href="/arriving/overview">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take tests before the end of their <a href="/health/shn/sdf">SHN</a>.
 
