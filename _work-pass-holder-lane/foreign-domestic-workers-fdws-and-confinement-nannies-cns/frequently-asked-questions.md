@@ -3,7 +3,6 @@ title: Frequently Asked Questions
 permalink: /wphl/fdwcn-faq
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
-
 ## FAQ for Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
 ### 1. If employers need help with the entry approval requirements, what can they do?
@@ -33,7 +32,9 @@ Please refer to the FAQs on recovered travellers [here](https://safetravel.ica.g
 
 You and your FDW or CN should take note of the risks, including contracting infectious diseases like COVID-19 from the person she is sharing room with. If any of them tests positive for COVID-19, their Stay-Home Notice (SHN) may be extended. In this case, there may be additional costs for her stay and medical related procedures.
 
-[Note] The room sharing request is subject to the availability of twin rooms at the dedicated SHN facility, which are limited, and room allocation by the facility operator upon check-in. If she is able to share a room, the cost of her stay will be $1,000 including GST. Otherwise, the standard rate of $1,500 including GST will apply.
+<u>[Note]</u> The room sharing request is subject to the availability of twin rooms and whether there is another worker with the same travel history as your FDW/CN. 
+
+If she is able to share a room, the cost of her stay will be $1,500 including GST. Otherwise, the standard rate of $2,250 including GST will apply. The refund for the excess amount paid will be processed within 3 weeks of her check-out from the dedicated facility. The refund will be made to the credit card used for payment during the entry application.
 
 If you and your FDW/CN are agreeable to proceed with the room sharing request, please complete these actions:
 
@@ -160,6 +161,4 @@ If the troubleshooting FAQ does not address your queries, you can contact us [he
 
 ### 14. I did not receive the entry application outcome for my FDW/CN. What should I do? 
 
-Please check your spam and junk folders in case the outcome was sent there. Contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders. 
-
-
+Please check your spam and junk folders in case the outcome was sent there. Contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders.
