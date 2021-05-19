@@ -3,7 +3,6 @@ title: Frequently Asked Questions
 permalink: /wphl/owph-faq
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
-
 ## Frequently Asked Questions
 
 <div id="#1"></div>
@@ -95,7 +94,9 @@ Employers can get a levy waiver for Work Permit or S Pass holders who are given 
 
 ### 7. Can employers get a levy waiver for Work Permit or S Pass holders who went on home / overseas leave?
 
-For employees on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer">apply for levy waiver</a> (for up to 60 days) <b>when the employees return to Singapore</b>.
+For employees on home or overseas leave, employers can apply for levy waiver  for up to 90 days for leave period in 2020, and up to 60 days for leave period in 2021. 
+
+Please only <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer">apply for levy waiver</a> <b>when the employees return to Singapore</b>.
 
 ### 8. Can employers send their pass holders for any issuance-related procedures (e.g. medical examination, finger-printing, Settling-In-Programme or safety courses) during the SHN?
 
