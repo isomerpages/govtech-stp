@@ -90,14 +90,15 @@ Once the application is approved, the applicant will be issued with SafeTravel P
   </tr>
 </thead>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
+<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
 <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers under the Connect@Singapore initiative must produce the following documents when leaving for Singapore:
    <ul>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Entry Approval;</li>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore.</li>
    </ul>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.<p>
+
+Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.
 </td>
 </tr>
 </tbody>
@@ -139,7 +140,7 @@ Travellers are required to take an on-arrival <a href="https://safetravel.ica.go
 <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers are to remain self-isolated in their guestrooms until a negative COVID-19 PCR test result is conveyed (within 48 hours). 
 
-<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.</p>
+Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
 </td>
 </tr>
 <thead>
@@ -158,3 +159,4 @@ Travellers will be able to conduct meetings with Singapore residents and with ot
 </tr>
 </tbody>
 </table>
+
