@@ -2,7 +2,6 @@
 title: RGL Requirements and Process
 permalink: /rgl/requirements-and-process
 ---
-
 The requirements and processes outlined on this page apply to inbound travellers from the following Reciprocal Green Lane-eligible countries/regions:
 
 <table>
@@ -169,9 +168,21 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Proof of transportation arrangement to depart from Singapore (i.e. return air, bus ticket); and</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether- compatible device in Singapore.</li>
          </ol> 
-      <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Travellers that fail to produce the above documents may be refused boarding by the airline or transport company.</p>     
+      <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers that fail to produce the above documents may be refused boarding by the airline or transport company.</p>     
     </td>
   </tr>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
+     </ol>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
+                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability and/or special need</li>
+     </ol> </p>                
+    </td>
+ </tr>	
   </tbody>
 </table>
 
@@ -194,7 +205,8 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/bus ticket; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">TraceTogether application downloaded on device or proof of rental of TraceTogether- compatible device in Singapore</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+				<p style="margin-top:14px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
          </ol> 
     </td>
   </tr>
@@ -228,6 +240,11 @@ The local host* must ensure that the approved RGL traveller downloads and uses t
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
+  </tr>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    </td>
   </tr>
   <thead>
   <tr>
@@ -278,4 +295,3 @@ The local host* must ensure that the approved RGL traveller downloads and uses t
   </tr>
   </tbody>
   </table>
-

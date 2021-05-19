@@ -2,7 +2,6 @@
 title: Requirements and Process
 permalink: /stpl/requirements-and-process
 ---
-
 <b><span style="color:red">[NOTICE]</span></b>
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
 
@@ -120,6 +119,18 @@ Eligible travellers should submit applications for entry approval through the <a
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
     </td>
   </tr>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
+     </ol>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
+                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability and/or special need</li>
+     </ol> </p>                
+    </td>
+ </tr>	
 </tbody>
 </table>
 
@@ -136,7 +147,14 @@ Eligible travellers should submit applications for entry approval through the <a
  <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
+			 Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
+			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+</li>
+			 </ol>	 
+   <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
+			 <br/>
        Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. <br/><br/> 
        Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -171,6 +189,11 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours, they have to self-isolate at their declared accommodation until they are notified of their negative result.<br/><br/>
      For travellers who are required to serve SHN at a place of residence or SDF, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
+    </td>
+  </tr>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
     </td>
   </tr>
   <thead>

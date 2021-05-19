@@ -1,0 +1,5 @@
+collections:
+  rgl-japan:
+    output: true
+    order:
+      - terms-conditions.md

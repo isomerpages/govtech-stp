@@ -1,0 +1,5 @@
+collections:
+  atp-vietnam:
+    output: true
+    order:
+      - notice.md

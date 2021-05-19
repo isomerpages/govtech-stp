@@ -1,0 +1,14 @@
+collections:
+  reciprocal-green-lane:
+    output: true
+    order:
+      - rgl-travellers-visiting-singapore/.keep
+      - rgl-travellers-visiting-singapore/overview.md
+      - rgl-travellers-visiting-singapore/pre-departure-measures.md
+      - rgl-travellers-visiting-singapore/rgl-terms-conditions.md
+      - visiting-rgl-counterpart-countries-regions/.keep
+      - visiting-rgl-counterpart-countries-regions/overview.md
+      - visiting-rgl-counterpart-countries-regions/faq-outbound-rgl-travellers.md
+      - rgl-travellers-returning-to-singapore/.keep
+      - rgl-travellers-returning-to-singapore/overview.md
+      - rgl-travellers-returning-to-singapore/faq-returning-rgl-travellers.md

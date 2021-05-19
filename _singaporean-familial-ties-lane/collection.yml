@@ -1,0 +1,6 @@
+collections:
+  singaporean-familial-ties-lane:
+    output: true
+    order:
+      - requirements-and-process.md
+      - frequently-asked-questions.md

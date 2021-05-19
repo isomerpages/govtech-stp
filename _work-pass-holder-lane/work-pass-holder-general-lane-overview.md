@@ -2,11 +2,10 @@
 title: Work Pass Holder General Lane - Overview
 permalink: /wphl/overview
 ---
-
 <b><span style="color:red">[NOTICE]</span></b>
-<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">pass holders from higher-risk countries/regions</a> (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are no longer accepted. Pass holders entering under the <a href="/pca/overview">Periodic Commuting Arrangement (PCA)</a> or <a href="/rgl/overview">Reciprocal Green Lane (RGL)</a> are not affected by this change.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry applications under the Work Pass Holder General Lane for <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">pass holders from higher-risk countries/regions</a> (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b>no longer accepted</b>. Pass holders entering under the <a href="/pca/overview">Periodic Commuting Arrangement (PCA)</a> or <a href="/rgl/overview">Reciprocal Green Lane (RGL)</a> are not affected by this change.</b></p>
 <p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>Affected pass holders under the Work Pass Holder General Lane will have their in-principle approval (IPA) validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</b></p>
-<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter Singapore in a safe and calibrated manner, and mitigate the risk of COVID-19 importation.</b></p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5; color:red;"><b>We seek your understanding and cooperation for such measures to enable pass holders to enter in a safe and calibrated manner, mitigate the risk of COVID-19 importation and avoid overburdening our public health system.</b></p>
 
 ## Overview 
 

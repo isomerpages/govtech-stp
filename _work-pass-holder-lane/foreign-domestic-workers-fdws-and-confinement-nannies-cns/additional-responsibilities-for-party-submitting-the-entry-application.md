@@ -3,7 +3,6 @@ title: Additional Responsibilities for Party Submitting the Entry Application
 permalink: /wphl/FDWCN-additional-responsibilities
 third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 ---
-
 ## Additional Responsibilities for Party Submitting the Entry Application (Employer or Employment Agency)
 
 ### Entry approval requirements
@@ -130,7 +129,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
 <ul style="margin-top:0px; list-style-type:disc;">
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications for FDWs and CNs from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b>no longer accepted.</b></li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For FDWs and CNs from higher-risk countries/regions who have earlier obtained an entry approval: <ul style="margin-top:0px; list-style-type:lower-roman;">
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Are allowed to enter Singapore, except for some with arrival dates <b>before 7 June 2021 who will be rescheduled.</b> Affected employers and employment agents will receive an email from Ministry of Manpower (MOM).  </li>
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Are allowed to enter Singapore, except for some with arrival dates <b>before 7 June 2021 who will be rescheduled</b>.  Affected employers and employment agents will receive an email from Ministry of Manpower (MOM).  </li>
     <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">FDWs and CNs with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</li>
       </ul>   
  </li>
@@ -172,5 +171,3 @@ If no party is willing and able to fulfil the responsibilities, the FDW/CN shoul
 Employers, employment agencies, FDWs and CNs have a collective duty to comply with the entry approval requirements.
 
 Enforcement action, including revocation of work passes and suspension of work pass privileges, will be taken for non-compliance or false declarations. Demerit points will also be imposed on employment agencies whose actions result in violation of the requirements by FDWs or CNs.
-
-
