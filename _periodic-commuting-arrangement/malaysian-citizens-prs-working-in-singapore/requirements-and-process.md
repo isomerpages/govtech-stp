@@ -3,7 +3,6 @@ title: Requirements and Process
 permalink: /pca/requirements-and-process
 third_nav_title: Malaysian Citizens/PRs Working in Singapore
 ---
-
 ### 1. Eligibility 
 
 Employers can use their Corppass to apply for the SafeTravel Periodic Commuting Arrangement (PCA) pass on behalf of their employees. These employees must be willing to spend at least 90 days in Singapore for work upon entry, and be a:
@@ -123,6 +122,19 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
       </ol> -->
     </td>
   </tr>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
+     <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
+     </ol>
+                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
+                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Those unable to use a mobile device due to a certified disability and/or special need</li>
+     </ol> </p>                
+    </td>
+ </tr>
+
   </tbody>
  </table>
  
