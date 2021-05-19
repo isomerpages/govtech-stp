@@ -83,7 +83,7 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 	
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
 
-----
+---
 
 <div id="note"></div>
 
