@@ -206,8 +206,8 @@ Travellers will be transported to their assigned SDF using Government-arranged t
     </td>
   </tr>
   <tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at an SHN-dedicated facility (SDF)</b></td>
-  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf">SDF</a> for the period stipulated in the <a href="/health/shn/sdf">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted on-site, or at a specified testing facility, and travellers must return to their SDF immediately after the test.<br/><br/>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at an SHN-dedicated facility (SDF)</b></td>
+  <td style="font-size:16px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf">SDF</a> for the period stipulated in the <a href="/health/shn/sdf">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted on-site, or at a specified testing facility, and travellers must return to their SDF immediately after the test.<br/><br/>
 Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
 Singapore Permanent Residents who are Malaysian nationals may access Government subsidies and Medishield Life/Integrated Shield Plans to help pay for their medical bills.
     </td>
