@@ -3,13 +3,9 @@ title: Covid-19 Tests For Travel To Singapore
 permalink: /health/covid19-tests/pcrtest
 third_nav_title: Covid 19 Tests
 ---
-
-
-
-
 ### COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
 
-The COVID-19 Polymerase Chain Reaction test (“PCR test”) is regarded worldwide to as the most accurate and reliable test to detect active COVID-19 infections. A PCR test is generally administered by a trained professional who will take a swab sample from the nose and/or throat of a traveller. In Singapore’s context, <u>all</u> inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be PCR-tested before and/or upon arrival.
+This page provides information
 
 #### PCR Test before Departing to Singapore
 
@@ -67,4 +63,4 @@ The cost of the PCR test taken in Singapore will be borne by all travellers, as 
   </tbody>
   </table>
 
-All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results. 
+All travellers would be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
