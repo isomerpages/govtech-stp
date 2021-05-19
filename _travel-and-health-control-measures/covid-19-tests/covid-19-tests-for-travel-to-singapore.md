@@ -5,17 +5,20 @@ third_nav_title: Covid 19 Tests
 ---
 ### COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
 
-This page provides information
+This page provides information on the various COVID-19 tests to be taken when travelling to Singapore. All inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be tested.
+
+The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lane</a> for full details.
+
 
 #### PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and [Safe Travel lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore.
+Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours <u>before</u> departing to Singapore. This has to be done at a clinic approved by the authorities of the country/region of departure.
 
 <div id="price"></div>
 
-#### PCR Test in Singapore
+#### On-Arrival Tests
 
-All travellers will take a PCR test upon arrival in Singapore. 
+All travellers will be tested for COVID-19 upon arrival in Singapore. 
 
 Depending on the country of departure/travel history and [Safe Travel lane](/arriving/overview) used, travellers may be required to serve a [Stay Home Notice (SHN)](/health/shn) and take another PCR test before the end of their SHN. 
 
