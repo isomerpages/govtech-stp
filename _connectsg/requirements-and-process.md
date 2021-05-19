@@ -126,9 +126,14 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 <tbody>
  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance as per normal.<br/><br/>
-Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.
-    </td>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
+			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+</li>
+			 </ol>	 
+   <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
+	<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.</p>
+	 </td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Appointed Facility</b></td>
