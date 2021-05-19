@@ -33,7 +33,7 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
     <tr>
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test for travellers from higher risk countries/regions only – Cost to be updated</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test for travellers from <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only – Cost to be updated</td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">You must use <a href="https://safetravel.changiairport.com/#/">this eService</a> to book and pay for the tests <b>before arriving in Singapore</b>.</td>
     </tr>
         <tr>
@@ -84,5 +84,7 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
 
 =========================================
+
+<div id="note"></div>
 
 <b><u>NOTE</u></b>: With effect from 20 May 2021, 0001 hours, all passengers entering Singapore via flights from Bangladesh, India, Nepal, Pakistan and Sri Lanka, will need to take an on-arrival COVID-19 Antigen Rapid Test (ART) <b><u>in addition to</u></b> the current COVID-19 Polymerase Chain Reaction (PCR) Test. Children born in or after 2015 will be exempted from the ART and PCR tests. For the additional COVID-19 ART, the Singapore Government will waive the charge from 20 May 2021 to 26 May 2021. Travellers will be required to pay for their COVID-19 ART from 27 May 2021 (charges to be confirmed).
