@@ -1,8 +1,9 @@
 ---
-title: COVID-19 Tests for Travel to Singapore
+title: COVID 19 Tests For Travel To Singapore
 permalink: /health/covid19-tests/pcrtest
 third_nav_title: Covid 19 Tests
 ---
+
 
 
 ### COVID-19 Polymerase Chain Reaction Test (“PCR Test”)
