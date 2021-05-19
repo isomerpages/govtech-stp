@@ -86,7 +86,7 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 </tr>
 <thead>
    <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><u>Day of Departure</u> to Singapore</th>
+    <th  style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><u>Day of Departure</u> to Singapore</th>
   </tr>
 </thead>
 <tr>
@@ -97,7 +97,6 @@ Once the application is approved, the applicant will be issued with SafeTravel P
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa to enter Singapore (for visa-required passport holders); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid certificate of negative result for a COVID-19 PCR test taken within 72 hours before departure for Singapore.</li>
    </ul>
-
 <p style="margin-top:0px; margin-bottom:0xp; font-size:16px; line-height:1.5;">Travellers who do not produce the above documents at pre-boarding checks may be refused boarding by the airline or transport company.</p>
 </td>
 </tr>
