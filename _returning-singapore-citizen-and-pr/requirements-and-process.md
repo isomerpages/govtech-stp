@@ -1,8 +1,7 @@
 ---
-title: Requirements and Process 
+title: Requirements and Process
 permalink: /SC-PR/requirements-and-process
 ---
-
 ### 1. Eligibility 
 
 <span class="font-size:16px;">The traveller must be a Singapore Citizen or Permanent Resident.</span>
@@ -30,10 +29,12 @@ The border health requirements may be subject to change, and the prevailing bord
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
     <td style="font-size:16px; 
 border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
-      <ol style="margin-top:0px; list-style-type: disc;">
+      <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
-             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, depending on the traveller’s recent travel history to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a>. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot; and</li>
-                  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">
+Register and pre-pay for their post-arrival COVID-19 tests <a href="https://safetravel.changiairport.com/#/">here</a>, depending on the traveller’s recent travel history in the past consecutive 21 days to countries/regions listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="/files/SHN-and-swab-summary.pdf">here</a>. Travellers who have yet to pay for their post-arrival COVID-19 PCR test will be required to pay on the spot.*</li>
+				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b><u>*NOTE:</u></b> With effect from 20 May 2021, 0001 hours, all passengers entering Singapore via flights from Bangladesh, India, Nepal, Pakistan and Sri Lanka, will need to take an on-arrival COVID-19 Antigen Rapid Test (ART) <b><u>in addition</u></b> to the current COVID-19 Polymerase Chain Reaction (PCR) Test. Children born in or after 2015 will be exempted from the ART and PCR tests. For the additional COVID-19 ART, the Singapore Government will waive the charge from 20 May 2021 to 26 May 2021. Travellers will be required to pay for their COVID-19 ART from 27 May 2021 (charges to be confirmed).</p>
          </ol> 
     </td>
   </tr>
