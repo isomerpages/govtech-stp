@@ -205,7 +205,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid visa (for visa-required passport holders);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Negative COVID-19 PCR test result;</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A return air/bus ticket; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">A mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
 				<p style="margin-top:14px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
          </ol> 
     </td>
