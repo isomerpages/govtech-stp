@@ -147,6 +147,19 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
   </tr>
   </thead>
 <tbody>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
+        <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+         </ol>
+      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
+      <br/>
+*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
+         </td>
+ </tr>
  <tr>
      <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
      <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">PCA travellers will take a COVID-19 PCR test immediately after clearing immigration in Singapore.<br/><br/>
