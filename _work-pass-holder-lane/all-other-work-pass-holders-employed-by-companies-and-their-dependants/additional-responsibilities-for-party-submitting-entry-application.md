@@ -139,7 +139,7 @@ Affected employers will receive an email from Ministry of Manpower (MOM). The en
        <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</li>
      </ul>
   </li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the measures above will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
+   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
 </ul>      
 
