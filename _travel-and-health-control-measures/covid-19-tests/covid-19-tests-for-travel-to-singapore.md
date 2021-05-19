@@ -49,9 +49,9 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
        </td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px; border-bottom:2px; solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px; border-bottom:2px; solid #E0E0E0;">S$160</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px; border-bottom:2px; solid #E0E0E0;">You must use <a href="https://oat.mpa.gov.sg">MPA's eService</a> to book and pay for the test <b>before arriving in Singapore</b>.</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$160</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">You must use <a href="https://oat.mpa.gov.sg">MPA's eService</a> to book and pay for the test <b>before arriving in Singapore</b>.</td>
     </tr>     
   </tbody>
   </table>
