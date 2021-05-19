@@ -3,7 +3,6 @@ title: Covid 19 Tests for Travel To Singapore
 permalink: /health/covid19-tests/pcrtest
 third_nav_title: Covid 19 Tests
 ---
-
 ### COVID-19 Tests for Travel to Singapore
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore. All inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be tested.
@@ -34,7 +33,7 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
     <tr>
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only – Cost to be updated</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/><a href="/health/covid19-tests/pcrtest#note">Antigen Rapid Test  – To be updated</a></td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">You must use <a href="https://safetravel.changiairport.com/#/">this eService</a> to book and pay for the tests <b>before arriving in Singapore</b>.</td>
     </tr>
         <tr>
