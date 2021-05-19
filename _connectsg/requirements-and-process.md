@@ -112,7 +112,6 @@ Once the application is approved, the applicant will be issued with SafeTravel P
      </ol> </p>                
     </td>
  </tr>
-  
 </tbody>
 </table>
 
