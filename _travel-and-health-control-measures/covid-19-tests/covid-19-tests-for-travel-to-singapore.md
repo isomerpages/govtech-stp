@@ -3,11 +3,6 @@ title: COVID-19 Tests For Travel To Singapore
 permalink: /health/covid19-tests/pcrtest
 third_nav_title: Covid 19 Tests
 ---
-
-
-
-
-
 ### COVID-19 Tests for Travel to Singapore
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore. All inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be tested.
@@ -28,10 +23,10 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
 <table>
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location</th>
-       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Charge (inclusive of GST)</th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" >Point of Swab</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;">Swab location</th>
+       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;">Charge (inclusive of GST)</th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;">Payment Mode</th>
     </tr>
   </thead>
   <tbody>
