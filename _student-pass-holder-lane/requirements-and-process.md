@@ -147,7 +147,14 @@ Eligible travellers should submit applications for entry approval through the <a
  <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance per normal.<br/><br/>
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
+			 Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
+			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+</li>
+			 </ol>	 
+   <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
+			 <br/>
        Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. <br/><br/> 
        Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
