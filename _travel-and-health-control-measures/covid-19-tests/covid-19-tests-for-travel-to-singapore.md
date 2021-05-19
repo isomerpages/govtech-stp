@@ -59,7 +59,9 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
 
 #### Tests During SHN
-	
+
+Depending on the country of departure/ travel history and <a href="/arriving/overview">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take tests before the end of their <a href="/health/shn/sdf">SHN</a>.
+
 <table>
  <thead>
     <tr>
@@ -79,3 +81,8 @@ Travellers will be informed of their PCR test results verbally by phone or in pe
 	</tbody>
 	</table>
 	
+Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
+
+=========================================
+
+<b><u>NOTE</u></b>: With effect from 20 May 2021, 0001 hours, all passengers entering Singapore via flights from Bangladesh, India, Nepal, Pakistan and Sri Lanka, will need to take an on-arrival COVID-19 Antigen Rapid Test (ART) <b><u>in addition to</u></b> the current COVID-19 Polymerase Chain Reaction (PCR) Test. Children born in or after 2015 will be exempted from the ART and PCR tests. For the additional COVID-19 ART, the Singapore Government will waive the charge from 20 May 2021 to 26 May 2021. Travellers will be required to pay for their COVID-19 ART from 27 May 2021 (charges to be confirmed).
