@@ -86,11 +86,11 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 </tr>
 <thead>
    <tr>
-    <th  style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><u>Day of Departure</u> to Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><u>Day of Departure</u> to Singapore</th>
   </tr>
 </thead>
 <tr>
-<td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
+<td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-boarding clearance</b></td>
 <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers under the Connect@Singapore initiative must produce the following documents when leaving for Singapore:
    <ul>
    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Valid Entry Approval;</li>
