@@ -159,4 +159,3 @@ Travellers will be able to conduct meetings with Singapore residents and with ot
 </tr>
 </tbody>
 </table>
-
