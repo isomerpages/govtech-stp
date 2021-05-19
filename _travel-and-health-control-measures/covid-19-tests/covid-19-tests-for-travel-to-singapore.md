@@ -7,7 +7,7 @@ third_nav_title: Covid 19 Tests
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore. All inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be tested.
 
-The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lane</a> for full details.
+The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="/arriving/overview">Safe Travel Lane</a> for full details.
 
 
 #### 1. PCR Test before Departing to Singapore
