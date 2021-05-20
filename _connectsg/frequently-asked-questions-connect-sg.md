@@ -2,7 +2,6 @@
 title: Frequently Asked Questions- Connect@SG
 permalink: /connectsg/FAQ
 ---
-
 <div id="top"></div>
 
 <div id="GenQuery"></div>
@@ -90,7 +89,7 @@ Both the SafeTravel Pass application and approved SafeTravel Pass cannot be amen
 
 #### 13. Can I travel with a group under the Connect@Singapore initiative? 
 
-Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to five individuals with similar travel history and [entry requirements](/files/SHN-and-swab-summary.pdf) into Singapore. The travel cohort must be declared to the Safe Travel Office at the point of application. The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
+Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to two individuals with similar travel history and [entry requirements](/files/SHN-and-swab-summary.pdf) into Singapore. The travel cohort must be declared to the Safe Travel Office at the point of application. The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
 
 #### 14. I recently tested positive for COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
@@ -134,7 +133,7 @@ The Connect@Singapore initiative is for business, official and high-economic val
 
 #### 21. Can I mingle with other travellers under the Connect@Singapore initiative? 
 
-Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to five individuals with similar travel history and entry requirements into Singapore. The travel cohort must be pre-approved by the Safe Travel Office, and pre-declared to the Appointed Facility (AF). The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
+Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to two individuals with similar travel history and entry requirements into Singapore. The travel cohort must be pre-approved by the Safe Travel Office, and pre-declared to the Appointed Facility (AF). The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
 
 All prevailing national Safe Management Measures (SMMs) will apply to travellers in the AF. 
 
@@ -156,5 +155,4 @@ No. Singapore Citizens or Permanent Residents who wish to exit the Appointed Fac
 
 #### 25. I need a pre-departure COVID-19 PCR and/or serology test prior to leaving Singapore. Where can I take it?
 
-Please make the necessary arrangements with your Appointed Facility. 
-
+Please make the necessary arrangements with your Appointed Facility.
