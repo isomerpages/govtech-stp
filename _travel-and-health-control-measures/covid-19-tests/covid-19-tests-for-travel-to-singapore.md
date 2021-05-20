@@ -33,7 +33,7 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
     <tr>
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test  for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only–  Cost to be updated</a></td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test  for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only–  Cost to be updated</td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">You must use <a href="https://safetravel.changiairport.com/#/">this eService</a> to book and pay for the tests <b>before arriving in Singapore</b>.</td>
     </tr>
         <tr>
@@ -65,10 +65,10 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 <table>
  <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location</th>
-       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Charge (inclusive of GST)</th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;">Point of Swab</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Swab location</th>
+       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Charge (inclusive of GST)</th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Payment Mode</th>
     </tr>
   </thead>
 	 <tbody>
