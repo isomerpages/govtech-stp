@@ -1,5 +1,5 @@
 collections:
-  singaporean-familial-ties-lane:
+  familial-ties-lane:
     output: true
     order:
       - requirements-and-process.md
