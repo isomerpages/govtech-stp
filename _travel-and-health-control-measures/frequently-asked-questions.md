@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /health/FAQ
 ---
-
 ## Click to jump to the following sections:
 
 <div id="top"></div>
@@ -87,11 +86,13 @@ Upon arrival, travellers will commute directly to their assigned SDF using gover
 
 Travellers should only leave their SDF for their PCR test appointment only if they are feeling well. Travellers who are unwell should remain in their accommodation and alert the relevant agencies listed in this [page](https://go.gov.sg/tc) immediately.
 
-#### 2. What are the types of transport that I can take if I am serving my 14-day Stay-Home Notice (SHN) at my place of residence?
+#### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
 
-Travellers who are serving their [SHN](/health/shn/sdf) at their own residence are only permitted to arrange for transport with the following transport operators. During the SHN period, travellers are prohibited from leaving their place of residence unless they are due to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at a designated testing facility. Travellers may arrange for transport with the same transport operators below if they are commuting to the testing facility for their PCR test. When arranging for transport with the transport operator, travellers must identify themselves as persons serving SHN.
+Travellers may use their own private vehicle or hire a taxi/private hire car with the designated operators (see table below). The use of cabs hailed from the street is prohibited.
 
-<table>
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a [Stay-Home Notice (SHN)](https://safetravel.ica.gov.sg/health/shn/sdf). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+
+<!--<table>
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th>
@@ -112,14 +113,7 @@ Travellers who are serving their [SHN](/health/shn/sdf) at their own residence a
 </td>
     </tr>
   </tbody>
-  </table>
-
-#### 3. What are the types of transport that I can take if I am serving a 7-day Stay-Home Notice?
-
-Travellers may use their own private vehicle or hire a taxi/private hire car with the designated operators (see table below). The use of cabs hailed from the street is prohibited.
-
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a [Stay-Home Notice (SHN)](/health/shn/sdf). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
-
+  </table>-->
 
 <table>
   <thead>
@@ -360,7 +354,7 @@ The Government will review whether to extend the requirement to short-term visit
 
 Yes, both recovered and vaccinated foreign travellers need to buy insurance before travel to Singapore. There is still a risk that these travellers can get the COVID-19 infection, and require medical attention or hospitalisation for evaluation.
 
-#### 10.	Should the COVID-19 treatment cost go beyond $30,000, who will pay the excess? 
+#### 10.	Should the COVID-19 treatment cost go beyond S$30,000, who will pay the excess? 
 
 As per existing practice, travellers will have to pay for their own treatment costs beyond insurance coverage. 
 
