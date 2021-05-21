@@ -1,8 +1,7 @@
 ---
-title: Frequently Asked Questions 
+title: Frequently Asked Questions
 permalink: /health/shn/sdfsuitefaq
 ---
-
 ## Frequently Asked Questions
 
 ### Click to jump to the relevant sections
@@ -63,7 +62,7 @@ Please do not make multiple suite bookings. SDFs will be asked to cancel all boo
 
 #### 10. The duration of SHN I am required to serve at an SDF changed after I booked my suite. Will I be able to stay in the suite I booked for the entire new duration of my SHN?
 
-The SDF will contact you to share possible options. If your SHN duration has increased, your suite booking is subject to availability. Costs will be pro-rated based on the actual number of days stayed in the suite.
+The SDF will contact you to share possible options and change in costs (if any). If your SHN duration was increased, your suite booking is subject to availability. If the same suite is available, the [latest costs](/health/shn/sdfupgrade#options) will apply for the additional days (after pro-ration). If your SHN duration was reduced, the cost will be pro-rated based on the actual number of days stayed in the suite.
 
 <div id="payment"></div>
 
@@ -92,6 +91,3 @@ For example: If traveller has already paid $2k to an agency when obtaining appro
 #### 4. When I made my suite booking, prices were different from what is [currently](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) published. Which price will I pay?
 
 The [current](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) prices for ‘Standard’ (previously ‘Regular’), ‘Large’, and ‘Extra Large’ suites took effect on 14 Apr 2021. Travellers who made suite bookings with SDFs before 14 Apr 2021, will continue to pay the previous price listed for the suite at the point of booking. However, should travellers decide to make changes to their booking (i.e. change of dates, SDF, or suite type), they will be subject to the new prices instead. This does not apply to additional costs imposed, which are separate from the suite charges (e.g. charges for COVID-19 tests).
-
-
-
