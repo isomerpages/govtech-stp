@@ -3,7 +3,6 @@ title: Stay Home Notice (SHN)
 permalink: /health/shn
 third_nav_title: Self-Isolation and Segregation Measures
 ---
-
 ### Overview 
 
 The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
@@ -61,7 +60,3 @@ Reflected in the table below are four examples of how the SHN end date is typica
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
 
 Travellers serving their SHN outside of SDFs will also be issued with electronic SHN monitoring devices. More information on these devices can be found [here](/health/shn-monitoring).
-
-
-
-

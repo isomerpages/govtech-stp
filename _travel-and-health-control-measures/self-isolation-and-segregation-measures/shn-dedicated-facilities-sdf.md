@@ -3,21 +3,24 @@ title: SHN-Dedicated Facilities (SDF)
 permalink: /health/shn/sdf
 third_nav_title: Self-Isolation and Segregation Measures
 ---
-
 ### SHN-Dedicated Facilities (SDF)
 
-Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF) assigned to them by the Singapore Government. The standard costs for SDF stays are provided in the tables below. These exclude the costs of PCR tests and laundry.
+Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). 
+
+<b>The Government will assign the traveller to an available SDF upon arrival. You are not allowed to choose your SDF and there is no list of official SDFs given the rapidly evolving situation. <b>
+
+If you have specific SDF stay requirements, you may wish to contact the SDF’s concierge and they and will engage you regarding your needs. For travellers who are not yet in Singapore, or for request that the SDF is unable to facilitate, you may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for details. Alternatively, you may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance.
 
 <b>Cost of SDF Stay (14 Days)</b>
 
 <table>
   <tr>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$2,000 per person for accommodation and food.</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">S$2,000 per person for accommodation and food.</td>
   </tr>
   <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
-    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,300 per person for accommodation and food.
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">S$1,300 per person for accommodation and food.
     </td>   
   </tr>
     <tr>
@@ -31,11 +34,11 @@ Travellers arriving from higher-risk countries/regions will be required to serve
 <table>
   <tr>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">$3,000 per person for accommodation and food.</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">S$3,000 per person for accommodation and food.</td>
   </tr>
   <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
-    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">$1,950 per person for accommodation and food.</td>   
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">S$1,950 per person for accommodation and food.</td>   
   </tr>
     <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Minors</td>
@@ -82,4 +85,4 @@ Travellers may opt-out of SDF if they suffer from <u> critical illness, special 
   </table>
 -->
 
-Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable. 
+Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable.
