@@ -7,7 +7,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). 
 
-**The Government will assign the traveller to an available SDF upon arrival. You are not allowed to choose your SDF and there is no list of official SDFs given the rapidly evolving situation. **
+<b>The Government will assign the traveller to an available SDF upon arrival. You are not allowed to choose your SDF and there is no list of official SDFs given the rapidly evolving situation. <b>
 
 If you have specific SDF stay requirements, you may wish to contact the SDF’s concierge and they and will engage you regarding your needs. For travellers who are not yet in Singapore, or for request that the SDF is unable to facilitate, you may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for details. Alternatively, you may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance.
 
