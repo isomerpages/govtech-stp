@@ -1,5 +1,5 @@
 collections:
   rgl-malaysia:
-    output: true
+    output: false
     order:
       - terms-conditions.md
