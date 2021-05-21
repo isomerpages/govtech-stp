@@ -8,7 +8,7 @@ permalink: /SC-PR/requirements-and-process
             
 ### 2. No Approvals or Inbound Pre-Departure COVID-19 Polymerase Chain Reaction Test ("PCR Test") Required for Entry into Singapore
 
-<span class="font-size:16px;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore without applying for entry under any SafeTravel Lane. There is also no need for returning SC/PRs to take an inbound PCR test within 72 hours before departure for Singapore.</span>
+<span class="font-size:16px;">Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore without applying for entry under any SafeTravel Lane. There is also <u>no need</u> for returning SC/PRs to take an inbound PCR test within 72 hours before departure for Singapore.</span>
 
 ### 3. Check Border Health Requirements
 
