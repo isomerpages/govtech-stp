@@ -14,7 +14,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite. 
 
-**Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is atleast $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF).
+**Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is atleast S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
  
 **Step 4:** Travellers (including Singapore Citizens and Permanent Residents) will pay for the full cost of the suite directly to the SDF during check-in. Travellers who have already paid the default SDF cost when applying for entry approval or a SafeTravel Pass will pay the difference in cost directly to the SDF during check-in. 
 
@@ -38,24 +38,24 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <tbody>
     <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"  rowspan="2">Cost (for 1<sup>st</sup> person, for 14-day SDF stay)^</td>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$5,000</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$7,500</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$13,000</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$20,000</td>
+         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$5,000</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$7,500</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$13,000</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$20,000</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/> Additional $600 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged $600.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/> Additional S$600 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged S$600.
 </td>
     </tr>
  <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" rowspan="2">Cost (for 1<sup>st</sup> person, for 21-day SDF stay)^</td>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$7,500</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$11,250</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$19,500</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">$30,000</td>
+         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$7,500</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$11,250</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$19,500</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$30,000</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/>Additional $900 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged $900
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/>Additional S$900 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged S$900
 </td>
     </tr>
         <tr>
@@ -138,7 +138,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 ## For Suite Bookings After Arrival
 
-**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of atleast $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF). 
+**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of atleast S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF). 
 
 **Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite.
 
