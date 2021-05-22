@@ -1,5 +1,5 @@
 collections:
   rgl-republic-of-korea:
-    output: true
+    output: false
     order:
       - terms-conditions.md

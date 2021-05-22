@@ -1,5 +1,5 @@
 collections:
   rgl-germany:
-    output: true
+    output: false
     order:
       - terms-conditions.md

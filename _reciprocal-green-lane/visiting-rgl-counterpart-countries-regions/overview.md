@@ -61,17 +61,17 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Brunei)</b></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions under "Entry Travel for Foreigners" at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a></td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei">FAQ</a></td>
-  </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Mainland China)</b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">新中快捷通道（Singapore-China Fast Lane）</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions from the Embassy of the People's Republic of China <a href="http://www.chinaembassy.org.sg/eng/lsfw/fhqz/t1788677.htm" target="_blank">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-china">FAQ</a></td>
+  </tr>
+	<tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Brunei)<span style="color:red;">*</span></b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions under "Entry Travel for Foreigners" at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei">FAQ</a></td>
   </tr>
       <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Germany)<span style="color:red;">*</span></b></td>
