@@ -43,7 +43,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
       </li>
       </ol> 
       <b>Note:</b><br/><br/>
-      Pass holders with travel history to Taiwan within the last 21 days before arrival, and entered Singapore from 15 May 2021, 00:01 hours, to 16 May 2021, 2359 hours, will be subject to Government-funded COVID-19 tests on Day 3 and Day 7 of their arrival. Affected pass holders will be contacted on how they can take their tests. 
+			Pass holders with travel history to <b>Taiwan</b> within the last 21 days before arrival, and entered Singapore <b>from 15 May 2021, 00:01 hours, to 16 May 2021, 2359 hours</b>, will be subject to Government-funded COVID-19 tests on Day 3 and Day 7 of their arrival. Affected pass holders will be contacted on how they can take their tests. 
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -78,7 +78,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Sri Lanka</li>
 </ol>
     </td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><b>Defer entry. Not allowed to enter Singapore until further notice. This also applies to pass holders who had obtained an entry approval.</b><br/><br/>In-principle approval (IPA) holders will have their IPA validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, employers can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension.</a>     
+    <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;"><b>Defer entry. Not allowed to enter Singapore until further notice. This applies even if pass holders had obtained an entry approval.</b><br/><br/>In-principle approval (IPA) holders will have their IPA validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, employers can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension.</a>     
       </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">&nbsp;</td>
   </tr>
@@ -132,14 +132,6 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <i><b>Note:</b></i> 
 
 <ul>
- <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New entry applications under the Work Pass Holder General Lane for pass holders from higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand) are <b> no longer accepted</b>.</li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">For pass holders from higher-risk countries/regions who have earlier obtained an entry approval under the Work Pass Holder General Lane: <ul style=" margin-top:0px; list-style-type:lower-roman">
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Those with arrival dates <b>before 5 July 2021 are not allowed to enter Singapore.</b>
-Affected employers will receive an email from Ministry of Manpower (MOM). The entry approval charges will be refunded to the credit card used for payment within 1 month. Employers or pass holders who have already paid for the on-arrival tests at the checkpoints can <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">request for a refund</a>.</li>
-       <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders with travel history (including transit) to Bangladesh, India, Nepal, Pakistan or Sri Lanka within the last 21 days are <b>not allowed to enter Singapore until further notice</b> even if they had obtained an entry approval.</li>
-     </ul>
-  </li>
-   <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Pass holders affected by the <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">measures above</a> will have their in-principle approval (IPA) validities extended. MOM will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>. </li>
  <li style="font-size:18px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children 6 years old and below this year are exempted from the COVID-19 tests.</li>
 </ul>      
 
