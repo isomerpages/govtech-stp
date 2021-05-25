@@ -4,12 +4,12 @@ permalink: /returning-singapore-citizen-and-pr/faq
 ---
 #### 1.	I have an upcoming flight to Singapore. Do I need to take a pre-departure test before travelling to Singapore? 
 
-From <b>XX May 2021, 2359 hours, <u>all</u> travellers entering or transiting through Singapore (including Singapore Citizens and Permanent Residents, i.e. SCPRs) via flight or ferry</b>, except for those who have stayed in lower-risk countries/regions<sup>1</sup> in the last 21 days before departure for Singapore, will need to present a valid negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel for Singapore<sup>2</sup.
-
+From <b>XX May 2021, 2359 hours, <u>all</u> travellers entering or transiting through Singapore (including Singapore Citizens and Permanent Residents, i.e. SCPRs) via flight or ferry</b>, except for those who have stayed in lower-risk countries/regions<sup>1</sup> in the last 21 days before departure for Singapore, will need to present a valid negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel for Singapore<sup>2</sup>.
 
 <u>Note</u>:<br/><br/>
 <sup>1</sup>This currently applies to travellers from Australia, Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao. Travellers from lower-risk countries/regions are either required to take a COVID-19 test upon arrival in lieu of a Stay-Home Notice (SHN), or required to serve a 7-day SHN at their place of residence with a COVID-19 test administered at the end of their SHN.<br/><br/>
 <sup>2</sup>For example, if a passenger is departing on 27 May 2021 1000hrs, the test must be taken no earlier than 24 May 2021, 1000hrs.
+
 
 
 #### 2.	I am transiting via Singapore. Do I still need to have a valid negative COVID-19 test result?
@@ -35,7 +35,7 @@ The test result memo must state the negative test result in English, date that t
 <tr>
 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">1</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Test result memo to be in English</td>
-<td rowspan="3" style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b><Mandatory/b></td>
+<td rowspan="3" style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>Mandatory</b></td>
 </tr>
 <tr>
 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">2</td>
@@ -59,7 +59,7 @@ The test result memo must state the negative test result in English, date that t
 </tbody>
 </table>
 
-<-- •	Are Antigen Rapid Tests (ARTs) acceptable for the pre-departure testing requirement?
+<!-- Are Antigen Rapid Tests (ARTs) acceptable for the pre-departure testing requirement?
 
 Currently, the PCR test is used in Singapore as the definitive test for the confirmation of COVID-19 cases. Antigen Rapid Tests will not be accepted for the pre-departure COVID-19 test. --> 
 
@@ -67,12 +67,12 @@ Currently, the PCR test is used in Singapore as the definitive test for the conf
 
 All travellers entering or transiting through Singapore (including Singapore Citizens and Permanent Residents) via flight or ferry except for those who have stayed in lower-risk countries/regions in the last 21 days before departure for Singapore,  must present a negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel for Singapore.  
 
-<u>Direct flight</u>
+<u>Direct flight</u><br/><br/>
 For travellers who take a direct flight, the 72 hours will be counted from the scheduled departure time of the flight to Singapore.
 
 <p style="line-height:1.5; color:red;"><i>**If a passenger is departing on 28 May 2021 1000H, PDT must be taken no earlier than 25 May 2021 1000H.</i></p>
 
-<u>Connecting flights</u>
+<u>Connecting flights</u><br/><br/>
 For travellers who have to take a connecting flight(s), the 72 hours will be counted from the departure of the first leg only and the total transit duration for the trip must not be more than 24 hours. If the total transit duration is more than 24 hours, a PDT must be taken within 72 hours from the last leg (i.e. the flight to Singapore). 
  
 <img src="/images/PDT_Transit.png">
@@ -112,4 +112,4 @@ Such travellers who arrive in Singapore without having a negative pre-departure 
 
 #### 9.	Is there any appeal channel for Singapore Citizen/ PR to appeal for waiver of PDT if they are unable to pay for their PDT, or if there are no testing facilities/labs where travellers can have a COVID-19 PCR test conducted with results received within 72 hours of their departure?
 
-Singapore Citizens and Permanent Residents may contact the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Office</a> for advice if they are unable to afford or do not have access to COVID-19 PCR tests or timely COVID-19 PCR test results. 
+Singapore Citizens and Permanent Residents may contact the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Office</a> for advice if they are unable to afford or do not have access to COVID-19 PCR tests or timely COVID-19 PCR test results.
