@@ -73,9 +73,7 @@ For travellers who take a direct flight, the 72 hours will be counted from the s
 <p style="line-height:1.5; color:red;"><i>** If a passenger is departing on 28 May 2021 1000H, PDT must be taken no earlier than 25 May 2021 1000H.</i></p>
 
 <u>Connecting flights</u><br/><br/>
-For travellers who have to take a connecting flight(s), the 72 hours will be counted from the departure of the first leg only and the total transit duration for the trip must not be more than 24 hours. If the total transit duration is more than 24 hours, a PDT must be taken within 72 hours from the last leg (i.e. the flight to Singapore). 
- 
-<img src="/images/PDT_Transit.png">
+For travellers who are transferring at another airport to take a connecting flight to Singapore, the 72 hours will be counted from the time the traveller commences his flight to Singapore. 
  
 
 #### 5.	I am travelling with my child. Will my child be required to undergo a pre-departure test before entry into Singapore? Are children and infants exempted from the pre-departure test?
