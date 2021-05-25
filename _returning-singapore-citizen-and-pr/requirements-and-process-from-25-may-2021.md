@@ -23,12 +23,6 @@ Please note that travellers who have received COVID-19 vaccination or recovered 
 <b>Singapore Citizens entering Singapore via the land checkpoints</b> do not need a PDT but will be subject to the prevailing health measures including on-arrival COVID-19 tests and SHN.
 
 Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test, travellers should ask for a copy of the COVID-19 PCR test report that:
-
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-	<li style="font-size:18px;">Is in English (or accompanied with an English translation);</li>
-	<li style="font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-	<li style="font-size:18px;">Reflects the date and result of the PCR test.</li>
-</ol>
 	
 <ul style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:18px;">Is in English (or accompanied with an English translation);</li>
@@ -43,12 +37,6 @@ Travellers who face difficulties with taking a pre-departure COVID-19 PCR test p
 ### 4. Pre-Departure Preparation (within 72 hours before Departure)
 
 Travellers should <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
-
-<ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:18px;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li> 
-	<li style="font-size:18px;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones; and</li>
-	<li style="font-size:18px;">Register and make pre-payment for their on-arrival COVID-19 tests <a href="https://safetravel.changiairport.com/#/">here</a> (PCR, ART or both) depending on the traveller’s recent travel history in the past consecutive 21 days before departure for Singapore listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="https://govtech-stp-staging.netlify.app/files/SHN-and-swab-summary.pdf">here</a>.</li> 
-</ol>
 
 <ul style="margin-top:0px; list-style-type: decimal;">
 	<li style="font-size:18px;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li> 
