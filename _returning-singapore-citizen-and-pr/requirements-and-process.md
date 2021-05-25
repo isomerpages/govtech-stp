@@ -2,8 +2,6 @@
 title: Requirements And Process
 permalink: /sc-pr/requirements-and-process
 ---
-
-
 ### 1. Eligibility 
 
 <span class="font-size:16px;">The traveller must be a Singapore Citizen or Permanent Resident.<br/><br/>PR In-Principle Approval holders should apply for entry approval under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</span>
@@ -33,7 +31,6 @@ Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.g
 	<li style="font-size:18px;">Reflects the date and result of the PCR test.</li>
 </ul>
 	
-
 Travellers who face difficulties with taking a pre-departure COVID-19 PCR test prior to departure for Singapore can contact us via the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Enquiry Form</a> or contact our Safe Travel Enquiries Helpline at 6812 5555 for assistance.</span>
 
 
