@@ -88,7 +88,7 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
  </ol>
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u><i>Note</i></u></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u><i>Note:</i></u></p>
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.2;">Applies to all PCA travellers, including Singapore Permanent Residents (SPR) arriving in Singapore from <b><u>28 May 2021, 2359 hours onwards</u></b>. SPRs returning to Singapore via the PCA who have difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555. </p>
 </div>
 </td>
