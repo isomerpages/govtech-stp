@@ -16,15 +16,15 @@ Please note that travellers who have received COVID-19 vaccination or recovered 
 
 ### 3. Pre-Departure Test within 72 hours before Departure for Singapore
 
-<span class="font-size:16px;"><b>All inbound travellers (including SCs and PRs) boarding a flight or ferry to Singapore from 28 May 2021, 2359 hours onwards</b>, except for those who have stayed in lower-risk countries/regions in the past consecutive 21 days before departure for Singapore, will need to present a valid <u> negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure</u> before they are allowed to board. Click <a href="">here</a> to find out if a pre-departure test (PDT) is required before you board, based on your travel history to various countries/regions. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
+<span class="font-size:16px;"><b>All inbound travellers (including SCs and PRs) boarding a flight or ferry to Singapore from 28 May 2021, 2359 hours onwards</b>, except for those who have stayed in lower-risk countries/regions in the past consecutive 21 days before departure for Singapore, will need to present a valid <u>negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure</u> before they are allowed to board. Click <a href="">here</a> to find out if a pre-departure test (PDT) is required before you board, based on your travel history to various countries/regions. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
 
-<b>PRs entering Singapore via land checkpoints from 28 May 2021, 2359 hours onwards</b>, are required to present a valid, <u>negative PCR test for entry into Singapore, taken within 72 hours before departure to Singapore.</u> <u><b>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore. PRs who fail to comply with the new requirement may have their Entry/Re-Entry Permit cancelled</b></u>. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
+<b>PRs entering Singapore via land checkpoints from 28 May 2021, 2359 hours onwards</b>, are required to present a valid, <u>negative PCR test for entry into Singapore, taken within 72 hours before departure to Singapore.</u> <b><u>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore. PRs who fail to comply with the new requirement may have their Entry/Re-Entry Permit cancelled</u></b>. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
 
 <b>Singapore Citizens entering Singapore via the land checkpoints</b> do not need a PDT but will be subject to the prevailing health measures including on-arrival COVID-19 tests and SHN.
 
 Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test, travellers should ask for a copy of the COVID-19 PCR test report that:
 	
-<ul style="margin-top:0px; list-style-type: lower-roman;">
+<ul style="margin-top: 0px; list-style-type: lower-roman;">
 	<li style="font-size:18px;">Is in English (or accompanied with an English translation);</li>
 	<li style="font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 	<li style="font-size:18px;">Reflects the date and result of the PCR test.</li>
