@@ -2,10 +2,16 @@
 title: Transiting Through Singapore
 permalink: /transit/overview
 ---
-
 #### Eligibility
 
 Only passengers travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS) will be allowed to transit/transfer at Singapore’s Changi Airport. <u>Travellers are advised to confirm arrangements with the airlines they intend to fly with before purchasing their flight tickets</u>. You can also visit the Changi Airport website for more information on <a href="https://www.changiairport.com/en/airport-guide/Covid-19/transiting-through-airport.html" target="_blank">transiting through Singapore</a>.
+
+#### Pre-Departure COVID-19 Test
+
+From <b>28 May 2021, 2359 hours, <u>all</u> travellers transiting through Singapore (<u>including Singapore Citizens and PRs</u>) via flight or ferry</b> will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore.
+
+<u>Exemptions</u>:  Travellers who only had travel history to Australia, Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao in the past 21 days before departing to Singapore to transit are exempted from this Pre-Departure Test requirement.
+
 
 #### Entry Visas
 
