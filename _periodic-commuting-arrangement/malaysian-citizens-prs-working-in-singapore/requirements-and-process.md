@@ -48,7 +48,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
       </ol>   
     <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
 <br/>
-    <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</p> 
+    <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
@@ -84,12 +84,12 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, including Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.<br/><br/>
 As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), which contains the following details:
 <ol style="margin-top:0px; list-style-type: disc;">
- <li style="font-size:17px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-  <li style="font-size:17px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
+ <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
  </ol>
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u><i>Note</i></u></p>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">Applies to all PCA travellers, including Singapore Permanent Residents (SPR) arriving in Singapore from <b><u>28 May 2021, 2359 hours onwards</u></b>. SPRs returning to Singapore via the PCA who have difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555. </p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.2;">Applies to all PCA travellers, including Singapore Permanent Residents (SPR) arriving in Singapore from <b><u>28 May 2021, 2359 hours onwards</u></b>. SPRs returning to Singapore via the PCA who have difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555. </p>
 </div>
 </td>
  </tr>
