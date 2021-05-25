@@ -23,9 +23,9 @@ The border health requirements may be subject to change, and the prevailing bord
 Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test, travellers should ask for a copy of the COVID-19 PCR test report that:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Is in English (or accompanied with an English translation);</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Reflects the date and result of the PCR test.</li>
+<li style="font-size:16px;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+<li style="font-size:16px;">Reflects the date and result of the PCR test.</li>
 </ol>
 
 Travellers who face difficulties with taking a pre-departure COVID-19 PCR test prior to departure for Singapore can contact us via the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Enquiry Form</a> or contact our Safe Travel Enquiries Helpline at 6812 5555 for assistance.
@@ -78,4 +78,3 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
 ### 8.	After Completion of Self-Isolation/SHN
 
 All travellers are to abide by prevailing local public health requirements and safe distancing measures and encouraged to use <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.safeentry.gov.sg/">SafeEntry</a> so that the authorities can identify close contacts to be quarantined if a positive COVID-19 case arises.
-
