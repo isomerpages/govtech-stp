@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /malaysia/pca/faq
 ---
-
 <div id="top"></div>
 
 ### Contents
@@ -136,7 +135,13 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 #### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
 
-Singapore PR with a valid Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes a Stay-Home Notice (SHN) and COVID-19 Polymerase Chain Reaction Test. <a href="/files/SHN-and-swab-summary.pdf">Click here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
+Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
+<ul>
+	<li>A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 72 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</b></a>;</li>
+	<li>Serving 21-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and</li>
+	<li>Taking COVID-19 PCR tests on Day 14 and 21 of SHN.</li>
+</ul>
+Click <a href="/files/SHN-and-swab-summary.pdf">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
 
 Singapore PRs whose employer in Singapore is willing to facilitate their home leave in Malaysia may return to Singapore under the PCA. In addition to applying for a PCA pass with Singapore <a href="/apply-now">here</a>, your employer should also apply for a PCA pass on your behalf with the Malaysian authorities at <https://go.gov.sg/pcamsia>.
 
@@ -207,7 +212,7 @@ Those diagnosed with COVID-19 should only schedule their trip to Singapore 21 da
 
 #### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 72 hours before departure for Singapore?
 
-As a condition for entry into Singapore, <u>all</u> travellers arriving from Malaysia (except SC/PRs) under the PCA scheme <u>must</u> take a COVID-19 PCR test within 72 hours before departure for Singapore. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR test report that:
+As a condition for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR test within 72 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR test report that:
 
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
