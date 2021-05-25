@@ -16,7 +16,7 @@ Please note that travellers who have received COVID-19 vaccination or recovered 
 
 ### 3. Pre-Departure Test within 72 hours before Departure for Singapore
 
-<span class="font-size:16px;"><b>All inbound travellers (including SCs and PRs) boarding a flight or ferry to Singapore from 28 May 2021, 2359 hours onwards</b>, except for those who have stayed in lower-risk countries/regions in the past consecutive 21 days before departure for Singapore, will need to present a valid <u>negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure</u> before they are allowed to board. Click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a pre-departure test (PDT) is required before you board, based on your travel history to various countries/regions. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
+<b>All inbound travellers (including SCs and PRs) boarding a flight or ferry to Singapore from 28 May 2021, 2359 hours onwards</b>, except for those who have stayed in lower-risk countries/regions in the past consecutive 21 days before departure for Singapore, will need to present a valid <u>negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure</u> before they are allowed to board. Click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a pre-departure test (PDT) is required before you board, based on your travel history to various countries/regions. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
 
 <b>PRs entering Singapore via land checkpoints from 28 May 2021, 2359 hours onwards</b>, are required to present a valid, <u>negative PCR test for entry into Singapore, taken within 72 hours before departure to Singapore. <b>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore. PRs who fail to comply with the new requirement may have their Entry/Re-Entry Permit cancelled</b></u>. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
 
@@ -32,7 +32,7 @@ Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.g
 	
 
 Travellers who face difficulties with taking a pre-departure COVID-19 PCR test prior to departure for Singapore can contact us via the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Enquiry Form</a> or contact our Safe Travel Enquiries Helpline at 6812 5555 for assistance.
-</span>
+
 
 ### 4. Pre-Departure Preparation (within 72 hours before Departure)
 
