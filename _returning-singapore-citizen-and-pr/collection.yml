@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - requirements-and-process.md
-      - entry-guide.md
       - frequently-asked-questions.md
