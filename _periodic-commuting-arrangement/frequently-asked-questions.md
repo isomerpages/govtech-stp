@@ -217,10 +217,11 @@ As a condition for entry into Singapore, <u>all</u> travellers arriving from Mal
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
  
-Effective from 7 May, 2359 hours, travellers will be turned away at Singapore's checkpoint if:
-- diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
-- tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore. 
- 
+Travellers will be turned away at Singapore's checkpoint if:
+<ol style="list-style-type: lower-latin;">
+	<li>diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or</li>
+	<li>tested positive on the pre-departure COVID-19 PCR test.</li>
+</ol> 
 <!--Travellers will be turned away at Singapore's checkpoint if: 
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
 - tested positive on the pre-departure COVID-19 PCR test.-->
