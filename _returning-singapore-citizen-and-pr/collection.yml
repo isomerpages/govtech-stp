@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - requirements-and-process.md
-      - returning-singapore-citizens-and-permanent-residents-frequently-asked-questions.md
+      - frequently-asked-questions.md
