@@ -18,7 +18,7 @@ Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/o
 
 #### 2. On-Arrival Tests
 
-All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost of the tests taken in Singapore will be borne by all travellers, as follows:
+All travellers will be tested for COVID-19 upon arrival in Singapore. The cost of the tests taken in Singapore is reflected below, and travellers are advised to <u>register and pay for the tests before their arrival</u> to shorten the relevant administrative processes.
 
 <table>
   <thead>
@@ -34,12 +34,12 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only)</b> – S$67</td>
-        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">You must use <a href="https://safetravel.changiairport.com/#/">this eService</a> to book and pay for the tests <b>before arriving in Singapore.</b></td>
+        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">Here</a></td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
 					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
-					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Travellers must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arriving in Singapore</b>.</td>
+					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Click <a href="https://t.2c2p.com/express/parkwayshenton">Here</a></td>
 		</tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
