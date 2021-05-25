@@ -1,7 +1,8 @@
 ---
-title: Requirements and Process
-permalink: /SC-PR/requirements-and-process
+title: Requirements And Process
+permalink: /permalink
 ---
+
 ### 1. Eligibility 
 
 <span class="font-size:16px;">The traveller must be a Singapore Citizen or Permanent Resident.</span>
