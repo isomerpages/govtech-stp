@@ -6,9 +6,9 @@ permalink: /returning-singapore-citizen-and-pr/faq
 
 From <b>XX May 2021, 2359 hours, <u>all</u> travellers entering or transiting through Singapore (including Singapore Citizens and Permanent Residents, i.e. SCPRs) via flight or ferry</b>, except for those who have stayed in lower-risk countries/regions<sup>1</sup> in the last 21 days before departure for Singapore, will need to present a valid negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel for Singapore<sup>2</sup>.
 
-<u>Note</u>:<br/><br/>
+<p style="font-size:16px;"><u>Note</u>:<br/>
 <sup>1</sup>This currently applies to travellers from Australia, Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao. Travellers from lower-risk countries/regions are either required to take a COVID-19 test upon arrival in lieu of a Stay-Home Notice (SHN), or required to serve a 7-day SHN at their place of residence with a COVID-19 test administered at the end of their SHN.<br/><br/>
-<sup>2</sup>For example, if a passenger is departing on 27 May 2021 1000hrs, the test must be taken no earlier than 24 May 2021, 1000hrs.
+<sup>2</sup>For example, if a passenger is departing on 27 May 2021, 1000hrs, the test must be taken no earlier than 24 May 2021, 1000hrs.</p>
 
 
 
