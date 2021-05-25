@@ -81,8 +81,7 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
 <tbody>
   <tr>
    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, including Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.
-
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, including Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.<br/><br/>
 As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), which contains the following details:
 <ol style="margin-top:0px; list-style-type: disc;">
  <li style="font-size:17px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
