@@ -2,4 +2,4 @@ collections:
   returning-singapore-citizen-and-pr:
     output: true
     order:
-      - requirements-and-process-from-25-may-2021.md
+      - requirements-and-process.md
