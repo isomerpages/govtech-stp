@@ -10,15 +10,13 @@ permalink: /returning-singapore-citizen-and-pr/permalink
 
 <span class="font-size:16px;">Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements which depend on your travel history in the past consecutive 21 days prior to arriving in Singapore, via the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a>. You may click the links to find out more about <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a>, <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in dedicated facilities</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 swabs</a>, including details on costs and payment procedures.<br/><br/>
 The border health requirements may be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. <br/><br/>
-Please note that travellers who have received COVID-19 vaccination or recovered from COVID-19 are currently subjected to the prevailing health measures.
+Please note that travellers who have received COVID-19 vaccination or recovered from COVID-19 are currently subjected to the prevailing health measures.	
 </span>
-
 <div id="PDT"></div>
 
 ### 3. Pre-Departure Test within 72 hours before Departure for Singapore
 
-<span class="font-size:16px;">
-<b>All inbound travellers (including SCs and PRs) boarding a flight or ferry to Singapore from 28 May 2021, 2359 hours onwards</b>, except for those who have stayed in lower-risk countries/regions in the past consecutive 21 days before departure for Singapore, will need to present a valid <u> negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure</u> before they are allowed to board. Click <a href="">here</a> to find out if a pre-departure test (PDT) is required before you board, based on your travel history to various countries/regions. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
+<span class="font-size:16px;"><b>All inbound travellers (including SCs and PRs) boarding a flight or ferry to Singapore from 28 May 2021, 2359 hours onwards</b>, except for those who have stayed in lower-risk countries/regions in the past consecutive 21 days before departure for Singapore, will need to present a valid <u> negative COVID-19 Polymerase Chain Reaction (PCR) test taken within 72 hours before departure</u> before they are allowed to board. Click <a href="">here</a> to find out if a pre-departure test (PDT) is required before you board, based on your travel history to various countries/regions. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
 
 <b>PRs entering Singapore via land checkpoints from 28 May 2021, 2359 hours onwards</b>, are required to present a valid, <u>negative PCR test for entry into Singapore, taken within 72 hours before departure to Singapore.</u> <u><b>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore. PRs who fail to comply with the new requirement may have their Entry/Re-Entry Permit cancelled</b></u>. Travellers aged 6 and below (i.e. those born from 2015-2021) are exempted from this requirement.
 
@@ -31,6 +29,13 @@ Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.g
 	<li style="font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 	<li style="font-size:18px;">Reflects the date and result of the PCR test.</li>
 </ol>
+	
+<ul style="margin-top:0px; list-style-type: lower-roman;">
+	<li style="font-size:18px;">Is in English (or accompanied with an English translation);</li>
+	<li style="font-size:18px;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li style="font-size:18px;">Reflects the date and result of the PCR test.</li>
+</ul>
+	
 
 Travellers who face difficulties with taking a pre-departure COVID-19 PCR test prior to departure for Singapore can contact us via the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Enquiry Form</a> or contact our Safe Travel Enquiries Helpline at 6812 5555 for assistance.
 </span>
@@ -44,6 +49,12 @@ Travellers should <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms
 	<li style="font-size:18px;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones; and</li>
 	<li style="font-size:18px;">Register and make pre-payment for their on-arrival COVID-19 tests <a href="https://safetravel.changiairport.com/#/">here</a> (PCR, ART or both) depending on the traveller’s recent travel history in the past consecutive 21 days before departure for Singapore listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="https://govtech-stp-staging.netlify.app/files/SHN-and-swab-summary.pdf">here</a>.</li> 
 </ol>
+
+<ul style="margin-top:0px; list-style-type: decimal;">
+	<li style="font-size:18px;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;</li> 
+	<li style="font-size:18px;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones; and</li>
+	<li style="font-size:18px;">Register and make pre-payment for their on-arrival COVID-19 tests <a href="https://safetravel.changiairport.com/#/">here</a> (PCR, ART or both) depending on the traveller’s recent travel history in the past consecutive 21 days before departure for Singapore listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="https://govtech-stp-staging.netlify.app/files/SHN-and-swab-summary.pdf">here</a>.</li> 
+</ul>
 
 ### 5. Departure for Singapore
  
