@@ -3,6 +3,13 @@ title: Connect@Singapore - Overview
 permalink: /connectsg/overview
 ---
 
+### Important Notice
+
+<u><b>The Connect@Singapore Lane will be temporarily suspended from 27 May 2021, 2359 hours to 13 Jun 2021, 2359 hours.</b></u> Travellers who have obtained prior approvals with entry dates falling within the suspension period (i.e. 28 May 2021 to 13 Jun 2021) will have their approval letters rescinded and not be allowed to enter Singapore. Affected travellers will be notified via email. The portal will remain open to receive applications for entry dates from 14 Jun 2021 onwards.
+
+
+******************************************************************
+
 The Connect@Singapore initiative was announced on 15 December 2020 as part of Singapore’s efforts to re-open our borders in a controlled and safe manner. It aims to facilitate essential global business exchanges and support the revival of Singapore’s air hub status and hospitality sector.
 
 Under this scheme, a limited number of business, official and high economic value travellers from all countries will be able to enter Singapore for short-term stays of up to 14 days. 
@@ -19,4 +26,4 @@ Until further notice, travellers with travel history to the following countries/
 - India 
 - Nepal 
 - Pakistan 
-- Sri Lanka 
+- Sri Lanka
