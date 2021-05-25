@@ -2,6 +2,10 @@
 title: Requirements and Process
 permalink: /connectsg/requirements-and-process
 ---
+### Important Notice
+
+<p style="line-height:1.5; color:red;"><u><b>The Connect@Singapore Lane will be temporarily suspended from 27 May 2021, 2359 hours to 13 Jun 2021, 2359 hours.</b></u> Travellers who have obtained prior approvals with entry dates falling within the suspension period (i.e. 28 May 2021 to 13 Jun 2021) will have their approval letters rescinded and not be allowed to enter Singapore. Affected travellers will be notified via email. The portal will remain open to receive applications for entry dates from 14 Jun 2021 onwards.</p>
+
 ### 1. Eligibility
 
 An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass under the Connect@Singapore initiative on behalf of a prospective traveller, who is:
