@@ -3,13 +3,17 @@ title: Returning to Singapore for Short-Term Home Leave
 permalink: /pca/scpr-requirement-and-process
 third_nav_title: Singapore Citizens/PRs Working in Malaysia
 ---
+The details in this page is only relevant to Singapore Permanent Residents who are PCA travellers working in Malaysia, returning to Singapore for home leave. These travellers will be subject to the prevailing travel health control measures, which includes a 21-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility.
 
-No application is required for Singapore Citizens (SC) or Singapore Permanent Residents (PR). From 7 May 2021, 2359 hrs, all travellers with travel history to Malaysia in the last 21 days before arriving in Singapore will be required to serve <u>a 21-day Stay-Home Notice (SHN) at dedicated SHN facilities (with no opt-out option)</u>.
+From <b>28 May 2021, 2359 hours</b>, all returning PRs, including approved PCA travellers, are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 72 hours before departure to Singapore. The test must be taken at a recognised or accredited laboratory in Malaysia, and travellers <b>must</b> produce a valid negative test report during pre-boarding checks and immigration clearance, which:
+<ol style="list-style-type: lower-roman;">
+<li>Is in English (or accompanied with an English translation);</li>
+<li>Contains the Traveller’s name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li>Reflects the date and result of the PCR test.</li>
+</ol>
 
-For more information on the prevailing health measures for SC/PRs returning from abroad please refer [here](/health/shn).
+Failing which (i.e. not tested), the traveller may be turned away from entry at the checkpoint and have their entry/re-entry permits cancelled. Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
 
-Non-SC/PR travellers with travel history to Malaysia in the last 21 days before arriving in Singapore must take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> ("PCR test") within 72 hours before departure. All inbound PCA travellers must be tested negative for COVID-19 by a recognised or accredited laboratory in Malaysia. As documentary proof that the traveller has taken the COVID-19 PCR test, travellers should ask for a copy of the COVID-19 PCR test report, that: 
-- Is in English (or accompanied with an English translation);
-- Contains the Traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
-- Reflects the Date and result of the PCR test. 
+
+For more information on the prevailing health measures for SC/PRs returning from Malaysia, click [here](/sc-pr/requirements-and-process).
 
