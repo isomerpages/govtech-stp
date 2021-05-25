@@ -33,27 +33,27 @@ The test result memo must state the negative test result in English, date that t
 </thead>
 <tbody>
 <tr>
-<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">1</td>
+<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">1</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Test result memo to be in English</td>
 <td rowspan="3" style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>Mandatory</b></td>
 </tr>
 <tr>
-<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">2</td>
+<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">2</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Test result</td>
 </tr>
 <tr>
-<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">3</td>
+<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">3</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Date that the test was taken</td>
 </tr>
 <tr>
-<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">4</td>
+<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">4</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Traveller’s name as stated in passport</td>
 <td rowspan="2" style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>Minimum of 2 Personal Identifiers as stated in Passport (i.e. Name + DOB or Passport number)</b><br/><br/>
 <i>This list is non-exhaustive and will be reviewed from time to time.</i>
 </td>
 </tr>
 <tr>
-<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;">5</td>
+<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">5</td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Traveller’s Date of Birth or Passport Number</td>
 </tr>
 </tbody>
