@@ -2,7 +2,6 @@
 title: Requirements and Process (from 25 May 2021)
 permalink: /returning-singapore-citizen-and-pr/permalink
 ---
-
 ### 1. Eligibility 
 
 <span class="font-size:16px;">The traveller must be a Singapore Citizen or Permanent Resident.<br/><br/>PR In-Principle Approval holders should apply for entry approval under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</span>
@@ -12,6 +11,8 @@ permalink: /returning-singapore-citizen-and-pr/permalink
 <span class="font-size:16px;">Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements which depend on your travel history in the past consecutive 21 days prior to arriving in Singapore, via the Summary Table on SHN and Swab Requirements for Travellers to Singapore <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a>. You may click the links to find out more about <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a>, <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in dedicated facilities</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 swabs</a>, including details on costs and payment procedures.<br/><br/>
 The border health requirements may be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
 </span>
+
+<div id="PDT"></div>
 
 ### 3. Pre-Departure Test within 72 hours before Departure for Singapore
 
@@ -44,11 +45,11 @@ Travellers should <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms
 
 ### 5.	Departure for Singapore
  
-<b>From 28 May 2021, 2359 hours onwards</b>, travellers who are travelling by flight or ferry from higher risk countries/regions must produce their negative PDT test result during boarding (click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a PDT is required before you board.) Travellers who do not have a valid negative PDT result may be refused boarding by the airline or ferry company.
+<b>From 28 May 2021, 2359 hours onwards</b>, travellers who are travelling by flight or ferry from higher risk countries/regions must produce their <a href="#pdt">negative PDT test result</a> during boarding (click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a PDT is required before you board.) Travellers who do not have a valid negative PDT result may be refused boarding by the airline or ferry company.
 
 ### 6.	Arrival in Singapore
 
-<b>From 28 May 2021, 2359 hours onwards</b>, PRs should show their negative PDT result during immigration clearance, in addition to regular immigration clearance procedures. <b><u>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore, and may have their Entry/Re-Entry Permit cancelled</u></b>.
+<b>From 28 May 2021, 2359 hours onwards</b>, PRs should show their <a href="#pdt">negative PDT result</a> during immigration clearance, in addition to regular immigration clearance procedures. <b><u>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore, and may have their Entry/Re-Entry Permit cancelled</u></b>.
 
 <b>Singapore Citizens entering Singapore via the land checkpoints</b> do not need a PDT but will be subject to the prevailing health measures including on-arrival COVID-19 tests and SHN.
 
