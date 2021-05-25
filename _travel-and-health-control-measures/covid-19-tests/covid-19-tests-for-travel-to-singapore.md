@@ -12,7 +12,7 @@ The health measures to be imposed may not be limited to COVID-19 tests, and you 
 
 #### 1. PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours before departing to Singapore. To test for COVID-19, travellers bound for Singapore are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the PCR test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
+Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours <u>before</u> departing to Singapore. To test for COVID-19, travellers bound for Singapore are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the PCR test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
 
 <div id="price"></div>
 
@@ -33,25 +33,19 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
     <tr>
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test  for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only–  Cost to be updated</td>
-        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">You must use <a href="https://safetravel.changiairport.com/#/">this eService</a> to book and pay for the tests <b>before arriving in Singapore</b>.</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">PCR Test – S$160<br/><br/>Antigen Rapid Test  for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only– S$67</td>
+        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href=""Click Here</a></td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;"><b>On arrival</b>, travellers must register and pay for the tests at the checkpoints using any of these modes:
-          <ul>
-          <br>
-          <li>Cash in Singapore dollars</li>
-          <li>NETS</li>
-          <li>MasterCard or VISA</li>
-          </ul>  
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Click Here
        </td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$160</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">You must use <a href="https://oat.mpa.gov.sg">MPA's eService</a> to book and pay for the test <b>before arriving in Singapore</b>.</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Click Here</td>
     </tr>     
   </tbody>
   </table>
