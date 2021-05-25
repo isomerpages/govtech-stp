@@ -157,8 +157,8 @@ Travellers who have yet to register or pay for their on-arrival COVID-19 PCR tes
   </thead>
 <tbody>
 	<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
