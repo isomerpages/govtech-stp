@@ -38,8 +38,8 @@ All travellers will be tested for COVID-19 upon arrival in Singapore.  The cost 
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td rowspan="2"; style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
-					<td rowspan="2"; style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Travellers must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arriving in Singapore</b>.</td>
+					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
+					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Travellers must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arriving in Singapore</b>.</td>
 		</tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
