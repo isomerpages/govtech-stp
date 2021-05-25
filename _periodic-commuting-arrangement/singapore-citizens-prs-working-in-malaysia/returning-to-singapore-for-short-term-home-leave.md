@@ -16,4 +16,3 @@ Failing which (i.e. not tested), the traveller may be turned away from entry at 
 
 
 For more information on the prevailing health measures for SC/PRs returning from Malaysia, click [here](/sc-pr/requirements-and-process).
-
