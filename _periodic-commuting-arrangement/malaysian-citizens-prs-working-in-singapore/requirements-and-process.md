@@ -105,6 +105,12 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
       </ol>
    </td>
   </tr>
+	<tr>
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Registration and payment of on-arrival COVID-19 PCR test</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;">To reduce processing time at the checkpoints, travellers should register and pay for the on-arrival COVID-19 PCR test <a href="https://t.2c2p.com/express/parkwayshenton">here</a>, before their arrival in Singapore. <br/><br/>
+Travellers who have yet to register or pay for their on-arrival COVID-19 PCR test will pay for the test using NETS, Credit Card or Cash at the checkpoints.
+   </td>
+  </tr>
  <thead>
   <tr>
     <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
@@ -166,8 +172,8 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
  </tr>
  <tr>
      <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">PCA travellers will take a COVID-19 PCR test immediately after clearing immigration in Singapore.<br/><br/>
-The cost of the test is payable using NETS, Credit Card or Cash at the checkpoints. <a href="/health/covid19-tests/pcrtest">Click here</a> for more information.
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR test may be denied entry into Singapore and could have their relevant permits cancelled. <br/><br/>
+Immediately after immigration clearance, travellers will take an on-arrival COVID-19 PCR test.
 </td> 
  </tr>
    <tr>
