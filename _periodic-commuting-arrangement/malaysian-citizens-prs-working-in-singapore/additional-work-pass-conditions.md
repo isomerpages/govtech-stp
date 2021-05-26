@@ -3,8 +3,6 @@ title: Additional Work Pass Conditions
 permalink: /malaysia/pca/terms-and-conditions
 third_nav_title: Malaysian Citizens/PRs Working in Singapore
 ---
-
-
 ### **Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
 
 1. Prior to submitting the entry application on behalf of the Malaysia employee (“**foreign employee**”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
@@ -29,10 +27,9 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 *Before the foreign employee leaves for Singapore*
 
 2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing or Singapore if:
-: a. the foreign employee is not a Singapore Citizen or a Singapore Permanent Resident; and
-: b. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore.
+: a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore.
 
-Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore. This requirement for the PCR test for all inbound PCA travellers takes effect from 27 November 2020, 2359 hours.
+Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
 
 3. The Employer shall inform the foreign employee that he/she is required to serve a 21-day Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
 
@@ -75,10 +72,9 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 *Before the foreign employee leaves for Singapore*
 
 2. The foreign employee shall take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing for Singapore if: 
-: a. the foreign employee is not a Singapore Citizen or a Singapore Permanent Resident; and 
-: b. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore. 
+: a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore. 
 
-Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government. The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore. This requirement for the PCR test for all inbound PCA travellers takes effect from 27 November 2020, 2359 hours
+Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government. The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
 
 *After the foreign employee arrives in Singapore*
 
@@ -103,4 +99,3 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 11. The foreign employee shall act responsibly in line with any advisories (as amended from time to time) issued by the Government of Singapore during the SHN period.
 
 12. The foreign employee shall undergo COVID-19 test(s) as required by the Government of Singapore. The date, time and venue of the COVID-19 test will be made known to foreign employee at least one day prior to the COVID-19 test. Transport will be provided if the foreign employee has to travel to the test venue. Failure to take the test as scheduled may result in an extension of the SHN period. The foreign employee's work pass may also be revoked.
-
