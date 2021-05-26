@@ -8,7 +8,7 @@ Only passengers travelling with an airline whose transfer route via Singapore ha
 
 #### Pre-Departure COVID-19 Test
 
-From <b>28 May 2021, 2359 hours, <u>all</u> travellers transiting through Singapore (<u>including Singapore Citizens and PRs</u>) via flight or ferry</b> will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore.
+From <b>29 May 2021, 2359 hours, <u>all</u> travellers transiting through Singapore (<u>including Singapore Citizens and PRs</u>) via flight or ferry</b> will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore.
 
 <u>Exemptions</u>:  Travellers who only had travel history to Australia, Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao in the past 21 days before departing to Singapore to transit are exempted from this Pre-Departure Test requirement.
 
