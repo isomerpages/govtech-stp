@@ -4,7 +4,7 @@ permalink: /sc-pr/requirements-and-process
 ---
 ### 1. Eligibility 
 
-<span class="font-size:16px;">The traveller must be a Singapore Citizen or Permanent Resident.<br/><br/>PR In-Principle Approval holders should apply for entry approval under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</span>
+<span class="font-size:16px;">The traveller must be a Singapore Citizen or Permanent Resident. No entry application is required.<br/><br/>PR In-Principle Approval holders should apply for entry approval under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</span>
             
 ### 2. Check Border Health Requirements
 
