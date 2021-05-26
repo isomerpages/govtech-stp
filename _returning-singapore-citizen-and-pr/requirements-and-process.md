@@ -46,7 +46,7 @@ Travellers should <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms
 
 ### 5. Departure for Singapore
  
-<b>From 28 May 2021, 2359 hours onwards</b>, travellers who are travelling by flight or ferry from higher risk countries/regions must produce their <a href="/sc-pr/requirements-and-process#pdt">negative PDT test result</a> during boarding (click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a PDT is required before you board.) Travellers who do not have a valid negative PDT result may be refused boarding by the airline or ferry company.
+<b>From 29 May 2021, 2359 hours onwards</b>, travellers who are travelling by flight or ferry from higher risk countries/regions must produce their <a href="/sc-pr/requirements-and-process#pdt">negative PDT test result</a> during boarding (click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a PDT is required before you board.) Travellers who do not have a valid negative PDT result may be refused boarding by the airline or ferry company.
 
 Travellers will also be denied boarding for flights or ferries bound for Singapore if:
 - they have a recent diagnosis of COVID-19 infection in the past 21 days of less; or
@@ -54,7 +54,7 @@ Travellers will also be denied boarding for flights or ferries bound for Singapo
 
 ### 6. Arrival in Singapore
 
-<b>From 28 May 2021, 2359 hours onwards</b>, PRs should show their <a href="/sc-pr/requirements-and-process#pdt">negative PDT result</a> during immigration clearance, in addition to regular immigration clearance procedures. <b><u>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore, and may have their Entry/Re-Entry Permit cancelled</u></b>.
+<b>From 29 May 2021, 2359 hours onwards</b>, PRs should show their <a href="/sc-pr/requirements-and-process#pdt">negative PDT result</a> during immigration clearance, in addition to regular immigration clearance procedures. <b><u>PRs who arrive in Singapore without a valid, negative PDT result may be denied entry into Singapore, and may have their Entry/Re-Entry Permit cancelled</u></b>.
 
 <b>Singapore Citizens entering Singapore via the land checkpoints</b> do not need a PDT but will be subject to the prevailing health measures including on-arrival COVID-19 tests and SHN.
 
