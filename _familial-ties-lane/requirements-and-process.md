@@ -141,7 +141,7 @@ The border health requirements may be subject to change, and the prevailing bord
 
 <div id="testresults"></div>
 
-To travel to Singapore, travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test,  travellers should ask for a copy of the COVID-19 PCR test report that:
+<p style="font-size:16px;  line-height:1.5;">To travel to Singapore, travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test,  travellers should ask for a copy of the COVID-19 PCR test report that:</p>
 
 <ol style="font-size:16px; list-style-type: lower-roman;">
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
