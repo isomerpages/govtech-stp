@@ -23,7 +23,7 @@ Please note that travellers who have received COVID-19 vaccination or recovered 
 
 <span class="font-size:16px;"><b>Singapore Citizens entering Singapore via the land checkpoints</b> do not need a PDT but will be subject to the prevailing health measures including on-arrival COVID-19 tests and SHN.</span>
 
-<span class="font-size:16px;">Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test, travellers should ask for a copy of the COVID-19 PCR test report that:</span>
+<span class="font-size:16px;">Travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country/region of departure. As documentary proof that the traveller has taken the COVID-19 PCR test, travellers should ask for a copy of the COVID-19 PCR test report that:</span>
 	
 <ul style="margin-top: 0px; list-style-type: lower-roman;">
 	<li style="font-size:18px;">Is in English (or accompanied with an English translation);</li>
