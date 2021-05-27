@@ -466,40 +466,13 @@ Travellers/application sponsors may refer to the table below on how to make sepa
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/fdwcn-requirements-and-process">Foreign Domestic Workers and Confinement Nannies</a>, <a href="/wphl/owph-requirements-and-process">all other Work Pass Holders and their dependents</a>)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and exit-from-SHN COVID-19 PCR test will be made at the point of application.
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
 <br/><br/>
-Travellers/application sponsors may refer to the table below for payment details for the on-arrival COVID-19 PCR test:
-    <table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Point of Swab </th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Swab location </th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td rowspan="3" style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;">On arrival in Singapore  </td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Changi Airport  </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use this <a href="https://safetravel.changiairport.com/">eService</a> to book and pay for the tests <b>before the FDW/CN arrives in Singapore</b>. </td>
-   </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints   </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">On arrival, the FDW/CN must register and pay for the tests at the checkpoint using any of these modes: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Cash in Singapore dollars </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">NETS </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">MasterCard or VISA </li>
-           </ol> 
-           <p style="margin-top:0px; margin-bottom:0px; font-size:18px;">Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">responsible for the test cost</a></p>
-     </td>
-   </tr>
-     <tr style="border-bottom:1.2px solid #E8E8E8">
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Tanah Merah Ferry Terminal   </td>
-          <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must use <a href="https://oat.mpa.gov.sg/">MPA's eService</a>  <b>before the traveller’s arrival in Singapore.</b>  </td>
-   </tr>
-        </tbody>
-       </table>
-      <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
+
+
+ 
+ <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving SHN at an SDF alone or with other FDW; and </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
            </ol>  </p>
