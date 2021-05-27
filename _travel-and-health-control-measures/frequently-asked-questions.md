@@ -157,6 +157,14 @@ When securing a transport booking, travellers must inform the transport operator
   </tbody>
   </table>-->
 
+#### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead due to medical reasons. What are the types of transport that I can take?
+
+You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for: 
+
+<ul style="list-style-type: lower-latin;">	
+	<li>travelling from the checkpoint to your place of residence; and</li> 
+<li>leaving your place of residence for your scheduled COVID-19 test appointment at the designated testing facility or for approved purposes. You must return immediately to your residence thereafter. </li>
+</ul>
 
 Click here to [Go Back To Top](#top).
 
