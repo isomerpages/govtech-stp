@@ -449,7 +449,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
     <tr>
       <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only)</b> – S$67</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">Here</a></td>
     </tr>
         <tr>
@@ -469,18 +469,48 @@ Travellers/application sponsors may refer to the table below on how to make sepa
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
-
-
-
-
- 
+				<table>
+  <thead>
+    <tr>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ><b>Point of Swab</b></th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Swab location</b></th>
+       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Charge (inclusive of GST)</b></th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Payment Mode</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
+       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
+        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/">here</a>  to book and pay for the tests <b>before the FDW/CN arrives in Singapore</b>.</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
+	<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">S$160</td>
+	<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">FDW/CN must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arrival</b>.<br/><br/>
+Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">responsible for the test cost</a>
+</td>
+</tr>
+<tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
+	<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$160</td>
+ <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
+    </tr> 
+  </tbody>
+  </table>
  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: </p>
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving SHN at an SDF alone or with other FDW; and </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
            </ol>  
 </td>
-   </tr>   
+   </tr> 
+				<tr>
+					<div id="note"></div>
+					
+<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* With effect from 20 May 2021, all travellers with travel history in the past 21 consecutive days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will need to take a COVID-19 Antigen Rapid Test (ART) in addition to a COVID-19 PCR test on arrival at Changi Airport. Travellers aged 6 and below (i.e. those born from 2015 to 2021) will be exempted from the ART and PCR tests.</td>
+		</tr>
       </tbody>
   </table>
 
