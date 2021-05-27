@@ -58,7 +58,7 @@ Travellers will also be denied boarding for flights or ferries bound for Singapo
 
 <b>Singapore Citizens entering Singapore via the land checkpoints</b> do not need a PDT but will be subject to the prevailing health measures including on-arrival COVID-19 tests and SHN.
 
-All travellers will take their <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">on-arrival COVID-19 test(s)</a>. Travellers who have yet to pay for their on-arrival COVID-19 PCR test(s) will be required to pay on the spot.
+All travellers will take their <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">on-arrival COVID-19 test(s)</a>. Travellers who have yet to pay for their on-arrival COVID-19 test(s) will be required to pay on the spot.
 
 ### 7. Self-Isolation or Stay Home Notice (SHN)
 
