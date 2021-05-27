@@ -474,10 +474,11 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 
 
  
- <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+ <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: </p>
+				<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving SHN at an SDF alone or with other FDW; and </li>
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
-           </ol>  </p>
+           </ol>  
 </td>
    </tr>   
       </tbody>
