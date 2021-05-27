@@ -471,6 +471,8 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
 
 
+
+
  
  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
            <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">FDWs serving SHN at an SDF alone or with other FDW; and </li>
