@@ -2,5 +2,5 @@ collections:
   atp-australia:
     output: true
     order:
-      - frequently-asked-questions.md
       - notice.md
+      - frequently-asked-questions.md
