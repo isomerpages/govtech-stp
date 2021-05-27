@@ -27,7 +27,7 @@ Please click on the relevant links below for more information about the ATP.
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>
   </tr>
 	 <tr>
-    <td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass for Victoria State, Australia suspended. <br/>Click<a href="/atp/requirements-and-process"> here</a> for more details.</td>
+    <td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass for Victoria State, Australia suspended. <br/>Click<a href="/australia/atp/notice"> here</a> for more details.</td>
   </tr>
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
