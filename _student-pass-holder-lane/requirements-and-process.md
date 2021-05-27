@@ -94,7 +94,7 @@ Eligible travellers should submit applications for entry approval through the <a
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://oat.mpa.gov.sg/">here</a> if they are arriving at Tanah Merah Ferry Terminal. For travellers arriving from land checkpoints, there is no need to register and pre-pay for their tests. Travellers who have yet to pay for their on-arrival COVID-19 PCR test will be required to pay on the spot; and
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://t.2c2p.com/express/parkwayshenton">here</a> if they are arriving at Tanah Merah Ferry Terminal or the Woodlands and Tuas Checkpoints; and
        </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
        </li>
