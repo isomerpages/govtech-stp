@@ -423,7 +423,11 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and exit-from-SHN COVID-19 PCR test will be provided upon provisional approval of application.<br/><br/>To expedite the on-arrival COVID-19 PCR test procedures at the airport, travellers arriving via should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival.
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br/><br/>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests using the relevant links below, <b>before</b> arrival.
+								<ul style="list-style-type: disc;">
+					<li style="font-size:18px; ">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
+					<li style="font-size:18px; ">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
+				</ul>
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
