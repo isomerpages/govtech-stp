@@ -88,32 +88,7 @@ Travellers should only leave their SDF for their PCR test appointment only if th
 
 #### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
 
-Travellers may use their own private vehicle or hire a taxi/private hire car with the designated operators (see table below). The use of cabs hailed from the street is prohibited.
-
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a [Stay-Home Notice (SHN)](https://safetravel.ica.gov.sg/health/shn/sdf). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
-
-<!--<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Type of trip</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost(an additional 10% will be charged for credit card transactions)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">Strides Transportation Pte Ltd <br/> 6477 5977 
-</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From any other ad-hoc trips approved by the authorities </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Round Trip – S$90.00 <br/> Per Way – S$45.00 
-</td>
-    </tr>
-  </tbody>
-  </table>-->
+For travellers arranging transport from the airport to their place of residence, they may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br/><br/>In all other cases, travellers may use their own private vehicle or pre-book a taxi/private hire car with any of the designated operators in the table below, to travel to their place of residence or to go for their scheduled PCR tests. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
 
 <table>
   <thead>
@@ -156,6 +131,32 @@ When securing a transport booking, travellers must inform the transport operator
     </tr>
   </tbody>
   </table>
+	
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+
+<!--<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Type of trip</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost(an additional 10% will be charged for credit card transactions)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">Strides Transportation Pte Ltd <br/> 6477 5977 
+</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
+    </tr>
+    <tr style="border-bottom:1.2px solid #E8E8E8">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From any other ad-hoc trips approved by the authorities </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Round Trip – S$90.00 <br/> Per Way – S$45.00 
+</td>
+    </tr>
+  </tbody>
+  </table>-->
+
 
 Click here to [Go Back To Top](#top).
 
