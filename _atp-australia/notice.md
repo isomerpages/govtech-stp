@@ -7,7 +7,7 @@ Given the increase in the number of COVID-19 cases in Victoria State, Australia,
 
 ### Short-term Visitors
 
-<b>Short-term visitors with travel history to Victoria State, Australia, within the last 21 days before departure for Singapore</b>, will not be allowed to enter Singapore with effect <b>from 29 May 2021, 2359hrs (Singapore time)</b>. Please refer to the press release here <insert link> issued by the Singapore Ministry of Health (MOH) dated 27 May 2021.
+<b>Short-term visitors with travel history to Victoria State, Australia, within the last 21 days before departure for Singapore</b>, will not be allowed to enter Singapore with effect <b>from 29 May 2021, 2359hrs (Singapore time)</b>. Please refer to the press release <a href="https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-victoria-state-australia_27May2021/">here</a> issued by the Singapore Ministry of Health (MOH) dated 27 May 2021.
 	
 With immediate effect, applications for the ATP for short-term visitors travelling from Victoria State, Australia will be suspended until further notice.
 
