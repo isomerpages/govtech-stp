@@ -3,7 +3,8 @@ title: Requirements and Process
 permalink: /scpr-familial-ties-lane/requirements-and-process
 ---
 <b><span style="color:red">[NOTICE]</span></b>
-<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders and visitors with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders and visitors with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia*, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;">* From <b>29 May 2021</b>, 2359 hours, travellers who have travel history to Victoria within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</p>
 
 ### Overview
 
@@ -80,7 +81,6 @@ The border health requirements may be subject to change, and the prevailing bord
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-    <i><span style= "color:red;"> [Notice] Non-residents with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. All entry approvals granted to enter Singapore from 2 May 2021 all had been withdrawn. Payment made for the stay at the dedicated SHN facilities and COVID-19 exit swab test will be fully refunded. If payment had been made for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>
     <u>Application via SafeTravel Portal</u>
      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Applicants (either the traveller themselves or an SC/PR sponsor) can apply for entry online via the SafeTravel portal <a href="https://eservices.ica.gov.sg/STO/">here</a> using Singpass. Applications for travel are open between 4 and 64 calendar days before the intended date of entry into Singapore. Any applications submitted less than 4 days from the intended date of entry will not be accepted.
 </p>
@@ -141,7 +141,7 @@ The border health requirements may be subject to change, and the prevailing bord
 
 <div id="testresults"></div>
 
-To travel to Singapore, travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test,  travellers should ask for a copy of the COVID-19 PCR test report that:
+<p style="font-size:16px;  line-height:1.5;">To travel to Singapore, travellers must be tested negative for COVID-19 by an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised health centre</a> in the country of departure. As documentary proof that the traveller has taken the COVID-19 PCR test,  travellers should ask for a copy of the COVID-19 PCR test report that:</p>
 
 <ol style="font-size:16px; list-style-type: lower-roman;">
  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -156,7 +156,7 @@ To travel to Singapore, travellers must be tested negative for COVID-19 by an <a
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service  <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a> within 72 hours before departure to Singapore.;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Approved travellers who have spent the last 21 consecutive days in Australia, Brunei, Mainland China, New Zealand and/or Taiwan before departing for Singapore are encourage to pre-register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. Otherwise, the registration and payment will take place on-arrival, which may delay the administration of the on-arrival PCR test.
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Approved travellers who have spent the last 21 consecutive days in Australia <b><span style="color:red">(excluding Victoria, from 29 May 2021, 2359 hours)</span></b>, Brunei, Mainland China, New Zealand and/or Taiwan before departing for Singapore are encouraged to pre-register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. For arrivals via Woodlands and Tuas Checkpoints or Tanah Merah Ferry Terminal, travellers should register and pre-pay their on-arrival COVID-19 PCR tests <a href="https://t.2c2p.com/express/">here</a>.
        </li>
       </ol>
     </td>

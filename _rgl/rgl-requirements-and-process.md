@@ -135,7 +135,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved RGL travellers should <a href="/health/covid19-symptoms">monitor their health</a> and avoid travelling if feeling unwell. Otherwise, they should:
       <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>; and</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a> for arrivals by air. For arrivals by land, travellers will make the payment for their post-arrival COVID-19 PCR test upon arrival at the land checkpoints.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a> for arrivals by air. For arrivals by land or sea, travellers are to register and pre-pay for their post-arrival COVID-19 PCR test <a href="https://t.2c2p.com/express/parkwayshenton">here</a>. </li>
          </ol> 
     </td>
   </tr>

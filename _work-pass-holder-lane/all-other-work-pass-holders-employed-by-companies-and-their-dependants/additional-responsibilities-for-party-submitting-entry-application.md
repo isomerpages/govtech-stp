@@ -23,7 +23,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia, <b>(excluding Victoria state)</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
@@ -42,8 +42,6 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         </ol>
       </li>
       </ol> 
-      <b>Note:</b><br/><br/>
-			Pass holders with travel history to <b>Taiwan</b> within the last 21 days before arrival, and entered Singapore <b>from 15 May 2021, 00:01 hours, to 16 May 2021, 2359 hours</b>, will be subject to Government-funded COVID-19 tests on Day 3 and Day 7 of their arrival. Affected pass holders will be contacted on how they can take their tests. 
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -52,6 +50,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <ol style="margin-top:0px; list-style-type:disc;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Victoria state (Australia) (for arrivals <b>from 29 May 2021, 23:59 hours)</b></li>
     </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
@@ -103,8 +102,6 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
       </ol><b>Note:</b><br/><br/><b>Pass holders with travel history to Vietnam who:</b>
       <ul style="margin-top:0px; list-style-type:disc;">
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Complete their 14-day SHN at SDFs <b>before 15 May 2021, 23:59 hours</b>, can serve the last 7 days of their SHN in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.
-</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Did not complete their 14-day SHN at SDFs <b>by 15 May 2021, 23:59 hours</b>, must serve the remainder of their 21-day SHN in SDFs. Employers of such pass holders will be contacted on the additional charges for the SDF stay.</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Are currently serving SHN at a place of residence or hotel, must complete the remainder of their 21-day SHN at their current SHN accommodation.  </li>
       </ul></td>
@@ -122,9 +119,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test. </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-      </ol><b>Note:</b><ul style="margin-top:0px; list-style-type:disc;">
-               <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Pass holders who did not complete their SHN by 7 May 2021, 23:59 hours:</b> Also subject to the 21-day SHN. They must serve the remainder of their 21-day SHN at their current SHN accommodation.</li>
-</ul></td> 
+      </ol></td> 
   </tr>
     </tbody>
 </table>

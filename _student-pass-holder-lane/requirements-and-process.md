@@ -5,6 +5,8 @@ permalink: /stpl/requirements-and-process
 <b><span style="color:red">[NOTICE]</span></b>
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
 
+<p style="font-size:16px; line-height:1.5; color:red;"><b>From 29 May 2021, 2359 hours, travellers who have travel history to Victoria within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</b></p>
+
 ### Overview
 
 The Student’s Pass Holder Lane (STPHL) is a Safe Travel Lane that Student’s Pass (STP) holders and eligible accompanying family members may use to enter Singapore. All STP holders and eligible accompanying family members must obtain entry approval before travelling to Singapore.
@@ -43,7 +45,6 @@ The border health requirements may be subject to change, and the prevailing bord
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Application</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-    <i><span style= "color:red;">[Notice] Foreigners with recent travel history (including transit) to Bangladesh, Nepal, Pakistan or Sri Lanka within the last 21 days will not be granted entry approvals to enter Singapore until further notice. Entry approvals granted to enter Singapore from 2 May 2021 have all been withdrawn. A full refund of the charges paid for the stay at the dedicated SHN facilities and COVID-19 tests will be made. If you have already paid for the on-arrival COVID-19 test at the airport, please click <a href="https://safetravel.changiairport.com/concierge/data/STC_FAQ_EN.pdf">here</a> for refund details.</span></i><br/><br/>      
 Eligible travellers should submit applications for entry approval through the <a href="https://eservices.ica.gov.sg/STO">SafeTravel online portal</a>, at least <b><u>two weeks</u></b> from the planned date of entry. They can apply for entry up to about two months in advance. You may refer to the <a href="/files/stp-application-step-by-step-guide.pdf">Guide to Applying for Entry Approval</a> when submitting the application. <br/><br/>
     STP holders and their accompanying family members (if eligible) should submit their applications together. Via the online portal, STP holders may only apply for up to three travellers at a time. <b>If you meet the above-mentioned eligibility criteria but need to apply for more than three travellers, please write in using the <a href="https://go.gov.sg/sto-enquiry">SafeTravel enquiry form.</a></b><br/><br/>
      Once the application is approved, the applicant will be issued with an Entry Approval via email. The Entry Approval is valid for the week of travel indicated in the application.</td>
@@ -93,7 +94,7 @@ Eligible travellers should submit applications for entry approval through the <a
      <ol style="margin-top:0px; list-style-type: disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://oat.mpa.gov.sg/">here</a> if they are arriving at Tanah Merah Ferry Terminal. For travellers arriving from land checkpoints, there is no need to register and pre-pay for their tests. Travellers who have yet to pay for their on-arrival COVID-19 PCR test will be required to pay on the spot; and
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://t.2c2p.com/express/parkwayshenton">here</a> if they are arriving at Tanah Merah Ferry Terminal or the Woodlands and Tuas Checkpoints; and
        </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
        </li>
