@@ -134,38 +134,34 @@ For travellers arranging transport from the airport to their place of residence,
 	
 When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
-<!--<table>
+#### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead due to medical reasons. What are the types of transport that I can take?
+
+<table>
   <thead>
     <tr>
+			<th colspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Table 1: Transport Service Provider for Persons Returning From Higher-Risk Countries/Regions but Serving SHN at Place of Residence</th>
+		</tr>
+		<tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th>
        <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Type of trip</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost(an additional 10% will be charged for credit card transactions)</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (an additional 10% will be charged for credit card transactions)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">Strides Transportation Pte Ltd <br/> 6477 5977 
 </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From checkpoint to residence - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/> From residence to testing facility for COVID-19 test (round trip) - Please ensure that your test appointment has been scheduled before making transport arrangements.</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From checkpoint to residence</b> - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br/><br/>plus <br/><br/><b>From residence to testing facility for COVID-19 tests on Day 14 and Day 21 (round trip)</b> - Please ensure that your test appointment has been scheduled before making transport arrangements. .</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$290.00 </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">From any other ad-hoc trips approved by the authorities </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From any other ad-hoc trips approved by the authorities</b> </td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Round Trip – S$90.00 <br/> Per Way – S$45.00 
 </td>
     </tr>
   </tbody>
-  </table>-->
-
-#### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead due to medical reasons. What are the types of transport that I can take?
-
-You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for: 
-
-<ul style="list-style-type: lower-latin;">	
-	<li>travelling from the checkpoint to your place of residence; and</li> 
-<li>leaving your place of residence for your scheduled COVID-19 test appointment at the designated testing facility or for approved purposes. You must return immediately to your residence thereafter. </li>
-</ul>
-
+  </table>
+	
 Click here to [Go Back To Top](#top).
 
 <div id="pcrtest"></div>
