@@ -5,7 +5,7 @@ permalink: /stpl/requirements-and-process
 <b><span style="color:red">[NOTICE]</span></b>
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
 
-<p style="font-size:16px; line-height:1.5; color:red;"><b>From 28 May 2021, 2359 hours, travellers who have travel history to Victoria within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>From 29 May 2021, 2359 hours, travellers who have travel history to Victoria within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</b></p>
 
 ### Overview
 
