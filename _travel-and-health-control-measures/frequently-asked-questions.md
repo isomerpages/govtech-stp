@@ -407,14 +407,18 @@ When and how payment is collected, will depend on the travellers’ scheme of tr
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment is collected at the point of application for the SDF and exit-from-SHN COVID-19 PCR test.
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment is collected at the point of application for the costs of SDF and COVID-19 PCR tests during SHN.
 <br/><br/>
-Travellers will pay for the on-arrival COVID-19 PCR test upon arrival at the land checkpoint. Payment can be made using NETS/Mastercard/Visa or cash.
+Travellers should register and pay for their on-arrival COVID-19 PCR test separately <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.
 </td>
     </tr>
       <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival;<br/>Travellers arriving via land or sea transport will pay for the PCR test upon arrival.
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers should register and pay for their on-arrival COVID-19 PCR test, using the relevant links below <b>before</b> arrival.
+				<ul style="list-style-type: disc;">
+					<li style="font-size:18px; ">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
+					<li style="font-size:18px; ">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
+				</ul>
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
