@@ -61,7 +61,7 @@
   {% assign uniq_cats = cats | uniq %}
   {% for post in site.posts limit:3 %}
   <div class="col">
-    <a href="{{post.url | post.file_url}}">
+    <a href="{{post.url}}">
       <div
         class="media-card-plain 
         {% if post.categories[1] == uniq_cats[0] %}
