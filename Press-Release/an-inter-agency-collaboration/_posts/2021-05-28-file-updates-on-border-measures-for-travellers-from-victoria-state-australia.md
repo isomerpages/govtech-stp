@@ -1,5 +1,0 @@
----
-title: UPDATES ON BORDER MEASURES FOR TRAVELLERS FROM VICTORIA STATE, AUSTRALIA
-date: 2021-05-28
-file_url: /files/MOH_Victoria.pdf
----
