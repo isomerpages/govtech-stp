@@ -1,7 +1,7 @@
 ---
 layout: skeleton
 ---
-
+<!-- #4372d6-->
 <!--Hero Banner--> 
 <style>
   .bg-hero {
@@ -10,6 +10,12 @@ layout: skeleton
     max-height: 330px /* control height of banner */
   } 
   
+.bg-media-color-2 { background-color:#153855;
+}
+
+.bg-media-color-2:hover{ background-color:#395b77;
+	}
+	
   .bp-hero h3 {
     font-size: 25px;
     letter-spacing: 0;
@@ -81,6 +87,69 @@ layout: skeleton
   color: white;
 }
 
+  
+.section-5 {
+      width: 100%;
+      height: auto;
+      padding: 50px 0;
+      position: relative;
+      z-index: 1;
+     background-color: #F1F4F6;
+ }  
+ 
+.section-5, .view-more {
+      text-align: center;
+      padding: 28px 0 10px;
+}
+  
+.section-5>h4, 
+.section-6>h4{
+      margin-bottom: 16px;
+}  
+  
+.section-5>h1, 
+.section-6>h1{
+      font-weight: 600;
+      font-size: 48px;
+      line-height: 52px;
+      text-align: center;
+      letter-spacing: -1px;
+      color: #037e8a;
+}  
+	
+.break-desktop {
+      display: block;
+}
+	
+.section-6 {
+      margin: 50px 0;
+      
+}
+	
+.section-6>h1 {
+        font-size: 40px;
+        line-height: 44px;
+        width: 80%;
+        margin: 0 auto;
+}
+	
+.help-buttons-container {
+      display: flex;
+      width: fit-content;
+      width: -moz-fit-content;
+      margin: 40px auto;
+}
+ 
+.help-buttons-container>a {
+      margin: 10px !important;
+}
+
+.help-buttons-container {
+        flex-direction: column;
+        align-items: center;
+}
+	
+	
 	
 </style>
 
@@ -197,14 +266,14 @@ layout: skeleton
         </a>
       </div>
 	  </div>
-	  </section>									     	
+	  </section>		
 										       
 <!-- Collaboration logos -->
 <section id="collaboration" class="bp-section" style="padding-left:1.5rem; padding-top:0.8rem; padding-bottom:0.8rem; padding-right:1.5rem;"> 
   <div class="bp-container">
     <div class="row">
       <div class="col is-8 is-offset-2 has-text-centered padding--top--lg">
-        <p class="padding--bottom eyebrow is-uppercase">
+        <p class="is-uppercase">
           In Collaboration With
         </p>
       </div>
@@ -248,3 +317,36 @@ layout: skeleton
     </div>
   </div>
 </section>
+  
+ 	<!-- Media/Resource Sections -->
+	 
+<section id="media" class="bp-section" style="padding-left:1.5rem; padding-top:0.8rem; padding-bottom:0.8rem; padding-right:1.5rem;"> 
+  <div class="bp-container" style="background-color:#4372d6;">
+    <div class="row"> 
+ <div class="section-5">
+	 <div class="col is-8 is-offset-2 has-text-centered padding--top--lg">
+      <p class="is-uppercase">News And Media</p>
+		     </div>
+      <h1>Be the first to Know</h1>
+      {% include media.html %}
+      <div class="key-highlights-text view-more break-desktop">
+        {% include primary-btn.html href="/media/" text="View More News" %}
+      </div>
+    </div>		     
+	  </div>
+	 </div>
+	
+	 <div class="section-6">
+		  <div class="col is-8 is-offset-2 has-text-centered padding--top--lg">
+      <p class="is-uppercase">Contact Us</p>
+		 </div>
+      <h1>Need Answers to your queries?</h1>
+      <div class="help-buttons-container">
+        {% include primary-btn.html href="/faqs/" text="View Our FAQs" %}
+        {% include secondary-btn.html href="/contact-us/" text="Contact Us" %}
+      </div>
+    </div>
+  </div>
+	
+	</section>
+	
