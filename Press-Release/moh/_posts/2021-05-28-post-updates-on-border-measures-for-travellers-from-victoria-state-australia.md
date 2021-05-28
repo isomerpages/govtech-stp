@@ -4,7 +4,7 @@ date: 2021-05-28
 permalink: /moh/updates/victoriastate
 layout: post
 ---
-Test 
+## Test 
 
 <a>http://moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-victoria-state-australia_27May2021/</a>
 
@@ -22,9 +22,9 @@ Given the increased cases observed in Victoria State, Australia, we will be tigh
 
 All other travellers departing from Australia who have been in Australia (excluding Victoria State) in the last 21 days prior to travel will continue to be subject to a COVID-19 test upon arrival at the airport, in lieu of their SHN.  
 
-Regular Review of Border Measures
+### Regular Review of Border Measures
 
 As the global situation evolves, we will continue to adjust our border measures to manage the risk of importation and transmission to the community. Any changes to border measures will be updated on the SafeTravel website. Travellers are advised to visit the website to check for the most updated border measures before entering Singapore and be prepared to be subjected to the prevailing border measures upon entry.
 
-MINISTRY OF HEALTH
-27 MAY 2021
+#### MINISTRY OF HEALTH
+#### 27 MAY 2021
