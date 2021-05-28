@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /atp/faq
 ---
-
 ## **Air Travel Pass (ATP) Frequently Asked Questions**
 
 Please click on the relevant links below for more information about ATP
@@ -16,7 +15,7 @@ Please click on the relevant links below for more information about ATP
 </thead>
 <tbody>
 <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Australia</b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Australia (excluding Victoria State)</b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>
   </tr>
 <tr>
