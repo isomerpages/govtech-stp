@@ -2,7 +2,6 @@
 title: Privacy Statement
 permalink: /privacy
 ---
-
 ### **Privacy Statement**
 
 1. This is a Government Agency digital service.
@@ -20,6 +19,4 @@ permalink: /privacy
 
 6. This site may contain links to non-Government sites with data protection and privacy practices that may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. If you have any enquires or feedback on our data protection policies and procedures, or need more information on or access to data which you have provided to us in the past, please contact:
-- <COVID_SafeTravelEnquiries@mti.gov.sg> for those applying for a SafeTravel Pass or the Periodic Commuting Arrangement; or
-- <COVID_ATP_Enquiries@caas.gov.sg> for those applying for an Air Travel Pass.
+7. If you have any enquires or feedback on our data protection policies and procedures, or need more information on or access to data which you have provided to us in the past, please write to us using our enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a>.
