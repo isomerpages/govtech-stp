@@ -4,5 +4,4 @@ collections:
     order:
       - new-scpr-pages/.keep
       - requirements-and-process.md
-      - overview.md
       - summary-of-travel-health-control-measures-for-returning-scprs.md
