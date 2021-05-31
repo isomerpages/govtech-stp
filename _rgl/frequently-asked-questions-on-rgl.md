@@ -1,8 +1,7 @@
 ---
-title: Frequently Asked Questions on RGL 
+title: Frequently Asked Questions on RGL
 permalink: /rgl/faq
 ---
-
 ### **RESIDENTS IN COUNTERPART COUNTRIES/REGIONS**
 
 The following FAQs apply to persons who are residents in countries/regions that have established RGL arrangements with Singapore seeking single-entry, short-term essential business and official visit into Singapore:
@@ -363,7 +362,7 @@ If you still face issues, please email <support@tracetogether.gov.sg> with your 
 
 #### 23. If I change my mobile device on SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
-If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the RGL [Terms and Condition](/rgl/terms-and-conditions) 1(e)(ii).
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 21 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the RGL [Terms and Condition](/rgl/terms-and-conditions) 1(e)(ii).
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
@@ -377,9 +376,7 @@ Travellers, with mobile devices that are unable to download the TraceTogether ap
 
 Travellers can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, travellers are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
 
-Travellers, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 14 consecutive days after departing Singapore.   
-
-Children aged 12 or younger in that calendar year and travelling with parent/guardian are exempted from this requirement. Travellers with a certified disability or special need are also exempted.
+Travellers, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 21 consecutive days after departing Singapore.   
 
 #### 25. Can travellers switch off their mobile devices while in Singapore?
 
@@ -387,7 +384,7 @@ No, travellers must keep their mobile devices and the Bluetooth function switche
 
 #### 26. Can travellers uninstall the TraceTogether app upon departing from Singapore?
 
-Travellers must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
+Travellers must retain the TraceTogether app with the data on their mobile devices for 21 consecutive days after departing from Singapore. This is to facilitate contact tracing if travellers are tested positive for COVID-19.
 
 #### 27. What is SafeEntry?
 
@@ -487,4 +484,3 @@ As the specific requirements may change over time, RGL travellers returning to t
     </tr>
   </tbody>
   </table>
-
