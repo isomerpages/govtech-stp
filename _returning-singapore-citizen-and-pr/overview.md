@@ -10,7 +10,7 @@ The table below is a quick overview of the key lane features and requirements. R
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>General Requirements</b></th>
+<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; text-align:center;"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -42,7 +42,7 @@ The table below is a quick overview of the key lane features and requirements. R
  </tr>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Process</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; text-align:center;"><b>Application Process</b></th>
 </tr>
 </thead>
 <tr>
@@ -63,7 +63,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </tr>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure & Entry</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; text-align:center;"><b>Pre-Departure & Entry</b></th>
 </tr>
 </thead>
 <tr>
@@ -72,7 +72,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </tr>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Additional Resources</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; text-align:center;"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tr>
