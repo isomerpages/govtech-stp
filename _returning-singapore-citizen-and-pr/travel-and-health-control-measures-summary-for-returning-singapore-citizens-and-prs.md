@@ -7,7 +7,7 @@ This page summarises the current travel health control measures for Singapore Ci
 
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/entryguide">here</a>.
 
-Travel Health Control Measures for Returning-SC/PRs
+### Travel Health Control Measures for Returning-SC/PRs
 <i>(Reflects latest travel policy announced on 27 May 2021)</i>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
