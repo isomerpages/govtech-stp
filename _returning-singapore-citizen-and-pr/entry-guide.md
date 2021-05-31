@@ -131,7 +131,7 @@ All SHN-serving travellers are required to take additional COVID-19 PCR tests du
 	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>
 </tr>
 <tr>
-	<td colspan="2" style="font-size:14px;">Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this webform for assistance.</td> 
+	<td colspan="2" style="font-size:14px;">Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</td> 
 </tr>
 </tbody>
 </table>
