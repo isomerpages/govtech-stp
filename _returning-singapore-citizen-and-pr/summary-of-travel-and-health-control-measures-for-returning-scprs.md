@@ -4,7 +4,7 @@ permalink: /sc-pr/shn-swab-summary
 ---
 This page summarises the current travel health control measures for Singapore Citizens (SC) and Permanent Residents (PR) arriving in Singapore. As the travel health control measures may change in response to epidemiological developments, travellers may return to this page or read the latest <a href="">press releases</a> to confirm the prevailing health measures on arrival.
 
-For the full entry guide for SCs and PRs, click <a href="">here</a>.
+For the full entry guide for SCs and PRs, click <a href="/sc-pr/entryguide">here</a>.
 
 Travel Health Control Measures for Returning-SC/PRs
 <i>(Reflects latest travel policy announced on 27 May 2021)</i>
