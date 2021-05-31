@@ -7,7 +7,7 @@ This entry guide is meant for Singapore Citizens (SC) and Singapore Permanent Re
 Before their return, returning SC/PRs should familiarise themselves with the indicative travel health controls measures which are imposed based on their 21-day travel history, which can be accessed <a href="/sc-pr/shn-and-swab-summary">here</a>. These measures generally include any combination of the following (click on the links below for more information, including costs):
 
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN)</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice</a> (SHN)</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in a Dedicated Facility</a> (SDF)</li>
 <li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a>, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test</li>
 </ol>
