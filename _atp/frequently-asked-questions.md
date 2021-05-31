@@ -11,7 +11,7 @@ permalink: /atp/faq
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pcrtest">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Contact Tracing – TraceTogether</li>
 		</ol>
 		</li>
@@ -275,7 +275,3 @@ Visitors must be transported directly to their declared place of accommodation t
 - If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
 - After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
-
-
-
-
