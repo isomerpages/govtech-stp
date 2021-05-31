@@ -109,7 +109,7 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <tr>
 <td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">4</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Malaysia</b></td>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle;"><b>Singapore Citizens entering via <u>land</u> only</b>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Singapore Citizens entering via <u>land</u> only</b>
 	<ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore.</li> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 21-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
@@ -117,7 +117,7 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 	</td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; "><b>Singapore Citizens entering via air and sea, all Permanent Residents entering via air, land and sea	</b>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>Singapore Citizens entering via air and sea, all Permanent Residents entering via air, land and sea	</b>
 	<ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
