@@ -12,7 +12,7 @@ permalink: /atp/faq
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pcrtest">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Contact Tracing – TraceTogether</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Outbound Pre-Departure Test</li>
@@ -289,3 +289,63 @@ Yes. All visitors to Singapore must download the TraceTogether app prior to thei
 Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
 
 Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.
+
+#### 2. After downloading the TraceTogether app, how do I activate it?
+
+You can activate your app only after clearing Singapore immigration. There might be a short lag after clearing immigration before you can activate the app. 
+
+After downloading the TraceTogether app, you need to follow the instructions that appear when you launch the app. You will need to verify your mobile number with an SMS One-Time Password and register your profile on the app with the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. 
+
+Please ensure that your TraceTogether App is updated to the latest version. You will see the Holding Screen after you have registered your profile. You must click on the ‘ACTIVATE APP’ button on the Holding Screen immediately after you have cleared arrival immigration in Singapore. Follow the instructions until you reach the Home Screen.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">Holding Screen</th>
+      <th style="text-align:center;">Home Screen</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td><img src="/images/TT_2.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TT_7.png" style="width:179px; height:318px;"></td>
+    </tr>
+  </tbody>
+  </table>
+
+For more information, please refer to the TraceTogether website.
+
+If you require assistance on how to download and activate the TraceTogether app, please email support@tracetogether.gov.sg.
+
+#### 3. I have downloaded the TraceTogether app, but I cannot activate the app. What should I do?
+
+Please check that your app has been updated to the latest version.
+
+You can activate your app only <u>after</u> clearing Singapore immigration. There might be a short lag after clearing immigration before you can activate the app. 
+
+If you still are unable to activate your app after immigration clearance, it could be because you did not register your profile with the same identification number, nationality and date of birth as those shown in the passport that you have used to enter Singapore. Follow the instructions to be navigated back to the Holding Screen.
+
+You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
+
+<img src="/images/TT_6.png" style="width:179px; height:318px;">
+
+If you still face issues, please email <support@tracetogether.gov.sg> with your query and details of the issue you are facing, or call the support helpline at +65 6973 6511 during operating hours.
+
+#### 4. If I change my mobile device or SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 21 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration, as set out in the [ATP Condition 1(e)(ii)](/atp/conditions).
+
+If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
+
+Please ensure that you keep your mobile device’s Bluetooth function turned on so that the TraceTogether app remains activated throughout your stay in Singapore.
+
+#### 5. What happens if visitors do not have a mobile device to download the TraceTogether app?
+
+All visitors must have a mobile device to download the TraceTogether app. They are responsible for ensuring that their mobile device is compatible with the TraceTogether app. The TraceTogether App can be downloaded from the [iOS Play Store](https://apps.apple.com/sg/app/tracetogether/id1498276074) and [Google Play Store](https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace) and Huawei App Gallery.
+
+Visitors, with mobile devices that are unable to download the TraceTogether app, can rent a compatible mobile device from the Changi Recommends website [here](https://www.changirecommends.com/reservation_form.aspx) prior to departing for Singapore. They must have an electronic or physical copy of the booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport. Visitors who are unable to present a booking confirmation may be refused boarding by the airline.
+
+Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
+
+Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 21 consecutive days after departing Singapore.   
+
+
