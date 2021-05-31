@@ -1,5 +1,5 @@
 collections:
   atp-china:
-    output: true
+    output: false
     order:
       - frequently-asked-questions.md

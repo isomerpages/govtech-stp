@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - notice.md
-      - frequently-asked-questions.md
+    
