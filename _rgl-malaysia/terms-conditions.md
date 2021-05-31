@@ -2,7 +2,6 @@
 title: Terms & Conditions
 permalink: /malaysia/rgl/terms-and-conditions
 ---
-
 ### **Terms & Conditions of SafeTravel Pass (For Residents in Malaysia using the Reciprocal Green Lane (RGL) for Essential Travel Between Malaysia and Singapore to Travel to Singapore)<sup>1</sup>**
 
 ### **Definitions**
@@ -100,9 +99,9 @@ Singapore; and
 
 #### Post-Departure from Singapore
 
-1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
+1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 21 days after his/her departure from Singapore.
 
-2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Malaysia.
+2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 21 days after returning to Malaysia.
 
 ### **C. Terms & Conditions for Host**
 
