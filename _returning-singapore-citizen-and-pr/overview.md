@@ -1,5 +1,6 @@
 ---
 title: Overview
-permalink: /returning-singapore-citizen-and-pr/overview
+permalink: /sc-pr/overview
 ---
+
 
