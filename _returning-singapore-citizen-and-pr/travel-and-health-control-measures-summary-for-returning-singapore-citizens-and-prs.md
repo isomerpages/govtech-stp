@@ -23,7 +23,7 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <!--<div stlye="text-align: left;">
 <img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>-->
 
-<span style="font-size:16px;">For mobile users, please scroll right for more information.</span>
+<p style="font-size:16px;">For mobile users, please scroll right for more information.</p>
 <table>
 <thead>
 <tr>
