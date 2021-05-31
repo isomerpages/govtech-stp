@@ -1,6 +1,7 @@
 ---
 title: Requirements And Process
 permalink: /sc-pr/requirements-and-process
+published: false
 ---
 ### 1. Eligibility 
 
