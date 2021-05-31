@@ -30,7 +30,7 @@ The table below is a quick overview of the key lane features and requirements. R
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>.<br/><br/> 
 
-<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your past travel history to various countries/regions. Please note that all SC/PRs returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
+<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your past travel history. Please note that all SC/PRs returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
 	
 <p style="font-size:16px; line-height:1.0;">For more information on the specific travel measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
@@ -47,7 +47,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8;">None. Entry approvals are not needed for returning SC/PRs</td>
+<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8;">None. Application for entry approvals are not needed for returning SC/PRs.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
@@ -68,7 +68,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure and Entry Processs Guide</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/sc-pr/requirements-and-process">here</a></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/sc-pr/requirements-and-process">Here</a></td>
 </tr>
 <thead>
 <tr>
@@ -79,10 +79,10 @@ The table below is a quick overview of the key lane features and requirements. R
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Payments and refunds</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">SDF issues</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">COVID-19 test</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Recovered and Vaccinated Travellers</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
 </ul>
  </td>
 </tr>
