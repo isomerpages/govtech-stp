@@ -32,6 +32,31 @@ Depending on the traveller’s mode of entry, payment, collection and return of 
          <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Payment and collection at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport on arrival in Singapore.</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Payment and collection at the TraceTogether Counters at the Land and Sea Checkpoints.</td>
     </tr>
-
   </tbody>
   </table>
+	
+Travellers may pay the deposit by credit card or cash payment in Singapore currency. For arrivals via air checkpoints, cash payment in foreign currency may be accepted.
+Details on where the tokens collection booths/counters can be found here (include link to Q2 of TT FAQs).
+
+### 2.	Using TraceTogether
+
+#### A)	TraceTogether App Users
+
+To facilitate contact tracing, travellers must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A traveller must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+
+#### B)	TraceTogether Token Users
+
+To facilitate contact tracing, visitors are required to carry their own tokens with them wherever they go, and not exchange their tokens with others. Each token is uniquely tagged to the individual that registered for it.
+
+Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found here (include link to Q8 of TT FAQs).
+
+The S$50 deposit will be refunded if:
+- the TraceTogether token the visitor is returning belongs to him/her; and
+-	the visitor had made a deposit for the TraceTogether token being returned; and
+-	the visitor is returning the token in-person.
+
+The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+
+#### 3.	Frequently Asked Questions
+
+For the full list of FAQs on the TraceTogether App/Token, please click [here](https://support.tracetogether.gov.sg/hc/en-sg).
