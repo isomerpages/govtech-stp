@@ -24,7 +24,7 @@ Please click on the relevant links below for more information about the ATP.
     <td rowspan= "2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Australia  (excluding Victoria State) </b></td>
     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
-      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/australia/atp/faq">Click here</a></td>
+      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>
   </tr>
 	 <tr>
     <td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass for Victoria State, Australia suspended. <br/>Click<a href="/australia/atp/notice"> here</a> for more details.</td>
@@ -33,7 +33,7 @@ Please click on the relevant links below for more information about the ATP.
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
-      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/brunei/atp/faq">Click here</a></td>
+      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Hong Kong</b></td>
@@ -46,13 +46,13 @@ Please click on the relevant links below for more information about the ATP.
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China</b></td>
     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
-      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/china/atp/faq">Click here</a></td>
+      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>New Zealand</b></td>
     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
      <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
-     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/newzealand/atp/faq">Click here</a></td>
+     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Taiwan</b></td>
