@@ -1,7 +1,8 @@
 ---
 title: TraceTogether for Travellers
-permalink: /health/tracetogether
+permalink: /health/tt-for-travellers
 ---
+
 TraceTogether is a technological solution to combat the spread of COVID-19 via contact tracing. All travellers will be required to utilise the TraceTogether app, or rent a TraceTogether token during their stay in Singapore.
 Children aged 6 years or younger in the current calendar year are exempted from the TraceTogether requirement.
 1.	Installing TraceTogether App or Obtaining TraceTogether Token
