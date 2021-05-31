@@ -12,7 +12,7 @@ Travel Health Control Measures for Returning-SC/PRs
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
 <ol style="list-style-type: decimal;">
-<li><a href="">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
+<li><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
 <li><a href="">Stay-Home Notice</a> (SHN), which may be served in an <a href="">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
 
