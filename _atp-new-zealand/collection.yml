@@ -1,5 +1,5 @@
 collections:
   atp-new-zealand:
-    output: true
+    output: false
     order:
       - frequently-asked-questions.md
