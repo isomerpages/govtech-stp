@@ -14,7 +14,7 @@ Given the reciprocal nature of this travel arrangement, travellers will also not
 
 ---
 
-**MINISTRY OF FOREIGN AFFAIRS
-SINGAPORE**
+**MINISTRY OF FOREIGN AFFAIRS**<br/>
+**SINGAPORE**
 
 **1 JANUARY 2021**
