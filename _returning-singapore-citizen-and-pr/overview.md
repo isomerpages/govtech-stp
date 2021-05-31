@@ -67,7 +67,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </tr>
 </thead>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure and Entry Processs Guide</b></td>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure and Entry Process Guide</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/sc-pr/requirements-and-process">Here</a></td>
 </tr>
 <thead>
