@@ -53,9 +53,9 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">2</td>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (Victoria state)</b></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b><br/><br/>Note:  ATB launch deferred – new launch dates of ATB flights to be reviewed in Jun 2021. Click <a href="/hongkong/atb/notice">here</a> for details.</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia (Victoria state)</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br/><br/>Note:  ATB launch deferred – new launch dates of ATB flights to be reviewed in Jun 2021. Click <a href="/hongkong/atb/notice">here</a> for details.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
