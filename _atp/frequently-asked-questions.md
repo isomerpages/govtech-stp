@@ -10,7 +10,7 @@ permalink: /atp/faq
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#requirements">ATP Requirements for Entry into Singapore </a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mandatory COVID-19 Travel Insurance Coverage</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Contact Tracing – TraceTogether</li>
 		</ol>
@@ -170,4 +170,112 @@ Visitors will have to declare, at the point of ATP application, that they will p
 
 Purchase of travel insurance is a condition of the Air Travel Pass. Non-compliance with any of the conditions of the Air Travel Pass may result in refusal of entry into Singapore and/or cancellation of the Air Travel Pass. In such an event, the Air Travel Pass holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future Air Travel Pass applications may also be rejected.
 
- 
+<div id="pcrtest"></div>
+
+### On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test
+
+#### 1. Are visitors required to take an on-arrival COVID-19 PCR test?
+
+Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will be out within 48 hours.
+
+After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
+
+To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment here.
+
+#### 2. What types of transportation do visitors need to use when going from the airport to their declared place of accommodation, after taking the COVID-19 PCR test?
+
+After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation.
+
+The designated taxi operators are:
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; "> &nbsp;</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Service Provider and Contact Number</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Contact Number* / Mobile Application</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort & CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+    </tr>
+  </tbody>
+  </table>
+	
+#### 3. Can visitors shop and eat at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
+
+No, visitors are not allowed to shop and eat at Changi Airport, including Jewel Changi Airport. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
+
+The only exception is for the procurement of goods and services in the airport transit area, before arrival immigration.
+
+Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
+
+#### 4. What types of accommodation do visitors need to use while waiting for their test results?
+
+The accommodation must be non-residential and must be an individual room with an attached toilet. Empty residential premises are not allowed.
+
+Visitors are required to bear the cost of their accommodation in Singapore.
+
+Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
+
+#### 5. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
+
+Yes, while waiting for their PCR test results, visitors are allowed to share the same room with their family members, travel companions or a caretaker, if they share similar travel history in the past 21 days prior to departure for Singapore.
+
+Please also note that if the visitor’s test result is confirmed to be positive, all persons who had shared the same room with the visitor, as well as those identified to be a close contact, will be issued a Quarantine Order by the Singapore Ministry of Health (MOH).
+
+#### 6. Do children need to undergo an on-arrival COVID-19 PCR test?
+
+Children aged 6 or younger in that calendar year are not required to undergo an on-arrival COVID-19 PCR test. However, children whose close contacts are found to be tested positive for COVID-19 will be required to take the test.
+
+#### 7. How much is the on-arrival COVID-19 PCR test at the airport?
+
+The cost of the COVID-19 PCR test is S$160 (inclusive of Goods and Services Tax). Visitors will bear the cost of the test in Singapore.
+
+To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment [here](https://safetravel.changiairport.com/).
+
+#### 7. What happens if visitors refuse to undergo the on-arrival COVID-19 PCR test?
+
+If visitors refuse to undergo the on-arrival COVID-19 PCR test, they may be refused entry into Singapore and have their ATP cancelled. In such an event, visitors may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
+
+#### 8. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
+
+Visitors entering Singapore on an approved Air Travel Pass may be picked up from the airport by their company / family member / friend in a private vehicle. There should not be more than one person picking the visitor up from the airport. 
+
+Visitors must be transported directly to their declared place of accommodation to await their COVID-19 PCR test results. All persons in the private vehicle must wear face masks throughout the journey. The following precautionary measures are also strongly encouraged:
+- The visitor should sit alone in the back seat and the front passenger seat should be left unoccupied.
+- If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
+- The vehicle windows should be wound down and the air-conditioning turned off, where practical.
+- After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
+
+
+
+
