@@ -30,9 +30,9 @@ The table below is a quick overview of the key lane features and requirements. R
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>.<br/><br/> 
 
-<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary.">CLICK HERE</a> to review the latest travel health measures, which depend on your past travel history to various countries/regions. Please note that all SC/PRs returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
+<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your past travel history to various countries/regions. Please note that all SC/PRs returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
 	
-<p style="font-size:16px; line-height:1.5;">For more information on the specific travel measures including their costs, click on the links below:</p>
+<p style="font-size:16px; line-height:1.0;">For more information on the specific travel measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
@@ -77,7 +77,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Payments and refunds</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">SDF issues</li>
