@@ -2,7 +2,6 @@
 title: Terms & Conditions
 permalink: /japan/rgl/terms-and-conditions
 ---
-
 ### **Terms & Conditions of SafeTravel Pass (For Residents in Japan using the Reciprocal Green Lane (RGL)/Business Track for Essential Travel Between Japan <sup>1</sup> and Singapore to Travel to Singapore)<sup>2</sup>**
 
 ### **Definitions**
@@ -99,9 +98,9 @@ permalink: /japan/rgl/terms-and-conditions
 
 #### Post-Departure from Singapore
 
-1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 14 days after his/her departure from Singapore.
+1. The traveller shall ensure that the TraceTogether app remains installed in his/her device, and all TraceTogether data is retained, for at least 21 days after his/her departure from Singapore.
 
-2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 14 days after returning to Japan.
+2. The traveller will be required to upload TraceTogether data if the traveller subsequently tests positive for COVID-19 within 21 days after returning to Japan.
 
 ### **C. Terms & Conditions for Host**
 
