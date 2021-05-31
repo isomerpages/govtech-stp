@@ -6,7 +6,7 @@ permalink: /atp/faq
 
 #### Click to jump to the following sections:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Overview of the Air Travel Pass (ATP) </li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#overview">Overview of the Air Travel Pass (ATP) </a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">ATP Requirements for Entry into Singapore 
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Visa Application</li>
@@ -17,6 +17,8 @@ permalink: /atp/faq
 		</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Outbound Pre-Departure Test</li>
 </ol>
+
+<div id="overview"></div>
 
 ### Overview of the Air Travel Pass (ATP)
 
@@ -66,10 +68,12 @@ For example, visitors who hold a valid ATP to enter Singapore on 1 January 2021,
 Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may introduce new measures or requirements as and when necessary to safeguard public health. 
 This may result in changes to the conditions or cancellation of the ATP at short notice. Applicants will be notified of any such changes or cancellation of their ATP.
 
-9. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
+#### 9. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
+
 No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
-For information on border control measures, please refer to ICA’s website here.
-10. Can travel agents apply for Air Travel Pass on behalf of their clients?
+
+For information on border control measures, please refer to ICA’s website <a href="https://safetravel.ica.gov.sg">here</a>.
+
+#### 10. Can travel agents apply for Air Travel Pass on behalf of their clients?
+
 No. Visitors will need to submit the application themselves as they are required to agree to the conditions of the ATP, read and agree to the Privacy Statement, as well as verify all submitted information.
-
-
