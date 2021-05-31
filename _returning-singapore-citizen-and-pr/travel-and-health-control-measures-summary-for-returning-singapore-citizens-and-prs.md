@@ -21,8 +21,8 @@ As a condition for entry into Singapore, all travellers <u>must</u> comply with 
 
 Use this <a href="">online tool</a><!-- Link to Checkfirst --> for guidance on the travel health control measures that would apply based on your 21-day travel history before arrival in Singapore. Alternatively, scroll down for the table of comprehensive travel health control measures. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.<br/><br/>
 
-<div stlye="text-align: left;">
-<img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>
+<!--<div stlye="text-align: left;">
+<img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>-->
 
 <table>
 <thead>
