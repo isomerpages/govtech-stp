@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - requirements-and-process.md
-      - overview.md
