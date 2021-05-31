@@ -181,10 +181,8 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
      </ol>
-                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
-                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.5;">Those unable to use a mobile device due to a certified disability and/or special need</li>
-     </ol> </p>                
+                 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore.</p>
+			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.</p>           
     </td>
  </tr>	
   </tbody>
@@ -246,8 +244,8 @@ The local host* must ensure that the approved RGL traveller downloads and uses t
  </td>
   </tr>
 	<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore. 
     </td>
   </tr>
   <thead>
@@ -285,12 +283,12 @@ The local host* must ensure that the approved RGL traveller downloads and uses t
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Retention of TraceTogether data</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">RGL travellers must retain the TraceTogether app for 21 consecutive days after leaving Singapore.
  </td>
   </tr>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Reporting of Positive COVID-19 Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">RGL travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">RGL travellers who test positive for COVID-19 in the first 21 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
 </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the Singapore host, who would then upload the TraceTogether data to MOH.
