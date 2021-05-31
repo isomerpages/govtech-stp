@@ -99,7 +99,7 @@ Use this <a href="">online tool</a><!-- Link to Checkfirst --> for guidance on t
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve an additional 7-day SHN in self-isolation at either a place of residence or self-sourced accommodation and fulfil the following conditions:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Remain at the place of residence or accommodation at all times during the SHN period; </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;>If sharing a place of residence with others, the traveller should stay in their room at all times and use a dedicated toilet, and avoid contact with other persons in the same place of residence who are not serving SHN;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">If sharing a place of residence with others, the traveller should stay in their room at all times and use a dedicated toilet, and avoid contact with other persons in the same place of residence who are not serving SHN;</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a COVID-19 PCR test at the end of the additional 7-day SHN.</li>
 </ol>
 </li>
