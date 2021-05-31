@@ -18,7 +18,7 @@ Depending on the traveller’s 21-day travel history, the following combination 
 
 As a condition for entry into Singapore, all travellers <u>must</u> comply with the travel health control measures required of them, or penalties under the Infectious Diseases Act or other relevant laws may be imposed.
 
-Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7ffbde6d">online tool</a> for guidance on the travel health control measures that would apply based on your 21-day travel history before arrival in Singapore. Alternatively, scroll down for the table of comprehensive travel health control measures. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.<br/>
+Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the travel health control measures that would apply based on your 21-day travel history before arrival in Singapore. Alternatively, scroll down for the table of comprehensive travel health control measures. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.<br/>
 <!--<div stlye="text-align: left;">
 <img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>-->
 
