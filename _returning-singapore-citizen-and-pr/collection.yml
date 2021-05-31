@@ -2,7 +2,6 @@ collections:
   returning-singapore-citizen-and-pr:
     output: true
     order:
-      - requirements-and-process.md
       - overview.md
       - entry-guide.md
       - travel-and-health-control-measures-summary-for-returning-singapore-citizens-and-prs.md
