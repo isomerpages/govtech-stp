@@ -15,7 +15,7 @@ permalink: /atp/faq
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Outbound Pre-Departure Test</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pdt">Outbound Pre-Departure Test</a></li>
 </ol>
 
 <div id="overview"></div>
@@ -361,3 +361,26 @@ No, visitors must keep mobile devices and the Bluetooth function switched on at 
 #### 8. Can visitors uninstall the TraceTogether app upon departing from Singapore?
 
 Visitors must retain the TraceTogether app with the data on their mobile devices for 21 consecutive days after departing from Singapore. This is to facilitate contact tracing if visitors are tested positive for COVID-19.
+
+#### 9. Where do visitors return their TraceTogether tokens?
+
+Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
+
+The S$50 deposit will be refunded if:
+- the TraceTogether token the visitor is returning belongs to him/her; and
+-	the visitor had made a deposit for the TraceTogether token being returned; and
+- the TraceTogether token is not faulty or damaged.
+
+The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+
+<div id="pdt"></div>
+
+### Outbound Pre-Departure Test
+
+Information on the outbound pre-departure test can be found [here](/health/covid19-tests/pre-departure-test).
+
+---
+
+<sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders.
+
+Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
