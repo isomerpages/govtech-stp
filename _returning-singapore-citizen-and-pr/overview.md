@@ -4,7 +4,7 @@ permalink: /sc-pr/overview
 ---
 Overseas-based Singapore Citizens (SC) / Permanent Residents (PR) can return to Singapore without the need for any Entry Approvals. That said, all returning SC/PRs will be subject to the prevailing travel health control measures that is determined based on their travel history 21 days before arriving in Singapore.
 
-The table below is a quick overview of the key lane features and requirements. Returning SC/PRs should refer to this guide on the general entry process. Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="https://safetravel.ica.gov.sg/arriving/overview">this page</a> for the available Safe Travel options.
+The table below is a quick overview of the key lane features and requirements. Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="https://safetravel.ica.gov.sg/arriving/overview">this page</a> for the available Safe Travel options.
 
 <p style="font-size:16px;">For mobile users, please scroll right for more information.</p>
 <table>
