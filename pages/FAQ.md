@@ -18,10 +18,10 @@ permalink: /FAQ
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"> <a href="/atp/overview">Air Travel Pass</a>
 </td> 
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"> FAQ for Travellers arriving from: <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/australia/atp/faq">Australia</a></li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/brunei/atp/faq">Brunei</a></li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/china/atp/faq">Mainland China</a></li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/newzealand/atp/faq">New Zealand</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Australia</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Brunei</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">Mainland China</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/atp/faq">New Zealand</a></li>
         </ol>
         </td>
     </tr>
