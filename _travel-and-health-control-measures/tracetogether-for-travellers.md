@@ -63,7 +63,6 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
   </tbody>
   </table>
 	
-Travellers may pay the deposit by credit card or cash payment in Singapore currency. For arrivals via air checkpoints, cash payment in foreign currency may be accepted.
 Details on where the tokens collection booths/counters can be found here (include link to Q2 of TT FAQs).
 
 ### 2.	Using TraceTogether
