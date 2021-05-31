@@ -9,7 +9,7 @@ permalink: /atp/faq
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#overview">Overview of the Air Travel Pass (ATP) </a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#requirements">ATP Requirements for Entry into Singapore </a>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-alpha;">
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Visa Application</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Mandatory COVID-19 Travel Insurance Coverage</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">On-Arrival COVID-19 Polymerase Chain Reaction (PCR) Test</li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Contact Tracing – TraceTogether</li>
@@ -123,3 +123,26 @@ For visitors who do not have mobile devices to download the TraceTogether app or
 #### 4. Do visitors need a return flight ticket to enter Singapore?
 
 Visitors travelling on the ATP do not need a return flight ticket to enter Singapore. However, they are advised to check with the relevant authorities on the procedures and approval needed to return to their country/region of departure, or to enter their onward destination.
+
+<div id="visa"></div>
+
+### Visa Application
+
+#### 1. Do visitors with a valid ATP need to apply separately for a visa to enter Singapore?
+
+Visitors, who require a visa for travel to Singapore, must separately obtain a visa after receiving their ATP approval and before departing for Singapore.
+
+If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
+
+Visitors may refer to ICA’s website [here](https://www.ica.gov.sg/visitor/visitor_entryvisa) for information on visa requirements and application.
+
+#### 2. How long can visitors stay in Singapore?
+
+Visitors who are granted entry into Singapore will be issued with a visit pass by the Singapore Immigration & Checkpoints Authority (ICA) at the immigration checkpoints. The duration of stay in Singapore will be generally aligned to that accorded to the passport holder prior to the COVID-19 pandemic.
+
+Please note that the ATP is <b>not</b> an immigration visit pass. It only allows visitors to travel to and seek entry into Singapore within a specified period.
+
+#### 3. Are visitors able to extend their duration of stay in Singapore?
+
+All applications for extension of visit pass must be submitted online using ICA’s e-service [here](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
+
