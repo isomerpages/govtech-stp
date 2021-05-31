@@ -48,7 +48,7 @@ Travellers are also advised to activate <a href="https://www.tracetogether.gov.s
 
 ### 2. Departure for Singapore
 
-All travellers takig a flight or ferry to Singapore, <u>must</u> present a <a href="#PDT">valid negative PDT report</a> which shows a negative result during pre-boarding checks, otherwise they may be denied boarding.
+All travellers taking a flight or ferry to Singapore, <u>must</u> present a <a href="#PDT">valid negative PDT report</a> which shows a negative result during pre-boarding checks, otherwise they may be denied boarding.
 
 
 ### 3. Arrival in Singapore
