@@ -120,10 +120,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
      <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
      </ol>
-                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: The following groups are not required to download the TraceTogether app:</i><ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Children aged 12 years old or younger in that calendar year and travelling with a parent or guardian</li>
-                 <li style="font-size:16px; margin-top:0px; margin-bottom:0px;  line-height:1.0;">Those unable to use a mobile device due to a certified disability and/or special need</li>
-     </ol> </p>                
+                  <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore</p>
+			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.</p>
     </td>
  </tr>
    <tr>
@@ -173,7 +171,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.* (or a TraceTogether token for those eligible to be issued with a token)</li>
          </ol>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
       <br/>
@@ -185,8 +183,8 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>
 Visitors are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exceptions are for:
 <ol style="margin-top:0px; list-style-type: decimal;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">procurement of goods and services in the airport transit area, before arrival immigration; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">procurement of goods and services in the airport transit area, before arrival immigration; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">accommodation bookings at YotelAir Singapore Changi Airport, for which the visitors are required to proceed immediately and directly to YotelAir after their COVID-19 PCR test.</li>
          </ol>
          </td>
  </tr>
@@ -204,7 +202,7 @@ Visitors are not permitted to enter any retail or food & beverage establishments
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore and up to 14 days after departure from Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore and up to 21 days after departure from Singapore</th>
   </tr>
   </thead>
 <tbody>
@@ -215,7 +213,16 @@ Visitors are not permitted to enter any retail or food & beverage establishments
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. 
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore. <br/><br/>
+			<b>For TraceTogether token users:</b><br/>
+As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
+			</p><p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The S$50 deposit will be refunded if:<ol style="margin-top:0px; list-style-type: decimal;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the TraceTogether token the visitor is returning belongs to him/her; and</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the visitor had made a deposit for the TraceTogether token being returned; and</li>
+			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> the TraceTogether token is not faulty or damaged.</li>
+         </ol>
+			</p>
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.</p>
     </td>
   </tr>
 
