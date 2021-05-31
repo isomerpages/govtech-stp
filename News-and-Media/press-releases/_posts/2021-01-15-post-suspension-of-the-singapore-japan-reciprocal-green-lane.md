@@ -16,8 +16,8 @@ All travellers entering Singapore will be subject to prevailing health requireme
  
  ---
  
-**MINISTRY OF FOREIGN AFFAIRS
-SINGAPORE**
+**MINISTRY OF FOREIGN AFFAIRS** <br/>
+**SINGAPORE**
 
 **15 JANUARY 2021**
  
