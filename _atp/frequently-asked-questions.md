@@ -146,3 +146,28 @@ Please note that the ATP is <b>not</b> an immigration visit pass. It only allows
 
 All applications for extension of visit pass must be submitted online using ICA’s e-service [here](https://eservices.ica.gov.sg/esvclandingpage/extend) at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
 
+<div id="insurance"></div>
+
+### Mandatory COVID-19 Travel Insurance Coverage
+
+#### 1. Why is there a need for visitors to purchase COVID-19 travel insurance?
+
+This is to ensure that short-term visitors are able to bear the full cost of medical treatment, tests and isolation imposed on them for public health reasons, should they be suspected of being infected with COVID-19, or require medical treatment for COVID-19 while in Singapore. Those who test positive for COVID-19 typically receive care in private hospitals.
+
+#### 2. What is the minimum coverage for COVID-19 travel insurance?
+
+Visitors must purchase travel insurance for the entire duration of their stay in Singapore, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travel to Singapore. Should their COVID-19 treatment cost go beyond S$30,000, visitors will have to pay for the excess.
+
+#### 3. How can visitors purchase the required insurance coverage?
+
+Visitors must purchase COVID-19 travel insurance prior to their travel to Singapore. The SafeTravel website provides a [list of the Singapore-based insurers’ products](/health/travelinsurance). Visitors can visit the respective insurers’ websites to purchase the inbound insurance plan. They may reach out to the insurers for more information.
+
+#### 4. Do visitors need to show proof of travel insurance purchase when they apply for the ATP?
+
+Visitors will have to declare, at the point of ATP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travel to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
+
+#### 5. What penalties will be imposed on traveller if he did not buy the insurance prior to entering Singapore?
+
+Purchase of travel insurance is a condition of the Air Travel Pass. Non-compliance with any of the conditions of the Air Travel Pass may result in refusal of entry into Singapore and/or cancellation of the Air Travel Pass. In such an event, the Air Travel Pass holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future Air Travel Pass applications may also be rejected.
+
+ 
