@@ -2,7 +2,6 @@
 title: "Travel and Health Control Measures "
 permalink: /sc-pr/shn-and-swab-summary
 ---
-
 This page summarises the current travel health control measures for Singapore Citizens (SC) and Permanent Residents (PR) arriving in Singapore. As the travel health control measures may change in response to epidemiological developments, travellers may return to this page <!--or read the latest <a href="https://safetravel.ica.gov.sg">press releases</a>--> to confirm the prevailing health measures on arrival.
 
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/entryguide">here</a>.
@@ -110,7 +109,7 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">4</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Malaysia</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Singapore Citizens entering via <u>land</u> only</b>
-	<ol style="margin-top:0px; list-style-type: lower-latin;">
+	<ol style="margin-top:0px;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore.</li> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 21-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
 </ol>	
