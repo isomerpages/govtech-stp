@@ -24,7 +24,7 @@ The table below is a quick overview of the key lane features and requirements. R
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions of Departure</b><br/><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">All countries/regions allowed.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed.</td>
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
@@ -47,7 +47,7 @@ The table below is a quick overview of the key lane features and requirements. R
 </thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8;">None. Application for entry approvals are not needed for returning SC/PRs.</td>
+<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">None. Application for entry approvals are not needed for returning SC/PRs.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
