@@ -18,7 +18,7 @@ Returning SC/PRs are also encouraged to access <!-- link to resources page --><a
 
 ### 1. Pre-Departure for Singapore (within 72 hours before departure)
 
-<i>A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u></i>
+A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
 <b>SCs and PRs returning to Singapore by flight or ferry</b> and <b>PRs entering Singapore via the Causeway or Second Link</b> are required to present a valid negative PDT result for entry into Singapore. Travellers are exempted from this requirement, if they have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore. SCs entering Singapore via the Causeway or Second Link do not need a PDT but will be subject to the prevailing travel health control measures. Click <a href="https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf">here</a> to find out if a pre-departure test (PDT) is required before you board.
 
@@ -34,7 +34,7 @@ Travellers with difficulties getting a COVID-19 PCR test before their departure 
 
 <div id="SGAC"></div>
 
-<i>B) <u>Submission of Declarations & Registration for On-Arrival COVID-19 Test</u></i>
+B) <u>Submission of Declarations & Registration for On-Arrival COVID-19 Test</u>
 
 Travellers who are fit for travel must:
 
