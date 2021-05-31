@@ -275,3 +275,17 @@ Visitors must be transported directly to their declared place of accommodation t
 - If more than one visitor is picked up, visitors sharing the same vehicle should have the same travel history and head to the same declared accommodation.
 - The vehicle windows should be wound down and the air-conditioning turned off, where practical.
 - After the visitor has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
+
+<div id="contact"></div>
+
+### Contact Tracing – TraceTogether
+
+#### General FAQs on TraceTogether can be found [here](https://support.tracetogether.gov.sg/hc/en-sg).
+
+#### 1. Must every visitor use TraceTogether?
+
+Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app (see questions 2 and 3 for app activation queries) for the duration of their stay in Singapore.
+
+Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.
