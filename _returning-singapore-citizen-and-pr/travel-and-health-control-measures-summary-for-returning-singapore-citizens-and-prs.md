@@ -27,9 +27,9 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">S/N</th>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Countries/Region that traveller had visited in last 21 consecutive days before arrival in Singapore</th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#EDEDED;">Travel Health Control Measures Imposed</th>
+<th style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>S/N</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Region that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures Imposed</b></th>
 </tr>
 </thead>
 <tbody>
