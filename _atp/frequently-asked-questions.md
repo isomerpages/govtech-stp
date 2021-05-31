@@ -15,7 +15,7 @@ permalink: /atp/faq
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#pdt">Outbound Pre-Departure Test</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/health/covid19-tests/pre-departure-test">Outbound Pre-Departure Test</a></li>
 </ol>
 
 <div id="overview"></div>
@@ -372,12 +372,6 @@ The S$50 deposit will be refunded if:
 - the TraceTogether token is not faulty or damaged.
 
 The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
-
-<div id="pdt"></div>
-
-### Outbound Pre-Departure Test
-
-Information on the outbound pre-departure test can be found [here](/health/covid19-tests/pre-departure-test).
 
 ---
 
