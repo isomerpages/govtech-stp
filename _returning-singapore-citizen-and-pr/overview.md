@@ -23,7 +23,7 @@ The table below is a quick overview of the key lane features and requirements. R
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">All purposes of travel allowed</td>
  </tr>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions of Departure</b><br/><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions of Departure</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed.</td>
  </tr>
    <tr>
