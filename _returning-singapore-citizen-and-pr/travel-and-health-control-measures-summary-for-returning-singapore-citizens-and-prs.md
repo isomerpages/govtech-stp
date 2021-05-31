@@ -8,7 +8,6 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/entryguide">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
-<i>(Reflects latest travel policy announced on 27 May 2021)</i>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -23,6 +22,8 @@ Use this <a href="">online tool</a><!-- Link to Checkfirst --> for guidance on t
 <!--<div stlye="text-align: left;">
 <img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>-->
 <p style="font-size:16px;">For mobile users, please scroll right for more information.</p>
+
+<i>(Reflects latest travel policy announced on 27 May 2021)</i>
 <table>
 <thead>
 <tr>
@@ -96,10 +97,10 @@ Use this <a href="">online tool</a><!-- Link to Checkfirst --> for guidance on t
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, <u>and</u> take a COVID-19 PCR test on Day 14 of the SHN</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve an additional 7-day SHN in self-isolation at either a place of residence or self-sourced accommodation and fulfil the following conditions:
-<ol>
-<li>Remain at the place of residence or accommodation at all times during the SHN period; </li>
-<li>If sharing a place of residence with others, the traveller should stay in their room at all times and use a dedicated toilet, and avoid contact with other persons in the same place of residence who are not serving SHN;</li>
-<li>Take a COVID-19 PCR test at the end of the additional 7-day SHN.</li>
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Remain at the place of residence or accommodation at all times during the SHN period; </li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;>If sharing a place of residence with others, the traveller should stay in their room at all times and use a dedicated toilet, and avoid contact with other persons in the same place of residence who are not serving SHN;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a COVID-19 PCR test at the end of the additional 7-day SHN.</li>
 </ol>
 </li>
 </ol>
