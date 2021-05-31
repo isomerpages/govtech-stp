@@ -4,3 +4,4 @@ collections:
     order:
       - requirements-and-process.md
       - overview.md
+      - entry-guide.md
