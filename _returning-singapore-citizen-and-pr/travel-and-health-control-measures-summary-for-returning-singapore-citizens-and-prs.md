@@ -8,6 +8,8 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/entryguide">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
+<p style="font-size:16px; line-height:1.0:><i>Reflects latest travel policy announced on 27 May 2021)</i></p>
+
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -21,9 +23,8 @@ As a condition for entry into Singapore, all travellers <u>must</u> comply with 
 Use this <a href="">online tool</a><!-- Link to Checkfirst --> for guidance on the travel health control measures that would apply based on your 21-day travel history before arrival in Singapore. Alternatively, scroll down for the table of comprehensive travel health control measures. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.<br/>
 <!--<div stlye="text-align: left;">
 <img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>-->
-<p style="font-size:16px;">For mobile users, please scroll right for more information.</p>
 
-<i>(Reflects latest travel policy announced on 27 May 2021)</i>
+<span style="font-size:16px;">For mobile users, please scroll right for more information.</span>
 <table>
 <thead>
 <tr>
