@@ -53,17 +53,17 @@ All travellers taking a flight or ferry to Singapore, <u>must</u> present a <a h
 
 ### 3. Arrival in Singapore
 
-<i>A) <u>Immigration Clearance</u></i>
+A) <u>Immigration Clearance</u>
 
 All PRs who arrive in Singapore without a <a href="#PDT">valid negative PDT report</a> may be denied entry into Singapore and could have their Entry/Re-entry Permits cancelled.
 
 Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in their <a href="#SGAC">SGAC declaration</a>. Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, should note that the strictest set of measures will apply. Travellers who do not receive an SHN will be required to remain in self-isolation until a negative COVID-19 PCR test result is conveyed.
 
-<i>B) <u>COVID-19 Tests</u></i>
+B) <u>COVID-19 Tests</u>
 
 Travellers must take their on-arrival COVID-19 test(s), and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not pay for their test(s) before arrival, will pay on the spot.
 
-<i>C) <u>Transport to Self-Isolation/SHN</u></i>
+C) <u>Transport to Self-Isolation/SHN</u>
 
 Travellers are prohibited from using public transport (i.e. trains, buses, street-hailed taxis) to commute to their self-isolation/SHN accommodation or SDF. Depending on the traveller’s SHN arrangement, they have the following transport options, which will apply throughout the SHN period:
 
