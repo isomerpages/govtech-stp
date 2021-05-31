@@ -4,7 +4,7 @@ permalink: /sc-pr/requirements-and-process
 ---
 This entry guide is meant for Singapore Citizens (SC) and Singapore Permanent Residents (PR) who have decided to return to Singapore. Returning SC/PRs can return to Singapore <u>without</u> the need for any Entry Approvals.
 
-Before their return, returning SC/PRs should familiarise themselves with the indicative travel health controls measures which are imposed based on their 21-day travel history, which can be accessed <a href="/sc-pr/shn-andswab-summary">here</a>. These measures generally include any combination of the following (click on the links below for more information, including costs):
+Before their return, returning SC/PRs should familiarise themselves with the indicative travel health controls measures which are imposed based on their 21-day travel history, which can be accessed <a href="/sc-pr/shn-and-swab-summary">here</a>. These measures generally include any combination of the following (click on the links below for more information, including costs):
 
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN)</li>
