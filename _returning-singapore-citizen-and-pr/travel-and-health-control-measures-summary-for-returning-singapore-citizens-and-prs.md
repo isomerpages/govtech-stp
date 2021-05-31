@@ -37,10 +37,10 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <td style="font-size: 16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">1</td>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">
 <ul style="margin-top: 0px; list-style-type: disc;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Australia (excluding Victoria state)</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Brunei</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Mainland China</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">New Zealand</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding Victoria state)</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Brunei</b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China</b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
 </ul>
 </td>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -54,9 +54,9 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">2</td>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Australia (Victoria state)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Hong Kong (non-Air Travel Bubble arrivals)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Macao</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (Victoria state)</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong (non-Air Travel Bubble arrivals)</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"></b>Macao</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -76,8 +76,8 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">3</td>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; ">
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Fiji</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Taiwan</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Fiji</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -108,8 +108,8 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 </tr>
 <tr>
 <td rowspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">4</td>
-<td rowspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Malaysia</td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Singapore Citizens</b> entering via <u>land</u> only</td>
+<td rowspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Malaysia</b></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; vertical-align:middle;"><b>Singapore Citizens</b> entering via <u>land</u> only</td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore.</li> 
@@ -142,11 +142,11 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">5</td>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">India</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Nepal</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pakistan</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Sri Lanka</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Nepal</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Pakistan</b></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -170,7 +170,7 @@ Use this <a href="https://www.checkfirst.gov.sg/c/79505721-0c3a-4cde-a659-782d7f
 </tr>
 <tr>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED;">6</td>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED;">All other countries/regions</td>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED;"><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
