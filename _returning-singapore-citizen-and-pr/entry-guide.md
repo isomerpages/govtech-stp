@@ -1,4 +1,5 @@
 ---
 title: Entry Guide
-permalink: /returning-singapore-citizen-and-pr/permalink
+permalink: /sc-pr/entryguide
 ---
+
