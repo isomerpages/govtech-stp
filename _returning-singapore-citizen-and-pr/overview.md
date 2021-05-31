@@ -25,13 +25,13 @@ The table below is a quick overview of the key lane features and requirements. R
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions of Departure</b><br/><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; text-align: middle;">All countries/regions allowed.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">All countries/regions allowed.</td>
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>.<br/><br/> 
 
-<p style="font-size:16px; line-height: 1.5;">CLICK <a href="/files/SHN-and-swab-summary.pdf">HERE</a> to review the latest travel health measures, which depend on your past travel history to various countries/regions. Please note that all SC/PRs returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
+<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary.">CLICK HERE</a> to review the latest travel health measures, which depend on your past travel history to various countries/regions. Please note that all SC/PRs returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
 	
 <p style="font-size:16px; line-height:1.5;">For more information on the specific travel measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
