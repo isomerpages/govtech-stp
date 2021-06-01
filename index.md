@@ -11,13 +11,13 @@ sections:
         url:
         button: 
         key_highlights:
-            - title: Travelling to Singapore <span style="font-size:50px;"> &#187; </span>
+            - title: Travelling to Singapore <span style="font-size:20px;"> &#187; </span>
               description: 
               url: /arriving/overview
-            - title: Transiting through Singapore
-              description: Click here &#9756;
+            - title: Transiting through Singapore <span style="font-size:20px;"> &#187; </span>
+              description: 
               url: /transit/overview
-            - title: Departing from Singapore
+            - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
               description: Click here &#9756;
               url: /departing/overview
     - resources:
