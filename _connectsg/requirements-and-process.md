@@ -124,12 +124,11 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 <tbody>
  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
-			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; "> <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">Travellers can proceed with immigration clearance as per normal. </li>	
 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  At arrival immigration in Singapore, the visitor must present to the ICA officer their TraceTogether App holding screen (with profile registered on the App), or a TraceTogether Token. Those without a TraceTogether App may be directed to use a TraceTogether Token instead. For details and conditions regarding the use of the TraceTogether App or Token, please click <a href="/health/tt-for-travellers">here</a>. 
 </li>
+			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;"> 	Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.</li>
 			 </ol>	 
-	<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.</p>
 	 </td>
   </tr>
   <tr>
