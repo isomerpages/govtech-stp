@@ -12,7 +12,7 @@ sections:
         button: 
         key_highlights:
             - title: Travelling to Singapore
-              description: Click here to find out more -------
+              description: Click here to find out more &#8592;
               url: /arriving/overview
             - title: Transiting through Singapore
               description: Click here to find out more
