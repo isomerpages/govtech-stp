@@ -6,8 +6,8 @@ permalink: /
 notification:
 sections:
     - hero:
-        title: <h3>Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the COVID-19 pandemic.<h3>
-        subtitle:  <h3>Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.</h3>
+        title: <h2>Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the COVID-19 pandemic.</h2>
+        subtitle:  <h4>Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.</h4>
         background: /images/hero-banner-stp.svg
         url:
         button: 
