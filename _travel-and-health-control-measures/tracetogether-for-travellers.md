@@ -75,7 +75,7 @@ To facilitate contact tracing, travellers must keep the TraceTogether app activa
 
 To facilitate contact tracing, visitors are required to carry their own tokens with them wherever they go, and not exchange their tokens with others. Each token is uniquely tagged to the individual that registered for it.
 
-Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found here (include link to Q8 of TT FAQs).
+Just before departing Singapore, visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore. Details on where the tokens return booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674823-Do-Short-Term-Visitors-need-to-return-their-TraceTogether-TT-Tokens-before-leaving-Singapore-).
 
 The S$50 deposit will be refunded if:
 - the TraceTogether token the visitor is returning belongs to him/her; and
