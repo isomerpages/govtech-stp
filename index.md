@@ -25,9 +25,9 @@ sections:
         subtitle: Press Releases from Singapore Government Agencies
         button: View More
     - infopic:
-        title: Collaboration
-        subtitle: An Inter-Agency
-        description: The SafeTravel Portal is a collaboration between these agencies
+        title: An Inter-Agency Collaboration
+        subtitle: Credits
+        description: The SafeTravel Porta is a joint collaboration amongst these agencies
         button: Click here for ICA Website
         url: https://www.ica.gov.sg/
         alt: Inter Agencies Collaboration
