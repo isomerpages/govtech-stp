@@ -32,3 +32,7 @@ We seek the understanding and cooperation of work pass holders and their employe
 ---
 
 <a href="https://www.mom.gov.sg/-/media/mom/documents/press-releases/2021/annex---faqs-for-work-pass-holders-who-are-rescheduled.pdf">Annex - FAQs for work pass holders who are rescheduled</a>
+
+---
+
+<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0705-work-pass-holders-who-have-already-obtained-approval-to-enter-to-be-rescheduled">Click here for the actual Press Release</a>
