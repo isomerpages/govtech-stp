@@ -12,13 +12,13 @@ sections:
         button: 
         key_highlights:
             - title: Travelling to Singapore
-              description: Click here to find out more &#8592;
+              description: Click here &#9756;
               url: /arriving/overview
             - title: Transiting through Singapore
-              description: Click here to find out more
+              description: Click here &#9756;
               url: /transit/overview
             - title: Departing from Singapore
-              description: Click here to find out more
+              description: Click here &#9756;
               url: /departing/overview
     - resources:
         title: Latest Border Measures
