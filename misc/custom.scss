@@ -326,7 +326,7 @@ $desktop: 960px + (2 * $gap) !default;
   padding-bottom: 1.75rem;
 }
 	  
-.bg-hero {
+.bg-hero{
     background: url('{{site.baseurl}}/images/hero-banner-stp.svg') no-repeat center 80px; /*vector position*/
     background-color: #F8DDDE;
     max-height: 330px /* control height of banner */
