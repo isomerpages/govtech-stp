@@ -24,7 +24,7 @@ sections:
         title: News and Media
         subtitle: Be the first to know!
         button: View More
-     - infopic:
+    - infopic:
         title: Inter Agencies
         subtitle: In Collaboration With
         description: We strive to deliver work of the highest calibre
