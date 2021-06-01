@@ -25,7 +25,6 @@ sections:
         button: Learn More
         url: 
         image: /images/STO_Banner.gif
-        alt: Members of the Ministry of ABC in suits
     - resources:
         title: News and Media
         subtitle: Be the first to know!
