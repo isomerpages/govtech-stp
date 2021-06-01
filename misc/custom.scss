@@ -331,15 +331,11 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: #F8DDDE;
     max-height: 330px; /* control height of banner */
   } 
-.bp-hero h3 {
-    margin-bottom:50px;
+ .bp-hero h3 {
     font-size: 15px;
     letter-spacing: 0;
     line-height: 1.4em;
     color: #333;
-    width:600px; 
-    margin-bottom:180px; 
-    text-align:center;
   }
   
 .bp-hero-body {
