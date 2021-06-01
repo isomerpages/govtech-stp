@@ -21,8 +21,8 @@ sections:
               description: Click here to find out more
               url: /departing/overview
     - resources:
-        title: News and Media
-        subtitle: Be the first to know!
+        title: Latest Border Measures
+        subtitle: Press Releases from Singapore Government Agencies
         button: View More
     - infopic:
         title: Collaboration
