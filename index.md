@@ -18,7 +18,7 @@ sections:
               description: 
               url: /transit/overview
             - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
-              description: Click here &#9756;
+              description: 
               url: /departing/overview
     - resources:
         title: Latest Border Measures
