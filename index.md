@@ -26,6 +26,7 @@ sections:
         button: View More
     - infopic:
         title: An Inter-Agency Collaboration
+        subtitle:  
         description: The SafeTravel portal is brought to you by the <a href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a> and these agencies <span>:</span>
         alt: Inter Agencies Collaboration
         image: /images/STO_Banner.gif
