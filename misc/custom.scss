@@ -326,14 +326,22 @@ $desktop: 960px + (2 * $gap) !default;
   padding-bottom: 1.75rem;
 }
 	  
- .bp-hero-body {
-	background: unset;
-}
- .bp-hero, .bg-hero{
-	 background: url('{{site.baseurl}}/images/hero-banner-stp.svg') no-repeat center 80px;
-	 background-color: #F8DDDE;
-	 max-height: 330px
-	  }
+ .bg-hero {
+    background: url('{{site.baseurl}}/images/hero-banner-stp.svg') no-repeat center 80px; /*vector position*/
+    background-color: #F8DDDE;
+    max-height: 330px /* control height of banner */
+  } 
+.bp-hero{
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: 1.4em;
+    color: #333;
+  }
+  
+  .bp-hero-body {
+    background: none;
+  }  
+	  
 
 .is-centered {
   margin: auto;
