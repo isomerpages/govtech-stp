@@ -107,11 +107,7 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
-     </ol>
-                <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore.</p>
-			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.</p>
+     Travellers are required to download and register their profile on the TraceTogether App to aid contract tracing. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. 
     </td>
  </tr>	
 </tbody>
@@ -128,13 +124,11 @@ Once the application is approved, the applicant will be issued with SafeTravel P
 <tbody>
  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
-			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
-				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:1px solid #D8D8D8;">		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; "> <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">Travellers can proceed with immigration clearance as per normal. </li>	
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  At arrival immigration in Singapore, the visitor must present to the ICA officer their TraceTogether App holding screen (with profile registered on the App), or a TraceTogether Token. Those without a TraceTogether App may be directed to use a TraceTogether Token instead. For details and conditions regarding the use of the TraceTogether App or Token, please click <a href="/health/tt-for-travellers">here</a>. 
 </li>
+			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;"> 	Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.</li>
 			 </ol>	 
-   <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">*Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
-	<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to take an on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a>.</p>
 	 </td>
   </tr>
   <tr>
@@ -175,10 +169,23 @@ Travellers will be able to conduct meetings with Singapore residents and with ot
 </td>
 </tr>
 	<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether app</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore. 
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Use of TraceTogether in Singapore </b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices or bring their TraceTogether token along with them at all times while in Singapore.
     </td>
   </tr>
-	
+</tbody>
+</table>
+
+### 6. After stay in Singapore
+
+<table>
+	<tbody>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;background-color:#EDEDED"><b>Retention of TraceTogether App Data or Return of TraceTogether Tokens </b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 days after leaving Singapore.
+			<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5"><b>For TraceTogether Token users</b>, visitors must return their own their TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints prior to their departure from Singapore. </p>
+						<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a></p>
+    </td>
+  </tr>
 </tbody>
 </table>
