@@ -11,7 +11,7 @@ sections:
         url:
         button: 
         key_highlights:
-            - title: Travelling to Singapore <span style="font-size:15px;"> &#187; </span>
+            - title: Travelling to Singapore <span style="font-size:50px;"> &#187; </span>
               description: 
               url: /arriving/overview
             - title: Transiting through Singapore
