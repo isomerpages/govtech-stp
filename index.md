@@ -27,7 +27,7 @@ sections:
     - infopic:
         title: An Inter-Agency Collaboration
         subtitle: Credits
-        description: The SafeTravel Porta is a joint collaboration amongst these agencies
+        description: The SafeTravel Portal is a joint collaboration amongst these agencies
         button: Click here for ICA Website
         url: https://www.ica.gov.sg/
         alt: Inter Agencies Collaboration
