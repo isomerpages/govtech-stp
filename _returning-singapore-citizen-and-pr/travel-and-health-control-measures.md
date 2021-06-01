@@ -22,7 +22,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 <!--<div stlye="text-align: left;">
 <img style="width:70px; height:50px; " src="/images/scroll_right.png" alt="Scroll to the right for details" ></div>-->
 
-<p style="font-size:16px;">For mobile users, please scroll right for more information.</p>
+
 <table>
 <thead>
 <tr>
