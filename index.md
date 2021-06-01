@@ -19,8 +19,8 @@ sections:
             - title: Departing from Singapore
               url: /departing/overview
     - infopic:
-        title: Professionalism
-        subtitle: Core Values
+        title: Inter Agencies
+        subtitle: In Collaboration With
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /core-values/
