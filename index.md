@@ -7,7 +7,7 @@ notification:
 sections:
     - hero:
         title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial; letter-spacing:0; line-height:1.4em; color:#333;">Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the <br/> COVID-19 pandemic. <br/><br/> Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.</h3>
-        background: /images/homepage4.png
+        background: /images/homepage3.png
         url:
         button: 
         key_highlights:
