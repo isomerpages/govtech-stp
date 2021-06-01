@@ -23,11 +23,11 @@ sections:
         subtitle: In Collaboration With
         description: We strive to deliver work of the highest calibre
         button: Learn More
-        url: /core-values/
+        url: 
         image: /images/professionalism.png
         alt: Members of the Ministry of ABC in suits
     - resources:
         title: News and Media
-        subtitle: Learn more
+        subtitle: Be the first to know!
         button: View More
 ---
