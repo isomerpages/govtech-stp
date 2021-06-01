@@ -180,6 +180,7 @@ Travellers will be able to conduct meetings with Singapore residents and with ot
 ### 6. After stay in Singapore
 
 <table>
+	<tbody>
 	<tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;background-color:#EDEDED"><b>Retention of TraceTogether App Data or Return of TraceTogether Tokens </b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 days after leaving Singapore.
