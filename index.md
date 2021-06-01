@@ -20,7 +20,11 @@ sections:
             - title: Departing from Singapore
               description: Click here to find out more
               url: /departing/overview
-    - infopic:
+    - resources:
+        title: News and Media
+        subtitle: Be the first to know!
+        button: View More
+     - infopic:
         title: Inter Agencies
         subtitle: In Collaboration With
         description: We strive to deliver work of the highest calibre
@@ -28,8 +32,4 @@ sections:
         url: /news-and-media/
         alt: Inter Agencies Collaboration
         image: /images/STO_Banner.gif
-    - resources:
-        title: News and Media
-        subtitle: Be the first to know!
-        button: View More
 ---
