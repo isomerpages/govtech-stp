@@ -174,6 +174,8 @@ Travellers will be able to conduct meetings with Singapore residents and with ot
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices or bring their TraceTogether token along with them at all times while in Singapore.
     </td>
   </tr>
-	
 </tbody>
 </table>
+
+### 6. After stay in Singapore
+
