@@ -3,7 +3,6 @@ title: FAQ - Returning RGL Travellers
 permalink: /rgl/returnees/faq
 third_nav_title: RGL Travellers Returning to Singapore
 ---
-
 <div id="faq-top"></div>
 
 ### FAQ for Singapore Residents (Singapore Citizens, Permanent Residents, and Long-Term Pass Holders) who have visited an RGL-eligible country/region via RGL and are returning to Singapore, i.e. Returning RGL travellers.
@@ -53,9 +52,11 @@ third_nav_title: RGL Travellers Returning to Singapore
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Brunei Darussalam under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
+Upon arrival in Singapore, all Singapore-based travellers returning from their travel on the Singapore-Germany RGL, will be:
+- Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
+- Served a 21day SHN which they will serve at the SHN-Dedicated Facility with COVID-19 PCR test on Day 14 of SHN, and another test at the end of 21-day SHN period.
 
-Travellers are reminded to submit their health declarations via ICA’s [SG Arrival Card e-Service](https://eservices.ica.gov.sg/sgarrivalcard/) up to three days before their scheduled arrival in Singapore. Travellers can disregard the electronic SHN sent upon the submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.
+Travellers will pay for the cost of the 21-day SHN and the COVID-19 PCR tests. Click here for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei?
 
@@ -206,8 +207,3 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 <p style="text-align: right;"><a href="#faq-top">Back to Top ↑</a></p>
 
 -----
-
-
-
-
-  
