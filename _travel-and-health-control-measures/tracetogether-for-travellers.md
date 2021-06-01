@@ -63,7 +63,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
   </tbody>
   </table>
 	
-Details on where the tokens collection booths/counters can be found here (include link to Q2 of TT FAQs).
+Details on where the tokens collection booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443-Where-can-Short-Term-Visitors-collect-their-TraceTogether-TT-Tokens-from-the-checkpoints-) .
 
 ### 2.	Using TraceTogether
 
@@ -86,4 +86,4 @@ The returned TraceTogether tokens will be securely stored for 21 days from the d
 
 #### 3.	Frequently Asked Questions
 
-For the full list of FAQs on the TraceTogether App/Token, please click [here](https://support.tracetogether.gov.sg/hc/en-sg).
+For the full list of FAQs on the TraceTogether App/Token, please click [here](https://support.tracetogether.gov.sg/hc/en-sg/sections/360010660294-For-people-visiting-Singapore).
