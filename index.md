@@ -27,7 +27,7 @@ sections:
     - infopic:
         title: An Inter-Agency Collaboration
         subtitle: Credits
-        description: Brought to you by the following agencies and the <a href="https://www.ica.gov.sg/"> Immigration and Checkpoints Authority</a><span>:</span>
+        description: Brought to you by the <a href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a> and these agencies <span>:</span>
         alt: Inter Agencies Collaboration
         image: /images/STO_Banner.gif
 ---
