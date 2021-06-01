@@ -325,6 +325,10 @@ $desktop: 960px + (2 * $gap) !default;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
 }
+	  
+ .bp-hero-body {
+	background: unset;
+}
 
 .is-centered {
   margin: auto;
