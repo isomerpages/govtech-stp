@@ -28,7 +28,7 @@ sections:
         title: Collaboration
         subtitle: An Inter-Agency
         description: The SafeTravel Portal is a collaboration between these agencies
-        button: Click here to ICA Website
+        button: Click here for ICA Website
         url: https://www.ica.gov.sg/
         alt: Inter Agencies Collaboration
         image: /images/STO_Banner.gif
