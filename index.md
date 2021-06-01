@@ -24,6 +24,7 @@ sections:
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: /news-and-media/
+        alt: Inter Agencies Collaboration
         image: /images/STO_Banner.gif
     - resources:
         title: News and Media
