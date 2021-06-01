@@ -334,7 +334,11 @@ $desktop: 960px + (2 * $gap) !default;
     background: none;
  }  
 
-.bp-section bg-newssection{
+.bp-section{
+	background-color: #FFFFFF;
+}
+	  
+.bg-newssection{
 	background-color: #FFFFFF;
 }
 	  
