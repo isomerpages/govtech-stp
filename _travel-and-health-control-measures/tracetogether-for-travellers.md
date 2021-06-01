@@ -29,7 +29,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
   </thead>
   <tbody>
 		<tr>
-		  <td colspan="2"style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Eligible groups for tokens</b> (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded)</td></tr>
+		  <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Eligible groups for tokens</b> (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded)</td></tr>
     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
