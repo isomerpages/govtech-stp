@@ -27,7 +27,7 @@ sections:
     - infopic:
         title: An Inter-Agency Collaboration
         subtitle: Credits
-        description: The SafeTravel Portal is a joint collaboration amongst these agencies
+        description: The SafeTravel website is a Joint collaboration between <a href="https://www.ica.gov.sg/">Immigration & Checkpoints Authority</a> and these agencies.
         button: Click here for ICA Website
         url: https://www.ica.gov.sg/
         alt: Inter Agencies Collaboration
