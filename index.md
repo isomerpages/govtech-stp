@@ -24,7 +24,7 @@ sections:
         description: We strive to deliver work of the highest calibre
         button: Learn More
         url: 
-        image: /images/professionalism.png
+        image: /images/STO_Banner.gif
         alt: Members of the Ministry of ABC in suits
     - resources:
         title: News and Media
