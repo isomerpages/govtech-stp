@@ -331,7 +331,8 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: #F8DDDE;
     max-height: 330px /* control height of banner */
   } 
-.bp-hero{
+.bp-hero h3 {
+    background-color: #F8DDDE;
     font-size: 25px;
     letter-spacing: 0;
     line-height: 1.4em;
