@@ -13,10 +13,13 @@ sections:
         button: 
         key_highlights:
             - title: Travelling to Singapore
+              description: Click here to find out more
               url: /arriving/overview
             - title: Transiting through Singapore
+              description: Click here to find out more
               url: /transit/overview
             - title: Departing from Singapore
+              description: Click here to find out more
               url: /departing/overview
     - infopic:
         title: Inter Agencies
