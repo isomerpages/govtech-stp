@@ -23,15 +23,15 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 <table>
   <thead>
     <tr>
-			      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ></th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ><b>Airports (Changi Airport and Seletar Airport)</b></th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Land and Sea Checkpoints (Woodlands Checkpoint, Tuas Checkpoint and Tanah Merah Ferry Terminal)</b></th>
     </tr>
   </thead>
   <tbody>
+		<tr>
+		  <td colspan="2"style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Eligible groups for tokens</b> (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded)</td></tr>
     <tr>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Eligible groups for tokens</b> (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded)</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
 								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need</li>
@@ -42,9 +42,10 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 					<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">	those unable to use a mobile device due to a certified disability or special need</li>
 				</ol></td>
     </tr>
+		  <tr>
+         <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Payment modes (for payment of S$50 deposit)</b> </td></tr>
 		    <tr>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Payment modes (for payment of S$50 deposit)</b> </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Credit card</li>
 								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Cash payment in Singapore or foreign currency</li>
@@ -54,9 +55,10 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Cash payment in Singapore or foreign currency</li>
 				</ol></td>
     </tr>
+		   <tr>
+         <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Payment and collection location</b> </td></tr>
 				    <tr>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><b>Payment and collection location</b> </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport on arrival in Singapore.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport on arrival in Singapore.
 			</td>
 			<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">TraceTogether Counters at the Land and Sea Checkpoints.</td>
     </tr>
