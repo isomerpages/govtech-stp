@@ -1,5 +1,4 @@
 collections:
   atp-new-zealand:
     output: false
-    order:
-      - frequently-asked-questions.md
+    order: []
