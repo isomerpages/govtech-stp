@@ -28,5 +28,5 @@ links:
     url: /FAQ
   - title: Contact Us
     url: /contact-us
-  - title: News and Media
-    resource_room: true
+  - title: Press Releases
+    url: /news-and-media
