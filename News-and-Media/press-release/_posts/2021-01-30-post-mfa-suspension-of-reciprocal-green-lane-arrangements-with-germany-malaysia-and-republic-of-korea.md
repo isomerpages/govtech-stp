@@ -1,10 +1,11 @@
 ---
-title: MFA - Suspension of Reciprocal Green Lane Arrangements with Germany,
-  Malaysia and Republic of Korea
+title: MFA - SUSPENSION OF RECIPROCAL GREEN LANE ARRANGEMENTS WITH GERMANY,
+  MALAYSIA AND REPUBLIC OF KOREA
 date: 2021-01-30
 permalink: /press-releases/rgl-germany-mys-rok-suspension
 layout: post
 ---
+
 
 <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Click here for the actual Press Release</a>
 
