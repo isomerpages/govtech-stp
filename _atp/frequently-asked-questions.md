@@ -30,7 +30,7 @@ An ATP allows visitors  travelling from one of the following countries/regions t
 - Mainland China
 - New Zealand
 
-The ATP comes with conditions of travel that the applicant must comply with.
+The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
 
 #### 2. How can visitors apply for an ATP?
 

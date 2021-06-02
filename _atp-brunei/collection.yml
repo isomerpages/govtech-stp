@@ -1,5 +1,4 @@
 collections:
   atp-brunei:
     output: false
-    order:
-      - frequently-asked-questions.md
+    order: []
