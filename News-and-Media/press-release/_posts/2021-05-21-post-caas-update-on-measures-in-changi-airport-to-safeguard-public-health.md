@@ -1,9 +1,10 @@
 ---
-title: CAAS - Update on Measures in Changi Airport to Safeguard Public Health
+title: CAAS - UPDATE ON MEASURES IN CHANGI AIRPORT TO SAFEGUARD PUBLIC HEALTH
 date: 2021-05-21
 permalink: /press-releases/changi-airport-update-measures
 layout: post
 ---
+
 *Additional measures put in place at the airport to protect workers and the community; Nearly 19,000 workers tested, 10 tested positive for COVID-19;
 Changi Airport Passenger Terminal Buildings and Jewel to remain closed to public*
 
