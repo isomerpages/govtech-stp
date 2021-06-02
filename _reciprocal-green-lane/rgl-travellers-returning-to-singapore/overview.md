@@ -3,8 +3,6 @@ title: Overview
 permalink: /rgl/returning
 third_nav_title: RGL Travellers Returning to Singapore
 ---
-
-
 ### Eligibility
 
 Singapore residents who have travelled to an RGL counterpart country (click [here](/rgl/overview) for the list) can return to Singapore under the same scheme (henceforth “Returning RGL travellers”). This means that Singapore Citizens, Singapore Permanent Residents or Long-Term Pass Holders who had left Singapore to visit an RGL counterpart country/region under the RGL, <u>can return to Singapore without needing to apply for any approval letter of entry</u> issued by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or Ministry of Education (MOE).
@@ -15,8 +13,6 @@ Returning RGL travellers will be subjected to the health measures described in t
 
 ### 1. Pre-departure to Singapore
 
-Prior to leaving the RGL counterpart country, returning RGL travellers do not need to take a pre-departure PCR test.
-
 <table>
 <thead>
   <tr>
@@ -26,6 +22,10 @@ Prior to leaving the RGL counterpart country, returning RGL travellers do not ne
   </tr>
 </thead>
 <tbody>
+	 <tr>
+    <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
+		     <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Prior to leaving RGL counterpart country, returning RGL Travellers from <b>Brunei Darussalam and Mainland China</b> do not need to take a pre-departure PCR test.<br/><br/> Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia and Republic of Korea </b>must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designed by the Government of a counterpart country/region, and obtain a certificate with negative COVID-19 test.</td>
+	</tr>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">All returning RGL travellers should:

@@ -1,9 +1,13 @@
 ---
-title: Temporary Ban on the Entry of All Foreign Nationals into Indonesia
+title: MFA - TEMPORARY BAN ON THE ENTRY OF ALL FOREIGN NATIONALS INTO INDONESIA
 date: 2021-01-01
 permalink: /press-releases/rgl-indon-suspension
 layout: post
 ---
+
+
+
+
 <a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Click here for the actual Press Release</a>
 
 In response to media queries, the MFA Spokesperson said:

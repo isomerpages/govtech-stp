@@ -325,6 +325,23 @@ $desktop: 960px + (2 * $gap) !default;
   padding-top: 1.75rem;
   padding-bottom: 1.75rem;
 }
+.bg-hero {
+	background-color: #F8DDDE;
+	
+}
+	  
+.bp-hero-body {
+    background: none;
+ }  
+
+.bp-section{
+	background-color: #FFFFFF;
+}
+	  
+.bg-newssection{
+	background-color: #FFFFFF;
+}
+	  
 
 .is-centered {
   margin: auto;

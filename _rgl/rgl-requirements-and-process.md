@@ -176,11 +176,9 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
     </td>
   </tr>
 	<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
+     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
-     </ol>
+     Travellers are required to download and register their profile on the TraceTogether App to aid contract tracing. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. 
     </td>
  </tr>	
   </tbody>
@@ -218,12 +216,11 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
-The local host* must ensure that the approved RGL traveller downloads and uses the TraceTogether app or device throughout their stay in Singapore. 
+To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices or bring their TraceTogether token along with them at all times while in Singapore.
     </td>
  </tr>
   </tbody>
 </table>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><i>* The local Host refers to the company or government agency receiving the traveller in the destination country/region. Company-sponsors can serve concurrently as the host and sponsor.</i></p>
 
 ### 5. Post-Arrival
 

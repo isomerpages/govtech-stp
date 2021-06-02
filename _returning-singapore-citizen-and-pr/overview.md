@@ -6,7 +6,6 @@ Overseas-based Singapore Citizens (SC) / Permanent Residents (PR) can return to 
 
 The table below is a quick overview of the key lane features and requirements. Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="https://safetravel.ica.gov.sg/arriving/overview">this page</a> for the available Safe Travel options.
 
-<p style="font-size:16px;">For mobile users, please scroll right for more information.</p>
 <table>
 <thead>
 <tr>
