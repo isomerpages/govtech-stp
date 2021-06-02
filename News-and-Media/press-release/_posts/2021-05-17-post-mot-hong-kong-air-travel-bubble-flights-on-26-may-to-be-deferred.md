@@ -1,9 +1,10 @@
 ---
-title: MOT - Hong Kong Air Travel Bubble Flights on 26 May To Be Deferred
+title: " MOT - HONG KONG AIR TRAVEL BUBBLE FLIGHTS ON 26 MAY TO BE DEFERRED"
 date: 2021-05-17
 permalink: /press-releases/atb-deferred
 layout: post
 ---
+
 Singapore Minister for Transport, S Iswaran, had a meeting this morning with Secretary for Commerce and Economic Development of the Hong Kong Special Administrative Region Government, Edward Yau, on the Singapore – Hong Kong Air Travel Bubble (ATB). Given the evolving COVID-19 situation in Singapore, Mr Iswaran and Mr Yau agreed that the ATB flights originally planned for 26 May will be deferred.
  
 Both sides remain strongly committed to launching the ATB safely. However, in light of the recent increase in unlinked community cases, Singapore is unable to meet the criteria to start the Singapore-Hong Kong ATB. Both sides therefore agreed to defer the launch of the ATB to protect the health of travellers and the public in these two places.
