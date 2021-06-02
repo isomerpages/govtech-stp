@@ -1,9 +1,10 @@
 ---
-title: MFA - Suspension of the Singapore-Japan Reciprocal Green Lane
+title: MFA - SUSPENSION OF THE SINGAPORE-JAPAN RECIPROCAL GREEN LANE
 date: 2021-01-15
 permalink: /press-releases/rgl-japan-suspension
 layout: post
 ---
+
 
 
 
