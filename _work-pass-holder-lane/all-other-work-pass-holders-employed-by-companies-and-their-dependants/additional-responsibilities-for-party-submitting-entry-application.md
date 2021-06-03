@@ -52,7 +52,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 			        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province) [For arrivals from 5 June 2021, 23:59 hours]</b></li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(Victoria state)</b> </b></li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(Victoria state)</b></li>
     </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
