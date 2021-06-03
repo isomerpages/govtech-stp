@@ -51,7 +51,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 </td> 
 	</tr>
 	<tr>
-<td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">4</td>
+<td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">1a</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Mainland China (Guangdong)</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Arrivals before 5 June 2021, 2359 hours</b>
 	<ol style="margin-top: 0px; list-style-type: decimal;">
