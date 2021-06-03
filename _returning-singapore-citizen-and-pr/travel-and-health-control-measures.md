@@ -70,7 +70,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel</li>
 				</ol>
 			</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on Day 7 of SHN </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN </li>
 </ol>
 	</td>
 </tr>
