@@ -23,10 +23,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia, <b>(excluding Victoria state)</b></li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
     <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province) [For arrivals before 5 June 2021, 23:59 hours]</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)
       </li>-->
@@ -34,7 +35,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 <!--<i>*The assessment of border measures based on FDWs’/CNs’ travel history in the last 21 consecutive days before entering Singapore does not apply to ATB flights.</i>-->
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated in one of the following until they get a negative test result:
       <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel Room</li>
@@ -50,7 +51,8 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <ol style="margin-top:0px; list-style-type:disc;">
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
-			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Victoria state (Australia) (for arrivals <b>from 29 May 2021, 23:59 hours)</b></li>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province) [For arrivals from 5 June 2021, 23:59 hours]</b></li>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) </b></li>
 </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
@@ -89,18 +91,14 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 21-day SHN:<ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">First 14 days of SHN to be served in SHN dedicated facilities (SDFs).</li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Last 7 days of SHN to be served in their employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>) or hotels.</li>
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
-      </ol><b>Note:</b><br/><br/> <b>FDWs and CNs with travel history to Vietnam who:</b>
-      <ul style="margin-top:0px; list-style-type:disc;">
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Did not complete their 14-day SHN at SDFs <b>by 15 May 2021, 23:59 hours</b>, must serve the remainder of their 21-day SHN in SDFs. Employers and employment agents of such FDWs and CNs will be contacted on the additional charges for the SDF stay.</li>   
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Are currently serving SHN in their employers’ houses or hotels, must complete the remainder of their 21-day SHN at their current SHN accommodation.  </li>
-      </ul>
+      </ol>
     </td>
     <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
