@@ -27,7 +27,7 @@ permalink: /atp/faq
 An ATP allows visitors  travelling from one of the following countries/regions to seek entry into Singapore:
 - Australia (excluding Victoria State)
 - Brunei Darussalam
-- Mainland China
+- Mainland China (excluding Guangdong Province)
 - New Zealand
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
