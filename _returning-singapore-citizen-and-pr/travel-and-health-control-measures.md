@@ -64,7 +64,9 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>Arrivals from 5 June 2021, 2359 hours</b>
 		<ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">No pre-departure test required</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test on arrival*, with self-isolation at self-sourced accommodation or own place of residence, until test results are released to traveller</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test on arrival* </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">7-day SHN at self-sourced accommodation, including place of residence, and COVID-19 PCR test at the end of
+SHN period</li>
 </ol>
 	</td>
 </tr>
