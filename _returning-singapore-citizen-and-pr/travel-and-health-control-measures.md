@@ -38,7 +38,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 <ul style="margin-top: 0px; list-style-type: disc;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding Victoria state)</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Brunei</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China  (excluding Guangdong province)</b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China  <!--(excluding Guangdong province)--></b></li>
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (Guangdong province) [for arrivals <u>before</u> 5 June, 2359hrs]</b></li>-->
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
 </ul>
@@ -52,8 +52,8 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 	</tr>
 	<tr>
 <td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">1a</td>
-<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Mainland China (Guangdong)</b></td>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Arrivals before 5 June 2021, 2359 hours</b>
+<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Mainland China (Guangdong Province only)</b></td>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Travellers entering Singapore before 5 June, 2359h, will: </b>
 	<ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">No pre-departure test required</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test on arrival*, with self-isolation at self-sourced accommodation or own place of residence, until test results are released to traveller</li>
@@ -61,7 +61,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 	</td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>Arrivals from 5 June 2021, 2359 hours</b>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>Travellers entering Singapore after 5 June, 2359h, will: </b>
 		<ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">No pre-departure test required</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test on arrival* </li>
