@@ -1,0 +1,4 @@
+collections:
+  atp-china:
+    output: true
+    order: []
