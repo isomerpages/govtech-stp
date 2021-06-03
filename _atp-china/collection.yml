@@ -2,4 +2,4 @@ collections:
   atp-china:
     output: true
     order:
-      - atp-notice.md
+      - notice.md
