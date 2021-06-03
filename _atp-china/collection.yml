@@ -1,4 +1,5 @@
 collections:
   atp-china:
     output: true
-    order: []
+    order:
+      - atp-notice.md
