@@ -55,7 +55,7 @@ Singapore has arranged additional Safe Travel Lanes with the following countries
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
  </tr>
  <tr>
-  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Australia (excluding Victoria State)</td>
+  <td style="border-left:1px solid #bdbdbd;border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">Australia </td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br/><br/> Air Travel Pass for Victoria State, Australia suspended. <br/> Click <a href="/australia/atp/notice">here</a> for more details. </td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br/><br/> Air Travel Pass for Victoria State, Australia suspended. <br/> Click <a href="/australia/atp/notice">here</a> for more details. </td>
   <td style="border-right:1px solid #bdbdbd;border-top:1px solid #bdbdbd;">&nbsp;</td>
