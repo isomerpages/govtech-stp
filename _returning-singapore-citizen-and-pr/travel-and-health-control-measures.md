@@ -148,7 +148,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test </a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
@@ -182,7 +182,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 </li>
 </ol>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test and Antigen Rapid Test</a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 21-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
 </ol>
 </td>     
