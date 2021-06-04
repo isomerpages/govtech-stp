@@ -8,7 +8,7 @@ Given the increase in the number of COVID-19 cases in Guangdong province, Mainla
 
 ### Short-term Visitors
 
-**Short-term visitors with travel history to Guangdong province, Mainland China, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **5 June 2021, 2359hrs (Singapore time)**. Please refer to the press release <a href="">here</a> issued by the Singapore Ministry of Health (MOH) dated 3 June 2021.
+**Short-term visitors with travel history to Guangdong province, Mainland China, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **5 June 2021, 2359hrs (Singapore time)**. Please refer to the press release <a href="https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-guangdong-province-mainland-china">here</a> issued by the Singapore Ministry of Health (MOH) dated 3 June 2021.
 	
 With immediate effect, applications for the ATP for short-term visitors travelling from Guangdong province, Mainland China will be suspended until further notice.
 
