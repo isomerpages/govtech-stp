@@ -1,0 +1,5 @@
+collections:
+  atp-china:
+    output: true
+    order:
+      - notice.md

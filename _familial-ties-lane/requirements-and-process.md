@@ -3,8 +3,8 @@ title: Requirements and Process
 permalink: /scpr-familial-ties-lane/requirements-and-process
 ---
 <b><span style="color:red">[NOTICE]</span></b>
-<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders and visitors with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia*, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
-<p style="font-size:16px; line-height:1.5; color:red;">* From <b>29 May 2021</b>, 2359 hours, travellers who have travel history to Victoria within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders and visitors with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>From 5 June 2021, 2359 hours, travellers who have travel history to Guangdong province in Mainland China within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</b></p>
 
 ### Overview
 
@@ -151,12 +151,14 @@ The border health requirements may be subject to change, and the prevailing bord
       </td>          
    </tr>
     <tr>
-    <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Approved Travellers should monitor their health and avoid travelling if feeling <a href="/health/covid19-symptoms">unwell</a>. If travellers are fit for travel, they should:
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Pre-trip Health/Travel History Declarations and Installation of Mandatory Mobile Applications</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Travellers should monitor their health and avoid travelling if feeling unwell. If travellers are fit for travel, they should:
      <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service  <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a> within 72 hours before departure to Singapore.;
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Electronically submit their pre-trip health and travel history declarations via the SG Arrival Card (SGAC) e-service <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a>;
        </li>
-       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Approved travellers who have spent the last 21 consecutive days in Australia <b><span style="color:red">(excluding Victoria, from 29 May 2021, 2359 hours)</span></b>, Brunei, Mainland China, New Zealand and/or Taiwan before departing for Singapore are encouraged to pre-register and pre-pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/">here</a>. For arrivals via Woodlands and Tuas Checkpoints or Tanah Merah Ferry Terminal, travellers should register and pre-pay their on-arrival COVID-19 PCR tests <a href="https://t.2c2p.com/express/">here</a>.
+       <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://t.2c2p.com/express/parkwayshenton">here</a> if they are arriving at Tanah Merah Ferry Terminal or the Woodlands and Tuas Checkpoints; and
+       </li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.whatsapp.com/download">WhatsApp</a> , <a href="https://www.homer.gov.sg/">Homer</a>(for Student Pass Holders only), and <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare </a>(for Work Pass Holders only) mobile applications on their mobile phones.
        </li>
       </ol>
     </td>
