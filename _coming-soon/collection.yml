@@ -1,0 +1,4 @@
+collections:
+  coming-soon:
+    output: true
+    order: []
