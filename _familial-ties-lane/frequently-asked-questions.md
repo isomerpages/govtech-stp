@@ -2,7 +2,6 @@
 title: Frequently Asked Questions
 permalink: /scpr-familial-ties-lane/FAQ
 ---
-
 <div id="top"></div>
 
  1. [Application via the SafeTravel Portal](#portal)
@@ -73,7 +72,7 @@ Visitors who require a longer period of stay beyond the Visit Pass granted on en
 
 #### 10. Is travel insurance covering COVID-19 mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane? 
 
-Travvel insurance covering COVID-19 is not mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane. For more details, please click [here](https://safetravel.ica.gov.sg/health/travelinsurance).
+Travel insurance covering COVID-19 is not mandatory for travellers entering Singapore under the Singapore Citizen/Permanent Resident Familial Ties Lane. For more details, please click [here](https://safetravel.ica.gov.sg/health/travelinsurance).
 
 
 #### 11. I have received a COVID-19 vaccination. Will I still be subjected to prevailing border measures and stay-home-notice requirement? 
@@ -83,4 +82,3 @@ Please refer to the FAQ on vaccinated travellers [here](https://safetravel.ica.g
 #### 12. I was recently diagnosed with COVID-19 but am scheduled to travel to Singapore. Can i still visit Singapore? 
 
 Please refer to the FAQ on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtestQ5). Individuals would be advised acccordingly on the need to fulfil the SHN requirements.
-
