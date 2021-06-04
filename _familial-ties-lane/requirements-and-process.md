@@ -158,7 +158,7 @@ The border health requirements may be subject to change, and the prevailing bord
        </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR tests <a href="https://safetravel.changiairport.com/">here</a> if they arriving at Changi Airport, or <a href="https://t.2c2p.com/express/parkwayshenton">here</a> if they are arriving at Tanah Merah Ferry Terminal or the Woodlands and Tuas Checkpoints; and
        </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones.
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install and activate the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.whatsapp.com/download">WhatsApp</a> , <a href="https://www.homer.gov.sg/">Homer</a>(for Student Pass Holders only), and <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare </a>(for Work Pass Holders only) mobile applications on their mobile phones.
        </li>
       </ol>
     </td>
