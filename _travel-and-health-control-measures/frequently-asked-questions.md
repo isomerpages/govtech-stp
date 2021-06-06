@@ -63,7 +63,7 @@ In the event of an emergency, travellers may contact the SafeTravel Enquiries he
 
 #### 7. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
 
-Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to book an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgradefaq) for more information.
+Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to book an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgrade) for more information.
 
 #### 8. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
 

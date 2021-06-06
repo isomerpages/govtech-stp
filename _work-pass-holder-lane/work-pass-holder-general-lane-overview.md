@@ -77,6 +77,6 @@ Given the ongoing pandemic, **all pass holders** must obtain the relevant Entry 
 </tbody>
 </table>
 
-As the global situation evolves, Singapore will continue to adjust its border measures to manage the risk of importation and transmission to the community. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the  [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests), where applicable.
+As the global situation evolves, Singapore will continue to adjust its border measures to manage the risk of importation and transmission to the community. Companies and pass holders must comply with the prevailing entry approval requirements, including paying for their stay at the  [Stay-Home Notice Dedicated Facility (SDF)](/health/shn/sdf) and [COVID-19 tests](/health/covid19-tests/pcrtest), where applicable.
 
 For the latest updates, please visit our website and [MOH’s website](https://www.moh.gov.sg/) regularly.
