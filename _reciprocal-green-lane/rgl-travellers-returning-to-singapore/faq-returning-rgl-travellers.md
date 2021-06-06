@@ -71,7 +71,9 @@ Travellers will pay for the cost of the 21-day SHN and the COVID-19 PCR tests. C
 
 #### 2. Do I have to take a COVID-19 test before I return to Singapore?
 
-Returning RGL travellers from Germany, Indonesia, Japan, Malaysia and Republic of Korea must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test. 
+Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia (taking flight or ferry to Singapore) and Republic of Korea</b> must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designated by the Government of a counterpart country/region, and obtain a certificate for a negative COVID-19 test. 
+
+<b>Singapore Permanent Residents returning from Malaysia via the land checkpoints</b> also need to take a pre-departure PCR test.
 
 #### 3. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Germany/ Indonesia/ Japan/ Malaysia/ Republic of Korea?
 
