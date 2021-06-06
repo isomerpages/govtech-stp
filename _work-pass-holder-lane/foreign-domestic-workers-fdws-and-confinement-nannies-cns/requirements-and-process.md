@@ -12,7 +12,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 
 ### 1. Before submitting an entry application
 
-Employers or employment agencies must ensure that they can fulfil the additional responsibilities before submitting an entry application for an FDW or CN. These include paying for her  [COVID-19 tests](/health/covid19-tests) and [Stay-Home Notice (SHN)](/health/shn) accommodation. Click [here](/wphl/FDWCN-additional-responsibilities) for the list of additional responsibilities.
+Employers or employment agencies must ensure that they can fulfil the additional responsibilities before submitting an entry application for an FDW or CN. These include paying for her  [COVID-19 tests](/health/covid19-tests/pcrtest) and [Stay-Home Notice (SHN)](/health/shn) accommodation. Click [here](/wphl/FDWCN-additional-responsibilities) for the list of additional responsibilities.
 
 The employer or employment agency must also inform the FDW/CN of the [conditions imposed during her SHN](/wphl/FDWCN-additional-responsibilities#FDWCNResponsibiities) and ensure that she can fulfil them. 
 
