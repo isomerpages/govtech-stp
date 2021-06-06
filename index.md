@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore under Green/Fast Lane arrangements.
 permalink: /
-notification: Scheduled maintenance will be taking place on:<br>&bull; 6 Jun 2021, from 9am to 2pm. During this period, application services for Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder Lane, Student Pass Holder Lane & Familial Ties Lane will not be available.
+notification: <span style="text-align:left;"> Scheduled maintenance will be taking place on:<br>&bull; 6 Jun 2021, from 9am to 2pm. During this period, application services for Reciprocal Green Lane, Periodic Commuting Arrangement, Work Pass Holder Lane, Student Pass Holder Lane & Familial Ties Lane will not be available.</span>
 sections:
     - hero:
         title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial; letter-spacing:0; line-height:1.4em; color:#333;">Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the <br/> COVID-19 pandemic. <br/><br/> Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.</h3>
