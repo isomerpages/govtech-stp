@@ -24,7 +24,7 @@ Returning RGL travellers will be subjected to the health measures described in t
 <tbody>
 	 <tr>
     <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test</b></td>
-		     <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Prior to leaving RGL counterpart country, returning RGL Travellers from <b>Brunei Darussalam and Mainland China</b> do not need to take a pre-departure PCR test.<br/><br/> Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia and Republic of Korea </b>must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designed by the Government of a counterpart country/region, and obtain a certificate with negative COVID-19 test.</td>
+		     <td  style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Prior to leaving RGL counterpart country, returning RGL Travellers from <b>Brunei Darussalam and Mainland China</b> do not need to take a pre-departure PCR test. <b>Singapore Citizens returning from Malaysia via the land checkpoints</b> do not need to take a pre-departure PCR test. <br/><br/> All returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia (taking flight or ferry) and Republic of Korea </b>must take a COVID-19 PCR test within 72 hours before departure for Singapore at an authorised health centre designed by the Government of a counterpart country/region, and obtain a certificate with negative COVID-19 test.  <b>Singapore Permanent Residents returning from Malaysia via the land checkpoints</b> also need to take a pre-departure PCR test.</td>
 	</tr>
   <tr>
     <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submission of Health Declarations and Payment for Arrival Swab</b></td>
@@ -48,8 +48,6 @@ Returning RGL travellers will be subjected to the health measures described in t
 <thead>
 <tr>
     <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Day of arrival in Singapore</th>
-    <!-- <th>Scenarios</th>
-   <th>Charging Policy for C+ treatment</th> -->
   </tr>
 </thead>
 <tbody>
@@ -66,12 +64,14 @@ Returning RGL travellers will be subjected to the health measures described in t
  </td>
   </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Application of Health Control Measures</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Returning RGL travellers from Brunei Darussalam and Mainland China will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
-      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Upon arrival, returning RGL travellers from Germany, Indonesia, Japan, Malaysia and Republic of Korea will:  </p>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>On-arrival  Health Control Measures</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Returning RGL travellers from <b>Brunei Darussalam and Mainland China (excluding Guangdong Province)</b> will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
+			 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning travellers from <b>China (Guangdong Province)</b> will be required to take an on-arrival PCR test and serve a 7-day SHN at a place of residence or self-sourced accomodation.</p>
+			<br>
+      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia and Republic of Korea</b> will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:0px; margin-bottom:-40px; ">Take the PCR test; and</li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Served a 21-day SHN, which they will serve in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a PCR test on Day 14 and 21 at the end of their SHN.</li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:-40px; ">Take an on-arrival PCR test; and</li>
+    <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Serve a 21-day SHN in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a PCR test on Day 14 and 21 at the end of their SHN.</li>
 </ol>
  </td>
   </tr>
