@@ -50,7 +50,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 </ol>
 </td> 
 	</tr>
-	<tr>
+<!--	<tr>
 <td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">2</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Mainland China (Guangdong province)</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Travellers entering Singapore <u>before</u> 5 June, 2359h, will: </b>
@@ -73,7 +73,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN </li>
 </ol>
 	</td>
-</tr>
+</tr>-->
 <tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">3</td>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">
@@ -81,7 +81,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia (Victoria state)</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br/><i><b>Note:</b>  ATB launch deferred – new launch dates of ATB flights to be reviewed in Jun 2021. Click <a href="/hongkong/atb/notice">here</a> for details.</i></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
-	<!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Mainland China (Guangdong province)[for arrivals <u>after</u> 5 June, 2359hrs]</b></li>-->
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Mainland China (Guangdong province)</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
