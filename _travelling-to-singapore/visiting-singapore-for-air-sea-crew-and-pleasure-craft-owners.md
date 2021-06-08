@@ -8,7 +8,7 @@ Please refer to the Civil Aviation Authority of Singapore <a href="https://www.c
 
 ### For Sea Crew & Pleasure Craft Owners
 
-Please click <a href="">here</a> for application of the following:-
+Please click <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info">here</a> for application of the following:-
 <ul style="list-style-type: disc;">
 	<li>Arrival or departure immigration clearance of vessel</li>
 	<li>Crew sign-on or sign-off</li>
@@ -16,4 +16,4 @@ Please click <a href="">here</a> for application of the following:-
 	<li>Extension of stay of crew</li>
 </ul>
 
-Please visit the Maritime and Port of Authority of Singapore website for information on the <a href="">application of crew changes under various circumstances</a>, as well as the MPA’s latest circulars and notices </a> here.
+Please visit the Maritime and Port of Authority of Singapore website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change">application of crew changes under various circumstances</a>, as well as the MPA’s latest circulars and notices <a href="https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community"> here</a>.
