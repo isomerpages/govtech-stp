@@ -2,8 +2,31 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
-## General Entry from All Countries/Regions
-For travellers arriving from <u>all countries/regions</u>, the following traveller types and Safe Travel Lanes are applicable for general entry into Singapore. 
+## Overview
+
+International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
+<ul style="list-style-type: decimal">
+	<li>Returning Singapore Citizens and Permanent Residents</li>
+	<li>General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</li>
+	<li>Short-term business visits</li>
+	<li>Short-term social visits/tourists</li>
+	<li>Death and critical illness emergency visit</li>
+</ul>
+
+Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info">here</a>  for more information.
+
+1) Returning Singapore Citizens and Permanent Residents
+
+Singapore Citizens and Singapore Permanent Residents returning from all countries/regions may return to Singapore without seeking entry approval. 
+
+However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click here  for more information.
+
+
+2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
+
+Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, travellers with travel history to all countries/regions except Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.
+Click the relevant lane below for more details.
+
 
 <table>
 <thead>
