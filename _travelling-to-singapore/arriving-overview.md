@@ -144,7 +144,7 @@ Short term visits by foreigners are currently only allowed for countries/regions
 <table>
 	<thead>
 		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br/><i>(Click on the links for the overview of the lane)</i></th>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br/><i>(Click the links for lane details)</i></th>
 			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Countries/Regions</b></th>
 		</tr>
 	</thead>
