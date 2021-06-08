@@ -16,7 +16,7 @@ third_nav_title: RGL Travellers Returning to Singapore
   </thead>
   <tbody>
     <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darusalam</b></td>
+      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
       <td rowspan="2" style="border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="#faq-return-BC" >Click here</a></td>
     </tr>
       <tr>
