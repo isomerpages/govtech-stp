@@ -69,6 +69,7 @@ Click the relevant lane below for more details.
 	</tbody>
 	</table>
 
+
 ## 3) Short-Term Business Visits
 
 Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
@@ -110,6 +111,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</tbody>
 	</table>
 
+
 ## 4) Short Term Social Visits/Tourists
 
 Short term visits by foreigners are currently only allowed for countries/regions with low risk of COVID-19 importation. Foreign travellers who are short-term travellers with travel history in the past 21 days to the following countries/regions only, may use the lanes below.
@@ -141,6 +143,7 @@ Short term visits by foreigners are currently only allowed for countries/regions
 	</tr>
 	</tbody>
 	</table>
+
 
 ## 5) Death and Critical Illness Emergency Visits
 
