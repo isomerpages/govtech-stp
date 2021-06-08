@@ -54,7 +54,7 @@ Click the relevant lane below for more details.
 					 <li style="font-size: 18px;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
 					 <li style="font-size: 18px;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date</li>
 				 </ul>
-<i><p style="font-size:16px;"><i>[Note: STP and STP-IPA holders whose family members hold an MOM-issued pass should travel via the Work Pass Holder General Lane instead.]</i></p>
+<i><p style="font-size:16px;">[Note: STP and STP-IPA holders whose family members hold an MOM-issued pass should travel via the Work Pass Holder General Lane instead.]</i></p>
 				</td>
 	</tr>
 			<tr>
@@ -82,28 +82,26 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a><br/><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
-					 <li style="font-size: 18px;">Are on an ICA-issued Long-Term Visit Pass</li>
-					 <li style="font-size: 18px;">Travellers whose immediate family member is an SC/PR based in Singapore</li>
-					 <li style="font-size: 18px;">Adopted child of an SC/PR</li>
-					 <li style="font-size: 18px;">Fiance/fiancée of an SC/PR</li>
+					 <li style="font-size: 18px;">	Australia </li>
+					 <li style="font-size: 18px;">	Brunei Darussalam</li>
+					  <li style="font-size: 18px;">Mainland China (excluding Guangdong province)</li>
+					 <li style="font-size: 18px;">New Zealand</li>
 				 </ul>
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Student's Pass Holder Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br/><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
-					 <li style="font-size: 18px;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date</li>
+					 <li style="font-size: 18px;">	Brunei Darussalam</li>
+					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
 				 </ul>
-<i><p style="font-size:16px;"><i>[Note: STP and STP-IPA holders whose family members hold an MOM-issued pass should travel via the Work Pass Holder General Lane instead.]</i></p>
 				</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Connect@Singapore</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
 					 <li style="font-size: 18px;">Confinement Nannies</li>
