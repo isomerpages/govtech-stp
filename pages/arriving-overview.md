@@ -24,7 +24,7 @@ However, prevailing travel health measures will apply depending on their travel 
 
 ## 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
-Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions except Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
+Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
 Click the relevant lane below for more details.
 
@@ -39,9 +39,9 @@ Short term visits by foreigners are currently only allowed for countries/regions
 
 ## 5) Death and Critical Illness Emergency Visits
 
-Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis. e.g. death or critical illness of family member in Singapore. Only a maximum of two visitors per case is allowed. 
+Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis. e.g. death or critical illness of family member in Singapore. Only a maximum of <u>two visitors per case</u> is allowed. 
 
-Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting “appeal for entry into Singapore under compassionate reasons” as the enquiry category. 
+Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. 
 
 To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:
 <ul style="list-style-type: decimal">
