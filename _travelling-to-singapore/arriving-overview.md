@@ -10,7 +10,7 @@ International travel has been restricted due to the COVID-19 pandemic. SafeTrave
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
 	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
-	<li><a href="/arriving/overview#business">Short-term business visits</a></li>
+	<li><a href="https://safetravel.ica.gov.sg/arriving/overview#business">Short-term business visits</a></li>
 	<li><a href="#social">Short-term social visits/tourists</a></li>
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
 </ul>
