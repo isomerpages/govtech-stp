@@ -4,6 +4,8 @@ permalink: /arriving/overview
 ---
 ## Overview
 
+<div id="top"></div>
+
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
@@ -23,6 +25,7 @@ Singapore Citizens and Singapore Permanent Residents <u>returning from all count
 
 However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click <a href="/sc-pr/overview">here</a>  for more information.
 
+Click here to return to the <a href="#top">top</a>.
 
 <div id="LTPH"></div>
 
@@ -73,6 +76,8 @@ Click the relevant lane below for more details.
 	</tbody>
 	</table>
 
+Click here to return to the <a href="#top">top</a>.
+
 
 <div id="business"></div>
 
@@ -117,6 +122,8 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</tr>
 	</tbody>
 	</table>
+	
+Click here to return to the <a href="#top">top</a>.
 
 <div id="social"></div>
 
@@ -152,6 +159,8 @@ Short term visits by foreigners are currently only allowed for countries/regions
 	</tbody>
 	</table>
 
+Click here to return to the <a href="#top">top</a>.
+
 <div id="DCEV"></div>
 
 ## 5) Death and Critical Illness Emergency Visits
@@ -169,3 +178,5 @@ To expedite the assessment process, travellers who are requesting for emergency 
 </ul>
 
 Approved travellers will be required to abide by the stipulated health measures for entry including <a href="/health/shn">Stay Home Notice</a> and <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a>. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
+
+Click here to return to the <a href="#top">top</a>.
