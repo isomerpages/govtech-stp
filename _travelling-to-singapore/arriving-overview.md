@@ -25,11 +25,8 @@ Singapore Citizens and Singapore Permanent Residents <u>returning from all count
 
 However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click <a href="/sc-pr/overview">here</a>  for more information.
 
----
-
 Click here to return to the <a href="#top">top</a>.
 
----
 
 <div id="LTPH"></div>
 
@@ -79,12 +76,8 @@ Click the relevant lane below for more details.
 	</tr>
 	</tbody>
 	</table>
-	
----
 
 Click here to return to the <a href="#top">top</a>.
-
----
 
 <div id="business"></div>
 
@@ -129,11 +122,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</tbody>
 	</table>
 	
----
-
 Click here to return to the <a href="#top">top</a>.
-
----
 
 <div id="social"></div>
 
@@ -169,11 +158,7 @@ Short term visits by foreigners are currently only allowed for countries/regions
 	</tbody>
 	</table>
 
----
-
 Click here to return to the <a href="#top">top</a>.
-
----
 
 <div id="DCEV"></div>
 
@@ -193,8 +178,4 @@ To expedite the assessment process, travellers who are requesting for emergency 
 
 Approved travellers will be required to abide by the stipulated health measures for entry including <a href="/health/shn">Stay Home Notice</a> and <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a>. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
 
----
-
 Click here to return to the <a href="#top">top</a>.
-
----
