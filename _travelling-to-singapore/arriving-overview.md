@@ -6,14 +6,16 @@ permalink: /arriving/overview
 
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 <ul style="list-style-type: decimal;">
-	<li><a href="">Returning Singapore Citizens and Permanent Residents</a></li>
-	<li><a href="">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
-	<li><a href="">Short-term business visits</a></li>
-	<li><a href="">Short-term social visits/tourists</a></li>
-	<li><a href="">Death and critical illness emergency visit</a></li>
+	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
+	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
+	<li><a href="#business">Short-term business visits</a></li>
+	<li><a href="#social">Short-term social visits/tourists</a></li>
+	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
 </ul>
 
 Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/arriving/crew">here</a>  for more information.
+
+<div id="ReturningSCPR"></div>
 
 ## 1) Returning Singapore Citizens and Permanent Residents
 
@@ -21,6 +23,8 @@ Singapore Citizens and Singapore Permanent Residents <u>returning from all count
 
 However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click <a href="/sc-pr/overview">here</a>  for more information.
 
+
+<div id="LTPH"></div>
 
 ## 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
@@ -69,6 +73,7 @@ Click the relevant lane below for more details.
 	</tbody>
 	</table>
 
+<div id="business"></div>
 
 ## 3) Short-Term Business Visits
 
@@ -111,6 +116,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</tbody>
 	</table>
 
+<div id="social"></div>
 
 ## 4) Short Term Social Visits/Tourists
 
@@ -144,6 +150,7 @@ Short term visits by foreigners are currently only allowed for countries/regions
 	</tbody>
 	</table>
 
+<div id="DCEV"></div>
 
 ## 5) Death and Critical Illness Emergency Visits
 
