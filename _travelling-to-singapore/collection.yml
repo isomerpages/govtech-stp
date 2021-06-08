@@ -1,4 +1,5 @@
 collections:
   travelling-to-singapore:
     output: true
-    order: []
+    order:
+      - arriving-overview.md
