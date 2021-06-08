@@ -4,15 +4,16 @@ permalink: /arriving/crew
 ---
 ### For Air Crew
 
-Please refer to the Civil Aviation Authority of Singapore website for the latest circulars and directives relating to border and health control measures applicable to air operators, airport operators and other airport services and facilities’ providers at the Changi Airport and Seletar Airport.
+Please refer to the Civil Aviation Authority of Singapore <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications">website</a> for the latest circulars and directives relating to border and health control measures applicable to air operators, airport operators and other airport services and facilities’ providers at the Changi Airport and Seletar Airport.
 
 ### For Sea Crew & Pleasure Craft Owners
 
-Please click here for application of the following:-
+Please click <a href="">here</a> for application of the following:-
+<ul style="list-style-type: disc;">
+	<li>Arrival or departure immigration clearance of vessel</li>
+	<li>Crew sign-on or sign-off</li>
+	<li>Transfer of crew from one vessel to another</li>
+	<li>Extension of stay of crew</li>
+</ul>
 
-•	Arrival or departure immigration clearance of vessel
-•	Crew sign-on or sign-off
-•	Transfer of crew from one vessel to another
-•	Extension of stay of crew
-
-Please visit the Maritime and Port of Authority of Singapore website for information on the application of crew changes under various circumstances, as well as the MPA’s latest circulars and notices here.
+Please visit the Maritime and Port of Authority of Singapore website for information on the <a href="">application of crew changes under various circumstances</a>, as well as the MPA’s latest circulars and notices </a> here.
