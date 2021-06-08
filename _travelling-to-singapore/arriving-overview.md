@@ -13,7 +13,7 @@ International travel has been restricted due to the COVID-19 pandemic. SafeTrave
 	<li>Death and critical illness emergency visit</li>
 </ul>
 
-Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info">here</a>  for more information.
+Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/arriving/crew">here</a>  for more information.
 
 ## 1) Returning Singapore Citizens and Permanent Residents
 
