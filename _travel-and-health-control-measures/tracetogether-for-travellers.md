@@ -67,8 +67,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
   </tbody>
   </table>
 	
-
-
+	
 ### 2.	Using TraceTogether
 
 #### A)	TraceTogether App Users
