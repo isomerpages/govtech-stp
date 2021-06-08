@@ -101,7 +101,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a><br/><br/><i>(No controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a><br/><br/><i>(Controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">	Australia </li>
