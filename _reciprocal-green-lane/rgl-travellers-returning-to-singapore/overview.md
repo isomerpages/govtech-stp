@@ -73,10 +73,10 @@ Returning RGL travellers will be subjected to the health measures described in t
 			</ol>
 </p>
 			<br>
-      <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia and Republic of Korea</b> will:  </p>
+      <p style="margin-top:-30px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia and Republic of Korea</b> will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5; ">Take an on-arrival COVID-19 PCR test; and</li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Serve a 21-day SHN in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a COVID-19 PCR test on Day 14 and 21 at the end of their SHN.</li>
+    <li style="font-size:16px; margin-top:-30px; margin-bottom:0px; line-height:1.5;">Serve a 21-day SHN in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a COVID-19 PCR test on Day 14 and 21 at the end of their SHN.</li>
 </ol>
  </td>
   </tr>
