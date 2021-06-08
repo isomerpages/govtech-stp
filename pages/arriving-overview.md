@@ -28,6 +28,13 @@ Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to
 
 Click the relevant lane below for more details.
 
+<table>
+	<thead>
+		<tr>
+			
+		</tr>
+	</thead>
+	</table>
 ## 3) Short-Term Business Visits
 
 Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
@@ -47,14 +54,14 @@ To expedite the assessment process, travellers who are requesting for emergency 
 <ul style="list-style-type: decimal">
 <li>Death certificate or any other documents as proof of death, or Doctor’s letter/memo proving critical illness of the immediate family member in Singapore;</li>
 <li>Official documents proving familial connection with the deceased or critically ill in Singapore;</li>
-<li>3.	Passport biodata page of all travellers; and</li>
-<li>4.	Any other supporting documents.</li>
+<li>Passport biodata page of all travellers; and</li>
+<li>Any other supporting documents.</li>
 </ul>
 
 Approved travellers will be required to abide by the stipulated health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
 
 
-
+------------------------------------------------------------
 
 <table>
 <thead>
