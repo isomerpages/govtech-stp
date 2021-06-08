@@ -31,8 +31,8 @@ Click the relevant lane below for more details.
 <table>
 	<thead>
 		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Travel Lanes</th>
-			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">General Traveller Profile</th>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b></th>
+			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>General Traveller Profile</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -69,10 +69,50 @@ Click the relevant lane below for more details.
 	</tbody>
 	</table>
 
-	
 ## 3) Short-Term Business Visits
 
 Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
+
+<table>
+	<thead>
+		<tr>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br/><i>(Click on the links for the overview of the lane)</i></th>
+			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Countries/Regions</b></th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				 <ul style="font-size: 18px; list-style-type: disc;">
+					 <li style="font-size: 18px;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
+					 <li style="font-size: 18px;">Are on an ICA-issued Long-Term Visit Pass</li>
+					 <li style="font-size: 18px;">Travellers whose immediate family member is an SC/PR based in Singapore</li>
+					 <li style="font-size: 18px;">Adopted child of an SC/PR</li>
+					 <li style="font-size: 18px;">Fiance/fiancée of an SC/PR</li>
+				 </ul>
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Student's Pass Holder Lane</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+					 <li style="font-size: 18px;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
+					 <li style="font-size: 18px;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date</li>
+				 </ul>
+<i><p style="font-size:16px;"><i>[Note: STP and STP-IPA holders whose family members hold an MOM-issued pass should travel via the Work Pass Holder General Lane instead.]</i></p>
+				</td>
+	</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">				 <ul style="font-size: 18px; list-style-type: disc;">
+					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
+					 <li style="font-size: 18px;">Confinement Nannies</li>
+					 <li style="font-size: 18px;">Foreign Domestic Workers</li>
+				 </ul>
+				</td>
+	</tr>
+	</tbody>
+	</table>
 
 ## 4) Short Term Social Visits/Tourists
 
