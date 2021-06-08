@@ -54,12 +54,12 @@ Click the relevant lane below for more details.
 					 <li style="font-size: 18px;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
 					 <li style="font-size: 18px;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date</li>
 				 </ul>
-<i><p style="font-size:16px;">[Note: STP and STP-IPA holders whose family members hold an MOM-issued pass should travel via the Work Pass Holder General Lane instead.]</i></p>
+<p style="font-size:16px;">[Note: STP and STP-IPA holders whose family members hold an MOM-issued pass should travel via the Work Pass Holder General Lane instead.]</p>
 				</td>
 	</tr>
 			<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">				 <ul style="font-size: 18px; list-style-type: disc;">
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
 					 <li style="font-size: 18px;">Confinement Nannies</li>
 					 <li style="font-size: 18px;">Foreign Domestic Workers</li>
