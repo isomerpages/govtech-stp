@@ -27,6 +27,34 @@ However, prevailing travel health measures will apply depending on their travel 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, travellers with travel history to all countries/regions except Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.
 Click the relevant lane below for more details.
 
+## 3) Short-Term Business Visits
+
+Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
+
+## 4) Short Term Social Visits/Tourists
+
+Short term visits by foreigners are currently only allowed for countries/regions with low risk of COVID-19 importation. Foreign travellers who are short-term travellers with travel history in the past 21 days to the following countries/regions only, may use the lanes below.
+
+
+## 5) Death and Critical Illness Emergency Visits
+
+Travellers from all countries/regions may enter Singapore on a short-term basis to attend to a family crisis. e.g. death or critical illness of family member in Singapore. Only a maximum of two visitors per case is allowed. 
+
+Applications for urgent emergency entry can be submitted via this enquiry form , selecting “appeal for entry into Singapore under compassionate reasons” as the enquiry category. 
+
+To expedite the assessment process, travellers who are requesting for emergency entry are strongly encouraged to submit the following supporting documents:
+
+1.	Death certificate or any other documents as proof of death, or Doctor’s letter/memo proving critical illness of the immediate family member in Singapore;
+2.	Official documents proving familial connection with the deceased or critically ill in Singapore;
+3.	Passport biodata page of all travellers; and
+4.	Any other supporting documents.
+
+Approved travellers will be required to abide by the stipulated health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
+
+
+For more details, click here. 
+
+
 
 <table>
 <thead>
