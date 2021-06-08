@@ -31,10 +31,34 @@ Click the relevant lane below for more details.
 <table>
 	<thead>
 		<tr>
-			
+			    <th style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">Travel Lanes</th>
+			    <th style="border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">General Traveller Profile</th>
 		</tr>
 	</thead>
+	<tbody>
+	<tr>
+		<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"></td>
+	</tr>
+			<tr>
+		<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Returning Singapore Citizen/PR</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a></td>
+	</tr>
+			<tr>
+		<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Returning Singapore Citizen/PR</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a>
+				 <ul>
+					 <li></li>
+					 <li></li>
+					 <li></li>
+					 <li></li>
+				 </ul>
+				</td>
+	</tr>
+	</tbody>
 	</table>
+
+	
 ## 3) Short-Term Business Visits
 
 Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
