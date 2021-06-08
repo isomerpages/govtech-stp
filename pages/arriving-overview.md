@@ -15,14 +15,14 @@ International travel has been restricted due to the COVID-19 pandemic. SafeTrave
 
 Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info">here</a>  for more information.
 
-1) Returning Singapore Citizens and Permanent Residents
+## 1) Returning Singapore Citizens and Permanent Residents
 
-Singapore Citizens and Singapore Permanent Residents returning from all countries/regions may return to Singapore without seeking entry approval. 
+Singapore Citizens and Singapore Permanent Residents <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. 
 
-However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click here  for more information.
+However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click <a href="/sc-pr/overview">here</a>  for more information.
 
 
-2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
+## 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, travellers with travel history to all countries/regions except Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.
 Click the relevant lane below for more details.
