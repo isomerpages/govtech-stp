@@ -19,7 +19,7 @@ Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/a
 
 <div id="ReturningSCPR"></div>
 
-## 1) Returning Singapore Citizens and Permanent Residents
+### 1) Returning Singapore Citizens and Permanent Residents
 
 Singapore Citizens and Singapore Permanent Residents <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. 
 
@@ -29,7 +29,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="LTPH"></div>
 
-## 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
+### 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
@@ -80,7 +80,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="business"></div>
 
-## 3) Short-Term Business Visits
+### 3) Short-Term Business Visits
 
 Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
 
@@ -125,7 +125,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="social"></div>
 
-## 4) Short Term Social Visits/Tourists
+### 4) Short Term Social Visits/Tourists
 
 Short term visits by foreigners are currently only allowed for countries/regions with low risk of COVID-19 importation. Foreign travellers who are short-term travellers with travel history in the past 21 days to the following countries/regions only, may use the lanes below.
 
@@ -161,7 +161,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="DCEV"></div>
 
-## 5) Death and Critical Illness Emergency Visits
+### 5) Death and Critical Illness Emergency Visits
 
 Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis. e.g. death or critical illness of family member in Singapore. Only a maximum of <u>two visitors per case</u> is allowed. 
 
