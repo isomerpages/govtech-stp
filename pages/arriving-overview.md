@@ -5,7 +5,7 @@ permalink: /arriving/overview
 ## Overview
 
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
-<ul style="list-style-type: decimal">
+<ul style="list-style-type: decimal;">
 	<li>Returning Singapore Citizens and Permanent Residents</li>
 	<li>General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</li>
 	<li>Short-term business visits</li>
@@ -38,7 +38,15 @@ Click the relevant lane below for more details.
 	<tbody>
 	<tr>
 		<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a>
+				 <ul style="list-style-type: disc;">
+					 <li>Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
+					 <li>Are on an ICA-issued Long-Term Visit Pass</li>
+					 <li>Travellers whose immediate family member is an SC/PR based in Singapore</li>
+					 <li>Adopted child of an SC/PR</li>
+					 <li>Fiance/fiancée of an SC/PR</li>
+				 </ul>
+		</td>
 	</tr>
 			<tr>
 		<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Returning Singapore Citizen/PR</a></td>
@@ -46,13 +54,7 @@ Click the relevant lane below for more details.
 	</tr>
 			<tr>
 		<td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Returning Singapore Citizen/PR</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane</a>
-				 <ul>
-					 <li></li>
-					 <li></li>
-					 <li></li>
-					 <li></li>
-				 </ul>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				</td>
 	</tr>
 	</tbody>
