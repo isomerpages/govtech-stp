@@ -6,11 +6,11 @@ permalink: /arriving/overview
 
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 <ul style="list-style-type: decimal;">
-	<li>Returning Singapore Citizens and Permanent Residents</li>
-	<li>General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</li>
-	<li>Short-term business visits</li>
-	<li>Short-term social visits/tourists</li>
-	<li>Death and critical illness emergency visit</li>
+	<li><a href="">Returning Singapore Citizens and Permanent Residents</a></li>
+	<li><a href="">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
+	<li><a href="">Short-term business visits</a></li>
+	<li><a href="">Short-term social visits/tourists</a></li>
+	<li><a href="">Death and critical illness emergency visit</a></li>
 </ul>
 
 Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/arriving/crew">here</a>  for more information.
