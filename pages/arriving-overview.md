@@ -82,7 +82,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a><br/><i>(No controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a><br/><br/><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">	Australia </li>
@@ -93,7 +93,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br/><i>(No controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br/><br/><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
 					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
@@ -101,11 +101,9 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br/><br/><i>(Visit limited to designated Connect@Singapore facility only)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
-					 <li style="font-size: 18px;">Confinement Nannies</li>
-					 <li style="font-size: 18px;">Foreign Domestic Workers</li>
+					 <li style="font-size: 18px;">All countries/regions except Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
 				 </ul>
 				</td>
 	</tr>
