@@ -140,7 +140,7 @@ Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without 
 - Serving 21-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
 - Taking COVID-19 PCR tests on Day 14 and 21 of SHN.
 
-Click <a href="/files/SHN-and-swab-summary.pdf">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
+Click <a href="/sc-pr/shn-and-swab-summary">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
 
 Singapore PRs whose employer in Singapore is willing to facilitate their home leave in Malaysia may return to Singapore under the PCA. In addition to applying for a PCA pass with Singapore <a href="/apply-now">here</a>, your employer should also apply for a PCA pass on your behalf with the Malaysian authorities at <https://go.gov.sg/pcamsia>.
 
