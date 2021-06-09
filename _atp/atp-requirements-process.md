@@ -116,10 +116,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
+			</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore.</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">		Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.</li>
      </ol>
-                  <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore.</p>
-			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.</p>
+						<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
     </td>
  </tr>
    <tr>
@@ -160,7 +162,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
 <tbody>
   <tr> <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Upon arrival in Changi Airport</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors should complete all procurement of goods and services in the transit area of the airport, <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on <i>"Transport from airport to accommodation"</i> below.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors who need to purchase Singapore dollars or SIM cards, or rent mobile phones, should do so in the airport transit area <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on <i>"Transport from airport to accommodation"</i> below.</td>
   </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
@@ -176,15 +178,15 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 *Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
          </td>
  </tr>
-  <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Visitors are not permitted to enter any retail food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services in the airport transit area, before arrival immigration.<br/><br/>The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<br/><br/>
-     Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
-         </td>
- </tr>
 	  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>Visitors are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done in the airport transit area, before arrival immigration.
+         </td>
+ </tr>
+	<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">The results of the on-arrival COVID-19 PCR test will be out within 48 hours. Once visitors have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<br/><br/>
+     Visitors are responsible for their medical bills should they require medical treatment for COVID-19 while in Singapore.
          </td>
  </tr>
   </tbody>
@@ -215,7 +217,8 @@ As each token is uniquely tagged to each individual, visitors are reminded to ca
 			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> the TraceTogether token is not faulty or damaged.</li>
          </ol>
 			</p>
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.</p>
+	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.</p><br/>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
     </td>
   </tr>
 

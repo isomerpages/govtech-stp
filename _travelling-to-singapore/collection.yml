@@ -1,0 +1,6 @@
+collections:
+  travelling-to-singapore:
+    output: true
+    order:
+      - arriving-overview.md
+      - air-sea-crew-and-pleasure-craft-owners.md

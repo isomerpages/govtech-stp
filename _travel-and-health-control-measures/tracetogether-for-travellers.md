@@ -58,7 +58,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 				</ol></td>
     </tr>
 		   <tr>
-         <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0; background-color:#EDEDED"><b>Payment and collection location</b> </td></tr>
+         <td colspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0; background-color:#EDEDED"><b>Payment and collection location (Details on where the tokens collection booths/counters can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443-Where-can-Short-Term-Visitors-collect-their-TraceTogether-TT-Tokens-from-the-checkpoints-">here</a>.)</b> </td></tr>
 				    <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport on arrival in Singapore.
 			</td>
@@ -67,8 +67,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
   </tbody>
   </table>
 	
-Details on where the tokens collection booths/counters can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/900007674443-Where-can-Short-Term-Visitors-collect-their-TraceTogether-TT-Tokens-from-the-checkpoints-) .
-
+	
 ### 2.	Using TraceTogether
 
 #### A)	TraceTogether App Users

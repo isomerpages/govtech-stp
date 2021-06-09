@@ -136,11 +136,11 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 #### 2. I am a Malaysian citizen and a Singapore Permanent Resident (PR) who is presently in Malaysia. Do I need to apply for a PCA pass to enter Singapore?
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
-- A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 72 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</b></a>;
+- A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 72 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
 - Serving 21-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
 - Taking COVID-19 PCR tests on Day 14 and 21 of SHN.
 
-Click <a href="/files/SHN-and-swab-summary.pdf">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
+Click <a href="/sc-pr/shn-and-swab-summary">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
 
 Singapore PRs whose employer in Singapore is willing to facilitate their home leave in Malaysia may return to Singapore under the PCA. In addition to applying for a PCA pass with Singapore <a href="/apply-now">here</a>, your employer should also apply for a PCA pass on your behalf with the Malaysian authorities at <https://go.gov.sg/pcamsia>.
 

@@ -234,7 +234,7 @@ The designated taxi operators are:
 
 No, visitors are not allowed to shop and eat at Changi Airport, including Jewel Changi Airport. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
 
-The only exception is for the procurement of goods and services in the airport transit area, before arrival immigration.
+The only exception is for the purchase of Signapore dollars or SIM cards, or mobile phone rental, which should be done in the airport transit area, before arrival immigration.
 
 Visitors will only be allowed to go about their activities in Singapore after being notified of their negative test results.
 
@@ -280,7 +280,7 @@ Visitors must be transported directly to their declared place of accommodation t
 
 ### Contact Tracing – TraceTogether
 
-#### General FAQs on TraceTogether can be found [here](https://support.tracetogether.gov.sg/hc/en-sg).
+#### For the full requirements and conditions governing the use of TraceTogether, please click [here](https://safetravel.ica.gov.sg/health/tt-for-travellers). General FAQs on TraceTogether can be found [here](https://support.tracetogether.gov.sg/hc/en-sg).
 
 #### 1. Must every visitor use TraceTogether?
 

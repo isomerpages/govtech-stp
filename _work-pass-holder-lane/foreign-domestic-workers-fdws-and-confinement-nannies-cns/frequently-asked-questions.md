@@ -127,7 +127,7 @@ For existing FDWs returning from overseas, you must continue paying her salary o
 
 ### 9. Can employers get a levy waiver for FDWs who go on home / overseas leave?
 
-For FDWs on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 60 days) **when their FDWs return to Singapore.**
+For FDWs on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 90 days for leave period in 2020, and up to 60 days for leave period in 2021) **when their FDWs return to Singapore.**
 
 ### 10. My FDW or CN intends to travel out of Singapore. What do I need to consider?
 
