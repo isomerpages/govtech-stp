@@ -150,10 +150,10 @@ Short term visits by foreigners are currently only allowed for countries/regions
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">	Australia </li>
+					 <li style="font-size: 18px;">	Australia (excluding Victoria State) </li>
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
 					  <li style="font-size: 18px;">Mainland China (excluding Guangdong province)</li>
 					 <li style="font-size: 18px;">New Zealand</li>

@@ -113,12 +113,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether app</b> </td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>TraceTogether</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Check that their mobile device is compatible<sup>1</sup> with the TraceTogether app, <a href="https://www.tracetogether.gov.sg">download</a> it on their mobile device, and register their mobile number and profile on the app. Visitors must register their profile on the app with the <b>same identification number, nationality and date of birth</b> as those shown in the passport that they are using to enter Singapore. A TraceTogether App setup guide for travellers can be found <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-">here</a>.
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Visitors are required to download and register their profile on the TraceTogether app to aid contact tracing.
 			</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens with payment of a S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore.</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Children who are aged 7 to 12 years in that calendar year, and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens.</li>
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">		Children aged 6 years or younger in that calendar year are exempted from the TraceTogether requirement.</li>
      </ol>
 						<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
@@ -210,18 +210,11 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore. <br/><br/>
 			<b>For TraceTogether token users:</b><br/>
-As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
-			</p><p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The S$50 deposit will be refunded if:<ol style="margin-top:0px; list-style-type: decimal;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the TraceTogether token the visitor is returning belongs to him/her; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the visitor had made a deposit for the TraceTogether token being returned; and</li>
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> the TraceTogether token is not faulty or damaged.</li>
-         </ol>
-			</p>
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.</p><br/>
+As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <br/><br/>
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints, prior to their departure from Singapore.</p><br/>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
     </td>
   </tr>
-
  </tbody>
  </table>
  
