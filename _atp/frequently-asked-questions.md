@@ -280,7 +280,7 @@ Visitors must be transported directly to their declared place of accommodation t
 
 ### Contact Tracing – TraceTogether
 
-#### General FAQs on TraceTogether can be found [here](https://support.tracetogether.gov.sg/hc/en-sg).
+#### For the full requirements and conditions governing the use of TraceTogether, please click [here](https://safetravel.ica.gov.sg/health/tt-for-travellers). General FAQs on TraceTogether can be found [here](https://support.tracetogether.gov.sg/hc/en-sg).
 
 #### 1. Must every visitor use TraceTogether?
 
