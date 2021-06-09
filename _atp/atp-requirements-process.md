@@ -210,18 +210,10 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore. <br/><br/>
 			<b>For TraceTogether token users:</b><br/>
-As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at any of the following places: Changi Recommends booths at the Changi Airport Departure Hall, Seletar Business Aviation Centre at Seletar Airport, Woodlands Checkpoint, Tuas Checkpoint or Tanah Merah Ferry Terminal, prior to their departure from Singapore.
-			</p><p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The S$50 deposit will be refunded if:<ol style="margin-top:0px; list-style-type: decimal;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the TraceTogether token the visitor is returning belongs to him/her; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">the visitor had made a deposit for the TraceTogether token being returned; and</li>
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> the TraceTogether token is not faulty or damaged.</li>
-         </ol>
-			</p>
-	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.</p><br/>
+As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints, prior to their departure from Singapore.</p><br/>
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
     </td>
   </tr>
-
  </tbody>
  </table>
  
