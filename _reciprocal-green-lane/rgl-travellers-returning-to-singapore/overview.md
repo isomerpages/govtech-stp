@@ -5,7 +5,7 @@ third_nav_title: RGL Travellers Returning to Singapore
 ---
 ### Eligibility
 
-Singapore residents who have travelled to an RGL counterpart country (click [here](/rgl/overview) for the list) can return to Singapore under the same scheme (henceforth “Returning RGL travellers”). This means that Singapore Citizens, Singapore Permanent Residents or Long-Term Pass Holders who had left Singapore to visit an RGL counterpart country/region under the RGL, <u>can return to Singapore without needing to apply for any approval letter of entry</u> issued by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or Ministry of Education (MOE).
+Singapore residents who have travelled to an RGL counterpart country (click [here](/rgl/visiting-rgl-counterparts) for the list) can return to Singapore under the same scheme (henceforth “Returning RGL travellers”). This means that Singapore Citizens, Singapore Permanent Residents or Long-Term Pass Holders who had left Singapore to visit an RGL counterpart country/region under the RGL, <u>can return to Singapore without needing to apply for any approval letter of entry</u> issued by the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM), or Ministry of Education (MOE).
 
 Returning RGL travellers will be subjected to the health measures described in the process below.
 
