@@ -47,9 +47,9 @@ third_nav_title: RGL Travellers Returning to Singapore
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Brunei Darussalam or Mainland China (excluding Guangdong) under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
+Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Brunei Darussalam or Mainland China (excluding Guangdong province) under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
 
-Upon arrival in Singapore, all Singapore-based travellers returning from their travel to Mainland China(Guangdong) will be:
+Upon arrival in Singapore, all Singapore-based travellers returning from their travel to Mainland China (Guangdong province) will be:
 - Required to take a COVID-19 PCR test; and
 - Served a 7-day SHN at place of residence or self-sourced accommodation with a COVID-19 PCR test at the end of the 7-Day SHN period.
 
@@ -71,7 +71,7 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel on the Singapore-Germany RGL, will be:
 - Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Served a 21day SHN which they will serve at the SHN-Dedicated Facility with COVID-19 PCR test on Day 14 of SHN, and another test at the end of 21-day SHN period.
+- Served a 21-day SHN which they will serve at the SHN-Dedicated Facility with COVID-19 PCR test on Day 14 of SHN, and another test at the end of 21-day SHN period.
 
 Travellers will pay for the cost of the 21-day SHN and the COVID-19 PCR tests. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
 
