@@ -70,8 +70,8 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <table>
 <thead>
 <tr>
-<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Self-isolation/SHN arrangement</th>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Transport Options</th>
+<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Self-isolation/SHN arrangement</th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Transport Options</th>
 </tr>
 </thead>
 <tbody>
