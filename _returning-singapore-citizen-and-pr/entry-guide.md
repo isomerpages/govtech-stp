@@ -96,7 +96,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 </tr>
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14 or 21-day SHN at own residence</td>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a>. 
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="/health/faq#transportQ3">here</a>. 
 </td>
 </tr>
 </tbody>
