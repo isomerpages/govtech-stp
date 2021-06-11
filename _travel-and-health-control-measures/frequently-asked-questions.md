@@ -134,6 +134,8 @@ For travellers arranging transport from the airport to their place of residence,
 	
 When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
+<div id="transportQ3"></div>
+
 #### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead due to medical reasons. What are the types of transport that I can take?
 
 <table>
