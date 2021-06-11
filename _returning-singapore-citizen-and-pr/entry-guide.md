@@ -112,8 +112,8 @@ All SHN-serving travellers are required to take additional COVID-19 PCR tests du
 <table>
 <thead>
 <tr>
-<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Self-isolation/SHN Period</th>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">COVID-19 PCR Test Schedule</th>
+<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;;">Self-isolation/SHN Period</th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;">COVID-19 PCR Test Schedule</th>
 </tr>
 </thead>
 <tbody>
