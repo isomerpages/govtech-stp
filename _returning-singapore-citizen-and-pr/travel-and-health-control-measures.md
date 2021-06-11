@@ -181,7 +181,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 	</td>
 </tr>
 <tr>
-<td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">5</td>
+<td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">4</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Malaysia</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Singapore Citizens entering via <u>land</u> only</b>
 	<ol style="margin-top:0px;">
@@ -211,7 +211,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 	</td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">6</td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">5</td>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
@@ -241,7 +241,7 @@ Use this <a href="/sc-pr/online-assistant">online tool</a> for guidance on the t
 </td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED;">7</td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED;">6</td>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED;"><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
 <ol style="margin-top:0px; list-style-type: decimal;">
