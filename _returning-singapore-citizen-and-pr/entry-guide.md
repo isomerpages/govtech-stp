@@ -9,7 +9,7 @@ Before their return, returning SC/PRs should familiarise themselves with the ind
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice</a> (SHN)</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in a Dedicated Facility</a> (SDF)</li>
-<li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a>, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test</li>
+<li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a>, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test</li> 
 </ol>
 
 <u>Please note that travellers who have received COVID-19 vaccination or recovered from COVID-19 are currently subjected to the prevailing health measures.</u>
@@ -70,8 +70,8 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <table>
 <thead>
 <tr>
-<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Self-isolation/SHN arrangement</th>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Transport Options</th>
+<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Self-isolation/SHN arrangement</th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Transport Options</th>
 </tr>
 </thead>
 <tbody>
@@ -112,8 +112,8 @@ All SHN-serving travellers are required to take additional COVID-19 PCR tests du
 <table>
 <thead>
 <tr>
-<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">Self-isolation/SHN Period</th>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">COVID-19 PCR Test Schedule</th>
+<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;;">Self-isolation/SHN Period</th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;">COVID-19 PCR Test Schedule</th>
 </tr>
 </thead>
 <tbody>
