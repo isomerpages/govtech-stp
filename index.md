@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore under Green/Fast Lane arrangements.
 permalink: /
-notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 11 June 2021, from 1159pm to 12 June 2021, 2am. During this period, application services for Air Travel Pass will not be available.</h6>
+notification: <h6 style="text-align:left;"></h6>
 sections:
     - hero:
         title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial; letter-spacing:0; line-height:1.4em; color:#333;">Singapore has implemented international Safe Travel Lanes to facilitate travel in and out of Singapore, while safeguarding public health amidst the <br/> COVID-19 pandemic. <br/><br/> Click the buttons below for the latest information on Safe Travel arrangements for arrival, transit or departure.</h3>
