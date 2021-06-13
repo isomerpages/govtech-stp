@@ -60,7 +60,7 @@ Click the relevant lane below for more details.
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stphl/requirements-and-process">Student's Pass Holder Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/sc-pr/overview">Student's Pass Holder Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
 					 <li style="font-size: 18px;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date</li>
