@@ -20,6 +20,10 @@ Eligible applicant will receive the SafeTravel Pass (STP) via email after making
 
 If you did not receive the email with the STP after making the payment at the end of the application, please write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry), with the receipt of the payment made and the details of the applicant. 
 
+#### 2. I have an in-principle approval(IPA) from ICA for the grant of long-term facilities (e.g. Permanent Resident, Long-Term Visit Pass, Letter of LTVP Eligibility). I am required to travel to Singapore to complete the necessary formalities before my IPA expires. Due to the travel restrictions and/or flight availability, I am unable to apply for an entry approval in the Safe Travel application portal. 
+
+New entry approvals into Singapore have been reduced or halted until further notice for all long-term pass holders and visitors with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, and New Zealand). If you are unable to select an entry date in the Safe Travel application portal, please request for an extension to your IPA validity by writing to <a href="mailto:ICA_PR@ica.gov.sg">ICA_PR@ica.gov.sg</a> (for PR-IPA validity) and <a href="mailto:ICA_Visit_Pass@ica.gov.sg">ICA_Visit_Pass@ica.gov.sg</a> (for LTVP-IPA validity). Travellers with expiring Letter of LTVP eligibility would need to submit a fresh application for Pre-marriage LTVP Assessment as its validity cannot be extended
+
 <div id="ale"></div>
 
 ### ICA Approval Letter of Entry (ALE) - Entry Request
