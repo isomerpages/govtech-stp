@@ -2,7 +2,6 @@
 title: Apply Now
 permalink: /apply-now
 ---
-
 ## Safe Travel Lanes for Entry to Singapore
 
 <table>
@@ -15,12 +14,21 @@ permalink: /apply-now
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Air Travel Pass</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>The Singapore-Hong Kong ATB has been deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.<br><br>Applications for ATP Taiwan are suspended. Click <a href="/taiwan/atp/notice">here</a> for more details.<br><br>Applications for ATP Vietnam are suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>The Singapore-Hong Kong ATB has been deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.<br><br>Applications for ATP from the following countries/regions are suspended. Click on the respective links below for more details. 
+<ul style="list-style-type: disc;">
+	<li style="font-size: 18px;"><a href="/australia/atp/notice">Australia (Victoria State)</a></li>
+	<li style="font-size: 18px;"><a href="/china/atp/notice">Mainland China (Guangdong province)</a></li>
+	<li style="font-size: 18px;"><a href="/taiwan/atp/notice">Taiwan</a></li>
+	<li style="font-size: 18px;"><a href="/vietnam/atp/notice">Vietnam</a></li>
+	</ul>	
+</td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Connect@Singapore</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply through an Appointed Facility (the latest list of Appointed Facilities can be found <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a>).</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/requirements-and-process">Details</a></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Applications temporarily suspended. Click <a href="https://safetravel.ica.gov.sg/connectsg/overview">here</a> for details.</td>
+      <!-- <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply through an Appointed Facility (the latest list of Appointed Facilities can be found <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a>).</td> -->
+      <!-- <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/requirements-and-process">Details</a></td> -->
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Periodic Commuting Arrangement (Singapore Work Pass Holders)</td>
@@ -54,5 +62,3 @@ permalink: /apply-now
     </tr>
   </tbody>
   </table>
-
-
