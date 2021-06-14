@@ -2,7 +2,6 @@
 title: Apply Now
 permalink: /apply-now
 ---
-
 ## Safe Travel Lanes for Entry to Singapore
 
 <table>
@@ -19,8 +18,10 @@ permalink: /apply-now
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Connect@Singapore</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply through an Appointed Facility (the latest list of Appointed Facilities can be found <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a>).</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/requirements-and-process">Details</a></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"></td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Applications temporarily suspended. Click <a href="https://safetravel.ica.gov.sg/connectsg/overview">here</a> for details.</td>
+      <!-- <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply through an Appointed Facility (the latest list of Appointed Facilities can be found <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a>).</td> -->
+      <!-- <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://safetravel.ica.gov.sg/connectsg/requirements-and-process">Details</a></td> -->
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Periodic Commuting Arrangement (Singapore Work Pass Holders)</td>
@@ -54,5 +55,3 @@ permalink: /apply-now
     </tr>
   </tbody>
   </table>
-
-
