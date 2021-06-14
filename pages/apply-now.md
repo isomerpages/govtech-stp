@@ -16,7 +16,7 @@ permalink: /apply-now
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>The Singapore-Hong Kong ATB has been deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.<br><br>Applications for ATP from the following countries/regions are suspended. Click on the respective links below for more details. 
 <ul style="list-style-type: disc;">
-	<li style="font-size: 18px;"><a href="/australia/atp/notice">Australia (Victoria State)</li>
+	<li style="font-size: 18px;"><a href="/australia/atp/notice">Australia (Victoria State)</a></li>
 	<li style="font-size: 18px;"><a href="/china/atp/notice">Mainland China (Guangdong province)</a></li>
 	<li style="font-size: 18px;"><a href="/taiwan/atp/notice">Taiwan</a></li>
 	<li style="font-size: 18px;"><a href="/vietnam/atp/notice">Vietnam</a></li>
