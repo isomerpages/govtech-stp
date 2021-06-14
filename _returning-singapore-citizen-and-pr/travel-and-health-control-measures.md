@@ -24,8 +24,8 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures Imposed</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures Imposed</b></th>
 </tr>
 </thead>
 <tbody>
