@@ -14,7 +14,14 @@ permalink: /apply-now
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Air Travel Pass</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="https://go.gov.sg/atpsg">Apply</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>The Singapore-Hong Kong ATB has been deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.<br><br>Applications for ATP Taiwan are suspended. Click <a href="/taiwan/atp/notice">here</a> for more details.<br><br>Applications for ATP Vietnam are suspended. Click <a href="/vietnam/atp/notice">here</a> for more details.</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><a href="/atp/overview">Details</a><br><br>The Singapore-Hong Kong ATB has been deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.<br><br>Applications for ATP from the following countries/regions are suspended. Click on the respective links below for more details. 
+<ul style="list-style-type: disc;">
+	<li style="font-size: 18px;"><a href="/australia/atp/notice">Australia (Victoria State)</li>
+	<li style="font-size: 18px;"><a href="/china/atp/notice">Mainland China (Guangdong province)</li>
+	<li style="font-size: 18px;"><a href="/taiwan/atp/notice">Taiwan</a></li>
+	<li style="font-size: 18px;"><a href="/vietnam/atp/notice">Vietnam</a></li>
+	</ul>	
+</td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Connect@Singapore</td>
