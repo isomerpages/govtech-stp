@@ -10,13 +10,6 @@ permalink: /contact-us
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>
 </div>
 
-<div style="padding-left: 5px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - Travellers with Travel History to Guangdong province, Mainland China</b></p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;line-height:1.2;">From 5 Jun 2021, 2359 hours, applications under the Air Travel Pass (ATP) for short-term visitors (e.g. leisure travellers) who have spent the last 21 days in Guangdong province will be suspended. Travellers who have obtained prior approvals with entry dates falling after the suspension date (i.e. after 5 Jun 2021, 2359 hours) will have their approval letters rescinded and not be allowed to enter Singapore. Affected travellers will be separately notified. Returning Singapore Citizens/Permanent Residents, Long-Term Pass Holders and travellers approved under other Safe Travel Lanes who have travel history to Guangdong province, Mainland China within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px;"><u><b>Refunds for travellers who cancel their travel plans</b></u></p>
-<p style="font-size:16px; margin-top:0px; margin-bottom:10px; line-height:1.2;">For travellers who wish to cancel their travel plans to Singapore and receive refunds for fees paid, please write in via the SafeTravel enquiry form below for us to process your request.</p>
-</div>
-
 As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
 
 ### Application Status
