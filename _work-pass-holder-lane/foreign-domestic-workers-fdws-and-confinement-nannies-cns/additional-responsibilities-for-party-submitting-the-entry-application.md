@@ -26,8 +26,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
     <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province) [For arrivals before 5 June 2021, 23:59 hours]</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)
       </li>-->
@@ -49,14 +48,14 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
+						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) </b></li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
-			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province) [For arrivals from 5 June 2021, 23:59 hours]</b></li>
-			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) </b></li>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province)</b></li>
 </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test</li>
+  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in one of the following:  <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels</li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>)</li>
@@ -77,14 +76,15 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 </ol>
 </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle; "><b>Defer entry. Not allowed to enter Singapore until further notice. This applies even if FDWs and CNs had obtained an entry approval.</b><br/><br/>
-In-principle approval (IPA) holders will have their IPA validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, employers can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension. </a>       
+In-principle approval (IPA) holders will have their IPA validities extended. Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, employers or employment agencies can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension. </a>       
         </td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> </td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>
+      <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>-->
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Israel <b>(for arrivals from 16 June 2021, 23:59 hours)</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan <!--(<b>for arrivals from 16 May 2021, 23:59 hours</b>)--></li>
      <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals before 13 May 2021</b>)</li>-->
 </ol>   
@@ -100,13 +100,13 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
       </ol>
     </td>
-    <td rowspan ="2" style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
-     <!-- <ol style="margin-top:0px; list-style-type:disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals from 13  May 2021</b>)</li>
-      </ol>-->
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
+   <ol style="margin-top:0px; list-style-type:disc;">
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Israel<b> (for arrivals before 16 June 2021, 23:59 hours)</b> </li>
+      </ol>
       </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
@@ -114,6 +114,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 21-day SHN in SDFs</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over</li>
       </ol></td> 
+			    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     </tbody>
 </table>
