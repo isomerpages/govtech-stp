@@ -126,8 +126,8 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </td>
 </tr>
 	<tr>
-<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><ol style="margin-top: 0px; list-style-type: disc;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0; list-style-type:disc;"><b>Israel</b></li></ol></td>
+<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><ul style="margin-top: 0px; list-style-type: disc;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0; list-style-type:disc;"><b>Israel</b></li></ul></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b><u>For arrivals before 16 Jun 2021, 2359 hours:</u></b>
 	<ol style="margin-top:0px;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
