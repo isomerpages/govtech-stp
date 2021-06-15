@@ -120,9 +120,9 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br/><br/><i>(Visit limited to designated Connect@Singapore facility only)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br/><br/>(Temporarily suspended; Click  the above link for more details)<!-- <i>(Visit limited to designated Connect@Singapore facility only)</i> --></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-				 <li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
+			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
 				 </ul>
 				</td>
 	</tr>
