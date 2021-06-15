@@ -583,19 +583,17 @@ Click here to [Go Back To Top](#top).
 
 ## Travellers who require the use of nebuliser
 
-#### 1. I require to use a nebuliser for management of my medical condition, what must i do before i enter Singapore?
+#### 1. I require to use a nebuliser for the management of my medical condition, what must i do before i enter Singapore?
 
 All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
 
-The declaration would not affect your entry approval status/application for entry into Singapore. The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act. 
+The declaration would not affect your entry approval status/application for entry into Singapore.
 
-In addition, travellers would be required to arrange for a tele-consultation upon arrival at their stay-home notice location for assessment on conversion to inhaler/spacer. 
+Travellers would be required to arrange for a tele-consultation upon arrival at their SHN location for assessment on conversion to an inhaler/spacer. 
 
-#### 2. I require to use a nebuliser for management of my medical condition, would i be allowed entry into Singapore? 
+#### 2. I require to use a nebuliser for the management of my medical condition, would i be allowed entry into Singapore? 
 
-Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore. 
-
-The provision of any false information relating to the necessity of nebuliser use may amount to an offence punishable under Singapore law, including but not limited to the Penal Code and/or the Infectious Diseases Act. 
+Yes, travellers who require to use a nebuliser would be allowed to enter Singapore. However, travellers are required to declare the usage before arrival into Singapore.
 
 
 Click here to [Go Back To Top](#top).
