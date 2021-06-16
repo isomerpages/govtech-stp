@@ -29,13 +29,13 @@ Prospective travellers may also refer to this [table](/files/SHN-and-swab-summar
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Some groups of travellers are allowed to serve SHN at a self-sourced accommodation (i.e. those serving 7-day SHN*). This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at [www.moh.gov.sg/covid-19].
+Some groups of travellers are allowed to serve SHN at a self-sourced accommodation (i.e. those serving 7-day SHN*). This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
 Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their 7-day SHN.
 
 Travellers who choose not to serve their 7-day SHN in a self-sourced accommodation may appeal to opt-in to an assigned SDF . These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). Relevant charges will apply.
 
-<span>*</span>Some travellers with travel history countries of moderate risk are allowed to serve the last 7 days of the 21-day SHN at their place of residence.
+<span>*</span><i>Some travellers with travel history countries of moderate risk are allowed to serve the last 7 days of the 21-day SHN at their place of residence.</i>
 
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
@@ -43,7 +43,7 @@ The more stringent travel health control measures would apply. This means that a
 
 #### 4. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
-An SHN is a legal notices issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
+An SHN is a legal notice issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
 Travellers should note that basic essentials such as portable water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
 
@@ -74,7 +74,7 @@ For travellers who are not yet in Singapore or for request that the SDF is unabl
 
 #### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
-Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 <div id="transport"></div>
 
@@ -132,12 +132,18 @@ For travellers arranging transport from the airport to their place of residence,
   </tbody>
   </table>
 	
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
 <div id="transportQ3"></div>
 
 #### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead due to medical reasons. What are the types of transport that I can take?
 
+You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for:
+
+<ul style="list-style-type: lower-latin;">
+	<li>travelling from the checkpoint to your place of residence; and</li>
+	<li>leaving your place of residence for your scheduled COVID-19 test appointment at the designated testing facility or for approved purposes. You must return immediately to your residence thereafter.</li>
+	</ul>
 <table>
   <thead>
     <tr>
@@ -172,9 +178,18 @@ Click here to [Go Back To Top](#top).
 
 #### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling? What test should I take and how long before my departure should I be tested?
 
-Travellers approved for entry into Singapore will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival. Alternatively, travellers who are planning to visit Singapore may refer to this [table](/files/SHN-and-swab-summary.pdf) or the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
+Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to this [table](/files/SHN-and-swab-summary.pdf) or the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
 
-To test for COVID-19, travellers bound for Singapore are required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should ask for a copy of their PCR test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as their Date of Birth or Passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of having taken the PCR test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
+To test for COVID-19, travellers bound for Singapore are required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). 
+
+Travellers should ask for a copy of their PCR test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
+<ul style="list-style-type: disc;">
+	<li>Be in English (or accompanied with an English translation);</li>
+	<li>Contain the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li>Reflect the date and result of the PCR test</li>
+</ul>	
+
+Travellers who fail to produce the required documentary proof of having taken the PCR test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
 In general, travellers who are required to take a PCR test must do so <u>within 72 hours before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the 72 hours will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 PCR test must be taken no earlier than 25 May 2021.
 
@@ -208,7 +223,7 @@ If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-
 
 <!--In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller may also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.-->
 
-Effective from 7 May, 2359 hours, travellers will be denied boarding by their airline or ferry if:
+Effective from 7 May 2021, 2359 hours, travellers will be denied boarding by their airline or ferry if:
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
 - tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore.
 
@@ -228,7 +243,7 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
-#### 9. I am travelling with my child. Is my child be required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
 Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born before 2015. Travellers whose children are below six years old in that calendar year, i.e. born in and after 2015, are exempted.
 
@@ -388,7 +403,7 @@ Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn/sdf) 
 
 #### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
-All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and SDF. Travellers who are sponsored may work out the payment arrangement with their application sponsors.
+All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
 
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
@@ -519,7 +534,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
-Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and COVID-19 Polymerase Chain Reaction test (“PCR test”) fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
+Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
  
 Requests for refunds will only be considered if there are strong mitigating factors. These may include flight cancellation by the airline, or changes in border policies that has prevented the traveller from leaving for Singapore. In such instances, travellers may submit a refund request to the channels, below, based on their corresponding pass type and/or scheme of entry:
 
