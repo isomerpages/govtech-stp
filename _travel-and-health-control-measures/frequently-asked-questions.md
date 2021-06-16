@@ -180,7 +180,16 @@ Click here to [Go Back To Top](#top).
 
 Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to this [table](/files/SHN-and-swab-summary.pdf) or the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
 
-To test for COVID-19, travellers bound for Singapore are required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should ask for a copy of their PCR test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as their Date of Birth or Passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of having taken the PCR test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
+To test for COVID-19, travellers bound for Singapore are required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). 
+
+Travellers should ask for a copy of their PCR test result as it will be considered by the airline and immigration officer as proof that the traveller has been tested for COVID-19. The documentary proof should:
+<ul style="list-style-type: disc;">
+	<li>Be in English (or accompanied with an English translation);</li>
+	<li>Contain the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+	<li>Reflect the date and result of the PCR test</li>
+</ul>	
+
+Travellers who fail to produce the required documentary proof of having taken the PCR test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
 In general, travellers who are required to take a PCR test must do so <u>within 72 hours before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the 72 hours will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 PCR test must be taken no earlier than 25 May 2021.
 
@@ -214,7 +223,7 @@ If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-
 
 <!--In addition to producing the COVID-19 PCR test result, which may show a positive test result due to prolonged shedding of the virus post-recovery, the traveller may also produce documentary proof of their first COVID-19 diagnosis based on a PCR test result. Travellers who are diagnosed with COVID-19 infection 21 days or less, from the date of travel, will be denied boarding by their airline or ferry. Recovered travellers who are cleared for entry into Singapore may be subject to an additional [serology test](/health/covid19-tests/serology) on arrival to confirm their recovered status.-->
 
-Effective from 7 May, 2359 hours, travellers will be denied boarding by their airline or ferry if:
+Effective from 7 May 2021, 2359 hours, travellers will be denied boarding by their airline or ferry if:
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
 - tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore.
 
@@ -234,7 +243,7 @@ Action will be taken against travellers who fail to comply with any of the stipu
 
 Yes, travellers must complete their SHN even after they are tested negative for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) before departing to Singapore. You may refer to the illustrations [here](/health/shn) on the general duration of your SHN.
 
-#### 9. I am travelling with my child. Is my child be required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
+#### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
 Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born before 2015. Travellers whose children are below six years old in that calendar year, i.e. born in and after 2015, are exempted.
 
