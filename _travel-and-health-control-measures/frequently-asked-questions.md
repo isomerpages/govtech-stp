@@ -403,7 +403,7 @@ Yes, all travellers serving their Stay-Home Notice at an [SDF](/health/shn/sdf) 
 
 #### 2. When and how should I pay for my COVID-19 Polymerase Chain Reaction test (“PCR test”) and Stay-Home Notice Dedicated Facility (SDF)?
 
-All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and SDF. Travellers who are sponsored may work out the payment arrangement with their application sponsors.
+All arriving travellers are required to pay for their PCR test (click [here](/health/covid19-tests/pcrtest) to check for the cost) and [SDF](/health/shn/sdf). Travellers who are sponsored may work out the payment arrangement with their application sponsors.
 
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
