@@ -8,8 +8,8 @@ Please note this page is meant for users who are already familiar with the SafeT
 
 <table>
   <thead>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane </th>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Application Portal</th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Safe Travel Lane </th>
+    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Application Portal</th>
   </thead>
   <tbody>
     <tr>
