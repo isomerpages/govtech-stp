@@ -3,7 +3,8 @@ title: Apply Now
 permalink: /apply-now
 ---
 Please note this page is meant for users who are already familiar with the SafeTravel lane eligibility criteria and requirements for travellers, and wish to apply directly.
-If you are unsure which lane is most relevant to use to enter Singapore and the entry requirements, please refer to the page on Travelling to Singapore instead, which gives a brief overview of the traveller profiles and countries/regions covered by each lane.
+
+<u>If you are unsure which lane is most relevant to use to enter Singapore and the entry requirements</u>, please refer to the page on [Travelling to Singapore](/arriving/overview) instead, which gives a brief overview of the traveller profiles and countries/regions covered by each lane.
 
 <table>
   <thead>
