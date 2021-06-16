@@ -74,7 +74,7 @@ For travellers who are not yet in Singapore or for request that the SDF is unabl
 
 #### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
-Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) **for more details, or** contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
+Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
 <div id="transport"></div>
 
