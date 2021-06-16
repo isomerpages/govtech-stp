@@ -534,7 +534,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
-Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and COVID-19 Polymerase Chain Reaction test (“PCR test”) fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
+Pre-payments made for relevant costs such as [SDF](/health/shn/sdf) and [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) fees during the entry application process are non-refundable for drop-outs and last minute cancellations. All forfeited pre-payments will go toward covering the relevant costs have been incurred to secure and prepare the accommodation for the traveller.
  
 Requests for refunds will only be considered if there are strong mitigating factors. These may include flight cancellation by the airline, or changes in border policies that has prevented the traveller from leaving for Singapore. In such instances, travellers may submit a refund request to the channels, below, based on their corresponding pass type and/or scheme of entry:
 
