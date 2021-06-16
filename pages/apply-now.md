@@ -17,7 +17,7 @@ Please note this page is meant for users who are already familiar with the SafeT
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/atpsg">here</a></td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/connectsg/requirements-and-process">Connect@Singapore</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/connectsg/requirements-and-process ">Connect@Singapore</a></td>
 			<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply through an Appointed Facility listed <a href="https://www.stb.gov.sg/content/stb/en/home-pages/connect-singapore-pilot.html">here</a></td>
     </tr>
       <tr>
@@ -33,7 +33,7 @@ Please note this page is meant for users who are already familiar with the SafeT
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
     </tr>
       <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/wphl/overview">Singapore Work Pass Holder Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/wphl/overview">Singapore Work Pass Holder Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Check <a href="/wphl/overview">here</a> for the various application processes depending on the worker's profile</td>
     </tr>
        <tr>
