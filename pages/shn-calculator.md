@@ -2,6 +2,12 @@
 title: Stay-Home Notice (SHN) Calculator
 permalink: /shn-calculator
 ---
+<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">Please note that the following calculators are meant for the calculation of expected end dates of SHN, <u>for those  who already know the SHN duration imposed on them.</u></p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Travellers who want to find out the specific health control measures (including SHN duration and swab requirements) applicable to them by their profile and country/region of travel, should refer <a href="">here</a>.</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>
+</div>
 
 ## Overview
 
@@ -31,8 +37,3 @@ For travellers serving SHN in an [SHN Dedicated Facility (SDF)](/health/shn/sdf)
 ## 21-day SHN Calculator
 
 <iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/9858b9c8-950e-4393-93f6-92afc1c47e3e" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
