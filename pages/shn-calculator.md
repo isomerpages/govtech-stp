@@ -5,8 +5,7 @@ permalink: /shn-calculator
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 <p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">Please note that the following calculators are meant for the calculation of expected end dates of SHN, <u>for those  who already know the SHN duration imposed on them.</u></p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Travellers who want to find out the specific health control measures (including SHN duration and swab requirements) applicable to them by their profile and country/region of travel, should refer <a href="">here</a>.</p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Travellers who want to find out the specific health control measures (including SHN duration and swab requirements) applicable to them by their profile and country/region of travel, should refer <a href="/arriving/overview">here</a> for the list of Safe Travel Lanes available. The duration of SHN imposed will vary depending on the Safe Travel Lane used to enter Singapore, and the traveller's travel history.</p>
 </div>
 
 ## Overview
