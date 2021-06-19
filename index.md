@@ -6,13 +6,14 @@ description: SafeTravel Pass is required for travellers entering into Singapore
 permalink: /
 notification: <h6 style="text-align:left;">Please note that the ICA SG Arrival
   Card (SGAC) e-Service is a simple, free, self-help form accessed via ICA’s
-  website (https://eservices.ica.gov.sg/sgarrivalcard/) for travellers to
-  declare their details up to 72 hours before arriving in Singapore. ICA does
-  not support or endorse services offered by commercial entities who claim to
-  provide assistance to travellers to make arrival applications for a
-  fee.<br/><br/>Scheduled maintenance will be taking place on:<br>&bull; 23 June
-  2021, from 12am to 8am. During this period, application services for Air
-  Travel Pass will not be available.</h6>
+  website (a
+  href="https://eservices.ica.gov.sg/sgarrivalcard/">https://eservices.ica.gov.sg/sgarrivalcard/</a>)
+  for travellers to declare their details up to 72 hours before arriving in
+  Singapore. ICA does not support or endorse services offered by commercial
+  entities who claim to provide assistance to travellers to make arrival
+  applications for a fee.<br/><br/>Scheduled maintenance will be taking place
+  on:<br>&bull; 23 June 2021, from 12am to 8am. During this period, application
+  services for Air Travel Pass will not be available.</h6>
 sections:
   - hero:
       title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
