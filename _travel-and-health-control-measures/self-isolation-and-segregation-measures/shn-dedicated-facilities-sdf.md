@@ -52,9 +52,9 @@ Travellers who wish to book an SDF suite at a specific hotel at higher cost, may
 
 ### SDF Opt-Out
 
-Travellers may opt-out of SDF if they suffer from <u> critical illness, special medical condition, or have mobility issues</u>, via the form [here](https://go.gov.sg/shnhotelneeds). Applications to opt-out of SDF must be submitted three working days before the traveller’s scheduled arrival in Singapore.
+<!--Travellers may opt-out of SDF if they suffer from <u> critical illness, special medical condition, or have mobility issues</u>, via the form [here](https://go.gov.sg/shnhotelneeds). Applications to opt-out of SDF must be submitted three working days before the traveller’s scheduled arrival in Singapore.-->
+In general, travellers issued with a 14-day SHN must complete their SHN at an SDF, Exceptions, however, can be arranged for small group of travellers who will complete their 14-day SHN at their own residence instead. Travellers eligible for this arrangement should submit their applications three working days before their scheduled arrival in Singapore via the links below:
 
-<!--
 <table>
   <thead>
     <tr>
@@ -69,18 +69,16 @@ Travellers may opt-out of SDF if they suffer from <u> critical illness, special 
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out, where they have remained for the past 21 days before departure to Singapore, and will serve their SHN at their own residence<sup>[1]</sup>:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out(presently Israel and Taiwan only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
           <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
             <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> Alone, i.e. no domestic helper(s); or </li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
         </ol>
-        <sup>[1]</sup> Excludes hotels, serviced apartments and other temporary forms of accommodation (including AirBnB accommodation)
            </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Application form <a href="/sc-pr/opt-out/apply-now">here</a> for Singaporean Citizens and PRs. <br/><br/> Foreign Travellers can opt out during their entry application process. 
 </td>
     </tr>
   </tbody>
   </table>
--->
 
 Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable.
