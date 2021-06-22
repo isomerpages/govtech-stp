@@ -7,7 +7,7 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/requirements-and-process">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
-<p style="font-size:16px; margin-top:-10px;"><i>(Reflects latest travel policy announced on 14 June 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(Reflects latest travel policy announced on 23 June 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -96,6 +96,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">
 <ul style="margin-top:0px; list-style-type: disc;">
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Fiji</b></li>-->
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
@@ -114,15 +115,15 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, <u>and</u> take a COVID-19 PCR test on Day 14 of the SHN</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve an additional 7-day SHN in self-isolation at either a place of residence or self-sourced accommodation and fulfil the following conditions:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, <u>and</u> take a COVID-19 PCR test on Day 14 of the SHN. Eligible travellers <sup>*</sup>may serve their SHN at their place of residence.
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[From 27 Jun 2021, 2359 hours] Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their SHN.</li>
+</ol>
+<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup> From 23 June 2021, 2359 hours onwards, travellers may use this form to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain at the place of residence or accommodation at all times during the SHN period; </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If sharing a place of residence with others, the traveller should stay in their room at all times and use a dedicated toilet, and avoid contact with other persons in the same place of residence who are not serving SHN;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the additional 7-day SHN.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</li>
 </ol>
-</li>
-</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</p>
 </td>
 </tr>
 	<tr>
