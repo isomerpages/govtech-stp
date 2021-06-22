@@ -137,8 +137,8 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 72 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
-- Serving 21-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
-- Taking COVID-19 PCR tests on Day 14 and 21 of SHN.
+- Serving 14-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
+- Taking COVID-19 PCR tests on Day 14 of SHN.
 
 Click <a href="/sc-pr/shn-and-swab-summary">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
 
