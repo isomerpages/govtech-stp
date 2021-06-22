@@ -125,7 +125,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until <u>after</u> they are ascertained to be free of COVID-19. 
 
-All SHN-serving travellers are required to take additional COVID-19 PCR tests during the SHN period. The table below shows the typical test schedule for all SHN serving travellers, which is automatically scheduled by the relevant agency:
+All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. The table below shows the typical test schedule for all SHN serving travellers, which is automatically scheduled by the relevant agency:
 
 <table>
 <thead>
@@ -142,11 +142,17 @@ All SHN-serving travellers are required to take additional COVID-19 PCR tests du
  </tr>
 <tr>
 	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN</td>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 7 of SHN</td>
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 7 of SHN</td>
 </tr>
 <tr>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">21-day SHN (including 14-day SHN at SDF with additional 7-day SHN at place of residence)</td>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>
+	<!--<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">21-day SHN (including 14-day SHN at SDF with additional 7-day SHN at place of residence)</td>
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>-->
+	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 14 of SHN</td>
+</tr>
+	<tr>
+			    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of SHN, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
 	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
