@@ -126,7 +126,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</p>
 </td>
 </tr>
-	<tr>
+<!--	<tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><ul style="margin-top: 0px; list-style-type: disc;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0; list-style-type:disc;"><b>Israel</b></li></ul></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b><u>For arrivals before 16 Jun 2021, 2359 hours:</u></b>
@@ -174,7 +174,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 		</li>
 </ol>
 	</td>
-</tr>
+</tr>-->
 <tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><ul style="margin-top: 0px; list-style-type: disc;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Malaysia</b></li></ul></td>
