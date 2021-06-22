@@ -26,7 +26,6 @@ If you have specific needs for your SDF stay (e.g. medical requirements), you ma
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </table>
-
 <!-- <b> Cost of SDF Stay (21 Days)</b>
 
 <table>
