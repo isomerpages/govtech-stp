@@ -194,7 +194,7 @@ Travellers will be transported to their assigned SDF using Government-arranged t
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
-"><b><u>Up to 21 days after arriving</u></b> in Singapore</th>
+"><b><u>Up to 14 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
