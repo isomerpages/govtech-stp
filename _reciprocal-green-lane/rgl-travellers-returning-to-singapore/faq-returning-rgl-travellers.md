@@ -69,11 +69,11 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
-Upon arrival in Singapore, all Singapore-based travellers returning from their travel from <b>Germany/Indonesia/Japan/Malaysia/ Republic of Korea</b> on RGL, will be:
-- Required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Served a 21-day SHN which they will serve at the SHN-Dedicated Facility with COVID-19 PCR test on Day 14 of SHN, and another test at the end of 21-day SHN period.
+Upon arrival in Singapore, all Singapore-based travellers returning from their travel from <b>Germany/Indonesia/Japan/Malaysia/ Republic of Korea</b> on RGL, will be required to:
+- Take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
+- Serve a 14-day SHN which they will serve at the <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> or place of residence, with COVID-19 PCR test on Day 14 of SHN
 
-Travellers will pay for the cost of the 21-day SHN and the COVID-19 PCR tests. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
+Travellers will pay for the cost of the 14-day SHN and the COVID-19 PCR tests. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
 
 #### 2. Do I have to take a COVID-19 test before I return to Singapore?
 
