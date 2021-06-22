@@ -123,7 +123,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</li>
 </ol></i>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</p>
+<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</p></i>
 </td>
 </tr>
 <!--	<tr>
