@@ -116,9 +116,9 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, <u>and</u> take a COVID-19 PCR test on Day 14 of the SHN. Eligible travellers <sup>*</sup>may serve their SHN at their place of residence.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">[From 27 Jun 2021, 2359 hours] Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their SHN.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their SHN.</li>
 </ol>
-<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup> From 23 June 2021, 2359 hours onwards, travellers may use this form to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</p>
+<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup> <i>From 23 June 2021, 2359 hours onwards, travellers may use this form to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions</i>:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</li>
