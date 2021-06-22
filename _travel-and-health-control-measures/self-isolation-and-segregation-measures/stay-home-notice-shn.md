@@ -29,14 +29,14 @@ Reflected in the table below are four examples of how the SHN end date is typica
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller A arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 8 March 2021, after his COVID-19 test results are released.
       </td>
     </tr>
-     <!-- <tr>
+     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>14-day SHN</b>
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller B arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his COVID-19 test result is released.
       </td>
-    </tr>-->
+    </tr>
      <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>14-day SHN at SHN-dedicated facility (SDF) + 7-day SHN at place of residence</b>
+     <!-- <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:3px solid #D8D8D8;"><b>14-day SHN at SHN-dedicated facility (SDF) + 7-day SHN at place of residence</b>
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller C arrived in Singapore on 1 March 2021. His 14-day SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his 1st COVID-19 test result is released. The subsequent 7-day SHN will start on 15 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released.
       </td>
@@ -46,7 +46,7 @@ Reflected in the table below are four examples of how the SHN end date is typica
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom:3px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller D arrived in Singapore on 1 March 2021. His 21-day SHN at an SDF will start with immediate effect on 1 March 2021, and end on 22 March 2021, after his 2nd COVID-19 test result is released. In total, traveller D will take two COVID-19 PCR tests, one on the 14th day after his arrival, and another on the 21st day of his SHN.
       </td>
-    </tr>
+    </tr>-->
   </tbody>
   </table>
 
