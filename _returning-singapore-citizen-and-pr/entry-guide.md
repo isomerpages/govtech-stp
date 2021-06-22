@@ -95,7 +95,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="3" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -106,14 +106,14 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
 </tr>
 <tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
-</tr>
+<!--<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
+</tr>-->
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SDF transport provided, no booking required</td>
 </tr>
 <tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14 or 21-day SHN at own residence</td>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="/health/faq#transportQ3">here</a>. 
 </td>
 </tr>
