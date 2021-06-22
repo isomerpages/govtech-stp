@@ -526,7 +526,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 				<tr>
 					<div id="note"></div>
 					
-<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* All travellers with travel history in the past 21 consecutive days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will need to take a COVID-19 Antigen Rapid Test (ART) in addition to a COVID-19 PCR test on arrival at Changi Airport.  This requirement also applies to travellers who are aged 3  (i.e. born in 2018) and above</td>
+<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* All travellers with travel history in the past 21 consecutive days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will need to take a COVID-19 Antigen Rapid Test (ART) in addition to a COVID-19 PCR test on arrival at Changi Airport.  This requirement also applies to travellers who are aged 3  (i.e. born in 2018) and above.</td>
 		</tr>
       </tbody>
   </table>
