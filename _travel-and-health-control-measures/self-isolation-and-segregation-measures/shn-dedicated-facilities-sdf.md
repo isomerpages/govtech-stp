@@ -45,7 +45,7 @@ If you have specific needs for your SDF stay (e.g. medical requirements), you ma
  </table>
 <sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
 
-The exact total costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
+The exact costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
 Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
 
