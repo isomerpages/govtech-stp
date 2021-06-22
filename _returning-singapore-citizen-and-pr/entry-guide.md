@@ -20,7 +20,15 @@ Before their return, returning SC/PRs should familiarise themselves with the ind
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
-<b>SCs and PRs returning to Singapore by flight or ferry</b> and <b>PRs entering Singapore via the Causeway or Second Link</b> are required to present a valid negative PDT result for entry into Singapore. Travellers are exempted from this requirement, if they have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore. SCs entering Singapore via the Causeway or Second Link do not need a PDT but will be subject to the prevailing travel health control measures. Click <a href="/sc-pr/shn-and-swab-summary">here</a> to find out if a pre-departure test (PDT) is required before you board.
+<b>SCs and PRs returning to Singapore by flight or ferry</b> and <b>PRs entering Singapore via the Causeway or Second Link</b> are required to present a valid negative PDT result for entry into Singapore. SCs entering Singapore via the Causeway or Second Link do not need a PDT but will be subject to the prevailing travel health control measures. 
+
+For flights and ferry trips departing from <u>27 June 2021, 2359hrs (1559 hrs GMT)</u>, the PDT requirement will also apply to travellers aged three and above (in this calendar year). Travellers who meet the conditions below will be exempted from this requirement:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Leaving for Singapore before 27 June 2021, 2359 hrs (1559 hrs GMT), and are below the age of six (i.e. born in or after 2015); or</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore. </li>
+	</ol>
+
+Click <a href="/sc-pr/shn-and-swab-summary">here</a> to find out if a pre-departure test (PDT) is required before you board.
 
 Travellers requiring a PDT must take the test <u>within 72 hours before their departure for Singapore</u>. The test must also be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
 
@@ -44,6 +52,16 @@ Travellers who are fit for travel must:
 </ol>
 
 Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing. 
+
+C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN-Dedicated Facility (SDF)</u>
+
+Travellers may apply to serve their SHN at their own residence instead of an SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, if they have remained in the countries/regions specified in S/No. 3 of this list for 21 consecutive days and are serving their SHN:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Alone, i.e. no domestic helper(s); or</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">With household members that share the same travel history and area also serving their SHN for the same duration and period.</li>
+</ol>
+
+Eligible travellers should submit their applications at least three days before arrival in Singapore. Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
 
 
 ### 2. Departure for Singapore
