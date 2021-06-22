@@ -244,11 +244,11 @@ Yes, travellers must complete their SHN even after they are tested negative for 
 
 #### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born before 2015. Travellers whose children are below six years old in that calendar year, i.e. born in and after 2015, are exempted.
+Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are three years old and above in that calendar year (i.e. born in and after 2018) <b>and departing for Singapore from their first point of embarkation on or after 27 Jun 2021, 2359 hrs (1559 hrs GMT)</b>. Travellers whose children are below three years old in that calendar year, i.e. born before 2018, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
-Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission. COVID-19 testing is extended to inbound travellers aged 7 and above (in that calendar year). 
+Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
 
 #### 11. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
