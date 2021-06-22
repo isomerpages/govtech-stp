@@ -4,7 +4,7 @@ permalink: /scpr-familial-ties-lane/requirements-and-process
 ---
 <b><span style="color:red">[NOTICE]</span></b>
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders and visitors with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
-<p style="font-size:16px; line-height:1.5; color:red;"><b>From 5 June 2021, 2359 hours, travellers who have travel history to Guangdong province in Mainland China within 21 days of their departure for Singapore will be required to serve a 7-day SHN at a self-sourced accommodation, including a place of residence.</b></p>
+
 
 ### Overview
 
@@ -235,7 +235,7 @@ For travellers who are required to serve SHN at an SHN Dedicated Facility (SDF) 
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 21 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 14 days after arriving in Singapore</th>
   </tr>
   </thead>
 <tbody>
