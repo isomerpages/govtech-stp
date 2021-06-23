@@ -61,7 +61,7 @@ Travellers may apply to serve their SHN at their own residence instead of an SDF
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">With household members that share the same travel history and area also serving their SHN for the same duration and period.</li>
 </ol>
 
-Eligible travellers should submit their applications at least three days before arrival in Singapore. Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
+Eligible travellers should submit their applications <b>at least three days before arrival in Singapore</b>. Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
 
 
 ### 2. Departure for Singapore
