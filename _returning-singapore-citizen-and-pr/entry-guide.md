@@ -120,7 +120,6 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 </table>
 
 
-
 ### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until <u>after</u> they are ascertained to be free of COVID-19. 
