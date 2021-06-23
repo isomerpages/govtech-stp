@@ -133,23 +133,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </tbody>
 </table>
 
-<table>
-<thead>
-  <tr>
-    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Arrival date in Singapore</b></th>
-    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Who needs to take the COVID-19 tests listed above</b></th>
-  </tr>
-</thead>
-<tbody>
-	<tr>
-		 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Before 27 June 2021, 23:59 hours</td>
-				 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pass holders 7 years old and above this year </td>
-	</tr>
-		<tr>
-		 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">From 27 June 2021, 23:59 hours	 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pass holders 3 years old and above this year</td>
-	</tr>
-	</tbody>
-	</table>
+
 
 ### What Companies Must Do when Pass Holders Enter Singapore
 <ul>
