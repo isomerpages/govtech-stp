@@ -11,9 +11,7 @@ notification: <h6 style="text-align:left;">Please note that the ICA SG Arrival
   for travellers to declare their details up to 72 hours before arriving in
   Singapore. ICA does not support or endorse services offered by commercial
   entities who claim to provide assistance to travellers to make arrival
-  applications for a fee.<br/><br/>Scheduled maintenance will be taking place
-  on:<br>&bull; 23 June 2021, from 12am to 8am. During this period, application
-  services for Air Travel Pass will not be available.</h6>
+  applications for a fee.</h6>
 sections:
   - hero:
       title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
