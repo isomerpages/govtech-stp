@@ -78,7 +78,7 @@ Returning RGL travellers will be subjected to the health measures described in t
   <li style="font-size:16px; margin-top: 0px; margin-bottom:0px;line-height:1.5; ">Take an on-arrival COVID-19 PCR test; and</li>
 	<li style="font-size:16px; margin-top: 0px; margin-bottom:0px; line-height:1.5;">Serve a 14-day SHN in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a COVID-19 PCR test on Day 14 at SDF.</li>
 	<li style="font-size:16px; margin-top: 0px; margin-bottom:0px; line-height:1.5;">
-	<b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their SHN.</li>		
+	<b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>		
 </ol>
  </td>
   </tr>
