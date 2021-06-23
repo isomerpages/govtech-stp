@@ -97,8 +97,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
   </ol>
       </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab tests before 14-day SHN is over</li>
-			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab tests before 14-day SHN is over</li>
+			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
 			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Those serving SHN in SDFs will be issued Antigen Rapid Test(ART) self-test kits for them to take ARTs during SHN</li>
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b></p>
