@@ -133,7 +133,6 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </tbody>
 </table>
 
-<br/>
 
 <table>
 <thead>
