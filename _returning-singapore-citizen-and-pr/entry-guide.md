@@ -30,7 +30,7 @@ For flights and ferry trips departing from <b>27 June 2021, 2359hrs (1559 hrs GM
 
 Click <a href="/sc-pr/shn-and-swab-summary">here</a> to find out if a pre-departure test (PDT) is required before you board.
 
-Travellers requiring a PDT must take the test <u>within 72 hours before their departure for Singapore</u>. The test must also be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
+Travellers requiring a PDT must take the test <b>within 72 hours before their departure for Singapore</b>. The test must also be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
