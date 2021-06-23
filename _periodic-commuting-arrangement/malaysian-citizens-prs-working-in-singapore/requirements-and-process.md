@@ -29,39 +29,39 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <br/><br/>
     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><b>To apply, application sponsors of <u>Work Pass Holders</u>, must: </b></p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
-      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
+       <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Read and acknowledge the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> imposed pursuant to section 7(4A) of the Employment of Foreign Manpower Act (EFMA); </li>
+      <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s Work Pass is valid for at least 15 days after the expected date of entry into Singapore; </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s Passport Number </li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s FIN number; </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s Work Pass is valid for at least 15 days after the expected date of entry into Singapore; </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s Passport Number </li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
+    <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement of the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> that he/she will be subject to for entry under the PCA; and </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Acknowledgement of the <a href="/malaysia/pca/terms-and-conditions">additional work pass conditions</a> that he/she will be subject to for entry under the PCA; and </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Consent to disclosing their <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>   
-    <!-- <p style="font-size:16px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
+    <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;"><i>* PCA-approved travellers/employees are permitted to serve their SHNs in hotels, serviced apartments, single-occupancy residences (i.e. one person in the SHN accommodation), or in accommodations presently occupied by their immediate family members (i.e. parents, siblings, spouse and children). They are prohibited from serving their SHN at a dormitory, hostel or rented room. Sharing of SHN accommodation (up to four pax) is permitted, if the group of approved travellers arrive in Singapore on the same day.</i> </p> -->
 <br/>
     <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Application sponsors of <u>Singapore Permanent Residents who are Malaysian nationals</u>, must:</p> 
   <ol style="margin-top:0px; list-style-type:lower-alpha;">
-      <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
+      <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Have on hand the following details as part of the submission:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s NRIC number;</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s Passport Number; </li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s NRIC number;</li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s Passport Number; </li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Employee’s intended date of entry into Singapore; </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Details of contact person in company or agency (e.g. name, mobile number, email address) </li>
          </ol>   
        </li>
-    <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
+    <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Obtain the sponsored employees’:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Acknowledgement that any breach in <a href="/health/shn">SHN</a> requirements or submission of false declarations constitutes an offence that is punishable under Singapore’s laws;</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Consent to disclosing their PCR test results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Acknowledgement that any breach in <a href="/health/shn">SHN</a> requirements or submission of false declarations constitutes an offence that is punishable under Singapore’s laws;</li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Consent to disclosing their PCR test results either by themselves or through the medical provider, to the employer and relevant government authorities in Singapore. </li>
          </ol>   
        </li>
       </ol>      
@@ -84,8 +84,8 @@ Employers can use their Corppass to apply for the SafeTravel Periodic Commuting 
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">Approved PCA travellers, including Singapore Permanent Residents, must take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> <b>within 72 hours before departure</b>. <b>The test must be taken at a recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a></b>.<br/><br/>
 As a condition to enter Singapore, travellers must present a valid negative COVID-19 PCR test result in English (or accompanied with an English translation), which contains the following details:
 <ol style="margin-top:0px; list-style-type: disc;">
- <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
+ <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+  <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Date and result of the PCR test.</li>
  </ol>
 <!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><u><i>Note:</i></u></p>
@@ -99,8 +99,8 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">
      <b>Approved PCA travellers should monitor their health and avoid travelling if feeling <a href="/health/covid19-symptoms">unwell</a>. If the traveller is healthy, he/she should:</b><br/>
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Electronically submit their pre-trip health and travel history declarations <a href="https://eservices.ica.gov.sg/sgarrivalcard" target="_blank">here</a>; and</li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Install and activate the <a href="https://www.tracetogether.gov.sg" target="_blank">TraceTogether</a>,<a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank"> FWMOMCARE </a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phone. </li>
       </ol>
    </td>
   </tr>
@@ -112,7 +112,7 @@ Travellers who have yet to register or pay for their on-arrival COVID-19 PCR tes
   </tr>
  <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
+    <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
   </tr>
    </thead>
    <tr>
@@ -120,20 +120,20 @@ Travellers who have yet to register or pay for their on-arrival COVID-19 PCR tes
 </b></td>
      <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Approved PCA travellers should be prepared to produce the following documents if requested by the Malaysian authorities when leaving Malaysia for Singapore:<br/>
     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter;</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English,except for Singapore Permanent Resident, from recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a> (except for Singapore Permanent Residents);</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Valid Malaysia-issued passport; and</li>
-     <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Work pass (for work pass holders) or Singapore NRIC (for Singapore PRs)</li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Electronic or hardcopy of the PCA approval letter;</li>
+     <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Valid negative COVID-19 test result in English, except for Singapore Permanent Resident, from recognised or <a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">accredited laboratories in Malaysia</a> (except for Singapore Permanent Residents);</li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Valid Malaysia-issued passport; and</li>
+     <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Work pass (for work pass holders) or Singapore NRIC (for Singapore PRs)</li>
          </ol>     
 <!-- Employees approved under the PCA may commute from Malaysia’s immigration checkpoint to Singapore via personal transport (e.g. motorbike/car), or by foot. 
       <ol style="margin-top:0px; list-style-type: disc;">
-       <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">[<b>*IMPORTANT</b>: Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for all personal transport modes.  <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> To avoid accumulating your VEP fees, you are encouraged to pay your VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.]</li>
+       <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">[<b>*IMPORTANT</b>: Vehicle Entry Permit (VEP) fees will apply throughout the period of stay in Singapore for all personal transport modes.  <b><u>The VEP fees are S$35/day for cars and S$4/day for motorcycles.</u></b> To avoid accumulating your VEP fees, you are encouraged to pay your VEP fees regularly at any of the 810 AXS stations located across Singapore (payment by Singapore bank-issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home/driving/entering_and_exiting_singapore/cars-and-motorcycles-registered-in-malaysia.html">here</a> for more information about VEP payment methods.]</li>
       </ol> -->
     </td>
   </tr>
 	<tr>
-  <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
+  <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
      Travellers are required to download and register their profile on the TraceTogether App to aid contract tracing. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. 
     </td>
  </tr>
@@ -154,9 +154,9 @@ Travellers who have yet to register or pay for their on-arrival COVID-19 PCR tes
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
     <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
         <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+         <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
          </ol>
       <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
       <br/>
@@ -175,12 +175,12 @@ Immediately after immigration clearance, travellers will take an on-arrival COVI
 Travellers will be transported to their assigned SDF using Government-arranged transport. The use of personal or public transport is prohibited, e.g. cars, motorcycles, taxis or public trains and buses. 
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
-            <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street). </li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Private buses ferrying only Malaysian passengers serving SHN**; or </li>
+            <li style="font-size:18px; margin-top:0px; margin-bottom:0px;"> Pre-booked taxis and private-hire cars (no flagging taxis from the street). </li>
          </ol> -->
      <!--<br/>-->
-    <!--  <p style="font-size:16px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
+    <!--  <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">* Daily Vehicle Entry Permit (VEP) fees of S$35/day for cars and S$4/day for motorcycles are applicable to keep or use a foreign vehicle in Singapore. Travellers are required to extend the VEP validity for their foreign-registered cars and motorcycles and pay VEP fees <b>every 14 days</b> at any of the 810 <a href="https://www.axs.com.sg/axsStation_locations.php">AXS stations</a> located across Singapore (payment by Singapore bank issued ATM and credit cards only). Please click <a href="https://www.onemotoring.com.sg/content/onemotoring/home.html">here</a> for more information about application of VEP and VEP payment methods.
 <br/>** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
      </p>-->
          </td>
@@ -202,9 +202,9 @@ Travellers will be transported to their assigned SDF using Government-arranged t
     <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test(s) ("PCR Test")</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8;"><b>Application sponsors must: </b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details (sent to the sponsor's email and mobile phone) to their employees;</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees turn up for the test appointment; and</li>
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Ensure that their employees comply with the SHN requirements.</li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Disseminate the COVID-19 PCR test appointment details (sent to the sponsor's email and mobile phone) to their employees;</li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Ensure that their employees turn up for the test appointment; and</li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Ensure that their employees comply with the SHN requirements.</li>
          </ol>   
     </td>
   </tr>
@@ -216,10 +216,10 @@ Singapore Permanent Residents who are Malaysian nationals may access Government 
     </td>
   </tr>
 	<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;background-color:#EDEDED"><b>Retention of TraceTogether App Data or Return of TraceTogether Tokens </b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 days after leaving Singapore.
-			<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5"><b>For TraceTogether Token users</b>, visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints prior to their departure from Singapore. </p>
-						<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a></p>
+    <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;background-color:#EDEDED"><b>Retention of TraceTogether App Data or Return of TraceTogether Tokens </b></td>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 days after leaving Singapore.<br/><br/>
+			<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5"><b>For TraceTogether Token users</b>, visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints prior to their departure from Singapore. </p><br/>
+						<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a></p>
     </td>
   </tr>
  <thead>
@@ -231,8 +231,8 @@ Singapore Permanent Residents who are Malaysian nationals may access Government 
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Safe Travel within Singapore</b></td>
     <td style="font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>All PCA travellers must:</b><br/>
         <ol style="margin-top:0px; list-style-type: lower-roman;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Comply with prevailing local public health requirements and safe distancing measures; and</li>
-          <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications (e.g. <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.safeentry.gov.sg/">SafeEntry</a>) where required.</li>
+         <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Comply with prevailing local public health requirements and safe distancing measures; and</li>
+          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Use the mandatory mobile applications (e.g. <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.safeentry.gov.sg/">SafeEntry</a>) where required.</li>
          </ol>   
     </td>
  </tr>
