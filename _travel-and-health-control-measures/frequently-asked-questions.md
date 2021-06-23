@@ -23,9 +23,9 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore. The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued. [Click here](/shn-calculator) to calculate the end date of your SHN.
+The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore, and Safe Travel Lane used. Please check the page [here](/arriving/overview) on the Safe Travel Lanes available depending on your traveler profile and travel history.
 
-Prospective travellers may also refer to this [table](/files/SHN-and-swab-summary.pdf), or the specific SafeTravel lane (can be accessed from this [page](/arriving/overview)) for information pertaining to SHN and its duration.
+The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
