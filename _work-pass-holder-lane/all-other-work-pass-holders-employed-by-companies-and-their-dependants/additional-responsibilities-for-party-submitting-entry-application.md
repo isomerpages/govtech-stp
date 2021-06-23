@@ -126,7 +126,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on </p>
+		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on.</p>
 			</td> 
 			    <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
