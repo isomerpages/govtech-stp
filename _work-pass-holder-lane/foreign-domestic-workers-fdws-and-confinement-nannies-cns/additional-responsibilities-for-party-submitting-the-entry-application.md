@@ -115,7 +115,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore.</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab tests before 14-day SHN is over.</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</li>
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
