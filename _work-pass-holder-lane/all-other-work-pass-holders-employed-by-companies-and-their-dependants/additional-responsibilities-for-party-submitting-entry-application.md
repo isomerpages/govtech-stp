@@ -123,7 +123,8 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore. </li><br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders entering Singapore from 23 June 2021, 2359 hours:</b></p>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab tests before 14-day SHN is over.</li>
-			 	<br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours: </b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</p>
+			 	<br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours: </b> </p>
+			 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
