@@ -12,7 +12,7 @@ Before their return, returning SC/PRs should familiarise themselves with the ind
 <li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a>, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test</li> 
 </ol>
 
-<u>Please note that travellers who have received COVID-19 vaccination or recovered from COVID-19 are currently subjected to the prevailing health measures.</u>
+<b>Please note that travellers who have received COVID-19 vaccination or recovered from COVID-19 are currently subjected to the prevailing health measures.</b>
 
 <div id="PDT"></div>
 
