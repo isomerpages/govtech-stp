@@ -84,7 +84,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>-->
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Israel <b>(for arrivals from 16 June 2021, 23:59 hours)</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Israel </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan <!--(<b>for arrivals from 16 May 2021, 23:59 hours</b>)--></li>
      <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals before 13 May 2021</b>)</li>-->
 </ol>   
