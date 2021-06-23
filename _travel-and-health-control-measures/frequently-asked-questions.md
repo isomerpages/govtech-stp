@@ -23,19 +23,18 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore. The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued. [Click here](/shn-calculator) to calculate the end date of your SHN.
+The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore, and Safe Travel Lane used. Please check the page [here](/arriving/overview) on the Safe Travel Lanes available depending on your traveler profile and travel history.
 
-Prospective travellers may also refer to this [table](/files/SHN-and-swab-summary.pdf), or the specific SafeTravel lane (can be accessed from this [page](/arriving/overview)) for information pertaining to SHN and its duration.
+The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Some groups of travellers are allowed to serve SHN at a self-sourced accommodation (i.e. those serving 7-day SHN*). This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
+Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
 Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their 7-day SHN.
 
 Travellers who choose not to serve their 7-day SHN in a self-sourced accommodation may appeal to opt-in to an assigned SDF . These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). Relevant charges will apply.
 
-<span>*</span><i>Some travellers with travel history countries of moderate risk are allowed to serve the last 7 days of the 21-day SHN at their place of residence.</i>
 
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
@@ -245,11 +244,11 @@ Yes, travellers must complete their SHN even after they are tested negative for 
 
 #### 9. I am travelling with my child. Is my child required to be tested for COVID-19 before entry into Singapore? Are infants exempted?
 
-Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are above seven years of age in that calendar year, i.e. born before 2015. Travellers whose children are below six years old in that calendar year, i.e. born in and after 2015, are exempted.
+Travellers arriving from countries that require a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) must do so if they are three years old and above in that calendar year (i.e. born in and after 2018) <b>and departing for Singapore from their first point of embarkation on or after 27 Jun 2021, 2359 hrs (1559 hrs GMT)</b>. Travellers whose children are below three years old in that calendar year, i.e. born before 2018, are exempted.
 
 #### 10. Why do children need to take the COVID-19 Polymerase Chain Reaction test (“PCR test”)?
 
-Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission. COVID-19 testing is extended to inbound travellers aged 7 and above (in that calendar year). 
+Regardless of age, infected individuals can transmit [COVID-19](https://www.moh.gov.sg/covid-19/faqs) to other members of the community if undetected. As part of border health control measures to detect cases early and minimise the public health risk of community transmission, COVID-19 testing is extended to inbound travellers aged 3 and above (in that calendar year). 
 
 #### 11. My child is very sensitive/has frequent nosebleeds. Can he/she be excused from the SHN+ exit swab?
 
@@ -527,7 +526,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 				<tr>
 					<div id="note"></div>
 					
-<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* With effect from 20 May 2021, all travellers with travel history in the past 21 consecutive days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will need to take a COVID-19 Antigen Rapid Test (ART) in addition to a COVID-19 PCR test on arrival at Changi Airport. Travellers aged 6 and below (i.e. those born from 2015 to 2021) will be exempted from the ART and PCR tests.</td>
+<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* All travellers with travel history in the past 21 consecutive days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will need to take a COVID-19 Antigen Rapid Test (ART) in addition to a COVID-19 PCR test on arrival at Changi Airport.  This requirement also applies to travellers who are aged 3  (i.e. born in 2018) and above.</td>
 		</tr>
       </tbody>
   </table>

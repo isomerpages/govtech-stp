@@ -137,8 +137,8 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 72 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
-- Serving 21-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
-- Taking COVID-19 PCR tests on Day 14 and 21 of SHN.
+- Serving 14-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
+- Taking three self-administered COVID-19 Antigen Rapid Test (ART), on Day 3, 7 and 11; followed by PCR test on Day 14 of SHN. 
 
 Click <a href="/sc-pr/shn-and-swab-summary">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
 
@@ -352,7 +352,7 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for two other PCR tests on the 14<sup>th</sup> and 21<sup>st</sup> day of their SHN. 
+Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for another PCR test on the 14th day before they exit their SHN.
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 

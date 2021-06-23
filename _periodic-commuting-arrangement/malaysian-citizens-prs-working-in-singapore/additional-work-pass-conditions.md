@@ -8,7 +8,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 1. Prior to submitting the entry application on behalf of the Malaysia employee (“**foreign employee**”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
 : a. has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;
 : b. has read and understood the following additional work pass conditions applicable to him/her (in **Annex B**);
-: c. agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (“**PCR**”) test results to the employer and relevant government authorities in Singapore.
+: c. agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (“**PCR**”) and Antigen Rapid Test ("**ART**") test results to the employer and relevant government authorities in Singapore.
 
 2. If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in **Annexes A and B** will be imposed on:
 : a. the Employer of the foreign employee; and
@@ -27,7 +27,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 *Before the foreign employee leaves for Singapore*
 
 2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing or Singapore if:
-: a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore.
+: a. the foreign employee had recent travel history to Malaysia within the last 14 days prior to entering Singapore.
 
 Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
 
@@ -44,7 +44,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 7. The Employer shall ensure that the foreign employee undergoes an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test ($160 inclusive of GST), and the cost shall be paid upfront before the OAT test is conducted. This requirement for the OAT for all inbound PCA travellers takes effect from 24 January 2021, 2359 hours.
 
 8. The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
-: a. 21 days subsequent thereafter and will end at 12 noon on the 22nd day; or
+: a. 14 days subsequent thereafter and will end at 12 noon on the 15th day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, whichever is later
 
 9. The Employer/foreign employee shall bear the full costs of the foreign employee's stay at a dedicated SHN facility during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee. 
@@ -81,7 +81,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 3. The foreign employee shall undergo an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test ($160 inclusive of GST), and the cost shall be paid upfront before the OAT test is conducted. This requirement for the OAT for all inbound PCA travellers takes effect from 24 January 2021, 2359 hours.
 
 4. The foreign employee shall comply with the Stay-Home Notice period ("SHN period") which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
-: a. 21 days subsequent thereafter, and will end at 12 noon on the 22nd day; or
+: a. 14 days subsequent thereafter, and will end at 12 noon on the 15th day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN period will end immediately, whichever is later.
 
 5. The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her dedicated SHN facility to serve his/her SHN.

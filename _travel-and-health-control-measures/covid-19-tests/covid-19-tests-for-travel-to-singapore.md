@@ -5,7 +5,9 @@ third_nav_title: Covid 19 Tests
 ---
 ### COVID-19 Tests for Travel to Singapore
 
-This page provides information on the various COVID-19 tests to be taken when travelling to Singapore. All inbound travellers aged 7 and above, including those who had recovered from COVID-19, will be tested.
+This page provides information on the various COVID-19 tests to be taken when travelling to Singapore.
+
+Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in the current calendar year (i.e. those born from 2018) <b>departing for Singapore from their first point of embarkation on or after 27 Jun 2021, 2359 hrs (1559 hrs GMT)</b>,  will also be subjected to COVID-19 tests. Before 27 Jun 2021, 2359 hrs, travellers aged 7 and above in the current calendar year are required to be tested.
 
 The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="/arriving/overview">Safe Travel Lane</a> for full details.
 
@@ -78,4 +80,4 @@ Travellers will be informed of their PCR test results verbally by phone or in pe
 
 <div id="note"></div>
 
-<b><u>NOTE</u></b>: With effect from 20 May 2021, 0001 hours, all travellers with travel history in the past consecutive 21 days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will need to take a COVID-19 Antigen Rapid Test (ART) in addition to a COVID-19 PCR test on arrival at Changi Airport. Travellers aged 6 and below (i.e. those born from 2015 to 2021) will be exempted from the ART and PCR tests. The additional COVID-19 ART charge will be fully funded by the Government of Singapore from 20 May 2021 to 26 May 2021. Travellers will be required to pay for their COVID-19 ART from 27 May 2021.
+<b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport.

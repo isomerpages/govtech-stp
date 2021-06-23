@@ -67,16 +67,18 @@ Returning RGL travellers will be subjected to the health measures described in t
     <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>On-arrival  Health Control Measures</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Returning RGL travellers from <b>Brunei Darussalam and Mainland China (excluding Guangdong province)</b> will not be served a <a href="/health/shn">Stay-Home Notice (SHN)</a>. However, they will take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival. Once a swab is taken, travellers must remain in self-isolation until the result of their PCR test is released.
 			<br><br>
-			 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning travellers from <b>Mainland China (Guangdong province)</b> will: <ol style="margin-top:0px; list-style-type:disc;">
+			 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning travellers from <b>Mainland China (Guangdong province)</b> will: </p>
+<ol style="margin-top:0px; list-style-type:disc;">
 			<li style="font-size:16px; margin-top:0px;   margin-bottom:0px;line-height:1.5;">Take an on-arrival COVID-19 test; and </li>
 						<li style="font-size:16px; margin-top:0px;  margin-bottom:0px; line-height:1.5;">Serve a 7-day SHN at a place of residence or self-sourced accommodation and take a COVID-19 PCR test at the end of the 7-day SHN period.</li>
 			</ol>
-</p>
 			<br>
       <p style="margin-top:-30px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Germany, Indonesia, Japan, Malaysia and Republic of Korea</b> will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;line-height:1.5; ">Take an on-arrival COVID-19 PCR test; and</li>
-    <li style="font-size:16px; margin-top:-30px; margin-bottom:0px; line-height:1.5;">Serve a 21-day SHN in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a COVID-19 PCR test on Day 14 and 21 at the end of their SHN.</li>
+  <li style="font-size:16px; margin-top: 0px; margin-bottom:0px;line-height:1.5; ">Take an on-arrival COVID-19 PCR test; and</li>
+	<li style="font-size:16px; margin-top: 0px; margin-bottom:0px; line-height:1.5;">Serve a 14-day SHN in an <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, and take a COVID-19 PCR test on Day 14 at SDF.</li>
+	<li style="font-size:16px; margin-top: 0px; margin-bottom:0px; line-height:1.5;">
+	<b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>		
 </ol>
  </td>
   </tr>
