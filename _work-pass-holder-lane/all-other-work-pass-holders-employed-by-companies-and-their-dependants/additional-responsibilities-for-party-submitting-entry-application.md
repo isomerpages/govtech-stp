@@ -136,8 +136,8 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <table>
 <thead>
   <tr>
-    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Arrival date in Singapore</b></th>
-    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Who needs to take the COVID-19 tests listed above</b></th>
+    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Arrival date in Singapore</b></th>
+    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Who needs to take the COVID-19 tests listed above</b></th>
   </tr>
 </thead>
 <tbody>
