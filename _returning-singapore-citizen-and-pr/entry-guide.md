@@ -84,7 +84,6 @@ Travellers must take their on-arrival COVID-19 test(s), and commute directly to 
 C) <u>Transport to Self-Isolation/SHN</u>
 
 Travellers are prohibited from using public transport (i.e. trains, buses, street-hailed taxis) to commute to their self-isolation/SHN accommodation or SDF. Depending on the traveller’s SHN arrangement, they have the following transport options, which will apply throughout the SHN period:
-
 <table>
 <thead>
 <tr>
@@ -105,8 +104,8 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
 </tr>
-<tr>
-<!--<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
+<!--<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
 </tr>-->
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
@@ -152,7 +151,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 14 of SHN</td>
 </tr>
 	<tr>
-			    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of SHN, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
@@ -164,6 +163,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 To view the comprehensive list of travel health control measures that would apply to you, click <a href="/sc-pr/shn-and-swab-summary">here</a>. 
 
 Travellers who test positive for <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">COVID-19</a> will receive the necessary <a href="https://safetravel.ica.gov.sg/health/covidtreatment">medical treatment</a>, and the prevailing treatment charges would apply.
+
 
 ### 5. Completion of Self-isolation/SHN
 
