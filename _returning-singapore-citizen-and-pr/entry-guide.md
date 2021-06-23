@@ -153,7 +153,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 </tr>
 	<tr>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of SHN, PCR test on Day 14 of SHN</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
 	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
