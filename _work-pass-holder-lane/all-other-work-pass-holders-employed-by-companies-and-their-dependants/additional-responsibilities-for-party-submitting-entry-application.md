@@ -94,7 +94,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
       <ol style="margin-top:0px; list-style-type:decimal;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore.</li><br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders from 23 June 2021, 2359 hours:</b></p>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore.</li><br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders entering Singapore from 23 June 2021, 2359 hours:</b></p>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-home Notice (SHN) in one of the following: 
         <ul style="margin-top:0px; list-style-type: disc;">
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence on approval <b>(Not applicable to pass holders staying in dormitories)</b></li>
