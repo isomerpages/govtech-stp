@@ -22,7 +22,7 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
 <b>SCs and PRs returning to Singapore by flight or ferry</b> and <b>PRs entering Singapore via the Causeway or Second Link</b> are required to present a valid negative PDT result for entry into Singapore. SCs entering Singapore via the Causeway or Second Link do not need a PDT but will be subject to the prevailing travel health control measures. 
 
-For flights and ferry trips departing from <u>27 June 2021, 2359hrs (1559 hrs GMT)</u>, the PDT requirement will also apply to travellers aged three and above (in this calendar year). Travellers who meet the conditions below will be exempted from this requirement:
+For flights and ferry trips departing from <b>27 June 2021, 2359hrs (1559 hrs GMT)</b>, the PDT requirement will also apply to travellers aged three and above (in this calendar year). Travellers who meet the conditions below will be exempted from this requirement:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Leaving for Singapore before 27 June 2021, 2359 hrs (1559 hrs GMT), and are below the age of six (i.e. born in or after 2015); or</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore. </li>
