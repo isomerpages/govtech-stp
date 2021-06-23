@@ -86,7 +86,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 4 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Fiji</li>-->
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Israel <b>(for arrivals from 16 June 2021, 23:59 hours)</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Israel </li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Vietnam (<b>for arrivals before 13 May 2021</b>)</li>-->
     </ol>   
@@ -94,38 +94,67 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
       <ol style="margin-top:0px; list-style-type:decimal;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b>.</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore.</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN: 
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore.</li><!--<br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders entering Singapore from 23 June 2021, 2359 hours:</b></p>-->
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-home Notice (SHN) in one of the following: 
         <ul style="margin-top:0px; list-style-type: disc;">
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">First 14 days of SHN to be served in SHN dedicated facilities (SDFs).</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Last 7 days of SHN to be served in a place of residence (<b>only occupied by the pass holder or family</b>) or hotel.</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence on approval <b>(Not applicable to pass holders staying in dormitories)</b></li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
         </ul>
         </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-      </ol></td>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab tests before 14-day SHN is over.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours]</b> Those serving SHN in SDFs will be issued Antigen Rapid Test(ART) self-test kits for them to take ARTs during SHN</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After the 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
+      </ol>
+			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
+		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on.</p>
+	</td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
-      <ol style="margin-top:0px; list-style-type:decimal;">
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
+    <!--  <ol style="margin-top:0px; list-style-type:decimal;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Israel <b>(for arrivals before 16 June 2021, 23:59 hours)</b> </li>
-      </ol>
+      </ol>-->
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore. </li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 21-day SHN in SDFs.</li>
-            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take two COVID-19 swab tests before 21-day SHN is over.</li>
-      </ol></td> 
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore. </li><!--<br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders entering Singapore from 23 June 2021, 2359 hours:</b></p>-->
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
+            <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab tests before 14-day SHN is over.</li>
+			 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> <b>[Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours]</b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
+      </ol>
+			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
+		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on.</p>
+			</td> 
 			    <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     </tbody>
 </table>
 
-<b>Note:</b>
-Children 6 years old and below this year are exempted from the COVID-19 tests.
-  
+<br/>
+
+<table>
+<thead>
+  <tr>
+    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Arrival date in Singapore</b></th>
+    <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Who needs to take the COVID-19 tests listed above</b></th>
+  </tr>
+</thead>
+<tbody>
+	<tr>
+		 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Before 27 June 2021, 23:59 hours</td>
+				 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pass holders 7 years old and above this year </td>
+	</tr>
+		<tr>
+		 <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">From 27 June 2021, 23:59 hours	</td>
+			<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pass holders 3 years old and above this year</td>
+	</tr>
+	</tbody>
+	</table>
+
+
 
 ### What Companies Must Do when Pass Holders Enter Singapore
 <ul>
