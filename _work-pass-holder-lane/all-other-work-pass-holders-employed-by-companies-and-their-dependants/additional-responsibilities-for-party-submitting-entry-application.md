@@ -111,10 +111,10 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions including:</b>
-      <ol style="margin-top:0px; list-style-type:decimal;">
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>All other countries/regions</b>
+    <!--  <ol style="margin-top:0px; list-style-type:decimal;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Israel <b>(for arrivals before 16 June 2021, 23:59 hours)</b> </li>
-      </ol>
+      </ol>-->
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type:decimal;">
