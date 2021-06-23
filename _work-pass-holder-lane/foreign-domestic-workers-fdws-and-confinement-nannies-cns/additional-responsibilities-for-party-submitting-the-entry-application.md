@@ -121,7 +121,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
 		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected FDWs and CNs who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on </p>
-      </ol></td> 
+      </td> 
 			    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     </tbody>
