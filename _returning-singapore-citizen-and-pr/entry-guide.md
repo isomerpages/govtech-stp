@@ -55,7 +55,7 @@ Travellers are also advised to activate <a href="https://www.tracetogether.gov.s
 
 C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN-Dedicated Facility (SDF)</u>
 
-Travellers may apply to serve their SHN at their own residence instead of an SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, if they have remained in the countries/regions specified in S/No. 3 of <a href="/sc-pr/shn-and-swab-summary">this list</a> for 21 consecutive days and are serving their SHN:
+Travellers may apply to serve their SHN at their own residence instead of an SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, if they have remained in the countries/regions specified in S/N 3 of <a href="/sc-pr/shn-and-swab-summary">this list</a> for 21 consecutive days and are serving their SHN:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Alone, i.e. no domestic helper(s); or</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">With household members that share the same travel history and area also serving their SHN for the same duration and period.</li>
