@@ -4,7 +4,7 @@ permalink: /contact-us
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
-<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - Entry Approvals</b></p>
+<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - Shortening of 21 Day SHN to 14 Day SHN</b></p>
 	<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">For travellers currently serving SHN who are affected by the recent shortening of SHN duration from 21 days to 14 days, please note the following:</p>
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.2;">For travellers who started your 21-day SHN between 3 to 10 June 2021 inclusive, your check-out is being processed. Please remain in your room and your hotel will contact you to provide checkout details.</li> 
