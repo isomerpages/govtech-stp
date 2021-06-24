@@ -46,6 +46,30 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </ol>
 </td> 
 	</tr>
+<tr>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/No.1</u><br/>
+<ul style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (New South Wales)</b></li>
+	</ul>
+	</td>
+	<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+		<b>For arrivals before 26 Jun 2021, 2359 hours:</b><br/>
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
+		</ol><b>For arrivals from 26 Jun 2021, 2359 hours:</b>
+	<ol style="margin-top: 0px; list-style-type: decimal;">	
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day SHN at:
+		<ol style="margin-top: 0px; list-style-type: lower-roman;">
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Place of residence; or</li>
+							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel</li>
+				</ol>
+		</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN</li>
+		</ol>
+	</td>
+	</tr>
 <!--	<tr>
 <td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">2</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Mainland China (Guangdong province)</b></td>
