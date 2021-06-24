@@ -7,7 +7,7 @@ Given the increase in the number of COVID-19 cases in New South Wales, Australia
 
 ### Short-term Visitors
 
-<b>Short-term visitors with travel history to New South Wales, Australia, within the last 21 days before departure for Singapore</b>, will not be allowed to enter Singapore with effect <b>from 26 June 2021, 2359hrs (Singapore time)</b>. Please refer to the press release <a href="">here</a> issued by the Singapore Ministry of Health (MOH) dated 24 June 2021.
+<b>Short-term visitors with travel history to New South Wales, Australia, within the last 21 days before departure for Singapore</b>, will not be allowed to enter Singapore with effect <b>from 26 June 2021, 2359hrs (Singapore time)</b>. Please refer to the press release <a href="https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-nsw-and-victoria-state-australia">here</a> issued by the Singapore Ministry of Health (MOH) dated 24 June 2021.
 	
 With immediate effect, applications for the ATP for short-term visitors travelling from New South Wales, Australia will be suspended until further notice.
 
