@@ -34,7 +34,7 @@ You and your FDW or CN should take note of the risks, including contracting infe
 
 <u>[Note]</u> The room sharing request is subject to the availability of twin rooms and whether there is another worker with the same travel history as your FDW/CN. 
 
-If she is able to share a room, the cost of her stay will be $1,500 including GST. Otherwise, the standard rate of $2,250 including GST will apply. The refund for the excess amount paid will be processed within 3 weeks of her check-out from the dedicated facility. The refund will be made to the credit card used for payment during the entry application.
+If she is able to share a room, the cost of her stay will be $1,000 including GST. Otherwise, the standard rate of $1,500 including GST will apply. The refund for the excess amount paid will be processed within 3 weeks of her check-out from the dedicated facility. The refund will be made to the credit card used for payment during the entry application.
 
 If you and your FDW/CN are agreeable to proceed with the room sharing request, please complete these actions:
 

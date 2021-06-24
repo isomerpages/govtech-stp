@@ -23,7 +23,10 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales and Victoria state)</b></li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(New South Wales) (for arrivals before 26 June 2021, 23:59 hours)</b></li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(Victoria state) (for arrivals from 26 June 2021, 23:59 hours</b></li>
+  <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>-->
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
     <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
@@ -48,7 +51,9 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) </b></li>
+						  <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) </b></li>-->
+				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(New South Wales) (for arrivals from 26 June 2021, 23:59 hours) </b></li>
+				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) (for arrivals before 26 June 2021, 23:59 hours) </b></li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
 			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province)</b></li>
@@ -91,14 +96,14 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take  on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day Stay-Home Notice (SHN) in one of the following:<ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (<b>only if opt-out request is approved</b>)</li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
   </ol>
       </li>
-			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over</li>
-			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Those serving SHN in SDFs will be issued Antigen Rapid Test(ART) self-test kits for them to take ARTs during SHN</li>
+			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
+			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Those serving SHN in SDFs will be issued Antigen Rapid Test (ART) self-test kits for them to take ARTs during SHN</li>
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b></p>
 					<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected FDWs and CNs who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers and employment agencies later on. </p>
@@ -113,10 +118,10 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
       </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore.</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN</li>
       </ol>
 			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
 		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected FDWs and CNs who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers and employment agencies later on.</p>
