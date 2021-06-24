@@ -2,7 +2,7 @@
 title: Notice
 permalink: /australia/atp/notice
 ---
-## IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR VICTORIA STATE, AUSTRALIA
+## IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR NEW SOUTH WALES, AUSTRALIA
 Given the increase in the number of COVID-19 cases in New South Wales, Australia, Singapore will tighten border measures for travellers with travel history to New South Wales, Australia within the last 21 days before departure for Singapore.
 
 ### Short-term Visitors
