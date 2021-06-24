@@ -49,7 +49,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1a</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales)</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (New South Wales)</b></li>
 </ul>
 </td>
 	<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>For arrivals before 26 Jun 2021, 2359 hours:</b>
