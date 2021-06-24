@@ -121,7 +121,6 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia (Victoria state)</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br/><i><b>Note:</b>  ATB launch deferred – new launch dates of ATB flights to be reviewed in Jun 2021. Click <a href="/hongkong/atb/notice">here</a> for details.</i></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Mainland China (Guangdong province)</b></li>
