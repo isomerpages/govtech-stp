@@ -32,7 +32,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/No.1</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding Victoria state)</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales and Victoria state)</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Brunei</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China  (excluding Guangdong province)</b></li>
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (Guangdong province) [for arrivals <u>before</u> 5 June, 2359hrs]</b></li>-->
