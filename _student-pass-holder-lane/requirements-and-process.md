@@ -4,7 +4,7 @@ permalink: /stpl/requirements-and-process
 ---
 <b><span style="color:red">[NOTICE]</span></b>
 
-<p style="font-size:16px; line-height:1.5; color:red;"><b>The application portal for the Student Pass Holder Lane is currently experiencing high transaction volume. Please try again later if you are experiencing technical issues or slowness with the portal. Our team is looking into the issue and we aim to resolve it soon. Sorry for the inconvenience.</b></p>
+<p style="font-size:16px; line-height:1.5; color:red;"><b>The application portal for the Student Pass Holder Lane is currently experiencing high transaction volume. Please try again later if you are experiencing technical issues or slowness with the portal.</b></p>
 
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
 
