@@ -123,9 +123,10 @@ Eligible travellers should submit applications for entry approval through the <a
     </td>
   </tr>
 	<tr>
-  <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
-     Travellers are required to download and register their profile on the TraceTogether App to aid contract tracing. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. 
+  <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>[For Short Term Visitors only] TraceTogether app</b> </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Short Term Visitors<sup>#</sup> are required to download and register their profile on the TraceTogether App to aid contract tracing, and show it during pre-boarding. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. <br/><br/>
+<sup>#</sup>Refers to accompanying travellers of STP/ STP (IPA) holders who do not hold Long Term Visit passes issued by ICA.<br/><br/>
+			
     </td>
  </tr>	
 </tbody>
