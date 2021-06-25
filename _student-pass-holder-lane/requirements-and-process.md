@@ -4,8 +4,6 @@ permalink: /stpl/requirements-and-process
 ---
 <b><span style="color:red">[NOTICE]</span></b>
 
-<p style="font-size:16px; line-height:1.5; color:red;"><b>The application portal for the Student Pass Holder Lane is currently experiencing high transaction volume. Please try again later if you are experiencing technical issues or slowness with the portal.</b></p>
-
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
 
 
@@ -125,8 +123,8 @@ Eligible travellers should submit applications for entry approval through the <a
 	<tr>
   <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>[For Short Term Visitors only] TraceTogether app</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Short Term Visitors<sup>#</sup> are required to download and register their profile on the TraceTogether App to aid contract tracing, and show it during pre-boarding. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. <br/><br/>
-<sup>#</sup>Refers to accompanying travellers of STP/ STP (IPA) holders who do not hold Long Term Visit passes issued by ICA.<br/><br/>
-			
+<sup>#</sup><i>Refers to accompanying travellers of STP/ STP (IPA) holders who do not hold Long Term Visit passes issued by ICA.</i><br/><br/>
+STP/STP (IPA) and Long Term Visit Pass holders are not required to present the TraceTogether app for pre-boarding clearance.
     </td>
  </tr>	
 </tbody>
@@ -146,14 +144,15 @@ Eligible travellers should submit applications for entry approval through the <a
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
-			 Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
+			 Travellers can proceed with immigration clearance as per normal. <br/><br/><b>[For Short Term Visitors only]</b>At arrival immigration in Singapore, the visitor must:
 			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
-				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;"> Present a mobile device with the TraceTogether app downloaded and with their profile registered on the app, or obtain a TraceTogether token if they are eligible for one.
 </li>
-			 </ol>	 
-   <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
+				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;"> Click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
+			 </ol>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a></p>
 			 <br/>
-       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. <br/><br/> 
+       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. 
        Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
