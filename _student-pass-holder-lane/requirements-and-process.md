@@ -3,6 +3,7 @@ title: Requirements and Process
 permalink: /stpl/requirements-and-process
 ---
 <b><span style="color:red">[NOTICE]</span></b>
+
 <p style="font-size:16px; line-height:1.5; color:red;"><b>New entry approvals have been reduced or halted until further notice for all long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised. If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</b></p>
 
 
@@ -120,9 +121,11 @@ Eligible travellers should submit applications for entry approval through the <a
     </td>
   </tr>
 	<tr>
-  <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>TraceTogether app</b> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> 
-     Travellers are required to download and register their profile on the TraceTogether App to aid contract tracing. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. 
+  <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED"><b>[For Short Term Visitors only] TraceTogether app</b> </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"> Short Term Visitors<sup>#</sup> are required to download and register their profile on the TraceTogether App to aid contract tracing, and show it during pre-boarding. For details and conditions regarding the use of the TraceTogether App, please click <a href="/health/tt-for-travellers">here</a>. <br/><br/>
+<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Student Pass/Student Pass (IPA) and Long Term Visit Pass holders are not required to present the TraceTogether app for pre-boarding clearance.</p><br/>
+			
+<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>(<sup>#</sup>Refers to accompanying travellers of Student Pass/ Student Pass (IPA) holders who do not hold Long Term Visit passes issued by ICA.)</i></p>
     </td>
  </tr>	
 </tbody>
@@ -141,15 +144,16 @@ Eligible travellers should submit applications for entry approval through the <a
  <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED
 "><b>Immigration Clearance and Imposition of Health Control Measures</b></td>
-     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">
-			 Travellers can proceed with immigration clearance as per normal. <br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
+     <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-right:1px solid #D8D8D8;">Travellers can proceed with immigration clearance as per normal. <br/><br/><b>[For Short Term Visitors only]</b> At arrival immigration in Singapore, the visitor must:
 			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
-				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type:disc;">  a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;"> Present a mobile device with the TraceTogether app downloaded and with their profile registered on the app, or obtain a TraceTogether token if they are eligible for one.
 </li>
-			 </ol>	 
-   <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;">*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</p>
+				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;"> Click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</li>
+			 </ol>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a> </p>
+			 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">Student Pass/Student Pass (IPA) and Long Term Visit Pass holders are not required to present the TraceTogether app at arrival immigration.</p>
 			 <br/>
-       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. <br/><br/> 
+       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. 
        Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
@@ -174,12 +178,12 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 14 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED ;">Up to 14 days after arriving in Singapore</th>
   </tr>
   </thead>
 <tbody>
    <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation/SHN</b></td>
+    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED;"><b>Self-isolation/SHN</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">For travellers eligible for on-arrival PCR test with self-isolation until test results are out within 48 hours, they have to self-isolate at their declared accommodation until they are notified of their negative result.<br/><br/>
      For travellers who are required to serve SHN at a place of residence or SDF, please find more information about serving SHN or serving SHN at dedicated facilities <a href="/health/shn">here</a>.<br/><br/>
 Travellers tested positive for COVID-19 will be accorded medical treatment at their own expense.
@@ -187,7 +191,7 @@ Travellers tested positive for COVID-19 will be accorded medical treatment at th
   </tr>
 	<tr>
      <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;background-color:#EDEDED"><b>Retention of TraceTogether App Data or Return of TraceTogether Tokens </b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 days after leaving Singapore.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Short Term Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 days after leaving Singapore.
 			<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5"><b>For TraceTogether Token users</b>, visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints prior to their departure from Singapore. </p>
 						<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a></p>
     </td>
