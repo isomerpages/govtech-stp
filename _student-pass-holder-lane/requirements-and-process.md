@@ -178,7 +178,7 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), dedicated transpo
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED     ">Up to 14 days after arriving in Singapore</th>
+    <th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED ;">Up to 14 days after arriving in Singapore</th>
   </tr>
   </thead>
 <tbody>
