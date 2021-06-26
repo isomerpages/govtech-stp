@@ -74,7 +74,7 @@ Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be sub
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Please write in via our <a href="https://safetravel.ica.gov.sg/contact-us">enquiry form</a> under the category “<b>Appeal for entry into Singapore under Compassionate Reasons</b>”</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Please write in via our <a href="https://safetravel.ica.gov.sg/contact-us">enquiry form</a> under the category “<i>Appeal for entry into Singapore under Compassionate Reasons</i>”</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
