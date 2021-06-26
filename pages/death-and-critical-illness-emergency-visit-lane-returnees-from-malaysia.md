@@ -34,20 +34,20 @@ Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be sub
    <tr>
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 	<td style="font-size:16px; border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> within 72 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Is in English (or accompanied with an English translation);</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Contains the following:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">COVID-19 PCR test results and date of test;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Traveller’s name; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
 </ol></li>
 </ol>
 	<p style="font-size:16px; line-height:1.5;"><u>Note</u>: Travellers who are unable to meet the above pre-arrival COVID-19 PCR test requirement in time may contact the SafeTravel Enquiries Helpline at 6812 5555 or write in to us <a href="https://safetravel.ica.gov.sg/contact-us">here</a> to appeal for an exemption. Please provide your DCEV entry approval into Malaysia as supporting document for our consideration.</p>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve a 21-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 21-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
 </ol>
 </td>
 </tr>
@@ -91,9 +91,9 @@ Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be sub
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-departure and Entry Process Guide</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">With the relevant entry approval granted under the DCEV lane, travellers are to abide by the pre-departure measures and entry process depending on the traveller profile below:
 <ol style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Work Pass Holders: Click here</li> 
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Student’s Pass Holders: Click here</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">ICA Long Term Pass Holders: Click here</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass Holders: Click here</li> 
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Student’s Pass Holders: Click here</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click here</li>
 </ol>   
 </td>
 </tr>
@@ -108,10 +108,10 @@ Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be sub
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#payments">Payments and refunds</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#shnsdf">SDF issues</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
 </ul>
  </td>
 </tr>
