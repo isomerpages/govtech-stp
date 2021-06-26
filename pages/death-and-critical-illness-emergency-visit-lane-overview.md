@@ -50,7 +50,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Please write in via our <a href="https://safetravel.ica.gov.sg/contact-us">enquiry form</a> under the category “<b>Appeal for entry into Singapore under Compassionate Reasons</b>”, with relevant supporting documents, such as:
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Please write in via our <a href="https://safetravel.ica.gov.sg/contact-us">enquiry form</a> under the category “<i>Appeal for entry into Singapore under Compassionate Reasons</i>”, with relevant supporting documents, such as:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
 </li>
