@@ -20,6 +20,8 @@ links:
         url: /pca/overview
       - title: Connect@Singapore
         url: /connectsg/overview
+      - title: Dcev Lane
+        url: /dcev/overview
   - title: Travel Health Control Measures
     url: /health
   - title: Apply Now
@@ -30,5 +32,3 @@ links:
     url: /contact-us
   - title: Press Releases
     url: /news-and-media/press-releases/
-  - title: Dcev Lane
-    url: /dcev/overview
