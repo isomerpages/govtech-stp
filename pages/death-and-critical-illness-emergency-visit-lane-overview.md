@@ -45,6 +45,7 @@ For more information on the specific travel health control measures including th
 <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application</b></th>
 </tr>
 </thead>
+<tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves</td>
@@ -66,16 +67,17 @@ For more information on the specific travel health control measures including th
 </ol>
 </td>
 </tr>
-<thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers will be informed once entry approval is granted.</td>
 </tr>
-</thead>
-<tbody>
+</tbody>
+<thead>
 <tr>
 <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure & Entry<br/><i>[DCEV-approved Travellers Only]</i></b></th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-departure and Entry Guide</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Click <a href="">here</a></td>
