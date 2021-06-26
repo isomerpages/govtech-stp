@@ -2,7 +2,7 @@
 title: Travel Health Control Measures – DCEV Lane
 permalink: /dcev/shn-and-swab-summary
 ---
-This page summarises the travel health control measures <u>for approved travellers</u> utilising the Death & Critical Illness Emergency Visit (DCEV) Lane, depending on their travel history to various countries/regions. Returning SC/PRs should refer to <a href="/sc-pr/shn-and-swab-summary">this page</a> instead.
+This page summarises the travel health control measures <u>for approved travellers</u> utilising the Death & Critical Illness Emergency Visit (DCEV) Lane, depending on their travel history to various countries/regions. Returning SC/PRs should refer to <a href="/sc-pr/overview">this page</a> instead.
 
 Prospective travellers who have yet to apply for entry under DCEV Lane, should refer to <a href="/dcev/overview">this page</a> for the entry and application requirements.
 
