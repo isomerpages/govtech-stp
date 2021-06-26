@@ -1,7 +1,8 @@
 ---
-title: DEATH & CRITICAL ILLNESS EMERGENCY VISIT LANE – RETURNEES FROM MALAYSIA
+title: Death & Critical Illness Emergency Visit Lane – Returnees From Malaysia
 permalink: /dcev/returnees-from-malaysia
 ---
+
 This arrangement caters to travellers <u>returning to Singapore from Malaysia only</u> after making cross-border travel to Malaysia to visit family members for emergency reasons such as death or critical illness. 
 
 <u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/requirements-and-process">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
