@@ -64,6 +64,7 @@ At arrival immigration in Singapore, the visitor must present to the immigration
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders)</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app (or a TraceTogether token for those eligible to be issued with a token). Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</li> 
 </ol>
+
 After clearing immigration, depending on the traveller’s 21-day travel history before departing to Singapore, they will receive their Stay-Home Notice (SHN) via the email provided in the <a href="#SGAC">SGAC declaration</a>.
 
 Travellers who are not required to serve a SHN will be required to remain in self-isolation until a negative COVID-19 PCR test result is conveyed, which can take up to 48 hours.
