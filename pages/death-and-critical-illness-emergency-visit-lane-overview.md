@@ -8,7 +8,6 @@ Overseas Singapore Citizens/Permanent Residents in a similar situation, i.e. fam
 
 Summarised below is a quick overview of the key lane features and requirements. Travellers who are ineligible for travel via this lane may refer <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a> for a list of available Safe Travel options.
 
-
 <table>
 <thead>
 <tr>
@@ -40,6 +39,7 @@ For more information on the specific travel health control measures including th
 </ol>
 </td>
  </tr>
+	</tbody>
 <thead>
 <tr>
 <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application</b></th>
