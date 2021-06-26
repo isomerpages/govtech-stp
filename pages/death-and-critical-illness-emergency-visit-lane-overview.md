@@ -30,8 +30,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Controls</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Approved travellers will be informed of the requisite health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing travel policies governing such visits.
-For more information on the specific travel health control measures including their costs, click on the links below:
-<br/><br/> 
+<br/>
 <p style="font-size:16px; line-height:1.0;">For more information on the specific travel health control measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
