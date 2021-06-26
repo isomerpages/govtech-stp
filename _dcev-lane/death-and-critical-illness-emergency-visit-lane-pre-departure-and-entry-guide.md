@@ -1,7 +1,8 @@
 ---
-title: DEATH & CRITICAL ILLNESS EMERGENCY VISIT LANE – PRE-DEPARTURE & ENTRY GUIDE
+title: Death & Critical Illness Emergency Visit Lane – Pre-Departure & Entry Guide
 permalink: /dcev/entryguide
 ---
+
 This guide is meant for travellers <u>who have received entry approvals</u> to Singapore on a short-term basis via the Death & Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer <a href="/dcev/overview">here</a> for more information.
 
 <div id="PDT"></div>
