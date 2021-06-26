@@ -32,8 +32,8 @@ Summarised below is a quick overview of the key lane features and requirements. 
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Approved travellers will be informed of the requisite health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing travel policies governing such visits.<br/>
 <p style="font-size:16px; line-height:1.5;">For more information on the specific travel health control measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
 </td>
  </tr>
@@ -52,15 +52,15 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Please write in via our <a href="https://safetravel.ica.gov.sg/contact-us">enquiry form</a> under the category “<b>Appeal for entry into Singapore under Compassionate Reasons</b>”, with relevant supporting documents, such as:
 <ol style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Official documents to prove familial connection;
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Official documents to prove familial connection;
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Passport biodata page of all travellers;
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Passport biodata page of all travellers;
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Intended date or period of entry; and
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Intended date or period of entry; and
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Any other supporting documents.
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Any other supporting documents.
 </li>
 </ol>
 </td>
@@ -91,10 +91,10 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#payments">Payments and refunds</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#shnsdf">SDF issues</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
 </ul><br/>
 For issues related to Visa or Visit Pass validity, please visit the <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">ICA webpage</a> for more information.
  </td>
