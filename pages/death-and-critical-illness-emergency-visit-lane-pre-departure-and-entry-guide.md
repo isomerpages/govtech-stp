@@ -92,7 +92,7 @@ Travellers who test positive for <a href="https://safetravel.ica.gov.sg/health/c
 For travellers who received approval to leave their SHN location for short visitations (details of visitation conditions will be conveyed to the travellers separately), the following transport arrangements apply:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Travellers who are serving SHN at SDFs</b> are to make transport arrangements at their own cost from Strides Transportation Pte Ltd. See details on Strides Transportation Pte Ltd <a href="https://safetravel.ica.gov.sg/health/faq#transportQ3">here</a>.</li> 
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Travellers who are serving SHN at other SHN locations</b> (i.e. self-sourced accommodation, place of residence) may self-drive using their own private vehicles or be driven by the <b>same</b> family member who picked them up from the airport. These travellers may also book private hire vehicles. See details on booking private hire vehicles <a href="https://safetravel.ica.gov.sg/health/faq#transportQ2">here</a>.</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Travellers who are serving SHN at other SHN locations</b> (i.e. self-sourced accommodation, place of residence) may self-drive using their own private vehicles or be driven by the <b>same</b> family member who picked them up from the airport. These travellers may also book private hire vehicles. See details on booking private hire vehicles <a href="/health/faq#transportQ2">here</a>.</li>
 </ol>
 
 
