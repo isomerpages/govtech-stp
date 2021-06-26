@@ -30,9 +30,7 @@ Travellers who are fit for travel must:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here within 72 hours before arrival</a></li>
 	
-	<a id="payment"> </a>
-	
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
+<li id="payment" style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
 </ol>
 
 Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications in their mobile phones which will be used for SHN compliance checks and contact tracing. 
