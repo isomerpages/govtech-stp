@@ -1,4 +1,5 @@
 collections:
   dcev-lane:
     output: true
-    order: []
+    order:
+      - death-and-critical-illness-emergency-visit-lane-overview.md
