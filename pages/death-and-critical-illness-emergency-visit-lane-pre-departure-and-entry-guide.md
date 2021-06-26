@@ -72,7 +72,7 @@ Travellers who are not required to serve a SHN will be required to remain in sel
 
 B) <u>On-arrival COVID-19 Tests</u>
 
-Travellers must take their on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 test(s)</a>, and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not <a href="#paymentlinks">pay for their test(s) before arrival</a>, will pay on the spot.
+Travellers must take their on-arrival <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 test(s)</a>, and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not <a href="#payment">pay for their test(s) before arrival</a>, will pay on the spot.
 
 C) <u>Transport to SHN location</u>
 
