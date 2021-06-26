@@ -85,6 +85,7 @@ Upon arrival, travellers will commute directly to their assigned SDF using gover
 
 Travellers should only leave their SDF for their PCR test appointment only if they are feeling well. Travellers who are unwell should remain in their accommodation and alert the relevant agencies listed in this [page](https://go.gov.sg/tc) immediately.
 
+
 <div id="transportQ2"></div>
 
 #### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
