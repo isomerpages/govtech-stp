@@ -29,7 +29,6 @@ Travellers who are fit for travel must:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here within 72 hours before arrival</a></li>
-<div id="#payment"></div>
 	
 	<a id="payment"></a>
 	
