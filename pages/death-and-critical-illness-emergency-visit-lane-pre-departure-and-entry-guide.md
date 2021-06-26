@@ -100,4 +100,4 @@ For travellers who received approval to leave their SHN location for short visit
 
 For travellers serving SHN at an SDF, the checkout timing on completion of the SHN would be conveyed to the traveller by the SDF. Travellers serving SHN at their place of residence are considered to have completed their SHN once a negative test result is conveyed.
 
-If the traveller wishes to leave Singapore before the end of the SHN period <b>due to extenuating circumstances</b>, Please write in via our <a href="">enquiry form</a> under the category “Stay Home Notice Accommodation” and sub-category “<i>Appeal to leave SHN for Exceptional Reasons</i>”. An exit COVID-19 PCR test will be required.
+If the traveller wishes to leave Singapore before the end of the SHN period <b>due to extenuating circumstances</b>, Please write in via our <a href="">enquiry form</a> under the category “<i>Stay Home Notice Accommodation</i>” and sub-category “<i>Appeal to leave SHN for Exceptional Reasons</i>”. An exit COVID-19 PCR test will be required.
