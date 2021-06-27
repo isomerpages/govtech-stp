@@ -74,7 +74,7 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
         </ol>
            </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Application form <a href="https://go.gov.sg/scproptoutsdf">here</a> for Singaporean Citizens and PRs. <br/><br/> Foreign Travellers can opt out during their entry application process. 
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Application form <a href="https://go.gov.sg/scproptout">here</a> for Singaporean Citizens and PRs. <br/><br/> Foreign Travellers can opt out during their entry application process. 
 </td>
     </tr>
   </tbody>
