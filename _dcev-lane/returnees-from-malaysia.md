@@ -44,10 +44,10 @@ Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be sub
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
 </ol></li>
 </ol>
-	<p style="font-size:16px; line-height:1.5;"><u>Note</u>: Travellers who are unable to meet the above pre-arrival COVID-19 PCR test requirement in time may contact the SafeTravel Enquiries Helpline at 6812 5555 or write in to us <a href="https://safetravel.ica.gov.sg/contact-us">here</a> to appeal for an exemption. Please provide your DCEV entry approval into Malaysia as supporting document for our consideration.</p>
+	<p style="font-size:16px; line-height:1.5;"><u>Note</u>: Travellers who are unable to meet the above pre-arrival COVID-19 PCR test requirement in time may contact the SafeTravel Enquiries Helpline at 6812 5555 or write in to us <a href="/contact-us">here</a> to appeal for an exemption. Please provide your DCEV entry approval into Malaysia as supporting document for our consideration.</p>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 21-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 21-day <a href="/health/shn">SHN</a> at an <a href="/health/shn/sdf">SDF</a>, and take two COVID-19 PCR test on Day 14 and Day 21 of SHN</li>
 </ol>
 </td>
 </tr>
@@ -56,8 +56,8 @@ Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be sub
 <p style="font-size:16px; line-height:1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers.</u></p>
 <p style="font-size:16px; line-height:1.5;">For more information on the specific travel health control measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
 </td>
  </tr>
