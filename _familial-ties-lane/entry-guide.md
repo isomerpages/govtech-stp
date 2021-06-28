@@ -108,4 +108,49 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 
 ### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
 
+Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
+
+All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. While these tests are mandatory, travellers who are unwell may be asked to defer the test to a later date. Travellers who are unwell during their SHN should alert ICA immediately. 
+
+Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test may differ for each traveller. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
+
+Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tests required and automatically scheduled for you during your SHN. Otherwise, refer to the table below for the typical test schedule:
+
+<table>
+<thead>
+<tr>
+<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;;">Self-isolation/SHN Period</th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;">COVID-19 PCR Test Schedule</th>
+	<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;">Antigen Rapid Test</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation</td>
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">N.A.
+ </td>
+	    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">N.A.
+ </td>
+ </tr>
+<tr>
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN</td>
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 7 of SHN</td>
+	    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">N.A.
+ </td>
+</tr>
+<tr>
+	<!--<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">21-day SHN (including 14-day SHN at SDF with additional 7-day SHN at place of residence)</td>
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>-->
+	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 14 of SHN</td>
+</tr>
+	<tr>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
+</tr>
+<tr>
+	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+</tr>
+</tbody>
+</table>
 
