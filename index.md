@@ -11,7 +11,7 @@ notification: <h6 style="text-align:left;">Please note that the ICA SG Arrival
   for travellers to declare their details up to 72 hours before arriving in
   Singapore. ICA does not support or endorse services offered by commercial
   entities who claim to provide assistance to travellers to make arrival
-  applications for a fee.</h6>
+  applications for a fee.</h6> 
 sections:
   - hero:
       title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
