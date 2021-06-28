@@ -25,7 +25,9 @@ The table below is a quick overview of the key FTL features and requirements. El
 				 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Former STP holders returning to Singapore to fulfil their scholarship obligations</li>
 					</ol>
 			 </li>
-			  <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC/PR, holding an IPA-Dependent Pass issued by the Ministry of Social and Family Development
+			  <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC/PR, holding an IPA-Dependent Pass issued by the Ministry of Social and Family Development</li>
+			 </td>
+	</tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
