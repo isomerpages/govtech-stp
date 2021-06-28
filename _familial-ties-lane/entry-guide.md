@@ -45,3 +45,9 @@ Travellers are also advised to activate <a href="https://www.tracetogether.gov.s
 C) <u>Application for Entry Visas</u>
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa, or wish to apply for a visa may [click here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
+
+### 2. Departure for Singapore
+
+During pre-boarding checks, travellers may be asked to produce a valid approval letter. 
+
+Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore, must also present a [valid negative PDT report](#PDT) during pre-boarding checks, otherwise they may be denied boarding. [Click here](/scpr-familial-ties-lane/shn-and-swab-summary) to check if a PDT is required.
