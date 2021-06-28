@@ -18,6 +18,8 @@ Depending on the traveller’s 21-day travel history, the following combination 
 
 As a condition for entry into Singapore, all travellers must comply with the travel health control measures required of them, or penalties under the Infectious Diseases Act or other relevant laws may be imposed.
 
+Please note that for all required COVID-19 tests, travellers aged 3 and above in the current calendar year (i.e. born in 2018 or after) are required to take the tests.
+
 Please check the table below for the travel health control measures that apply depending on your travel history to various countries/regions. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.
 
 
