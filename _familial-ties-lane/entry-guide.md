@@ -35,6 +35,8 @@ B) <u>Submission of Declarations & Registration for On-Arrival COVID-19 Test</u>
 
 Travellers who are fit for travel must:
 
+<div id="sgac"></div>
+
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a></li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
@@ -51,3 +53,59 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 During pre-boarding checks, travellers may be asked to produce a valid approval letter. 
 
 Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore, must also present a [valid negative PDT report](#PDT) during pre-boarding checks, otherwise they may be denied boarding. [Click here](/scpr-familial-ties-lane/shn-and-swab-summary) to check if a PDT is required.
+
+### 3. Arrival in Singapore
+
+A) <u>Immigration Clearance</u>
+
+Travellers who arrive in Singapore without a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
+
+Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the [SGAC declaration](#sgac). Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. Travellers who do not receive an SHN will be required to remain in self-isolation until a negative COVID-19 PCR test result is conveyed.
+
+B) <u>COVID-19 Tests</u>
+
+Travellers must take their on-arrival COVID-19 test(s) and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not [pay for their test(s) before arrival](#sgac), will pay on the spot.
+
+B) <u>Transport to Self-Isolation/SHNs</u>
+
+Travellers are prohibited from using public transport (i.e. trains, buses, street-hailed taxis) to commute to their self-isolation/SHN accommodation or SDF. Depending on the traveller’s SHN arrangement, they have the following transport options, which will apply throughout the SHN period:
+
+<table>
+<thead>
+<tr>
+<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Self-isolation/SHN arrangement</th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;">Transport Options</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+<ul>
+<li style="font-size:16px; line-height: 1.5;">Own private transport</li>
+<li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
+</ul>
+ </td>
+ </tr>
+<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
+</tr>
+<!--<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
+</tr>-->
+<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SDF transport provided, no booking required</td>
+</tr>
+<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="/health/faq#transportQ3">here</a>. 
+</td>
+</tr>
+</tbody>
+</table>
+
+
+### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
+
+
