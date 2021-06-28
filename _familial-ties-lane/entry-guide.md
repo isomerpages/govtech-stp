@@ -143,10 +143,14 @@ Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tes
 	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>-->
 	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 14 of SHN</td>
+	    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">N.A.
+ </td>
 </tr>
 	<tr>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
+		    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Day 3, 7 and 11 of SHN
+ </td>
 </tr>
 <tr>
 	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
@@ -154,3 +158,10 @@ Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tes
 </tbody>
 </table>
 
+### 5. Completion of Self-isolation/SHN
+
+Travellers under self-isolation or serving SHN at their own residence may leave their accommodation when a negative COVID-19 test result is conveyed. 
+
+For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
+
+Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app, which allows the identification of close contacts of a positive COVID-19 case.
