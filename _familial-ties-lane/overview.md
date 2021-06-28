@@ -16,7 +16,7 @@ The table below is a quick overview of the key FTL features and requirements. El
 <tbody>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
-		 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px; font-size:16px;  ">
+		 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
 			 <li style="font-size:16px;border-right:1px solid #D8D8D8; margin-top:0px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) holder</li>
 			  <li style="font-size:16px;border-right:1px solid #D8D8D8; margin-top:0px; margin-bottom:0px; line-height:1.5;">ICA-issued Long-Term Visit Pass IPA holder</li>
 			  <li style="font-size:16px;border-right:1px solid #D8D8D8; margin-top:0px; margin-bottom:0px; line-height:1.5;">Immediate family member, relative, fiancé/fiancée of an SC/PR, including:
@@ -26,6 +26,7 @@ The table below is a quick overview of the key FTL features and requirements. El
 					</ol>
 			 </li>
 			  <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC/PR, holding an IPA-Dependent Pass issued by the Ministry of Social and Family Development</li>
+			 </ol>
 			 </td>
 	</tr>
    <tr>
