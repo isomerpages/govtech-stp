@@ -2,6 +2,6 @@ collections:
   familial-ties-lane:
     output: true
     order:
+      - overview.md
       - requirements-and-process.md
       - frequently-asked-questions.md
-      - overview.md
