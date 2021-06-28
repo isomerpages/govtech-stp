@@ -60,16 +60,14 @@ The table below is a quick overview of the key FTL features and requirements. El
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>.<br/>
-
-<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your travel history in the past consecutive 21 days before entering Singapore. Please note that all SC/PRs with travel history to higher risk countries/regions and returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test 72 hours before departure.</p>
-	
-<p style="font-size:16px; line-height:1.0;">For more information on the specific travel measures including their costs, click on the links below:</p>
+		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
+	<p style="font-size:16px; line-height: 1.5;"><a href="/scpr-familial-ties-lane/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures imposed on all travellers based on their travel history. For more information on the specific measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/covid19-tests/pcrtest">1)	COVID-19 Polymerase Chain Reaction Tests</a> ("PCR Test")</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
 <!-- Update the hyperlink of summary table to the new page's -->
+			 <p style="font-size:16px; line-height: 1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore.</u> There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers.</u> To view the latest travel-policy announcements, click <a href="/news-and-media/press-releases/">here.</a> </p>
 </td>
  </tr>
 <thead>
@@ -79,23 +77,27 @@ The table below is a quick overview of the key FTL features and requirements. El
 </thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">None. Application for entry approvals are not needed for returning SC/PRs.</td>
+<td  style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">None. Application for entry approvals are not needed for returning SC/PRs.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"></td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; "></td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How To Apply</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"></td>
 </tr>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Where To Apply</b></td>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; "><b>Where To Apply</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; "></td>
 </tr>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure & Entry</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"></th>
 </tr>
 </thead>
 <tr>
