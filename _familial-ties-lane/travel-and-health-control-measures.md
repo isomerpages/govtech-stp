@@ -2,9 +2,9 @@
 title: Travel And Health Control Measures
 permalink: /scpr-familial-ties-lane/shn-and-swab-summary
 ---
-This page summarises the travel health control measures for approved travellers utilising the Singapore Citizens/Permanent Residents (SC/PR) Familial Ties Lane (FTL), depending on their travel history to various countries/regions. Returning SC/PRs should refer to this page instead.
+This page summarises the travel health control measures for approved travellers utilising the Singapore Citizens/Permanent Residents (SC/PR) Familial Ties Lane (FTL), depending on their travel history to various countries/regions. Returning SC/PRs should refer to [this page](/sc-pr/requirements-and-process) instead.
 
-Prospective travellers who have yet to apply for entry under FTL, should refer to this page for the FTL entry and application requirements.
+Prospective travellers who have yet to apply for entry under FTL, should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for the FTL entry and application requirements.
 
 ### Travel Health Control Measures for FTL-travellers
 <p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> announced on 24 June 2021)</i></p>
