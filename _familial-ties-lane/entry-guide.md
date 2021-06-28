@@ -40,4 +40,8 @@ Travellers who are fit for travel must:
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
 </ol>
 
-Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing. Travellers who are Work Pass holders should also download the [FWMOMCare](http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf) app. 
+Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing. Travellers who are Work Pass holders should also download the [FWMOMCare](http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf) app.
+
+C) <u>Application for Entry Visas</u>
+
+Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa, or wish to apply for a visa may [click here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
