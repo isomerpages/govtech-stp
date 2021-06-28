@@ -2,7 +2,6 @@
 title: Travel Health Control Measures
 permalink: /dcev/shn-and-swab-summary
 ---
-
 This page summarises the travel health control measures <u>for approved travellers</u> utilising the Death & Critical Illness Emergency Visit (DCEV) Lane, depending on their travel history to various countries/regions. Returning SC/PRs should refer to <a href="/sc-pr/overview">this page</a> instead.
 
 Prospective travellers who have yet to apply for entry under DCEV Lane, should refer to <a href="/dcev/overview">this page</a> for the entry and application requirements.
@@ -19,6 +18,8 @@ Depending on the traveller’s 21-day travel history, the following combination 
 </ol>
 
 As a condition for entry into Singapore, all travellers <u>must</u> comply with the travel health control measures required of them, or penalties under the Infectious Diseases Act or other relevant laws may be imposed.
+
+Please note that for all required COVID-19 tests, travellers aged 3 and above in the current calendar year (i.e. born in 2018 or after) are required to take the tests.
 
 Please check the table below for the travel health control measures that apply depending on your travel history to various countries/regions. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.
 
