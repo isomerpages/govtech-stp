@@ -30,3 +30,14 @@ Travellers requiring a PDT must take the test <u>within 72 hours before their de
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
 <li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li> 
 </ol>
+
+B) <u>Submission of Declarations & Registration for On-Arrival COVID-19 Test</u>
+
+Travellers who are fit for travel must:
+
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a></li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
+</ol>
+
+Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing. Travellers who are Work Pass holders should also download the [FWMOMCare](http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf) app. 
