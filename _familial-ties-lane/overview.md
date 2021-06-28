@@ -17,12 +17,12 @@ The table below is a quick overview of the key FTL features and requirements. El
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
-			 <li style="font-size:16px;border-right:1px solid #D8D8D8; margin-top:0px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) holder</li>
-			  <li style="font-size:16px;border-right:1px solid #D8D8D8; margin-top:0px; margin-bottom:0px; line-height:1.5;">ICA-issued Long-Term Visit Pass IPA holder</li>
-			  <li style="font-size:16px;border-right:1px solid #D8D8D8; margin-top:0px; margin-bottom:0px; line-height:1.5;">Immediate family member, relative, fiancé/fiancée of an SC/PR, including:
+			 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) holder</li>
+			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">ICA-issued Long-Term Visit Pass IPA holder</li>
+			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Immediate family member, relative, fiancé/fiancée of an SC/PR, including:
 			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Holders of a valid Work Pass, Student’s Pass (STP), STP-IPA; and </li>
-				 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Former STP holders returning to Singapore to fulfil their scholarship obligations</li>
+				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Holders of a valid Work Pass, Student’s Pass (STP), STP-IPA; and </li>
+				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Former STP holders returning to Singapore to fulfil their scholarship obligations</li>
 					</ol>
 			 </li>
 			  <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC/PR, holding an IPA-Dependent Pass issued by the Ministry of Social and Family Development</li>
@@ -33,8 +33,8 @@ The table below is a quick overview of the key FTL features and requirements. El
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 		  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Reunite with SC/PR family in Singapore </li>
-				 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Complete long-term immigration facilities</li>
+				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Reunite with SC/PR family in Singapore </li>
+				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Complete long-term immigration facilities</li>
 					</ol>
 		 </td>
  </tr>
@@ -42,21 +42,21 @@ The table below is a quick overview of the key FTL features and requirements. El
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br/><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8; ">For <b><u>new entry applications</u></b>, applications are currently only allowed for travellers who have remained in the following lower risk countries/regions for 21 consecutive days before departing for Singapore:
 		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Australia</li>
-				 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam</li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Hong Kong</li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Macao </li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Mainland China</li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">New Zealand</li>
+				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Australia</li>
+				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam</li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Hong Kong</li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Macao </li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Mainland China</li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">New Zealand</li>
 					</ol>
 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">
 			For approved entry applications, travellers must not visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be turned away: 
 			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
-				 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Nepal</li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Pakistan </li>
-			 		 	 <li style="font-size:16px;border-right:1px solid #D8D8D8;margin-top:0px; margin-bottom:0px; line-height:1.5;">Sri Lanka</li>
+				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
+				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Nepal</li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Pakistan </li>
+			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Sri Lanka</li>
 					</ol>
 			 </p>			 
 		 </td>
