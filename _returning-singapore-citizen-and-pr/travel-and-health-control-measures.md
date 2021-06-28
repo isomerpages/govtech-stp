@@ -18,6 +18,8 @@ Depending on the traveller’s 21-day travel history, the following combination 
 
 As a condition for entry into Singapore, all travellers <u>must</u> comply with the travel health control measures required of them, or penalties under the Infectious Diseases Act or other relevant laws may be imposed.
 
+Please note that for all required COVID-19 tests, travellers aged 3 and above in the current calendar year (i.e. born in 2018 or after) are required to take the tests.
+
 You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> to find out the COVID-19 test requirements and Stay-Home Notice period applicable to you based on the specific country/region you have been in the past 21 days before you arrive in Singapore. Alternatively, scroll down for a list of the latest travel health control measures. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the most stringent set of measures will apply.
 
 
