@@ -185,6 +185,6 @@ Pass holders must:
 
 ### Penalties for Non-compliance
 
-<p style="font-size:18px;">Companies and pass holders have a joint duty to comply with the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
+<p style="font-size:18px;">Companies and pass holders have a joint duty to fulfil the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
 <p style="font-size:18px;">If any party is unable to fulfil the requirements, please <b>do not</b> bring the pass holders into Singapore.</p>
-<p style="font-size:18px;">Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declarations.</p>
+<p style="font-size:18px;">Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declaration.</p>
