@@ -131,8 +131,9 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
 Employers/employment agencies must:
 - Ensure she complies with the SHN upon arrival, if applicable.
 - Ensure she takes all the required COVID-19 tests.
-- Arrange for her to travel using the designated transport, unless she is serving SHN at a dedicated SHN facility.
-- Get her to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on her mobile phone. She must respond to  MOM’s phone calls, WhatsApp video calls or SMSes **within 1 hour**. This includes ensuring her prepaid card has sufficient value. She must also report her health status using the FWMOMCare app.
+- Arrange for her to travel using the designated transport stated on the entry approval letter.
+- Get her to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on her mobile phone. 
+- Ensure she responds to MOM’s phone calls, WhatsApp video calls or SMSes **within 1 hour**, and reports her health status using the FWMOMCare app. This includes ensuring her prepaid card has sufficient value.
 - (Only for FDWs and CNs who are issued an electronic monitoring device by the checkpoint) Ensure she installs the mobile application and registers the device **within 1 hour of arriving at her SHN accommodation.**
 - Provide her with food and other daily essentials throughout her SHN, unless she is serving SHN at a dedicated SHN facility.
 - Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that she doesn't need to leave her SHN accommodation. 
