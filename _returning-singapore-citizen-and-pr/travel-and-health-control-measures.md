@@ -7,7 +7,7 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/requirements-and-process">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> announced on 24 June 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> announced on 29 June 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -36,7 +36,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales)</b></li>-->
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Brunei</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China  (excluding Guangdong province)</b></li>
+<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China  (excluding Guangdong province)</b></li>-->
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (Guangdong province) [for arrivals <u>before</u> 5 June, 2359hrs]</b></li>-->
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
 </ul>
@@ -51,12 +51,25 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	<tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1a</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales)  <i>(For arrivals
-before 2 Jul 2021, 2359 hours)</i></b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales) </b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Guangdong) </b></li>
 </ul>
 </td>
-<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">If approved to enter under the SC/PR Familial Ties
-Lane, the following health measures apply: 
+<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>before</b> 2 July 2021, 2359 hours:
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
+</ol>
+</td> 
+	</tr>
+		<tr>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1a</u><br/>
+<ul style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales) </b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Guangdong) </b></li>
+</ul>
+</td>
+<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>before</b> 2 July 2021, 2359 hours:
 <ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
