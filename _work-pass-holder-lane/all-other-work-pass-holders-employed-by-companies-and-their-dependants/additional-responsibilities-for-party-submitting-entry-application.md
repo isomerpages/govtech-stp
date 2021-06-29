@@ -50,7 +50,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(New South Wales)</b></li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(New South Wales)</b> (for arrivals <b>before 2 July 2021, 23:59 hours</b>)</li>
 					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(all states, including New South Wales) (for arrivals from 2 July 2021, 23:59 hours)</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
