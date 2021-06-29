@@ -132,7 +132,6 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
     </tbody>
 </table>
 
-<br/>
 
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Note:</b> Children 2 years old and below this year are exempted from the COVID-19 tests.</p>
 
