@@ -122,12 +122,10 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore. </li><!--<br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders entering Singapore from 23 June 2021, 2359 hours:</b></p>-->
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
+			 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
-			 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> <b>[Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours]</b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
+			 					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for pass holders staying in dormitories:</b><br/>After the 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
       </ol>
-			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on.</p>
 			</td> 
 			    <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -136,7 +134,9 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 
 <br/>
 
-<table>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Note:</b> Children 2 years old and below this year are exempted from the COVID-19 tests.</p>
+
+<!-- <table>
 <thead>
   <tr>
     <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Arrival date in Singapore</b></th>
@@ -153,7 +153,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 			<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pass holders 3 years old and above this year</td>
 	</tr>
 	</tbody>
-	</table>
+	</table>-->
 
 
 
