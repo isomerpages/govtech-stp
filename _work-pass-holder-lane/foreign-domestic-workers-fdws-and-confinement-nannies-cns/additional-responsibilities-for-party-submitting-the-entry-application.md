@@ -120,8 +120,6 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
 						 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
       </ol>
-			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected FDWs and CNs who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers and employment agencies later on.</p>
       </td> 
 			    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
