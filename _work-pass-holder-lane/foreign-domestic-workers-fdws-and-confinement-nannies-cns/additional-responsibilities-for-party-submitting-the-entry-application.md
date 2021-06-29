@@ -159,6 +159,6 @@ If no party is willing and able to fulfil the responsibilities, the FDW/CN shoul
 
 ### Penalties for non-compliance
 
-Employers, employment agencies, FDWs and CNs have a collective duty to comply with the entry approval requirements.
+Employers, employment agencies, FDWs and CNs have a collective duty to fulfil the entry approval requirements.
 
-Enforcement action, including revocation of work passes and suspension of work pass privileges, will be taken for non-compliance or false declarations. Demerit points will also be imposed on employment agencies whose actions result in violation of the requirements by FDWs or CNs.
+Enforcement action, including revocation of work passes and suspension of work pass privileges, will be taken for non-compliance or false declaration. Demerit points will also be imposed on employment agencies whose actions result in violation of the requirements by FDWs or CNs.
