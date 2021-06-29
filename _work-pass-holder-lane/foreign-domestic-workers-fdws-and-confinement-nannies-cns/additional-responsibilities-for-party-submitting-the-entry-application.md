@@ -62,7 +62,7 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in one of the following:  <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (<b>only allowed for FDWs who were already working for their employers before they left Singapore</b>)</li>
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 7-day SHN is over</li>
