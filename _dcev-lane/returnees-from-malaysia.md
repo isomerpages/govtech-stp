@@ -6,7 +6,7 @@ This arrangement caters to travellers <u>returning to Singapore from Malaysia on
 
 <u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/requirements-and-process">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
 
-Singapore Long Term Pass Holders (e.g. Work Pass, Student’s Pass)  will be subject to the requirements below:
+Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</a>  will be subject to the requirements below:
 
 
 <table>
