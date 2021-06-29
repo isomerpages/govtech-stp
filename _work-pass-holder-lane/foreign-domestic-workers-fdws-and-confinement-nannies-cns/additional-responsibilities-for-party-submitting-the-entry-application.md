@@ -95,7 +95,7 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take  on-arrival COVID-19 test in Singapore</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an  on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day Stay-Home Notice (SHN) in one of the following:<ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (<b>only if opt-out request is approved</b>)</li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
