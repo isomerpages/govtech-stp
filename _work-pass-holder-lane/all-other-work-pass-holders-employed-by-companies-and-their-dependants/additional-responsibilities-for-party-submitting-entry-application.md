@@ -105,7 +105,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         </ul>
         </li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for pass holders serving SHN in SDFs:</b><br/>Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take  COVID-19 swab test before 14-day SHN is over.</li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for pass holders staying in dormitories:</b><br/>After the 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
       </ol>
 	</td>
