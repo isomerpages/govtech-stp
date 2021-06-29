@@ -23,13 +23,11 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-    <!--  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>-->
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales and Victoria state)</b></li>
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(New South Wales) (for arrivals before 26 June 2021, 23:59 hours)</b></li>
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(Victoria state) (for arrivals from 26 June 2021, 23:59 hours)</b></li>
+			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales) (for arrivals before 2 July 2021, 23:59 hours)</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
+			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(all provinces including Guangdong) </b>(for arrivals<b> from 2 July 2021, 23:59 hours</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
      <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)</li>-->
 </ol>   
