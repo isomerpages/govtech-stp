@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - requirements-and-process.md
-      - application-user-guide.md
       - travel-health-control-measures.md
+      - application-user-guide.md
