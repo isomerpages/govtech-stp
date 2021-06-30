@@ -14,7 +14,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite. 
 
-**Step 3:** After booking a suite with their preferred SDF, travellers should immediately proceed to submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is atleast S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
+**Step 3:** After booking a suite with their preferred SDF, travellers should inform government agencies of the booking at <https://go.gov.sg/sdfsuite>. This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time will be assigned to any standard SDF room upon arrival.</u> The charge for a subsequent transfer to a suite is at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
  
 **Step 4:** Travellers (including Singapore Citizens and Permanent Residents) will pay for the full cost of the suite directly to the SDF during check-in. Travellers who have already paid the default SDF cost when applying for entry approval or a SafeTravel Pass will pay the difference in cost directly to the SDF during check-in. 
 
@@ -69,31 +69,55 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
-  <!--  <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 21 days prior to entering Singapore</b>
-</td>
-    </tr>-->
-   <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:suite.sinic@ihg.com">InterContinental Robertson Quay</a></td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-    <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>   
-    <tr>
+<tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:gsm@royalplaza.com.sg">Royal Plaza on Scotts</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>   
-       <tr>
+<tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:SINWIDutyManagers@marriott.com">The Westin Singapore</a></td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+    </tr>
+<tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:dutymanager@regentsingapore.com.sg">The Regent</a></td>
           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
    </tr>
+<tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Sinci.res@conradhotels.com">Conrad Centennial Singapore</a></td>
+          <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+   </tr>
+   <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:suite.sinic@ihg.com">InterContinental Robertson Quay</a></td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>
+   <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:mhrs.sindt.reservations@marriotthotels.com">Marriott Tangs</a></td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>      
+  <!--  <tr>
+      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 21 days prior to entering Singapore</b>
+</td>
+    </tr>-->
+
+    
+       
     <tr>
       <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, Indonesia or Philippines in the last 21 days prior to entering Singapore</b>
 </td>
