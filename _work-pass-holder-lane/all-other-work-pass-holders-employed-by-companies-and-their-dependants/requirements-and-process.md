@@ -21,7 +21,7 @@ Work pass holders are also responsible for ensuring their dependants comply with
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Application can be made 3 to 60 days before the pass holders’ planned arrival date</th>
+    <th colspan="2" style="font-size:17px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Application can be made 3 to 30 days before the pass holders’ planned arrival date</th>
     <!-- <th>Scenarios</th>
    <th>Charging Policy for C+ treatment</th> -->
   </tr>
