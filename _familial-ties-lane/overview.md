@@ -40,7 +40,7 @@ The table below is a quick overview of the key FTL features and requirements. El
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br/><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
-		 <td style="font-size:16px;border-right:1px solid #D8D8D8; ">For <b><u>new entry applications</u></b>, applications are currently only allowed for travellers who have remained in the following lower risk countries/regions for 21 consecutive days before departing for Singapore:
+		 <td style="font-size:16px;border-right:1px solid #D8D8D8; "> <b><u>For new entry applications</u></b>, applications are currently only allowed for travellers who have remained in the following lower risk countries/regions for 21 consecutive days before departing for Singapore:
 		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Australia</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam</li>
@@ -50,7 +50,7 @@ The table below is a quick overview of the key FTL features and requirements. El
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">New Zealand</li>
 					</ol>
 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">
-			For approved entry applications, travellers must not visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be turned away: 
+				 <b><u>For approved entry applications</u></b>, travellers must not visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be turned away: 
 			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
@@ -64,9 +64,9 @@ The table below is a quick overview of the key FTL features and requirements. El
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-	<p style="font-size:16px; line-height: 1.5;"><a href="/scpr-familial-ties-lane/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures imposed on all travellers based on their travel history. For more information on the specific measures including their costs, click on the links below:</p>
+	<p style="font-size:16px; line-height: 1.5;"><a href="/scpr-familial-ties-lane/shn-and-swab-summary">Click here</a> to review the latest travel health measures imposed on all travellers based on their travel history. For more information on the specific measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/covid19-tests/pcrtest">1)	COVID-19 Polymerase Chain Reaction Tests</a> ("PCR Test")</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Tests</a> ("PCR Test")</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
 <!-- Update the hyperlink of summary table to the new page's -->
