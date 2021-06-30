@@ -97,7 +97,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass Holders: Click <a href="/wphl/owph-requirements-and-process">here</a></li> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Student’s Pass Holders: Click <a href="/stpl/requirements-and-process">here</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click <a href="/scpr-familial-ties-lane/overview">here</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click <a href="/scpr-familial-ties-lane/requirements-and-process">here</a></li>
 </ol>   
 </td>
 </tr>
