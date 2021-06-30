@@ -110,7 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. While these tests are mandatory, travellers who are unwell may be asked to defer the test to a later date. Travellers who are unwell during their SHN should alert ICA immediately. 
+All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. <!--While these tests are mandatory, travellers who are unwell may be asked to defer the test to a later date. Travellers who are unwell during their SHN should alert ICA immediately. -->
 
 Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test may differ for each traveller. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
 
