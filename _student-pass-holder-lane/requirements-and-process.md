@@ -154,7 +154,7 @@ Eligible travellers should submit applications for entry approval through the <a
 			 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">Student Pass/Student Pass (IPA) and Long Term Visit Pass holders are not required to present the TraceTogether app at arrival immigration.</p>
 			 <br/>
        Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn">Stay-Home Notice (SHN)</a> may be served. 
-       Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
+       Travellers may refer to this <a href="/stpl/shn-and-swab-summary">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 PCR test and Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>
