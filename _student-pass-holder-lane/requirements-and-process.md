@@ -29,7 +29,7 @@ The following groups should **not** apply for entry through the STPHL:
 
 ### 2. Check Border Health Requirements
 
-Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table [here](/files/SHN-and-swab-summary.pdf). You may click the links to find out more about [SHN](/health/shn), [SHN in dedicated facilities](/health/shn/sdf) and [COVID-19 swabs](/health/covid19-tests/pcrtest), including details on costs and payment procedures.
+Please familiarise yourself with the indicative border health requirements including Stay Home Notice (SHN) duration and swab requirements depending on your travel history in the past 21 days prior to arriving in Singapore, via this table [here](/stpl/shn-and-swab-summary). You may click the links to find out more about [SHN](/health/shn), [SHN in dedicated facilities](/health/shn/sdf) and [COVID-19 swabs](/health/covid19-tests/pcrtest), including details on costs and payment procedures.
 
 The border health requirements may be subject to change, and the prevailing border health requirements will be applied to the traveller at the point of arrival. 
 
@@ -80,7 +80,7 @@ Eligible travellers should submit applications for entry approval through the <a
   </thead>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-departure COVID-19 Polymerase Chain Reaction (PCR) Test </b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers, including but not limited to Long Term Pass Holders (LTPH) and short-term visitors, who had travel history to certain countries/regions, as listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore  <a href="/files/SHN-and-swab-summary.pdf">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">authorised health centre</a> designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result, that:
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Travellers, including but not limited to Long Term Pass Holders (LTPH) and short-term visitors, who had travel history to certain countries/regions, as listed in the Summary Table on SHN and Swab Requirements for Travellers to Singapore  <a href="/stpl/shn-and-swab-summary">here</a> are required to take a COVID-19 PCR test within 72 hours before departure for Singapore at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">authorised health centre</a> designated by the Government of a counterpart country/region and obtain a valid negative COVID-19 PCR test result, that:
       <ol style="list-style-type: lower-roman;">
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
@@ -153,8 +153,8 @@ Eligible travellers should submit applications for entry approval through the <a
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a> </p>
 			 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5">Student Pass/Student Pass (IPA) and Long Term Visit Pass holders are not required to present the TraceTogether app at arrival immigration.</p>
 			 <br/>
-       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a> may be served. 
-       Travellers may refer to this <a href="/files/SHN-and-swab-summary.pdf">table</a> to find out which requirement they would be subjected to upon arrival.
+       Depending on the traveller’s travel history prior to arrival in Singapore, a <a href="/health/shn">Stay-Home Notice (SHN)</a> may be served. 
+       Travellers may refer to this <a href="/stpl/shn-and-swab-summary">table</a> to find out which requirement they would be subjected to upon arrival.
        <!-- <ol style="margin-top:0px; list-style-type: lower-roman;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an on-arrival <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and self-isolate at a place of residence/self-sourced (non-residential) accommodation until notification of negative COVID-19 PCR test result (within 48 hours);</li>
              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 PCR test and Serve 7-day <a href="/health/shn">SHN</a> at a place of residence/self-sourced (non-residential) accommodation and take a COVID-19 PCR test during the SHN period, at their own cost;</li>

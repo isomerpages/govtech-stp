@@ -9,7 +9,7 @@ links:
       - title: Student's Pass Holder Lane
         url: /stpl/requirements-and-process
       - title: Singapore Citizen/Permanent Resident Familial Ties Lane
-        url: /scpr-familial-ties-lane/requirements-and-process
+        url: /scpr-familial-ties-lane/overview
       - title: Reciprocal Green Lane (Business/Official Short Term Travel)
         url: /rgl/overview
       - title: Air Travel Pass/Bubble (Any Purpose of Travel including Business and
@@ -20,6 +20,8 @@ links:
         url: /pca/overview
       - title: Connect@Singapore
         url: /connectsg/overview
+      - title: Death and Critical Illness Emergency Visit Lane
+        url: /dcev/overview
   - title: Travel Health Control Measures
     url: /health
   - title: Apply Now

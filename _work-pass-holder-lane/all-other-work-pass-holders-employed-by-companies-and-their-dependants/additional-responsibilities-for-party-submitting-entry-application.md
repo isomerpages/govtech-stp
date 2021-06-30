@@ -23,13 +23,11 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-    <!--  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>-->
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales and Victoria state)</b></li>
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(New South Wales) (for arrivals before 26 June 2021, 23:59 hours)</b></li>
-			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(Victoria state) (for arrivals from 26 June 2021, 23:59 hours)</b></li>
+			    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales) (for arrivals before 2 July 2021, 23:59 hours)</b></li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
+			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(all provinces including Guangdong) </b>(for arrivals<b> from 2 July 2021, 23:59 hours</b>)</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
      <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)</li>-->
 </ol>   
@@ -45,18 +43,18 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
         </ol>
       </li>
       </ol> 
+			<p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If tested negative, they can go about their activities in Singapore without a need to serve Stay-Home Notice.</p>
     </td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/files/group-1-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-			<!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(Victoria state)</b></li>-->
-					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(New South Wales) (for arrivals from 26 June 2021, 23:59 hours)</b></li>
-					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(Victoria state) (for arrivals before 26 June 2021, 23:59 hours)</b></li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(New South Wales)</b> (for arrivals <b>before 2 July 2021, 23:59 hours</b>)</li>
+					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(all states, including New South Wales) (for arrivals from 2 July 2021, 23:59 hours)</b></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
-			        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province)</b></li>
+			        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province)</b> (for arrivals <b>before 2 July 2021, 23:59 hours)</b></li>
 			     </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> 
@@ -106,12 +104,10 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
         </ul>
         </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours]</b> Those serving SHN in SDFs will be issued Antigen Rapid Test (ART) self-test kits for them to take ARTs during SHN</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After the 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for pass holders serving SHN in SDFs:</b><br/>Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take  COVID-19 swab test before 14-day SHN is over.</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for pass holders staying in dormitories:</b><br/>After the 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
       </ol>
-			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on.</p>
 	</td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -126,21 +122,20 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 PCR test <b>within 72 hours before departure</b>.</li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take on-arrival COVID-19 test in Singapore. </li><!--<br/> <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Updated requirements for pass holders entering Singapore from 23 June 2021, 2359 hours:</b></p>-->
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
+			 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
-			 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"> <b>[Additional requirement for pass holders entering Singapore from 27 June 2021, 23:59 hours]</b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN.</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">After 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
+			 					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for pass holders staying in dormitories:</b><br/>After the 14-day SHN, pass holders staying in dormitories must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime. </a></li>
       </ol>
-			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected pass holders who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers later on.</p>
 			</td> 
 			    <td rowspan ="2" style="font-size:16px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-owph-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
     </tbody>
 </table>
 
-<br/>
 
-<table>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Note:</b> Children 2 years old and below this year are exempted from the COVID-19 tests.</p>
+
+<!-- <table>
 <thead>
   <tr>
     <th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Arrival date in Singapore</b></th>
@@ -157,7 +152,7 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 			<td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pass holders 3 years old and above this year</td>
 	</tr>
 	</tbody>
-	</table>
+	</table>-->
 
 
 
@@ -165,8 +160,9 @@ third_nav_title: All Other Work Pass Holders Employed by Companies, and Their De
 <ul>
   <li style="font-size:18px; line-height:1.5;">Ensure they comply with the SHN upon arrival, if applicable.</li>
   <li style="font-size:18px; line-height:1.5;">Ensure they take all the required COVID-19 tests.</li>
-<li style="font-size:18px; line-height:1.5;">Arrange for them to travel using the designated transport, unless they are serving SHN at dedicated SHN facilities.</li>
-<li style="font-size:18px; line-height:1.5;">Get them to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on their mobile phones. They must respond to MOM’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>. This includes ensuring their prepaid cards have sufficient value. They must also report their health status using the FWMOMCare app.</li>
+<li style="font-size:18px; line-height:1.5;">Arrange for them to travel using the designated transport stated on the entry approval letters.</li>
+<li style="font-size:18px; line-height:1.5;">Get them to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on their mobile phones. </li>
+<li style="font-size:18px; line-height:1.5;">Ensure they respond to the Ministry of Manpower (MOM)’s phone calls, WhatsApp video calls or SMSes <b>within 1 hour</b>, and report their health status using the FWMOMCare app. This includes ensuring their prepaid cards have sufficient value.</li>
 <li style="font-size:18px; line-height:1.5;">(Only for pass holders who are issued an electronic monitoring device by the checkpoint) Ensure they install the mobile application and register the device <b>within 1 hour of arriving at their SHN accommodation.</b></li>
 <li style="font-size:18px; line-height:1.5;">Provide them with food and other daily essentials throughout their SHN, unless they are serving SHN at dedicated SHN facilities.</li>
 <li style="font-size:18px; line-height:1.5;">Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that they don’t need to leave their SHN accommodation.</li>
@@ -189,6 +185,6 @@ Pass holders must:
 
 ### Penalties for Non-compliance
 
-<p style="font-size:18px;">Companies and pass holders have a joint duty to comply with the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
+<p style="font-size:18px;">Companies and pass holders have a joint duty to fulfil the entry approval requirements listed above. Work pass holders are also responsible for ensuring their dependants comply with the entry approval requirements.</p>
 <p style="font-size:18px;">If any party is unable to fulfil the requirements, please <b>do not</b> bring the pass holders into Singapore.</p>
-<p style="font-size:18px;">Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declarations.</p>
+<p style="font-size:18px;">Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declaration.</p>

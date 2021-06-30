@@ -2,5 +2,7 @@ collections:
   familial-ties-lane:
     output: true
     order:
-      - requirements-and-process.md
+      - overview.md
+      - entry-guide.md
+      - travel-and-health-control-measures.md
       - frequently-asked-questions.md

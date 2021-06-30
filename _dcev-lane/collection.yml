@@ -1,0 +1,8 @@
+collections:
+  dcev-lane:
+    output: true
+    order:
+      - death-and-critical-illness-emergency-visit-lane-overview.md
+      - pre-departure-and-entry-guide.md
+      - travel-health-control-measures.md
+      - returnees-from-malaysia.md

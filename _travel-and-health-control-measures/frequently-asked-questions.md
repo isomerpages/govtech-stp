@@ -85,6 +85,9 @@ Upon arrival, travellers will commute directly to their assigned SDF using gover
 
 Travellers should only leave their SDF for their PCR test appointment only if they are feeling well. Travellers who are unwell should remain in their accommodation and alert the relevant agencies listed in this [page](https://go.gov.sg/tc) immediately.
 
+
+<div id="transportQ2"></div>
+
 #### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
 
 For travellers arranging transport from the airport to their place of residence, they may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br/><br/>In all other cases, travellers may use their own private vehicle or pre-book a taxi/private hire car with any of the designated operators in the table below, to travel to their place of residence or to go for their scheduled PCR tests. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 

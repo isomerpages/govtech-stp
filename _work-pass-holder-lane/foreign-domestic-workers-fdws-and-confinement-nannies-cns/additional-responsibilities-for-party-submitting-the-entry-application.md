@@ -23,13 +23,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 1 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales and Victoria state)</b></li>
-					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(New South Wales) (for arrivals before 26 June 2021, 23:59 hours)</b></li>
-					<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(Victoria state) (for arrivals from 26 June 2021, 23:59 hours</b></li>
-  <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding Victoria state)</b></li>-->
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Australia <b>(excluding New South Wales) (for arrivals before 2 July 2021, 23:59 hours)</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Brunei</li>
     <!-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong and entering on <a href="/hongkong/atb/visitingsg-faq#FAQ11">designated Air Travel Bubble (ATB) flights</a>* </li>-->
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(excluding Guangdong province)</b></li>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(all provinces including Guangdong) </b>(for arrivals<b> from 2 July 2021, 23:59 hours</b>)</li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">New Zealand</li>
       <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Taiwan (<b>for arrivals before 16 May 2021, 23:59 hours</b>)
       </li>-->
@@ -41,10 +39,11 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Remain isolated in one of the following until they get a negative test result:
       <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotel Room</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in employer's house (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Room with an attached toilet in employer's house (<b>only allowed for FDWs who were already working for their employers before they left Singapore</b>)</li>
       </ol>
       </li>
-</ol> 
+</ol>
+			<p style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">If tested negative, they can go about their activities in Singapore without a need to serve Stay-Home Notice.</p>
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-1-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -52,18 +51,18 @@ third_nav_title: Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom,:1px solid #D8D8D8;  background-color:#EDEDED"><b>Group 2 countries/regions:</b>
     <ol style="margin-top:0px; list-style-type:disc;">
 						  <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) </b></li>-->
-				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(New South Wales) (for arrivals from 26 June 2021, 23:59 hours) </b></li>
-				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(Victoria state) (for arrivals before 26 June 2021, 23:59 hours) </b></li>
+				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	 Australia <b>(New South Wales) </b> (for arrivals <b>before 2 July 2021, 23:59 hours</b>)</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">	Australia <b>(all states, including New South Wales) (for arrivals from 2 July 2021, 23:59 hours)</b></li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hong Kong <!-- (for arrivals after 22 April 2021, 23:59 hours)--></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Macao</li>
-			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province)</b></li>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Mainland China <b>(Guangdong province)</b> (for arrivals <b>before 2 July 2021, 23:59 hours)</b></li>
 </ol>   
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 7-day Stay-Home Notice (SHN) in one of the following:  <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Hotels</li>
-    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (<b>only allowed for FDWs who are already working for their employers before they left Singapore</b>)</li>
+    <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Employers' houses (<b>only allowed for FDWs who were already working for their employers before they left Singapore</b>)</li>
   </ol>
       </li>
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 7-day SHN is over</li>
@@ -96,17 +95,15 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 polymerase chain reaction (PCR) test <b>within 72 hours before departure</b></li>
-        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take  on-arrival COVID-19 test in Singapore</li>
+        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an  on-arrival COVID-19 test in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day Stay-Home Notice (SHN) in one of the following:<ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Place of residence (<b>only if opt-out request is approved</b>)</li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">SHN dedicated facilities (SDFs)</li>
   </ol>
       </li>
-			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take COVID-19 swab test before 14-day SHN is over.</li>
-			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Those serving SHN in SDFs will be issued Antigen Rapid Test (ART) self-test kits for them to take ARTs during SHN</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>Additional procedure only for FDWs and CNs serving SHN in SDFs:</b><br/>Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
+			      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
       </ol>
-			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b></p>
-					<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected FDWs and CNs who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers and employment agencies later on. </p>
     </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/group-4-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -119,12 +116,10 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
     <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "> <ol style="margin-top:0px; list-style-type:decimal;">
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> </li>
         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take an on-arrival COVID-19 test in Singapore</li>
-      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
+      <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Serve a 14-day Stay-Home Notice (SHN) in SHN dedicated facilities (SDFs).</li>
+						 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take Antigen Rapid Tests (ARTs) during their SHN using self-test kits issued by SDFs.</li>
             <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Take a COVID-19 swab test before 14-day SHN is over.</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;"><b>[Additional requirement for FDWs and CNs entering Singapore from 27 June 2021, 23:59 hours] </b> Take Antigen Rapid Tests (ARTs) using self-test kits issued by the SDFs during their SHN</li>
       </ol>
-			<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note: </b></p>
-		<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Affected FDWs and CNs who are currently serving SHN will have their SHN reviewed and be notified of the check-out arrangement separately.<br/><br/> Refund details will be shared with affected employers and employment agencies later on.</p>
       </td> 
 			    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="/files/aocr-health.pdf"><img src="/images/PDF.svg" style="width:30%;"></a></td>
   </tr>
@@ -136,8 +131,9 @@ In-principle approval (IPA) holders will have their IPA validities extended. Min
 Employers/employment agencies must:
 - Ensure she complies with the SHN upon arrival, if applicable.
 - Ensure she takes all the required COVID-19 tests.
-- Arrange for her to travel using the designated transport, unless she is serving SHN at a dedicated SHN facility.
-- Get her to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on her mobile phone. She must respond to  MOM’s phone calls, WhatsApp video calls or SMSes **within 1 hour**. This includes ensuring her prepaid card has sufficient value. She must also report her health status using the FWMOMCare app.
+- Arrange for her to travel using the designated transport stated on the entry approval letter.
+- Get her to download both <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a> and <a href="http://www.mom.gov.sg/-/media/mom/documents/foreign-manpower/fwmomcare/fwmomcare-user-guide.pdf" target="_blank">FWMOMCare app</a> on her mobile phone. 
+- Ensure she responds to MOM’s phone calls, WhatsApp video calls or SMSes **within 1 hour**, and reports her health status using the FWMOMCare app. This includes ensuring her prepaid card has sufficient value.
 - (Only for FDWs and CNs who are issued an electronic monitoring device by the checkpoint) Ensure she installs the mobile application and registers the device **within 1 hour of arriving at her SHN accommodation.**
 - Provide her with food and other daily essentials throughout her SHN, unless she is serving SHN at a dedicated SHN facility.
 - Reschedule any non-emergency medical needs (e.g. follow-up visits for chronic conditions or refilling of prescription) so that she doesn't need to leave her SHN accommodation. 
@@ -163,6 +159,6 @@ If no party is willing and able to fulfil the responsibilities, the FDW/CN shoul
 
 ### Penalties for non-compliance
 
-Employers, employment agencies, FDWs and CNs have a collective duty to comply with the entry approval requirements.
+Employers, employment agencies, FDWs and CNs have a collective duty to fulfil the entry approval requirements.
 
-Enforcement action, including revocation of work passes and suspension of work pass privileges, will be taken for non-compliance or false declarations. Demerit points will also be imposed on employment agencies whose actions result in violation of the requirements by FDWs or CNs.
+Enforcement action, including revocation of work passes and suspension of work pass privileges, will be taken for non-compliance or false declaration. Demerit points will also be imposed on employment agencies whose actions result in violation of the requirements by FDWs or CNs.

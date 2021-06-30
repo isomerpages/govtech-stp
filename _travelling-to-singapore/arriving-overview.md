@@ -104,9 +104,9 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br/><br/><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>
+				<!--	 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
-					  <li style="font-size: 18px;">Mainland China (excluding Guangdong province)</li>
+					  <li style="font-size: 18px;">Mainland China</li>
 					 <li style="font-size: 18px;">New Zealand</li>
 				 </ul>
 		</td>
@@ -153,9 +153,9 @@ Short term visits by foreigners are currently only allowed for countries/regions
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>
+					 <!--<li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
-					  <li style="font-size: 18px;">Mainland China (excluding Guangdong province)</li>
+					  <li style="font-size: 18px;">Mainland China </li>
 					 <li style="font-size: 18px;">New Zealand</li>
 				 </ul>
 		</td>
@@ -192,6 +192,8 @@ To expedite the assessment process, travellers who are requesting for emergency 
 </ul>
 
 Approved travellers will be required to abide by the stipulated health measures for entry including <a href="/health/shn">Stay Home Notice</a> and <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a>. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
+
+Click [here](/dcev/overview) for more information
 
 ---
 

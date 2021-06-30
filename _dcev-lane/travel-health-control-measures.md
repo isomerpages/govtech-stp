@@ -1,15 +1,16 @@
 ---
-title: "Travel and Health Control Measures "
-permalink: /sc-pr/shn-and-swab-summary
+title: Travel Health Control Measures
+permalink: /dcev/shn-and-swab-summary
 ---
-This page summarises the current travel health control measures for Singapore Citizens (SC) and Permanent Residents (PR) arriving in Singapore. As the travel health control measures may change in response to epidemiological developments, travellers may return to this page <!--or read the latest <a href="https://safetravel.ica.gov.sg">press releases</a>--> to confirm the prevailing health measures on arrival.
+This page summarises the travel health control measures <u>for approved travellers</u> utilising the Death & Critical Illness Emergency Visit (DCEV) Lane, depending on their travel history to various countries/regions. Returning SC/PRs should refer to <a href="/sc-pr/overview">this page</a> instead.
 
-For the full entry guide for SCs and PRs, click <a href="/sc-pr/requirements-and-process">here</a>.
+Prospective travellers who have yet to apply for entry under DCEV Lane, should refer to <a href="/dcev/overview">this page</a> for the entry and application requirements.
 
-### Travel Health Control Measures for Returning-SC/PRs 
+
+### Travel Health Control Measures for DCEV-travellers
 <p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> announced on 30 June 2021)</i></p>
 
-Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
+Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable). Otherwise, scroll down to view the table of health control measures.
  
 <ol style="list-style-type: decimal;">
 <li><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
@@ -20,7 +21,7 @@ As a condition for entry into Singapore, all travellers <u>must</u> comply with 
 
 Please note that for all required COVID-19 tests, travellers aged 3 and above in the current calendar year (i.e. born in 2018 or after) are required to take the tests.
 
-You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> to find out the COVID-19 test requirements and Stay-Home Notice period applicable to you based on the specific country/region you have been in the past 21 days before you arrive in Singapore. Alternatively, scroll down for a list of the latest travel health control measures. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the most stringent set of measures will apply.
+Please check the table below for the travel health control measures that apply depending on your travel history to various countries/regions. If you have travelled to multiple countries/regions in the past 21 days before entering Singapore, the strictest set of measures will apply.
 
 
 <table>
@@ -249,13 +250,13 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	<ol style="margin-top:0px;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore.</li> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take the following tests:
-		<ol style="margin-top:0px; list-style-type: lower-roman;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A COVID-19 PCR test at the end of the SHN period; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>
-</ol>
-</li>
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A COVID-19 PCR test at the end of the SHN period; and</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	</ol>
+	</li>
 </ol>	
-</td>
+	</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>Singapore Citizens entering via <u>air and sea</u>, all Permanent Residents entering via <u>air, land and sea	</u></b>
@@ -279,7 +280,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
-	</ol>
+</ol>
 	</td>
 </tr>
 <tr>
@@ -313,7 +314,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
-	</ol>
+</ol>
 </td>
 </tr>
 <tr>
@@ -339,7 +340,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
-	</ol>
+</ol>
 </td>     
 </tr>
 </tbody>
