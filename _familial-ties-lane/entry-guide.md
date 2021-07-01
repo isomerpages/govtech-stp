@@ -110,9 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. 
-
-Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test may differ for each traveller. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
+All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
 
 Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tests required and automatically scheduled for you during your SHN. Otherwise, refer to the table below for the typical test schedule:
 
@@ -153,7 +151,7 @@ Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tes
  </td>
 </tr>
 <tr>
-	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td colspan="3" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
