@@ -58,10 +58,9 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/>Additional S$900 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged S$900
 </td>
     </tr>-->
-        <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 21 days prior to entering Singapore</b>
-</td>
-    </tr>
+<tr>
+ <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 21 days prior to entering Singapore</b></td>
+	</tr>
     <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:SDFsuite.sts@swissotel.com">Swissotel the Stamford</a></td>
        <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
@@ -77,7 +76,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>   
 <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:SINWIDutyManagers@marriott.com">The Westin Singapore</a></td>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:Reservations.Singapore3@westin.com">The Westin Singapore</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
@@ -114,10 +113,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <!--  <tr>
       <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 21 days prior to entering Singapore</b>
 </td>
-    </tr>-->
-
-    
-       
+    </tr>-->       
     <tr>
       <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, Indonesia or Philippines in the last 21 days prior to entering Singapore</b>
 </td>
