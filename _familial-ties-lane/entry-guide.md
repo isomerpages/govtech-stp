@@ -110,7 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
+All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via calls or SMS . Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
 
 Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tests required and automatically scheduled for you during your SHN. Otherwise, refer to the table below for the typical test schedule:
 
@@ -129,13 +129,13 @@ Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tes
  </tr>
 <tr>
 	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN</td>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 7 of SHN</td>
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">COVID-19 PCR test on Day 7 of SHN</td>
 </tr>
 <tr>
 	<!--<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">21-day SHN (including 14-day SHN at SDF with additional 7-day SHN at place of residence)</td>
 	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>-->
 	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 14 of SHN</td>
+		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
 	<tr>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
