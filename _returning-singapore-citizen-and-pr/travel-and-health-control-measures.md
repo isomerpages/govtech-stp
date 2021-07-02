@@ -7,7 +7,7 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/requirements-and-process">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> announced on 2 Jul 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> announced on 2 July 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -344,7 +344,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	</li>
 	</ol>
-	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*From 5 Jul 2021, 2359 hours, travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 PCR ART. Travellers will be required to pay for their COVID-19 ART from 13 Jul 2021.</p></i>
+	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*From 5 Jul 2021, 2359 hours, travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 PCR ART. Travellers will be required to pay for their COVID-19 ART from 13 Jul 2021.</p></i>
 </td>     
 </tr>
 <tr>
