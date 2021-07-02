@@ -189,7 +189,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	</li>
 </ol>
-<i><p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>#</sup> From 23 June 2021, 2359 hours onwards, travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</p>
+<i><p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup> From 23 June 2021, 2359 hours onwards, travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</li>
