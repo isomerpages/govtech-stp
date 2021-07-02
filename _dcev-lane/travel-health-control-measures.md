@@ -186,13 +186,13 @@ Please check the table below for the travel health control measures that apply d
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take a COVID-19 PCR test at the end of the SHN period</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 </ol>
-<i><p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup> From 23 June 2021, 2359 hours onwards, travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</p>
+<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> From 23 June 2021, 2359 hours onwards, travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</i></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
 </ol>
-<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</p></i>
-</td>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
+	</td>
 </tr>
 <!--	<tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><ul style="margin-top: 0px; list-style-type: disc;">
