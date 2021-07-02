@@ -46,10 +46,11 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 </ol>
 	<p style="font-size:16px; line-height:1.5;"><u>Note</u>: Travellers who are unable to meet the above pre-arrival COVID-19 PCR test requirement in time may contact the SafeTravel Enquiries Helpline at 6812 5555 or write in to us <a href="/contact-us">here</a> to appeal for an exemption. Please provide your DCEV entry approval into Malaysia as supporting document for our consideration.</p>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take the following tests:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A COVID-19 PCR test at the end of the SHN period; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo Antigen Rapid Test self-administered tests on Days 3, 7 and 11 of their arrival in Singapore.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-administer an Antigen Rapid Test on Days 3, 7 and 11 of arrival in Singapore.</li>
 	</ol>
 	</li>
 </ol>
