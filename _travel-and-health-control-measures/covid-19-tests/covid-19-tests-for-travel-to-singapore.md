@@ -45,7 +45,7 @@ All travellers will be tested for COVID-19 upon arrival in Singapore. The cost o
 		</tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-					<td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$160</td>
+			<td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$160</td>
     </tr>     
   </tbody>
   </table>
