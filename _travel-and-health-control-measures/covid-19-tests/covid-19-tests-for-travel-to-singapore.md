@@ -40,11 +40,12 @@ All travellers will be tested for COVID-19 upon arrival in Singapore. The cost o
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
+					<td  style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">S$160</td>
 					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;">Click <a href="https://t.2c2p.com/express/parkwayshenton">Here</a></td>
 		</tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
+			<td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="/health/covid19-tests/pcrtest#note">higher risk countries/regions</a> only)</b> – S$67</td>
     </tr>     
   </tbody>
   </table>
@@ -69,7 +70,7 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">While serving Stay-Home Notice (SHN)</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Specified testing facility in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$125</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Paid during application for entry into Singapore </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Paid during application for entry into Singapore </td>
     </tr>
 	</tbody>
 	</table>
@@ -80,4 +81,6 @@ Travellers will be informed of their PCR test results verbally by phone or in pe
 
 <div id="note"></div>
 
-<b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport.
+<b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia<sup>#</sup>, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).
+
+<sup>#</sup><i>From 5 Jul 2021, 2359 hours, travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 PCR ART. Travellers will be required to pay for their COVID-19 ART from 13 Jul 2021.</i>
