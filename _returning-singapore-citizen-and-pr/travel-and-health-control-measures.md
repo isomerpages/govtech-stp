@@ -261,12 +261,12 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">Antigen Rapid Test* </a> upon arrival in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours]</b> Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of arrival in Singapore</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an  Antigen Rapid Test on Day 3, 7 and 11 of their SHN; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN </li>
 	</ol>
 	</li>
 	</ol>
-	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*From 5 Jul 2021, 2359 hours, travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 13 Jul 2021.</p></i>
+	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The change for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
 </td>     
 </tr>
 <tr>
