@@ -2,7 +2,6 @@
 title: Overview
 permalink: /health
 ---
-
 Singapore is reopening its borders in a controlled and safe manner to maintain its status as an international hub.
 
 Travellers approved for entry should refer to the specific requirements and process for the respective [Safe Travel lanes](/arriving/overview) they are entering Singapore on. These health control requirements would also be stated as conditions of entry approval where relevant. 
@@ -23,6 +22,14 @@ To minimise the public health risks associated with the border reopening, travel
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Devices</a></li>
+    </ol>
+  </li>
+	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"> <b>SHN and Swab Summary Tables</b>
+  <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/sc-pr/overview">Returning Singapore Citizen/Permanent Resident Lane,</a> click <a href="/sc-pr/shn-and-swab-summary"> here</a></li>
+        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/stpl/requirements-and-process">Student's Pass Holder Lane,</a> click <a href="/stpl/shn-and-swab-summary"> here</a></li>
+       <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/Permanent Resident Familial Ties Lane</a> click <a href="/scpr-familial-ties-lane/shn-and-swab-summary"> here</a></li>
+		    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/dcev/overview">Death and Critical Illness Emergency Visit Lane,</a> click <a href="/dcev/shn-and-swab-summary"> here</a></li>
     </ol>
   </li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc">
