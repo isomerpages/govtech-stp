@@ -278,8 +278,8 @@ Please check the table below for the travel health control measures that apply d
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore.</li> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an  Antigen Rapid Test on Day 3, 7 and 11 of their SHN.</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take an  Antigen Rapid Test on Day 3, 7 and 11 of their SHN; and</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period.</li>
 </ol>
 </li>
 </ol>	
