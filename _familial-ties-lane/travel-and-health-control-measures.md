@@ -39,36 +39,10 @@ Please check the table below for the travel health control measures that apply d
 <!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China  (excluding Guangdong province)</b></li>-->
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (Guangdong province) [for arrivals <u>before</u> 5 June, 2359hrs]</b></li>-->
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China</b></li>
 </ul>
 </td>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
-<ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
-</ol>
-</td> 
-	</tr>
-	<tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1a</u><br/>
-<ul style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia (excluding New South Wales) </b></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Guangdong) </b></li>
-</ul>
-</td>
-<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>before</b> 2 July 2021, 2359 hours:
-<ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
-</ol>
-</td> 
-	</tr>
-		<tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1b</u><br/>
-<ul style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (all provinces, including Guangdong) </b></li>
-</ul>
-</td>
-<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>after</b> 2 July 2021, 2359 hours:
 <ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
@@ -102,51 +76,12 @@ Please check the table below for the travel health control measures that apply d
 <tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
-<!--	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia </b></li>-->
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia </b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br/><i><b>Note:</b>  ATB launch deferred – new launch dates of ATB flights to be reviewed in Jun 2021. Click <a href="/hongkong/atb/notice">here</a> for details.</i></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Place of residence; or</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel</li>
-</ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN</li>
-</ol>
-</td>
-</tr>
-	<tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2a</u><br/>
-<ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia (New South Wales)</b></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Mainland China (Guangdong)</b></li>
-</ul>
-</td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>before</b> 2 July 2021, 2359 hours:
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Place of residence; or</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel</li>
-</ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN</li>
-</ol>
-</td>
-</tr>
-		<tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2b</u><br/>
-<ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia (all states, including New South Wales)</b></li>
-</ul>
-</td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>after</b> 2 July 2021, 2359 hours:
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
@@ -266,7 +201,7 @@ Please check the table below for the travel health control measures that apply d
 	</ol>
 	</li>
 	</ol>
-	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The change for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
+	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
 </td>     
 </tr>	
 <tr>
