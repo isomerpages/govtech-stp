@@ -242,8 +242,35 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </ol>
 	</td>
 </tr>-->
+		<tr>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 4</u><br/><b>Indonesia</b></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
+<ol style="margin-top:0px; list-style-type: decimal;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">Antigen Rapid Test* </a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours]</b> Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of arrival in Singapore</li>
+	</ol>
+	</li>
+	</ol>
+	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*From 5 Jul 2021, 2359 hours, travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 13 Jul 2021.</p></i>
+</td>     
+</tr>
 <tr>
-<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 4</u><br/><ul style="margin-top: 0px; list-style-type: disc;">
+<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 5</u><br/><ul style="margin-top: 0px; list-style-type: disc;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Malaysia</b></li></ul></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Singapore Citizens entering via <u>land</u> only</b>
 	<ol style="margin-top:0px;">
@@ -283,7 +310,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 5</u><br/>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
@@ -315,33 +342,6 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</li>
 	</ol>
 </td>
-</tr>
-	<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/><b>Indonesia</b></td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
-</ol>
-</li>
-</ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">Antigen Rapid Test* </a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers arriving from 27 Jun 2021, 2359 hours]</b> Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of arrival in Singapore</li>
-	</ol>
-	</li>
-	</ol>
-	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*From 5 Jul 2021, 2359 hours, travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 13 Jul 2021.</p></i>
-</td>     
 </tr>
 <tr>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br/><b>All other countries/regions</b></td>
