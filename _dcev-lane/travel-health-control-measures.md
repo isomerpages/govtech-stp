@@ -202,7 +202,7 @@ Please check the table below for the travel health control measures that apply d
 	</ol>
 	</li>
 	</ol>
-	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charges for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
+	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
 </td>     
 </tr>	
 <tr>
