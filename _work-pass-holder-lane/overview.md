@@ -135,21 +135,20 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 			<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers or Employment Agencies to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
 		</td>
 	</tr>
+					<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">All other pass holders
+			</td>
+			<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
+		</td>
+	</tr>
 		</tbody>
 	</table>	
 	</td>
 </tr>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-</tr>
-<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
-</tr>
-<tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How To Apply</b></td>
-</tr>
-<tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Where To Apply</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">+/- 1 day from the planned date of arrival to accommodate possible flight changes
+</td>
 </tr>
 <thead>
 <tr>
@@ -157,8 +156,8 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 </tr>
 </thead>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure and Entry Process Guide</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/sc-pr/requirements-and-process">Here</a></td>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-departure and Entry Procedures</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">The approval letter will indicate the travel health control measures submitters (i.e. employers or employment agencies which submitted the entry applications) and their pass holders must comply with. <br/><br/> As the control measures are subject to change based on the global situation, the Ministry of Manpower (MOM) will inform submitters whose pass holders have obtained approvals of the changes by email.</td>
 </tr>
 <thead>
 <tr>
@@ -174,11 +173,17 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 test</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
 </ul>
+	<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Click on the relevant links to MOM’s website for:
+	</p> 
+	<ul style="margin-top:0px; list-style-type: disc;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.mom.gov.sg/">Pass related matters (e.g. IPA extensions, pass issuance or renewals)</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singaporef">Entry applications for CMP workers</a></li>
+</ul>
  </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Need help?</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">If your questions are not addressed by the FAQs above, you can <a href="https://go.gov.sg/sto-enquiry">contact us</a>.
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry">here</a>.
  </td>
 </tr>
 </tbody>
