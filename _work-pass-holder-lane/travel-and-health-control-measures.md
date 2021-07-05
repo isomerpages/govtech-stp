@@ -191,21 +191,29 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	2.	Take COVID-19 test upon arrival: 
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test upon arrival: 
 <br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 	</li>
-				<table>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($2,000 including GST), where the pass holder will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 on arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
+	</ol>
+	</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
+</ol>
+			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these</b> conditions:		<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence is occupied by the pass holder alone or household members, including any helpers, with the same travel history, arrival date and SHN duration as the pass holder. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holder does not stay in a dormitory. </li>
+	</ol>
+						<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should check and ensure they can accommodate guests serving SHN when booking. </i></li>
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Pass holders are <b>not allowed</b> to serve SHN in dormitories or residences occupied by non-family members.</i></li>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i><ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are not allowed to serve the 14-day SHN in hotels.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
 	</ol>
 	</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
-</ol>
 </td> 
 	</tr>
 	</tbody>
