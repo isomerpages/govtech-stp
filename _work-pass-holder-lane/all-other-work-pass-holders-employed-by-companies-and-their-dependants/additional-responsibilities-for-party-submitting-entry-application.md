@@ -1,6 +1,7 @@
 ---
 title: Additional Responsibilities for Party Submitting Entry Application
 permalink: /wphl/owph-additional-responsibilities
+published: false
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 ## Additional Responsibilities for Party Submitting the Entry Application
