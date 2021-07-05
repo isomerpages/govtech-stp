@@ -116,6 +116,25 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">WHP, PEP and EntrePass holders to apply: <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval</a>
 		</td>
 	</tr>
+				<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Immediate family member, relative, fiancé/fiancée of a Citizen or Permanent Resident of Singapore (SC/PR), with a valid work pass	
+			</td>
+		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Traveller can enter under either of these lanes: <ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane </a>applied by SC/PR family member</li>
+			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://eservices.ica.gov.sg/STO/">Work Pass Holder Lane (WPHL)</a> applied by employer</li>
+			</ol>
+		</td>
+	</tr>
+					<tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">
+			<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
+												<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Helpers </li>
+				<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Confinement nannies</li>
+				</ol>
+			</td>
+			<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers or Employment Agencies to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
+		</td>
+	</tr>
 		</tbody>
 	</table>	
 	</td>
