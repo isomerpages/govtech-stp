@@ -94,7 +94,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should check and ensure they can accommodate guests serving SHN when booking. </i></li>
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Helpers and CNs are not allowed to serve SHN in dormitories.</i> </li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Helpers and CNs are <b>not allowed</b> to serve SHN in dormitories.</i> </li>
 	</ol>
 	</td>
 </tr>
