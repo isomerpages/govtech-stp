@@ -96,11 +96,11 @@ For new helpers, you must start paying her salary once she is deployed to your h
 
 For existing helpers returning from overseas, you must continue paying her salary once she returns to Singapore.
 
-### 8. What should I do if my FDW or CN falls sick during her SHN?
+### 8. What should I do if my helper or CN falls sick during her SHN?
 
 <table>
   <tr>
-    <th style="font-size:18px; text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">If your FDW or nanny is serving SHN at a</th>
+    <th style="font-size:18px; text-align:center; border-left:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">If your helper or nanny is serving SHN at a</th>
     <th style="font-size:18px; text-align:center; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED">You should</th>
   </tr>
   <tr>
@@ -108,7 +108,7 @@ For existing helpers returning from overseas, you must continue paying her salar
     <td style="font-size:18px; border-right:1px solid #D8D8D8;">
     <ul>
        <li style="font-size:18px;"> Inform the staff there to assist in making the necessary arrangements.</li>
-       <li style="font-size:18px;"> If your FDW or nanny develops a fever or acute respiratory infection, get her to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
+       <li style="font-size:18px;"> If your helper or nanny develops a fever or acute respiratory infection, get her to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>
     </td>
   </tr>
@@ -116,23 +116,23 @@ For existing helpers returning from overseas, you must continue paying her salar
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Another place</td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">  
        <ul>
-       <li style="font-size:18px;">[For non-emergency medical situations] Get your FDW or nanny to call the SafeTravel Helpline at 6812 5555.</li>
-       <li style="font-size:18px;">[For medical emergencies] Get your FDW or nanny to call 995.</li>
+       <li style="font-size:18px;">[For non-emergency medical situations] Get your helper or nanny to call the SafeTravel Helpline at 6812 5555.</li>
+       <li style="font-size:18px;">[For medical emergencies] Get your helper or nanny to call 995.</li>
        <li style="font-size:18px;"> If she develops a fever or acute respiratory infection, get her to inform MOM using the <a href="https://www.mom.gov.sg/eservices/fwmomcare">FWMOMCare app.</a></li>
      </ul>
     </td>   
   </tr>
  </table>
 
-### 9. Can employers get a levy waiver for FDWs who go on home / overseas leave?
+### 9. Can employers get a levy waiver for helpers who go on home / overseas leave?
 
-For FDWs on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 90 days for leave period in 2020, and up to 60 days for leave period in 2021) **when their FDWs return to Singapore.**
+For helpers on home or overseas leave, employers can <a href="https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer" target="_blank">apply for levy waiver</a> (for up to 90 days for leave period in 2020, and up to 60 days for leave period in 2021) **when their helpers return to Singapore.**
 
-### 10. My FDW or CN intends to travel out of Singapore. What do I need to consider?
+### 10. My helper or CN intends to travel out of Singapore. What do I need to consider?
 
-You may wish to discourage your FDW/CN from travelling as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
+You may wish to discourage your helper/CN from travelling as the country she is visiting may have travel restrictions. Thus, there could be significant delays before she can return to Singapore.
 
-For all FDWs and nannies, new and existing, entering Singapore from 1 January 2021, <a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers" target="_blank">the Government will no longer cover their treatment costs</a> if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. This is regardless of when they left Singapore.
+For all helpers and nannies, new and existing, entering Singapore from 1 January 2021, <a href="https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers" target="_blank">the Government will no longer cover their treatment costs</a> if they develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore. This is regardless of when they left Singapore.
 
 Find out who is responsible for the treatment costs <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
@@ -154,6 +154,6 @@ Please refer to the common troubleshooting FAQ [here](/faq/tech).
 
 If the troubleshooting FAQ does not address your queries, you can contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx).
 
-### 13. I did not receive the entry application outcome for my FDW/CN. What should I do? 
+### 13. I did not receive the entry application outcome for my helper/CN. What should I do? 
 
 Please check your spam and junk folders in case the outcome was sent there. Contact us [here](https://service2.mom.gov.sg/efeedback/Forms/efeedback.aspx) if you cannot find the outcome email in these folders.
