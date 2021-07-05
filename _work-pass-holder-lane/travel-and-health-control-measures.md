@@ -55,8 +55,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"></li>
 </ol>
 </td> 
 	</tr>
