@@ -2,8 +2,7 @@
 title: Frequently Asked Questions - Helpers and Confinement Nannies
 permalink: /wphl/fdws-cns-faq
 ---
-
-## FAQ for Foreign Domestic Workers (FDWs) and Confinement Nannies (CNs)
+## FAQ for Helpers and Confinement Nannies (CNs)
 
 ### 1. If employers need help with the entry approval requirements, what can they do?
 
