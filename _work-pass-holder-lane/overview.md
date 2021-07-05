@@ -21,7 +21,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 			<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">	Confinement nannies</li>
 					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Helpers</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">	Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for at least 15 days from their planned arrival date:
+		<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">	Foreigners currently on or have in-principle approval (IPA) for any of these passes that are valid for <b>at least 15 days</b> from their planned arrival date:
 					<ol style="margin-top:0px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Dependant’s Pass</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Employment Pass</li>
