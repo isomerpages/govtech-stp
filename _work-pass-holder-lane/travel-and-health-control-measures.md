@@ -51,7 +51,7 @@ Confinement nannies (CNs)
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></td>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></b></td>
 </tr>
 	</table>
 	</td> 
