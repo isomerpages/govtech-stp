@@ -55,7 +55,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">New Zealand</li>
 					</ol>
 			<br/>
-			<b>For approved entry applications</b>, pass holders must not visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be denied entry:
+			<b><u>For approved entry applications</u></b>, pass holders <b>must not</b> visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be denied entry:
 					 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Bangladesh</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">India</li>
@@ -67,15 +67,9 @@ This page provides a quick overview of the key WPHL features, requirements, appl
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>.<br/>
-
-<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your travel history in the past consecutive 21 days before entering Singapore. Please note that all SC/PRs with travel history to higher risk countries/regions and returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), within 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test within 72 hours before departure.</p>
-	
-<p style="font-size:16px; line-height:1.0;">For more information on the specific travel measures including their costs, click on the links below:</p>
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
-</ol>
+		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
+<p style="font-size:16px; line-height: 1.5;"><a href="/wphl/shn-and-swab-summary">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) imposed on incoming pass holders based on their travel histories. </p>
+<p style="font-size:16px; line-height:1.0;">There are currently no waivers or special considerations granted for vaccinated or recovered travellers. </p>
 <!-- Update the hyperlink of summary table to the new page's -->
 </td>
  </tr>
