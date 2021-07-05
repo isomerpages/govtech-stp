@@ -41,11 +41,11 @@ This page provides a quick overview of the key WPHL features, requirements, appl
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">All purposes of travel allowed</td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><b>All purposes of travel allowed</b></td>
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;"><b>For new entry applications</b>, applications are only allowed for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">For <b><u> new entry applications</u></b>, applications are only allowed for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
 		 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Australia</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Brunei Darussalam</li>
