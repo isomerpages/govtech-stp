@@ -219,15 +219,16 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 4</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong </b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Bangladesh</b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>India </b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Nepal</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Pakistan</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
 </ul>
 </td>
-<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+<td colspan="2"  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; color:red; text-align:center; vertical-align:middle;"><b>Disallowed from entry into Singapore via WPHL </b><br/>
+(includes those who had received prior approvals for entry)
 	</td> 
-		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
-	</td>
 	</tr>
 	</tbody>
 	</table>
