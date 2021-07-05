@@ -23,19 +23,19 @@ For us to consider a refund, please submit a request to cancel her entry approva
 
 Once the entry approval is cancelled, you can submit another entry application with a new arrival date to bring her in. The new application will be subject to the prevailing entry controls. 
 
-### 3. My FDW/CN has recovered from COVID-19, when can I bring her into Singapore?
+### 3. My helper/CN has recovered from COVID-19, when can I bring her into Singapore?
 
 Please refer to the FAQs on recovered travellers [here](https://safetravel.ica.gov.sg/health/faq#pcrtest).
 
-### 4. How do I request for my FDW/CN to share a room at the dedicated SHN facility? Where can I find the room sharing indemnity forms?
+### 4. How do I request for my helper/CN to share a room at the dedicated SHN facility? Where can I find the room sharing indemnity forms?
 
-You and your FDW or CN should take note of the risks, including contracting infectious diseases like COVID-19 from the person she is sharing room with. If any of them tests positive for COVID-19, their Stay-Home Notice (SHN) may be extended. In this case, there may be additional costs for her stay and medical related procedures.
+You and your helper or CN should take note of the risks, including contracting infectious diseases like COVID-19 from the person she is sharing room with. If any of them tests positive for COVID-19, their Stay-Home Notice (SHN) may be extended. In this case, there may be additional costs for her stay and medical related procedures.
 
-<u>[Note]</u> The room sharing request is subject to the availability of twin rooms and whether there is another worker with the same travel history as your FDW/CN. 
+<u>[Note]</u> The room sharing request is subject to the availability of twin rooms and whether there is another worker with the same travel history as your helper/CN. 
 
 If she is able to share a room, the cost of her stay will be $1,000 including GST. Otherwise, the standard rate of $1,500 including GST will apply. The refund for the excess amount paid will be processed within 3 weeks of her check-out from the dedicated facility. The refund will be made to the credit card used for payment during the entry application.
 
-If you and your FDW/CN are agreeable to proceed with the room sharing request, please complete these actions:
+If you and your helper/CN are agreeable to proceed with the room sharing request, please complete these actions:
 
 <ol>
 <b><li>Get her to complete and sign the indemnity form. Print the version in her native language and ensure she has read and understood the terms of the indemnity form before signing it:</li></b>
