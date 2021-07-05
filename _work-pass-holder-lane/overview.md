@@ -36,7 +36,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 					</ol>
 				</li>
 			</ol>
-			<p style="font-size:16px; line-height:1.5;">For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">IPA validities</a> before submitting entry applications.  </p>
+			<p style="font-size:16px; line-height:1.5;">For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">IPA validities</a> <b>before submitting entry applications</b>.  </p>
 		 </td>
  </tr>
    <tr>
