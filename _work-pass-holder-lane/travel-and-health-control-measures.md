@@ -22,9 +22,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <th colspan="2"style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures under WPHL</b></th>
 </tr>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Helpers and 
-Confinement nannies (CNs)
-</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Helpers and  Confinement nannies (CNs) </b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>All Other Pass Holders</b></th>
 </tr>
 </thead>
