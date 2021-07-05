@@ -459,7 +459,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
 		</ol>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime.</a>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime.</a>
 	</li>
 </ol>
 	</td> 
