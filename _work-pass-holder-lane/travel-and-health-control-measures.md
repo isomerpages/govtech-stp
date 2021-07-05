@@ -265,25 +265,19 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</ol></td>
 </tr>
 				<tr>
-<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">SDF with her employer or employer’s family, or at a place of residence</td>
-	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 test at the checkpoint ($160 including GST).
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">With her employer or employer’s family</td>
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 test at the checkpoint
 					<br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day SHN at:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an <a href="/health/shn/sdf">SDF </a>($1,500 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An SDF ($1,500 including GST) where the helper/CN will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 on arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer Antigen Rapid Tests on Days 3, 7 and 11 on arrival; and</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
 		</ol>
 	</li>
 </ol>
-<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the place of residence is occupied by the helper/CN alone or household members with the same travel history, arrival date and SHN duration as the helper/CN.</i><br/><br/>
-		<table>
-<tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: Helpers and CNs are not allowed to serve the 14-day SHN in hotels.  </i></td>
-</tr>
-	</table>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test within 72 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
