@@ -270,7 +270,7 @@ For employees who are concurrently an LOC and ICA-issued Long-Term Visit Pass ho
 
 #### 2. I run a domestic helper agency. Can I apply for a PCA for the domestic helpers on behalf of my clients?
 
-No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Holder General Lane (FDW/CN)](/wphl/fdwcn-requirements-and-process).
+No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Holder General Lane (Helper/CN)](/wphl/fdwcn-requirements-and-process).
 
 #### 3. I must send an employee to Malaysia for work/business purposes. Do I apply for a PCA pass using the SafeTravel application portal?
 
