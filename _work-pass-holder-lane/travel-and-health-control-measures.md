@@ -171,15 +171,28 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</ol>
 	</li>
 </ol>
+<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the place of residence is occupied by the helper/CN alone or household members with the same travel history, arrival date and SHN duration as the helper/CN.</i><br/><br/>
+		<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: Helpers and CNs are not allowed to serve the 14-day SHN in hotels.  </i></td>
+</tr>
+	</table>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test within 72 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
-</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day SHN in one of the following: 
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or family)</b>  </li>
+		<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
+			<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of helper/CN; and </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
 	</ol>
+		</li>
+	</ol>	
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	2.	Take COVID-19 test upon arrival: 
+<br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 	</li>
 				<table>
 <tr>
