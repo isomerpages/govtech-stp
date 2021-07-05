@@ -94,7 +94,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Citizens or Permanent Residents of Malaysia;</li>
 			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Have an issued work pass, i.e. not on in-principle approval (IPA);</li>
 			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">	Entering Singapore from Malaysia via land; and</li>
-			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Able to stay in Singapore for at least 90 days for work</li>
+			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Able to stay in Singapore for at least 90 days for work</li></ol>
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="/pca/overview">Periodic Commuting Arrangement</a>
 		</td>
@@ -102,7 +102,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 		<tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Construction, Marine shipyard or Process sector workers (“CMP workers”), who:	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
-			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are entering Singapore without their dependants.</li>
+			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are entering Singapore without their dependants.</li></ol>
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore"> MOM’s entry approval</a>
 		</td>
@@ -111,7 +111,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Work Holiday Pass (WHP) holders</li>
 			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
-					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li>
+					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li></ol>
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">WHP, PEP and EntrePass holders to apply: <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval</a>
 		</td>
