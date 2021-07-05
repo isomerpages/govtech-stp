@@ -108,7 +108,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day SHN in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or family)</b>  </li>
 	</ol>
 	</li>
 </ol>
