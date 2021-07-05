@@ -46,7 +46,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</ol>
 	</li>
 </ol>
-	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:10px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
 <tr>
 <td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></b></td>
@@ -58,8 +58,17 @@ For all other pass holders (work pass holders and their dependants), please refe
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 test upon arrival: 
 	Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) before the pass holder arrives in Singapore. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodations until they get a negative test result: 
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house   </b>  </li>
 </ol>
+			<p style="font-size: 16px; margin-top:10px; margin-bottom:10px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></b></td>
+</tr>
+	</table>
 </td> 
 	</tr>
 	</tbody>
