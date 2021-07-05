@@ -6,9 +6,9 @@ permalink: /wphl/fdws-cns-faq
 
 ### 1. If employers need help with the entry approval requirements, what can they do?
 
-Employers who are unable to fulfil the [entry approval requirements for Foreign Domestic Workers (FDWs) or Confinement Nannies (CNs)](/wphl/fdwcn-additional-responsibilities) may get employment agencies to help with the entry approval and SHN arrangements. In this case, the employment agency needs to fulfil the entry approval requirements.
+Employers who are unable to fulfil the [entry approval requirements for helpers  or Confinement Nannies (CNs)](/wphl/fdwcn-additional-responsibilities) may get employment agencies to help with the entry approval and SHN arrangements. In this case, the employment agency needs to fulfil the entry approval requirements.
 
-If no party is willing and able to fulfil the entry approval requirements, the FDW or CN should not enter Singapore.
+If no party is willing and able to fulfil the entry approval requirements, the helper or CN should not enter Singapore.
 
 ### 2. My helper/CN has obtained an entry approval to enter Singapore. However, I wish to change her arrival date or no longer want to bring her in. Can I ask for a refund of the charges paid? 
 
