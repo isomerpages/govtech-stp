@@ -61,7 +61,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodations until they get a negative test result: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house   </b>  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house </li>
 </ol>
 			<p style="font-size: 16px; margin-top:10px; margin-bottom:10px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
