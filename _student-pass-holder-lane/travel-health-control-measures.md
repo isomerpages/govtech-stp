@@ -4,7 +4,7 @@ permalink: /stpl/shn-and-swab-summary
 ---
 This page summarises the travel health control measures for approved travellers utilising the Student Pass Holder Lane (STPHL), depending on their travel history to various countries/regions.
 
-Prospective travellers who have yet to apply for entry, should refer to [this page](/scpr-familial-ties-lane/overview) for the STPHL entry and application requirements.
+Prospective travellers who have yet to apply for entry, should refer to [this page](/stpl/requirements-and-process) for the STPHL entry and application requirements.
 
 ### Travel Health Control Measures for STPHL-Travellers
 <p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 2 July 2021)</i></p>
