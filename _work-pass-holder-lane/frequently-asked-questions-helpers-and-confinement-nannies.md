@@ -10,7 +10,7 @@ Employers who are unable to fulfil the [entry approval requirements for Foreign 
 
 If no party is willing and able to fulfil the entry approval requirements, the FDW or CN should not enter Singapore.
 
-### 2. My FDW/CN has obtained an entry approval to enter Singapore. However, I wish to change her arrival date or no longer want to bring her in. Can I ask for a refund of the charges paid? 
+### 2. My helper/CN has obtained an entry approval to enter Singapore. However, I wish to change her arrival date or no longer want to bring her in. Can I ask for a refund of the charges paid? 
 
 For us to consider a refund, please submit a request to cancel her entry approval <b>at least 5 days before the approved arrival date</b> to Ministry of Manpower (MOM) using the relevant link below:
 
