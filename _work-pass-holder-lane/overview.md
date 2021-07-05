@@ -2,14 +2,11 @@
 title: Overview
 permalink: /wphl/overview2
 ---
-
-
 The Work Pass Holder General Lane (WPHL) is a Safe Travel Lane that facilitates the entry of foreigners with passes granted by the Ministry of Manpower (“Pass holders”) into Singapore. 
 
 All pass holders must obtain an entry approval to enter Singapore. This however, excludes pass holders conveying essential services or supplies (e.g. lorry drivers or vegetable supply truckers) coming from Malaysia by land or sea. 
 
 This page provides a quick overview of the key WPHL features, requirements, application and entry instructions. Travellers who do not qualify for entry via WPHL may return to [this menu](/arriving/overview) to explore other Safe Travel entry options.
-
 
 <table>
 <thead>
@@ -48,14 +45,23 @@ This page provides a quick overview of the key WPHL features, requirements, appl
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">For new entry applications, applications are only allowed for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
-		 	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;"><b>For new entry applications</b>, applications are only allowed for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
+		 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Australia</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Brunei Darussalam</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Hong Kong</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Macao </li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Mainland China</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">New Zealand</li>
+					</ol>
+			<br/>
+			<b>For approved entry applications</b>, pass holders must not visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be denied entry:
+					 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Bangladesh</li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">India</li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Nepal</li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Pakistan</li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Sri Lanka</li>
 					</ol>
 		 </td>
  </tr>
