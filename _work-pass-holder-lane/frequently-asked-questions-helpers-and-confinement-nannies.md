@@ -59,42 +59,42 @@ Once she has obtained entry approval to enter Singapore, she must present the fo
 
 If she does not have the indemnity form with her, the SHN facility operator can print the form in her native language and get her to sign on the spot. 
 
-### 5. Who is responsible for the treatment cost if my FDW or CN contracts COVID-19 from the room sharing?
+### 5. Who is responsible for the treatment cost if my helper or CN contracts COVID-19 from the room sharing?
 
 Find out who is responsible for paying for the pass holders' COVID-19 treatment <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment" target="_blank">here</a>.
 
-### 6. Who is responsible for the costs of the FDW's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
+### 6. Who is responsible for the costs of the helper's entry approval requirements, including COVID-19 tests, transport and SHN accommodation?
 
 <table>
   <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Type of FDWs</th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Type of helpers</th>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Purpose of Travel</th>
     <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Who is responsible for the costs?</th>
   </tr>
   <tr>
-    <td rowspan="2" style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Existing FDWs returning from overseas</td>
+    <td rowspan="2" style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Existing helpers returning from overseas</td>
     <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Left Singapore for work (e.g. accompany employer overseas)</td>
-    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+    <td style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their helpers.</td>
   </tr>
   <tr>
     <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Left Singapore for personal reasons</td>
-    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers and FDWs should come to a mutual agreement on who bears the costs or how to share them.</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Employers and helpers should come to a mutual agreement on who bears the costs or how to share them.</td>
   </tr>
   <tr>
-    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">New FDWs on Work Permit in-principle approvals</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">New helpers on Work Permit in-principle approvals</td>
     <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Plan to enter Singapore for employment</td>
-    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their FDWs.</td>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Employers must bear the costs in full and are not allowed to pass on any cost to their helpers.</td>
   </tr>
 </table>
-The party who submitted the FDW’s entry approval request must pay for the costs.
+The party who submitted the helper’s entry approval request must pay for the costs.
   
 Employment agencies which submitted the entry approval request may recover these costs from employers. If so, employment agencies should obtain the employers’ agreement to pay for the costs before submitting the entry approval request.
 
-### 7. Must I still pay my FDW salary while she is serving her SHN?
+### 7. Must I still pay my helper salary while she is serving her SHN?
 
-For new FDWs, you must start paying her salary once she is deployed to your house after her SHN.
+For new helpers, you must start paying her salary once she is deployed to your house after her SHN.
 
-For existing FDWs returning from overseas, you must continue paying her salary once she returns to Singapore.
+For existing helpers returning from overseas, you must continue paying her salary once she returns to Singapore.
 
 ### 8. What should I do if my FDW or CN falls sick during her SHN?
 
