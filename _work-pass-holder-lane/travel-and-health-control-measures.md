@@ -49,7 +49,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></b></td>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
 </tr>
 	</table>
 	</td> 
@@ -66,7 +66,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></b></td>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
 </tr>
 	</table>
 </td> 
@@ -93,8 +93,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 <tr>
 <td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For hotels, submitters should check and ensure they can accommodate guests serving SHN when booking. </li>
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Helpers and CNs are not allowed to serve SHN in dormitories. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should check and ensure they can accommodate guests serving SHN when booking. </i></li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Helpers and CNs are not allowed to serve SHN in dormitories.</i> </li>
 	</ol>
 	</td>
 </tr>
@@ -111,13 +111,18 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or family)</b>  </li>
 	</ol>
 	</li>
-</ol>
-	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
-	<table>
+				<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></b></td>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should check and ensure they can accommodate guests serving SHN when booking. </i></li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Pass holders are <b>not allowed</b> to serve SHN in dormitories or residences occupied by non-family members.</i></li>
+	</ol>
+	</td>
 </tr>
 	</table>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+</ol>
 </td> 
 	</tr>
 	</tbody>
