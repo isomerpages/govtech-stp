@@ -464,3 +464,15 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</tr>
 	</tbody>
 	</table>
+	
+### Conditions for pass holders to serve 14-day SHN at a place of residence	
+
+During the entry application, you can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs, if they fulfil all of these conditions:
+-	Place of residence is only occupied by the pass holder alone or household members, including any foreign domestic workers, with the same travel history, arrival date and SHN duration as the pass holder.
+-	Spent the last 21 consecutive days in any of the following places before entering Singapore, and did not transit through other countries/regions:
+	- Israel
+	- Taiwan 
+
+<b>Note: </b>
+- Pass holders are not allowed to serve the 14-day SHN in hotels.
+- Pass holders staying in dormitories are not allowed to serve SHN in a place of residence. They must serve their SHN in SDFs. 
