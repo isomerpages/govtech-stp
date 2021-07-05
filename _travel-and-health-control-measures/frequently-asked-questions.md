@@ -515,7 +515,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 </tr>
 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-	<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$160</td>
+	<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
  <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
     </tr> 
   </tbody>
