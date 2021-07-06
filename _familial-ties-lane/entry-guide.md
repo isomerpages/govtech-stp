@@ -2,7 +2,7 @@
 title: Entry Guide
 permalink: /scpr-familial-ties-lane/requirements-and-process
 ---
-This guide is meant for travellers who have received their approval letters to travel to Singapore via the Singapore Citizen/Permanent Resident Familial Ties Lane (FTL). Returning SC/PRs should refer to [this page](/sc-pr/requirements-and-process) instead, and travellers who have yet to apply for any entry approvals may click here for the list of available Safe Travel Lanes.
+This guide is meant for travellers who have received their approval letters to travel to Singapore via the Singapore Citizen/Permanent Resident Familial Ties Lane (FTL). Returning SC/PRs should refer to [this page](/sc-pr/requirements-and-process) instead, and travellers who have yet to apply for any entry approvals may [click here](/arriving/overview) for the list of available Safe Travel Lanes.
 
 Travellers should familiarise themselves with the indicative travel health control measures ([here](/scpr-familial-ties-lane/shn-and-swab-summary)) imposed based on their 21-day travel history to various countries/regions, before embarking on their journey to Singapore. Regardless of whether the traveller has recovered from, or vaccinated against COVID-19, these measures generally include any combination of the following (click on the links below for more information, including costs):
 
