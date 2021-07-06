@@ -231,8 +231,7 @@ Scroll down for the list of travel health control measures that would apply base
 </td>     
 </tr>-->
 <tr>
-<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 5</u><br/><ul style="margin-top: 0px; list-style-type: disc;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Malaysia</b></li></ul></td>
+<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 5</u><br/><b>Malaysia</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Singapore Citizens entering via <u>land</u> only</b>
 	<ol style="margin-top:0px;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore.</li> 
