@@ -24,14 +24,6 @@ To minimise the public health risks associated with the border reopening, travel
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Devices</a></li>
     </ol>
   </li>
-	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"> <b>SHN and Swab Summary Tables</b>
-  <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/sc-pr/overview">Returning Singapore Citizen/Permanent Resident Lane,</a> click <a href="/sc-pr/shn-and-swab-summary"> here</a></li>
-        <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/stpl/requirements-and-process">Student's Pass Holder Lane,</a> click <a href="/stpl/shn-and-swab-summary"> here</a></li>
-       <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen/Permanent Resident Familial Ties Lane</a> click <a href="/scpr-familial-ties-lane/shn-and-swab-summary"> here</a></li>
-		    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/dcev/overview">Death and Critical Illness Emergency Visit Lane,</a> click <a href="/dcev/shn-and-swab-summary"> here</a></li>
-    </ol>
-  </li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc">
 <a href="/health/travelinsurance">Mandatory COVID-19 Travel Insurance</a></li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"><a href="/health/covidtreatment">Treatment for Covid-19</a></li>
