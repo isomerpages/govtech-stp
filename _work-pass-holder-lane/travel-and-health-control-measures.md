@@ -471,6 +471,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</tr>
 	</tbody>
 	</table>
+	<p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 	
 <!--### Conditions for pass holders to serve 14-day SHN at a place of residence	
 
