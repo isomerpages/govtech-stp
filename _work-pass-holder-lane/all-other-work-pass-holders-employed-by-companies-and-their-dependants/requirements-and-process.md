@@ -1,6 +1,7 @@
 ---
 title: Requirements and Process
 permalink: /wphl/owph-requirements-and-process
+published: false
 third_nav_title: All Other Work Pass Holders Employed by Companies, and Their Dependants
 ---
 <b><span style="color:red">[NOTICE]</span></b>

@@ -1,6 +1,7 @@
 ---
 title: Work Permit, Training Work Permit, and S Pass Holders in Construction, Marine Shipyard and Process Sectors not Entering Singapore with Dependants
 permalink: /wphl/CMP-WP-TWP-Spass
+published: false
 ---
 
 For workers in the Construction, Marine shipyard or Process sector who meet all of these conditions:

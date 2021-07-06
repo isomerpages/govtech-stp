@@ -73,7 +73,7 @@ Click the relevant lane below for more details.
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
 					 <li style="font-size: 18px;">Confinement Nannies</li>
-					 <li style="font-size: 18px;">Foreign Domestic Workers</li>
+					 <li style="font-size: 18px;">Helpers</li>
 				 </ul>
 				</td>
 	</tr>

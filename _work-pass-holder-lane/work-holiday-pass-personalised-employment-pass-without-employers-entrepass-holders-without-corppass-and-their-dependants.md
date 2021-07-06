@@ -1,6 +1,7 @@
 ---
 title: Work Holiday Pass, Personalised Employment Pass (Without Employers), EntrePass Holders (Without Corppass), and Their Dependants
 permalink: /wphl/WHP-PEP-EntreP
+published: false
 ---
 For the following groups of pass holders:
 - Work Holiday Pass holders
