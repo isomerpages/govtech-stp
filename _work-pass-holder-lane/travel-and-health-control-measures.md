@@ -232,7 +232,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 (includes those who had received prior approvals for entry)
 	</td> 
 	</tr>
-		<!--<tr>
+		<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 5a</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Indonesia</b></li>
@@ -310,7 +310,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 * <i>With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history within the last 21 days to Indonesia will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 6 Jul 2021 to 12 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 Jul 2021 (Singapore time).</i>
 	</td> 
 	</tr>
-			<tr>
+			<!--<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 5b</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Indonesia</b></li>
