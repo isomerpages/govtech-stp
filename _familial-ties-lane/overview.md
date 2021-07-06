@@ -4,7 +4,7 @@ permalink: /scpr-familial-ties-lane/overview
 ---
 The Singapore Citizen (SC) / Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel Lane that facilitates entry of immediate family members of SC/PRs, and PR in-principle approval holders into Singapore. SC/PRs may return to Singapore without the need for any Entry Approvals and may refer to [this page](/sc-pr/requirements-and-process) for more information instead.
 
-The table below is a quick overview of the key FTL features and requirements. Eligible travellers and applicants who are keen to apply for an Entry Approval under the FTL, should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for instructions to submit an Entry Approval Application and this page for the full entry process. Travellers who are not eligible for entry via the FTL may return to this menu to explore other Safe Travel options.
+The table below is a quick overview of the key FTL features and requirements. Eligible travellers and applicants who are keen to apply for an Entry Approval under the FTL, should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for instructions to submit an Entry Approval Application and this page for the full entry process. Travellers who are not eligible for entry via the FTL may return to <a href="/arriving/overview">this menu</a> to explore other Safe Travel options.
 
 
 <table>
