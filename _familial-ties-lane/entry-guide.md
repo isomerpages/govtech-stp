@@ -35,6 +35,9 @@ The test must be taken at an [accredited or authorised testing facility](https:/
 <li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li> 
 </ol>
 
+Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
+
+
 B) <u>Submission of Declarations & Registration for On-Arrival COVID-19 Test</u>
 
 Travellers who are fit for travel must:
