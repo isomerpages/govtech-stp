@@ -17,8 +17,10 @@ The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditat
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”)t.</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li>
 </ol>
+
+Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
 
 
 <div id="SGAC"></div>
