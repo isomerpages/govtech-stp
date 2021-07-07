@@ -10,9 +10,9 @@ This guide is meant for travellers <u>who have received entry approvals</u> to S
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
-A Pre-Departure COVID-19 test is generally required if you are travelling from a higher risk country/region. <a href="/dcev/shn-and-swab-summary">Click here</a> to check if a PDT is required. 
+A Pre-Departure COVID-19 test is generally required if you are travelling from a higher risk country/region. The PDT requirement does not apply to travellers below the age of three (in this calendar year) and travellers who have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore. <a href="/dcev/shn-and-swab-summary"><b>Click here</a> to check if a PDT is required. </b>
 
-If you are required to take a PDT, travellers must take the test <u>within 72 hours before their departure for Singapore</u>. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
+The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
