@@ -16,7 +16,7 @@ Before their return, returning SC/PRs should familiarise themselves with the ind
 
 <div id="PDT"></div>
 
-### 1. Pre-Departure for Singapore (within 72 hours before departure)
+### 1. Pre-Departure for Singapore
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
