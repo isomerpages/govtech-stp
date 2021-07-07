@@ -21,9 +21,13 @@ Travellers are also encouraged to refer to the latest [press releases](/news-and
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
-Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore are required to present a valid negative PDT result for entry. Travellers are only exempted from this requirement, if they have stayed in a low-risk country/region for <u>21 consecutive days</u> before departure for Singapore. Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to find out if a pre-departure test (PDT) is required before travelling to Singapore.
+Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore are required to present a valid negative PDT result for entry. 
 
-Travellers requiring a PDT must take the test <u>within 72 hours before their departure for Singapore</u>. The test must be taken at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure, and travellers should ensure that the PDT:
+The PDT requirement does not apply to travellers below the age of three (in this calendar year), and travellers who have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore.
+
+<b>Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to find out if a pre-departure test (PDT) is required</b> before travelling to Singapore, and the required lead time for the test (e.g. 48 or 72 hours before departure), which depends on your travel history to various countries/regions.
+
+The test must be taken at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure, and travellers should ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
