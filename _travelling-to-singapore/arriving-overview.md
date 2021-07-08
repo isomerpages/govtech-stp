@@ -48,7 +48,7 @@ Click the relevant lane below for more details.
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
