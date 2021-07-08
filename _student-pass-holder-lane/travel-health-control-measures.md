@@ -230,7 +230,7 @@ Scroll down for the list of travel health control measures that would apply base
 	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
 </td>     
 </tr>-->
-<tr>
+<!--<tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 5</u><br/><b>Malaysia</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>Singapore Citizens entering via <u>land</u> only</b>
 	<ol style="margin-top:0px;">
@@ -268,9 +268,9 @@ Scroll down for the list of travel health control measures that would apply base
 	</li>
 	</ol>
 	</td>
-</tr>
+</tr>-->
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 5</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
@@ -284,7 +284,7 @@ Scroll down for the list of travel health control measures that would apply base
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br/><b>All other countries/regions</b></td>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
