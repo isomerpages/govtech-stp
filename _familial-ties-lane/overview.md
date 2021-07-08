@@ -18,7 +18,7 @@ The table below is a quick overview of the key FTL features and requirements. El
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px; font-size:16px; ">
 			 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">PR In-Principle Approval (IPA) holder</li>
-			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">ICA-issued Long-Term Visit Pass IPA holder</li>
+			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><a href="https://www.ica.gov.sg/reside/LTVP/apply">ICA-issued Long-Term Visit Pass IPA holder</a></li>
 			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Immediate family member, relative, fiancé/fiancée of an SC/PR, including:
 			 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Holders of a valid Work Pass, Student’s Pass (STP), STP-IPA; and </li>
