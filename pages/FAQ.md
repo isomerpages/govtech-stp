@@ -31,20 +31,16 @@ permalink: /FAQ
     </tr>  
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td rowspan="3" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Visiting Singapore<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+      <td  colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Visiting Singapore<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Brunei</a></li>
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/faq">Mainland China</a></li>
         </ol></td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">
-      </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for Visiting RGL Counterpart Countries </td>
-        <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for Visiting RGL Counterpart Countries <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-brunei">Brunei</a></li>
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-china">Mainland China</a></li>
-        </ol>
-      </td>
+        </ol> </td>
     </tr>
 <tr style="border-bottom:1.2px solid #E8E8E8">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Returning to Singapore </td>
