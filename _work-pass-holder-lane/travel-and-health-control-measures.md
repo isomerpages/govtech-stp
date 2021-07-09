@@ -269,14 +269,14 @@ For all other pass holders (work pass holders and their dependants), please refe
 </tr>
 				<tr>
 <td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">With her employer or employer’s family</td>
-	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 test at the checkpoint.
-					<br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival ART and PCR tests at the checkpoint.
+					<br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b>($227 including GST) before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an <a href="/health/shn/sdf">SDF </a>($1,500 including GST) and:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an SDF ($1,500 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival; <u>and</u></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer ARTs on Days 3, 7 and 11 of arrival; <u>and</u></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
 		</ol>
 	</li>
@@ -296,8 +296,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test upon arrival: <br/><br/>
-	Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> <b>before the pass holder arrives in Singapore.</b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take Anitgen Rapid Test (ART) and PCR test upon arrival:<br/><br/>
+	Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($227 including GST)<b>before the pass holder arrives in Singapore.</b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">		Serve a 14-day <a href="/health/shn/">SHN</a> at an <a href="/health/shn/sdf">SHN dedicated facility (SDF) </a>($2,000 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -353,9 +353,9 @@ For all other pass holders (work pass holders and their dependants), please refe
 					</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an <a href="/health/shn/sdf">SDF </a>($1,500 including GST) and:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an SDF ($1,500 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival; <u>and</u></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer ARTs on Days 3, 7 and 11 of arrival; <u>and</u></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
 		</ol>
 	</li>
