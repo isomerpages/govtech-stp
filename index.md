@@ -4,7 +4,7 @@ title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore
   under Green/Fast Lane arrangements.
 permalink: /
-notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 7 July 2021, from 6pm to 7pm. During this period, application services for Air Travel Pass will not be available. <br/><br/> Please note that the ICA SG Arrival
+notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 12 July 2021, from 6pm to 8pm. During this period, application services for Air Travel Pass will not be available. <br/><br/> Please note that the ICA SG Arrival
   Card (SGAC) e-Service is a simple, free, self-help form accessed via ICA’s
   website (<a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">https://eservices.ica.gov.sg/sgarrivalcard/</a>)
