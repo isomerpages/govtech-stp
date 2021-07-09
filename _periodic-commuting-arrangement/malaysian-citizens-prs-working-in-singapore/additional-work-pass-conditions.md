@@ -27,11 +27,11 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 *Before the foreign employee leaves for Singapore*
 
 2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing or Singapore if:
-: a. the foreign employee had recent travel history to Malaysia within the last 14 days prior to entering Singapore.
+: a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore.
 
 Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
 
-3. The Employer shall inform the foreign employee that he/she is required to serve a 21-day Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
+3. The Employer shall inform the foreign employee that he/she is required to serve a 14-day Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
 
 4. The Employer shall ensure that the foreign employee is able to fully comply with the additional work pass conditions imposed on him/her for the SHN period.
 
