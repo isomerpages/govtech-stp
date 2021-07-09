@@ -79,7 +79,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-departure and Entry Guide</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Click <a href="">here</a></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Click <a href="/dcev/entryguide">here</a></td>
 </tr>
 </tbody>
 <thead>
