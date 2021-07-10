@@ -14,7 +14,11 @@ The health measures to be imposed may not be limited to COVID-19 tests, and you 
 
 #### 1. PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a PCR test within 72 hours <u>before</u> departing to Singapore. To test for COVID-19, travellers bound for Singapore are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the PCR test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
+Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) before departing to Singapore. 
+
+<b>Please check the respective Safe Travel Lane pages for details of the pre-departure PCR test requirements, which may vary depending on travel history and Safe Travel Lane used.</b>
+
+To test for COVID-19, travellers bound for Singapore are required to take a PCR test at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the PCR test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
 
 <div id="price"></div>
 

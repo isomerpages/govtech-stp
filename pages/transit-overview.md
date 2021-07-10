@@ -6,6 +6,8 @@ permalink: /transit/overview
 
 Only passengers travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS) will be allowed to transit/transfer at Singapore’s Changi Airport. <u>Travellers are advised to confirm arrangements with the airlines they intend to fly with before purchasing their flight tickets</u>. You can also visit the Changi Airport website for more information on <a href="https://www.changiairport.com/en/airport-guide/Covid-19/transiting-through-airport.html" target="_blank">transiting through Singapore</a>.
 
+<b>With effect from 12 July 2021, 2359 hours, <u>all travellers</u></b> with travel history to Indonesia within the last 21 days will not be allowed to transit through Singapore.
+
 #### Pre-Departure COVID-19 Test
 
 From <b>29 May 2021, 2359 hours, <u>all</u> travellers transiting through Singapore (<u>including Singapore Citizens and PRs</u>) via flight or ferry</b> will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore.

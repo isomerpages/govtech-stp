@@ -10,15 +10,19 @@ This guide is meant for travellers <u>who have received entry approvals</u> to S
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
-A Pre-Departure COVID-19 test is generally required if you are travelling from a higher risk country/region. <a href="/dcev/shn-and-swab-summary">Click here</a> to check if a PDT is required. 
+A Pre-Departure COVID-19 test is generally required if you are travelling from a higher risk country/region.  <b>Click <a href="/dcev/shn-and-swab-summary">here</a> to check if a PDT is required, </b>and the required lead time for the test (e.g. 48 or 72 hours before departure), which depends on your travel history to various countries/regions.
 
-If you are required to take a PDT, travellers must take the test <u>within 72 hours before their departure for Singapore</u>. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
+The PDT requirement does not apply to travellers below the age of three (in this calendar year) and travellers who have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore.
+
+The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”)t.</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li>
 </ol>
+
+Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
 
 
 <div id="SGAC"></div>
