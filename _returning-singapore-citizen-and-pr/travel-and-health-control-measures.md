@@ -273,7 +273,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	</td>
 </tr>
-<!--<tr>
+<tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 6</u><br/><b>Myanmar</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>For arrivals before XX Jul 2021, 2359 hours</b>
 		<ol style="margin-top:0px; list-style-type: decimal;">
@@ -324,7 +324,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>* With effect from 0001 hours, XX Jul 2021 (Singapore Time), travellers with travel history within the last 21 days to Myanmar will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 11 Jul 2021 to 17 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 18 Jul 2021 (Singapore Time)</i></p>
 	</td>
-</tr>-->
+</tr>
 <tr>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
