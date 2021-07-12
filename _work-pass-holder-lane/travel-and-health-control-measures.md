@@ -390,7 +390,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td> 
 	</tr>
 	<!-- Myanmar edits-->
-<!--<tr>
+<tr>
 <td rowspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 5</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Myanmar</b></li>
@@ -537,7 +537,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</li>
 </ol>
 	</td> 
-	</tr>-->
+	</tr>
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u>S/N 6</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
