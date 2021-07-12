@@ -20,7 +20,7 @@ The Reciprocal Green Lane (RGL) is a bilaterally negotiated dual-way safe travel
   </tr>
 	    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;">To be reinstated with effect <b>from 12 July 2021</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;">Reinstated with effect <b>from 12 July 2021</b></td>
   </tr> 
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
@@ -69,7 +69,7 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-china">FAQ</a></td>
   </tr>
 	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Brunei)<span style="color:red;">*</span></b> </td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Brunei)</b> </td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Entry Travel Pass</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Instructions under "Entry Travel for Foreigners" at the Brunei PMO <a href="http://www.pmo.gov.bn/travelportal/Home.aspx" target="_blank">website</a></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-brunei">FAQ</a></td>
