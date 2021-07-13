@@ -295,8 +295,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take Antigen Rapid Test (ART) and PCR test upon arrival<br/><br/>
-	Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> ($227 including GST) before the pass holder arrives in Singapore.</b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take Antigen Rapid Test (ART) and PCR test upon arrival:<br/><br/>
+Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival tests</a><b> ($227 including GST) before the pass holder arrives in Singapore.</b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">		Serve a 14-day <a href="/health/shn/">SHN</a> at an <a href="/health/shn/sdf">SHN dedicated facility (SDF) </a>($2,000 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
