@@ -486,7 +486,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/fdwcn-requirements-and-process">Helpers and Confinement Nannies</a>, <a href="/wphl/owph-requirements-and-process">all other Work Pass Holders and their dependents</a>)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/overview">Helpers and Confinement Nannies</a>, <a href="/wphl/overview">all other Work Pass Holders and their dependents</a>)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
