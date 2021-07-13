@@ -160,7 +160,7 @@ For further clarification on entry to Malaysia, you may wish to reach out to the
  
 #### 5. I am a confinement nanny. Do I apply for a PCA pass to enter Singapore?
 
-No. Confinement nannies can only enter Singapore using a MOM-issued Letter of Entry Approval. Employers will need to apply for entry approval via MOM on behalf of the confinement nannies. Click <a href="/wphl/fdwcn-requirements-and-process">here</a> for more information.
+No. Confinement nannies can only enter Singapore using a MOM-issued Letter of Entry Approval. Employers will need to apply for entry approval via MOM on behalf of the confinement nannies. Click <a href="/wphl/overview">here</a> for more information.
 
 #### 6. I do not have a FIN number as am an In-Principle Approval (IPA) pass holder. How do I apply for a PCA to fulfil my employment obligation in Singapore?
 
@@ -270,7 +270,7 @@ For employees who are concurrently an LOC and ICA-issued Long-Term Visit Pass ho
 
 #### 2. I run a domestic helper agency. Can I apply for a PCA for the domestic helpers on behalf of my clients?
 
-No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Holder General Lane (Helper/CN)](/wphl/fdwcn-requirements-and-process).
+No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Holder General Lane (Helper/CN)](/wphl/overview).
 
 #### 3. I must send an employee to Malaysia for work/business purposes. Do I apply for a PCA pass using the SafeTravel application portal?
 
