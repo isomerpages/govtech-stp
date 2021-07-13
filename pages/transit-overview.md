@@ -8,6 +8,24 @@ Only passengers travelling with an airline whose transfer route via Singapore ha
 
 Travellers with travel history to the following countries/regions will not be allowed to transit through Singapore:
 
+<table>
+<thead>
+  <tr>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Country/Region</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Effective Date</b></th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">12 July 2021</td>
+  </tr>
+	    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Myanmar</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">16 July 2021</td>
+  </tr>
+  </tbody>
+  </table>
 
 #### Pre-Departure COVID-19 Test
 
