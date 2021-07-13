@@ -105,7 +105,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </ol>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:  Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
