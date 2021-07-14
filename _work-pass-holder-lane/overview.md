@@ -59,6 +59,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 					 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Bangladesh</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">India</li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Myanmar <b>(from 15 Jul 2021, 2359 hours)</b></li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Nepal</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Pakistan</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Sri Lanka</li>
@@ -183,7 +184,7 @@ Click <a href="/health/faq">here</a> for the full list of FAQs, or the links bel
 	</p> 
 	<ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.mom.gov.sg/">Pass related matters (e.g. IPA extensions, pass issuance or renewals)</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singaporef">Entry applications for CMP workers</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.mom.gov.sg/covid-19/actions-for-companies-to-bring-pass-holders-into-singapore">Entry applications for CMP workers</a></li>
 </ul>
  </td>
 </tr>

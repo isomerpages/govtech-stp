@@ -486,7 +486,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/fdwcn-requirements-and-process">Helpers and Confinement Nannies</a>, <a href="/wphl/owph-requirements-and-process">all other Work Pass Holders and their dependents</a>)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/overview">Helpers and Confinement Nannies</a>, <a href="/wphl/overview">all other Work Pass Holders and their dependents</a>)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
@@ -530,8 +530,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 				<tr>
 					<div id="note"></div>
 					
-<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* (i) All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).<br/><br/>
-(ii) With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</td>
+<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* <b><u>NOTE I</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia). <br/><br/><b><u>NOTE II</u></b>: With effect from 0001 hours, 16 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from <b>Myanmar</b> and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal.  The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 16 to 22 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 23 July 2021 (Singapore time).</td>
 		</tr>
       </tbody>
   </table>

@@ -6,7 +6,26 @@ permalink: /transit/overview
 
 Only passengers travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS) will be allowed to transit/transfer at Singapore’s Changi Airport. <u>Travellers are advised to confirm arrangements with the airlines they intend to fly with before purchasing their flight tickets</u>. You can also visit the Changi Airport website for more information on <a href="https://www.changiairport.com/en/airport-guide/Covid-19/transiting-through-airport.html" target="_blank">transiting through Singapore</a>.
 
-<b>With effect from 12 July 2021, 2359 hours, <u>all travellers</u></b> with travel history to Indonesia within the last 21 days will not be allowed to transit through Singapore.
+Travellers with travel history to the following countries/regions will not be allowed to transit through Singapore:
+
+<table>
+<thead>
+  <tr>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Country/Region</b></th>
+    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Effective Date</b></th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">12 July 2021</td>
+  </tr>
+	    <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Myanmar</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">16 July 2021</td>
+  </tr>
+  </tbody>
+  </table>
 
 #### Pre-Departure COVID-19 Test
 
