@@ -7,7 +7,7 @@ This page summarises the travel health control measures for approved travellers 
 Prospective travellers who have yet to apply for entry, should refer to [this page](/stpl/requirements-and-process) for the STPHL entry and application requirements.
 
 ### Travel Health Control Measures for STPHL-Travellers
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 13 July 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 14 July 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable). Otherwise, scroll down to view the table of health control measures.
 
