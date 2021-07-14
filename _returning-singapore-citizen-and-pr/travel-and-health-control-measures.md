@@ -322,7 +322,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	</li>
 	</ol>
-<!--	<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>* With effect from 0001 hours, 16 Jul 2021 (Singapore Time), travellers with travel history within the last 21 days to Myanmar will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 11 Jul 2021 to 17 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 18 Jul 2021 (Singapore Time)</i></p>-->
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>* With effect from 0001 hours, 16 Jul 2021 (Singapore Time), travellers with travel history within the last 21 days to Myanmar will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 16 Jul 2021 to 22 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 23 Jul 2021 (Singapore Time)</i></p>
 	</td>
 </tr>
 <tr>
