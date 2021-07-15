@@ -7,9 +7,9 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF <b>only upon arrival</b>.
 
-If you have specific needs for your SDF stay (e.g. medical requirements), you may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for details. Alternatively, you may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. If you are already serving SHN at an SDF, you may wish to contact the SDF's front desk for assistance.
+If you have specific needs for your SDF stay (e.g. medical requirements), you may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for details. Alternatively, you may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. You are strongly advised to submit your enquiry or request two weeks in advance of your arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation.^ If you are already serving SHN at an SDF, you may wish to contact the SDF's front desk for assistance.
 
-<b>Cost of SDF Stay (14 Days)</b>
+<b>Cost of SDF Stay (14 Days) (For cost of SDF stay relating to Helpers and Confinement Nannies, click <a href="/wphl/shn-and-swab-summary">here</a>.)</b>
 
 <table>
   <tr>
@@ -43,6 +43,8 @@ If you have specific needs for your SDF stay (e.g. medical requirements), you ma
   </tr>
  </table>-->
 <sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i>
+
+<sup>^</sup><i> As agencies handle a very high volume of requests daily, we seek your understanding and patience that it may take up to five working days for agencies to respond.</i>
 
 The exact costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
 
