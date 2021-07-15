@@ -11,7 +11,7 @@ If you have specific needs for your SDF stay (e.g. medical requirements), you ma
 
 <sup>^</sup><i> As agencies handle a very high volume of requests daily, we seek your understanding and patience that it may take up to five working days for agencies to respond.</i>
 
-<b>Cost of SDF Stay (14 Days) (For cost of SDF stay relating to Helpers and Confinement Nannies, click <a href="/wphl/shn-and-swab-summary">here</a>.)</b>
+<b>Cost of SDF Stay (14 Days)<br/> (For cost of SDF stay relating to Helpers and Confinement Nannies, click <a href="/wphl/shn-and-swab-summary">here</a>.)</b>
 
 <table>
   <tr>
