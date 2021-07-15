@@ -59,8 +59,12 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 </td>
     </tr>-->
 <tr>
- <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers except those with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 21 days prior to entering Singapore</b></td>
-	</tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:gsm@royalplaza.com.sg">Royal Plaza on Scotts</a></td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>
     <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:SDFsuite.sts@swissotel.com">Swissotel the Stamford</a></td>
        <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
@@ -68,20 +72,6 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
-<tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:gsm@royalplaza.com.sg">Royal Plaza on Scotts</a></td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>
-<tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:jw.sinjw.reservations@marriotthotels.com ">JW Marriott South Beach</a></td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-      <td style="text-align:center;font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>   
 <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:Reservations.Singapore3@westin.com">The Westin Singapore</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
@@ -96,6 +86,27 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
    </tr>
+      <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.fs@fairmont.com">Fairmont Singapore </a></td>
+       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>
+  <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:dutymanager.sinhi@ihg.com">Holiday Inn Singapore Atrium</a></td>
+           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>
+<tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:jw.sinjw.reservations@marriotthotels.com ">JW Marriott South Beach</a></td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center;font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>   
 <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Sinci.res@conradhotels.com">Conrad Centennial Singapore</a></td>
           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
@@ -120,40 +131,18 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <!--  <tr>
       <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 21 days prior to entering Singapore</b>
 </td>
-    </tr>-->       
-    <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, Indonesia or Philippines in the last 21 days prior to entering Singapore</b>
-</td>
-    </tr>
-      <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.fs@fairmont.com">Fairmont Singapore </a></td>
-       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>
+    </tr>-->
+  <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:parkavenue.rochester.dm@uel.sg">Park Avenue Rochester</a></td>
+           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+    </tr>       
     <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:SINRS-Shared.MB-SHN@hyatt.com">Grand Hyatt </a></td>
            <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>
-<tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b><u>Only</u> for travellers with travel history to Bangladesh, India, Nepal, Pakistan or Sri Lanka in the last 21 days prior to entering Singapore</b>
-</td>
-    </tr>
-  <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:dutymanager.sinhi@ihg.com">Holiday Inn Singapore Atrium</a></td>
-           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>
-   <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:parkavenue.rochester.dm@uel.sg">Park Avenue Rochester</a></td>
-           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
-      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
