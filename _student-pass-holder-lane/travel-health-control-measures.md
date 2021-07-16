@@ -230,7 +230,7 @@ Scroll down for the list of travel health control measures that would apply base
 </td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>For arrivals after 15 Jul 2021, 2359 hours</b><p style="margin-top:20px; margin-bottom:0px; text-align:center; color:red; font-size:16px; line-height:1.5;"><b>Disallowed from entry into Singapore via FTL </b><br/>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b>For arrivals after 15 Jul 2021, 2359 hours</b><p style="margin-top:20px; margin-bottom:0px; text-align:center; color:red; font-size:16px; line-height:1.5;"><b>Disallowed from entry into Singapore via STPHL </b><br/>
 (includes those who had received prior approvals for entry)</p>
 	</td>
 </tr>
