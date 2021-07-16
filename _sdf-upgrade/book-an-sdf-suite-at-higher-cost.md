@@ -12,7 +12,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 1:** Travellers who require entry approval to Singapore will need to obtain entry approval before making a suite booking. If you are unsure whether you need entry approval, please check the list of Safe Travel Lanes [here](/arriving/overview).
 
-**Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite. 
+**Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available.
 
 **Step 3:** After booking a suite with their preferred SDF, travellers should immediately inform government agencies of the booking at <https://go.gov.sg/sdfsuite>. This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time may be assigned to a standard room at any SDF upon arrival.</u> The charge for a subsequent transfer to another SDF is at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
  
@@ -154,9 +154,9 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 ## For Suite Bookings After Arrival
 
-**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of atleast S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF). 
+**Step 1:** Travellers should note that for suite bookings made after arrival in Singapore, you will need to pay an additional fee of at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF). 
 
-**Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available. Travellers should check each SDF's restrictions on accepting travellers with travel history in the last 21 days to certain countries/regions before booking their suite.
+**Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available.
 
 **Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
 
