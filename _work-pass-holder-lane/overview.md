@@ -59,7 +59,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 					 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Bangladesh</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">India</li>
-											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Myanmar <b>(from 15 Jul 2021, 2359 hours)</b></li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Myanmar</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Nepal</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Pakistan</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Sri Lanka</li>
