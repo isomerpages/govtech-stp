@@ -53,9 +53,9 @@ If you have already applied for entry into Singapore under any of the following 
 
 ### Contact Points 
 
-If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to either:
+If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, or if you are encountering technical issues with the SafeTravel application portals, you may wish to either:
 - Call our SafeTravel Enquiries Helpline at **6812 5555** for assistance; or
-- Write to us using our enquiry form <!--<a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>--> below.
+- Write to us using our SafeTravel Enquiry form<!--<a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>--> below.
 
 
 ### SafeTravel Enquiry Form
