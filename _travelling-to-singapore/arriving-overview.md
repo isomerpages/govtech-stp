@@ -35,7 +35,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
-Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
+Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
 Click the relevant lane below for more details.
 

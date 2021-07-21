@@ -16,6 +16,14 @@ Travellers with travel history to the following countries/regions will not be al
   </tr>
 </thead>
 <tbody>
+	<tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>India</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">23 April 2021</td>
+  </tr>
+	<tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Bangladesh, Nepal, Pakistan and Sri Lanka</b></td>
+      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">1 May 2021</td>
+  </tr>
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
       <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">12 July 2021</td>

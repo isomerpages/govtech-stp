@@ -60,7 +60,7 @@ permalink: /FAQ
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
       <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/fdwcn-faq">FAQ for Helpers and Confinement Nannies</a>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/fdws-cns-faq">FAQ for Helpers and Confinement Nannies</a>
        </td>
     </tr>
 <tr style="border-bottom:1.2px solid #E8E8E8">

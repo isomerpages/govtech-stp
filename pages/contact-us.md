@@ -4,11 +4,11 @@ permalink: /contact-us
 ---
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - Entry Approvals</b></p>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">New entry approvals have been reduced or halted until further notice for all short term visitors and long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, and New Zealand). If you are unable to find an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised.</p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Affected Work Pass holders will have their in-principle approval (IPA) validities extended. The Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</p>
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>	
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">For approved travellers who have not yet arrived in Singapore, please check the webpages of the <a href="/arriving/overview">Safe Travel Lane</a> you are utilising, to confirm the latest health prevailing health measures that apply to you.</p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE - Entry Approvals and Availability of Entry Dates</b></p>
+<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">New entry approvals have been reduced or halted until further notice for short term visitors and long term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China, and New Zealand). <b>If you are unable to select an entry date in the SafeTravel application portal, please defer your travel plans until the situation has stabilised</b>.</p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">Work Pass in-principle approval (IPA) holders who are unable to enter Singapore will have their IPA validities extended. The Ministry of Manpower (MOM) will share more details on this later on. In the meantime, for IPAs that are expiring soon, you can <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">request for an extension</a>.</p>
+<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">If your prior entry approval has been cancelled, you will be contacted regarding refunds of fees paid.</p>-->	
+<!--<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.2;">For approved travellers who have not yet arrived in Singapore, please check the webpages of the <a href="/arriving/overview">Safe Travel Lane</a> you are utilising, to confirm the latest health prevailing health measures that apply to you.</p>-->
 </div>
 
 As our Contact Centre is experiencing a high volume of enquiries, please browse through the information on the SafeTravel website first to find out what requirements apply to you when entering or departing Singapore.
@@ -53,9 +53,9 @@ If you have already applied for entry into Singapore under any of the following 
 
 ### Contact Points 
 
-If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, you may wish to either:
+If the information on the SafeTravel website does not address your queries regarding entering or departing Singapore, or if you are encountering technical issues with the SafeTravel application portals, you may wish to either:
 - Call our SafeTravel Enquiries Helpline at **6812 5555** for assistance; or
-- Write to us using our enquiry form <!--<a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>--> below.
+- Write to us using our SafeTravel Enquiry form<!--<a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a>--> below.
 
 
 ### SafeTravel Enquiry Form

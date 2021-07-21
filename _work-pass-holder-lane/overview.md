@@ -55,11 +55,11 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">New Zealand</li>
 					</ol>
 			<br/>
-			For <b><u>approved entry applications</u></b>, pass holders <b>must not</b> visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be denied entry:
+			For <b><u>existing approved entry applications</u></b>, pass holders <b>must not</b> visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be denied entry:
 					 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Bangladesh</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">India</li>
-											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Myanmar <b>(from 15 Jul 2021, 2359 hours)</b></li>
+											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Myanmar</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Nepal</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"> Pakistan</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Sri Lanka</li>
