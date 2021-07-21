@@ -24,7 +24,7 @@ To test for COVID-19, travellers bound for Singapore are required to take a PCR 
 
 #### 2. On-Arrival Tests
 
-All travellers will be tested for COVID-19 upon arrival in Singapore. The cost of the tests taken in Singapore is reflected below, and travellers are advised to <u>register and pay for the tests before their arrival</u> to shorten the relevant administrative processes.
+All travellers will be tested for COVID-19 upon arrival in Singapore. The cost of the tests taken in Singapore is reflected below, and travellers are advised to <u>register and pay for the tests before their arrival using the relevant links below</u> to shorten the relevant administrative processes.
 
 <table>
   <thead>
@@ -32,7 +32,7 @@ All travellers will be tested for COVID-19 upon arrival in Singapore. The cost o
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ><b>Point of Swab</b></th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Swab location</b></th>
        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Charge (inclusive of GST)</b></th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Payment Mode</b></th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Registration and Payment Link</b></th>
     </tr>
   </thead>
   <tbody>
