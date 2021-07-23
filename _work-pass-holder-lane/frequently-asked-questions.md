@@ -195,7 +195,23 @@ Employers should remind their employees to present the following documents to th
 
 #### 1. My Confinement Nanny/Foreign Domestic Worker had contracted COVID-19 from her roommate while serving her Stay-Home Notice (SHN) upon arrival in Singapore. Who is responsible for the cost of her medical treatment? 
 
-Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment) for more information. 
+Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment) for more information.
 
+#### 2. Who is responsible for the costs of the employee’s entry approval charges, including COVID-19 tests, transport and SHN accommodation, as applicable? 
 
-
+<table>
+ <thead>
+    <tr>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;">Point of Swab</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Swab location</th>
+       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Charge (inclusive of GST)</th>
+    </tr>
+  </thead>
+	 <tbody>
+	 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">While serving Stay-Home Notice (SHN)</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Specified testing facility in Singapore</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$125</td>
+    </tr>
+	</tbody>
+	</table>
