@@ -9,7 +9,7 @@ Click to jump to the following sections:
  2. [MOM-issued Passes: Applications, Extensions and Levies](#mompasses)
  3. [COVID-19 Tests](#covidtest)
  4. [Stay-Home Notice (SHN) and SHN-Dedicated Facilities](#shn)
- 5. [Payment, Cost-sharing Matters and Refunds](#)
+ 5. [Payment, Cost-sharing Matters and Refunds](#payment)
  6. [Technical Issues with Application Portal](/faq/tech)
 
 Can’t find what you’re looking for? You may also visit MOM’s site [here](https://mom.gov.sg/covid-19/migrant-worker-onboarding-centre) for more information on domestic measures after arrival (e.g. Migrant Workers Onboarding Centre, Rostered Routine Testing). 
@@ -190,3 +190,12 @@ Employers should remind their employees to present the following documents to th
 ##### Click [here](/health/faq#shnsdf) to for general FAQs on SHN and SDF.
 
 <div id="payment"></div>
+
+### Payment, Cost-sharing Matters and Refunds
+
+#### 1. My Confinement Nanny/Foreign Domestic Worker had contracted COVID-19 from her roommate while serving her Stay-Home Notice (SHN) upon arrival in Singapore. Who is responsible for the cost of her medical treatment? 
+
+Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment) for more information. 
+
+
+
