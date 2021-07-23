@@ -51,5 +51,18 @@ For us to consider a refund of the entry approval charges for the previous appli
 		 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a></td>
     </tr>
+		 	 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other Pass holders who have been approved for entry via the WPHL</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 7 days before the planned arrival date  </td>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-entry-approval">here</a></td>
+    </tr>
+		 	 <tr>
+				  <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+						<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Work Holiday Pass Holder</li>
+												<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Personalised Employment Pass holder (without employer) and their dependants</li>
+												<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">EntrePass Holder (without Corppass) and their dependants</li>
+						</ol></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="http://www.mom.gov.sg/cancel-entry-individual">here</a></td>
+    </tr>
 	</tbody>
 	</table>
