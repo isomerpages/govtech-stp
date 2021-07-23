@@ -228,3 +228,9 @@ For other work passes, employers and employees should come to a mutual agreement
     </tr>
 	</tbody>
 	</table>
+	
+#### 3. My employee was diagnosed with COVID-19 in the first 14 days of their arrival in Singapore. Am I required to pay for their medical bills?
+   
+You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment) for more information.
+
+<a href="#top">Click here to return to the top.</a>
