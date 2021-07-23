@@ -411,7 +411,7 @@ All arriving travellers are required to pay for their PCR test (click [here](/he
 
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
-<table>
+<table style="table-layout: fixed; width: 100%">
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Scheme of Travel</th>
@@ -458,7 +458,7 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
 <br/><br/>
 Travellers/application sponsors may refer to the table below on how to make separate pre-payment  for their on-arrival COVID-19 tests:
        <br/>
-   <table>
+   <table style="table-layout: fixed; width: 100%">
   <thead>
     <tr>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ><b>Point of Swab</b></th>
@@ -469,7 +469,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
+      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; ">On arrival in Singapore</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">Here</a></td>
