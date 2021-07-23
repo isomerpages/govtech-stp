@@ -211,6 +211,8 @@ As a condition to enter Singapore, travellers may be required to produce a negat
 
 Travellers who present falsified COVID-19 test certificates will be dealt with accordingly, and may be barred from future applications for entry into or stay in Singapore.
 
+<div id="recovered"></div>
+
 #### 4. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
 Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.gov.sg/covid-19/faqs) should defer their travels. 
