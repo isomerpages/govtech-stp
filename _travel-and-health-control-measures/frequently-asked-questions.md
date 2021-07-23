@@ -412,9 +412,9 @@ All arriving travellers are required to pay for their PCR test (click [here](/he
 When and how payment is collected, will depend on the travellers’ scheme of travel:
 
 <table style="table-layout: fixed; width: 100%">
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Scheme of Travel</th>
+  <thead >
+    <tr >
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; width:30%;">Scheme of Travel</th>
        <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
     </tr>
   </thead>
