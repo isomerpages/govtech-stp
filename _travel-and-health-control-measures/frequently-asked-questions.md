@@ -495,30 +495,30 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 				<table style="table-layout: fixed; width: 100%">
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ><b>Point of Swab</b></th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Swab location</b></th>
-       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Charge (inclusive of GST)</b></th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Payment Mode</b></th>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;" ><b>Point of Swab</b></th>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Swab location</b></th>
+       <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Charge (inclusive of GST)</b></th>
+        <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Payment Mode</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
-        <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/">here</a>  to book and pay for the tests <b>before the helper/CN arrives in Singapore</b>.</td>
+      <td rowspan="3" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">On arrival in Singapore</td>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
+       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
+        <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/">here</a>  to book and pay for the tests <b>before the helper/CN arrives in Singapore</b>.</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-	<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">S$160</td>
-	<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helper/CN must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arrival</b>.<br/><br/>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
+	<td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-bottom:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">S$160</td>
+	<td style="font-size:16px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helper/CN must register and pay for the tests <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before arrival</b>.<br/><br/>
 Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits">responsible for the test cost</a>
 </td>
 </tr>
 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-	<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
- <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
+	<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br/><br/><b>Antigen Rapid Test  (for travellers from <a href="https://safetravel.ica.gov.sg/health/faq#note">higher risk countries/regions*</a> only)</b> – S$67</td>
+ <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
     </tr> 
   </tbody>
   </table>
