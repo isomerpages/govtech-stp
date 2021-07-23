@@ -6,9 +6,9 @@ permalink: /wphl/faq
 
 Click to jump to the following sections:
  1. [General Queries](#queries)
- 2. [MOM-issued Passes: Applications, Extensions and Levies](#)
- 3. [COVID-19 Tests](#)
- 4. [Stay-Home Notice (SHN) and SHN-Dedicated Facilities](#)
+ 2. [MOM-issued Passes: Applications, Extensions and Levies](#mompasses)
+ 3. [COVID-19 Tests](#covidtest)
+ 4. [Stay-Home Notice (SHN) and SHN-Dedicated Facilities](#shn)
  5. [Payment, Cost-sharing Matters and Refunds](#)
  6. [Technical Issues with Application Portal](/faq/tech)
 
@@ -66,3 +66,107 @@ For us to consider a refund of the entry approval charges for the previous appli
     </tr>
 	</tbody>
 	</table>
+	
+In general, all pre-payments made for the cost of the Stay-Home Notice Dedicated Facility (SDF) stay and COVID-19 Polymerase Chain Reaction test (“PCR test”) are non-refundable. This is to cover the relevant cost incurred for securing and preparing the SDF for the traveller. A refund can be considered subject to MOM’s assessment.
+
+#### 5. My employee has recently recovered from COVID-19. Can I bring them into Singapore immediately?
+
+Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
+
+#### 6. I am an employer of a Foreign Domestic Worker/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the entry approval responsibilities (e.g. arranging for my FDW or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
+
+You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to fulfil the entry approval responsibilities.
+
+#### 7. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
+
+No, employers/applicants are required to submit the Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. 
+
+If an employee does not have a Singapore-registered mobile number, employers may enquire with the relevant telcos on the purchase of prepaid SIM cards. When the employee arrives in Singapore, please arrange for the SIM card to be delivered to him/her. 
+
+<a href="#top">Click here to return to the top.</a>
+
+<div id="mompasses"></div>
+
+### MOM-issued Passes: Applications, Extensions and Levies
+
+#### 1. The Visit Pass issued to my Confinement Nanny is expiring before the end of her work assignment. Do I need to extend her Visit Pass?
+
+You need to request for an extension of her stay if:
+- The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so. 
+- She leaves Singapore during the employment period. Her visit pass will be cancelled when she leaves, and you have to request for an extension each time she leaves and returns to Singapore.
+
+Please [submit the extension request](https://form.gov.sg/5d01bad00816b400111ce556) at least 2 weeks before her visit pass expires and upload these documents:
+-  Front and back of her Disembarkation/Embarkation (D/E) card (maximum 1MB) 
+- Personal particulars page of her passport (maximum 1MB)
+
+We will email you the outcome within 2 weeks. A $40 extension fee will be charged for each extension made beyond 3 months from the date the visit pass was issued. 
+
+#### 3. My employee’s work pass is expiring. He/She is unable to return to Singapore for the pass renewal due to the travel restrictions imposed in their home country or are unable to obtain an entry approval. What should I do? 
+
+We advise employers to submit a new work pass application for such employees after the situation stabilises. 
+
+#### 4. Can employers get a levy waiver for their Foreign Domestic Worker, Work Permit or S Pass holder who are required to serve SHN upon their arrival to Singapore? 
+
+MOM will waive foreign worker levies for all Foreign Domestic Workers, Work Permit and S Pass holders and Work Permit holders for the duration of their SHN from January till September 2021. This is to help employers manage the increased costs associated with the Government’s updated measures to reduce the risk of importing COVID-19 into the community. Please refer to MOM’s [press release](https://mom.gov.sg/newsroom/press-releases/2021/0401-waiver-of-fwl-for-migrant-workers-and-migrant-domestic-workers-during-their-shn) for more information. 
+ 
+#### 5. Can employers get a levy waiver for Work Permit, S Pass holders or Foreign Domestic Workers who have returned home or gone on overseas leave?
+
+For employees on home or overseas leave, employers can [apply for levy waiver](https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer) (for up to 60 days) **when the employees return to Singapore**.
+
+#### 6. Must I still pay my FDW salary while she is serving her Stay-Home Notice (SHN)?
+
+For new FDWs, you must start paying her salary once she is deployed to your house after her SHN.
+
+For existing FDWs returning from overseas, you must continue paying her salary once she returns to Singapore.
+
+<!--Click here for more queries relating to MOM-issued pass applications, validity extensions and levies.-->
+
+<a href="#top">Click here to return to the top.</a>
+
+<div id="covidtest"></div>
+
+#### 1. My employee has recently recovered from COVID-19. Are they still required to be tested for COVID-19 before entry into Singapore?
+
+Please refer to the FAQ for recovered travelers [here](/health/faq#pcrtestQ5).
+
+#### 2. My employee is required to take a COVID-19 test in Singapore as part of the entry requirements. How do I arrange for the test and do I need to pay?
+
+You would be required to pay for the COVID-19 test and other entry approval charges during the entry application. Employers do not need to arrange for the COVID-19 test administered during their SHN for their employees. These appointments are scheduled automatically, and pass holders would receive the appointment details as an SMS. 
+
+For the on-arrival COVID-19 test, employers will need to book and pay for them. 
+
+#### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
+
+Presently, only the following categories of workers are required to take a Serology test in Singapore:
+- Confinement nannies arriving in Singapore from high-risk countries/regions
+- Foreign Domestic Workers arriving in Singapore from high-risk countries/regions
+- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors who are arriving in Singapore from high-risk countries/regions
+
+Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
+- [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
+- [Email MOM](mailto:ace_mom@mom.gov.sg) for Confinement nannies and Foreign Domestic Workers 
+
+#### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
+
+Travellers who are [ill or unwell](/health/covid19-symptoms) while serving their SHN should alert MOM using the [FWMOMCare app](https://www.mom.gov.sg/eservices/fwmomcare) and remain in their accommodation. In the event of a medical emergency, please advise your employee to alert the SHN-Dedicated Facility (SDF) operator and call 995 for assistance.
+
+##### For information on the Rostered Routine Testing (RRT) requirement imposed on workers that are in Singapore, click [here](https://mom.gov.sg/covid-19/frequently-asked-questions/rostered-routine-testing). 
+
+<a href="#top">Click here to return to the top.</a>
+
+<div id="shn"></div>
+
+### Stay-Home Notice (SHN) and SHN-Dedicated Facilities
+
+#### 1. Can my employee leave their Stay-Home Notice (SHN) accommodation for any pass issuance-related procedures, e.g. medical examination, finger printing, Settling-in Programmes or safety courses?
+
+As a condition for entry under the Work Pass Holder General Lane (WPHL), travellers who have been served an [SHN](/health/shn) upon arrival in Singapore must complete their SHN before proceeding with their regular activities. This means that your employee must not do any of the pass issuance-related procedures until they have completed their SHN and tested negative for COVID-19.
+
+Travellers and employers should note that non-compliance with the SHN conditions is an offence that could attract a fine and/or imprisonment term. MOM may also initiate pass revocation procedures or withdraw the relevant work pass privileges. 
+
+In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) or Serology test. Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
+
+
+
+
+
