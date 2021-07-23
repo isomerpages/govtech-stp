@@ -166,7 +166,27 @@ Travellers and employers should note that non-compliance with the SHN conditions
 
 In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) or Serology test. Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
 
+#### 2. Is my Foreign Domestic Worker/Confinement Nanny allowed to share rooms at the Stay-Home Notice Dedicated Facility (SDF)? Where can I submit the room sharing application?
 
+Employers may request for a shared room on behalf of their employees when applying for an Entry Approval. However, employers should advise their employees on the health risks involved in a room sharing arrangement, which could result in increased risk of infection and attract additional charges, e.g. medical treatment.
 
+Should your employee acknowledge the health risks but continue to express interest on sharing rooms, employers should provide their employees with an indemnity form for completion and signing. These forms are available below, and employers are encouraged to provide their employees with a form in a language familiar to them.
+- Bahasa Indonesia
+- Bengali
+- Burmese
+- Chinese
+- English
+- Hindi
+- Sinhalese
+- Tagalog
+- Tamil
 
+Employers should remind their employees to present the following documents to the SDF operator during check-in, who will then facilitate the room sharing arrangement:
+- Entry Approval Letter
+- Completed and signed indemnity form (your employee may ask for a blank indemnity form from the SDF if they forget to print a copy). 
 
+<a href="#top">Click here to return to the top.</a>
+
+##### Click [here](/health/faq#shnsdf) to for general FAQs on SHN and SDF.
+
+<div id="payment"></div>
