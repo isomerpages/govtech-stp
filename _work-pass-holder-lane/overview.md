@@ -171,7 +171,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 </thead>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">For issues concerning helpers and confinement nannies, click <a href="https://govtech-stp-staging.netlify.app/wphl/fdws-cns-faq">here</a> for the FAQs. <br/><br/>For issues concerning other pass holders, click <a href="https://govtech-stp-staging.netlify.app/wphl/owph-faq">here</a> for the FAQs.	
+	<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/wphl/faq">here</a> for the Work Pass Holder Lane FAQs. 
 	<!--
 Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:-->
 <!--<ul style="margin-top:0px; list-style-type: disc;">

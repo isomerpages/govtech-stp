@@ -223,6 +223,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Bangladesh</b></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>India </b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Myanmar</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Nepal</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Pakistan</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
@@ -310,7 +311,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</td> 
 	</tr>
 	<!-- Myanmar edits-->
-<tr>
+<!--<tr>
 <td rowspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Myanmar</b></li>
@@ -389,7 +390,8 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 <td colspan="2"  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; color:red; text-align:center; vertical-align:middle;"><b>[From 15 Jul 2021, 2359 hours]<br/>Disallowed from entry into Singapore via WPHL </b><br/>
 (includes those who had received prior approvals for entry)
 	</td> 
-	</tr>
+	</tr>-->
+	<!-- end of edits -->
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u>S/N 7</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">

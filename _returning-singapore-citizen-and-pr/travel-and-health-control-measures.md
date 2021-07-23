@@ -123,7 +123,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take a COVID-19 PCR test on Day 14 of the SHN. Eligible travellers<sup>*</sup> may serve their SHN at their place of residence.</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 </ol>
-<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> From 23 June 2021, 2359 hours onwards, travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
+<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> Travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</i></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
@@ -204,7 +204,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	</li>
 	</ol>
-	<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>
+	<!--<i><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">*With effect from 0001 hours, 6 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Indonesia and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 6 to 12 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 13 July 2021 (Singapore time).</p></i>-->
 </td>     
 </tr>	
 	<tr>
@@ -215,7 +215,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 </ol>
 </li>
 </ol>	
@@ -240,13 +240,13 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>
 	</td>
 </tr>
-<tr>
+<!--<tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 6</u><br/><b>Myanmar</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>For arrivals before 15 Jul 2021, 2359 hours</b>
 		<ol style="margin-top:0px; list-style-type: decimal;">
@@ -291,18 +291,18 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i>* With effect from 0001 hours, 16 Jul 2021 (Singapore Time), travellers with travel history within the last 21 days to Myanmar will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal. From 16 Jul 2021 to 22 Jul 2021, the Government of Singapore will waive the charges for the additional COVID-19 ART. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 23 Jul 2021 (Singapore Time)</i></p>
 	</td>
-</tr>
+</tr>-->
 <tr>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Myanmar</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Nepal</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Pakistan</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
@@ -326,7 +326,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>
@@ -352,7 +352,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>

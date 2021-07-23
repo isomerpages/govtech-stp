@@ -7,7 +7,7 @@ third_nav_title: Covid 19 Tests
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore.
 
-Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in the current calendar year (i.e. those born from 2018) <b>departing for Singapore from their first point of embarkation on or after 27 Jun 2021, 2359 hrs (1559 hrs GMT)</b>,  will also be subjected to COVID-19 tests. Before 27 Jun 2021, 2359 hrs, travellers aged 7 and above in the current calendar year are required to be tested.
+Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in the current calendar year (i.e. those born in 2018 or after) departing for Singapore will also be subjected to COVID-19 tests.
 
 The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="/arriving/overview">Safe Travel Lane</a> for full details.
 
@@ -86,5 +86,3 @@ Travellers will be informed of their PCR test results verbally by phone or in pe
 <div id="note"></div>
 
 <b><u>NOTE I</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).
-
-<b><u>NOTE II</u></b>: With effect from 0001 hours, 16 July 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from <b>Myanmar</b> and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal.  The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 16 to 22 July 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 23 July 2021 (Singapore time).
