@@ -414,47 +414,47 @@ When and how payment is collected, will depend on the travellers’ scheme of tr
 <table style="table-layout: fixed; width: 100%">
   <thead >
     <tr >
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; width:30%;">Scheme of Travel</th>
-       <th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; width:30%;">Scheme of Travel</th>
+       <th style="margin-top:0px; margin-bottom:0px; font-size:16px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Payment Mode</th>
     </tr>
   </thead>
   <tbody>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/atp/overview">Air Travel Pass</a>  </td>
-    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival.</td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/atp/overview">Air Travel Pass</a>  </td>
+    <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers arriving via air transport should register and pay for their on-arrival COVID-19 PCR test <a href="https://safetravel.changiairport.com/#/">here</a>, before arrival.</td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Please enquire and make the necessary arrangement with your Appointed Facility.</td>
+      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:16px;border-right:2px solid #E0E0E0;"><a href="/connectsg/overview">Connect@Singapore</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Please enquire and make the necessary arrangement with your Appointed Facility.</td>
     </tr>
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment is collected at the point of application for the costs of SDF and COVID-19 PCR tests during SHN.
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment is collected at the point of application for the costs of SDF and COVID-19 PCR tests during SHN.
 <br/><br/>
 Travellers should register and pay for their on-arrival COVID-19 PCR test separately <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.
 </td>
     </tr>
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:18px;border-right:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers should register and pay for their on-arrival COVID-19 PCR test, using the relevant links below <b>before</b> arrival.
+      <td style="margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;font-size:16px;border-right:2px solid #E0E0E0;"><a href="/rgl/overview">Reciprocal Green Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">To expedite the test procedures at the airport, travellers should register and pay for their on-arrival COVID-19 PCR test, using the relevant links below <b>before</b> arrival.
 				<ul style="list-style-type: disc;">
-					<li style="font-size:18px; ">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
-					<li style="font-size:18px; ">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
+					<li style="font-size:16px; ">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
+					<li style="font-size:16px; ">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
 				</ul>
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br/><br/>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests using the relevant links below, <b>before</b> arrival.
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br/><br/>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests using the relevant links below, <b>before</b> arrival.
 								<ul style="list-style-type: disc;">
-					<li style="font-size:18px; ">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
-					<li style="font-size:18px; ">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
+					<li style="font-size:16px; ">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
+					<li style="font-size:16px; ">Travellers arriving via land or sea transport click <a href="https://t.2c2p.com/express/parkwayshenton">here</a>.</li>
 				</ul>
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and COVID-19 PCR tests to be taken during SHN will be made at the point of application.
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/requirements-and-process">Singapore Citizen/Permanent Resident Familial Ties Lane </a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for SDF stay and COVID-19 PCR tests to be taken during SHN will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below on how to make separate pre-payment  for their on-arrival COVID-19 tests:
        <br/>
@@ -488,8 +488,8 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 </td>
    </tr> 
    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/overview">Helpers and Confinement Nannies</a>, <a href="/wphl/overview">all other Work Pass Holders and their dependents</a>)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Work Pass Holder General Lane (WPHL) <br/><br/> (<a href="/wphl/overview">Helpers and Confinement Nannies</a>, <a href="/wphl/overview">all other Work Pass Holders and their dependents</a>)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">Credit Card or NETS payment for costs of SDF stay and COVID-19 PCR tests during SHN will be made at the point of application.
 <br/><br/>
 Travellers/application sponsors may refer to the table below on how to make separate payment for the on-arrival COVID-19 tests:
 				<table style="table-layout: fixed; width: 100%">
@@ -522,10 +522,10 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
     </tr> 
   </tbody>
   </table>
- <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"> <b>Note:</b> The instructions in the table above do not apply to: </p>
-				<ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Helpers serving SHN at an SDF alone or with other helpers; and </li>
-           <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
+ <p style="margin-top:0px; margin-bottom:0px; font-size:16px;"> <b>Note:</b> The instructions in the table above do not apply to: </p>
+				<ol style="margin-top:0px; margin-bottom:0px; font-size:16px;">
+           <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Helpers serving SHN at an SDF alone or with other helpers; and </li>
+           <li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Workers in Construction, Marine Shipyard and Process (CMP) sectors who would be onboarded at the Migrant Worker Onboarding Centre. This includes CMP workers on Work Permit, Training Work Permit or S Pass and entering Singapore alone (i.e. without dependants). Click <a href="https://www.mom.gov.sg/covid-19/migrant-worker-onboarding-centre">here</a> to find out more about the Migrant Worker Onboarding Centre. </li>
            </ol>  
 </td>
    </tr> 
