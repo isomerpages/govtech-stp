@@ -58,6 +58,13 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/>Additional S$900 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged S$900
 </td>
     </tr>-->
+	<tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:Sinhb-resvn@ihg.com">InterContinental Singapore (Bugis)</a></td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+    </tr>
 <tr>
       <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:gsm@royalplaza.com.sg">Royal Plaza on Scotts</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
