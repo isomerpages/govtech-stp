@@ -231,7 +231,7 @@ Please check the table below for the travel health control measures that apply d
 	</ol>
 </td>     
 </tr>
-	<tr>
+	<!--<tr>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 5</u><br/><b>United Kingdom</b></td>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>For arrivals before 26 Jul 2021, 2359 hours</b>
 		<ol style="margin-top:0px; list-style-type: decimal;">
@@ -281,7 +281,7 @@ Please check the table below for the travel health control measures that apply d
 	</li>
 	</ol>
 	</td>
-</tr>
+</tr>-->
 <tr>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
