@@ -11,7 +11,7 @@ For Construction, Marine shipyard or Process sector workers who meet <b>all of t
 For all other pass holders (work pass holders and their dependants), please refer to this page for their travel health control measures. The control measures vary based on the pass holders’ travel history and will be stated on their entry approval letters. As the measures are subject to change based on the global situation, please refer to the table below for the latest requirements. 
 
 ### Travel Health Control Measures for WPHL-pass holders 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  23 July 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  14 July 2021)</i></p>
 
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
@@ -458,7 +458,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</tr>-->
 	<!-- end of edits -->
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u>S/N 7</u><br/>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u>S/N 6</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>All other countries/regions</b></li>
 </ul>
