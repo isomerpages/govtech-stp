@@ -7,7 +7,7 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/requirements-and-process">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 23 July 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 14 July 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -298,7 +298,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</td>
 </tr>-->
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br/>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
@@ -333,7 +333,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 8</u><br/><b>All other countries/regions</b></td>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br/><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
