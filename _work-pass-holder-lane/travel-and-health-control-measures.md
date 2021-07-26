@@ -311,7 +311,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</td> 
 	</tr>
 	<!-- United Kingdom edits-->
-<tr>
+<!--<tr>
 <td rowspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>United Kingdom</b></li>
@@ -385,7 +385,6 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</li>
 </ol><br/><br/>
 	</td> 
-	<!-- end of table-->
 	</tr>
 		<tr>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">For arrivals <b>after</b> 26 Jul 2021, 2359 hours:
@@ -456,7 +455,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</li>
 </ol><br/><br/>
 	</td> 
-	</tr>
+	</tr>-->
 	<!-- end of edits -->
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u>S/N 7</u><br/>
