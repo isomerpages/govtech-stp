@@ -1,7 +1,8 @@
 ---
-title: Covid-19 Symptoms
+title: COVID-19 Symptoms
 permalink: /health/covid19-symptoms
 ---
+
 
 
 
