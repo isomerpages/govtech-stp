@@ -12,7 +12,7 @@ TraceTogether is a technological solution to combat the spread of COVID-19 via c
 
 Prior to arriving in Singapore, travellers should check that their mobile devices are compatible with the TraceTogether app, download it on their mobile devices, and register their mobile number and profile on the app. Travellers must register their profile on the app with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. A TraceTogether (TT) App setup guide for travellers can be found [here](https://support.tracetogether.gov.sg/hc/en-sg/articles/1500002071841-I-m-travelling-to-Singapore-How-do-I-set-up-the-TraceTogether-App-). 
 
-<b>For visitors arriving via Changi Airport and are unable to download the TraceTogether App on their mobile devices, but do not fall into the groups eligible for TraceTogether tokens issuance in section B below, they are required to rent a mobile device from <a href="">Changi Recommends</a>.</b>
+<b>For visitors arriving via Changi Airport and are unable to download the TraceTogether App on their mobile devices, but do not fall into the groups eligible for TraceTogether tokens issuance in section B below, they are required to rent a mobile device from <a href="https://www.changirecommends.com/findus.aspx">Changi Recommends</a>.</b>
 
 Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
 
