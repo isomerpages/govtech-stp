@@ -37,11 +37,11 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
 								<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need</li>
-				</ol></td>
+				</ol><br/><i>Note: Those who are unable to download or register for the TraceTogether app are required to <a href="https://www.changirecommends.com/findus.aspx">rent a mobile device from Changi Recommends</a>.</i></td>
 			<td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">	<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those who are unable to download or register for the TraceTogether app;</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Children who are aged 7 to 12 years in the current calendar year;</li>
-					<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">	those unable to use a mobile device due to a certified disability or special need</li>
+					<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those unable to use a mobile device due to a certified disability or special need;</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Those who are unable to download or register for the TraceTogether app</li>
 				</ol></td>
     </tr>
 		  <tr>
