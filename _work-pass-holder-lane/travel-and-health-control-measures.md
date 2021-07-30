@@ -642,14 +642,14 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<tr>
 <td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;  ">By herself or with another helper/CN</td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;"><ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Antigen Rapid Test ($67 including GST) at the checkpoint; and </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Antigen Rapid Test (ART) ($67 including GST) at the checkpoint; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 serology and PCR tests at the SHN dedicated facility (SDF) within the first few days of arrival. <b>No registration is needed</b>. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST). </li>
 		</ol></td>
 </tr>
 				<tr>
 <td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">With her employer or employer’s family</td>
-	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival ART and PCR tests at the checkpoint.
-					<br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival tests</a><b> ($227 including GST) before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival ART and PCR tests at the checkpoint.<br/><br/>
+Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival tests</a><b> ($227 including GST) before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
 </tr>
 	</table>
