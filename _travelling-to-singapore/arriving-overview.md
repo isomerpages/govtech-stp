@@ -106,7 +106,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				 <ul style="font-size: 18px; list-style-type: disc;">
 				<!--	 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
-					  <li style="font-size: 18px;">Mainland China</li>
+					  <li style="font-size: 18px;">Mainland China (excluding Jiangsu province)</li>
 					 <li style="font-size: 18px;">New Zealand</li>
 				 </ul>
 		</td>
