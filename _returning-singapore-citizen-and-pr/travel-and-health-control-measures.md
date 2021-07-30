@@ -264,7 +264,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN; and </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an  Antigen Rapid Test on  their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>
@@ -279,7 +279,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
 </ol>
 </li>
 </ol>	
@@ -304,7 +304,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>
@@ -390,7 +390,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 	</ol>
