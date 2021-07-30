@@ -158,6 +158,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td>
 </tr>
 	</table>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+	</ol>
 </td>
 	</tr>
 	<tr>
