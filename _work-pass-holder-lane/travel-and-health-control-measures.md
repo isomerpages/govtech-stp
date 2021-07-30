@@ -97,7 +97,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </tr>
 	</table>
 	</td> 
-		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
+		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>For arrivals before  2 Aug 2021, 2359 hours:</b><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
@@ -120,19 +120,19 @@ For all other pass holders (work pass holders and their dependants), please refe
 <ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:<br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day SHN in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
 	</ol>
-	</li>
-</ol>
-	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	</li><br/>
 	<table>
 <tr>
 <td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
 </tr>
 	</table>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+	</ol>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>For arrivals from  2 Aug 2021, 2359 hours:</b><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
