@@ -85,4 +85,6 @@ Travellers will be informed of their PCR test results verbally by phone or in pe
 
 <div id="note"></div>
 
-<b><u>NOTE I</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).
+<b><u>NOTE I</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines* and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).
+
+<b><u>NOTE II</u></b>: With effect from 0001 hours, 2 Aug 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Philippines and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 2 to 8 Aug 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 9 Aug 2021 (Singapore time).
