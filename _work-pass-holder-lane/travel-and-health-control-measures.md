@@ -386,7 +386,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </ol>
 	</td> 
 		<tr>
-		<td colspan ="2">The cha</td>
+		<td colspan ="2">The charges for the additional on-arrival COVID-19 ART will be waived by the Singapore Government from 2 to 8 Aug 2021.</td>
 	</tr>
 	</tr>
 	<!-- Philippines edits end here-->
