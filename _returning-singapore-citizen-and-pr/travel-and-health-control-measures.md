@@ -374,7 +374,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </li>
 </ol>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test and Antigen Rapid Test</a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test and Antigen Rapid Test*</a> upon arrival in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
@@ -382,6 +382,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	</ol>
 	</li>
 	</ol>
+	<i>*With effect from 0001 hours, 2 Aug 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Philippines and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 2 to 8 Aug 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 9 Aug 2021 (Singapore time).</i>
 	</td>
 </tr>
 <!--Philippines end here-->
