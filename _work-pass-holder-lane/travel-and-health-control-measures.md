@@ -371,9 +371,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <table>
 <tr>
 <td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>	With effect from 0001 hours, 2 Aug 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Philippines and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 2 to 8 Aug 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 9 Aug 2021 (Singapore time).</i></li>
-	</ol>
+<i>With effect from 0001 hours, 2 Aug 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Philippines and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 2 to 8 Aug 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 9 Aug 2021 (Singapore time).</i>
 	</td>
 </tr>
 	</table>
