@@ -581,7 +581,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</li>
 </ol>
 	</td> 
-	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For arrivals after 2 Aug 2021, 0001 hours</b>
+	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For arrivals from 2 Aug 2021, 0001 hours:</b>
 <ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
