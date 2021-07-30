@@ -388,8 +388,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </tr>
 				<tr>
 <td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">SDF with her employer or employer’s family, or at a place of residence</td>
-	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 PCR test at the checkpoint ($160 including GST).
-					<br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 PCR test at the checkpoint ($160 including GST).<br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
 </tr>
 	</table>
