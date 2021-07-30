@@ -4,7 +4,7 @@ permalink: /china/atp/notice
 ---
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR JIANGSU PROVINCE, MAINLAND CHINA
 
-Given the increase in the number of COVID-19 cases in Jiangsu province, Mainland China, Singapore will tighten border measures for travellers with travel history to Guangdong Province, Mainland China within the last 21 days before departure for Singapore.
+Given the increase in the number of COVID-19 cases in Jiangsu province, Mainland China, Singapore will tighten border measures for travellers with travel history to Jiangsu Province, Mainland China within the last 21 days before departure for Singapore.
 
 ### Short-term Visitors
 
