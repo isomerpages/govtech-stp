@@ -45,7 +45,7 @@ Please click on the relevant links below for more information about the ATP.
     <tr>
     <td rowspan="2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (excluding Jiangsu province)
 </b></td>
-	<td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass for Jiangsu province suspended. <br/>Click <a href=""/china/atp/notice"">here</a> for more details.</td>
+	<td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass for Jiangsu province suspended. <br/>Click <a href="/china/atp/notice">here</a> for more details.</td>
 	</tr>
 	<tr>
     <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
