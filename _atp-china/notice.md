@@ -8,7 +8,7 @@ Given the increase in the number of COVID-19 cases in Jiangsu province, Mainland
 
 ### Short-term Visitors
 
-**Short-term visitors with travel history to Jiangsu province, Mainland China, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **2 August 2021, 2359hrs (Singapore time)**. Please refer to the press release <a href="https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-guangdong-province-mainland-china">here</a> issued by the Singapore Ministry of Health (MOH) dated 31 July 2021.
+**Short-term visitors with travel history to Jiangsu province, Mainland China, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **2 August 2021, 2359hrs (Singapore time)**. Please refer to the press release <a href="https://www.moh.gov.sg/news-highlights/details/updates-on-border-measures-for-travellers-from-australia-and-jiangsu-province-mainland-china/">here</a> issued by the Singapore Ministry of Health (MOH) dated 31 July 2021.
 	
 With immediate effect, applications for the ATP for short-term visitors travelling from Jiangsu province, Mainland China will be suspended until further notice.
 
