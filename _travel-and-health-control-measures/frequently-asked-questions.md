@@ -199,9 +199,9 @@ For passengers who are taking a <b>connecting flight</b> to Singapore, the 72 ho
 
 #### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to have a valid negative COVID-19 test result?
 
-From <b>29 May 2021, 2359 hours, <u>all</u> travellers transiting through Singapore (<u>including Singapore Citizens and PRs</u>) via flight or ferry</b> will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore.
+Travellers who <u>only</u> had travel history to Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao in the past 21 days before arriving in Singapore to transit are not required to take a Pre-Departure Test before departing for Singapore.
 
-<u>Exemptions</u>:  Travellers who only had travel history to Australia, Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao in the past 21 days before departing to Singapore to transit are exempted from this Pre-Departure Test requirement.
+All other travellers transiting through Singapore (including Singapore Citizens and PRs) via flight or ferry</b> will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore. <b>This pre-departure test requirement also applies to travellers who had travel history to Australia in the past 21 days, and are arriving in Singapore to transit from 2 August 2021, 2359 hours onwards.</b>
 
 Due to the fast-evolving epidemiological situation, travellers should confirm with the airline on their transit details/requirements.
 
