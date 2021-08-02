@@ -7,7 +7,7 @@ third_nav_title: Covid 19 Tests
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore.
 
-Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in the current calendar year (i.e. those born in 2018 or after) departing for Singapore will also be subjected to COVID-19 tests.
+Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in the current calendar year (i.e. those born in 2018 or before) departing for Singapore will also be subjected to COVID-19 tests.
 
 The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="/arriving/overview">Safe Travel Lane</a> for full details.
 
