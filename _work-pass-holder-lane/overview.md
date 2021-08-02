@@ -54,7 +54,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">New Zealand</li>
 					</ol>
 			<br/>
-			For <b><u>existing approved entry applications</u></b>, pass holders <b>must not</b> transit through or visit any of these countries/regions within the last 21 days before departing for Singapore, or they will be denied entry:
+For <b><u>existing approved entry applications</u></b>, pass holders <b>must not</b> transit through or visit any of these countries/regions within the last 21 days before departing for Singapore, or they will be denied entry:
 					 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Bangladesh</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">India</li>
@@ -64,9 +64,9 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Sri Lanka</li>
 					</ol>
 	    		<br/>
-	    For employers whose pass holders had been approved to enter previously but entries needed to be rescheduled, please refer to the Ministry of Manpower's email for the dates to bring them in. 
+For employers whose pass holders had been approved to enter previously but entries needed to be rescheduled, please refer to the Ministry of Manpower's email for the dates to bring them in. 
 	    		<br/>
-	    We understand these measures are difficult for employers and their pass holders, and seek understanding on the need for these control measures to keep Singapore safe. We are currently working towards allowing new applications and will provide updates on this shortly.
+We understand these measures are difficult for employers and their pass holders, and seek understanding on the need for these control measures to keep Singapore safe. We are currently working towards allowing new applications and will provide updates on this shortly.
 		 </td>
  </tr>
    <tr>
