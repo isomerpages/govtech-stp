@@ -39,7 +39,7 @@ Travellers with travel history to the following countries/regions will not be al
 
 Travellers who <u>only</u> had travel history to Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao in the past 21 days before arriving in Singapore to transit are not required to take a Pre-Departure Test before departing for Singapore.
 
-All other travellers transiting through Singapore (including Singapore Citizens and PRs) via flight or ferry  will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore. <b>This pre-departure test requirement also applies to travellers who had travel history to Australia in the past 21 days, and are arriving in Singapore to transit from 2 August 2021, 2359 hours onwards.</b>
+All other travellers transiting through Singapore (including Singapore Citizens and PRs) via flight or ferry will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore. <b>This pre-departure test requirement also applies to travellers who had travel history to Australia in the past 21 days, and are arriving in Singapore to transit from 2 August 2021, 2359 hours onwards.</b>
 
 Due to the fast-evolving epidemiological situation, travellers should confirm with the airline on their transit details/requirements.
 
