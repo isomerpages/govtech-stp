@@ -145,7 +145,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of Residence<b>(only occupied by the pass holder or family)</b>  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of Residence <b>(only occupied by the pass holder or family)</b>  </li>
 	</ol>
 	</li>
 	<table>
