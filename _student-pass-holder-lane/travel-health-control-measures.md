@@ -149,7 +149,7 @@ Scroll down for the list of travel health control measures that would apply base
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a> or their place of residence*, and take a COVID-19 PCR test on the last day of SHN</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a> will also administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of arrival in Singapore.</li>
 	</ol>
-<i>Travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i>
+<i>To qualify to serve their SHN at their place of residence, travellers must satisfy the following conditions:</i>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore;</i> and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
