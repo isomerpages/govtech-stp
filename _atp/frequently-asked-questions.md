@@ -28,6 +28,7 @@ An ATP allows visitors  travelling from one of the following countries/regions t
 - Brunei Darussalam
 - Mainland China (excluding Jiangsu province)
 - New Zealand
+- Taiwan
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
 
