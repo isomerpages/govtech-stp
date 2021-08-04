@@ -101,6 +101,7 @@ Please check the table below for the travel health control measures that apply d
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br/><i><b>Note:</b> ATB launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</i></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Mainland China (Jiangsu province)</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
