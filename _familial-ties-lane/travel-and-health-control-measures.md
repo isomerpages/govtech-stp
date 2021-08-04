@@ -49,29 +49,6 @@ Please check the table below for the travel health control measures that apply d
 </ol>
 </td> 
 	</tr>
-	<tr>
-	<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 1a</u><br/><b>Mainland China (Jiangsu province) </b></td>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b>For arrivals before 2 Aug 2021, 2359 hours</b>
-<ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
-</ol>	
-</td>
-</tr>
-<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; margin-bottom:10px; "><b>For arrivals after 2 Aug 2021, 2359 hours:</b>
-	<ol style="margin-top:0px;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li> 
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Place of residence; or</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel</li>
-</ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN</li>
-</ol>	
-	</td>
-</tr>
 <!--	<tr>
 <td rowspan="2"  style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;">2</td>
 <td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Mainland China (Guangdong province)</b></td>
