@@ -145,7 +145,7 @@ Short term visitors from the following countries/regions may apply to enter Sing
 	<li>Brunei Darussalam</li>
 	<li>Mainland China (excluding Jiangsu province)</li>
 	<li>New Zealand</li>
-	<li>Taiwan</li>
+	<li>Taiwan  (for entries on or after 12 Aug 2021)</li>
 </ul>
 	
 ---
