@@ -108,6 +108,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
 					  <li style="font-size: 18px;">Mainland China (excluding Jiangsu province)</li>
 					 <li style="font-size: 18px;">New Zealand</li>
+					 					 <li style="font-size: 18px;">Taiwan (for entries on or after 12 Aug 2021)</li>
 				 </ul>
 		</td>
 	</tr>
@@ -139,35 +140,13 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 4) Short Term Social Visits/Tourists
 
-Short term visits by foreigners are currently only allowed for countries/regions with low risk of COVID-19 importation. Foreign travellers who are short-term travellers with travel history in the past 21 days to the following countries/regions only, may use the lanes below.
-
-<table>
-	<thead>
-		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br/><i>(Click the links for lane details)</i></th>
-			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Countries/Regions</b></th>
-		</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
-				 <ul style="font-size: 18px; list-style-type: disc;">
-					 <!--<li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
-					 <li style="font-size: 18px;">	Brunei Darussalam</li>
-					  <li style="font-size: 18px;">Mainland China (excluding Jiangsu province) </li>
-					 <li style="font-size: 18px;">New Zealand</li>
-				 </ul>
-		</td>
-	</tr>
-			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Air Travel Bubble<br/><br/><i>(launch deferred, click <a href="/hongkong/atb/notice">here</a> for more details)</i></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;"><li style="font-size: 18px;">Hong Kong</li>
-				 </ul>
-				</td>
-	</tr>
-	</tbody>
-	</table>
+Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
+<ul style="list-style-type: disc;">
+	<li>Brunei Darussalam</li>
+	<li>Mainland China (excluding Jiangsu province)</li>
+	<li>New Zealand</li>
+	<li>Taiwan  (for entries on or after 12 Aug 2021)</li>
+</ul>
 	
 ---
 

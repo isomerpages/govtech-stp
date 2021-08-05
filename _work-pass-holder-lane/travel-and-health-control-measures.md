@@ -11,7 +11,7 @@ For Construction, Marine shipyard or Process sector workers who meet <b>all of t
 For all other pass holders (work pass holders and their dependants), please refer to this page for their travel health control measures. The control measures vary based on the pass holders’ travel history and will be stated on their entry approval letters. As the measures are subject to change based on the global situation, please refer to the table below for the latest requirements. 
 
 ### Travel Health Control Measures for WPHL-pass holders 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  31 July 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  5 Aug 2021)</i></p>
 
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
@@ -73,6 +73,132 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</table>
 </td> 
 	</tr>
+			<tr>
+<td rowspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1a</u><br/>
+<ul style="margin-top: 0px; list-style-type: disc;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
+</ul>
+</td>
+				<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>For arrivals before 7 Aug 2021, 2359 hours:</b>
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
+			<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of helper/CN; and </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+	</ol>
+		</li>
+	</ol>	
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:
+	</li>
+	<table>
+<tr>
+<th  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>If the helper/CN is serving SHN at an</b></th>
+	<th style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>She must take these tests</b></th>
+</tr>
+		<tr>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;  ">SHN dedicated facility (SDF) by herself or with another helper/CN</td>
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">COVID-19 serology and PCR tests at the SDF within the first few days of arrival. <b>No registration is needed.</b> During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</td>
+</tr>
+				<tr>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">SDF with her employer or employer’s family, or at a place of residence</td>
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 PCR test at the checkpoint ($160 including GST).<br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+					</td>
+</tr>
+	</table>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="/health/shn">SHN</a> at:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An SDF ($1,500 including GST) where the helper/CN will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		</ol>
+	</li>
+</ol>
+<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the place of residence is occupied by the helper/CN alone or household members with the same travel history, arrival date and SHN duration as the helper/CN.</i><br/><br/>
+		<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: Helpers and CNs are <b>not allowed</b> to serve the 14-day SHN in hotels.  </i></td>
+</tr>
+	</table>
+	</td> 
+		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>For arrivals before 7 Aug 2021, 2359 hours:</b><ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+		<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
+			<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of pass holder; and </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+	</ol>
+		</li>
+	</ol>	
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test upon arrival:
+<br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+	</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($2,000 including GST), where the pass holder will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
+	</ol>
+	</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
+</ol>
+			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence is occupied by the pass holder alone or household members, including any helpers, with the same travel history, arrival date and SHN duration as the pass holder. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holder does not stay in a dormitory. </li>
+	</ol>
+						<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i><ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are <b>not allowed</b> to serve the 14-day SHN in hotels.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
+	</ol>
+	</td>
+</tr>
+	</table>
+</td> 
+	</tr>
+	<tr>
+<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <b>For arrivals after 7 Aug 2021, 2359 hours</b>
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:  <br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
+	</ol>
+	</li>
+</ol>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+</tr>
+	</table>
+	</td> 
+		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <b>For arrivals after 7 Aug 2021, 2359 hours</b><ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take COVID-19 PCR test upon arrival:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house     </li>
+	</ol>
+	</li>
+</ol>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+</tr>
+	</table>
+</td> 
+</tr>
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 2</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
@@ -128,12 +254,12 @@ For all other pass holders (work pass holders and their dependants), please refe
 </td> 
 	</tr>
 		<tr>
-		<tr>
+			<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 3</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
+<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>-->
 </ul>
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">

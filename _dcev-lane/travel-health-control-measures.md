@@ -8,7 +8,7 @@ Prospective travellers who have yet to apply for entry under DCEV Lane, should r
 
 
 ### Travel Health Control Measures for DCEV-travellers
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 31 July 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 5 Aug 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable). Otherwise, scroll down to view the table of health control measures.
  
@@ -74,6 +74,44 @@ Please check the table below for the travel health control measures that apply d
 </ol>
 	</td>
 </tr>-->
+	<tr>
+<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><u>S/N 1a</u><br/>
+	<ul style="margin-top: 0px; list-style-type: disc;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0; list-style-type:disc;"><b>Taiwan</b></li></ul></td>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b><u>For arrivals before 7 Aug 2021, 2359 hours:</u></b>
+	<ol style="margin-top:0px; list-style-type: decimal;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test </a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test </a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a> or their place of residence*, <b>and</b> take a COVID-19 PCR test on the last day of SHN.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Travellers serving SHN in an SDF will also to administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
+</ol>
+	<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> Travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</i></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
+</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
+	</td>
+</tr>
+<tr>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b><u>For arrivals after 7 Aug 2021, 2359 hours:</u></b>
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
+</ol>
+	</td>
+</tr>
 <tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
@@ -101,7 +139,7 @@ Please check the table below for the travel health control measures that apply d
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Fiji</b></li>-->
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
+<!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>-->
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">

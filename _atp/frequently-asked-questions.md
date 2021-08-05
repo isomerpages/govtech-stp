@@ -28,6 +28,7 @@ An ATP allows visitors  travelling from one of the following countries/regions t
 - Brunei Darussalam
 - Mainland China (excluding Jiangsu province)
 - New Zealand
+- Taiwan
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
 
@@ -69,7 +70,7 @@ This may result in changes to the conditions or cancellation of the ATP at short
 
 #### 9. Do Singapore Citizens / Permanent Residents / Long-Term Pass holders need to apply for an Air Travel Pass?
 
-No, Singapore Citizens, Permanent Residents, and Long-Term Pass holders are not required to apply for an ATP. However, Long-Term Pass holders will still have to seek entry approval from the relevant Singapore Government agencies before travelling to Singapore.
+No, Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the Returning SC/PRs lane, Work Pass Holder General Lane or Student’s Pass Holder Lane. These travellers should not apply for an ATP to travel to Singapore.
 
 For information on border control measures, please refer to ICA’s website <a href="https://safetravel.ica.gov.sg">here</a>.
 
