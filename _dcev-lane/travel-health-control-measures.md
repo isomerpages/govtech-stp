@@ -137,9 +137,9 @@ Please check the table below for the travel health control measures that apply d
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 3</u><br/>
 <ul style="font-size:16px; margin-top:0px; list-style-type: disc;">
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Fiji</b></li>-->
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b><br/><br/>	<b>Note:</b> Please refer to S/N 4 if you are arriving after 20 Aug, 2359 hours.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b><br/><br/><i>	<b>Note:</b> Please refer to S/N 4 if you are arriving after 20 Aug, 2359 hours.</i></li>
 <br/>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b><br/><br/><b>Note:</b> Travellers from Israel are no longer allowed to opt out of SHN at dedicated SHN facilities from 20 Aug, 2359 hours.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b><br/><br/><i><b>Note:</b> Travellers from Israel are no longer allowed to opt out of SHN at dedicated SHN facilities from 20 Aug, 2359 hours.</i></li>
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>-->
 </ul>
 </td>
