@@ -339,7 +339,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</tr>
 	<!-- Vax lane ends here-->
 		<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 4</u><br/>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 5</u><br/>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Bangladesh</b></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>India </b></li>
