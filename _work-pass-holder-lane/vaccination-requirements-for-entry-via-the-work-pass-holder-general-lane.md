@@ -12,7 +12,7 @@ To be considered fully vaccinated, pass holders must:
 - (Only applicable to those who were vaccinated overseas) Take a serology test with Ministry of Health's designated health providers to confirm their vaccination status within 14 days of completing Stay-Home-Notice(SHN). <br/><br/>
 If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take the vaccination in Singapore.
 
-### Groups of pass holders who do not need to be vaccinated before entering Singapore: 
+### Groups of pass holders who do not need to be vaccinated before entering Singapore
 
 - Pass holders who are below 18 years old on date of entry. Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. 
 - Pass holders who cannot be vaccinated due to medical conditions. To be considered for exemption, employers must [submit a request](https://www.mom.gov.sg/exempt-vaccination) for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the [entry application](https://go.gov.sg/wphl-requirements).
