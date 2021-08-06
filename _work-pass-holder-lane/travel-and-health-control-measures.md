@@ -225,7 +225,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions. </li>
 			</ol><br/>
-			For more details, please refer to the <a href="/wphl/vaccination-requirements">>vaccination requirements</a>.
+			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
 </td> 
 	</tr>
 		<tr>
