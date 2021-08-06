@@ -232,6 +232,12 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
 </ul></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
+		<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">Note: <br/><br/>
+This set of measures is only applicable to fully vaccinated travellers. who have received two doses of the Pfizer-BioNTech/Comirnaty, Moderna or WHO EUL vaccines at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, pleasse refer to the health measures at S/N 8 of this table.</td>
+</tr>
+	</table>
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
