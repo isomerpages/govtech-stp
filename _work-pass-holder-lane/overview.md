@@ -74,7 +74,6 @@ We understand these measures are difficult for employers and their pass holders,
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 <p style="font-size:16px; line-height: 1.5;"><a href="/wphl/shn-and-swab-summary">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) imposed on incoming pass holders based on their travel histories. </p>
-<p style="font-size:16px; line-height:1.5;">There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>. </p>
 <!-- Update the hyperlink of summary table to the new page's -->
 </td>
  </tr>
