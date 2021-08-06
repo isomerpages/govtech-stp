@@ -617,7 +617,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	
 ### Penalties for non-compliance
 
-Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedngs, revocation of passes and suspension of workpass privileges, will be taken for non-compliance or false declaration.
+Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declaration.
 
 <!--### Conditions for pass holders to serve 14-day SHN at a place of residence	
 
