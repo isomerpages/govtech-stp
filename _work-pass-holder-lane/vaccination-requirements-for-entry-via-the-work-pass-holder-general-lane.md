@@ -13,7 +13,6 @@ To be considered fully vaccinated, pass holders must:
 If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take the vaccination in Singapore.
 
 ### Groups of pass holders who do not need to be vaccinated before entering Singapore: 
-
 <br/>
 
 - Pass holders who are below 18 years old on date of entry. Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. 
