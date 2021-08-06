@@ -228,7 +228,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Germany</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea (ROK)</b></li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
 </ul></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
