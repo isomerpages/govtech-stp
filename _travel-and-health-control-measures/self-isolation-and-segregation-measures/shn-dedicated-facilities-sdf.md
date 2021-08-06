@@ -69,8 +69,24 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
 </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
+       <tr>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">From <b>20 August 2021, 2359hrs, travellers who:</b>
+        <ol style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-alpha;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Received two doeses of Pfizer-BioNTech/ Comirnaty, Moderna or WHO EUL Vaccines at least 2 weeks before arrival in Singapore. </li>
+</ol>
+        <p style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must also satisfy either of the following conditions:</p>
+        <ol style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">occupying their respective places of residence or other suitable accommodation alone (i.e. <i>no domestic helpers</i>); or</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">only with household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
+</ol>
+         <p style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">For Singapore Citizens(SCs) and Permanent Residents(PRs), application must be made three days prior to arrival via the <a href="https://safetravel.ica.gov.sg/">Safe Travel website</a>. Travellers who are not SCs or PRs may apply to opt out as part of the entry application process from 20 August 2021, 2359 hours onwards. All travellers must present the approval to opt out upon arrival in Singapore.</p>
+</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
+    </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out(presently Israel and Taiwan only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out(presently Australia and Israel only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
           <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
             <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> Alone, i.e. no domestic helper(s); or </li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
