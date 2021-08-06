@@ -19,4 +19,4 @@ If their serology test results are positive, their vaccination records will be u
 
 ### Penalties for non-compliance
 
-Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedngs, revocation of passes and suspension of workpass privileges, will be taken for non-compliance or false declaration.
+Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declaration.
