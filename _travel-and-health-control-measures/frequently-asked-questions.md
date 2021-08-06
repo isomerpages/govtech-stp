@@ -595,7 +595,12 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-The Singapore government is currently looking into more flexible guidelines for vaccinated travellers. In the meantime, the prevailing border health control measures are applied to all travellers. 
+From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
+a. are entering Singapore via the [General Entry Lanes for Long-term Pass holders](/arriving/overview#LTPH), or [Returning Singapore Citizen and Permanent Residents Lane](/arriving/overview#ReturningSCPR);
+b. Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and
+c. Received two doeses of Pfizer-BioNTech/ Comirnaty, Moderna or WHO EUL Vaccines at least 2 weeks before arrival in Singapore. 
+
+For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
 
 Click here to [Go Back To Top](#top).
