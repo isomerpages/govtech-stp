@@ -237,11 +237,11 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 		<table>
 <tr>
 <td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><u><b><p style="color:red; font-size:16px;">Note:</p></b></u> 
-This set of measures is only applicable to fully vaccinated travellers. who have received two doses of the Pfizer-BioNTech/Comirnaty, Moderna or WHO EUL vaccines at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, please refer to the health measures at S/N 8 of this table.</td>
+This set of measures is only applicable to fully vaccinated travellers. who have received two doses of the Pfizer-BioNTech/Comirnaty, Moderna or WHO EUL vaccines at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, please refer to the health measures at S/N 8 of this table.<br/><br/>Eligible travellers with travel history to these countries/regions who have yet to exit their SDF by <b>20 August 2021, 2359hrs</b>, may also apply to serve the remainder of their SHN at their place of residence or choice of accommodation.</td>
 </tr>
 	</table>
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test </a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
@@ -253,15 +253,17 @@ This set of measures is only applicable to fully vaccinated travellers. who have
 </li>
 </ol>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> and <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">Antigen Rapid Test* </a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and take a COVID-19 PCR test on Day 14 of the SHN. Eligible travellers<sup>*</sup> may serve their SHN at their place of residence.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities will also administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
+</ol>
+<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> Travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN; and </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an  Antigen Rapid Test on  their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
-	</ol>
-	</li>
-	</ol>
-</td>     
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</i></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
+</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
+</td>
 </tr>	
 	<!-- end of New Vac Lane-->
 		<tr>
