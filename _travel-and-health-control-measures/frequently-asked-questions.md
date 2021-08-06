@@ -596,9 +596,12 @@ Click here to [Go Back To Top](#top).
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
 From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
- a. are entering Singapore via the [General Entry Lanes for Long-term Pass holders](/arriving/overview#LTPH), or [Returning Singapore Citizen and Permanent Residents Lane](/arriving/overview#ReturningSCPR);
- b. Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and
- c. Received two doeses of Pfizer-BioNTech/ Comirnaty, Moderna or WHO EUL Vaccines at least 2 weeks before arrival in Singapore. 
+<ol style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Received two doeses of Pfizer-BioNTech/ Comirnaty, Moderna or WHO EUL Vaccines at least 2 weeks before arrival in Singapore. </li>
+
+</ol>
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
