@@ -284,7 +284,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </ol>
 <i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>all of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a><sup>1</sup> with vaccines approved for use under the national vaccination programme; and </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 		</ol>
 </i><br/><br/>
