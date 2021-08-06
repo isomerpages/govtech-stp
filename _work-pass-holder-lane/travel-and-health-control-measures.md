@@ -285,7 +285,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>all of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated1 with vaccines approved for use under the national vaccination programme; and </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
 		</ol>
 </i><br/><br/>
 		<table>
