@@ -58,7 +58,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 </tr>
 <tr>
 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-<p style="font-size:16px; line-height:1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers.</u></p>
+<p style="font-size:16px; line-height:1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>.</p>
 <p style="font-size:16px; line-height:1.5;">For more information on the specific travel health control measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
