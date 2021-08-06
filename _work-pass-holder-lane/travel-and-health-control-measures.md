@@ -308,7 +308,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($2,000 including GST), where the pass holder will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
 	</ol>
 	</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
