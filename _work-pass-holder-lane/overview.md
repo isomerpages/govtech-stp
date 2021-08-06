@@ -39,10 +39,6 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 			<p style="font-size:16px; line-height:1.5;">For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">IPA validities</a> <b>before submitting entry applications</b>.  </p>
 		 </td>
  </tr>
-   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><b>All purposes of travel allowed</b></td>
- </tr>
 <!--  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Due to the need to stagger the entries of pass holders from higher-risk countries/regions, <u><b>new entry applications</b></u> can only be accepted for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
