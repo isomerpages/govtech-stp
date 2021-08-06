@@ -43,7 +43,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;"><b>All purposes of travel allowed</b></td>
  </tr>
-   <tr>
+<!--  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Due to the need to stagger the entries of pass holders from higher-risk countries/regions, <u><b>new entry applications</b></u> can only be accepted for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
 		 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
@@ -69,7 +69,7 @@ For employers whose pass holders had been approved to enter previously but entri
 	    		<br/><br/>
 We understand these measures are difficult for employers and their pass holders, and seek understanding on the need for these control measures to keep Singapore safe. We are currently working towards allowing new applications and will provide updates on this shortly.
 		 </td>
- </tr>
+ </tr>-->
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
