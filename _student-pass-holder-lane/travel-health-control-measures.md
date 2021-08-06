@@ -135,9 +135,9 @@ Scroll down for the list of travel health control measures that would apply base
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 3</u><br/>
 <ul style="font-size:16px; margin-top:0px; list-style-type: disc;">
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Fiji</b></li>-->
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b><br/><br/>	<b>Note:</b> Please refer to S/N 4 if you are arriving after 20 Aug, 2359 hours.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b><br/><br/><i>	<b>Note:</b> Please refer to S/N 4 if you are arriving after 20 Aug, 2359 hours.</i></li>
 <br/>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b><br/><br/><b>Note:</b> Travellers from Israel are no longer allowed to opt out of SHN at dedicated SHN facilities from 20 Aug, 2359 hours.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b><br/><br/><i><b>Note:</b> Travellers from Israel are no longer allowed to opt out of SHN at dedicated SHN facilities from 20 Aug, 2359 hours.</i></li>
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>-->
 </ul>
 </td>
@@ -232,7 +232,7 @@ Scroll down for the list of travel health control measures that would apply base
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
 		<table>
 <tr>
-<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><u><b><p style="color:red; font-size:16px;">Note:</p></b></u> 
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><u><b><p style="color:red; font-size:16px;">From 20 Aug 2021, 2359hrs</p></b></u> 
 This set of measures is only applicable to fully vaccinated travellers. who have received two doses of the Pfizer-BioNTech/Comirnaty, Moderna or WHO EUL vaccines at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, please refer to the health measures at S/N 8 of this table.<br/><br/>Eligible travellers with travel history to these countries/regions who have yet to exit their SDF by <b>20 August 2021, 2359hrs</b>, may also apply to serve the remainder of their SHN at their place of residence or choice of accommodation.</td>
 </tr>
 	</table>
