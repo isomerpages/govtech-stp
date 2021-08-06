@@ -7,7 +7,7 @@ Pass holders who meet all of these conditions must be fully vaccinated <b>before
 - Obtained an entry approval <b>from 10 Aug 2021</b>. 
 
 To be considered fully vaccinated, pass holders must: 
-- Have received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 2 weeks before arriving in Singapore</b>
+- Have received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 14 days before arriving in Singapore</b>
 - Be able to produce documents to prove their vaccination status before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. 
 - (Only applicable to those who were vaccinated overseas) Take a serology test with Ministry of Health's designated health providers to confirm their vaccination status within 14 days of completing Stay-Home-Notice(SHN). <br/><br/>
 If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take the vaccination in Singapore.
@@ -19,4 +19,4 @@ If their serology test results are positive, their vaccination records will be u
 
 ### Penalties for non-compliance
 
-Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedngs, revocation of passes and suspension of workpass privileges, will be taken for non-compliance or false declaration. 
+Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedngs, revocation of passes and suspension of workpass privileges, will be taken for non-compliance or false declaration.
