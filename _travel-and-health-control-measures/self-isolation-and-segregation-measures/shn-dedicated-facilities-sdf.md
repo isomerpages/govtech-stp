@@ -86,7 +86,7 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out(presently Australia and Israel only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out (presently Australia and Israel only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
           <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
             <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> Alone, i.e. no domestic helper(s); or </li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
