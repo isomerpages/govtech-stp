@@ -62,7 +62,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
 <!-- Update the hyperlink of summary table to the new page's -->
-			 <p style="font-size:16px; line-height: 1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore.</u> There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers.</u> To view the latest travel-policy announcements, click <a href="/news-and-media/press-releases/">here.</a> </p>
+			 <p style="font-size:16px; line-height: 1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore.</u> To view the latest travel-policy announcements, click <a href="/news-and-media/press-releases/">here.</a> </p>
 </td>
  </tr>
 <thead>
