@@ -217,14 +217,15 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are <b>not allowed</b> to serve the 14-day SHN in hotels.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
 	</ol>
-	<sup>#</sup>These groups of pass holders do not need to be vaccinated before entering Singapore:
-<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are <b>not allowed</b> to serve the 14-day SHN in hotels.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
-	</ol>	
 	</td>
 </tr>
 	</table>
+		<sup>#</sup> These groups of pass holders do not need to be vaccinated before entering Singapore:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions. </li>
+			</ol><br/>
+			For more details, please refer to the <a href="/wphl/vaccination-requirements">>vaccination requirements</a>.
 </td> 
 	</tr>
 		<tr>
