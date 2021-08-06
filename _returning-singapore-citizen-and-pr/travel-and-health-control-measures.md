@@ -225,6 +225,8 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 4</u><br/>
 	<ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
+		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
+				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Canada</b></li>
   <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Germany</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
