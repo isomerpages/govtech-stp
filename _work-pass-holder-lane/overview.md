@@ -125,7 +125,7 @@ We understand these measures are difficult for employers and their pass holders,
 		</td>
 	</tr>
 				<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Immediate family member, relative, fiancé/fiancée of a Citizen or Permanent Resident of Singapore (SC/PR), with a valid work pass	
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Immediate family member of a Citizen or Permanent Resident of Singapore (SC/PR), with a valid work pass	
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Traveller can enter under either of these lanes: <ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane </a>applied by SC/PR family member</li>
@@ -147,6 +147,12 @@ We understand these measures are difficult for employers and their pass holders,
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">All other pass holders
 			</td>
 			<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
+				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b> Pass Holders who meet all of these conditions must be fully vacciated <b>at least 14 days before arrival</b></p>
+				<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">Have Travel history within the last 21 days before arrival to higher-risk countries/regions(i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan; and</li>
+					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">Obtained an entry approval <b>from 10 Aug 2021.</b></li>
+				</ol>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please read the vaccination requirements listed <a href="/wphl/vaccination-requirements">here</a> carefully</p>
 		</td>
 	</tr>
 		</tbody>
