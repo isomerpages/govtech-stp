@@ -52,6 +52,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Macao </li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Mainland China</li>
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">New Zealand</li>
+					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Taiwan</li>
 					</ol>
 			<br/>
 For <b><u>existing approved entry applications</u></b>, pass holders <b>must not</b> transit through or visit any of these countries/regions within the last 21 days before departing for Singapore, or they will be denied entry:
