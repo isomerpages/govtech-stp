@@ -615,6 +615,10 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 	
+### Penalties for non-compliance
+
+Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedngs, revocation of passes and suspension of workpass privileges, will be taken for non-compliance or false declaration.
+
 <!--### Conditions for pass holders to serve 14-day SHN at a place of residence	
 
 During the entry application, you can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs, if they fulfil <b><u>all of</u> these conditions</b>:
