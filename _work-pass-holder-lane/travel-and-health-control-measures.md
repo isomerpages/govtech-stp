@@ -229,7 +229,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</tr>
 <!-- Vaccinated lane starts here-->
 				<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 4</u><br/>Only for entry applications submitted <b>from 20 Aug 2021, 2359 hours</b><br/><br/>
+<td rowspan ="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 4</u><br/>Only for entry applications submitted <b>from 20 Aug 2021, 2359 hours</b><br/><br/>
 	<ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
@@ -335,6 +335,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 			</ol><br/>
 			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
 </td> 
+	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup>1</sup>An individual is considered fully-vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or WHO EUL vaccines.</td></tr>
 	</tr>
 	<!-- Vax lane ends here-->
 		<tr>
