@@ -335,7 +335,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 			</ol><br/>
 			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
 </td> 
-	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup>1</sup>An individual is considered fully-vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or WHO EUL vaccines.</td></tr>
+	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup>1</sup>An individual is considered fully-vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>.</td></tr>
 	</tr>
 	<!-- Vax lane ends here-->
 		<tr>
