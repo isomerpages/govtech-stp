@@ -318,16 +318,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 			<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or accommodation  is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holder does not stay in a dormitory. </li>
-	</ol>
-						<table>
-<tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i><ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are <b>not allowed</b> to serve the 14-day SHN in hotels.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
-	</ol>
-	</td>
-</tr>
-	</table>
+	</ol><br/>
 		<sup>#</sup> These groups of pass holders do not need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
