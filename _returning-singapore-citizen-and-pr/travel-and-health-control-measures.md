@@ -234,7 +234,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
 		<table>
 <tr>
-<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><p style="color:red; font-size:16px;">Note:</p></b> <br/>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b><p style="color:red; font-size:16px;">Note:</p></b> 
 This set of measures is only applicable to fully vaccinated travellers. who have received two doses of the Pfizer-BioNTech/Comirnaty, Moderna or WHO EUL vaccines at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, please refer to the health measures at S/N 8 of this table.</td>
 </tr>
 	</table>
