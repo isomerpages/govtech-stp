@@ -284,7 +284,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </ol>
 <i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>all of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a><sup>1</sup> with vaccines approved for use under the national vaccination programme; and </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 		</ol>
 </i><br/><br/>
@@ -314,8 +314,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Those who obtained an entry approval <b>from 10 Aug 2021</b> and were vaccinated overseas)<br/><br/>Take serology test with Ministry of Health's designated healthcare providers to confirm their vaccination status* within 14 days of completing SHN.</li>
 </ol>
-			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>all of these conditions</b>:		<ol style="margin-top: 0px; list-style-type: disc;">
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Are <a href="/wphl/vaccination-requirements">fully vaccinated</a><sup>1</sup> with vaccines approved for use under the national vaccination programme; and</li>
+			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
+			<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or accommodation  is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holder does not stay in a dormitory. </li>
 	</ol>
