@@ -9,7 +9,7 @@ Prospective travellers who have yet to apply for entry under FTL, should refer t
 ### Travel Health Control Measures for FTL-travellers
 <p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 6 Aug 2021)</i></p>
 
-Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable). Otherwise, scroll down to view the table of health control measures.
+Depending on the traveller’s 21-day travel history before arriving in Singapore, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable). Otherwise, scroll down to view the table of health control measures.
 
 <ol style="list-style-type: decimal;">
 <li><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
