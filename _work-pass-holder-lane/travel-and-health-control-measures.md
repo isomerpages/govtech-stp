@@ -442,7 +442,6 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<tr>
 		<td colspan ="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;" ><i>The charges for the additional on-arrival COVID-19 ART will be waived by the Singapore Government from 2 to 8 Aug 2021. Travellers will be required to pay for their on-arrival COVID-19 ART from 9 Aug 2021, 0001 hours (Singapore time).</i></td>
 	</tr>
-	</tr>
 	<!-- Philippines edits end here-->
 		<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br/>
