@@ -16,3 +16,7 @@ If their serology test results are positive, their vaccination records will be u
 
 - Pass holders who are below 18 years old on date of entry. Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. 
 - Pass holders who cannot be vaccinated due to medical conditions. To be considered for exemption, employers must [submit a request](https://www.mom.gov.sg/exempt-vaccination) for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the [entry application](https://go.gov.sg/wphl-requirements).
+
+### Penalties for non-compliance
+
+Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedngs, revocation of passes and suspension of workpass privileges, will be taken for non-compliance or false declaration. 
