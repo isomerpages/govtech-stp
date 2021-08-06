@@ -39,11 +39,7 @@ This page provides a quick overview of the key WPHL features, requirements, appl
 			<p style="font-size:16px; line-height:1.5;">For passes or IPAs that have less than 15 days of validity, please renew the passes or extend the <a href="https://www.mom.gov.sg/faq/work-pass-general/how-do-i-extend-the-validity-of-an-in-principle-approval-ipa">IPA validities</a> <b>before submitting entry applications</b>.  </p>
 		 </td>
  </tr>
-   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><b>All purposes of travel allowed</b></td>
- </tr>
-   <tr>
+<!--  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b><br/><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Due to the need to stagger the entries of pass holders from higher-risk countries/regions, <u><b>new entry applications</b></u> can only be accepted for pass holders who remained in the following lower-risk countries/regions for 21 consecutive days before departing for Singapore:
 		 	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
@@ -69,12 +65,11 @@ For employers whose pass holders had been approved to enter previously but entri
 	    		<br/><br/>
 We understand these measures are difficult for employers and their pass holders, and seek understanding on the need for these control measures to keep Singapore safe. We are currently working towards allowing new applications and will provide updates on this shortly.
 		 </td>
- </tr>
+ </tr>-->
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
 		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 <p style="font-size:16px; line-height: 1.5;"><a href="/wphl/shn-and-swab-summary">CLICK HERE</a> to check the latest travel health control measures (e.g. Stay-Home Notice and COVID-19 tests) imposed on incoming pass holders based on their travel histories. </p>
-<p style="font-size:16px; line-height:1.5;">There are currently <u>no waivers or special considerations granted for vaccinated or recovered travellers</u>. </p>
 <!-- Update the hyperlink of summary table to the new page's -->
 </td>
  </tr>
@@ -126,7 +121,7 @@ We understand these measures are difficult for employers and their pass holders,
 		</td>
 	</tr>
 				<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Immediate family member, relative, fiancé/fiancée of a Citizen or Permanent Resident of Singapore (SC/PR), with a valid work pass	
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Immediate family member of a Citizen or Permanent Resident of Singapore (SC/PR), with a valid work pass	
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Traveller can enter under either of these lanes: <ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane </a>applied by SC/PR family member</li>
@@ -148,6 +143,12 @@ We understand these measures are difficult for employers and their pass holders,
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">All other pass holders
 			</td>
 			<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
+				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b> Pass Holders who meet all of these conditions must be <b>fully vacciated before arrival</b></p>
+				<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">
+					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Have Travel history within the last 21 days before arrival to higher-risk countries/regions(i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan; and</li>
+					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Obtained an entry approval <b>from 10 Aug 2021.</b></li>
+				</ol>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please read the vaccination requirements listed <a href="/wphl/vaccination-requirements">here</a> carefully</p>
 		</td>
 	</tr>
 		</tbody>
