@@ -7,7 +7,7 @@ This page summarises the current travel health control measures for Singapore Ci
 For the full entry guide for SCs and PRs, click <a href="/sc-pr/requirements-and-process">here</a>.
 
 ### Travel Health Control Measures for Returning-SC/PRs 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 5 Aug 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at 6 Aug 2021)</i></p>
 
 Depending on the traveller’s 21-day travel history, the following combination of measures may apply. Click on the links below for more information about these measures as well as their relevant costs (if applicable).
  
@@ -137,9 +137,10 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </tr>
 <tr>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 3</u><br/>
-<ul style="margin-top:0px; list-style-type: disc;">
+<ul style="font-size:16px; margin-top:0px; list-style-type: disc;">
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Fiji</b></li>-->
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
+	(Note: Please refer to S/N 4 if you are arriving after 20 Aug, 2359h)<br/>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>-->
 </ul>
