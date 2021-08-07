@@ -83,7 +83,7 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
 </ol>
          <p style="font-size:20px; margin-top:20px; margin-bottom:0px; line-height:1.5;">For Singapore Citizens(SCs) and Permanent Residents(PRs), application must be made three days prior to arrival via the <a href="https://safetravel.ica.gov.sg/">Safe Travel website</a>. Travellers who are not SCs or PRs may apply to opt out as part of the entry application process from 20 August 2021, 2359 hours onwards. All travellers must present the approval to opt out upon arrival in Singapore.</p>
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"></td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out (presently Australia and Israel only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
