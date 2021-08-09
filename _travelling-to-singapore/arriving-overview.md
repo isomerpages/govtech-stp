@@ -142,10 +142,10 @@ Click here to return to the <a href="#top">top</a>.
 
 Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
-	<li>Brunei Darussalam</li>
-	<li>Mainland China (excluding Jiangsu province)</li>
-	<li>New Zealand</li>
-	<li>Taiwan  (for entries on or after 12 Aug 2021)</li>
+	<li><a href="/atp/requirements-and-process">Brunei Darussalam</a></li>
+	<li><a href="/atp/requirements-and-process">Mainland China (excluding Jiangsu province)</a></li>
+	<li><a href="/atp/requirements-and-process">New Zealand</a></li>
+	<li><a href="/atp/requirements-and-process">Taiwan  (for entries on or after 12 Aug 2021)</a></li>
 </ul>
 	
 ---
