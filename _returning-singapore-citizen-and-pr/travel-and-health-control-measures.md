@@ -40,6 +40,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (Guangdong province) [for arrivals <u>before</u> 5 June, 2359hrs]</b></li>-->
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Jiangsu province)</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -76,45 +77,7 @@ You should use this <a href="/sc-pr/online-assistant">online self-help tool</a> 
 </ol>
 </td> 
 	</tr>-->
-		<tr>
-<td rowspan="2"  colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><u>S/N 1a</u><br/>
-	<ul style="margin-top: 0px; list-style-type: disc;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0; list-style-type:disc;"><b>Taiwan</b></li></ul></td>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  vertical-align:middle; margin-bottom:10px;"><b><u>For arrivals before 7 Aug 2021, 2359 hours:</u></b>
-	<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test </a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
-</ol>
-</li>
-</ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test </a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a> or their place of residence*, <b>and</b> take a COVID-19 PCR test on the last day of SHN.</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Travellers serving SHN in an SDF will also to administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
-</ol>
-	<p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> Travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</i></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
-</ol>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
-	</td>
-</tr>
-<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; "><b><u>For arrivals after 7 Aug 2021, 2359 hours:</u></b>
-<ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
-</ol>
-	</td>
-</tr>	
-<tr>
+	<tr>
 <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2</u><br/>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br/><i><b>Note:</b> ATB launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</i></li>
@@ -339,6 +302,7 @@ This set of measures is only applicable to fully vaccinated travellers. who have
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Myanmar</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Nepal</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Pakistan</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Philippines</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
 </ul>
 </td>
@@ -366,35 +330,6 @@ This set of measures is only applicable to fully vaccinated travellers. who have
 	</ol>
 </td>
 </tr>
-<!-- Philippines begin here-->
-	<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><u>S/N 7a</u><br/><b>Philippines</b></td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; marign-bottom:10px; ">
-	<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
-</ol>
-</li>
-</ol>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test and Antigen Rapid Test*</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore.</li>
-	</ol>
-	</li>
-	</ol>
-	<i>*With effect from 0001 hours, 2 Aug 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Philippines and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 2 to 8 Aug 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 9 Aug 2021 (Singapore time).</i>
-	</td>
-</tr>
-<!--Philippines end here-->
 <tr>
 <td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 8</u><br/><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; ">
