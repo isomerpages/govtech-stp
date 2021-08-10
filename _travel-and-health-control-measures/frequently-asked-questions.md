@@ -79,7 +79,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 ## Transport Arrangements During SHN
 
-#### 1. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at an SHN-dedicated facility (SDF)?
+#### 1. What are the types of transport that I can take if I am serving my 7-day Stay-Home Notice (SHN) at an SHN-dedicated facility (SDF)?
 
 Upon arrival, travellers will commute directly to their assigned SDF using government-arranged transport. During the SHN period, travellers are prohibited from leaving their accommodations. They are only permitted to leave the SDF if they are due to take their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at the designated testing facility. As travel via public transport is prohibited, transport will be arranged by the Ministry of Health (MOH) to ferry travellers to and from the designated testing facility.
 
@@ -138,7 +138,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 <div id="transportQ3"></div>
 
-#### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead due to medical reasons. What are the types of transport that I can take?
+#### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead. What are the types of transport that I can take?
 
 You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for:
 
