@@ -104,7 +104,7 @@ We understand these measures are difficult for employers and their pass holders,
 		</td>
 	</tr>
 		<tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Construction, Marine shipyard or Process sector workers (“CMP workers”), who:	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Construction, Marine shipyard or Process sector workers (“CMP workers”) who:	<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
 											<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or IPA for any of these 3 passes; and</li>
 			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are entering Singapore without their dependants.</li></ol>
 			</td>
@@ -117,7 +117,9 @@ We understand these measures are difficult for employers and their pass holders,
 			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Personalised Employment Pass (PEP) holders (without employers) and their dependants</li>
 					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li></ol>
 			</td>
-		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">WHP, PEP and EntrePass holders to apply: <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval</a>
+		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">WHP, PEP and EntrePass holders to apply: <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval</a><br/><br/>
+			<b>Note:</b> Pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be fully vaccinated <b>before arrival</b>. Please read the vaccination requirements <a href="/wphl/vaccination-requirements">listed here</a> carefully.<br/><br/>
+			The vaccination requirements <b>does not</b> apply to CMP workers, helpers and confinement nannies.
 		</td>
 	</tr>
 				<tr>
