@@ -145,12 +145,8 @@ We understand these measures are difficult for employers and their pass holders,
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">All other pass holders
 			</td>
 			<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
-				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b> Pass Holders who meet all of these conditions must be <b>fully vaccinated before arrival</b></p>
-				<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">
-					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Have travel history within the last 21 days before arrival to higher-risk countries/regions(i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan; and</li>
-					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Obtained an entry approval <b>from 10 Aug 2021.</b></li>
-				</ol>
-					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please read the vaccination requirements listed <a href="/wphl/vaccination-requirements">here</a> carefully</p>
+				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">			<b>Note:</b> Pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be fully vaccinated <b>before arrival</b>. Please read the vaccination requirements <a href="/wphl/vaccination-requirements">listed here</a> carefully.<br/><br/>
+			The vaccination requirement <b>does not</b> apply to CMP workers, helpers and confinement nannies.
 		</td>
 	</tr>
 		</tbody>
