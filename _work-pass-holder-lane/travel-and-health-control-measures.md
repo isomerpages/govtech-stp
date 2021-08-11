@@ -217,7 +217,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</ol>
 	</td>
 </tr>
-	</table>
+	</table><br/>
 		<sup>#</sup> These groups of pass holders do not need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
