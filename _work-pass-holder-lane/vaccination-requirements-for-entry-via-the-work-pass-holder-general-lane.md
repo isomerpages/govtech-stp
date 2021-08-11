@@ -19,12 +19,14 @@ If their serology test results are positive, their vaccination records will be u
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.
       <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">To be considered for exemption, employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.</p>
   </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers ("CMP Workers") who: <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;">
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers (<a href="
+https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">"CMP Workers"</a>) who: <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;">
       <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes; and</li>
             <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">are entering Singpaore without their dependents</li>
       </ol>
   </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">helpers and confinement nannies</li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><a href="
+https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">Helpers and confinement nannies</a></li>
   </ol>
 
 
