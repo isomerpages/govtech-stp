@@ -2,9 +2,11 @@
 title: Vaccination Requirements for Entry via the Work Pass Holder General Lane
 permalink: /wphl/vaccination-requirements
 ---
-Pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be fully vaccinated <b>before arrival</b>.
+Pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
 
-To be considered fully vaccinated, pass holders must: 
+<div id="vaccinated"></div>
+
+### To be considered fully vaccinated, pass holders must: 
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
   <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 14 days before arriving in Singapore</b>.
@@ -15,6 +17,37 @@ To be considered fully vaccinated, pass holders must:
       <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take the vaccination in Singapore.</p>
   </li>
   </ol>
+  
+### Documents pass holders should produce to prove they are fully vaccinated
+
+<table>
+<thead>
+<tr>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Place pass holder was vaccinated</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Pass holder can produce any of the following</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">Singapore</td>
+  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Hardcopy vaccination certificate</li>
+            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.healthhub.sg/">HealthHub app</a> </li>
+     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.tracetogether.gov.sg/">TraceTogether app</a></li>
+      </ol>	</td>
+  </tr>
+  <tr>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">Overseas</td>
+  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	Hardcopy vaccination certificate with <b>all these details</b>: <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; ">
+      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Name (as stated on the passport)</li>
+            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">A least 1 other personal identifier, e.g. date of birth or passport number </li>
+     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">Country of vaccination</li>
+        <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">Name of vaccine used (if more than 1 dose, the name of each vaccine administered)</li>
+        <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
+      </ol>	</td>
+  </tr>
+  </tbody>
+  </table>
 
 
 ### Groups of pass holders who do not need to be vaccinated before entering Singapore
@@ -26,7 +59,8 @@ To be considered fully vaccinated, pass holders must:
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.
       <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">To be considered for exemption, employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.</p>
   </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers ("<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP Workers</a>") who: <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;">
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers ("<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP Workers</a>") who: 
+      <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;">
       <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes; and</li>
             <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">are entering Singpaore without their dependents</li>
       </ol>
