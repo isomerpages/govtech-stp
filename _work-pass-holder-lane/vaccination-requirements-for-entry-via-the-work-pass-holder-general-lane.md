@@ -12,8 +12,18 @@ If their serology test results are positive, their vaccination records will be u
 
 ### Groups of pass holders who do not need to be vaccinated before entering Singapore
 
-- Pass holders who are below 18 years old on date of entry. <br/><br/> Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. 
-- Pass holders who cannot be vaccinated due to medical conditions. <br/><br/> To be considered for exemption, employers must [submit a request](https://www.mom.gov.sg/exempt-vaccination) for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the [entry application](https://go.gov.sg/wphl-requirements).
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who are below 18 years old on date of entry.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. </p>
+  </li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.
+      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">To be considered for exemption, employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.</p>
+  </li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers ("CMP Workers") who:
+  </li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"></li>
+  </ol>
+
 
 ### Penalties for non-compliance
 
