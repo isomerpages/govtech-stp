@@ -29,21 +29,21 @@ Pass holders with travel history within the last 21 days before arrival to highe
 </thead>
 <tbody>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">Singapore</td>
-  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Hardcopy vaccination certificate</li>
-            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.healthhub.sg/">HealthHub app</a> </li>
-     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.tracetogether.gov.sg/">TraceTogether app</a></li>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singapore</td>
+  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+      <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Hardcopy vaccination certificate</li>
+            <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.healthhub.sg/">HealthHub app</a> </li>
+     <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.tracetogether.gov.sg/">TraceTogether app</a></li>
       </ol>	</td>
   </tr>
   <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">Overseas</td>
-  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	Hardcopy vaccination certificate with <b>all these details</b>: <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; ">
-      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Name (as stated on the passport)</li>
-            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">A least 1 other personal identifier, e.g. date of birth or passport number </li>
-     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">Country of vaccination</li>
-        <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">Name of vaccine used (if more than 1 dose, the name of each vaccine administered)</li>
-        <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;  line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;">Overseas</td>
+  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-left:1px solid #D8D8D8;">	Hardcopy vaccination certificate with <b>all these details</b>: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; ">
+      <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Name (as stated on the passport)</li>
+            <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">A least 1 other personal identifier, e.g. date of birth or passport number </li>
+     <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Country of vaccination</li>
+        <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Name of vaccine used (if more than 1 dose, the name of each vaccine administered)</li>
+        <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
       </ol>	</td>
   </tr>
   </tbody>
