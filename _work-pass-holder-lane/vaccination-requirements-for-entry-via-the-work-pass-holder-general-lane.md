@@ -62,7 +62,7 @@ Pass holders with travel history within the last 21 days before arrival to highe
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers ("<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP Workers</a>") who: 
       <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;">
       <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes; and</li>
-            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">are entering Singpaore without their dependents</li>
+            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">are entering Singapore without their dependents</li>
       </ol>
   </li>
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">Helpers and confinement nannies</a></li>
