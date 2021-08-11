@@ -5,10 +5,17 @@ permalink: /wphl/vaccination-requirements
 Pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be fully vaccinated <b>before arrival</b>.
 
 To be considered fully vaccinated, pass holders must: 
-- Have received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 14 days before arriving in Singapore</b>. <br/><br/> Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.
-- Be able to produce documents to prove their vaccination status before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. 
-- (Only applicable to those who were vaccinated overseas) Take a serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status within 14 days of completing Stay-Home Notice(SHN). <br/><br/>
-If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take the vaccination in Singapore.
+
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 14 days before arriving in Singapore</b>.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p>
+  </li>
+      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Be able to produce documents to prove their vaccination status before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. </li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status within 14 days of completing Stay-Home Notice(SHN).
+      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take the vaccination in Singapore.</p>
+  </li>
+  </ol>
+
 
 ### Groups of pass holders who do not need to be vaccinated before entering Singapore
 
