@@ -277,11 +277,11 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="/health/shn">SHN</a> at:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An SDF ($1,500 including GST) where the helper/CN will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
 		</ol>
 	</li>
 </ol>
-<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>all of these conditions</b>:
+<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence or suitable accommodation, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
@@ -289,7 +289,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </i><br/><br/>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Those who obtained an entry approval <b>from 10 Aug 2021</b>) Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 		<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
@@ -311,7 +311,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</ol>
 	</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Those who obtained an entry approval <b>from 10 Aug 2021</b> and were vaccinated overseas)<br/><br/>Take serology test with Ministry of Health's designated healthcare providers to confirm their vaccination status* within 14 days of completing SHN.</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with Ministry of Health's designated healthcare providers to confirm their vaccination status* within 14 days of completing SHN.</li>
 </ol>
 			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
 			<ol style="margin-top: 0px; list-style-type: disc;">
