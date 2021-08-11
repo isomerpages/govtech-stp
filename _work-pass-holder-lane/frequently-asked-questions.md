@@ -223,7 +223,7 @@ This also applies to employees coming in under the <a href="/pca/overview">Perio
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">New work pass holders on in-principle approvals</td>
 				      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Plan to enter Singapore for employment</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">For Work Permit holders, employers must bear the costs in full and are not allowed to pass on any cost to the employees.  <br/><br/>
-For other work passes, employers and employees should come to a mutual agreement on who bears the costs or how to share them.</a>
+For other work passes, employers and employees should come to a mutual agreement on who bears the costs or how to share them.
 </td>
     </tr>
 	</tbody>
