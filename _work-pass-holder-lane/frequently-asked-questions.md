@@ -264,7 +264,7 @@ Yes, all pass holders with travel history within the last 21 days before arrival
 
 #### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
-Fully vaccinated pass holders are still subject to the prevailing travel health control measures, which include serving SHN depending on their travel histories. 
+Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](/wphl/shn-and-swab-summary), which include serving SHN depending on their travel histories. 
 
 #### 5. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
 
