@@ -4,14 +4,14 @@ title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore
   under Green/Fast Lane arrangements.
 permalink: /
-notification: <h6 style="text-align:left;">Please note that the ICA SG Arrival
-  Card (SGAC) e-Service is a simple, free, self-help form accessed via ICA’s
-  website (<a
-  href="https://eservices.ica.gov.sg/sgarrivalcard/">https://eservices.ica.gov.sg/sgarrivalcard/</a>)
-  for travellers to declare their details up to 72 hours before arriving in
-  Singapore. ICA does not support or endorse services offered by commercial
-  entities who claim to provide assistance to travellers to make arrival
-  applications for a fee.     </h6>
+notification: <h6 style="text-align:left;">Beware of <a
+  href=”https://www.scamalert.sg/scam-details/impersonation-scam”>impersonation
+  scam</a> calls from “+65 6812 5555”, impersonating the SafeTravel Helpline
+  number. Do not provide your personal information or make payment if you
+  receive such calls. ICA also does not support or endorse services offered by
+  commercial entities who claim to provide assistance to travellers to fill up
+  ICA's free <a href=”https://eservices.ica.gov.sg/sgarrivalcard/”>SG Arrival
+  Card (SGAC) e-Service</a> for a fee.  </h6>
 sections:
   - hero:
       title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
