@@ -10,7 +10,7 @@ Click to jump to the following sections:
  3. [COVID-19 Tests](#covidtest)
  4. [Stay-Home Notice (SHN) and SHN-Dedicated Facilities](#shn)
  5. [Payment, Cost-sharing Matters and Refunds](#payment)
- 6. [COVID-19 Vaccination Requirements for Work Pass Holders and Dependents](#vaccinated)
+ 6. [COVID-19 Vaccination Requirements for Work Pass Holders and Dependants](#vaccinated)
  7. [Technical Issues with Application Portal](/faq/tech)
 
 Can’t find what you’re looking for? You may also visit MOM’s site [here](https://mom.gov.sg/covid-19/migrant-worker-onboarding-centre) for more information on domestic measures after arrival (e.g. Migrant Workers Onboarding Centre, Rostered Routine Testing). 
