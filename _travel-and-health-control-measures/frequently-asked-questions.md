@@ -13,7 +13,11 @@ permalink: /health/FAQ
 	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">COVID-19 Vaccinated Travellers intending to travel to Singapore</a>
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+		<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccination Requirements for Work Pass Holders and Dependents</li>
+		</ol>
+	</li>
 	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
 </ol>
 
