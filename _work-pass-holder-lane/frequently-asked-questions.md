@@ -10,7 +10,8 @@ Click to jump to the following sections:
  3. [COVID-19 Tests](#covidtest)
  4. [Stay-Home Notice (SHN) and SHN-Dedicated Facilities](#shn)
  5. [Payment, Cost-sharing Matters and Refunds](#payment)
- 6. [Technical Issues with Application Portal](/faq/tech)
+ 6. [COVID-19 Vaccination Requirements for Work Pass Holders and Dependents](#vaccinated)
+ 7. [Technical Issues with Application Portal](/faq/tech)
 
 Can’t find what you’re looking for? You may also visit MOM’s site [here](https://mom.gov.sg/covid-19/migrant-worker-onboarding-centre) for more information on domestic measures after arrival (e.g. Migrant Workers Onboarding Centre, Rostered Routine Testing). 
 
@@ -127,7 +128,7 @@ For existing FDWs returning from overseas, you must continue paying her salary o
 
 #### 1. My employee has recently recovered from COVID-19. Are they still required to be tested for COVID-19 before entry into Singapore?
 
-Please refer to the FAQ for recovered travelers [here](/health/faq#pcrtestQ5).
+Please refer to the FAQ for recovered travellers [here](/health/faq#pcrtestQ5).
 
 #### 2. My employee is required to take a COVID-19 test in Singapore as part of the entry requirements. How do I arrange for the test and do I need to pay?
 
@@ -232,5 +233,71 @@ For other work passes, employers and employees should come to a mutual agreement
 #### 3. My employee was diagnosed with COVID-19 in the first 14 days of their arrival in Singapore. Am I required to pay for their medical bills?
    
 You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment) for more information.
+
+<a href="#top">Click here to return to the top.</a>
+
+<div id="vaccinated"></div>
+
+### COVID-19 Vaccination Requirements for Work Pass Holders and Dependants
+
+#### 1. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
+
+Due to the need to reschedule helpers and confinement nannies from higher-risk countries/regions, new entry applications can only be accepted for helpers and confinement nannies who remained in the following lower-risk countries/regions for 21 consecutive days before arrival:
+- Brunei
+- Hong Kong
+- Macao
+- Mainland China
+- New Zealand
+- Taiwan 
+
+We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
+
+#### 2. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
+
+Pass holders who are vaccinated with the full regimen of [PSAR-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. 
+
+Pass holders who took other types of vaccines will not meet the entry requirements. Thus, please **do not** submit entry applications for them.
+
+#### 3. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
+
+Yes, all pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+
+#### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
+
+Fully vaccinated pass holders are still subject to the prevailing travel health control measures, which include serving SHN depending on their travel histories. 
+
+#### 5. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
+
+No, pass holders need to obtain an approval from Ministry of Manpower (MOM) to be exempted. Companies must submit an [exemption request for their pass holders](https://www.mom.gov.sg/exempt-vaccination) and upload the doctor’s memo. If the request is approved, your company can then proceed with the [pass holder’s entry application](https://go.gov.sg/wphl-requirements).
+
+#### 6. My pass holder does not wish to send his/her child (aged 12 years old to below 18 years old) for the COVID-19 vaccination in Singapore. Can the child be exempted?
+
+Unvaccinated children who are 12 years old to below 18 years old on date of entry must get their first vaccination in Singapore using a [Pandemic Special Access Route (PSAR)-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival.
+
+However, if the child cannot be vaccinated due to medical conditions, please get a doctor’s memo which must meet all these requirements:
+- States child’s medication condition 
+- States reason why the child cannot take any COVID-19 vaccinations, regardless of the brand of vaccine 
+- Is clear and not handwritten
+- (Only applicable if memo is not in English) Is accompanied with an English-translated copy from a translation service provider
+
+Please produce the memo when requested by the authorities. 
+
+#### 7. My pass holder was vaccinated 2 days ago. Can he/she enter Singapore next week?
+
+No, the pass holder cannot enter Singapore yet. 
+
+Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**. 
+
+Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
+
+#### 8. My pass holder is fully vaccinated and took a serology test with Ministry of Health’s designated healthcare provider. However, the serology test result was negative or inconclusive. What happens next?
+
+The pass holder will have to complete the full vaccination regime using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 3 months of arrival in Singapore. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
+
+#### 9. My pass holder has an approval to enter Singapore. However, Ministry of Manpower (MOM) informed me that his/her entry will have to be delayed. I understand MOM will email me when to bring him/her in. Does he/she need to be fully vaccinated before arrival?
+
+No, the pass holder does not need to be vaccinated before arrival. The vaccination requirement only applies to pass holders who obtained entry approvals **from 10 Aug 2021**.
+
+MOM will email you to exempt your pass holder from the vaccination requirement. 
 
 <a href="#top">Click here to return to the top.</a>

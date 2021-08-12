@@ -6,14 +6,20 @@ permalink: /health/FAQ
 
 <div id="top"></div>
 
- 1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
- 2. [Transport arrangements during SHN](#transport)
- 3. [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](#pcrtest)
- 4. [Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore](#outboundPDT)
- 5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
- 6. [Payments and Refunds](#payments)
- 7. [Vaccinated Travellers intending to travel to Singapore](#vaccinated)
- 8. [Travellers who require the use of Nebuliser](#nebuliser)
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
+<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport arrangements during SHN</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR test”)</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">COVID-19 Vaccinated Travellers intending to travel to Singapore</a>
+	<!--<ol style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+		<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><a href="#WPHL">COVID-19 Vaccination Requirements for Work Pass Holders and Dependents</a></li>
+		</ol>-->
+	</li>
+	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
+</ol>
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
@@ -23,7 +29,7 @@ Can’t find what you’re looking for? Please check [here](https://www.moh.gov.
 
 #### 1. Am I required to serve a Stay-Home Notice (SHN)? How long is the SHN?
 
-The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore, and Safe Travel Lane used. Please check the page [here](/arriving/overview) on the Safe Travel Lanes available depending on your traveler profile and travel history.
+The duration of your SHN, if required, depends on your travel history prior to arrival in Singapore, and Safe Travel Lane used. Please check the page [here](/arriving/overview) on the Safe Travel Lanes available depending on your traveller profile and travel history.
 
 The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
 
@@ -603,7 +609,6 @@ From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply
 </ol>
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
-
 
 Click here to [Go Back To Top](#top).
 
