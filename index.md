@@ -6,7 +6,7 @@ description: SafeTravel Pass is required for travellers entering into Singapore
 permalink: /
 notification: <h6 style="text-align:left;">Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
-  scam</a> calls from "+65 6812 5555", impersonating the SafeTravel Helpline
+  scam</a> calls from "+65 6812 5555", which is similar to the SafeTravel Enquiries Helpline
   number. Do not provide your personal information or make payment if you
   receive such calls. ICA also does not support or endorse services offered by
   commercial entities who claim to provide assistance to travellers to fill up
