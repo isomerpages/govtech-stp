@@ -128,7 +128,7 @@ For existing FDWs returning from overseas, you must continue paying her salary o
 
 #### 1. My employee has recently recovered from COVID-19. Are they still required to be tested for COVID-19 before entry into Singapore?
 
-Please refer to the FAQ for recovered travelers [here](/health/faq#pcrtestQ5).
+Please refer to the FAQ for recovered travellers [here](/health/faq#pcrtestQ5).
 
 #### 2. My employee is required to take a COVID-19 test in Singapore as part of the entry requirements. How do I arrange for the test and do I need to pay?
 
