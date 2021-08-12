@@ -6,14 +6,16 @@ permalink: /health/FAQ
 
 <div id="top"></div>
 
- 1. [Stay Home Notice (SHN) and Dedicated SHN Facility](#shnsdf)
- 2. [Transport arrangements during SHN](#transport)
- 3. [COVID-19 Polymerase Chain Reaction Test (“PCR test”)](#pcrtest)
- 4. [Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore](#outboundPDT)
- 5. [Singapore Inbound Travel Insurance](#inboundtravelinsurance)
- 6. [Payments and Refunds](#payments)
- 7. [Vaccinated Travellers intending to travel to Singapore](#vaccinated)
- 8. [Travellers who require the use of Nebuliser](#nebuliser)
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal;">
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#shnsdf">Stay Home Notice (SHN) and Dedicated SHN Facility</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#transport">Transport arrangements during SHN</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR test”)</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#outboundPDT">Outbound Pre-Departure Test and Health Certificates for Travellers Departing from Singapore</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#inboundtravelinsurance">Singapore Inbound Travel Insurance</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#payments">Payments and Refunds</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#vaccinated">Vaccinated Travellers intending to travel to Singapore</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
+</ol>
 
 Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
 
