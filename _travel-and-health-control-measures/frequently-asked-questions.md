@@ -94,7 +94,7 @@ Travellers should only leave their SDF for their PCR test appointment only if th
 
 <div id="transportQ2"></div>
 
-#### 2. What are the types of transport that I can take if I am serving my Stay-Home Notice (SHN) at my place of residence?
+#### 2. What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?
 
 For travellers arranging transport from the airport to their place of residence, they may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br/><br/>In all other cases, travellers may use their own private vehicle or pre-book a taxi/private hire car with any of the designated operators in the table below, to travel to their place of residence or to go for their scheduled PCR tests. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
 
@@ -140,11 +140,26 @@ For travellers arranging transport from the airport to their place of residence,
   </tbody>
   </table>
 	
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+<u><b>If you are using your own transport</b></u><br/>
+The traveller must be transported directly to their declared place of accommodation by only one family member. 
+
+If there are ore than one traveller, those sharing the same vehicle should have the same travel history heading towards the same declared place of accommodation.
+
+All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+
+<ol style="list-style-type:disc;">
+	<li>Vehicle windows must be wound down with air conditioning turned off. Where practical;</li>
+		<li>The front passenger seat should be left unoccupied;</li>
+			<li>The front passenger seat should be left unoccupied;</li>			
+			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) guidelines for more information.</li>
+</ol>
+
+<u><b>Booking taxi/private-hire vehicles</b></u><br/>
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.<br/><br/>Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
 <div id="transportQ3"></div>
 
-#### 3. I was required to serve my SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead. What are the types of transport that I can take?
+#### 3. I was required to serve my 14-day SHN at an SDF as I arrived from a high risk country/region, but have been approved to stay at my residence instead. What are the types of transport that I can take?
 
 You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for:
 
@@ -176,7 +191,9 @@ You must make transport arrangements at your own cost from the transport service
 </td>
     </tr>
   </tbody>
-  </table>
+  </table><br/>
+	
+For service-related feedback, travellers may wish to contact 6477 5977 or email to taxicorp@smrt.com.sg.
 	
 Click here to [Go Back To Top](#top).
 
@@ -367,7 +384,7 @@ Visitors who apply to enter Singapore under the ATP and RGLs will have to declar
 
 #### 4.	Must the insurance be bought prior to their travel to Singapore? Can travellers purchase it upon arrival in Singapore?
 
-The insurance must  be bought prior to their travel to Singapore. 
+The insurance must be bought prior to their travel to Singapore. 
 
 #### 5.	Are foreign travellers entitled to use public hospitals?
 
@@ -538,8 +555,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 				<tr>
 					<div id="note"></div>
 					
-<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* <b><u>NOTE I</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines^ and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia). <br/><br/>
-<b>	<u>^NOTE II</u></b>: With effect from 0001 hours, 2 Aug 2021 (Singapore time), travellers with travel history in the past consecutive 21 days from Philippines and entering Singapore, will be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport. The charge for the additional COVID-19 ART will be waived by the Government of Singapore from 2 to 8 Aug 2021. Travellers will be required to pay for their COVID-19 ART from 0001 hours, 9 Aug 2021 (Singapore time). </td>
+<td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
 		</tr>
       </tbody>
   </table>
@@ -589,8 +605,29 @@ Requests for refunds will only be considered if there are strong mitigating fact
    </tr> 
   </tbody>
   </table>
-  
-Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage [here](https://www.changiairport.com/en/airport-guide/Covid-19/FAQ.html) or write to MPA [here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance.
+ 
+ Travellers who have paid for their on-arrival COVID-19 PCR test separately at the airport or land/sea checkpoints, please refer to the following:
+<table>
+<tbody>
+  <tr>
+    <td style="border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the airport</b></td>
+		<td style="border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+			<ol style="font-size:18px; list-style-type: lower-roman;">
+				<li style="font-size:18px;">If they have a Safe Travel Concierge account with CAG: Login to the account, navigate to  ‘My Trips’ and choose the trip that they wish to cancel;</li>
+			<li style="font-size:18px;">If they do not have an account, they may wish to email to swabtest.refund@changiairport.com to request for assistance in cancellation and refunds.</li>
+			</ul>
+		</td>
+  </tr>
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the land/sea checkpoints:</b></td>
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;">Travellers may wish to directly email to Mr Francis Goh at francis.goh@parkwayshenton.com.sg for their refund or cancellation requests.
+ </td>
+  </tr>
+ </tbody>
+ </table>
+
+ 
+<!-- Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage [here](https://www.changiairport.com/en/airport-guide/Covid-19/FAQ.html) or write to MPA [here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance. -->
 
 
 Click here to [Go Back To Top](#top).
