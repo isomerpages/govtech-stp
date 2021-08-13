@@ -16,11 +16,10 @@ The Reciprocal Green Lane (RGL) is a bilaterally negotiated dual-way safe travel
 <tbody>
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;">-</td>
+      <td  rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">-</td>
   </tr>
 	    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;">Reinstated with effect <b>from 12 July 2021</b></td>
   </tr> 
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>

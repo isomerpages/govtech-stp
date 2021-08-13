@@ -27,35 +27,36 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
 <tbody>
     <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;">-</td>
+      <td  rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">-</td>
   </tr>
-   <tr>
+	    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
+  </tr> 
+   <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
     <td rowspan="6" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>For these RGL countries/regions, please check with your overseas sponsors if you are still eligible for RGL travel.</b></span>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for press releases regarding RGL suspension for:</p>
       <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="http://www.pmo.gov.bn/TAPressRelease/tsca%20-%20190521.pdf">Brunei Darussalam</a></li>
+				<!--	<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="http://www.pmo.gov.bn/TAPressRelease/tsca%20-%20190521.pdf">Brunei Darussalam</a></li>-->
 <li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
       </ol>
  </td>
   </tr>
 	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Germany</b></td>
-  </tr>
-  <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
   </tr>
   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Japan</b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Japan</b></td>
   </tr>
-     <tr>
+  <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
   </tr>
-    <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom:1px solid #D8D8D8; "><b>Republic of Korea</b></td>
+     <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Republic of Korea</b></td>
   </tr>
   </tbody>
   </table>
+
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
 
 
