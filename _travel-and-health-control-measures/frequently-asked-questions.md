@@ -554,11 +554,11 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
    </tr> 
 				<tr>
 					<div id="note"></div>
-					
 <td colspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
 		</tr>
       </tbody>
   </table>
+  
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
@@ -607,6 +607,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </table>
  
  Travellers who have paid for their on-arrival COVID-19 PCR test separately at the airport or land/sea checkpoints, please refer to the following:
+ 
 <table>
 <tbody>
   <tr>
@@ -615,7 +616,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
 			<ol style="font-size:18px; list-style-type: lower-roman;">
 				<li style="font-size:18px;">If they have a Safe Travel Concierge account with CAG: Login to the account, navigate to  ‘My Trips’ and choose the trip that they wish to cancel;</li>
 			<li style="font-size:18px;">If they do not have an account, they may wish to email to swabtest.refund@changiairport.com to request for assistance in cancellation and refunds.</li>
-			</ul>
+			</ol>
 		</td>
   </tr>
    <tr>
@@ -626,13 +627,11 @@ Requests for refunds will only be considered if there are strong mitigating fact
  </tbody>
  </table>
 
- 
-<!-- Travellers who have paid for their COVID-19 PCR test separately to Changi Airport Group (CAG) or Maritime Port Authority (MPA), i.e. not during the submission of entry application, may refer to the CAG webpage [here](https://www.changiairport.com/en/airport-guide/Covid-19/FAQ.html) or write to MPA [here](mailto:sea.checkpoints.refund@parkwaypantai.com)) for assistance. -->
-
-
 Click here to [Go Back To Top](#top).
 
+
 <div id="vaccinated"></div>
+
 
 ## Vaccinated Travellers intending to travel to Singapore
 
@@ -649,7 +648,9 @@ For more information on full SDF opt-out criteria, click [here](/health/shn/sdf)
 
 Click here to [Go Back To Top](#top).
 
+
 <div id="nebuliser"></div>
+
 
 ## Travellers who require the use of nebuliser
 
