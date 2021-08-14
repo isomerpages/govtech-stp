@@ -607,6 +607,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </table>
  
  Travellers who have paid for their on-arrival COVID-19 PCR test separately at the airport or land/sea checkpoints, please refer to the following:
+ 
 <table>
 <tbody>
   <tr>
@@ -615,7 +616,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
 			<ol style="font-size:18px; list-style-type: lower-roman;">
 				<li style="font-size:18px;">If they have a Safe Travel Concierge account with CAG: Login to the account, navigate to  ‘My Trips’ and choose the trip that they wish to cancel;</li>
 			<li style="font-size:18px;">If they do not have an account, they may wish to email to swabtest.refund@changiairport.com to request for assistance in cancellation and refunds.</li>
-			</ul>
+			</ol>
 		</td>
   </tr>
    <tr>
