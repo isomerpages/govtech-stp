@@ -558,6 +558,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 		</tr>
       </tbody>
   </table>
+  
 
 #### 3. How do I request a refund for my COVID-19 Polymerase Chain Reaction test (“PCR test’) as well as stay at the Stay-Home Notice (SHN) dedicated facility (SDF)?
 
@@ -627,7 +628,9 @@ Requests for refunds will only be considered if there are strong mitigating fact
 
 Click here to [Go Back To Top](#top).
 
+
 <div id="vaccinated"></div>
+
 
 ## Vaccinated Travellers intending to travel to Singapore
 
@@ -644,7 +647,9 @@ For more information on full SDF opt-out criteria, click [here](/health/shn/sdf)
 
 Click here to [Go Back To Top](#top).
 
+
 <div id="nebuliser"></div>
+
 
 ## Travellers who require the use of nebuliser
 
