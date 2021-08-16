@@ -2,7 +2,7 @@ collections:
   student-pass-holder-lane:
     output: true
     order:
+      - overview.md
       - requirements-and-process.md
       - travel-health-control-measures.md
       - application-user-guide.md
-      - overview.md
