@@ -2,7 +2,7 @@
 title: Overview
 permalink: /stpl/overview
 ---
-The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative   or fiancé/fiancée, should apply for entry via the SC/PR Familial Ties Lane . Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the Work Pass Holder General Lane .
+The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative   or fiancé/fiancée, should apply for entry via the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a> . Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the <a href="/wphl/overview">Work Pass Holder General Lane</a> .
 
 The table below provides a quick overview of the key STPHL features, requirements as well as application and entry instructions. Travellers who are not eligible for entry via the STPHL may return to this menu  to explore other Safe Travel options.
 
@@ -10,7 +10,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
+<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -75,7 +75,7 @@ The table below provides a quick overview of the key STPHL features, requirement
  </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -94,7 +94,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
 </tr>
 </thead>
 <tbody>
@@ -109,7 +109,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tbody>
 	<thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
