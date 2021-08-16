@@ -289,6 +289,11 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence is occupied by the helper/CN alone or household members who are also vaccinated and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 		</ol>
 </i><br/><br/>
+			<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: Helpers and CNs are <b>not allowed</b> to serve the 14-day SHN in hotels.  </i></td>
+</tr>
+	</table>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
