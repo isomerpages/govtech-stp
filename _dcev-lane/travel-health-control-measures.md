@@ -225,7 +225,7 @@ Please check the table below for the travel health control measures that apply d
 		<table>
 <tr>
 <td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><u><b><p style="color:red; font-size:16px;">From 20 Aug 2021, 2359hrs</p></b></u> 
-This set of measures is only applicable to fully vaccinated travellers who have received the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, please refer to the health measures at S/N 7 of this table.<br/><br/>Eligible travellers with travel history to these countries/regions who have yet to exit their SDF by <b>20 August 2021, 2359hrs</b>, may also apply to serve the remainder of their SHN at their place of residence or choice of accommodation.</td>
+This set of measures is only applicable to fully vaccinated travellers who have received the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least two weeks before arrival in Singapore. <br/><br/> If you do not meet the vaccinated criteria above, please refer to the health measures at S/N 7 of this table.<br/><br/>Eligible travellers with travel history to these countries/regions who have yet to exit their SDF by <b>20 August 2021, 2359hrs</b>, may also apply to serve the remainder of their SHN at their place of residence.</td>
 </tr>
 	</table>
 <ol style="margin-top:0px; list-style-type: decimal;">
@@ -242,11 +242,11 @@ This set of measures is only applicable to fully vaccinated travellers who have 
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at their place of residence or suitable accommodation of choice, if approved**, <u>and</u> take a COVID-19 PCR test on the last day of SHN.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at their place of residence, if approved**, <u>and</u> take a COVID-19 PCR test on the last day of SHN.</li>
 </ol>
 <p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>**</sup><i>Applications can be submitted <b>from 17 Aug onwards</b> <!--via <a href="https://go.gov.sg/scproptout">this form</a>--> . To qualify, the traveller must remain in any of the countries/regions listed at S/N 1 to 4 of this table for 21 consecutive days before arrival in Singapore <u>and</u> meet either conditions below.</i></p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying their respective places of residence or other suitable accommodation alone (i.e. no domestic helpers); or</i></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying their respective places of residence alone (i.e. no domestic helpers); or</i></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Only with household members with the same travel history and duration of SHN.</i></li>
 </ol>
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>

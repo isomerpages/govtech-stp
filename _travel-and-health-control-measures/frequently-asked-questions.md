@@ -615,13 +615,13 @@ Requests for refunds will only be considered if there are strong mitigating fact
 		<td style="border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 			<ol style="font-size:18px; list-style-type: lower-roman;">
 				<li style="font-size:18px;">If they have a Safe Travel Concierge account with CAG: Login to the account, navigate to  ‘My Trips’ and choose the trip that they wish to cancel;</li>
-			<li style="font-size:18px;">If they do not have an account, they may wish to email to swabtest.refund@changiairport.com to request for assistance in cancellation and refunds.</li>
+			<li style="font-size:18px;">If they do not have an account, they may wish to email to <a href="mailto:swabtest.refund@changiairport.com">swabtest.refund@changiairport.com</a> to request for assistance in cancellation and refunds.</li>
 			</ol>
 		</td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the land/sea checkpoints:</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;">Travellers may wish to directly email to Mr Francis Goh at francis.goh@parkwayshenton.com.sg for their refund or cancellation requests.
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;">Travellers may wish to directly email to <a href="mailto:francis.goh@parkwayshenton.com.sg">francis.goh@parkwayshenton.com.sg</a> for their refund or cancellation requests.
  </td>
   </tr>
  </tbody>
