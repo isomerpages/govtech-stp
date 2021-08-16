@@ -10,7 +10,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -75,7 +75,7 @@ The table below provides a quick overview of the key STPHL features, requirement
  </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -94,7 +94,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
 </tr>
 </thead>
 <tbody>
@@ -109,20 +109,21 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tbody>
 	<thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click here for the FAQ related to STPHL, or click the links below for specific queries on the following topics:
+<td style="font-size:16px;border-right:1px solid #D8D8D8;"><p style="font-size:16px; line-height: 1.5;">Click here for the FAQ related to STPHL, or click the links below for specific queries on the following topics:</p>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#vaccinated">Recovered and Vaccinated travellers </a></li>
-</ul>
+</ul>	
+<p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes.</p>
  </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Need help?</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">To extend your short-term pass, click <a href="https://eservices.ica.gov.sg/esvclandingpage/extend">here</a>.<br><br>If your questions are not addressed by the FAQs above, you can <a href="https://go.gov.sg/sto-enquiry">contact us</a>.
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">If your questions are not addressed by the FAQs above, you can submit your question <a href="https://go.gov.sg/sto-enquiry">here</a>.
  </td>
 </tr>
 </tbody>
