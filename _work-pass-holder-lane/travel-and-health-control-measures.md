@@ -161,7 +161,9 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">COVID-19 serology and PCR tests at the SDF within the first few days of arrival. <b>No registration is needed.</b> During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</td>
 </tr>
 				<tr>
-<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">SDF with her employer or employer’s family, or at a place of residence</td>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; "><ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF with her employer or employer’s family; or</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence</li></ol></td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 PCR test at the checkpoint ($160 including GST).<br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
 </tr>
@@ -218,7 +220,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td>
 </tr>
 	</table><br/>
-		<sup>#</sup> These groups of pass holders do not need to be vaccinated before entering Singapore:
+			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions. </li>
@@ -267,8 +269,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 </tr>
 				<tr>
 <td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; "><ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF with her employer or employer’s family, </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation</li></ol>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF with her employer or employer’s family; or </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence</li></ol>
 					</td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">On-arrival COVID-19 PCR test at the checkpoint ($160 including GST).<br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
@@ -277,16 +279,21 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="/health/shn">SHN</a> at:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">An SDF ($1,500 including GST) where the helper/CN will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
 		</ol>
 	</li>
 </ol>
-<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence or suitable accommodation, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
+<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence is occupied by the helper/CN alone or household members who are also vaccinated and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 		</ol>
 </i><br/><br/>
+			<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: Helpers and CNs are <b>not allowed</b> to serve the 14-day SHN in hotels.  </i></td>
+</tr>
+	</table>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
@@ -307,17 +314,26 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($2,000 including GST), where the pass holder will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
 	</ol>
 	</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN.</li>
 </ol>
-			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence or suitable accommodation, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
+			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
 			<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or accommodation  is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated and have the same travel history, arrival date and SHN duration as the pass holder. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holder does not stay in a dormitory. </li>
 	</ol><br/>
+			<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i><ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are <b>not allowed</b> to serve the 14-day SHN in hotels.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
+	</ol>
+	</td>
+</tr>
+	</table><br/>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
@@ -505,7 +521,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime"> additional 7-day stay and testing regime.</a>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status* within 14 days of completing SHN.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN.</li>
 </ol>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -587,7 +603,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime.</a>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status* within 14 days of completing SHN.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN.</li>
 </ol>
 		<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
