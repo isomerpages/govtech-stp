@@ -314,17 +314,26 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	An SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($2,000 including GST), where the pass holder will (a) self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival, and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
 	</ol>
 	</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN.</li>
 </ol>
-			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence or suitable accommodation, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
+			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence, instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
 			<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or accommodation  is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated and have the same travel history, arrival date and SHN duration as the pass holder. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holder does not stay in a dormitory. </li>
 	</ol><br/>
+			<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i><ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders are <b>not allowed</b> to serve the 14-day SHN in hotels.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Pass holders staying in dormitories are<b> not allowed</b> to serve SHN in a place of residence. They must serve their SHN in SDFs. </li>
+	</ol>
+	</td>
+</tr>
+	</table><br/>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
