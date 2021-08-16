@@ -10,7 +10,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -75,7 +75,7 @@ The table below provides a quick overview of the key STPHL features, requirement
  </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -99,13 +99,40 @@ The table below provides a quick overview of the key STPHL features, requirement
 			</th>
 		</tr>
 	</thead>
+	<tbody>
+		<tr>
+			<td>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>Siblings (of STP/STP-IPA holders) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution
+			</td>
+			<td rowspan="3">Applicants should submit an entry request here. In the request, please state the following:
+				<ol style="list-style-type: disc;">
+					<li>STP/STP-IPA holder’s name (per passport), institution and course</li>
+					<li>Name(s) of traveller(s) seeking entry, and their relationship with the STP/STP-IPA holder</li>
+				</ol>
+				<p><b>Submission of the request does not guarantee entry approval.</b></p>
+			</td>
+		</tr>
+		<tr>
+			<td>Spouse of STP/STP-IPA holder on a post-graduate programme
+			</td>
+		</tr>
+		<tr>
+			<td>Child(ren) of STP/STP-IPA holder on a post-graduate programme 
+			</td>
+		</tr>
+	</tbody>
 		</table>
 		
 </td>
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
 </tr>
 </thead>
 <tbody>
@@ -120,7 +147,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tbody>
 	<thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
