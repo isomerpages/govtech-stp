@@ -2,9 +2,9 @@
 title: Overview
 permalink: /stpl/overview
 ---
-The Singapore Citizen (SC) / Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel Lane that facilitates entry of immediate family members of SC/PRs, and PR in-principle approval holders into Singapore. SC/PRs may return to Singapore without the need for any Entry Approvals and may refer to [this page](/sc-pr/requirements-and-process) for more information instead.
+The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative   or fiancé/fiancée, should apply for entry via the SC/PR Familial Ties Lane . Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the Work Pass Holder General Lane .
 
-The table below is a quick overview of the key FTL features and requirements. Travellers and applicants who have been approved to travel to Singapore via the FTL should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for the full entry process. Travellers who are not eligible for entry via the FTL may return to <a href="/arriving/overview">this menu</a> to explore other Safe Travel options.
+The table below provides a quick overview of the key STPHL features, requirements as well as application and entry instructions. Travellers who are not eligible for entry via the STPHL may return to this menu  to explore other Safe Travel options.
 
 
 <table>
