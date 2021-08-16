@@ -54,7 +54,7 @@ Travellers should note that basic essentials such as portable water, cleaning su
 
 #### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN comes into effect **immediately** on the day of arrival in Singapore and ends after a negative [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) result is conveyed. [Click here](/shn-calculator) to calculate the end date of your SHN.
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect for 7 or 14 days (depending on 21-day travel history) until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. [Click here](/shn-calculator) to calculate the end date of your SHN.
 
 Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
 
