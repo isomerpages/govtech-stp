@@ -214,7 +214,7 @@ This set of measures is only applicable to fully vaccinated travellers who have 
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at their place of residence or suitable accommodation of choice, if approved**, <u>and</u> take a COVID-19 PCR test on the last day of SHN.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at their place of residence if approved**, <u>and</u> take a COVID-19 PCR test on the last day of SHN.</li>
 </ol>
 <p style= "font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>**</sup><i>Applications can be submitted <b>from 17 Aug onwards</b> <!--via <a href="https://go.gov.sg/scproptout">this form</a>--> . To qualify, the traveller must remain in any of the countries/regions listed at S/N 1 to 4 of this table for 21 consecutive days before arrival in Singapore <u>and</u> meet either conditions below.</i></p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
