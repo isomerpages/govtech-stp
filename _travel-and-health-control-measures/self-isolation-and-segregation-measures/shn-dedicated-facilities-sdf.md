@@ -78,7 +78,7 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
 </ol>
         <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must also satisfy either of the following conditions:</p>
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">occupying their respective places of residence or other suitable accommodation alone (i.e. <i>no domestic helpers</i>); or</li>
+<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">occupying their respective places of residence alone (i.e. <i>no domestic helpers</i>); or</li>
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">only with household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
 </ol>
          <p style="font-size:20px; margin-top:20px; margin-bottom:0px; line-height:1.5;">For Singapore Citizens(SCs) and Permanent Residents(PRs), application must be made three days prior to arrival via the <a href="https://safetravel.ica.gov.sg/">Safe Travel website</a>. Travellers who are not SCs or PRs may apply to opt out as part of the entry application process from 20 August 2021, 2359 hours onwards. All travellers must present the approval to opt out upon arrival in Singapore.</p>
