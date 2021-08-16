@@ -142,6 +142,7 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 
 
 
+	
 ### 5. Completion of Self-isolation/SHN
 
 Travellers under self-isolation or serving SHN at their own residence may leave their accommodation after a negative COVID-19 test result is conveyed. For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
