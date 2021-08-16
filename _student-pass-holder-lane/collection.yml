@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - overview.md
+      - application-user-guide.md
       - requirements-and-process.md
       - travel-health-control-measures.md
-      - application-user-guide.md
