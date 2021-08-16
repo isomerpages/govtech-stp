@@ -1,5 +1,6 @@
 ---
-title: PRE-DEPARTURE & ENTRY GUIDE
+title: Pre-Departure & Entry Guide
 permalink: /stpl/entry-guide
 ---
+
 
