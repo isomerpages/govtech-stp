@@ -14,7 +14,7 @@ Pass holders with travel history within the last 21 days before arrival to highe
   </li>
       <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Be able to <a href="#document">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. </li>
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status within 14 days of completing Stay-Home Notice (SHN).
-      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a PSAR-approved vaccine in Singapore within 2 months of the negative serology test result.</p>
+      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</p>
   </li>
   </ol>
 
