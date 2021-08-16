@@ -521,7 +521,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime"> additional 7-day stay and testing regime.</a>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status* within 14 days of completing SHN.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN.</li>
 </ol>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -603,7 +603,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime.</a>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status* within 14 days of completing SHN.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN.</li>
 </ol>
 		<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
