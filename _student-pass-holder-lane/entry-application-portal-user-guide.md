@@ -1,7 +1,8 @@
 ---
-title: Application User Guide 
+title: Entry Application Portal - User Guide
 permalink: /stpl/userguide
 ---
+
 
 Student’s Pass (STP) holders and eligible accompanying family members may apply for approval to enter Singapore [here](https://eservices.ica.gov.sg/STO/) (click on “Log in with Email Address”). 
 

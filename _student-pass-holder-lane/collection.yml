@@ -2,6 +2,8 @@ collections:
   student-pass-holder-lane:
     output: true
     order:
-      - requirements-and-process.md
+      - overview.md
       - travel-health-control-measures.md
-      - application-user-guide.md
+      - pre-departure-and-entry-guide.md
+      - entry-application-portal-user-guide.md
+      - frequently-asked-questions.md
