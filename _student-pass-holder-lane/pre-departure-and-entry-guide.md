@@ -2,7 +2,6 @@
 title: Pre-Departure & Entry Guide
 permalink: /stpl/entry-guide
 ---
-
 This guide is meant for travellers who have received their approval letters to travel to Singapore via the Student’s Pass (STP) Holder Lane. If you do not have an approval yet and need information on the eligibility and application process, click <a href="/stpl/overview">here</a> for the STP Holder lane overview page. 
 
 STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. family member, relative or fiancé/fiancée, should apply for entry via the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a>. Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the <a href="/wphl/overview">Work Pass Holder General Lane</a>.
@@ -25,7 +24,7 @@ Travellers requiring a PDT must take the test at an <a href="https://www.moh.gov
 </ol>
 
 
-B) <u>Submission of Declarations & Registration for On-Arrival COVID-19 Test</u>
+B) <u>Submission of Declarations &amp; Registration for On-Arrival COVID-19 Test</u>
 
 Travellers who are fit for travel must:
 
@@ -34,7 +33,7 @@ Travellers who are fit for travel must:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a></li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"> <p id="payment> Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (register <a href="https://t.2c2p.com/express/parkwayshenton">here</a>)</p></li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (register <a href="https://t.2c2p.com/express/parkwayshenton">here</a>)</li>
 </ol>
 
 Travellers should also activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications in their mobile phones. These applications are necessary to facilitate SHN compliance checks and contact tracing.
@@ -59,7 +58,7 @@ Depending on the traveller’s 21-day travel history, they will receive their SH
 
 B) <u>COVID-19 Tests</u>
 
-Travellers must take their on-arrival COVID-19 test(s) and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not <a href="#payment">pay for their test(s) before arrival</a>, will pay on the spot.
+Travellers must take their on-arrival COVID-19 test(s) and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not <a href="#SGAC">pay for their test(s) before arrival</a>, will pay on the spot.
 
 C) <u>Transport to Self-Isolation/SHN accommodation</u>
 
@@ -74,7 +73,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -84,9 +83,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
 </tr>
-<!--<tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
-</tr>-->
+
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SDF transport provided, no booking required</td>
@@ -135,7 +132,7 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, and COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td colspan="2" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;" colspan="2"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
@@ -148,4 +145,3 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 Travellers under self-isolation or serving SHN at their own residence may leave their accommodation after a negative COVID-19 test result is conveyed. For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
 
 Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app, which allows the identification of close contacts of a positive COVID-19 case.
-
