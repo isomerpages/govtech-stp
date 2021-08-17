@@ -17,10 +17,10 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore and are three years old and above (in this calendar year) are required to present a valid negative PDT result for entry. Travellers are only exempted from this requirement, if they have stayed in a low-risk country/region for <u>21 consecutive days</u> before departure for Singapore. Click <a href="/stpl/shn-and-swab-summary">here</a> to find out if a pre-departure test (PDT) is required, and the required lead time (i.e. 48 or 72 hours before departure) before travelling to Singapore.
 
 Travellers requiring a PDT must take the test at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and  ensure that the PDT:
-<ol style="margin-top:20px; list-style-type: lower-roman;">
-<li style="margin-top:25px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
-<li style="margin-top:25px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-<li style="margin-top:25px; margin-bottom:30px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li>
+<ol style="padding-left:30px; margin-top:40px; list-style-type: lower-roman;">
+<li style="margin-top:40px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="margin-top:40px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
+<li style="margin-top:40px; margin-bottom:80px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li>
 </ol>
 
 
@@ -31,9 +31,9 @@ Travellers who are fit for travel must:
 
 <div id="SGAC"></div>
 
-<ol style="margin-top:25px; list-style-type: lower-roman;">
+<ol style="padding-left:30px; margin-top:25px; list-style-type: lower-roman;">
 <li style="margin-top:25px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a></li>
-<li style="margin-top:25px; margin-bottom:25px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (register <a href="https://t.2c2p.com/express/parkwayshenton">here</a>)</li>
+<li style="margin-top:40px; margin-bottom:25px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (register <a href="https://t.2c2p.com/express/parkwayshenton">here</a>)</li>
 </ol>
 
 Travellers should also activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>, <a href="https://www.homer.gov.sg/">Homer</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications in their mobile phones. These applications are necessary to facilitate SHN compliance checks and contact tracing.
@@ -73,7 +73,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -132,7 +132,7 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, and COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td colspan="2" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;" colspan="2"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
