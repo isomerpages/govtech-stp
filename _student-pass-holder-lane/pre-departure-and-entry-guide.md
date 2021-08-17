@@ -1,7 +1,8 @@
 ---
 title: Pre-Departure & Entry Guide
-permalink: /stpl/entry-guide
+permalink: /stpl/requirements-and-process
 ---
+
 This guide is meant for travellers who have received their approval letters to travel to Singapore via the Student’s Pass (STP) Holder Lane. If you do not have an approval yet and need information on the eligibility and application process, click <a href="/stpl/overview">here</a> for the STP Holder lane overview page. 
 
 STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. family member, relative or fiancé/fiancée, should apply for entry via the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a>. Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the <a href="/wphl/overview">Work Pass Holder General Lane</a>.
