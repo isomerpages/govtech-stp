@@ -33,7 +33,7 @@ Employers may highlight to their employees that the travel restrictions implemen
 
 To bring your employee into Singapore on another date, please submit a new entry application for him/her to enter Singapore on another date. 
 
-For us to consider a refund of the entry approval charges for the previous application, please submit a request to cancel the entry approval: 
+For us to consider a refund of the entry charges for the previous application, please submit a request to cancel the entry approval: 
 
 <table>
  <thead>
@@ -45,23 +45,23 @@ For us to consider a refund of the entry approval charges for the previous appli
   </thead>
 	 <tbody>
 	 <tr>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Foreign Domestic Worker & Confinement Nannies</td>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 5 days before the planned arrival date </td>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Helpers &amp; Confinement nannies</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">At least 5 days before the approved arrival date </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a></td>
     </tr>
 		 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a></td>
     </tr>
 		 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other Pass holders who have been approved for entry via the WPHL</td>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 7 days before the planned arrival date  </td>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-entry-approval">here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">At least 7 days before the approved arrival date  </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-entry-approval">here</a></td>
     </tr>
 		 	 <tr>
 				  <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;"><ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-						<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Work Holiday Pass Holder</li>
+						<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Work Holiday Pass holder</li>
 												<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">Personalised Employment Pass holder (without employer) and their dependants</li>
-												<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">EntrePass Holder (without Corppass) and their dependants</li>
+												<li style="margin-top:0px; margin-bottom:0px; font-size:20px; line-height:1.5;">EntrePass holder (without Corppass) and their dependants</li>
 						</ol></td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="http://www.mom.gov.sg/cancel-entry-individual">here</a></td>
     </tr>
@@ -74,15 +74,15 @@ In general, all pre-payments made for the cost of the Stay-Home Notice Dedicated
 
 Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
 
-#### 6. I am an employer of a Foreign Domestic Worker/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the entry approval responsibilities (e.g. arranging for my FDW or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
+#### 6. I am an employer of a helper/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
 
-You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to fulfil the entry approval responsibilities.
+You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to fulfil the travel health control measures.
 
 #### 7. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
 
-No, employers/applicants are required to submit the Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. 
+No, employers/applicants are required to submit the Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. 
 
-If an employee does not have a Singapore-registered mobile number, employers may enquire with the relevant telcos on the purchase of prepaid SIM cards. When the employee arrives in Singapore, please arrange for the SIM card to be delivered to him/her. 
+If an employee does not have a Singapore-registered mobile number, employers may enquire with the relevant telcos companies on the purchase of prepaid SIM cards. When the employee arrives in Singapore, please arrange for the SIM card to be delivered to him/her. 
 
 <a href="#top">Click here to return to the top.</a>
 
@@ -106,21 +106,19 @@ We will email you the outcome within 2 weeks. A $40 extension fee will be charge
 
 We advise employers to submit a new work pass application for such employees after the situation stabilises. 
 
-#### 4. Can employers get a levy waiver for their Foreign Domestic Worker, Work Permit or S Pass holder who are required to serve SHN upon their arrival to Singapore? 
+#### 4. Can employers get a levy waiver for their helpers, Work Permit or S Pass holder who are required to serve SHN upon their arrival to Singapore? 
 
-MOM will waive foreign worker levies for all Foreign Domestic Workers, Work Permit and S Pass holders and Work Permit holders for the duration of their SHN from January till September 2021. This is to help employers manage the increased costs associated with the Government’s updated measures to reduce the risk of importing COVID-19 into the community. Please refer to MOM’s [press release](https://mom.gov.sg/newsroom/press-releases/2021/0401-waiver-of-fwl-for-migrant-workers-and-migrant-domestic-workers-during-their-shn) for more information. 
+MOM will waive the levies for all helpers, Work Permit and S Pass holders for the duration of their SHN from January till September 2021. This is to help employers manage the increased costs associated with the Government’s updated measures to reduce the risk of importing COVID-19 into the community. Please refer to MOM’s [press release](https://mom.gov.sg/newsroom/press-releases/2021/0401-waiver-of-fwl-for-migrant-workers-and-migrant-domestic-workers-during-their-shn) for more information. 
  
-#### 5. Can employers get a levy waiver for Work Permit, S Pass holders or Foreign Domestic Workers who have returned home or gone on overseas leave?
+#### 5. Can employers get a levy waiver for helpers, Work Permit or S Pass holders who have returned home or gone on overseas leave?
 
 For employees on home or overseas leave, employers can [apply for levy waiver](https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer) (for up to 60 days) **when the employees return to Singapore**.
 
-#### 6. Must I still pay my FDW salary while she is serving her Stay-Home Notice (SHN)?
+#### 6. Must I still pay my helper salary while she is serving her Stay-Home Notice (SHN)?
 
-For new FDWs, you must start paying her salary once she is deployed to your house after her SHN.
+For new helpers, you must start paying them salary once they are deployed to your house after SHN.
 
-For existing FDWs returning from overseas, you must continue paying her salary once she returns to Singapore.
-
-<!--Click here for more queries relating to MOM-issued pass applications, validity extensions and levies.-->
+For existing helpers returning from overseas, you must continue paying them salary once they return to Singapore.
 
 <a href="#top">Click here to return to the top.</a>
 
@@ -132,15 +130,15 @@ Please refer to the FAQ for recovered travellers [here](/health/faq#pcrtestQ5).
 
 #### 2. My employee is required to take a COVID-19 test in Singapore as part of the entry requirements. How do I arrange for the test and do I need to pay?
 
-You would be required to pay for the COVID-19 test and other entry approval charges during the entry application. Employers do not need to arrange for the COVID-19 test administered during their SHN for their employees. These appointments are scheduled automatically, and pass holders would receive the appointment details as an SMS. 
+You would be required to pay for the COVID-19 test and other entry charges during the entry application. Employers do not need to arrange for the COVID-19 test administered during their SHN for their employees. These appointments are scheduled automatically, and pass holders would receive the appointment details as an SMS. 
 
 For the on-arrival COVID-19 test, employers will need to book and pay for them. 
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
 Presently, only the following categories of workers are required to take a Serology test in Singapore:
-- Confinement nannies arriving in Singapore from high-risk countries/regions
-- Foreign Domestic Workers arriving in Singapore from high-risk countries/regions
+- Confinement nannies arriving in Singapore from higher-risk countries/regions
+- Helpers arriving in Singapore from higher-risk countries/regions
 - Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors who are arriving in Singapore from high-risk countries/regions
 
 Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
@@ -210,20 +208,20 @@ Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-ques
   </thead>
 	 <tbody>
 	 <tr>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Existing work pass holders returning from overseas</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Existing work pass holders returning from overseas</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Left Singapore for work</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Employers must bear the costs in full and are not allowed to pass on any cost to the employees.</td>
     </tr>
 		 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Left Singapore for personal reasons</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Employers and employees should come to a mutual agreement on who bears the costs or how to share them.  <br/><br/>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Employers and employees should come to a mutual agreement on who bears the costs or how to share them.  <br><br>
 This also applies to employees coming in under the <a href="/pca/overview">Periodic Commuting Arrangement (PCA) scheme.</a>
 </td>
     </tr>
 		  <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">New work pass holders on in-principle approvals</td>
 				      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Plan to enter Singapore for employment</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">For Work Permit holders, employers must bear the costs in full and are not allowed to pass on any cost to the employees.  <br/><br/>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">For Work Permit holders, employers must bear the costs in full and are not allowed to pass on any cost to the employees.  <br><br>
 For other work passes, employers and employees should come to a mutual agreement on who bears the costs or how to share them.
 </td>
     </tr>
