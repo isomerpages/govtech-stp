@@ -22,7 +22,7 @@ Should you still encounter the error message after trying the above, please subm
 <ol style="list-style-type:decimal;">
 <li>screenshot of the application details and error message;</li>
 <li>STP-IPA letter; and</li> 
-<li>Pass</li>
+<li>Passport biodata page</li>
 </ol>
 
 #### 3. I have obtained an entry approval, but I would like to change the validity period.
