@@ -45,8 +45,8 @@ For us to consider a refund of the entry charges for the previous application, p
   </thead>
 	 <tbody>
 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Helpers &amp; Confinement nannies</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">At least 5 days before the approved arrival date </td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helpers &amp; Confinement nannies</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 5 days before the approved arrival date </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a></td>
     </tr>
 		 	 <tr>
@@ -54,7 +54,7 @@ For us to consider a refund of the entry charges for the previous application, p
     </tr>
 		 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other Pass holders who have been approved for entry via the WPHL</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">At least 7 days before the approved arrival date  </td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 7 days before the approved arrival date  </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-entry-approval">here</a></td>
     </tr>
 		 	 <tr>
@@ -139,11 +139,11 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 Presently, only the following categories of workers are required to take a Serology test in Singapore:
 - Confinement nannies arriving in Singapore from higher-risk countries/regions
 - Helpers arriving in Singapore from higher-risk countries/regions
-- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors who are arriving in Singapore from high-risk countries/regions
+- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors who are arriving in Singapore from higher-risk countries/regions
 
 Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
 - [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
-- [Email MOM](mailto:ace_mom@mom.gov.sg) for Confinement nannies and Foreign Domestic Workers 
+- [Email MOM](mailto:ace_mom@mom.gov.sg) for confinement nannies and helpers 
 
 #### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
 
@@ -165,9 +165,9 @@ Travellers and employers should note that non-compliance with the SHN conditions
 
 In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) or Serology test. Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
 
-#### 2. Is my Foreign Domestic Worker/Confinement Nanny allowed to share rooms at the Stay-Home Notice Dedicated Facility (SDF)? Where can I submit the room sharing application?
+#### 2. Is my helper/confinement nanny allowed to share rooms at the Stay-Home Notice Dedicated Facility (SDF)? Where can I submit the room sharing application?
 
-Employers may request for a shared room on behalf of their employees when applying for an Entry Approval. However, employers should advise their employees on the health risks involved in a room sharing arrangement, which could result in increased risk of infection and attract additional charges, e.g. medical treatment.
+Employers may request for a shared room on behalf of their employees during the entry application. However, employers should advise their employees on the health risks involved in a room sharing arrangement, which could result in increased risk of infection and attract additional charges, e.g. medical treatment.
 
 Should your employee acknowledge the health risks but continue to express interest on sharing rooms, employers should provide their employees with an indemnity form for completion and signing. These forms are available below, and employers are encouraged to provide their employees with a form in a language familiar to them.
 - Bahasa Indonesia
@@ -181,7 +181,7 @@ Should your employee acknowledge the health risks but continue to express intere
 - Tamil
 
 Employers should remind their employees to present the following documents to the SDF operator during check-in, who will then facilitate the room sharing arrangement:
-- Entry Approval Letter
+- Entry approval Letter
 - Completed and signed indemnity form (your employee may ask for a blank indemnity form from the SDF if they forget to print a copy). 
 
 <a href="#top">Click here to return to the top.</a>
@@ -192,11 +192,11 @@ Employers should remind their employees to present the following documents to th
 
 ### Payment, Cost-sharing Matters and Refunds
 
-#### 1. My Confinement Nanny/Foreign Domestic Worker had contracted COVID-19 from her roommate while serving her Stay-Home Notice (SHN) upon arrival in Singapore. Who is responsible for the cost of her medical treatment? 
+#### 1. My helper/confinement nanny had contracted COVID-19 from her roommate while serving her Stay-Home Notice (SHN) upon arrival in Singapore. Who is responsible for the cost of her medical treatment? 
 
 Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/eligible-claims-and-medical-benefits#who-is-responsible-for-paying-for-the-pass-holders-covid-19-treatment) for more information.
 
-#### 2. Who is responsible for the costs of the employee’s entry approval charges, including COVID-19 tests, transport and SHN accommodation, as applicable? 
+#### 2. Who is responsible for the costs of the employee’s entry charges, including COVID-19 tests, transport and SHN accommodation, as applicable? 
 
 <table>
  <thead>
@@ -208,7 +208,7 @@ Employers may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-ques
   </thead>
 	 <tbody>
 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Existing work pass holders returning from overseas</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Existing work pass holders returning from overseas</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Left Singapore for work</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Employers must bear the costs in full and are not allowed to pass on any cost to the employees.</td>
     </tr>
@@ -252,7 +252,7 @@ We understand these measures are difficult for employers and seek understanding 
 
 #### 2. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
 
-Pass holders who are vaccinated with the full regimen of [PSAR-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. 
+Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. 
 
 Pass holders who took other types of vaccines will not meet the entry requirements. Thus, please **do not** submit entry applications for them.
 
@@ -270,10 +270,10 @@ No, pass holders need to obtain an approval from Ministry of Manpower (MOM) to b
 
 #### 6. My pass holder does not wish to send his/her child (aged 12 years old to below 18 years old) for the COVID-19 vaccination in Singapore. Can the child be exempted?
 
-Unvaccinated children who are 12 years old to below 18 years old on date of entry must get their first vaccination in Singapore using a [Pandemic Special Access Route (PSAR)-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival.
+Unvaccinated children who are 12 years old to below 18 years old on date of entry must get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival.
 
 However, if the child cannot be vaccinated due to medical conditions, please get a doctor’s memo which must meet all these requirements:
-- States child’s medication condition 
+- States child’s medical condition 
 - States reason why the child cannot take any COVID-19 vaccinations, regardless of the brand of vaccine 
 - Is clear and not handwritten
 - (Only applicable if memo is not in English) Is accompanied with an English-translated copy from a translation service provider
@@ -284,13 +284,13 @@ Please produce the memo when requested by the authorities.
 
 No, the pass holder cannot enter Singapore yet. 
 
-Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**. 
+Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses must be completed using the same brand and taken based on recommended intervals between each dose. 
 
 Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
 
 #### 8. My pass holder is fully vaccinated and took a serology test with Ministry of Health’s designated healthcare provider. However, the serology test result was negative or inconclusive. What happens next?
 
-The pass holder will have to complete the full vaccination regime using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 3 months of arrival in Singapore. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
+The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
 
 #### 9. My pass holder has an approval to enter Singapore. However, Ministry of Manpower (MOM) informed me that his/her entry will have to be delayed. I understand MOM will email me when to bring him/her in. Does he/she need to be fully vaccinated before arrival?
 
