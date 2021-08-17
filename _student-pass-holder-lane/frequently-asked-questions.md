@@ -43,24 +43,26 @@ In the meantime, you may wish to seek advice from your university/ school on you
 
 #### 5. I am a STP/STP-IPA holder, and cannot find an entry date in the STO portal. I would like to appeal for entry as my school term has started/ is starting soon.
 
-In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). 
+In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China and New Zealand). 
 
 We understand that the new academic year may have started or may be starting soon. However, we are currently unable to accede to any entry appeals due to the border restrictions that are in place. 
 
 Please try applying via the <a href="https://eservices.ica.gov.sg/STO">SafeTravel application portal</a> again early next week, when the next available entry dates open up for applications. In the meantime, you may also wish to seek advice from your university/ school on your academic matters.
 
 #### 6.  I am a Student’s Pass holder in a post-graduate programme. Can my spouse and children seek entry approval via the Student’s Pass Holder Lane (STPHL) as well?
-In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Australia, Brunei, Hong Kong, Macao, Mainland China and New Zealand). 
+In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China and New Zealand). 
 
-If your 21-day travel history includes only Australia, Brunei, Hong Kong, Macao, Mainland China or New Zealand, you may submit an entry appeal for your spouse and children <a href="https://go.gov.sg/sto-enquiry">here</a>. 
+If your 21-day travel history includes only  Brunei, Hong Kong, Macao, Mainland China or New Zealand, you may submit an entry appeal for your spouse and children <a href="https://go.gov.sg/sto-enquiry">here</a>. 
 
 If your 21-day travel history includes a higher-risk country/region, we advise you to apply for entry approval for yourself to enter Singapore first, via <a href="https://eservices.ica.gov.sg/STO">this link</a>. When the COVID-19 situation has stabilised, you may then apply for your family to enter.
 
 #### 7. I would like appeal for an Entry Approval for my child and I to enter Singapore so that he/she can sit for tests conducted as part of the Admissions Exercise for International Students (AEIS).
 
-Entry approval will not be issued for applicants to sit for the AEIS tests.  Applications for AEIS tests should only be submitted after entry approval via one of the <a href="/arriving/overview">SafeTravel Lanes is obtained</a>.
+Entry approval will not be issued for applicants to sit for the AEIS tests.  
 
-If you have a Student’s Pass (STP) or Student’s Pass In-Principle Approval (STP-IPA), you may apply for entry through the Student’s Pass Holder’s Lane (STPHL) via the <a href="https://eservices.ica.gov.sg/STO">SafeTravel portal</a>.
+Travellers seeking to enter Singapore should ensure they are eligible for entry via one of the <a href="/arriving/overview">SafeTravel Lanes</a>.
+
+Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA) holders and [eligible family members](/stphl/requirements-and-process) may apply for entry through the Student's Pass Holder's Lane (STPHL).
 
 #### 8. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
 
