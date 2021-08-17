@@ -9,21 +9,21 @@ The table below provides a quick overview of the key STPHL features, requirement
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; margin-bottom:0px; font-size:16px;">
-			 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Student’s Pass (STP) holder</li>
-			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">STP In-Principle Approval (STP-IPA) holder
+			 <li style="font-size:16px;margin-top:px; margin-bottom:0px; line-height:1.5;">Student’s Pass (STP) holder</li>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">STP In-Principle Approval (STP-IPA) holder
 </li>
-			  <li style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">ICA-issued pass holder (e.g. Long-Term Visit Pass) or short-term visitor who is a parent/guardian of an STP/STP-IPA holder aged 19 years and below (in this calendar year ).  <i>[<u>Note</u>: A maximum of one parent/guardian is allowed per family unit.]</i>
+			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA-issued pass holder (e.g. Long-Term Visit Pass) or short-term visitor who is a parent/guardian of an STP/STP-IPA holder aged 19 years and below (in this calendar year ).  <i>[<u>Note</u>: A maximum of one parent/guardian is allowed per family unit.]</i>
 			 </li>
-			  <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Siblings (of STP/STP-IPA holders ) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution</li>
-			 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Spouse of STP/STP-IPA holder on post-graduate programme</li>
-			 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Child(ren) of STP/STP-IPA holder on post-graduate programme </li>
+			  <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Siblings (of STP/STP-IPA holders ) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution</li>
+			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Spouse of STP/STP-IPA holder on post-graduate programme</li>
+			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Child(ren) of STP/STP-IPA holder on post-graduate programme </li>
 			 </ol>
 			 </td>
 	</tr>
@@ -74,7 +74,7 @@ The table below provides a quick overview of the key STPHL features, requirement
  </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -114,7 +114,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 		<tr>
 			<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Siblings (of STP/STP-IPA holders) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution
 			</td>
-			<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;" rowspan="3">Applicants should submit an entry request <a href="https://go.gov.sg/sto-enquiry">here</a>. In the request, please state the following:
+			<td rowspan="3" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Applicants should submit an entry request <a href="https://go.gov.sg/sto-enquiry">here</a>. In the request, please state the following:
 				<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type: disc;">
 					<li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">STP/STP-IPA holder’s name (per passport), institution and course</li>
 					<li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Name(s) of traveller(s) seeking entry, and their relationship with the STP/STP-IPA holder</li>
@@ -136,7 +136,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
 </tr>
 </thead>
 <tbody>
@@ -151,7 +151,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tbody>
 	<thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
