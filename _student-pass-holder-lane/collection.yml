@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - pre-departure-and-entry-guide.md
       - travel-health-control-measures.md
+      - pre-departure-and-entry-guide.md
       - entry-application-portal-user-guide.md
       - frequently-asked-questions.md
