@@ -208,7 +208,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
+		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -218,7 +218,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
+		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -298,7 +298,7 @@ Short term visitors are required to download and register their profile on the T
 		</td>
 	</tr>
 							<tr>
-		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of Departure to Singapore</b>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
 </td>
 	</tr>
 							<tr>
@@ -326,6 +326,62 @@ Short term visitors are required to download and register their profile on the T
 							<b>Important:</b> Travellers who do not have any of the above may be refused entry into Singapore by ICA.
 </i>
 		</p></td>
+	</tr>
+	</tbody>
+	</table>
+	
+### 4. Arrival in Singapore
+
+<table>
+	<tbody>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Upon arrival in Changi Airport</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+Travellers who need to purchase Singapore dollars or SIM cards, or rent mobile phones, must do so in the airport transit area <u><b>prior to clearing arrival immigration</b></u>. This is because travellers are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on <i>"Transport from airport to accommodation"</i> below.
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+At arrival immigration in Singapore, all travellers must present to the ICA officer:
+							<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
+												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid vaccination certificate (electronic or physical copy);</li>				
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>				
+											 		 				 <li style="margin-top:5px; margin-bottom:10px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>				
+											 </ol>
+											 </li>	
+					</ol>
+		In addition, short-term visitors must present:
+						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid visa (for visa-required passport holders);</li>			
+									 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and.</li>
+																	 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app* (or a TraceTogether token for those eligible to be issued with a token)</li>			
+																	 </ol>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i>*Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app. <br><br>
+							<b>Important:</b> Travellers who do not have any of the above may be refused entry into Singapore by ICA.
+</i>
+		</p>
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transportation from airport to accommodation</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p>
+		</td>
+	</tr>
+					<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+The results of the on-arrival COVID-19 PCR test will likely be available within 24 hours. Once travellers have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are responsible for their medical expenses should they require medical treatment for COVID-19 while in Singapore.</p>
+		</td>
 	</tr>
 	</tbody>
 	</table>
