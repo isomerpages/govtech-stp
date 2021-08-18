@@ -1,4 +1,5 @@
 collections:
   vaccinated-travel-lane:
     output: true
-    order: []
+    order:
+      - requirements-and-process.md
