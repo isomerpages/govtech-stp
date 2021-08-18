@@ -32,14 +32,19 @@ Please click on the relevant links below for more information about the ATP.
      <!-- <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
       <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>-->
-    <td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass suspended. Click<a href="/brunei/atp/notice"> here</a> for more details.</td>
+    <td colspan="3" style="text-align:center;border-right:1px solid #D8D8D8;">Air Travel Pass suspended. Click <a href="/brunei/atp/notice"> here</a> for more details.</td>
   </tr>
   <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Hong Kong</b></td>
-    <td style="text-align:center;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;" colspan="3">Air Travel Bubble launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</td>
-     <!-- <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/hongkong/atb/visitingsg">Click here</a></td>
-      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="/hongkong/atb/terms-and-conditions">Click here</a></td>
-      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="/hongkong/atb/visitingsg-faq">Click here</a></td>-->
+    <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
+      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
+      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>
+  </tr>
+	 <tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Macao</b></td>
+    <td style="text-align:center;border-right:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Click here</a></td>
+      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="/atp/conditions">Click here</a></td>
+      <td style="text-align:center; border-right:1px solid #D8D8D8;"><a href="/atp/faq">Click here</a></td>
   </tr>
     <tr>
     <td rowspan="2" style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (excluding Jiangsu province)
