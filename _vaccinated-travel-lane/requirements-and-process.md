@@ -10,3 +10,44 @@ Singapore Citizens and Permanent Residents do not need to apply for a VTP to tra
 
 ### Overview of VTL Requirements for Short-Term Visitors and Long-Term Pass Holders
 
+<table>
+	<thead>
+		<tr>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b></b> </th>
+			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Requirements</b></th>
+			  <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Short Term Visitors</b></th>
+			  <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Long Term Pass Holders</b></th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Vaccination Status</td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		Travellers must be fully vaccinated.<br>
+i.e. they must have received and completed the full regimen of the <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>(Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore.
+</td>
+				   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		</td>
+				   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/requirements-and-process"></a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				</td>
+						   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		</td>
+						   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				</td>
+						   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		</td>
+						   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		</td>
+	</tr>
+	</tbody>
+	</table>
