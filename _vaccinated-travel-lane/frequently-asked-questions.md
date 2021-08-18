@@ -150,8 +150,8 @@ For (A) and (B), please see sample screenshots below:
 </thead>
 <tbody>
 <tr>
-<td><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
-<td><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
+<td><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
+<td><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
 </tr>
 </tbody>
 </table>
@@ -169,7 +169,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img style="width:179px; height:318px;" src="/images/Vaccination QR code.png">
+<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -352,10 +352,7 @@ To expedite the COVID-19 PCR test at the airport, travellers should pre-book and
 After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. The traveller may proceed to the taxi stand or call any of the service providers below to book a taxi.
 
 The designated taxi operators are:
-
-
-      &nbsp;
-      &nbsp;<table>
+<table>
   <thead>
     <tr>
       <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Service Provider and Contact Number</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Contact Number* / Mobile Application</th>
@@ -586,8 +583,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
   </table>
@@ -606,7 +603,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
