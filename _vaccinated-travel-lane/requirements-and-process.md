@@ -208,7 +208,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
+		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -218,7 +218,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
+		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -298,7 +298,7 @@ Short term visitors are required to download and register their profile on the T
 		</td>
 	</tr>
 							<tr>
-		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of Departure to Singapore</b>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
 </td>
 	</tr>
 							<tr>
@@ -462,21 +462,15 @@ For the full requirements and conditions governing the use of TraceTogether, ple
 																	 </ol>
 <p></p>
 			  
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends here before departing for Singapore.
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.
 </i></p>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.</i></p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>
-Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app . Those who are unable to present a booking confirmation may be refused boarding by the airline.</i></p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. Those who are unable to do so may be denied entry into Singapore by ICA.</i></p>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>
-2 Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i></p>
+Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app . <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b></i></p>
 
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to do so may be denied entry into Singapore by ICA.</b></i></p>
 
-
-
-
-
-
-
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>
+	<sup>2</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i></p>
