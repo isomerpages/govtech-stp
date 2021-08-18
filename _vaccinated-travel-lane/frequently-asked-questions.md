@@ -40,15 +40,60 @@ To be considered fully vaccinated, travellers must have received and completed t
 #### 2. What is the minimum number of days required between 2 doses of vaccines?
 The table below shows the minimum interval between 2 doses of vaccines for vaccinations to be considered valid.
 
-Manufacturer	Name of Vaccine 	Doses	Minimum Interval between 2 doses
-Pfizer/BioNTech	BNT162b2/COMIRNATY
-Tozinameran (INN)	2 doses 	17 days 
-Moderna	mRNA-1273	2 doses	24 days  
-Astrazeneca	AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)	2 doses 	24 days
-Serum Institute of India	Covishield (ChAdOx1_nCoV-19)	2 doses 	
-Janssen	Ad26.COV2.S	1 dose 	NA
-Sinopharm	SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV)	2 doses 	17 days
-Sinovac 	COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM	2 doses 	13 days
+<table>
+<thead>
+<tr>
+<th>Manufacturer</th>
+<th>Name of Vaccine</th>
+<th>Doses</th>
+<th>Minimum Interval between 2 doses</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pfizer/BioNTech</td>
+<td>BNT162b2/COMIRNATY<br>Tozinameran (INN)</td>
+<td>2 doses</td>
+<td>17 days</td>
+</tr>
+<tr>
+<td>Moderna</td>
+<td>mRNA-1273</td>
+<td>2 doses</td>
+<td>24 days</td>
+</tr>
+<tr>
+<td>Astrazeneca</td>
+<td>AZD1222-Vaxzeveria<br>(ChAdOx1_nCoV-19)</td>
+<td>2 doses</td>
+<td>24 days</td>
+</tr>
+<tr>
+<td>Serum Institute of India</td>
+<td>Covishield<br>(ChAdOx1_nCoV-19)</td>
+<td>2 doses</td>
+<td>24 days</td>
+</tr>
+<tr>
+<td>Janssen</td>
+<td>Ad26.COV2.S</td>
+<td>1 dose</td>
+<td>NA</td>
+</tr>
+<tr>
+<td>Sinopharm</td>
+<td>SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV)</td>
+<td>2 doses</td>
+<td>17 days</td>
+</tr>
+<tr>
+<td>Sinovac</td>
+<td>COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM</td>
+<td>2 doses</td>
+<td>13 days</td>
+</tr>
+</tbody>
+</table>
 
 #### 3. Are children who are not vaccinated or persons who are medically unfit to be to be vaccinated allowed to travel under the VTL scheme?
 
