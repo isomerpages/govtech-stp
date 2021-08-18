@@ -26,9 +26,7 @@ permalink: /vtl/faq
 <div id="VTLReq"></div>
 
 ### Vaccinated Travel Lane (VTL) Requirements
-
 ### (a) Vaccination Requirement
-
 <p id="VacReq"><i>For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a>.</i></p>
 
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
