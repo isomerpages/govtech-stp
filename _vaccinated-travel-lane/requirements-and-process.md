@@ -99,8 +99,12 @@ i.e. they must have received and completed the full regimen of the <a href="http
 		</td>
 	</tr>
 							<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b></b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Self-isolation Accommodation</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result. <p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The types of accommodation for self-isolation are:</p>
+				 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>				 
+				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">non-residential accommodation (i.e. hotel or serviced apartment).</li>				 
+				 </ol>
 				</td>
 				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
 		</td>
