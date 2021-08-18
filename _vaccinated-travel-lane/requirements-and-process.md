@@ -105,24 +105,7 @@ i.e. they must have received and completed the full regimen of the <a href="http
 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>				 
 				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">non-residential accommodation (i.e. hotel or serviced apartment).</li>				 
 				 </ol>
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-							<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b></b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-							<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b></b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p>
 				</td>
 				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
 		</td>
@@ -131,3 +114,13 @@ i.e. they must have received and completed the full regimen of the <a href="http
 	</tr>
 	</tbody>
 	</table>
+	
+### 1. Vaccinated Travel Pass (VTP) Application
+
+#### Eligibility
+
+Fully vaccinated travellers* who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
+- Brunei Darussalam
+- Germany
+
+Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here]() for more information on the requirements.
