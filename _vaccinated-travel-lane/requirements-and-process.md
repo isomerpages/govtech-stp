@@ -168,8 +168,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 (if required)
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Visitors, who require a visa to enter Singapore, must separately obtain a valid visa. Visitors are advised to do so after receiving their VTP approval and before departing for Singapore. Such visitors are encouraged to apply for their VTP early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.
-</p>
+															Visitors, who require a visa to enter Singapore, must separately obtain a valid visa. Visitors are advised to do so after receiving their VTP approval and before departing for Singapore. Such visitors are encouraged to apply for their VTP early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.
 </p>
 		</td>
@@ -184,8 +183,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing"> internationally accredited or recognised laboratory, clinic, or medical facility</a>.
-</p>
+															Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing"> internationally accredited or recognised laboratory, clinic, or medical facility</a>.
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">A test result certificate must be obtained in English stating the following:
 </p>
 							 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
@@ -195,5 +193,47 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test.</li>	
 				 </ol>
 		</td>
-	</tr></tbody>
+	</tr>
+		<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Designated VTL flight</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Book a ticket on a designated VTL flight. Please refer to the respective airlines’ websites for details. 
+					<br>
+					<table>
+						<thead>
+		<tr>
+			    <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Country/Region of Departure</b> </th>
+			    <th style="font-size: 16px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Airlines</b></th>
+		</tr>
+	</thead>
+							<tbody>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
+								Brunei Darussalam</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+								Royal Brunei Airlines</td>
+	</tr>
+									<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+								Singapore Airlines</td>
+	</tr>
+									<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
+								Germany</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+								Lufthansa </td>
+	</tr>
+									<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+								Scoot</td>
+	</tr>
+																	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+								Singapore Airlines</td>
+	</tr>
+	</tbody>
+					</table>
+		</td>
+	</tr>
+	</tbody>
 	</table>
