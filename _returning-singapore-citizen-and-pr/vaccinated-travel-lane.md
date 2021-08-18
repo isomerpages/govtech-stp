@@ -41,20 +41,23 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tr>
 <tr>
 <td>COVID-19 Testing</td>
-<td>	•	Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure
-•	On-arrival PCR test at Changi Airport
-•	Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</td>
+<td>	
+	<ol style="font-size:16px;list-style-type: disc;">
+		<li style="font-size:16px;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
+		<li style="font-size:16px;">On-arrival PCR test at Changi Airport</li>
+<li style="font-size:16px;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>
+	</ol>
+	</td>
 </tr>
 <tr>
 <td>Self-isolation Accommodation</td>
 <td>Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.
-<p style="font-size:18px;">The types of accommodation for self-isolation are:</p>
-<ol>
-	<li style="font-size:18px;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
-	<li style="font-size:18px;">non-residential accommodation (i.e. hotel or serviced apartment</li>
+<p style="font-size:16px;">The types of accommodation for self-isolation are:</p>
+<ol style="font-size:16px;list-style-type: disc;">
+	<li style="font-size:16px;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
+	<li style="font-size:16px;">non-residential accommodation (i.e. hotel or serviced apartment</li>
 	</ol>
-	
-<p>Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p></td>
+<p style="font-size:16px;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p></td>
 </tr>
 </tbody>
 </table>
