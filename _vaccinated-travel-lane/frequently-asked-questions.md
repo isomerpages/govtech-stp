@@ -11,7 +11,7 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL Flights</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#arrival">Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
