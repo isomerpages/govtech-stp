@@ -2,7 +2,7 @@
 title: NOTICE
 permalink: /brunei/atp/notice
 ---
-### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR JIANGSU PROVINCE, MAINLAND CHINA
+### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR BRUNEI DARUSSALAM
 
 Given the increase in the number of COVID-19 cases in Brunei Darussalam, Singapore will tighten border measures for travellers with travel history to Brunei Darussalam within the last 21 days before departure for Singapore.
 
