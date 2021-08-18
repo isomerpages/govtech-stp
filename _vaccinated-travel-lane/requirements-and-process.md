@@ -208,7 +208,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
+		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -218,7 +218,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
+		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -298,7 +298,7 @@ Short term visitors are required to download and register their profile on the T
 		</td>
 	</tr>
 							<tr>
-		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of Departure to Singapore</b>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
 </td>
 	</tr>
 							<tr>
@@ -412,10 +412,17 @@ During their stay in Singapore, travellers must adhere to the prevailing public 
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transportation from airport to accommodation</b>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Post-arrival Day 3 and Day 7 COVID-19 PCR tests2</b>
 </td>
-				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Travellers are required to undergo post-arrival COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore. 
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">If their time of departure from Singapore is:</p>
+							  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><b>before 1500 hours on the day of test</b> , they will be exempted from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>			
+																	 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><b>on or after 1500 hours on the day of test</b>, they are still required to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>			
+																	 </ol>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land. </p>
+										<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the VTP holder liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the VTP holder may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both. </p>
+										<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">A VTP holder who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.</p>
 		</td>
 	</tr>
 					<tr>
