@@ -148,4 +148,3 @@ Note: Travellers may refer to the Singapore Hotel Association (SHA) website for 
 <td>Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 </tbody></table>
-	
