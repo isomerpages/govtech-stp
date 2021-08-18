@@ -22,14 +22,12 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Application for the Vaccinated Travel Pass (VTP)</a></li> 
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Outbound Pre-Departure Test</a></li>
 </ol>
-
-	
-<div id="overview"></div>
 	
 
 ### Vaccinated Travel Lane (VTL) Requirements
 
 #### (a) Vaccination Requirement 
+	
 <i>For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a>.</i>
 
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
