@@ -125,7 +125,9 @@ Fully vaccinated travellers* who are short-term visitors (including business and
 
 Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here]() for more information on the requirements.
 
-<i>* To be considered fully vaccinated, travellers must have received and completed the full regimen of the WHO EUL vaccines (Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:
-- 1 dose of Janssen vaccine; or
-- 2 same dose of the other WHO EUL vaccines; or
-- Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.</i>
+<i>* To be considered fully vaccinated, travellers must have received and completed the full regimen of the WHO EUL vaccines (Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:</i>
+ <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>1 dose of Janssen vaccine; or</i></li>				 
+				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>2 same dose of the other WHO EUL vaccines; or</i></li>				 
+			 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.</i></li>				 
+				 </ol>
