@@ -208,7 +208,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -218,7 +218,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -236,7 +236,22 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>Note:</b> Having a VTP does not guarantee travellers a ticket on a designated VTL flight. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL flight does not guarantee a VTP.</i></p>
 		</td>
 	</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel History</b>
+</td>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must remain in their country/region of departure, or in their country/region of departure and Singapore, in the last 21 consecutive days before departing for Singapore<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
+								 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>				 
+				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>	
+								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">iii.	Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact refers to:
+									  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Providing care for a COVID-19 patient, including in healthcare or family/social settings;</li>				 
+												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>				
+												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Are aware they had close proximity (i.e. less than 2 metres) and prolonged contact (15 minutes or more) with a person with COVID-19 (e.g. shared a meal).</li>				
+																	 </ol>
+									 </li>	
+				 </ol>
+</td>
+		</tr>
 	</tbody>
 	</table>
-	
-	
