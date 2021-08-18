@@ -1,4 +1,5 @@
 ---
 title: NOTICE
-permalink: /atp-brunei/permalink
+permalink: /brunei/atp/notice
 ---
+
