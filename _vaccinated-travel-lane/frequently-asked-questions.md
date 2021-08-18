@@ -16,10 +16,9 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Visa Application</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Mandatory COVID-19 Travel Insurance Coverage</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Contact Tracing – TraceTogether</a></li>
-
 </ol>
 </li>
+</ol>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Application for the Vaccinated Travel Pass (VTP)</a></li> 
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Outbound Pre-Departure Test</a></li>
-</ol>
 </ol>
