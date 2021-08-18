@@ -188,3 +188,85 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </td>
 </tr>
 </tbody></table>
+
+#### 2. Arrival in Singapore
+
+<table>
+<tbody><tr>
+<td>Upon arrival in Changi Airport</td>
+<td><p style="font-size:16px;">Travellers who need to purchase Singapore dollars or SIM cards, or rent mobile phones, must do so in the airport transit area prior to clearing arrival immigration. This is because travellers are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on "Transport from airport to accommodation" below.</p></td>
+</tr>
+<tr>
+<td>Immigration clearance</td>
+<td><p style="font-size:16px;">At arrival immigration in Singapore, all travellers must present to the ICA officer:</p>
+<ol style="font-size:16px;list-style-type: disc;">
+<li style="font-size:16px;">a valid proof of vaccination status, which can be in the form of:
+<ol style="font-size:16px;list-style-type: circle;">
+<li style="font-size:16px;">a vaccination status on the TraceTogether app;</li>
+<li style="font-size:16px;">a vaccination status on the HealthHub app; or</li>
+<li style="font-size:16px;">an electronic or physical copy of the vaccination certificate, stating the following:
+<ol style="font-size:16px;list-style-type: lower-roman;">
+<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+<li style="font-size:16px;">the country of vaccination;</li>
+<li style="font-size:16px;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+<li style="font-size:16px;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li style="font-size:16px;">a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<ol style="font-size:16px;list-style-type: circle;">
+<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+<li style="font-size:16px;">a negative COVID-19 PCR test result;</li>
+<li style="font-size:16px;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>
+<li style="font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
+</ol>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td>Transportation from airport to accommodation</td>
+<td><p style="font-size:16px;">After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.</p>
+
+<p style="font-size:16px;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p></td>
+</tr>
+<tr>
+<td>Self-isolation and notification of on-arrival COVID-19 PCR test results</td>
+<td><p style="font-size:16px;">The results of the on-arrival COVID-19 PCR test will likely be available within <b>24 hours</b>. Once travellers have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.</p>
+
+<p style="font-size:16px;">Travellers are responsible for their medical expenses should they require medical treatment for COVID-19 while in Singapore.</p>
+</td>
+</tr>
+</tbody></table>
+
+	
+### 3. While in Singapore
+
+<table>
+<tbody><tr>
+<td>Prevailing public health measures</td>
+<td><p style="font-size:16px;">While in Singapore, travellers must adhere to the prevailing public health measures, which include requirements on wearing of masks and safe distancing, and any other safe management measures relevant to the activities that they participate in, or settings that they visit.</p>
+</td>
+</tr>
+<tr>
+<td>Post-arrival Day 3 and Day 7 COVID-19 PCR tests<sup>1</sup></td>
+<td><p style="font-size:16px;">Travellers are required to undergo post-arrival COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore. They can make payment for their post-arrival COVID-19 PCR tests in person at the clinic when they show up for their tests.</p>
+
+<p style="font-size:16px;">If travellers are leaving Singapore and their time of departure from Singapore is:</p>
+<ol style="font-size:16px;list-style-type: disc;">
+<li>before 1500 hours on the day of test, they will be exempted from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>
+
+<li>on or after 1500 hours on the day of test, they are still required to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>
+
+<p style="font-size:16px;">The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p> 
+
+<p style="font-size:16px;">Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both. </p>
+
+<p style="font-size:16px;">A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.</p>
+</ol></td>
+</tr>
+</tbody></table>
+
+________________________________________
+<i><sup>1</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i>
