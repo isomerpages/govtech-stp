@@ -105,10 +105,11 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 				<!--	 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
-					 <li style="font-size: 18px;">	Brunei Darussalam</li>
+					 <li style="font-size: 18px;">Hong Kong (for entry on or after 26 August 2021)</li>
+					 <li style="font-size: 18px;">Macao (for entry on or after 26 August 2021)</li>
 					  <li style="font-size: 18px;">Mainland China (excluding Jiangsu province)</li>
 					 <li style="font-size: 18px;">New Zealand</li>
-					 					 <li style="font-size: 18px;">Taiwan (for entries on or after 12 Aug 2021)</li>
+					 <li style="font-size: 18px;">Taiwan</li>
 				 </ul>
 		</td>
 	</tr>
@@ -142,7 +143,8 @@ Click here to return to the <a href="#top">top</a>.
 
 Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
-	<li><a href="/atp/requirements-and-process">Brunei Darussalam</a></li>
+	<li><a href="/atp/requirements-and-process">Hong Kong</a></li>
+	<li><a href="/atp/requirements-and-process">Macao</a></li>
 	<li><a href="/atp/requirements-and-process">Mainland China (excluding Jiangsu province)</a></li>
 	<li><a href="/atp/requirements-and-process">New Zealand</a></li>
 	<li><a href="/atp/requirements-and-process">Taiwan  (for entries on or after 12 Aug 2021)</a></li>
