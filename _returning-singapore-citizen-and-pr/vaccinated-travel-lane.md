@@ -255,9 +255,9 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 
 <p style="font-size:16px;">If travellers are leaving Singapore and their time of departure from Singapore is:</p>
 <ol style="font-size:16px;list-style-type: disc;">
-<li>before 1500 hours on the day of test, they will be exempted from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>
+<li style="font-size:16px;">before 1500 hours on the day of test, they will be exempted from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>
 
-<li>on or after 1500 hours on the day of test, they are still required to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>
+<li style="font-size:16px;">on or after 1500 hours on the day of test, they are still required to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>
 
 <p style="font-size:16px;">The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p> 
 
@@ -269,4 +269,4 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tbody></table>
 
 ________________________________________
-<i><sup>1</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i>
+<p style="font-size:16px;"><i><sup>1</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i></p>
