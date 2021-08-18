@@ -16,7 +16,7 @@ Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a Vac
 
 Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions (FAQs).
 
-### Overview of VTL Requirements for Singapore Citizens and Permanent Residents
+#### Overview of VTL Requirements for Singapore Citizens and Permanent Residents
 
 <table>
 <thead>
