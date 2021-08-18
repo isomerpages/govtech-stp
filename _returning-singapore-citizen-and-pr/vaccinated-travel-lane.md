@@ -1,4 +1,5 @@
 ---
 title: Vaccinated Travel Lane
-permalink: /scpr/vtl
+permalink: /sc-pr/vtl
 ---
+
