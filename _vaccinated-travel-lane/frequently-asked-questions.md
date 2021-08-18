@@ -23,7 +23,9 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Outbound Pre-Departure Test</a></li>
 </ol>
 
+	
 <div id="overview"></div>
+	
 
 ### Vaccinated Travel Lane (VTL) Requirements
 
