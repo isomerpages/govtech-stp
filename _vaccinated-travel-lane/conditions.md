@@ -19,18 +19,19 @@ permalink: /vtl/conditions
 </li>
          </ol>
        
-        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
-       <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
-	<ol style="font-size:18px; list-style-type:lower-roman;">
-		<li style="font-size:18px; list-style-type:lower-roman;">(i)	keep the TraceTogether app activated at all times while in Singapore;</li>
-				<li style="font-size:18px; list-style-type:lower-roman;">(ii)	retain the TraceTogether app with the data on his/her mobile device for 21 consecutive days after leaving Singapore; and</li>
-				<li style="font-size:18px; list-style-type:lower-roman;">(iii)	provide all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the 21 days after leaving Singapore.</li>
+        <li style="font-size:18px; list-style-type:lower-alpha;">	undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>1</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
+       <li style="font-size:18px; list-style-type:lower-alpha;"> undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore  at a designated clinic before 1500 hours (Singapore time) on the day of the test;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 PCR test results to the relevant Singapore Government authorities for public health purposes;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;">download the TraceTogether app on his/her mobile device and:
+		<ol style="font-size:18px; list-style-type:lower-roman;">
+		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
+				<li style="font-size:18px; list-style-type:lower-roman;">retain the TraceTogether app with the data on his/her mobile device for 21 consecutive days after leaving Singapore; and</li>
+				<li style="font-size:18px; list-style-type:lower-roman;">provide all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the 21 days after leaving Singapore.</li>
 				 </ol>
 	</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 PCR test results to the relevant Singapore Government authorities for public health purposes;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore  at a designated clinic before 1500 hours (Singapore time) on the day of the test;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore  at a designated clinic before 1500 hours (Singapore time) on the day of the test;</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore  at a designated clinic before 1500 hours (Singapore time) on the day of the test;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;"> adhere to all prevailing public health measures while in Singapore; and</li>
+		     <li style="font-size:18px; list-style-type:lower-alpha;"> remain contactable at all times via his/her their declared mobile number and email address</li>
      </ol>
   </li>
   <br>
