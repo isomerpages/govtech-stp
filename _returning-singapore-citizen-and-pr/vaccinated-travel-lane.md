@@ -241,7 +241,7 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tbody></table>
 
 	
-### 3. While in Singapore
+#### 3. While in Singapore
 
 <table>
 <tbody><tr>
