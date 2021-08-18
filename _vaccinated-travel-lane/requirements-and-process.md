@@ -132,7 +132,7 @@ Singapore Citizens and Permanent Residents should not apply for a VTP to travel 
 			 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.</i></li>	
 				 </ol>
 				 
-### Application Requirements
+#### Application Requirements
 
 Applications for a VTP must be made between 7 and 30 calendar days prior to their intended date of entry into Singapore. There will be no charge for each application.
 
@@ -153,8 +153,47 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 </p>
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
 </p>
-															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>IMPORTANT:</b> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the VTL </i>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>IMPORTANT:</b> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the VTL  conditions or cancellation of the VTP at short notice. Travellers will be notified of changes to the VTL conditions or cancellation of their VTP.</i>
 </p>
+		</td>
+	</tr></tbody>
+	</table>
+	
+### 2. Visa (for visa-required visitors)
+
+<table>
+	<tbody>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>[For short-term visitors]</b><br><br>Visa application 
+(if required)
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Visitors, who require a visa to enter Singapore, must separately obtain a valid visa. Visitors are advised to do so after receiving their VTP approval and before departing for Singapore. Such visitors are encouraged to apply for their VTP early. Information on visa requirements and application can be found <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a>.
+</p>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">If visitors have already been issued with a visa that is still valid or if they are eligible for the visa-free transit facility, they need not apply for a visa. They can check their visa status <a href="https://eservices.ica.gov.sg/esvclandingpage/save">here</a>.
+</p>
+		</td>
+	</tr></tbody>
+	</table>
+	
+### 3. Pre-Departure
+
+<table>
+	<tbody>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing"> internationally accredited or recognised laboratory, clinic, or medical facility</a>.
+</p>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">A test result certificate must be obtained in English stating the following:
+</p>
+							 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
+				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a negative COVID-19 PCR test result;</li>	
+								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the date and time when the COVID-19 PCR test was taken; and</li>	
+								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test.</li>	
+				 </ol>
 		</td>
 	</tr></tbody>
 	</table>
