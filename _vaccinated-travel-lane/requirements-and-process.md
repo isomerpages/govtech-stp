@@ -153,7 +153,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 </p>
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
 </p>
-															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i>IMPORTANT: Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the VTL </i>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>IMPORTANT:</b> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the VTL </i>
 </p>
 		</td>
 	</tr></tbody>
