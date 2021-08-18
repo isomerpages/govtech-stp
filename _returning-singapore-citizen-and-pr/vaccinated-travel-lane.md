@@ -155,4 +155,35 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td>On-arrival COVID-19 PCR test at Changi Airport</td>
 <td>Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
+<tr>
+<th colspan="2">Day of Departure to Singapore</th>
+</tr>
+<tr>
+<td>Check-in at departure airport</td>
+<td><p style="font-size:16px;">When checking in at the departure airport, travellers must present to the airline staff:</p>
+<ol style="font-size:16px;list-style-type: disc;">
+<li style="font-size:16px;">a valid proof of vaccination status, which can be in the form of:
+<ol style="font-size:16px;list-style-type: circle;">
+<li style="font-size:16px;">a vaccination status on the TraceTogether app;</li>
+<li style="font-size:16px;">a vaccination status on the HealthHub app; or</li>
+<li style="font-size:16px;">an electronic or physical copy of the vaccination certificate, stating the following:
+<ol style="font-size:16px;list-style-type: lower-roman;">
+<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+<li style="font-size:16px;">the country of vaccination;</li>
+<li style="font-size:16px;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+<li style="font-size:16px;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)</li>
+</ol>
+</li>
+</ol>
+</li>
+<li style="font-size:16px;">a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<ol style="font-size:16px;list-style-type: circle;">
+<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+<li style="font-size:16px;">a negative COVID-19 PCR test result;</li>
+<li style="font-size:16px;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>
+<li style="font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
+</ol>
+</li>
+</ol></td>
+</tr>
 </tbody></table>
