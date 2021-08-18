@@ -147,7 +147,7 @@ Short term visitors from the following countries/regions may apply to enter Sing
 	<li><a href="/atp/requirements-and-process">Macao</a></li>
 	<li><a href="/atp/requirements-and-process">Mainland China (excluding Jiangsu province)</a></li>
 	<li><a href="/atp/requirements-and-process">New Zealand</a></li>
-	<li><a href="/atp/requirements-and-process">Taiwan  (for entries on or after 12 Aug 2021)</a></li>
+	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
 </ul>
 	
 ---
