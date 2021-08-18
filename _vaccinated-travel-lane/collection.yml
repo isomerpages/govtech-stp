@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - requirements-and-process.md
-      - conditions-of-the-vaccinated-travel-lane.md
+      - conditions.md
       - frequently-asked-questions.md
