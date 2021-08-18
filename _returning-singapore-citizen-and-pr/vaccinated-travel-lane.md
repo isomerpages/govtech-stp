@@ -184,6 +184,7 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <li style="font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
 </li>
-</ol></td>
+</ol>
+</td>
 </tr>
 </tbody></table>
