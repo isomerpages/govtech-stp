@@ -4,32 +4,32 @@ permalink: /vtl/faq
 ---
 #### Click to jump to the following sections:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:decimal;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">VTL Requirements</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (VTL) Requirements</a></li>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Vaccination Requirement</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Designated VTL Flights</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">On-Arrival COVID-19 PCR Test at the Airport</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Additional Requirements for Short-Term Visitors</a>:
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VacReq">Vaccination Requirement</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL Flights</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#arrival">Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Visa Application</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Mandatory COVID-19 Travel Insurance Coverage</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Contact Tracing – TraceTogether</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#insurance">Mandatory COVID-19 Travel Insurance Coverage</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#TT">Contact Tracing – TraceTogether</a></li>
 </ol>
 </li>
 </ol>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Application for the Vaccinated Travel Pass (VTP)</a></li> 
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="">Outbound Pre-Departure Test</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/health/covid19-tests/pre-departure-test">Outbound Pre-Departure Test</a></li>
 </ol>
 
-<div id="overview"></div>
+<div id="VTLReq"></div>
 
 ### Vaccinated Travel Lane (VTL) Requirements
 
 ### (a) Vaccination Requirement
 
-<i>For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a>.</i>
+<p id="VacReq"><i>For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a>.</i></p>
 
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
 
@@ -120,6 +120,10 @@ Vaccination QR code(s) may be invalid for reasons such as:
 •	Number of QR codes uploaded does not meet the criteria
 
 •	The QR code has been tampered with
+
+
+<div id="PDT"></div>
+
  
 ### (b) Pre-Departure Polymerase Chain Reaction (PCR) Test
 
@@ -139,6 +143,10 @@ The pre-departure COVID-19 PCR test must be taken at an internationally accredit
 Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their pre-departure COVID-19 PCR test. Please check with the listed testing institutions for the cost of the test.
 
 Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport, will be refused boarding by the airline.
+
+
+<div id="Flight"></div>
+
  
 ### (c) Designated VTL Flights
 
@@ -239,6 +247,7 @@ Travellers under the VTL do not need a return flight ticket to enter Singapore. 
 #### 12. Are travellers required to take designated VTL flights to depart from Singapore?
 No, the VTL is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL flights.
 
+<div id="OAT"></div>
  
 ### (d) On-Arrival COVID-19 PCR Test at the Airport
 
@@ -315,6 +324,8 @@ Travellers must be transported directly to their declared place of accommodation
 •	The vehicle windows should be wound down and the air-conditioning turned off, where practical.
 •	After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) guidelines for surface cleaning and disinfection.
  
+<div id="arrival"></div>
+
 ### (e) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
 
 #### 1. On which days do travellers need to go for a post-arrival PCR test?
@@ -373,11 +384,15 @@ Failure to undergo the required COVID-19 PCR tests may constitute an offence und
  
 A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
-Further, the traveller’s VTP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected 
+Further, the traveller’s VTP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+
+<div id="AdditionalReq"></div> 
 
 ### (h) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
+
+<div id="visa"></div>
 
 #### 1. Do visitors with a valid VTP need to apply separately for a visa to enter Singapore?
 
@@ -394,7 +409,7 @@ Please note that the VTP is not an immigration visit pass. It only allows visito
 All applications for extension of visit pass must be submitted online using ICA’s e-service here at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
 
 
-
+<div id="insurance"></div>
 
 
 ### (ii) Mandatory COVID-19 Travel Insurance Coverage
@@ -419,7 +434,9 @@ Visitors will have to declare, at the point of VTP application, that they will p
 
 Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP. In such an event, the VTP holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
- 
+
+<div id="TT"></div>
+
 ### (iii) Contact Tracing – TraceTogether
 
 For the full requirements and conditions governing the use of TraceTogether, please click here.
@@ -496,6 +513,10 @@ The S$50 deposit will be refunded if:
 (ii)	the visitor had made a deposit for the TraceTogether token being returned; and
 (iii)	the TraceTogether token is not faulty or damaged.
 The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+
+
+<div id="application"></div>
+
  
 ### Application for the Vaccinated Travel Pass (VTP)
 
