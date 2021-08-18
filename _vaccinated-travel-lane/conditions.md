@@ -18,8 +18,7 @@ permalink: /vtl/conditions
 					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 PCR test;
 </li>
          </ol>
-       
-        <li style="font-size:18px; list-style-type:lower-alpha;">	undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>1</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
+               <li style="font-size:18px; list-style-type:lower-alpha;">	undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>1</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore  at a designated clinic before 1500 hours (Singapore time) on the day of the test;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the test provider and test laboratory disclosing his/her personal particulars and COVID-19 PCR test results to the relevant Singapore Government authorities for public health purposes;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;">download the TraceTogether app on his/her mobile device and:
