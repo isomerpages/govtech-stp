@@ -208,7 +208,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
+		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -218,7 +218,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
+		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -279,6 +279,49 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p>
 									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are required to bear the cost of their accommodation (if applicable) in Singapore</p>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>Note: </b>Travellers may refer to the Singapore Hotel Association (SHA) website for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</i></p>
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>[For short-term visitors]</b><br><br>Contact Tracing
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+Short term visitors are required to download and register their profile on the TraceTogether app<sup>1</sup> to aid contact tracing. Those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.
+</p>
+		</td>
+	</tr>
+					<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>On-arrival COVID-19 PCR test at Changi Airport</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+					Travellers should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to their departure for Singapore. (This is separate from the pre-payment made at the point of VTP application, which is for the post-arrival Day 3 and Day 7 COVID-19 PCR tests.)						
+		</td>
+	</tr>
+							<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
+</td>
+	</tr>
+							<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Check-in at departure airport</b>
+</td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+				When checking in at the departure airport, travellers must present to the airline staff:
+						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
+												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid vaccination certificate (electronic or physical copy);</li>				
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>				
+											 		 				 <li style="margin-top:5px; margin-bottom:10px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>				
+											 </ol>
+											 </li>	
+					</ol>
+		In addition, short-term visitors must present:
+						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid visa (for visa-required visitors);</li>			
+									 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.</li>			
+																	 </ol>
 		</td>
 	</tr>
 	</tbody>
