@@ -33,9 +33,9 @@ permalink: /vtl/faq
 
 To be considered fully vaccinated, travellers must have received and completed the full regimen of <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:
 
-‒	1 dose of Janssen vaccine; or
-‒	2 same dose of the other WHO EUL vaccines; or
-‒	Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.
+- 1 dose of Janssen vaccine; or
+- 2 same dose of the other WHO EUL vaccines; or
+- Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.
 
 #### 2. What is the minimum number of days required between 2 doses of vaccines?
 The table below shows the minimum interval between 2 doses of vaccines for vaccinations to be considered valid.
