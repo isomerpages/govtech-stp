@@ -91,11 +91,11 @@ i.e. they must have received and completed the full regimen of the <a href="http
 	</tr>
 					<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Contact Tracing</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers are required to download the TraceTogether app onto the smart mobile phone that they will use in Singapore, prior to departure for Singapore.
 				</td>
 				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
 		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">x
 		</td>
 	</tr>
 							<tr>
