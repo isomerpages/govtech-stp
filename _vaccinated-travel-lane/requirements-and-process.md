@@ -127,7 +127,34 @@ Singapore Citizens and Permanent Residents should not apply for a VTP to travel 
 
 <i>* To be considered fully vaccinated, travellers must have received and completed the full regimen of the WHO EUL vaccines (Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:</i>
  <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-				 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>1 dose of Janssen vaccine; or</i></li>				 
-				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>2 same dose of the other WHO EUL vaccines; or</i></li>				 
-			 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.</i></li>				 
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>1 dose of Janssen vaccine; or</i></li>				 
+				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>2 same dose of the other WHO EUL vaccines; or</i></li>				 
+			 <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><i>Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.</i></li>	
 				 </ol>
+				 
+### Application Requirements
+
+Applications for a VTP must be made between 7 and 30 calendar days prior to their intended date of entry into Singapore. There will be no charge for each application.
+
+<table>
+	<tbody>
+	<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Vaccinated Travel Pass (VTP) application requirements</b></td>
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Fully vaccinated travellers must:
+		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">upload the QR codes of their vaccination certificates (if applicable); and</li>				 
+				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">prepay for their post-arrival Day 3 and Day 7 COVID-19 PCR tests at the point of application.</li>	
+				 </ol>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">When an application is approved, the VTP will be sent to the applicant via email. It is valid for single entry into Singapore anytime from the traveller’s intended date of entry and up to 6 calendar days after.
+</p>
+										<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must comply with the <a href="">Conditions</a> of the VTL, and the prevailing immigration requirements of the Singapore Immigration &amp; Checkpoints Authority (ICA) for their entry and stay in Singapore. Travellers who do not meet the VTL conditions may be refused entry into Singapore and/or have their VTP cancelled. In such an event, travellers may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future VTP applications may also be rejected.
+</p>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Personal data will be collected for VTP applications. By applying for the VTP, the traveller agrees to use of the personal data collected for the purpose of processing and implementing the VTL entry. Please click <a href="">here</a> to view the Privacy Statement.
+</p>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+</p>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i>IMPORTANT: Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the VTL </i>
+</p>
+		</td>
+	</tr></tbody>
+	</table>
