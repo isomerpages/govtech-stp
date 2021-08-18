@@ -1,4 +1,5 @@
 collections:
   atp-brunei:
     output: true
-    order: []
+    order:
+      - notice.md
