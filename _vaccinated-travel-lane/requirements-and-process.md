@@ -32,21 +32,97 @@ i.e. they must have received and completed the full regimen of the <a href="http
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Travel History</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Last 21 days in their country/region of departure and/or Singapore
 				</td>
-						   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
 		</td>
-						   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+		</td>
+	</tr>
+		<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Vaccinated Travel Pass </b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Fully vaccinated travellers must apply for VTP between 7 to 30 calendar days before intended date of entry into Singapore
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"></td>
-		   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Visa</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">For visa-required visitors
 				</td>
-						   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
 		</td>
-						   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">x
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Designated Flight</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers must travel on non-stop designated VTL flights
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+		</td>
+	</tr>
+					<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>COVID-19 Testing</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>				 
+				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">On-arrival PCR test at Changi Airport</li>				 
+				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>				 
+				 </ol>
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+		</td>
+	</tr>
+					<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>COVID-19 Travel Insurance</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travel insurance coverage for COVID-19 related medical treatment and hospitalisation costs must be at least S$30,000.
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">x
+		</td>
+	</tr>
+					<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Contact Tracing</b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+		</td>
+	</tr>
+							<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b></b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+		</td>
+	</tr>
+							<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b></b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
+		</td>
+	</tr>
+							<tr>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b></b></td>
+		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
+		</td>
+				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
 		</td>
 	</tr>
 	</tbody>
