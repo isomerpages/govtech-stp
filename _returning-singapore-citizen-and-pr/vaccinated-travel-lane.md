@@ -41,10 +41,10 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tr>
 <tr>
 <td>COVID-19 Testing</td>
-<td>	
-	<ol style="font-size:16px;list-style-type: disc;">
-		<li style="font-size:16px;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
-		<li style="font-size:16px;">On-arrival PCR test at Changi Airport</li>
+<td>
+<ol style="font-size:16px;list-style-type: disc;">
+<li style="font-size:16px;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
+<li style="font-size:16px;">On-arrival PCR test at Changi Airport</li>
 <li style="font-size:16px;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>
 	</ol>
 	</td>
