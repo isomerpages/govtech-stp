@@ -133,8 +133,8 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 You must present a proof of your vaccination status, which can be in the form of:
 
-(A)	a vaccination status on the TraceTogether app;
-(B)	a vaccination status on the HealthHub app; or
+(A)	a vaccination status on the TraceTogether app;<br>
+(B)	a vaccination status on the HealthHub app; or<br>
 (C)	an electronic or physical copy of the vaccination certificate, stating the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
 - the country of vaccination;
@@ -152,8 +152,8 @@ For (A) and (B), please see sample screenshots below:
 </thead>
 <tbody>
 <tr>
-<td><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
-<td><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
+<td><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
+<td><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
 </tr>
 </tbody>
 </table>
@@ -171,7 +171,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
+<img style="width:180px; height:180px;" src="/images/Vaccination QR code.png">
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -605,8 +605,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
-      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
+      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
+      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
     </tr>
   </tbody>
   </table>
@@ -625,7 +625,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
+<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
