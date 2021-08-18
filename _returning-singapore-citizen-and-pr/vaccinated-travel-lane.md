@@ -70,22 +70,45 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td>Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an internationally accredited or recognised laboratory, clinic, or medical facility.
 
 A test result certificate must be obtained in English stating the following:
-•	the traveller’s name, and at least one other personal identifier such as the date of birth or passport number;
-•	a negative COVID-19 PCR test result;
-•	the date and time when the COVID-19 PCR test was taken; and
-•	the name of the testing institution conducting the COVID-19 PCR test.
+<ol style="font-size:16px;list-style-type: disc;">
+<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number;</li>
+<li style="font-size:16px;">a negative COVID-19 PCR test result;</li>
+<li style="font-size:16px;">the date and time when the COVID-19 PCR test was taken; and</li>
+<li style="font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test.</li>
+</ol>
 </td>
 </tr>
 <tr>
 <td>Designated VTL flight</td>
 <td>Book a ticket on a designated VTL flight. Please refer to the respective airlines’ websites for details.
-
-Country/Region of Departure	Airlines
-Brunei Darussalam	Royal Brunei Airlines
-	Singapore Airlines
-Germany	Lufthansa 
-	Scoot
-	Singapore Airlines
+	
+<table>
+<thead>
+<tr>
+<th>Country/Region of Departure</th>
+<th>Airlines</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Brunei Darussalam</td>
+<td>Royal Brunei Airlines</td>
+</tr>
+<tr>
+<td>Singapore Airlines</td>
+</tr>
+<tr>
+<td rowspan="3">Germany</td>
+<td>Lufthansa </td>
+</tr>
+<tr>
+<td>Scoot</td>
+</tr>
+<tr>
+<td>Singapore Airlines</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
@@ -125,5 +148,4 @@ Note: Travellers may refer to the Singapore Hotel Association (SHA) website for 
 <td>Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 </tbody></table>
-	
 	
