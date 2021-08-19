@@ -241,7 +241,7 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from Category III or IV countries/regions, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in Category I or II countries/regions for 21 consecutive days before arrival.
+Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in Category I or II countries/regions for 21 consecutive days before arrival.
 
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
@@ -253,7 +253,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 #### 3. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history within the last 21 days before arrival to Category III or IV countries/regions must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders with travel history within the last 21 days before arrival to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
 #### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
