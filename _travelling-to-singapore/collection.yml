@@ -2,5 +2,5 @@ collections:
   travelling-to-singapore:
     output: true
     order:
-      - safe-travel-lane-for-entry-into-singapore.md
+      - safe-travel-lanes-for-entry-into-singapore.md
       - air-sea-crew-and-pleasure-craft-owners.md
