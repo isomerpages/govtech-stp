@@ -17,7 +17,6 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 All travellers are required to take a PDT before arrival in Singapore, except those who:
 - Are below the age of three in this calendar year; or
 - Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
-- Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 <a href="/stpl/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
 
@@ -69,7 +68,7 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
 Application can be submitted together with the Entry Approval application
 </td>
     </tr>
@@ -92,9 +91,9 @@ All travellers with a travel history to any [Category (III) and (IV) country/reg
 
 A) <u>Immigration Clearance</u>
 
-Travellers who arrive in Singapore without a <a href="#PDT">valid negative PDT report</a> may be denied entry into Singapore and could have their passes revoked.
+Travellers with a travel history to any [Category (III) and (IV) country/region](/stpl/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a  [valid negative PDT report](#PDT)  may be denied entry into Singapore and could have their passes revoked.
 
-Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the <a href="#SGAC">SGAC declaration</a>. Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. Travellers who do not receive an SHN will be required to remain in self-isolation until a negative COVID-19 PCR test result is conveyed.
+Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the SGAC declaration. Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. For example, if traveller had visited a Category (I) and (III) country/region in any of the past 21 days before arrival in Singapore, the Category (III) measures will apply regardless of the duration stayed in each location (includes transits).
 
 B) <u>COVID-19 Tests</u>
 
@@ -113,7 +112,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -171,7 +170,7 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, and COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;" colspan="2"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td colspan="2" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
