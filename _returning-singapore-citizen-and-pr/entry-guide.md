@@ -2,17 +2,7 @@
 title: Entry Guide
 permalink: /sc-pr/requirements-and-process
 ---
-This entry guide is meant for Singapore Citizens (SC) and Singapore Permanent Residents (PR) who have decided to return to Singapore. Returning SC/PRs can return to Singapore <u>without</u> the need for any Entry Approvals.
-
-Before their return, returning SC/PRs should familiarise themselves with the indicative travel health controls measures which are imposed based on their 21-day travel history, which can be accessed <a href="/sc-pr/shn-and-swab-summary">here</a>. These measures generally include any combination of the following (click on the links below for more information, including costs):
-
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice</a> (SHN)</li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in a Dedicated Facility</a> (SDF)</li>
-<li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a>, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test</li> 
-</ol>
-
-<b>Please note that travellers who have received COVID-19 vaccination or recovered from COVID-19 are currently subjected to the prevailing health measures.</b>
+This entry guide is meant for Singapore Citizens(SC) and Singapore Permanent Residents (PR) returning to Singapore. All returning SC/PRs, regardless of vaccination status, can return to Singapore without the  need for any Entry Approvals.  Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (VTL)</a> for more information. 
 
 <div id="PDT"></div>
 
