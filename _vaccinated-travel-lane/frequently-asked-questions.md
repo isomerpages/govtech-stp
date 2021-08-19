@@ -149,8 +149,8 @@ For (A) and (B), please see sample screenshots below:
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +168,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img style="width:180px; height:180px;" src="/images/Vaccination QR code.png">
+<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -264,20 +264,18 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 #### 5. What are the requirements for travellers to be eligible for a designated VTL flight?
 To be eligible to take a designated VTL flight, they are required to:
 
-- be fully vaccinated, i.e. have received and completed the full regimen of the <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> <i>(Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:</i>
-<ol style="list-style-type:lower-latin;">
-<li><i>1 dose of Janssen vaccine; or</i></li>
-<li><i>2 same dose of the other WHO EUL vaccines; or</i></li>
-<li><i>Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.</i></li>
-</ol>
-- remain in their country/region of departure, or in their country/region of departure and Singapore in the last 21 consecutive days before departing for Singapore; and
-- undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
+<ul>
+	<li>Travellers must be fully vaccinated. <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	i.e. They must have received and completed the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or  <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>, at least 14 days before their intended date of entry into Singapore.</p></li>
+		<li>remain in their country/region of departure, or in their country/region of departure and Singapore in the last 21 consecutive days before departing for Singapore; and</li>
+		<li>undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
 <li>the date and time when the COVID-19 PCR test was taken; and</li>
 <li>the name of the testing institution conducting the COVID-19 PCR test.</li>
+</ul></li>
 </ul>
+
 
 Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
 
@@ -625,8 +623,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
   </table>
@@ -645,7 +643,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
