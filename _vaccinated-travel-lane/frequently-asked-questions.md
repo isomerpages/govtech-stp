@@ -34,7 +34,7 @@ permalink: /vtl/faq
 
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
 
-To be considered fully vaccinated, travellers must have received and completed the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or  <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>, at least 14 days before their intended date of entry into Singapore.
+*Travellers must have been fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 
 #### 2. Are children who are not vaccinated or persons who are medically unfit to be to be vaccinated allowed to travel under the VTL scheme?
 
@@ -90,8 +90,8 @@ For (A) and (B), please see sample screenshots below:
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +109,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img style="width:180px; height:180px;" src="/images/Vaccination QR code.png">
+<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
 #### 7. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -206,7 +206,8 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>Travellers must be fully vaccinated. <p style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	i.e. They must have received and completed the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or  <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>, at least 14 days before their intended date of entry into Singapore.</p></li>
+	<li>be fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
+		</li>
 		<li>remain in their country/region of departure, or in their country/region of departure and Singapore in the last 21 consecutive days before departing for Singapore; and</li>
 		<li>undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
@@ -570,8 +571,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
   </table>
@@ -590,7 +591,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
