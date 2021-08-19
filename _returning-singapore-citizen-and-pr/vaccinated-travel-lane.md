@@ -9,7 +9,7 @@ As part of Singapore’s efforts to reopen our borders safely, fully vaccinated*
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a Vaccinated Travel Pass (VTP) to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements.
 
-*To be considered fully vaccinated, travellers must have received and completed the full regimen of the <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (Pfizer-BioNTech/Comirnaty, oderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or Germany, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:
+*To be considered fully vaccinated, travellers must have received and completed the full regimen of the <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or Germany, at least 14 days before their intended date of entry into Singapore. The following regimens are currently recognised:
 - 1 dose of Janssen vaccine; or
 - 2 same dose of the other WHO EUL vaccines; or
 - Any other combination of doses of WHO EUL vaccines that is bilaterally agreed on between Singapore and their country/region of departure.*
@@ -92,14 +92,14 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;" rowspan="2">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Royal Brunei Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;" rowspan="3">Germany</td>
+<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;" colspan="2"><b>Day of Departure to Singapore</b></th>
+<th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
