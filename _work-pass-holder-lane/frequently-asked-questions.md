@@ -136,10 +136,11 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
-Presently, only the following categories of workers are required to take a Serology test in Singapore:
-- Confinement nannies arriving in Singapore from higher-risk countries/regions
-- Helpers arriving in Singapore from higher-risk countries/regions
-- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors who are arriving in Singapore from higher-risk countries/regions
+The following groups of workers with travel history within the last 21 days before arrival to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> are required to take a Serology test in Singapore.
+
+- Confinement nannies
+- Helpers
+- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors
 
 Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
 - [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
@@ -163,7 +164,7 @@ As a condition for entry under the Work Pass Holder General Lane (WPHL), travell
 
 Travellers and employers should note that non-compliance with the SHN conditions is an offence that could attract a fine and/or imprisonment term. MOM may also initiate pass revocation procedures or withdraw the relevant work pass privileges. 
 
-In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) or Serology test. Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
+In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19  tests](/health/covid19-tests/pcrtest). Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
 
 #### 2. Is my helper/confinement nanny allowed to share rooms at the Stay-Home Notice Dedicated Facility (SDF)? Where can I submit the room sharing application?
 
@@ -181,7 +182,7 @@ Should your employee acknowledge the health risks but continue to express intere
 - Tamil
 
 Employers should remind their employees to present the following documents to the SDF operator during check-in, who will then facilitate the room sharing arrangement:
-- Entry approval Letter
+- Entry approval letter
 - Completed and signed indemnity form (your employee may ask for a blank indemnity form from the SDF if they forget to print a copy). 
 
 <a href="#top">Click here to return to the top.</a>
@@ -240,13 +241,7 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from higher-risk countries/regions, new entry applications can only be accepted for helpers and confinement nannies who remained in the following lower-risk countries/regions for 21 consecutive days before arrival:
-- Brunei
-- Hong Kong
-- Macao
-- Mainland China
-- New Zealand
-- Taiwan 
+Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in Category I or II countries/regions for 21 consecutive days before arrival.
 
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
@@ -258,7 +253,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 #### 3. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders with travel history within the last 21 days before arrival to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
 #### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
@@ -286,11 +281,11 @@ No, the pass holder cannot enter Singapore yet.
 
 Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses must be completed using the same brand and taken based on recommended intervals between each dose. 
 
-Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
+Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **16 Sep**.
 
-#### 8. My pass holder is fully vaccinated and took a serology test with Ministry of Health’s designated healthcare provider. However, the serology test result was negative or inconclusive. What happens next?
+#### 8. My pass holder is fully vaccinated and took a serology test at a Public Health Preparedness Clinic. However, the serology test result was negative or inconclusive. What happens next?
 
-The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
+The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) in Singapore within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
 
 #### 9. My pass holder has an approval to enter Singapore. However, Ministry of Manpower (MOM) informed me that his/her entry will have to be delayed. I understand MOM will email me when to bring him/her in. Does he/she need to be fully vaccinated before arrival?
 
