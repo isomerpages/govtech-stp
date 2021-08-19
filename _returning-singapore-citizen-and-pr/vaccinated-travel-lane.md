@@ -42,21 +42,20 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <tr>
 <td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>COVID-19 Testing</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; line-height:1.5;">
-<ol style="margin-top:20px; margin-bottom:0px; font-size:16px; list-style-type: disc;">
-<li style="margin-top: 0px; margin-bottom: 0px; font-size:16px; line-height:1.5px;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
-<li style="margin-top: 20px; margin-bottom: 20px; font-size:16px; line-height:1.5px;">On-arrival PCR test at Changi Airport</li>
-<li style="margin-top: 20px; margin-bottom: 20px; font-size:16px; line-height:1.5px;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>
+<ol style="margin-top:10px; margin-bottom:0px; font-size:16px; list-style-type: disc;">
+<li style="font-size:16px; line-height:1.5px;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
+<li style="font-size:16px; line-height:1.5px;">On-arrival PCR test at Changi Airport</li>
+<li style="font-size:16px; line-height:1.5px;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>
 	</ol>
 	</td>
 </tr>
 <tr>
 <td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>Self-isolation Accommodation</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;line-height:1.5;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p>
-
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;line-height:1.5;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p><br>
 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">The types of accommodation for self-isolation are:</p>
-<ol style="margin-top: 0px; margin-bottom: 0px; font-size:16px; list-style-type: disc;">
-	<li style="margin-top: 0px; margin-bottom: 0px; font-size:16px; line-height:1.5px;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
-	<li style="margin-top: 0px; margin-bottom:0px; font-size:16px; line-height:1.5px;">non-residential accommodation (i.e. hotel or serviced apartment</li>
+<ol style="margin-top: 10px; margin-bottom: 0px; font-size:16px; list-style-type: disc;">
+	<li style="margin-top: 0px; margin-bottom: 0px; font-size:16px;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
+	<li style="margin-top: 0px; margin-bottom:0px; font-size:16px;">non-residential accommodation (i.e. hotel or serviced apartment</li>
 	</ol>
 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p></td>
 </tr>
@@ -71,11 +70,11 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an internationally accredited or recognised laboratory, clinic, or medical facility.</p>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">A test result certificate must be obtained in English stating the following:</p>
-<ol style="font-size:16px;list-style-type: disc;">
-<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number;</li>
-<li style="font-size:16px;">a negative COVID-19 PCR test result;</li>
-<li style="font-size:16px;">the date and time when the COVID-19 PCR test was taken; and</li>
-<li style="font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test.</li>
+<ol style="margin-top: 0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
+<li style="margin-top: 0px; margin-bottom:0px; font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number;</li>
+<li style="margin-top: 0px; margin-bottom:0px; font-size:16px;">a negative COVID-19 PCR test result;</li>
+<li style="margin-top: 0px; margin-bottom:0px;font-size:16px;">the date and time when the COVID-19 PCR test was taken; and</li>
+<li style="margin-top: 0px; margin-bottom:0px; font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test.</li>
 </ol>
 </td>
 </tr>
@@ -92,14 +91,14 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;" rowspan="2">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Royal Brunei Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;" rowspan="3">Germany</td>
+<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
 </tr>
 <tr>
@@ -116,8 +115,8 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Travel History</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers to Singapore must remain in their country/region of departure, or in their country/region of departure and Singapore, in the last 21 consecutive days before departing for Singapore</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
-<ol style="font-size:16px;list-style-type: lower-roman;">
-<li style="font-size:16px;">Have symptoms of COVID-19;</li>
+<ol style="margin-top: 0px; margin-bottom:0px; font-size:16px;list-style-type: lower-roman;">
+<li style="margin-top: 0px; margin-bottom:0px; font-size:16px;">Have symptoms of COVID-19;</li>
 <li style="font-size:16px;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>
 <li style="font-size:16px;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact refers to:
 <ol style="font-size:16px;list-style-type: disc;">
@@ -154,7 +153,7 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;" colspan="2"><b>Day of Departure to Singapore</b></th>
+<th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
