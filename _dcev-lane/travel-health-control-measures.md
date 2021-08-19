@@ -9,7 +9,6 @@ permalink: /dcev/shn-and-swab-summary
 The table below reflects the latest travel health control measures applicable to all approved DCEV-travellers (inclusive of announcements made on <b><u>19 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
 Travellers should note that these measures are calibrated based on epidemiological risks, and therefore applied based on the traveller’s <u>21-day travel history before arrival in Singapore</u>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply. As a condition for entry into Singapore, travellers <u>must</u> comply with the travel health control measures required. Breaches of requirements may result in penalties under the Infectious Diseases Act and/or other relevant laws.
-
 <table>
 	<tr>
 		<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;">
@@ -18,6 +17,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 		</td>
 	</tr>
 	</table>
+
 
 <div id="table1"></div>
 
