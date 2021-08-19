@@ -114,8 +114,7 @@ i.e. They must have received and completed the full regimen of Pfizer-BioNTech/C
 	</tr>
 	</tbody>
 	</table>
-	
-Please click <a href="/files/VTL_Infographics.pdf">here</a> to download a step-by-step guide for short-term visitors and long-term pass holders travelling to Singapore.
+
 	
 ### 1. Vaccinated Travel Pass (VTP) Application
 
@@ -206,7 +205,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -216,7 +215,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -296,7 +295,7 @@ Short term visitors are required to download and register their profile on the T
 		</td>
 	</tr>
 							<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of Departure to Singapore</b>
 </td>
 	</tr>
 							<tr>
