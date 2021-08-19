@@ -14,7 +14,7 @@ With immediate effect, applications for the ATP for short-term visitors travelli
 
 ### Vaccinated Travel Lane
 
-From 8 September 2021, fully vaccinated travellers departing from Brunei Darussalam may enter Singapore without the need to serve SHN under a new Vaccinated Travel Lane (VTL) arrangement. For more information on the VTL, please refer <a href="">here</a>.
+From 8 September 2021, fully vaccinated travellers departing from Brunei Darussalam may enter Singapore without the need to serve SHN under a new Vaccinated Travel Lane (VTL) arrangement. For more information on the VTL, please refer <a href="/vtl/requirements-and-process">here</a>.
 
 ### Singapore Citizens/Permanent Residents/Long-Term Pass Holders
 	
