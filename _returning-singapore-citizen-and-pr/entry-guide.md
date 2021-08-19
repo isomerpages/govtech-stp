@@ -2,7 +2,7 @@
 title: Entry Guide
 permalink: /sc-pr/requirements-and-process
 ---
-This entry guide is meant for Singapore Citizens(SC) and Singapore Permanent Residents (PR) returning to Singapore. All returning SC/PRs, regardless of vaccination status, can return to Singapore without the  need for any Entry Approvals.  Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (VTL)</a> for more information. 
+This entry guide is meant for Singapore Citizens(SC) and Singapore Permanent Residents (PR) returning to Singapore. All returning SC/PRs, regardless of vaccination status, can return to Singapore without the  need for any Entry Approvals.  Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/sc-pr/vtl">Vaccinated Travel Lane (VTL)</a> for more information. 
 
 Travellers should refer to this page for the latest travel health control measures imposed based on their 21-day travel history before arrival in Singapore. <b>Unless specified, travellers who have received COVID-19 vaccination or recovered from COVID-19 are required to adhere to the prevailing travel health control measures. </b>For the latest travel-related information/announcements, [click here](/news-and-media/press-releases/).
 
@@ -63,7 +63,7 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
 	 <a href="https://go.gov.sg/scproptoutsdf">Click Here</a> 
 </td>
     </tr>
@@ -110,7 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -122,7 +122,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 </tr>
 	<tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. <br/>Click <a href="/files/stridesbooking.pdf">here</a> for instructions to pre-book a vehicle. <br/>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. <br>Click <a href="/files/stridesbooking.pdf">here</a> for instructions to pre-book a vehicle. <br>
 Click <a href="/health/faq#transportQ3">here</a> for the relevant charges. 
 </td>
 </tr>
