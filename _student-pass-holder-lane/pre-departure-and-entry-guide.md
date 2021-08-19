@@ -68,7 +68,7 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
 Application can be submitted together with the Entry Approval application
 </td>
     </tr>
@@ -112,7 +112,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -140,9 +140,9 @@ Click <a href="/health/faq#transportQ3">here</a> for the relevant charges.
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this webform for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART.
+All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this [webform](https://go.gov.sg/sto-enquiry) for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART.
 
-Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results via the HealthHub App. Any traveller who is tested positive for COVID-19 will be sent for treatment immediately. 
+Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).  Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
 
 	
 ### 5. Completion of Self-isolation/SHN
