@@ -16,9 +16,9 @@ The health measures to be imposed may not be limited to COVID-19 tests, and you 
 
 Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) before departing to Singapore. 
 
-<b>Please check the respective Safe Travel Lane pages for details of the pre-departure PCR test requirements, which may vary (i.e. either 48 or 72 hours before departure) depending on travel history and Safe Travel Lane used.</b>
+<b>Please check the respective Safe Travel Lane pages for details of the pre-departure PCR test requirements, which may vary (i.e. 48 or 72 hours before departure) depending on travel history and Safe Travel Lane used.</b>
 
-To test for COVID-19, travellers bound for Singapore are required to take a PCR test at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the PCR test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
+All travellers whose 21-day travel history includes a Category (III) or (IV) country/region are required to take a COVID-19 PCR test at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
 
 <div id="price"></div>
 
@@ -42,7 +42,7 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
+					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
@@ -68,7 +68,7 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">End-of-SHN COVID-19 PCR Test</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">125</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Paid during application for entry into Singapore</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Paid during application for entry into Singapore</td>
     </tr>
 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN</td>
