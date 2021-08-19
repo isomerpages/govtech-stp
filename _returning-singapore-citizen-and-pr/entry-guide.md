@@ -63,7 +63,7 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
 	 <a href="https://go.gov.sg/scproptoutsdf">Click Here</a> 
 </td>
     </tr>
@@ -110,7 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -135,44 +135,12 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 
 ### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
 
-Travellers must remain in their accommodation of self-isolation or SHN/SDF, until <u>after</u> they are ascertained to be free of COVID-19. 
+Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. The table below shows the typical test schedule for all SHN serving travellers, which is automatically scheduled by the relevant agency:
+All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this webform for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART. 
 
-<table>
-<thead>
-<tr>
-<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;;">Self-isolation/SHN Period</th>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;">COVID-19 PCR Test Schedule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">N.A.
- </td>
- </tr>
-<tr>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN</td>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 7 of SHN</td>
-</tr>
-<tr>
-	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">PCR test on Day 14 of SHN</td>
-</tr>
-	<tr>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
-</tr>
-<tr>
-	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
-</tr>
-</tbody>
-</table>
+Travellers who test positive for COVID-19 will and must undergo medical treatment. The prevailing treatment charges will apply.
 
-To view the comprehensive list of travel health control measures that would apply to you, click <a href="/sc-pr/shn-and-swab-summary">here</a>. 
-
-Travellers who test positive for <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">COVID-19</a> will receive the necessary <a href="https://safetravel.ica.gov.sg/health/covidtreatment">medical treatment</a>, and the prevailing treatment charges would apply.
 
 
 ### 5. Completion of Self-isolation/SHN
