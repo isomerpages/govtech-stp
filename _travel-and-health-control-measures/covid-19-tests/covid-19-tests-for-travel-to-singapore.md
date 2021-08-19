@@ -42,7 +42,7 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
+					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
@@ -67,8 +67,8 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 	 <tbody>
 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">End-of-SHN COVID-19 PCR Test</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">123</td>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Paid during application for entry into Singapore</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">125</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Paid during application for entry into Singapore</td>
     </tr>
 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN</td>
@@ -78,4 +78,3 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 	</table>
 	
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
-
