@@ -18,7 +18,7 @@ All travellers are required to take a PDT before arrival in Singapore, except th
 - Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
 - Singapore Citizen entering Singapore via the Causeway or Second Link.
 
-<a href="/sc-pr/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
+<a href="/scpr-familial-ties-lane/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
