@@ -6,10 +6,7 @@ International travel has been restricted due to the COVID-19 pandemic. SafeTrave
 
 Please use the self-help tool below to find out the SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile.
 
-
-&lt;*EMBED SELF-HELP TOOL HERE&gt;
-
-
+<iframe width="100%" height="1500px" src="https://www.checkfirst.gov.sg/c/6706882d-5ddc-4082-be97-8929e810db43" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Alternatively, you may wish to read about the various SafeTravel Lane options based on your purpose of travel and traveller profile.
 
