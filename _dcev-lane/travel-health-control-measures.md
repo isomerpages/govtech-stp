@@ -278,9 +278,9 @@ Travellers should note that these measures are calibrated based on epidemiologic
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note 1:</b></span</p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a traveller who has (i) received full regiment of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least two weeks before arrival in Singapore, and (ii) successfully applied to serve SHN at a place of residence or  serviced apartment.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a traveller who has (i) received full regiment of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least two weeks before arrival in Singapore, and (ii) successfully applied to serve SHN at a place of accommodation or  serviced apartment.</p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note 2:</b></span</p>
-			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to serve SHN at a place of residence or serviced apartment can be submitted <b>from 20 Aug, 2359hours via <a href="go.gov.sg/sto-enquiry">this link</a></b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy a place of residence or serviced apartment:</p>
+			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to serve SHN at a place of accommodation or serviced apartment can be submitted <b>from 20 Aug, 2359hours via <a href="go.gov.sg/sto-enquiry">this link</a></b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy a place of accommodation or serviced apartment:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Alone (i.e. no domestic helpers); or</i></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members with the same travel history and SHN duration.</i></li>
@@ -313,8 +313,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 	</li>
 	</ol>
 	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Indonesia, Philippines:</b> Take an Antigen Rapid Test , in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka:</b>  Take an Antigen Rapid Test , in addition to the COVID-19 PCR test, upon arrival in Singapore..</p>
 </td>     
 </tr>
 </tbody>
