@@ -6,12 +6,10 @@ The Singapore Citizen (SC) / Permanent Resident (PR) Familial Ties Lane (FTL) is
 
 The table below is a quick overview of the key FTL features and requirements. Travellers and applicants who have been approved to travel to Singapore via the FTL should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for the full entry process. Travellers who are not eligible for entry via the FTL may return to [this menu](/arriving/overview) to explore other Safe Travel options.
 
-
-
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -67,7 +65,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
  </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -90,7 +88,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry <br> <i>[For FTL-approved Travellers only]</i></b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For FTL-approved Travellers only]</i></b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -99,7 +97,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
