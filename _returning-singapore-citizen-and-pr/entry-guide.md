@@ -57,13 +57,13 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
     </tr>
        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
-				Traveller is fully vaccinated <sup style="color:red;"><b> [Note]</b></sup> and had remained in only Category (I), (II) or (III) countries/regions for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
+				Traveller is fully vaccinated <sup style="color:red;"><b> [Note]</b></sup> and had remained in only <a href="/sc-pr/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
 <li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
 	 <a href="https://go.gov.sg/scproptoutsdf">Click Here</a> 
 </td>
     </tr>
@@ -111,7 +111,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -166,7 +166,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td style="font-size:16px;" colspan="2"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
