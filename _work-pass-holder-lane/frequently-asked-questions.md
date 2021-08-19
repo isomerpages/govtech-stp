@@ -281,7 +281,7 @@ No, the pass holder cannot enter Singapore yet.
 
 Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses must be completed using the same brand and taken based on recommended intervals between each dose. 
 
-Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
+Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **16 Sep**.
 
 #### 8. My pass holder is fully vaccinated and took a serology test with Ministry of Health’s designated healthcare provider. However, the serology test result was negative or inconclusive. What happens next?
 
