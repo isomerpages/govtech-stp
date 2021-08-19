@@ -21,8 +21,8 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <table>
 <thead>
 <tr>
-<th>&nbsp;</th>
-<th>Requirements</th>
+<th style="font-size: 16px; font-colour: #FFFFFF; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#556B2F;">&nbsp;</th>
+<th style="font-size: 16px; font-colour: #FFFFFF; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#556B2F;">Requirements</th>
 </tr>
 </thead>
 <tbody>
