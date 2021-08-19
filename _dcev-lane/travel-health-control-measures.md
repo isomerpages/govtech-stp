@@ -132,6 +132,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Myanmar</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Nepal</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Pakistan</b></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Philippines</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
 </ul>
 </td>
