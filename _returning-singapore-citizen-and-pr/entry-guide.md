@@ -42,6 +42,54 @@ Travellers are also advised to activate <a href="https://www.tracetogether.gov.s
 
 C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN-Dedicated Facility (SDF)</u>
 
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0 ;background-color:#153855; color:white;">Conditions</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#153855; color:white;">Application</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Suffer from critical illness, special medical condition, or have mobility issues
+</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
+    </tr>
+       <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Travellers arriving in Singapore <b>from 20 August 2021</b>, 2359hrs, who:
+        <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-alpha;">
+<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 21 consecutive days before arrival in Singapore; and</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have received the full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
+</ol>
+        <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must serve their SHN in a place of accommodation or serviced apartment, either:</p>
+        <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
+</ol>
+</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+	Click <a href="https://go.gov.sg/scproptoutsdf">here</a> for Singapore Citizens and PRs (Applications must be submitted three days before arrival)
+	<p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Foreign Travellers can opt out during their entry application process</p>
+</td>
+    </tr>
+        <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out (presently Australia and Israel only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
+          <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman">
+            <li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> Alone, i.e. no domestic helper(s); or </li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:20px;"> With household members that share the same travel history and are also serving their SHN for the same duration and period.</li>
+        </ol>
+           </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Application form <a href="https://go.gov.sg/scproptoutsdf">here</a> for Singaporean Citizens and PRs. <br><br> Foreign Travellers can opt out during their entry application process. 
+</td>
+    </tr>
+  </tbody>
+  </table>
+
+
+
+
+
 Travellers may apply to serve their SHN at their own residence instead of an SDF <a href="https://go.gov.sg/scproptoutsdf">here</a>, if they have remained in the countries/regions specified in S/N 3 of <a href="/sc-pr/shn-and-swab-summary">this list</a> for 21 consecutive days and are serving their SHN:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Alone, i.e. no domestic helper(s); or</li>
@@ -83,7 +131,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -138,7 +186,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td style="font-size:16px;" colspan="2"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
