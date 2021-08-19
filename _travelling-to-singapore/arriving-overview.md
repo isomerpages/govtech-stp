@@ -42,7 +42,7 @@ Click the relevant lane below for more details.
 <table>
 	<thead>
 		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b> <br/><i>(Click the links for lane details)</i></th>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b> <br><i>(Click the links for lane details)</i></th>
 			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>General Traveller Profile</b></th>
 		</tr>
 	</thead>
@@ -95,18 +95,19 @@ Travellers who need to only make a short-term business trip to Singapore may use
 <table>
 	<thead>
 		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br/><i>(Click the links for lane details)</i></th>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br><i>(Click the links for lane details)</i></th>
 			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Countries/Regions</b></th>
 		</tr>
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br/><br/><i>(No controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-				<!--	 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
-					 <li style="font-size: 18px;">Hong Kong (for entry on or after 26 August 2021)</li>
-					 <li style="font-size: 18px;">Macao (for entry on or after 26 August 2021)</li>
+				
+					 <li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>
+					 <li style="font-size: 18px;">Hong Kong (For entries on or after 26 August 2021)</li>
+					 <li style="font-size: 18px;">Macao (For entries on or after 26 August 2021)</li>
 					  <li style="font-size: 18px;">Mainland China (excluding Jiangsu province)</li>
 					 <li style="font-size: 18px;">New Zealand</li>
 					 <li style="font-size: 18px;">Taiwan</li>
@@ -114,7 +115,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br/><br/><i>(Controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
 					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
@@ -122,7 +123,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br/><br/>(Temporarily suspended; Click  the above link for more details)<!-- <i>(Visit limited to designated Connect@Singapore facility only)</i> --></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br><br>(Temporarily suspended; Click  the above link for more details)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
 				 </ul>
