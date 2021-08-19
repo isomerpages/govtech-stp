@@ -313,7 +313,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 	</li>
 	</ol>
 	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka:</b>  Take an Antigen Rapid Test , in addition to the COVID-19 PCR test, upon arrival in Singapore..</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka:</b>  Take an Antigen Rapid Test , in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
 </td>     
 </tr>
 </tbody>
