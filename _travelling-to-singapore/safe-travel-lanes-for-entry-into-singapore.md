@@ -2,15 +2,7 @@
 title: Safe Travel Lanes for Entry Into Singapore
 permalink: /arriving/overview
 ---
-
-
-International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are currently available to facilitate controlled entry to Singapore to help prevent the spread of COVID-19. 
-
-Please use the self-help tool below to find out the SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile.
-
-<iframe width="100%" height="1000px" src="https://www.checkfirst.gov.sg/c/6706882d-5ddc-4082-be97-8929e810db43" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Alternatively, you may wish to read about the various SafeTravel Lane options based on your purpose of travel and traveller profile.
+International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 
 <div id="top"></div>
 
