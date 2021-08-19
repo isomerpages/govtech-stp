@@ -514,6 +514,77 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	</table>
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
+
+
+
+
+<div id="table2"></div>
+
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+<b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
+
+<p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
+
+<table>
+<thead>
+<tr>
+<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions that traveller had spent last 21 consecutive days in before entering Singapore</b></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Travel Health Control Measures under WPHL</b></th>
+</tr>
+	<tr>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Helpers and  Confinement nannies (CNs) </b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>All Other Pass Holders</b></th>
+</tr>
+</thead>
+	<tbody>
+		<tr>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u><b>Category I</b></u><br/>
+<ul style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Jiangsu province)</b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
+</ul>
+</td>
+<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
+	</ol>
+	</li>
+</ol>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+</tr>
+	</table>
+	</td> 
+		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Hotel room sourced by submitters <sup>[See Note]</sup></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house     </li>
+	</ol>
+	</li>
+</ol>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
+	<table>
+<tr>
+<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+</tr>
+	</table>
+</td> 
+	</tr>
+	</tbody>
+</table>
 	
 ### Penalties for non-compliance
 
