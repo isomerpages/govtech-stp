@@ -63,7 +63,7 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
 	 <a href="https://go.gov.sg/scproptoutsdf">Click Here</a> 
 </td>
     </tr>
@@ -83,8 +83,7 @@ Travellers should note that any prior approvals given to complete the SHN at a p
 
 ### 2. Departure for Singapore
 
-All travellers with travel history to higher risk countries/regions taking a flight or ferry to Singapore, must present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding (see page [here](/sc-pr/shn-and-swab-summary) to check if a PDT is required).
-
+All travellers with travel history to any <a href="/sc-pr/shn-and-swab-summary">Category (III) and (IV) countries/regions</a> in the past 21 days before departing for Singapore, must present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding.
 
 ### 3. Arrival in Singapore
 
@@ -111,7 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -166,7 +165,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td style="font-size:16px;" colspan="2"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
