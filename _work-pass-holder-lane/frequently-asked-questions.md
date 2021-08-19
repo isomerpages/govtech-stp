@@ -241,13 +241,7 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from higher-risk countries/regions, new entry applications can only be accepted for helpers and confinement nannies who remained in the following lower-risk countries/regions for 21 consecutive days before arrival:
-- Brunei
-- Hong Kong
-- Macao
-- Mainland China
-- New Zealand
-- Taiwan 
+Due to the need to reschedule helpers and confinement nannies from Category III or IV countries/regions, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in Category I or II countries/regions for 21 consecutive days before arrival.
 
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
