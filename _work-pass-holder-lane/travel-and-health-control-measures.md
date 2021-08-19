@@ -744,15 +744,15 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup> 1 </sup>An individual is considered fully vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>.<br/><br/><sup> 2 </sup>Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve SHN together at a place of residence or suitable accommodation (e.g. hotel or serviced apartment).</td></tr>
 	</tr>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u><b>Category IV</b></u><br/><br/>All other countries/regions excluding:
-<ul style="margin-top: 0px; list-style-type: disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Bangladesh</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">India</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Myanmar</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Nepal</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pakistan</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Sri Lanka</li>
-</ul><br/>	Entry is disallowed for pass holders with travel history, including transit, to any of the above  countries/regions. This applies even if they had received prior entry approvals.
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Category IV</b></u><br/><br/><b>All other countries/regions <u>excluding</u></b>:
+<ol style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Bangladesh</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>India</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Myanmar</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Nepal</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Pakistan</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
+</ol><br/>Entry is disallowed for pass holders with travel history, including transit, to any of the above countries/regions. This applies even if they had received prior entry approvals.
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -768,26 +768,28 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:
-	</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:</li>
+
 	<table>
 <tr>
 <th  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>If the helper/CN is serving SHN </b></th>
 	<th style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>She must take these tests</b></th>
 </tr>
 		<tr>
-<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;  ">By herself or with another helper/CN</td>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;">By herself or with another helper/CN</td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">
-		<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;>(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) Antigen Rapid Test (ART) ($67 including GST) at the checkpoint</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;>(For all helpers/CNs) COVID-19 PCR test at the SHN dedicated facility (SDF) within the first few days of arrival. <b>No registration is needed</b>. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li></ol>
+<ol style="margin-top: 0px; list-style-type: disc;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) Antigen Rapid Test (ART) ($67 including GST) at the checkpoint</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(For all helpers/CNs) COVID-19 PCR test at the SHN dedicated facility (SDF) within the first few days of arrival. <b>No registration is needed</b>. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
+		</ol>
 		</td>
 </tr>
 				<tr>
-<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">With her employer or employer’s family</td>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;">With her employer or employer’s family</td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;"><ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;>(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) Antigen Rapid Test (ART) ($67 including GST) at the checkpoint</li> 
-			   <li>(For all helpers/CNs) COVID-19 PCR test at the checkpoint ($160 including GST)</li></ol><br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) Antigen Rapid Test (ART) ($67 including GST) at the checkpoint</li> 
+			   <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(For all helpers/CNs) COVID-19 PCR test at the checkpoint ($160 including GST)</li>
+			   </ol><br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
 </tr>
 	</table>
