@@ -68,7 +68,7 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
 Application can be submitted together with the Entry Approval application
 </td>
     </tr>
@@ -112,7 +112,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -138,48 +138,18 @@ Click <a href="/health/faq#transportQ3">here</a> for the relevant charges.
 
 ### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
 
-Travellers must remain in their accommodation of self-isolation or SHN/SDF, until <u>after</u> they are ascertained to be free of COVID-19.
+Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices">HealthHub App</a>. Any traveller who is tested positive for <a href="https://safetravel.ica.gov.sg/health/covid19-symptoms">COVID-19</a> will be <a href="/health/covidtreatment">sent for treatment</a> immediately. 
+All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this webform for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART.
 
-Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests required and automatically scheduled for you during your SHN. Otherwise, refer to the table below for the typical test schedule.
-
-<table>
-<thead>
-<tr>
-<th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;;">Self-isolation/SHN Period</th>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;background-color:#153855; color:white;">COVID-19 Test Schedule</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">N.A.
- </td>
- </tr>
-<tr>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN</td>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">COVID-19 PCR test on Day 7 of SHN</td>
-</tr>
-<tr>
-	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">COVID-19 PCR test on Day 14 of SHN</td>
-</tr>
-	<tr>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at an SDF</td>
-		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, and COVID-19 PCR test on Day 14 of SHN</td>
-</tr>
-<tr>
-	<td colspan="2" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
-</tr>
-</tbody>
-</table>
-
-
+Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call, SMS or email. Travellers with Singpass may also view their results via the HealthHub App. Any traveller who is tested positive for COVID-19 will be sent for treatment immediately. 
 
 	
 ### 5. Completion of Self-isolation/SHN
 
 Travellers under self-isolation or serving SHN at their own residence may leave their accommodation after a negative COVID-19 test result is conveyed. For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
+
+Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the TraceTogether app, which allows the identification of close contacts of a positive COVID-19 case.
+
 
 Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app, which allows the identification of close contacts of a positive COVID-19 case.
