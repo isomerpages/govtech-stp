@@ -100,13 +100,13 @@ All travellers with a travel history to any [Category (III) and (IV) country/reg
 
 A) <u>Immigration Clearance</u>
 
-Travellers who arrive in Singapore without a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
+Travellers with a travel history to any [Category (III) and (IV) country/region](scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
 
-Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the [SGAC declaration](#sgac). Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. Travellers who do not receive an SHN will be required to remain in self-isolation until a negative COVID-19 PCR test result is conveyed.
+Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the [SGAC declaration](#sgac). Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. For example, if traveller had visited a Category (I) and (III) country/region in any of the past 21 days before arrival in Singapore, the Category (III) measures will apply regardless of the duration stayed in each location (includes transits).
 
 B) <u>COVID-19 Tests</u>
 
-Travellers must take their on-arrival COVID-19 test(s) and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not [pay for their test(s) before arrival](#sgac), will pay on the spot.
+Travellers must take their on-arrival [COVID-19 test(s)](/health/covid19-tests/pcrtest) and commute directly to their self-isolation accommodation or SDF immediately. Travellers who did not [pay for their test(s) before arrival](#sgac), will pay on the spot.
 
 B) <u>Transport to Self-Isolation/SHNs</u>
 
@@ -122,7 +122,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -132,29 +132,30 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
 </tr>
-<!--<tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation after serving 14-day SHN at SDF</td>
-</tr>-->
+	<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. <br>Click <a href="/files/stridesbooking.pdf">here</a> for instructions to pre-book a vehicle. <br>
+Click <a href="/health/faq#transportQ3">here</a> for the relevant charges. 
+</td>
+</tr>
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SDF transport provided, no booking required</td>
 </tr>
-<tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="/health/faq#transportQ3">here</a>. 
-</td>
-</tr>
 </tbody>
 </table>
+
 
 
 ### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers are required to take additional COVID-19 tests during the SHN period. Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call or SMS . Travellers with Singpass may also view their results on the [HealthHub App](https://www.healthhub.sg/HealtheServices). Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
+All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this [webform](https://go.gov.sg/sto-enquiry) for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART.
 
-Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tests required and automatically scheduled for you during your SHN. Otherwise, refer to the table below for the typical test schedule:
+Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).  Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
+
+Travellers who test positive for [COVID-19](https://safetravel.ica.gov.sg/health/covid19-symptoms) will and must undergo [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
 
 <table>
 <thead>
@@ -191,8 +192,6 @@ Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to check for the tes
 
 ### 5. Completion of Self-isolation/SHN
 
-Travellers under self-isolation or serving SHN at their own residence may leave their accommodation when a negative COVID-19 test result is conveyed. 
-
-For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
+Travellers under self-isolation or serving SHN at their own residence may leave their accommodation when a negative COVID-19 test result is conveyed. For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
 
 Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app, which allows the identification of close contacts of a positive COVID-19 case.
