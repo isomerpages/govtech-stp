@@ -9,9 +9,15 @@ permalink: /sc-pr/shn-and-swab-summary
 SC/PRs who are returning to Singapore may use this <a href="/sc-pr/online-assistant">online self-help tool</a> or refer to the table below (inclusive of latest announcement made on <b><u>19 Aug 2021</u></b>) for the applicable travel health control measures. To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
 Travellers should note that these measures are calibrated based on epidemiological risks, and therefore applied based on the traveller’s <u>21-day travel history before arrival in Singapore</u>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply. As a condition for entry into Singapore, travellers <u>must</u> comply with the travel health control measures required. Breaches of requirements may result in penalties under the Infectious Diseases Act and/or other relevant laws.
-
+<table>
+	<tr>
+		<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;">
 <p style="font-size:20px;"><b>For Travellers arriving <span style="color: red;">before 20 Aug 2021, 2359h</span>, please refer to the table (<a href="#table1">here</a>) .</b></p>
 <p style="font-size:20px;"><b>For Travellers arriving <span style="color: red;">from 20 Aug 2021, 2359h</span>, please refer to the table (<a href="#table2">here</a>) .</b></p>
+		</td>
+	</tr>
+	</table>
+
 
 <div id="table1"></div>
 
