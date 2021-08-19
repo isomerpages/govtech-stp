@@ -23,13 +23,13 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures Imposed</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<u>S/N 1</u><br>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1</u><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Brunei</b></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Jiangsu province)</b></li>
@@ -45,7 +45,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td> 
 	</tr>
 <tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 2</u><br>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br><i><b>Note:</b> ATB launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</i></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
@@ -66,7 +66,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 3</u><br>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 3</u><br>
 <ul style="font-size:16px; margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
@@ -90,16 +90,10 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a> or their place of residence*, <u>and</u> take a COVID-19 PCR test on the last day of the SHN</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in an SDF will also administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore</li>
 </ol>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>*</sup><i> Travellers may use <a href="https://go.gov.sg/scproptout">this form</a> to request to serve their SHN at their place of residence. To qualify, the traveller must satisfy the following conditions:</i></p>
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Remained in the countries/regions specified in this row for 21 consecutive days prior to arriving in Singapore; and</i></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Occupying the place of residence alone (i.e. no domestic helpers), or with household members with the same travel history and SHN period.</i></li>
-</ol>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Travellers should note that any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
 </td>
 </tr>
 		<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 4</u><br>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 4</u><br>
 	<ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
@@ -140,7 +134,7 @@ This set of measures is only applicable to fully vaccinated travellers who have 
 </td>
 </tr>	
 		<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 5</u><br><b>Indonesia</b></td>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 5</u><br><b>Indonesia</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
@@ -166,7 +160,7 @@ This set of measures is only applicable to fully vaccinated travellers who have 
 </td>     
 </tr>	
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 6</u><br>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
@@ -181,7 +175,7 @@ This set of measures is only applicable to fully vaccinated travellers who have 
 </td>
 </tr>
 	<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 7</u><br>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Philippines</b></li>
 </ul>
@@ -211,7 +205,7 @@ This set of measures is only applicable to fully vaccinated travellers who have 
 </td>
 </tr>
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 8</u><br><b>All other countries/regions</b></td>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 8</u><br><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
