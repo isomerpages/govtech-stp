@@ -4,7 +4,10 @@ permalink: /arriving/overview
 ---
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are currently available to facilitate controlled entry to Singapore to help prevent the spread of COVID-19. 
 
-Please use the self-help tool
+Please use the self-help tool below to find out the SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile.
+
+
+&lt;*EMBED SELF-HELP TOOL HERE&gt;
 
 
 
