@@ -145,7 +145,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to bear the cost of their accommodation (if applicable) in Singapore.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; color:red;">Note: Travellers may refer to the Singapore Hotel Association (SHA) website for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; color:red;"><i>Note: Travellers may refer to the Singapore Hotel Association (SHA) website for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</i></p>
 </td>
 </tr>
 <tr>
