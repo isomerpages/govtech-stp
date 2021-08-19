@@ -68,7 +68,7 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
 Application can be submitted together with the Entry Approval application
 </td>
     </tr>
@@ -93,7 +93,7 @@ A) <u>Immigration Clearance</u>
 
 Travellers with a travel history to any [Category (III) and (IV) country/region](/stpl/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a  [valid negative PDT report](#PDT)  may be denied entry into Singapore and could have their passes revoked.
 
-Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the SGAC declaration. Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. For example, if traveller had visited a Category (I) and (III) country/region in any of the past 21 days before arrival in Singapore, the Category (III) measures will apply regardless of the duration stayed in each location (includes transits).
+Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the [SGAC declaration](#SGAC). Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. For example, if traveller had visited a Category (I) and (III) country/region in any of the past 21 days before arrival in Singapore, the Category (III) measures will apply regardless of the duration stayed in each location (includes transits).
 
 B) <u>COVID-19 Tests</u>
 
@@ -112,7 +112,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
