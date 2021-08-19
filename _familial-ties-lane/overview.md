@@ -2,15 +2,16 @@
 title: Overview
 permalink: /scpr-familial-ties-lane/overview
 ---
-The Singapore Citizen (SC) / Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel Lane that facilitates entry of immediate family members of SC/PRs, and PR in-principle approval holders into Singapore. SC/PRs may return to Singapore without the need for any Entry Approvals and may refer to [this page](/sc-pr/requirements-and-process) for more information instead.
+The Singapore Citizen (SC) / Permanent Resident (PR) Familial Ties Lane (FTL) is a Safe Travel Lane that facilitates entry of immediate family members of SC/PRs, and PR in-principle approval holders into Singapore. SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/requirements-and-process) for more information. Travellers who are fully vaccinated and are returning from Brunei and Germany from 8 Sep 2021 onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
 
-The table below is a quick overview of the key FTL features and requirements. Travellers and applicants who have been approved to travel to Singapore via the FTL should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for the full entry process. Travellers who are not eligible for entry via the FTL may return to <a href="/arriving/overview">this menu</a> to explore other Safe Travel options.
+The table below is a quick overview of the key FTL features and requirements. Travellers and applicants who have been approved to travel to Singapore via the FTL should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for the full entry process. Travellers who are not eligible for entry via the FTL may return to [this menu](/arriving/overview) to explore other Safe Travel options.
+
 
 
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
+<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -66,7 +67,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
  </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -89,7 +90,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For FTL-approved Travellers only]</i></b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry <br> <i>[For FTL-approved Travellers only]</i></b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -98,7 +99,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
