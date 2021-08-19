@@ -25,16 +25,16 @@ permalink: /vtl/conditions
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
 				<li style="font-size:18px; list-style-type:lower-roman;">retain the TraceTogether app with the data on his/her mobile device for 21 consecutive days after leaving Singapore; and</li>
-				<li style="font-size:18px; list-style-type:lower-roman;">provide all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the 21 days after leaving Singapore.</li>
+				<li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore, or inform the Singapore Ministry of Health of his/her COVID-19 positive status and request for the code to upload all teh data in the TraceTogether app should he/she test positive for COVID-19 in the 21 days after leaving Singapore.</li>
 				 </ol>
 	</li>
-	     <li style="font-size:18px; list-style-type:lower-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore;</li>
+	     <li style="font-size:18px; list-style-type:lower-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;"> adhere to all prevailing public health measures while in Singapore; and</li>
-		     <li style="font-size:18px; list-style-type:lower-alpha;"> remain contactable at all times via his/her their declared mobile number and email address</li>
+		     <li style="font-size:18px; list-style-type:lower-alpha;"> remain contactable at all times while in Singapore via his/her their declared mobile number and email address</li>
      </ol>
   </li>
   <br>
-    <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
+    <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
 </li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> The requirement in Condition 2(e) does not apply to travellers whose time of departure  from Singapore is before 1500 hours (Singapore time) on Day 3 of their stay in Singapore. Travellers whose time of departure from Singapore is before 1500 hours (Singapore time) on Day 7 of their stay in Singapore are not required to undergo a COVID-19 PCR test on Day 7.
@@ -51,7 +51,7 @@ permalink: /vtl/conditions
 
 <p style="font-size:14px; line-height:1.5;"><sup>1</sup>If the scheduled day of departure of the flight is D (e.g. 1 October 2021), the traveller must have remained in his/her declared point of departure from D-21 to D (i.e. 10 September to 1 October 2021, if D is 1 October 2021).</p>
 		
-<p style="font-size:14px; line-height:1.5;"><sup>2</sup>Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p>
+<p style="font-size:14px; line-height:1.5;"><sup>2</sup>Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p>
 
 <p style="font-size:14px; line-height:1.5;"><sup>3</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day </p>
 
