@@ -91,14 +91,14 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;" rowspan="2">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Royal Brunei Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;" rowspan="3">Germany</td>
+<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;" colspan="2"><b>Day of Departure to Singapore</b></th>
+<th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
@@ -196,27 +196,27 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Immigration clearance</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">At arrival immigration in Singapore, all travellers must present to the ICA officer:</p>
-<ol style="font-size:16px;list-style-type: disc;">
-<li style="font-size:16px;">a valid proof of vaccination status, which can be in the form of:
-<ol style="font-size:16px;list-style-type: circle;">
-<li style="font-size:16px;">a vaccination status on the TraceTogether app;</li>
-<li style="font-size:16px;">a vaccination status on the HealthHub app; or</li>
-<li style="font-size:16px;">an electronic or physical copy of the vaccination certificate, stating the following:
-<ol style="font-size:16px;list-style-type: lower-roman;">
-<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-<li style="font-size:16px;">the country of vaccination;</li>
-<li style="font-size:16px;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
-<li style="font-size:16px;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)</li>
+<ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a valid proof of vaccination status, which can be in the form of:
+<ol style="margin-top: 10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
+<li style="margin-top: 10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the HealthHub app; or</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">an electronic or physical copy of the vaccination certificate, stating the following:
+<ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;list-style-type: lower-roman;">
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country of vaccination;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)</li>
 </ol>
 </li>
 </ol>
 </li>
-<li style="font-size:16px;">a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
-<ol style="font-size:16px;list-style-type: circle;">
-<li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-<li style="font-size:16px;">a negative COVID-19 PCR test result;</li>
-<li style="font-size:16px;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>
-<li style="font-size:16px;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a negative COVID-19 PCR test result;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
 </li>
 </ol>
