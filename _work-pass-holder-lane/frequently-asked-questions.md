@@ -253,7 +253,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 #### 3. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history within the last 21 days before arrival to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China, New Zealand and Taiwan) must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders with travel history within the last 21 days before arrival to Category III or IV countries/regions must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
 #### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
