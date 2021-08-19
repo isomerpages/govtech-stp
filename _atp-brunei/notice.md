@@ -8,7 +8,7 @@ Given the increase in the number of COVID-19 cases in Brunei Darussalam, Singapo
 
 ### Short-term Visitors
 
-**Short-term visitors with travel history to Brunei Darussalam, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **20 August 2021, 2359hrs (Singapore time)**. Please refer to the press release <a href="">here</a> issued by the Singapore Ministry of Health (MOH) dated 19 August 2021.
+**Short-term visitors with travel history to Brunei Darussalam, within the last 21 days before departure for Singapore**, will not be allowed to enter Singapore with effect from **20 August 2021, 2359hrs (Singapore time)**. Please refer to the press release <a href="https://www.moh.gov.sg/news-highlights/details/next-steps-in-our-transition-towards-covid-resilience">here</a> issued by the Singapore Ministry of Health (MOH) dated 19 August 2021.
 	
 With immediate effect, applications for the ATP for short-term visitors travelling from Brunei Darussalam will be suspended until further notice.
 
