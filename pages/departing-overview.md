@@ -58,8 +58,3 @@ Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following coun
   </table>
 
 These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
-
-
-### DEFERMENT OF SINGAPORE – HONG KONG AIR TRAVEL BUBBLE (ATB) FLIGHTS LAUNCH
-
-Given the evolving COVID-19 situation in Singapore, the Singapore and Hong Kong Governments have agreed to defer the launch of the Singapore – Hong Kong Air Travel Bubble (ATB) flights. This is to safeguard public health in both cities as well as travellers’ health. For more information, please refer to the deferment notice [here](/hongkong/atb/notice).
