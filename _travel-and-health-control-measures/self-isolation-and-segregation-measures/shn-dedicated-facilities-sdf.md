@@ -70,20 +70,23 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
        <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">From <b>20 August 2021, 2359hrs, travellers who:</b>
+      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Travellers arriving in Singapore <b>from 20 August 2021</b>, 2359hrs, who:</b>
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-alpha;">
-<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Received full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
+<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 21 consecutive days before arrival in Singapore; and</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have received the full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
 </ol>
-        <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must also satisfy either of the following conditions:</p>
+        <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must serve their SHN in a place of accommodation or serviced apartment, either:</p>
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">occupying the place of residence alone (i.e. <i>no domestic helpers</i>); or</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">only with household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
+<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
 </ol>
-         <p style="font-size:20px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Singapore Citizens (SCs) and Permanent Residents (PRs) must apply to opt out before arrival. Travellers who are not SCs or PRs may apply to opt out as part of the entry application process from 20 August 2021, 2359 hours onwards. All travellers must present the approval to opt out upon arrival in Singapore.</p>
+        <!-- <p style="font-size:20px; margin-top:20px; margin-bottom:0px; line-height:1.5;">Singapore Citizens (SCs) and Permanent Residents (PRs) must apply to opt out before arrival. Travellers who are not SCs or PRs may apply to opt out as part of the entry application process from 20 August 2021, 2359 hours onwards. All travellers must present the approval to opt out upon arrival in Singapore.</p>-->
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+	Click <a href="https://go.gov.sg/scproptoutsdf">here</a> for Singapore Citizens and PRs (Applications must be submitted three days before arrival)
+	<p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Foreign Travellers can opt out during their entry application process</p>
+</td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Are using <a href="https://safetravel.ica.gov.sg/arriving/overview">Safe Travel Lanes</a> from countries/regions eligible for SDF partial opt-out (presently Australia and Israel only), where they have remained for 21 consecutive days before arrival in Singapore, and are serving their SHN:
