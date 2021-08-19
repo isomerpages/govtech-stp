@@ -45,31 +45,31 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
 <table>
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0 ;background-color:#153855; color:white;">Conditions</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#153855; color:white;">Application</th>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0 ;background-color:#153855; color:white;">Conditions</th>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#153855; color:white;">Application</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Click Here</a></td>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Click Here</a></td>
     </tr>
        <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
 				Traveller is fully vaccinated <sup style="color:red;"><b> [Note]</b></sup> and had remained in only <a href="/sc-pr/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
-        <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
-<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
+        <ol style="font-size:16px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
+	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
 	 <a href="https://go.gov.sg/scproptoutsdf">Click Here</a> 
 </td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b style="color:red;">Note:</b>
-			<p style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>			 
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b style="color:red;">Note:</b>
+			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>			 
 					 Traveller must receive the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>(refer to "COVID-19 Vaccine EUL issued" section) at least two weeks before arrival in Singapore. Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
            </td>
     </tr>
@@ -110,7 +110,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -147,4 +147,3 @@ Travellers who test positive for [COVID-19](https://safetravel.ica.gov.sg/health
 Travellers under self-isolation or serving SHN at their own residence may leave their accommodation when a negative COVID-19 test result is conveyed. For travellers serving SHN at an SDF, the checkout timing will be conveyed to the traveller by the SDF.
 
 Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
-
