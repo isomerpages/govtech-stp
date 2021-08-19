@@ -146,14 +146,14 @@ For (A) and (B), please see sample screenshots below:
 <table>
 <thead>
 <tr>
-<th>Vaccination status on TraceTogether app</th>
-<th>Vaccination status on HealthHub app</th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Vaccination status on TraceTogether app</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Vaccination status on HealthHub app</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
-<td><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
 </tr>
 </tbody>
 </table>
@@ -171,7 +171,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
+<img style="width:180px; height:180px;" src="/images/Vaccination QR code.png">
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -226,18 +226,18 @@ Please refer to the relevant airlines’ websites for details of the designated 
 <table>
 <thead>
 <tr>
-<th>Country/Region of Departure</th>
-<th>Airlines</th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Country/Region of Departure</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Airlines</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Brunei Darussalam</td>
-<td>Royal Brunei Airlines<br>Singapore Airlines</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Brunei Darussalam</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Royal Brunei Airlines<br>Singapore Airlines</td>
 </tr>
 <tr>
-<td>Germany</td>
-<td>Lufthansa<br>Scoot<br>Singapore Airlines</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Germany</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Lufthansa<br>Scoot<br>Singapore Airlines</td>
 </tr>
 </tbody>
 </table>
@@ -605,8 +605,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
-      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
+      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
+      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
     </tr>
   </tbody>
   </table>
@@ -625,7 +625,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
+<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
