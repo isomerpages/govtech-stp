@@ -6,7 +6,7 @@ As part of Singapore’s efforts to reopen our borders safely, fully vaccinated 
 
 In order to enter Singapore via the VTL, a traveller, who is not a Singapore Citizen or Permanent Resident, must apply for a <b>Vaccinated Travel Pass (VTP)</b> with effect from <b>1 September 2021, 0001 hours (Singapore time)</b>, for entry into Singapore from <b>8 September 2021, 0001 hours (Singapore time)</b>.
 
-Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here]() for more information on the requirements.
+Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/vtl) for more information on the requirements.
 
 ### Overview of VTL Requirements for Short-Term Visitors and Long-Term Pass Holders
 
@@ -204,7 +204,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -214,7 +214,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -265,7 +265,7 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 		</td>
 	</tr>
 					<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-Isolation Accommodation</b>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Travellers are required to be isolated until they receive a negative on-arrival COVID-19 PCR test result.<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The types of accommodation for self-isolation are:</p>
 						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
@@ -294,7 +294,7 @@ Short term visitors are required to download and register their profile on the T
 		</td>
 	</tr>
 							<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
+		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of Departure to Singapore</b>
 </td>
 	</tr>
 							<tr>
