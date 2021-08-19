@@ -51,14 +51,14 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tr>
 <tr>
 <td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>Self-isolation Accommodation</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The types of accommodation for self-isolation are:</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">The types of accommodation for self-isolation are:</p>
 <ol style="font-size:16px;list-style-type: disc;">
 	<li style="font-size:16px;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
 	<li style="font-size:16px;">non-residential accommodation (i.e. hotel or serviced apartment</li>
 	</ol>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p></td>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p></td>
 </tr>
 </tbody>
 </table>
@@ -68,9 +68,9 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <table>
 <tbody><tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Pre-Departure COVID-19 PCR Test</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an internationally accredited or recognised laboratory, clinic, or medical facility.</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an internationally accredited or recognised laboratory, clinic, or medical facility.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">A test result certificate must be obtained in English stating the following:</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">A test result certificate must be obtained in English stating the following:</p>
 <ol style="font-size:16px;list-style-type: disc;">
 <li style="font-size:16px;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number;</li>
 <li style="font-size:16px;">a negative COVID-19 PCR test result;</li>
@@ -92,14 +92,14 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;" rowspan="2">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Royal Brunei Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;" rowspan="3">Germany</td>
+<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
 </tr>
 <tr>
@@ -114,8 +114,8 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Travel History</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers to Singapore must remain in their country/region of departure, or in their country/region of departure and Singapore, in the last 21 consecutive days before departing for Singapore</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers to Singapore must remain in their country/region of departure, or in their country/region of departure and Singapore, in the last 21 consecutive days before departing for Singapore</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
 <ol style="font-size:16px;list-style-type: lower-roman;">
 <li style="font-size:16px;">Have symptoms of COVID-19;</li>
 <li style="font-size:16px;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>
@@ -135,18 +135,18 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Self-Isolation Accommodation</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are required to be isolated until they receive a negative on-arrival COVID-19 PCR test result.</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The types of accommodation for self-isolation are:</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to be isolated until they receive a negative on-arrival COVID-19 PCR test result.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">The types of accommodation for self-isolation are:</p>
 <ol style="font-size:16px;list-style-type: disc;">
 	<li style="font-size:16px;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
 	<li style="font-size:16px;">non-residential accommodation (i.e. hotel or serviced apartment</li>
 	</ol>
 	
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are required to bear the cost of their accommodation (if applicable) in Singapore.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to bear the cost of their accommodation (if applicable) in Singapore.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;">Note: Travellers may refer to the Singapore Hotel Association (SHA) website for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; color:red;">Note: Travellers may refer to the Singapore Hotel Association (SHA) website for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</p>
 </td>
 </tr>
 <tr>
@@ -154,11 +154,11 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should also register and make payment for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;" colspan="2"><b>Day of Departure to Singapore</b></th>
+<th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">When checking in at the departure airport, travellers must present to the airline staff:</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">When checking in at the departure airport, travellers must present to the airline staff:</p>
 <ol style="font-size:16px;list-style-type: disc;">
 <li style="font-size:16px;">a valid proof of vaccination status, which can be in the form of:
 <ol style="font-size:16px;list-style-type: circle;">
@@ -192,11 +192,11 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <table>
 <tbody><tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Upon arrival in Changi Airport</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers who need to purchase Singapore dollars or SIM cards, or rent mobile phones, must do so in the airport transit area prior to clearing arrival immigration. This is because travellers are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on "Transport from airport to accommodation" below.</p></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers who need to purchase Singapore dollars or SIM cards, or rent mobile phones, must do so in the airport transit area prior to clearing arrival immigration. This is because travellers are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on "Transport from airport to accommodation" below.</p></td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Immigration clearance</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">At arrival immigration in Singapore, all travellers must present to the ICA officer:</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">At arrival immigration in Singapore, all travellers must present to the ICA officer:</p>
 <ol style="font-size:16px;list-style-type: disc;">
 <li style="font-size:16px;">a valid proof of vaccination status, which can be in the form of:
 <ol style="font-size:16px;list-style-type: circle;">
@@ -225,15 +225,15 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8;"><b>Transportation from airport to accommodation</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p></td>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p></td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Self-isolation and notification of on-arrival COVID-19 PCR test results</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The results of the on-arrival COVID-19 PCR test will likely be available within <b>24 hours</b>. Once travellers have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">The results of the on-arrival COVID-19 PCR test will likely be available within <b>24 hours</b>. Once travellers have been notified that they have tested negative for COVID-19, they can leave their declared accommodation and go about their activities in Singapore.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are responsible for their medical expenses should they require medical treatment for COVID-19 while in Singapore.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are responsible for their medical expenses should they require medical treatment for COVID-19 while in Singapore.</p>
 </td>
 </tr>
 </tbody></table>
@@ -244,24 +244,24 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 <table>
 <tbody><tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Prevailing public health measures</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">While in Singapore, travellers must adhere to the prevailing public health measures, which include requirements on wearing of masks and safe distancing, and any other safe management measures relevant to the activities that they participate in, or settings that they visit.</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">While in Singapore, travellers must adhere to the prevailing public health measures, which include requirements on wearing of masks and safe distancing, and any other safe management measures relevant to the activities that they participate in, or settings that they visit.</p>
 </td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Post-arrival Day 3 and Day 7 COVID-19 PCR tests</b><sup>1</sup></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are required to undergo post-arrival COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore. They can make payment for their post-arrival COVID-19 PCR tests in person at the clinic when they show up for their tests.</p>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to undergo post-arrival COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore. They can make payment for their post-arrival COVID-19 PCR tests in person at the clinic when they show up for their tests.</p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">If travellers are leaving Singapore and their time of departure from Singapore is:</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">If travellers are leaving Singapore and their time of departure from Singapore is:</p>
 <ol style="font-size:16px;list-style-type: disc;">
 <li style="font-size:16px;">before 1500 hours on the day of test, they will be exempted from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>
 
 <li style="font-size:16px;">on or after 1500 hours on the day of test, they are still required to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p> 
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p> 
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both. </p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both. </p>
 
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.</p>
 </ol></td>
 </tr>
 </tbody></table>
