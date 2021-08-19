@@ -120,14 +120,15 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
 </tr>
+	<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. <br/>Click <a href="/files/stridesbooking.pdf">here</a> for instructions to pre-book a vehicle. <br/>
+Click <a href="/health/faq#transportQ3">here</a> for the relevant charges. 
+</td>
+</tr>
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SDF transport provided, no booking required</td>
-</tr>
-<tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="/health/faq#transportQ3">here</a>. 
-</td>
 </tr>
 </tbody>
 </table>
