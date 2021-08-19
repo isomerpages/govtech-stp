@@ -69,7 +69,7 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
 </ol>
 </td>
-      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
 Application can be submitted together with the Entry Approval application
 </td>
     </tr>
@@ -86,7 +86,7 @@ Application can be submitted together with the Entry Approval application
 
 Travellers must obtain a valid entry approval letter before travelling to Singapore. During pre-boarding checks, travellers may be asked to produce the approval letter.
 
-Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore, must also present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding. Click <a href="/stpl/shn-and-swab-summary">here</a> to check if a PDT is required.
+All travellers with a travel history to any [Category (III) and (IV) country/region](/stpl/shn-and-swab-summary) in the past 21 days before arriving in Singapore, must also present a  [valid negative PDT report](#PDT)  report during pre-boarding checks, otherwise they may be denied boarding.
 
 ### 3. Arrival in Singapore
 
@@ -123,19 +123,18 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day SHN at own accommodation</td>
 </tr>
-
+	<tr>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
+<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. <br>Click <a href="/files/stridesbooking.pdf">here</a> for instructions to pre-book a vehicle. <br>
+Click <a href="/health/faq#transportQ3">here</a> for the relevant charges. 
+</td>
+</tr>
 <tr>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">SHN at SDF</td>
 <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Dedicated SDF transport provided, no booking required</td>
 </tr>
-<tr>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Approved 14-day SHN at own residence</td>
-<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Strides Transportation Pte Ltd. See details <a href="/health/faq#transportQ3">here</a>. 
-</td>
-</tr>
 </tbody>
 </table>
-
 
 
 ### 4. Self-isolation, Stay-Home Notice and COVID-19 Tests
@@ -172,7 +171,7 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, and COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td colspan="2" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;" colspan="2"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
