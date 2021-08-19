@@ -1,12 +1,12 @@
 ---
-title: Travelling to Singapore
+title: Arriving Overview
 permalink: /arriving/overview
 ---
-## Overview
+
+International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 
 <div id="top"></div>
 
-International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
 	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
@@ -23,7 +23,7 @@ Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/a
 
 Singapore Citizens and Singapore Permanent Residents <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. 
 
-However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click <a href="/sc-pr/overview">here</a>  for more information.
+However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. There are reduced health measures for fully vaccinated travellers departing from Germany and Brunei under the Vaccinated Travel Lane from 8 Sep 2021. Click <a href="/sc-pr/overview">here</a>  for more information.
 
 ---
 
@@ -37,12 +37,14 @@ Click here to return to the <a href="#top">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
-Click the relevant lane below for more details.
+Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane which is open for applications from 1 Sep 2021, for first arrivals on 8 Sep 2021. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
+
+Otherwise, click the relevant lane below for more details.
 
 <table>
 	<thead>
 		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b> <br/><i>(Click the links for lane details)</i></th>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b> <br><i>(Click the links for lane details)</i></th>
 			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>General Traveller Profile</b></th>
 		</tr>
 	</thead>
@@ -95,25 +97,26 @@ Travellers who need to only make a short-term business trip to Singapore may use
 <table>
 	<thead>
 		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br/><i>(Click the links for lane details)</i></th>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br><i>(Click the links for lane details)</i></th>
 			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Countries/Regions</b></th>
 		</tr>
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br/><br/><i>(No controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-				<!--	 <li style="font-size: 18px;">	Australia (excluding New South Wales, for arrivals from 26 Jun 2021, 2359 hours) </li>-->
-					 <li style="font-size: 18px;">	Brunei Darussalam</li>
+					 <li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>
+					 <li style="font-size: 18px;">Hong Kong (For entries on or after 26 August 2021)</li>
+					 <li style="font-size: 18px;">Macao (For entries on or after 26 August 2021)</li>
 					  <li style="font-size: 18px;">Mainland China (excluding Jiangsu province)</li>
 					 <li style="font-size: 18px;">New Zealand</li>
-					 					 <li style="font-size: 18px;">Taiwan (for entries on or after 12 Aug 2021)</li>
+					 <li style="font-size: 18px;">Taiwan</li>
 				 </ul>
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br/><br/><i>(Controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
 					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
@@ -121,9 +124,17 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br/><br/>(Temporarily suspended; Click  the above link for more details)<!-- <i>(Visit limited to designated Connect@Singapore facility only)</i> --></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br><br>(Temporarily suspended; Click  the above link for more details)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
+				 </ul>
+				</td>
+	</tr>
+					<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers)</td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+			<li style="font-size: 18px;">Brunei (for entry on or after 8 Sep 2021) </li>
+				 			<li style="font-size: 18px;">Germany (for entry on or after 8 Sep 2021)</li>
 				 </ul>
 				</td>
 	</tr>
@@ -142,10 +153,13 @@ Click here to return to the <a href="#top">top</a>.
 
 Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
-	<li><a href="/atp/requirements-and-process">Brunei Darussalam</a></li>
+		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
+			<li><a href="/vtl/requirements-and-process">Germany</a></li>
+	<li><a href="/atp/requirements-and-process">Hong Kong</a></li>
+	<li><a href="/atp/requirements-and-process">Macao</a></li>
 	<li><a href="/atp/requirements-and-process">Mainland China (excluding Jiangsu province)</a></li>
 	<li><a href="/atp/requirements-and-process">New Zealand</a></li>
-	<li><a href="/atp/requirements-and-process">Taiwan  (for entries on or after 12 Aug 2021)</a></li>
+	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
 </ul>
 	
 ---

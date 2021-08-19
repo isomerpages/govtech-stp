@@ -14,7 +14,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under the [Suite Options](#options) section below to directly enquire and book their preferred suite, if available.
 
-**Step 3:** After booking a suite with their preferred SDF, travellers should immediately inform government agencies of the booking at <https://go.gov.sg/sdfsuite>. This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time may be assigned to a standard room at any SDF upon arrival.</u> The charge for a subsequent transfer to another SDF is at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
+**Step 3:** After booking a suite with their preferred SDF, travellers should immediately inform government agencies of the booking at . This is to ensure that conveyance to the right SDF (where the suite was booked) is arranged. <u>The submission must be made at least 48 hours before the traveller’s arrival in Singapore. Travellers who fail to submit their booking details on time may be assigned to a standard room at any SDF upon arrival.</u> The charge for a subsequent transfer to another SDF is at least S$345 (S$300 for specialised cleaning costs for the vacated room; S$45/vehicle for transport to the next SDF).
  
 **Step 4:** Travellers (including Singapore Citizens and Permanent Residents) will pay for the full cost of the suite directly to the SDF during check-in. Travellers who have already paid the default SDF cost when applying for entry approval or a SafeTravel Pass will pay the difference in cost directly to the SDF during check-in. 
 
@@ -27,134 +27,119 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
   <thead>
     <tr>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">&nbsp;</th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Junior (<80sqm)<sup>#</sup></th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Junior (&lt;80sqm)<sup>#</sup></th>
       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Standard (80-100sqm)
 </th>
        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Large (100-200sqm)
 </th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Extra Large (>200sqm)</th>
+        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED">Extra Large (&gt;200sqm)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"  rowspan="2">Cost (for 1<sup>st</sup> person, for 14-day SDF stay)^</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (for 1<sup>st</sup> person, for 14-day SDF stay)^</td>
          <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$5,000</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$7,500</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$13,000</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$20,000</td>
     </tr>
         <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/> Additional S$600 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged S$600.
+      <td colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$600 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$600.
 </td>
     </tr>
-<!-- <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" rowspan="2">Cost (for 1<sup>st</sup> person, for 21-day SDF stay)^</td>
-         <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$7,500</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$11,250</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$19,500</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$30,000</td>
-    </tr>
-        <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" colspan="4">Cost for additional persons sharing the suite (for food):<br/>Additional S$900 for every sharing person aged 4 and above.<br/> Children aged 3 years and under who require the SDF to provide food will be charged S$900
-</td>
-    </tr>-->
 	<tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:Sinhb-resvn@ihg.com">InterContinental Singapore (Bugis)</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Sinhb-resvn@ihg.com">InterContinental Singapore (Bugis)</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
     </tr>
 <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:gsm@royalplaza.com.sg">Royal Plaza on Scotts</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:gsm@royalplaza.com.sg">Royal Plaza on Scotts</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
 	<tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:Alvin.tan@sheratonsingapore.com">Sheraton Towers Singapore</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Alvin.tan@sheratonsingapore.com">Sheraton Towers Singapore</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:SDFsuite.sts@swissotel.com">Swissotel the Stamford</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.sts@swissotel.com">Swissotel the Stamford</a></td>
        <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
 <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:Reservations.Singapore3@westin.com">The Westin Singapore</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Reservations.Singapore3@westin.com">The Westin Singapore</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center;font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
     </tr>
 <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:dutymanager@regentsingapore.com.sg">The Regent</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:reservations@regentsingapore.com.sg">The Regent</a></td>
           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
    </tr>
       <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.fs@fairmont.com">Fairmont Singapore </a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.fs@fairmont.com">Fairmont Singapore </a></td>
        <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
   <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:dutymanager.sinhi@ihg.com">Holiday Inn Singapore Atrium</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:dutymanager.sinhi@ihg.com">Holiday Inn Singapore Atrium</a></td>
            <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
 <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:jw.sinjw.reservations@marriotthotels.com ">JW Marriott South Beach</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:jw.sinjw.reservations@marriotthotels.com">JW Marriott South Beach</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center;font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>   
 <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Sinci.res@conradhotels.com">Conrad Centennial Singapore</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Sinci.res@conradhotels.com">Conrad Centennial Singapore</a></td>
           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
    </tr>
    <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:suite.sinic@ihg.com">InterContinental Robertson Quay</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:suite.sinic@ihg.com">InterContinental Robertson Quay</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
    <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; "><a href="mailto:mhrs.sindt.reservations@marriotthotels.com">Marriott Tangs</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:mhrs.sindt.reservations@marriotthotels.com">Marriott Tangs</a></td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
     </tr>      
-  <!--  <tr>
-      <td style="text-align:left; font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED" colspan="5"><b>All travellers, except those with travel history to Bangladesh, India, Nepal, Pakistan, Sri Lanka, South Africa or United Kingdom in the last 21 days prior to entering Singapore</b>
-</td>
-    </tr>-->
   <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:parkavenue.rochester.dm@uel.sg">Park Avenue Rochester</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:parkavenue.rochester.dm@uel.sg">Park Avenue Rochester</a></td>
            <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>       
     <tr>
-      <td  style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:SINRS-Shared.MB-SHN@hyatt.com">Grand Hyatt </a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:SINRS-Shared.MB-SHN@hyatt.com">Grand Hyatt </a></td>
            <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
@@ -162,7 +147,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
     </tr>
   </tbody>
   </table>
-  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests. Prices may be revised periodically. In the event of a change in price, travellers will continue to pay the prevailing price at the point of booking.<br/><sup>#</sup>The typical size of a standard SDF room is 25sqm. <br/> <sup>*</sup>Subject to maximum occupancy of suites, which may vary across SDFs.</p>
+  <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests. Prices may be revised periodically. In the event of a change in price, travellers will continue to pay the prevailing price at the point of booking.<br><sup>#</sup>The typical size of a standard SDF room is 25sqm. <br> <sup>*</sup>Subject to maximum occupancy of suites, which may vary across SDFs.</p>
   
 --------------------
 
@@ -172,6 +157,6 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
 
 **Step 2:** Travellers should contact the SDFs listed under [Suite Options](#options) section above to directly enquire and book their preferred suite, if available.
 
-**Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at <https://go.gov.sg/sdfsuite>. <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
+**Step 3:**  After booking a suite with their preferred SDF, travellers must submit their booking details and confirmation at . <u>The submission must be made at least 48 hours prior to the intended stay at the suite.</u>
 
 **Step 4:** Your existing SDF will contact you about the transport arrangements to the selected SDF and will collect payment for the additional costs at check-out. The cost of the suite will be pro-rated according to the number of remaining SHN days left to serve.

@@ -2,7 +2,7 @@
 title: Pre-Departure & Entry Guide
 permalink: /dcev/entryguide
 ---
-This guide is meant for travellers <u>who have received entry approvals</u> to Singapore on a short-term basis via the Death & Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer <a href="/dcev/overview">here</a> for more information.
+This guide is meant for travellers who have received entry approvals to Singapore on a short-term basis via the Death &amp; Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer here for more information. Travellers who are fully vaccinated and are returning from Brunei and Germany from <b>8 Sep 2021</b> onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
 
 <div id="PDT"></div>
 
@@ -10,16 +10,17 @@ This guide is meant for travellers <u>who have received entry approvals</u> to S
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
-A Pre-Departure COVID-19 test is generally required if you are travelling from a higher risk country/region.  <b>Click <a href="/dcev/shn-and-swab-summary">here</a> to check if a PDT is required, </b>and the required lead time for the test (e.g. 48 or 72 hours before departure), which depends on your travel history to various countries/regions.
+All travellers are required to take a PDT before arrival in Singapore, except those who:
+- Are below the age of three in this calendar year; or
+- Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
+- Singapore Citizen entering Singapore via the Causeway or Second Link.
 
-The PDT requirement does not apply to travellers below the age of three (in this calendar year) and travellers who have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore.
-
-The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">accredited or authorised testing facility</a> in the country/region of departure, and travellers should ensure that the PDT:
+<a href="/sc-pr/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the PCR test.</li>
 </ol>
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
@@ -27,14 +28,14 @@ Travellers with difficulties getting a COVID-19 PCR test before their departure 
 
 <div id="SGAC"></div>
 
-B) <u>Submission of SG Arrival Card with Electronic Health Declaration & Registration for On-Arrival COVID-19 Test</u>
+B) <u>Submission of SG Arrival Card with Electronic Health Declaration &amp; Registration for On-Arrival COVID-19 Test</u>
 
 Travellers who are fit for travel must:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here within 72 hours before arrival</a></li>
 	
-<li id="payment" style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;" id="payment">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
 </ol>
 
 Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications in their mobile phones which will be used for SHN compliance checks and contact tracing. 

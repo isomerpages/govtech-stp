@@ -1,0 +1,7 @@
+collections:
+  vaccinated-travel-lane:
+    output: true
+    order:
+      - requirements-and-process.md
+      - conditions.md
+      - frequently-asked-questions.md
