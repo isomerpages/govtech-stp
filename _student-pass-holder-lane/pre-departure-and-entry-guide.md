@@ -44,6 +44,44 @@ C) <u>Application for Entry Visas</u>
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa, or wish to apply for a visa may <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">click here</a> for more information.
 
+D) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN-Dedicated Facility (SDF)</u>
+
+Travellers with a travel history to a Category (III) and (IV) country/region are required to serve their [SHN](/health/shn) in an [SHN-Dedicated Facility](/health/shn/sdf) (check the travel health control measures page if unsure). They may be able to apply to serve their SHN at a place of residence instead. Subject to approval, exceptions (i.e. serving SHN at place of residence) for the following groups of travellers could be arranged:
+
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0 ;background-color:#153855; color:white;">Conditions</th>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#153855; color:white;">Application</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues
+</td>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Click Here</a></td>
+    </tr>
+       <tr>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+				Traveller is fully vaccinated <sup style="color:red;"><b> [Note]</b></sup> and had remained in only <a href="/stpl/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
+        <ol style="font-size:16px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
+	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
+</ol>
+</td>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;" rowspan="2">
+Application can be submitted together with the Entry Approval application
+</td>
+    </tr>
+        <tr>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b style="color:red;">Note:</b>
+			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>			 
+					 Traveller must receive the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>(refer to "COVID-19 Vaccine EUL issued" section) at least two weeks before arrival in Singapore. Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
+           </td>
+    </tr>
+  </tbody>
+  </table>
+
 ### 2. Departure for Singapore
 
 Travellers must obtain a valid entry approval letter before travelling to Singapore. During pre-boarding checks, travellers may be asked to produce the approval letter.
@@ -75,7 +113,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
+    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -134,7 +172,7 @@ Click <a href="/stpl/shn-and-swab-summary">here</a> to check for the tests requi
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, and COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;" colspan="2"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td colspan="2" style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; font-size:16px;"><i>Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
