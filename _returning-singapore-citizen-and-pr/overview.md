@@ -2,7 +2,7 @@
 title: Overview
 permalink: /sc-pr/overview
 ---
-This page provides an overview of entry requirements for all returning Singapore Citizens (SC) / Permanent Residents (PR), regardless of vaccination status. Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (VTL) </a> page instead for more information. 
+This page provides an overview of entry requirements for all returning Singapore Citizens (SC) / Permanent Residents (PR), regardless of vaccination status. Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="">Vaccinated Travel Lane (VTL) </a> page instead for more information. 
 	
 Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="/arriving/overview">this page</a> for the available Safe Travel options.
 
@@ -11,7 +11,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -42,12 +42,12 @@ This table summarises the key lane features and requirements for SCs and PRs ret
  </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">No application for entry approval is needed for returning SC/PRs.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" rowspan="5">No application for entry approval is needed for returning SC/PRs.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
@@ -63,7 +63,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry</b></th>
 </tr>
 </thead>
 <tbody><tr>
@@ -72,7 +72,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 </tr>
 </tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
