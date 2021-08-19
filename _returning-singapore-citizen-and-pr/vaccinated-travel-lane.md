@@ -91,14 +91,14 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 </thead>
 <tbody>
 <tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;" rowspan="2">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Royal Brunei Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 <tr>
-<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;" rowspan="3">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 <tr>
-<th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;" colspan="2"><b>Day of Departure to Singapore</b></th>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
@@ -216,14 +216,14 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a negative COVID-19 PCR test result;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>
 </ol>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8;" id="transport"><b>Transportation from airport to accommodation</b></td>
+<td id="transport" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8;"><b>Transportation from airport to accommodation</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.</p>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p></td>
@@ -252,8 +252,8 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">If travellers are leaving Singapore and their time of departure from Singapore is:</p>
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">before 1500 hours on the day of test, they will be exempted from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">on or after 1500 hours on the day of test, they are still required to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>before 1500 hours on the day of test</b>, they will be <u>exempted</u> from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>on or after 1500 hours on the day of test</b>, they are still <u>required</u> to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.</li>
 </ol>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.</p> 
 
