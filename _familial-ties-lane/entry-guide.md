@@ -13,18 +13,17 @@ Travellers should refer to this page for the travel health control measures ([he
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
-Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore are required to present a valid negative PDT result for entry. 
+All travellers are required to take a PDT before arrival in Singapore, except those who:
+- Are below the age of three in this calendar year; or
+- Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
+- Singapore Citizen entering Singapore via the Causeway or Second Link.
 
-The PDT requirement does not apply to travellers below the age of three (in this calendar year), and travellers who have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore.
-
-<b>Click [here](/scpr-familial-ties-lane/shn-and-swab-summary) to find out if a pre-departure test (PDT) is required</b> before travelling to Singapore, and the required lead time for the test (e.g. 48 or 72 hours before departure), which depends on your travel history to various countries/regions.
-
-The test must be taken at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure, and travellers should ensure that the PDT:
+<a href="/sc-pr/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and</li>
-<li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;">Reflects the date and result of the COVID-19 Polymerase Chain Reaction test (“PCR test”).</li> 
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the PCR test.</li>
 </ol>
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
@@ -46,6 +45,45 @@ Travellers are also advised to activate <a href="https://www.tracetogether.gov.s
 C) <u>Application for Entry Visas</u>
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa, or wish to apply for a visa may [click here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
+
+D) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN-Dedicated Facility (SDF)</u>
+
+Travellers with a travel history to a Category (III) and (IV) country/region are required to serve their [SHN](/health/shn) in an [SHN-Dedicated Facility](/health/shn/sdf) (check the travel health control measures page if unsure). They may be able to apply to serve their SHN at a place of residence instead. Subject to approval, exceptions (i.e. serving SHN at place of residence) for the following groups of travellers could be arranged:
+
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0 ;background-color:#153855; color:white;">Conditions</th>
+      <th style="font-size:16px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#153855; color:white;">Application</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues
+</td>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Click Here</a></td>
+    </tr>
+       <tr>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+				Traveller is fully vaccinated <sup style="color:red;"><b> [Note]</b></sup> and had remained in only <a href="/scpr-familial-ties-lane/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
+        <ol style="font-size:16px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
+<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
+	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
+</ol>
+</td>
+      <td rowspan="2" style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+	 <a href="https://go.gov.sg/scproptoutsdf">Click Here</a> 
+</td>
+    </tr>
+        <tr>
+      <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b style="color:red;">Note:</b>
+			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>			 
+					 Traveller must receive the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>(refer to "COVID-19 Vaccine EUL issued" section) at least two weeks before arrival in Singapore. Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
+           </td>
+    </tr>
+  </tbody>
+  </table>
+
 
 ### 2. Departure for Singapore
 
