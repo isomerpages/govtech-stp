@@ -10,9 +10,9 @@ The table below reflects the latest travel health control measures applicable to
 
 Travellers should note that these measures are calibrated based on epidemiological risks, and therefore applied based on the traveller’s <u>21-day travel history before arrival in Singapore</u>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply. As a condition for entry into Singapore, travellers <u>must</u> comply with the travel health control measures required. Breaches of requirements may result in penalties under the Infectious Diseases Act and/or other relevant laws.
 
-<p style="font-size:22px;"><b>For Travellers arriving <mark class="red">before 20 Aug 2021, 2359h</mark>, please refer to the table (here) .</b></p>
+<b><p style="font-size:22px;">For Travellers arriving <span style="colour: #FF0000;">before 20 Aug 2021, 2359h</span>, please refer to the table (<a href="">here</a>) .</p></b>
 
-<p style="font-size:22px;"><b>For Travellers arriving <span style="colour: #FF0000;">before 20 Aug 2021, 2359h</span>, please refer to the table (here) .</b></p>
+<b><p style="font-size:22px;">For Travellers arriving <span style="colour: #FF0000;">from 20 Aug 2021, 2359h</span>, please refer to the table (<a href="">here</a>) .</p></b>
 
 
 <i>[<b><u>Note:</u></b> Only travellers above 3 years of age in the current calendar year are exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
