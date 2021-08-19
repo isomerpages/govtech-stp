@@ -23,13 +23,13 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions that traveller had visited in last 21 consecutive days before arrival in Singapore</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures Imposed</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>S/N 1</u><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<u>S/N 1</u><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Brunei</b></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Jiangsu province)</b></li>
@@ -45,7 +45,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td> 
 	</tr>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 2</u><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 2</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Hong Kong</b><br><i><b>Note:</b> ATB launch deferred. Click <a href="/hongkong/atb/notice">here</a> for more details.</i></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Macao</b></li>
@@ -66,7 +66,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 3</u><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 3</u><br>
 <ul style="font-size:16px; margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
@@ -93,7 +93,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 		<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 5</u><br><b>Indonesia</b></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 5</u><br><b>Indonesia</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
@@ -119,7 +119,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>     
 </tr>	
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 6</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
@@ -134,7 +134,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 	<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 7</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Philippines</b></li>
 </ul>
@@ -164,7 +164,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 8</u><br><b>All other countries/regions</b></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 8</u><br><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
@@ -200,13 +200,13 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions by Travel Health Control Categories</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions by Travel Health Control Categories</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<u>Category (I)</u><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<u>Category (I)</u><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
@@ -223,7 +223,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td> 
 	</tr>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>Category (II)</u><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>Category (II)</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei Darussalam</b></li>
@@ -245,14 +245,20 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </ol>
 </td>
 </tr>
-<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 3</u><br>
-<ul style="font-size:16px; margin-top:0px; list-style-type: disc;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Australia</b></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Israel</b></li>
-</ul>
-</td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
+		<tr>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>Category (III)</u><br>
+	<ul style="margin-top:0px; list-style-type: disc;">
+		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxemborg</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea (ROK)</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
+</ul></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -267,13 +273,24 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a> or their place of residence*, <u>and</u> take a COVID-19 PCR test on the last day of the SHN</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in an SDF will also administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an SDF, administer an Antigen Rapid Test on their own on Days 3, 7, and 11 of their arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.<br><br>
+	OR<br><br>
+	[For approved travellers who are fully vaccinated] <sup>[Note 1]</sup> Serve 14-day SHN at a place of accommodation or serviced apartment, <sup>[Note 2]</sup> and take a COVID-19 PCR test on Day 14 of SHN.
+	</li>
 </ol>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note 1:</b></p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a traveller who has (i) received full regiment of the Pfizer-BioNTech/Comirnaty, Moderna or WHO EUL Vaccines (refer to "COVID-19 Vaccine EUL issued" section) at least two weeks before arrival in Singapore, and (ii) successfully applied to serve SHN at a place of residence or  serviced apartment.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note 2:</b></p>
+			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to serve SHN at a place of residence or serviced apartment can be submitted from 20 Aug, 2359hours via <a href="go.gov.sg/sto-enquiry">this link</a> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy a place of residence or serviced apartment:</p>
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Alone (i.e. no domestic helpers); or</i></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members with the same travel history and SHN duration.</i></li>
+</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
 </td>
-</tr>
+</tr>	
 		<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 5</u><br><b>Indonesia</b></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 5</u><br><b>Indonesia</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
@@ -299,7 +316,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>     
 </tr>	
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 6</u><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 6</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bangladesh</b></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
@@ -314,7 +331,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 	<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 7</u><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 7</u><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Philippines</b></li>
 </ul>
@@ -344,7 +361,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u>S/N 8</u><br><b>All other countries/regions</b></td>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><u>S/N 8</u><br><b>All other countries/regions</b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
