@@ -149,8 +149,8 @@ For (A) and (B), please see sample screenshots below:
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +168,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img style="width:180px; height:180px;" src="/images/Vaccination QR code.png">
+<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -472,41 +472,47 @@ Travellers must undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival i
 
 Travellers are subject to Day 3 and Day 7 COVID-19 PCR tests to ensure public health and safety.
 
-#### 3. What are the clinics travellers can go to for their Day 3 and Day 7 tests?
+#### 3. How much do the Day 3 and Day 7 tests cost?
+
+The cost of each PCR test is S$94.16 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
+
+A credit card administrative charge of $5.75 is applicable for applications made on the portal
+
+#### 4. What are the clinics travellers can go to for their Day 3 and Day 7 tests?
 
 They can visit any of the <a href="">designated clinics</a>. They are required to undergo their COVID-19 PCR test *by 1500 hours (Singapore time) on each day*.
 
-#### 4. Can a traveller go to a clinic that is not within the list of designated clinics?
+#### 5. Can a traveller go to a clinic that is not within the list of designated clinics?
 
 No, travellers must only go to the <a href="">designated clinics</a>.
 
-#### 5. How do travellers book their appointments for their Day 3 and Day 7 tests?
+#### 6. How do travellers book their appointments for their Day 3 and Day 7 tests?
 
 Travellers may make an appointment booking for their Day 3 and Day 7 PCR tests with any of the designated clinics by using their unique link, which will be emailed to them upon their arrival in Singapore. They will only be able to make their own appointment booking using their unique link.
 
-#### 6. Do travellers need to self-isolate after their Day 3 and Day 7 tests?
+#### 7. Do travellers need to self-isolate after their Day 3 and Day 7 tests?
 
 No, travellers are not required to self-isolate after their Day 3 and Day 7 tests. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
 
-#### 7. How soon will the results of the Day 3 and Day 7 tests be out?
+#### 8. How soon will the results of the Day 3 and Day 7 tests be out?
 
 Travellers can expect to receive their results within 24 hours of their test.
 
-#### 8. What should travellers do if they test positive for COVID-19?
+#### 9. What should travellers do if they test positive for COVID-19?
 
 If tested positive for COVID-19 (i.e. informed of a positive test result), travellers must immediately isolate themselves in their declared accommodation. They should ensure that they are contactable via their declared mobile number and email address and await further instructions by the relevant Singapore authorities. 
 
-#### 9. Can a traveller visit different designated clinics for their Day 3 and Day 7 tests?
+#### 10. Can a traveller visit different designated clinics for their Day 3 and Day 7 tests?
 
 Yes, travellers do not need to visit the same designated clinic for both tests. They may make an appointment booking at any designated clinic of their choice, subject to availability of slots.
 
-#### 10. Are travellers allowed to reschedule their Day 3 and Day 7 tests to other days?
+#### 11. Are travellers allowed to reschedule their Day 3 and Day 7 tests to other days?
 
 No, travellers are required to undergo COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).
 
 A traveller who fails to undergo the required COVID-19 PCR tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility.
 
-#### 11. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
+#### 12. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
 
 If the travellers’ time of departure from Singapore is:
 - <b>before 1500 hours on the day of test</b>, they are <u>exempted</u> from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.
@@ -515,7 +521,7 @@ If the travellers’ time of departure from Singapore is:
 
 The travellers’ time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
-#### 12. What are the penalties if travellers miss their scheduled Day 3 or Day 7 test?
+#### 13. What are the penalties if travellers miss their scheduled Day 3 or Day 7 test?
 
 Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
  
@@ -623,8 +629,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
-      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
+      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
+      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
   </table>
@@ -643,7 +649,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
+<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
