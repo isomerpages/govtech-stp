@@ -12,6 +12,13 @@ Travellers should refer to this page for the latest travel health control measur
 
 A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
+All travellers are required to take a PDT before arrival in Singapore, except those who:
+- Are below the age of three in this calendar year; or
+- Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
+- Singapore Citizen entering Singapore via the Causeway or Second Link.
+
+
+
 <b>SCs and PRs returning to Singapore by flight or ferry</b> and <b>PRs entering Singapore via the Causeway or Second Link</b> are required to present a valid negative PDT result for entry into Singapore. SCs entering Singapore via the Causeway or Second Link do not need a PDT but will be subject to the prevailing travel health control measures. 
 
 The PDT requirement does not apply to travellers below the age of three (in this calendar year), and travellers who have stayed in lower-risk countries/regions for 21 consecutive days before departure for Singapore.
@@ -84,7 +91,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <tbody>
 <tr>
     <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-isolation at declared accommodation, pending COVID-19 PCR test result</td>
-    <td rowspan="2" style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+    <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" rowspan="2">
 <ul>
 <li style="font-size:16px; line-height: 1.5;">Own private transport</li>
 <li style="font-size:16px; line-height: 1.5;">Taxi or private hire vehicle (click <a href="https://safetravel.ica.gov.sg/health/faq#transport">here</a> for details and options)</li>
@@ -139,7 +146,7 @@ All SHN-serving travellers are required to take additional COVID-19 tests during
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Self-administered ART on Day 3, 7 and 11 of arrival in Singapore, PCR test on Day 14 of SHN</td>
 </tr>
 <tr>
-	<td colspan="2" style="font-size:16px;"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
+	<td style="font-size:16px;" colspan="2"><i>Travellers who do not receive their test appointment details a day before the scheduled test should write to STO via this <a href="https://go.gov.sg/sto-enquiry">webform</a> for assistance.</i></td> 
 </tr>
 </tbody>
 </table>
