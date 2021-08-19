@@ -36,7 +36,9 @@ Click here to return to the <a href="#top">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
-Click the relevant lane below for more details.
+Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane which is open for applications from 1 Sep 2021, for first arrivals on 8 Sep 2021. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
+
+Otherwise, click the relevant lane below for more details.
 
 <table>
 	<thead>
@@ -124,6 +126,14 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br><br>(Temporarily suspended; Click  the above link for more details)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
+				 </ul>
+				</td>
+	</tr>
+					<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers arriving from 8 Sep 2021 onwards)</td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+			<li style="font-size: 18px;">Brunei</li>
+				 			<li style="font-size: 18px;">Germany</li>
 				 </ul>
 				</td>
 	</tr>
