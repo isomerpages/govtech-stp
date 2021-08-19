@@ -136,10 +136,11 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
-Presently, only the following categories of workers are required to take a Serology test in Singapore:
-- Confinement nannies arriving in Singapore from higher-risk countries/regions
-- Helpers arriving in Singapore from higher-risk countries/regions
-- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors who are arriving in Singapore from higher-risk countries/regions
+The following groups of workers with travel history within the last 21 days before arrival to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> are required to take a Serology test in Singapore.
+
+- Confinement nannies
+- Helpers
+- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors
 
 Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
 - [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
