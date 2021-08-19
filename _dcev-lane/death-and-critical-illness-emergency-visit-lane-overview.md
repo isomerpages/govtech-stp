@@ -2,16 +2,17 @@
 title: Death & Critical Illness Emergency Visit Lane - Overview
 permalink: /dcev/overview
 ---
-This Death & Critical Illness Emergency Visit (DCEV) Lane caters to all foreign travellers who are seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member in Singapore. 
+This Death &amp; Critical Illness Emergency Visit (DCEV) Lane caters to all foreign travellers who are seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member in Singapore. Travellers who are fully vaccinated and are returning from Brunei and Germany from <b>8 Sep 2021</b> onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
 
-Overseas Singapore Citizens/Permanent Residents in a similar situation, i.e. family emergency, may return to the country without the need to apply for entry approval, via the <a href="https://safetravel.ica.gov.sg/sc-pr/overview">Returning Singapore Citizen/Permanent Resident Lane</a> . Prevailing health measures will apply but special arrangements can be made for the traveller to visit the funeral/hospital during the SHN period if need be.
+Overseas Singapore Citizens/Permanent Residents in a similar situation, i.e. family emergency, may return to the country without the need to apply for entry approval, via the [Returning Singapore Citizen/Permanent Resident Lane](/sc-pr/overview) . Prevailing health measures will apply but special arrangements can be made for the traveller to visit the funeral/hospital during the SHN period if need be.
 
-Summarised below is a quick overview of the key lane features and requirements. Travellers who are ineligible for travel via this lane may refer <a href="https://safetravel.ica.gov.sg/arriving/overview">here</a> for a list of available Safe Travel options.
+Summarised below is a quick overview of the key lane features and requirements. Travellers who are ineligible for travel via this lane may refer [here](/arriving/overview) for a list of available Safe Travel options. 
+
 
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -29,7 +30,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Controls</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Approved travellers will be informed of the requisite health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing travel policies governing such visits.<br/>
+		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Approved travellers will be informed of the requisite health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing travel policies governing such visits.<br>
 <p style="font-size:16px; line-height:1.5;">For more information on the specific travel health control measures including their costs, click on the links below:</p>
 <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
@@ -40,7 +41,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 	</tbody>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application</b></th>
 </tr>
 </thead>
 <tbody>
@@ -72,7 +73,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 </tbody>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure & Entry<br/><i>[DCEV-approved Travellers Only]</i></b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry<br><i>[DCEV-approved Travellers Only]</i></b></th>
 </tr>
 </thead>
 <tbody>
@@ -83,7 +84,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 </tbody>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody>
@@ -95,7 +96,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#shnsdf">SDF issues</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
-</ul><br/>
+</ul><br>
 For issues related to Visa or Visit Pass validity, please visit the <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">ICA webpage</a> for more information.
  </td>
 </tr>
