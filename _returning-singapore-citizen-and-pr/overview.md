@@ -2,20 +2,20 @@
 title: Overview
 permalink: /sc-pr/overview
 ---
-Overseas-based Singapore Citizens (SC) / Permanent Residents (PR) can return to Singapore without the need for any Entry Approvals. That said, all returning SC/PRs will be subject to the prevailing travel health control measures that is determined based on their travel history 21 days before arriving in Singapore.
-
-The table below is a quick overview of the key lane features and requirements. Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="https://safetravel.ica.gov.sg/arriving/overview">this page</a> for the available Safe Travel options.
+This page provides an overview of entry requirements for all returning Singapore Citizens (SC) / Permanent Residents (PR), regardless of vaccination status. Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (VTL) </a> page instead for more information. 
+	
+Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="/arriving/overview">this page</a> for the available Safe Travel options.
 
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
+<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Singapore Citizens (SC) and Singapore Permanent Residents (PR)<br/><br/>PR In-Principle Approval holders are ineligible for travel via this lane, and should apply for entry under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Singapore Citizens (SC) and Singapore Permanent Residents (PR)<br><br>PR In-Principle Approval holders are ineligible for travel via this lane, and should apply for entry under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</td>
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
@@ -27,7 +27,7 @@ The table below is a quick overview of the key lane features and requirements. N
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>.<br/>
+		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>.<br>
 
 <p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your travel history in the past consecutive 21 days before entering Singapore. Please note that all SC/PRs with travel history to higher risk countries/regions and returning to Singapore by flight or ferry are required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”), within 72 hours before departure. For arrivals by land checkpoints, PRs are required to take a pre-departure PCR test within 72 hours before departure.</p>
 	
@@ -36,17 +36,16 @@ The table below is a quick overview of the key lane features and requirements. N
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
 </ol>
-<!-- Update the hyperlink of summary table to the new page's -->
 </td>
  </tr>
-<thead>
+</tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
 </thead>
-<tr>
+<tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td rowspan="5" style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">None. Application for entry approvals are not needed for returning SC/PRs.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" rowspan="5">None. Application for entry approvals are not needed for returning SC/PRs.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
@@ -60,21 +59,21 @@ The table below is a quick overview of the key lane features and requirements. N
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Where To Apply</b></td>
 </tr>
-<thead>
+</tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure & Entry</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry</b></th>
 </tr>
 </thead>
-<tr>
+<tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure and Entry Process Guide</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/sc-pr/requirements-and-process">Here</a></td>
 </tr>
-<thead>
+</tbody><thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
 </tr>
 </thead>
-<tr>
+<tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
