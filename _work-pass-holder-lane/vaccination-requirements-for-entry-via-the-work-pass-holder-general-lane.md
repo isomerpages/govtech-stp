@@ -13,7 +13,7 @@ Pass holders with travel history within the last 21 days before arrival to highe
     <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p>
   </li>
       <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Be able to <a href="#document">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test with <a href="https://www-moh-gov-sg-admin.cwp.sg/docs/librariesprovider5/serology-testing/non-exhaustive-list-of-gp-clinics-offering-service-on-serology-testing-and-notification-of-overseas-covid-19-vaccination-records-(29-jul-21).pdf">Ministry of Health's designated healthcare providers</a> to confirm their vaccination status within 14 days of completing Stay-Home Notice (SHN).
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test to confirm their vaccination status within 14 days of completing Stay-Home Notice (SHN). The public is advised to call clinics in advance, to check that the clinic is able to support serology testing for persons vaccinated overseas and update their record on the National Imunisation Record. Most Public Health Preparedness Clinics (PHPCs) will be able to provide serology testing to confirm the vaccinations. Please refer to <a href="phpc.gov.sg"> this website</a> for details on contacting the nearest clinics.
       <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</p>
   </li>
   </ol>
@@ -26,22 +26,22 @@ Pass holders with travel history within the last 21 days before arrival to highe
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Place pass holder was vaccinated</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Place pass holder was vaccinated</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Pass holder can produce any of the following</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singapore</td>
-  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;" colspan="2">Singapore</td>
+  <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;" colspan="2"> <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
       <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Hardcopy vaccination certificate</li>
             <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.healthhub.sg/">HealthHub app</a> </li>
      <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Vaccination status on <a href="https://www.tracetogether.gov.sg/">TraceTogether app</a></li>
       </ol>	</td>
   </tr>
   <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Overseas</td>
-  <td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">	Hardcopy vaccination certificate with <b>all these details</b>: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; ">
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;" colspan="2">Overseas</td>
+  <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;" colspan="2">	Hardcopy vaccination certificate with <b>all these details</b>: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
       <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Name (as stated on the passport)</li>
             <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">A least 1 other personal identifier, e.g. date of birth or passport number </li>
      <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Country of vaccination</li>
