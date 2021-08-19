@@ -2,17 +2,9 @@
 title: Entry Guide
 permalink: /scpr-familial-ties-lane/requirements-and-process
 ---
-This guide is meant for travellers who have received their approval letters to travel to Singapore via the Singapore Citizen/Permanent Resident Familial Ties Lane (FTL). Returning SC/PRs should refer to [this page](/sc-pr/requirements-and-process) instead, and travellers who have yet to apply for any entry approvals may [click here](/arriving/overview) for the list of available Safe Travel Lanes.
+This guide is meant for travellers who have received their approval letters to travel to Singapore via the [Singapore Citizen/Permanent Resident Familial Ties Lane (FTL)](/scpr-familial-ties-lane/overview). Returning SC/PRs should refer to [this page](/sc-pr/requirements-and-process) instead, and travellers who have yet to apply for any entry approvals may [click here](/arriving/overview) for the list of available Safe Travel Lanes. Travellers who are fully vaccinated and are returning from Brunei and Germany from 8 Sep 2021 onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
 
-Travellers should familiarise themselves with the indicative travel health control measures ([here](/scpr-familial-ties-lane/shn-and-swab-summary)) imposed based on their 21-day travel history to various countries/regions, before embarking on their journey to Singapore. Regardless of whether the traveller has recovered from, or vaccinated against COVID-19, these measures generally include any combination of the following (click on the links below for more information, including costs):
-
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice</a> (SHN)</li>
-<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN in a Dedicated Facility</a> (SDF)</li>
-<li style="margin-top:10px; margin-bottom:0px;  line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a>, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test</li> 
-</ol>
-
-Travellers are also encouraged to refer to the latest [press releases](/news-and-media/press-releases/) for the latest information on the changes in travel health control measures imposed to mitigate the spread of [COVID-19](/health/covid19-symptoms) in the community.
+Travellers should refer to this page for the travel health control measures ([here](/scpr-familial-ties-lane/shn-and-swab-summary)) imposed based on their 21-day travel history before arrival in Singapore. 
 
 
 <div id="PDT"></div>
