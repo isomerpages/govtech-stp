@@ -21,27 +21,27 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; font-colour: #FFFFFF; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#556B2F;">&nbsp;</th>
-<th style="font-size: 16px; font-colour: #FFFFFF; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#556B2F;">Requirements</th>
+<th style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">&nbsp;</th>
+<th style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">Requirements</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Vaccination Status</td>
-<td>Travellers must be fully vaccinated.
+<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">Vaccination Status</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must be fully vaccinated.
 i.e. they must have received and completed the full regimen of the WHO EUL Vaccines (Pfizer-BioNTech/Comirnaty, Moderna, AstraZeneca, Janssen, Sinopharm or Sinovac) in either Singapore or their country/region of departure, at least 14 days before their intended date of entry into Singapore.</td>
 </tr>
 <tr>
-<td>Travel History</td>
-<td>Last 21 days in their country/region of departure and/or Singapore</td>
+<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">Travel History</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Last 21 days in their country/region of departure and/or Singapore</td>
 </tr>
 <tr>
-<td>Designated Flight</td>
-<td>Travellers must travel on non-stop designated VTL flights</td>
+<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">Designated Flight</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must travel on non-stop designated VTL flights</td>
 </tr>
 <tr>
-<td>COVID-19 Testing</td>
-<td>
+<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">COVID-19 Testing</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="font-size:16px;list-style-type: disc;">
 <li style="font-size:16px;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
 <li style="font-size:16px;">On-arrival PCR test at Changi Airport</li>
@@ -50,8 +50,8 @@ i.e. they must have received and completed the full regimen of the WHO EUL Vacci
 	</td>
 </tr>
 <tr>
-<td>Self-isolation Accommodation</td>
-<td><p style="font-size:16px;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p>
+<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">Self-isolation Accommodation</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="font-size:16px;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p>
 
 <p style="font-size:16px;">The types of accommodation for self-isolation are:</p>
 <ol style="font-size:16px;list-style-type: disc;">
