@@ -2,11 +2,16 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
-## Overview
+International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are currently available to facilitate controlled entry to Singapore to help prevent the spread of COVID-19. 
+
+Please use the self-help tool
+
+
+
+Alternatively, you may wish to read about the various SafeTravel Lane options based on your purpose of travel and traveller profile.
 
 <div id="top"></div>
 
-International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
 	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
