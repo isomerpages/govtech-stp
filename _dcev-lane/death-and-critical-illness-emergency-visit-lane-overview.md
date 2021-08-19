@@ -12,7 +12,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>General Requirements</b></th>
+<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>General Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -41,7 +41,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 	</tbody>
 <thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application</b></th>
 </tr>
 </thead>
 <tbody>
@@ -73,7 +73,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 </tbody>
 <thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry<br><i>[DCEV-approved Travellers Only]</i></b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry<br><i>[DCEV-approved Travellers Only]</i></b></th>
 </tr>
 </thead>
 <tbody>
@@ -84,7 +84,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 </tbody>
 <thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
 </tr>
 </thead>
 <tbody>
@@ -95,7 +95,8 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#payments">Payments and refunds</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#shnsdf">SDF issues</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#vaccinated">Recovered and Vaccinated Travellers</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#vaccinated">Vaccinated Travellers</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#vaccinated">Vaccination Stickers for WHO EUL Vaccinated travellers </a></li>
 </ul><br>
 For issues related to Visa or Visit Pass validity, please visit the <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">ICA webpage</a> for more information.
  </td>
