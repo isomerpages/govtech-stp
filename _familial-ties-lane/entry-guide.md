@@ -84,12 +84,17 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
   </tbody>
   </table>
 
+Strict enforcement action, including prosecution under the Penal Code and Infectious Diseases Act, will be taken against individuals who breach the SHN requirements or make false declarations. Upon conviction, errant travellers may be liable to a fine and/or imprisonment term.
+
+Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
+
 
 ### 2. Departure for Singapore
 
-During pre-boarding checks, travellers may be asked to produce a valid approval letter. 
+During pre-boarding checks, travellers may be asked to produce a valid approval letter.
 
-Travellers who have visited any high-risk country/region in the past 21 days before departure for Singapore, must also present a [valid negative PDT report](#PDT) during pre-boarding checks, otherwise they may be denied boarding. [Click here](/scpr-familial-ties-lane/shn-and-swab-summary) to check if a PDT is required.
+All travellers with a travel history to any [Category (III) and (IV) country/region](/scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, must also present a [valid negative PDT report](#PDT) report during pre-boarding checks, otherwise they may be denied boarding.
+
 
 ### 3. Arrival in Singapore
 
