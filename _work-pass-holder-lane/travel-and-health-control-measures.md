@@ -13,6 +13,19 @@ For all other pass holders (work pass holders and their dependants), please refe
 ### Travel Health Control Measures for WPHL-pass holders 
 <p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  19 Aug 2021)</i></p>
 
+<table>
+	<tbody><tr>
+		<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;">For pass holders arriving in Singapore:
+<p style="font-size:20px;"><b><span style="color: red;">Before 20 Aug 2021, 2359hours</span>, please refer to the table (<a href="#table1">here</a>) .</b></p>
+<p style="font-size:20px;"><b><span style="color: red;">From 20 Aug 2021, 2359hours</span>, please refer to the table (<a href="#table2">here</a>) .</b></p>
+		</td>
+	</tr>
+	</tbody></table>
+	
+
+<div id="table1"></div>
+
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">Before 20 Aug 2021, 2359h</span></b></p>
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
