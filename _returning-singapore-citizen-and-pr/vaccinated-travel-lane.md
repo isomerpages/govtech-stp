@@ -18,26 +18,26 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;">&nbsp;</th>
-<th style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F; text-align:center;"><b>Requirements</b></th>
+<th style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;">&nbsp;</th>
+<th style="font-size: 16px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;text-align:center;"><b>Requirements</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>Vaccination Status</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Vaccination Status</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must be fully vaccinated.
 <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	i.e. They must have received and completed the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or  <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>, at least 14 days before their intended date of entry into Singapore.</p></td>
 </tr>
 <tr>
-<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>Travel History</b></td>
+<td style="font-size: 16px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Travel History</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Last 21 days in their country/region of departure and/or Singapore</td>
 </tr>
 <tr>
-<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>Designated Flight</b></td>
+<td style="font-size: 16px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Designated Flight</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must travel on non-stop designated VTL flights</td>
 </tr>
 <tr>
-<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>COVID-19 Testing</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>COVID-19 Testing</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; line-height:1.5;">
 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px;  line-height:1.5; list-style-type: disc;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
@@ -47,7 +47,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 	</td>
 </tr>
 <tr>
-<td style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#556B2F;"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;line-height:1.5;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p><br>
 <p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">The types of accommodation for self-isolation are:</p>
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
@@ -88,14 +88,14 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;" rowspan="2">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Royal Brunei Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;" rowspan="3">Germany</td>
+<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
 </tr>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;" colspan="2"><b>Day of Departure to Singapore</b></th>
+<th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
@@ -220,7 +220,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 </td>
 </tr>
 <tr>
-<td id="transport" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8;"><b>Transportation from airport to accommodation</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8;" id="transport"><b>Transportation from airport to accommodation</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">After undergoing the on-arrival COVID-19 PCR test at the airport, travellers must immediately take <b>private transportation, taxi, or private hire car</b> to travel to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Travellers shall also bear any transportation and accommodation costs incurred.</p>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are not permitted to enter any retail or food &amp; beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p></td>
