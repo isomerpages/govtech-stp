@@ -104,7 +104,6 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
-				
 					 <li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>
 					 <li style="font-size: 18px;">Hong Kong (For entries on or after 26 August 2021)</li>
 					 <li style="font-size: 18px;">Macao (For entries on or after 26 August 2021)</li>
