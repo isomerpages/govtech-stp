@@ -137,7 +137,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
 </ul>
 </td>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; color:red; vertical-align:middle; text-align:center;"><b>Disallowed from entry into Singapore via FTL </b><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; color:red; vertical-align:middle; text-align:center;"><b>Disallowed from entry into Singapore via STPHL </b><br>
 (includes those who had received prior approvals for entry)
 </td>
 </tr>
