@@ -7,114 +7,6 @@ As part of Singapore’s efforts to reopen our borders safely, fully vaccinated 
 In order to enter Singapore via the VTL, a traveller, who is not a Singapore Citizen or Permanent Resident, must apply for a <b>Vaccinated Travel Pass (VTP)</b> with effect from <b>1 September 2021, 0001 hours (Singapore time)</b>, for entry into Singapore from <b>8 September 2021, 0001 hours (Singapore time)</b>.
 
 <b>Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements.</b> Please click [here](/sc-pr/vtl) for more information on the requirements.
-
-### Overview of VTL Requirements for Short-Term Visitors and Long-Term Pass Holders
-
-<table>
-	<thead>
-		<tr>
-			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b></b> </th>
-			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Requirements</b></th>
-			  <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Short Term Visitors</b></th>
-			  <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Long Term Pass Holders</b></th>
-		</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;"><b>Vaccination Status</b></td>
-		   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;">
-		Travellers must be fully vaccinated.<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">
-i.e. They must have received and completed the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>, at least 14 days before their intended date of entry into Singapore. </p>
-</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-			<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Travel History</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Last 21 days in their country/region of departure and/or Singapore
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-		<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Vaccinated Travel Pass </b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Fully vaccinated travellers must apply for VTP between 7 to 30 calendar days before intended date of entry into Singapore
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-			<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Visa</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">For visa-required visitors
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">x
-		</td>
-	</tr>
-			<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Designated Flight</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers must travel on non-stop designated VTL flights
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-					<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>COVID-19 Testing</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>				 
-				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">On-arrival PCR test at Changi Airport</li>				 
-				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>				 
-				 </ol>
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-					<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>COVID-19 Travel Insurance</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travel insurance coverage for COVID-19 related medical treatment and hospitalisation costs must be at least S$30,000.
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">x
-		</td>
-	</tr>
-					<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Contact Tracing</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers are required to download the TraceTogether app onto the smart mobile phone that they will use in Singapore, prior to departure for Singapore.
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">x
-		</td>
-	</tr>
-							<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b></td>
-		   <td style="line-height:1.5;font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result. <p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">The types of accommodation for self-isolation are:</p>
-				 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>				 
-				 				 <li style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">non-residential accommodation (i.e. hotel or serviced apartment).</li>				 
-				 </ol>
-				 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p>
-				</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5; vertical-align:middle;">√
-		</td>
-				   <td style="font-size: 16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;line-height:1.5;vertical-align:middle;">√
-		</td>
-	</tr>
-	</tbody>
-	</table>
-
 	
 ### 1. Vaccinated Travel Pass (VTP) Application
 
@@ -205,7 +97,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 	</thead>
 							<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;" rowspan="2">
+		<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 								Brunei Darussalam</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Royal Brunei Airlines</td>
@@ -215,7 +107,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 								Singapore Airlines</td>
 	</tr>
 									<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;" rowspan="3">
+		<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; vertical-align:middle;">
 								Germany</td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 								Lufthansa </td>
@@ -295,7 +187,7 @@ Short term visitors are required to download and register their profile on the T
 		</td>
 	</tr>
 							<tr>
-		<td colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Day of Departure to Singapore</b>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED" colspan="2"><b>Day of Departure to Singapore</b>
 </td>
 	</tr>
 							<tr>
