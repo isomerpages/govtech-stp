@@ -42,7 +42,7 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
+					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
@@ -59,18 +59,20 @@ Depending on the country of departure/ travel history and <a href="/arriving/ove
 <table>
  <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;">Point of Swab</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Swab location</th>
-       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Charge (inclusive of GST)</th>
-        <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Payment Mode</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;">COVID-19 Test</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Cost <br><i>(S$; inclusive of GST)</i></th>
+       <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;background-color:#EDEDED;">Payment Mode</th>
     </tr>
   </thead>
 	 <tbody>
 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">While serving Stay-Home Notice (SHN)</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Specified testing facility in Singapore</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">S$125</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Paid during application for entry into Singapore </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">End-of-SHN COVID-19 PCR Test</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">123</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" rowspan="2">Paid during application for entry into Singapore</td>
+    </tr>
+	 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">40 (for full set)</td>
     </tr>
 	</tbody>
 	</table>
