@@ -152,8 +152,8 @@ For (A) and (B), please see sample screenshots below:
 </thead>
 <tbody>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccinated Status Page.png" style="width:179px; height:318px;"><br><img src="/images/VTL_Vaccinated Status Page_2.png" style="width:179px; height:318px;"></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img src="/images/VTL_Vaccination Records.png" style="width:179px; height:318px;"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page.png"><br><img style="width:179px; height:318px;" src="/images/VTL_Vaccinated Status Page_2.png"></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><img style="width:179px; height:318px;" src="/images/VTL_Vaccination Records.png"></td>
 </tr>
 </tbody>
 </table>
@@ -171,7 +171,7 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Please see a sample here:
 
-<img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
+<img style="width:180px; height:180px;" src="/images/Vaccination QR code.png">
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
@@ -186,8 +186,11 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - Number of QR codes uploaded does not meet the criteria
 - The QR code has been tampered with
 
+---
+
 ##### Click here to go back to the [top](#top).
 
+---
 
 <div id="PDT"></div>
 
@@ -211,7 +214,11 @@ Travellers are responsible for making their own appointments with the testing in
 
 Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test result certificate during check-in at the departure airport, will be refused boarding by the airline.
 
+---
+
 ##### Click here to go back to the [top](#top).
+
+---
 
 
 <div id="Flight"></div>
@@ -336,8 +343,11 @@ Travellers under the VTL do not need a return flight ticket to enter Singapore. 
 #### 12. Are travellers required to take designated VTL flights to depart from Singapore?
 No, the VTL is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL flights.
 
+---
+
 ##### Click here to go back to the [top](#top).
 
+---
 
 <div id="OAT"></div>
  
@@ -449,7 +459,11 @@ Travellers must be transported directly to their declared place of accommodation
 - After the traveller has been dropped off at his/her declared accommodation, the driver should wipe down the vehicle. Please refer to the National Environment Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/cleaning-and-disinfection/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for surface cleaning and disinfection.
  
  
- ##### Click here to go back to the [top](#top).
+---
+
+##### Click here to go back to the [top](#top).
+
+---
  
  
 <div id="arrival"></div>
@@ -514,7 +528,11 @@ A traveller who fails to undergo the required COVID-19 PCR tests may also be req
 
 Further, the traveller’s VTP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
+---
+
 ##### Click here to go back to the [top](#top).
+
+---
 
 
 <div id="AdditionalReq"></div> 
@@ -544,8 +562,11 @@ Please note that the VTP is <u><b>not</b></u> an immigration visit pass. It only
 All applications for extension of visit pass must be submitted online using ICA’s e-service <a href="https://eservices.ica.gov.sg/esvclandingpage/extend">here</a> at least seven days prior to the expiry of the visit pass to avoid overstaying. Each application will be considered on its own merits and there is no guarantee that an extension will be granted.
 
 
+---
+
 ##### Click here to go back to the [top](#top).
 
+---
 
 <div id="insurance"></div>
 
@@ -572,9 +593,11 @@ Visitors will have to declare, at the point of VTP application, that they will p
 
 Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP. In such an event, the VTP holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
+---
 
 ##### Click here to go back to the [top](#top).
 
+---
 
 <div id="TT"></div>
 
@@ -605,8 +628,8 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
   </thead>
   <tbody>
      <tr>
-      <td><img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;"></td>
-      <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
+      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png"></td>
+      <td><img style="width:179px; height:318px;" src="/images/TraceTogether Home Screen_Vaccinated.png"></td>
     </tr>
   </tbody>
   </table>
@@ -625,7 +648,7 @@ If you still are unable to activate your app after immigration clearance, it cou
 
 You can edit your passport details by clicking the ‘edit’ button on the Holding Screen, as indicated below.
 
-<img src="/images/TraceTogether Holding Screen_VTL.png" style="width:179px; height:318px;">
+<img style="width:179px; height:318px;" src="/images/TraceTogether Holding Screen_VTL.png">
  
 If you still face issues, please email <a href="mailto:support@tracetogether.gov.sg">support@tracetogether.gov.sg</a> with your query and details of the issue you are facing. 
 
@@ -675,8 +698,11 @@ The S$50 deposit will be refunded if:
 The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
 
 
+---
+
 ##### Click here to go back to the [top](#top).
 
+---
 
 <div id="application"></div>
 
@@ -757,3 +783,9 @@ Please submit a request <a href="https://go.gov.sg/sto-enquiry">here</a> or call
 #### 14. Can travellers use the VTP to transit/transfer through Singapore?
 
 No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
+
+---
+
+##### Click here to go back to the [top](#top).
+
+---
