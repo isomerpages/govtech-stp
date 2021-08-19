@@ -640,7 +640,7 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 </td> 
 	</tr>
 		<tr>
-<td rowspan ="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">Only for entry applications submitted <b>from 20 Aug 2021, 2359 hours</b><br/><u><b>Category III</b></u><br/>
+<td rowspan ="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">Only for entry applications submitted <b>from 20 Aug 2021, 2359 hours</b><br/><br/><u><b>Category III</b></u><br/><br/>
 	<ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
@@ -742,6 +742,97 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
 </td> 
 	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup> 1 </sup>An individual is considered fully vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>.<br/><br/><sup> 2 </sup>Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve SHN together at a place of residence or suitable accommodation (e.g. hotel or serviced apartment).</td></tr>
+	</tr>
+	<tr>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">	<u><b>Category IV</b></u><br/><br/>All other countries/regions excluding:
+<ul style="margin-top: 0px; list-style-type: disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Bangladesh</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">India</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Myanmar</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Nepal</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pakistan</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Sri Lanka</li>
+</ul><br/>	Entry is disallowed for pass holders with travel history, including transit, to any of the above  countries/regions. This applies even if they had received prior entry approvals.
+</td>
+<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
+<ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
+			<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of helper/CN; and </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+	</ol>
+		</li>
+	</ol>	
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:
+	</li>
+	<table>
+<tr>
+<th  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>If the helper/CN is serving SHN </b></th>
+	<th style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>She must take these tests</b></th>
+</tr>
+		<tr>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;  ">By herself or with another helper/CN</td>
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">
+		<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;>(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) Antigen Rapid Test (ART) ($67 including GST) at the checkpoint</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;>(For all helpers/CNs) COVID-19 PCR test at the SHN dedicated facility (SDF) within the first few days of arrival. <b>No registration is needed</b>. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li></ol>
+		</td>
+</tr>
+				<tr>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5; ">With her employer or employer’s family</td>
+	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;"><ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;>(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) Antigen Rapid Test (ART) ($67 including GST) at the checkpoint</li> <li> On-arrival COVID-19 PCR test at the checkpoint ($160 including GST).<br/>	<br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
+					</td>
+</tr>
+	</table>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an SDF ($1,500 including GST) and:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival; <u>and</u></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		</ol>
+	</li>
+</ol>
+	</td> 
+	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
+<ol style="margin-top: 0px; list-style-type: decimal;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup> before arrival.</b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
+			<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of pass holder; and </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+	</ol>
+		</li>
+	</ol>	
+</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take on-arrival COVID-19 PCR test at the Singapore checkpoint: <br/><br/>
+	Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> ($160 including GST) before the pass holder arrives in Singapore.</b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+	</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">		Serve a 14-day <a href="/health/shn/">SHN</a> at an <a href="/health/shn/sdf">SHN dedicated facility (SDF) </a>($2,000 including GST) and:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer Antigen Rapid Tests on Days 3, 7 and 11 of arrival; <u>and</u></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		</ol>
+	</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime.</a>
+	</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
+</ol>
+		<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
+	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who are below 18 years old on date of entry.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions. </li>
+			</ol><br/>
+			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
+	</td> 
 	</tr>
 	</tbody>
 </table>
