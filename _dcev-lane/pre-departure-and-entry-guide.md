@@ -2,7 +2,7 @@
 title: Pre-Departure & Entry Guide
 permalink: /dcev/entryguide
 ---
-This guide is meant for travellers <u>who have received entry approvals</u> to Singapore on a short-term basis via the Death & Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer <a href="/dcev/overview">here</a> for more information.
+This guide is meant for travellers who have received entry approvals to Singapore on a short-term basis via the Death &amp; Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer here for more information. Travellers who are fully vaccinated and are returning from Brunei and Germany from 8 Sep 2021 onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
 
 <div id="PDT"></div>
 
@@ -27,14 +27,14 @@ Travellers with difficulties getting a COVID-19 PCR test before their departure 
 
 <div id="SGAC"></div>
 
-B) <u>Submission of SG Arrival Card with Electronic Health Declaration & Registration for On-Arrival COVID-19 Test</u>
+B) <u>Submission of SG Arrival Card with Electronic Health Declaration &amp; Registration for On-Arrival COVID-19 Test</u>
 
 Travellers who are fit for travel must:
 
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here within 72 hours before arrival</a></li>
 	
-<li id="payment" style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
+<li style="margin-top:10px; margin-bottom:0px; line-height:1.5;" id="payment">Register and pre-pay for their on-arrival COVID-19 PCR test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
 </ol>
 
 Travellers are also advised to activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications in their mobile phones which will be used for SHN compliance checks and contact tracing. 
