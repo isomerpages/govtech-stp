@@ -151,6 +151,8 @@ Click here to return to the <a href="#top">top</a>.
 
 Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
+		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
+			<li><a href="/vtl/requirements-and-process">Germany</a></li>
 	<li><a href="/atp/requirements-and-process">Hong Kong</a></li>
 	<li><a href="/atp/requirements-and-process">Macao</a></li>
 	<li><a href="/atp/requirements-and-process">Mainland China (excluding Jiangsu province)</a></li>
