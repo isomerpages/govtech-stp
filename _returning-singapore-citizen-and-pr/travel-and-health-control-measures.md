@@ -352,9 +352,11 @@ Travellers should note that these measures are calibrated based on epidemiologic
 	</li>
 	</ol>
 	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Indonesia, Philippines:</b> Take an Antigen Rapid Test , in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Malaysia:</b> Only SC/PRs returning to Singapore by flight or ferry and PRs entering Singaproe via the Causeway or Second Link are required to present a valid negative COVID-19 PDT result for entry into Singapore.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines, Sri Lanka</b>: Take an Antigen Rapid Test, in addition to the COVID-19 PCR test, upon arrival in Singapore..</p>
 </td>     
 </tr>
+	<tr>
+	</tr>
 </tbody>
 </table>
