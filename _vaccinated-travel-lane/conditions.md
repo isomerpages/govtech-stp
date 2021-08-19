@@ -4,8 +4,6 @@ permalink: /vtl/conditions
 ---
 ### Conditions of the Vaccinated Travel Lane (VTL)
 
-<i>Please note that holders of Long-Term Passes issued by the Ministry of Manpower (MOM) may be subject to additional conditions not listed below.</i>
-
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (VTP) is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
   <li style="font-size:20px; list-style-type:decimal;"> A VTP holder must comply with the following conditions:
