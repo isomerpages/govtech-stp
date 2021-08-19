@@ -164,7 +164,7 @@ As a condition for entry under the Work Pass Holder General Lane (WPHL), travell
 
 Travellers and employers should note that non-compliance with the SHN conditions is an offence that could attract a fine and/or imprisonment term. MOM may also initiate pass revocation procedures or withdraw the relevant work pass privileges. 
 
-In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) or Serology test. Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
+In general, individual served with an SHN are not permitted to leave their SHN accommodation, including the [SHN Dedicated Facility (SDF)](/health/shn/sdf), during the stipulated SHN period. Travellers are only permitted to leave their SHN accommodation or SDF for their [COVID-19  tests](/health/covid19-tests/pcrtest). Transport to and from the designated testing facility would be arranged as travellers are prohibited from commuting using public transport.
 
 #### 2. Is my helper/confinement nanny allowed to share rooms at the Stay-Home Notice Dedicated Facility (SDF)? Where can I submit the room sharing application?
 
@@ -182,7 +182,7 @@ Should your employee acknowledge the health risks but continue to express intere
 - Tamil
 
 Employers should remind their employees to present the following documents to the SDF operator during check-in, who will then facilitate the room sharing arrangement:
-- Entry approval Letter
+- Entry approval letter
 - Completed and signed indemnity form (your employee may ask for a blank indemnity form from the SDF if they forget to print a copy). 
 
 <a href="#top">Click here to return to the top.</a>
