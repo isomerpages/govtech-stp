@@ -16,7 +16,6 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 All travellers are required to take a PDT before arrival in Singapore, except those who:
 - Are below the age of three in this calendar year; or
 - Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
-- Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 <a href="/scpr-familial-ties-lane/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
 
@@ -174,8 +173,6 @@ Travellers who test positive for [COVID-19](https://safetravel.ica.gov.sg/health
 	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">COVID-19 PCR test on Day 7 of SHN</td>
 </tr>
 <tr>
-	<!--<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">21-day SHN (including 14-day SHN at SDF with additional 7-day SHN at place of residence)</td>
-	<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Day 14 <u>and</u> 21 of SHN</td>-->
 	    <td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">14-day SHN at own residence</td>
 		<td style="border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">COVID-19 PCR test on Day 14 of SHN</td>
 </tr>
