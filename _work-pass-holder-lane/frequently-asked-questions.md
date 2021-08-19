@@ -283,9 +283,9 @@ Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Modern
 
 Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **16 Sep**.
 
-#### 8. My pass holder is fully vaccinated and took a serology test with Ministry of Health’s designated healthcare provider. However, the serology test result was negative or inconclusive. What happens next?
+#### 8. My pass holder is fully vaccinated and took a serology test at a Public Health Preparedness Clinic. However, the serology test result was negative or inconclusive. What happens next?
 
-The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
+The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) in Singapore within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
 
 #### 9. My pass holder has an approval to enter Singapore. However, Ministry of Manpower (MOM) informed me that his/her entry will have to be delayed. I understand MOM will email me when to bring him/her in. Does he/she need to be fully vaccinated before arrival?
 
