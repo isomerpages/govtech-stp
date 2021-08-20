@@ -313,7 +313,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an SDF, administer an Antigen Rapid Test on their own on Days 3, 7, and 11 of their arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.<br><br>
 	<span style="color:red;"><b>OR</b></span><br><br>
-	[For approved travellers who are fully vaccinated] <sup><span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartment <sup><span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
+	[For approved travellers who are fully vaccinated] <sup><span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments <sup><span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
