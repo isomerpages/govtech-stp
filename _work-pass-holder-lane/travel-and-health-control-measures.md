@@ -520,6 +520,9 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 <div id="table2"></div>
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+
+<p style="font-size:20px; color: red;"><b>Pass holders who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
