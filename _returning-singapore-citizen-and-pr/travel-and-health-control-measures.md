@@ -232,7 +232,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
 
-<i>[<b><u>Note:</u></b> Only travellers above 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
+<i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
 <table>
 <thead>
@@ -319,7 +319,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a traveller who has (i) received full regiment of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least two weeks before arrival in Singapore, and (ii) successfully applied to serve SHN at a place of accommodation or  serviced apartment.</p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 2:</span></b></p>
-			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to serve SHN at a place of accommodation or serviced apartment can be submitted <b>from 20 Aug, 2359hours via <a href="https://go.gov.sg/scproptoutsdf">this link</a></b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy a place of accommodation or serviced apartment:</p>
+			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to serve SHN at a place of accommodation or serviced apartment can be submitted <b> via <a href="https://go.gov.sg/scproptoutsdf">this link</a></b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy a place of accommodation or serviced apartment:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Alone (i.e. no domestic helpers); or</i></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members with the same travel history and SHN duration.</i></li>
