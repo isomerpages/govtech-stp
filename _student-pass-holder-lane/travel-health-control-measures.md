@@ -203,6 +203,8 @@ Travellers should note that these measures are calibrated based on epidemiologic
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
 
+<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
 <table>
