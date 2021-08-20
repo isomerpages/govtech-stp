@@ -15,9 +15,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 
 <table>
 	<tbody><tr>
-		<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;">For pass holders arriving in Singapore:
-<p style="font-size:20px;"><b><span style="color: red;">Before 20 Aug 2021, 2359hours</span>, please refer to the table (<a href="#table1">here</a>) .</b></p>
-<p style="font-size:20px;"><b><span style="color: red;">From 20 Aug 2021, 2359hours</span>, please refer to the table (<a href="#table2">here</a>) .</b></p>
+		<td style="font-size:20px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b><p style="font-size:20px;">Pass holders arriving in Singapore <b><span style="color: red;">before 20 Aug 2021, 2359hours</span> are not eligible for the new measures announced on 19 Aug 2021. Please refer to the table (<a href="#table1">here</a>) .</b></p>
+<p style="font-size:20px;"><b>For pass holders arriving <span style="color: red;">from 20 Aug 2021, 2359hours</span>, please refer to the table (<a href="#table2">here</a>) .</b></p>
 		</td>
 	</tr>
 	</tbody></table>
@@ -521,6 +520,9 @@ Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the
 <div id="table2"></div>
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+
+<p style="font-size:20px; color: red;"><b>Pass holders who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>

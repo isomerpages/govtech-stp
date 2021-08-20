@@ -13,7 +13,7 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <table>
 	<tr>
 		<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;">
-<p style="font-size:20px;"><b>For Travellers arriving <span style="color: red;">before 20 Aug 2021, 2359h</span>, please refer to the table (<a href="#table1">here</a>) .</b></p>
+<p style="font-size:20px;"><b>Travellers who have arrived in Singapore <span style="color: red;">before 20 Aug 2021, 2359h</span> are <u>not eligible</u> for the new measures announced on 19 Aug 2021, and will be subject to the measures listed in this table (<a href="#table1">here</a>) .</b></p>
 <p style="font-size:20px;"><b>For Travellers arriving <span style="color: red;">from 20 Aug 2021, 2359h</span>, please refer to the table (<a href="#table2">here</a>) .</b></p>
 		</td>
 	</tr>
@@ -202,6 +202,8 @@ Travellers should note that these measures are calibrated based on epidemiologic
 <div id="table2"></div>
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+
+<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
 
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
