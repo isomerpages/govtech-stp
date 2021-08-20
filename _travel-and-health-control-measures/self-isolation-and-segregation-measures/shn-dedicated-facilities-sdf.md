@@ -59,7 +59,8 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 21 consecutive days before arrival in Singapore; and</li>
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have received the full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
 </ol>
-        <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must serve their SHN in their own residence or other suitable accommodation, such as hotels and serviced apartments, either:</p>
+	       <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must serve their SHN in a place of accommodation or serviced apartment, either:</p>
+       <!-- <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must serve their SHN in their own residence or other suitable accommodation, such as hotels and serviced apartments, either:</p>-->
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
 <li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
