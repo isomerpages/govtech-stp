@@ -52,6 +52,9 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
 
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
 
+
+<div id="shntests"></div>
+
 #### 3. Tests During SHN
 
 Depending on the traveller's travel and transit history and <a href="/arriving/overview">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take tests before the end of their <a href="/health/shn/sdf">SHN</a>.
