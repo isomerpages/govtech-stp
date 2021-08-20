@@ -4,7 +4,7 @@ title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore
   under Green/Fast Lane arrangements.
 permalink: /
-notification: <h6 style="text-align:left;">The Returning Singapore Citizens(SCs)/ Permanent Residents(PRs) online assistant tool is currently undergoing maintenance. For more information on the Travel Health Control Measures for Returning SC/PR, please refer to the tables via this <a href="https://safetravel.ica.gov.sg/sc-pr/shn-and-swab-summary">link</a> <br/><br/>Beware of <a
+notification: <h6 style="text-align:left;">Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
   scam</a> calls from "+65 6812 5555", which is similar to the SafeTravel Enquiries Helpline
   number. Do not provide your personal information or make payment if you
