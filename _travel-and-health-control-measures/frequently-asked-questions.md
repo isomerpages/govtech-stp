@@ -137,7 +137,7 @@ For travellers arranging transport from the airport to their place of residence,
 <u><b>If you are using your own transport</b></u><br>
 The traveller must be transported directly to their declared place of accommodation by only one family member. 
 
-If there are ore than one traveller, those sharing the same vehicle should have the same travel history heading towards the same declared place of accommodation.
+If there is more than one traveller, those sharing the same vehicle should have the same travel history heading towards the same declared place of accommodation.
 
 All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
 
