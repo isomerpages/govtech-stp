@@ -63,7 +63,7 @@ If the information on the SafeTravel website does not address your queries regar
 
 ### SafeTravel Enquiry Form
 
-If the form below does not load, you can try opening it in a separate window [here](https://form.gov.sg/60e693e777fd6b00111885d5). If that still does not work, please ensure that your browser and operating system are updated to the latest version.
+If the form below does not load or scroll properly on your mobile device, you can try opening it in a separate window [here](https://form.gov.sg/60e693e777fd6b00111885d5). If that still does not work, please ensure that your web browser and operating system are updated to the latest version.
 
 <iframe width="100%" height="4000px" src="https://form.gov.sg/60e693e777fd6b00111885d5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
