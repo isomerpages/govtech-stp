@@ -14,12 +14,14 @@ For all other pass holders (work pass holders and their dependants), please refe
 <p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  19 Aug 2021)</i></p>
 
 <table>
-	<tbody><tr>
-		<td style="font-size:20px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b><p style="font-size:20px;">Pass holders arriving in Singapore <b><span style="color: red;">before 20 Aug 2021, 2359hours</span> are not eligible for the new measures announced on 19 Aug 2021. Please refer to the table (<a href="#table1">here</a>) .</b></p>
+	<tbody>
+		<tr>
+		<td style="font-size:20px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED; border-left:1px solid #D8D8D8;"><p style="font-size:20px;"><b>Pass holders arriving in Singapore <span style="color: red;">before 20 Aug 2021, 2359hours</span> are not eligible for the new measures announced on 19 Aug 2021. Please refer to the table (<a href="#table1">here</a>) .</b></p>
 <p style="font-size:20px;"><b>For pass holders arriving <span style="color: red;">from 20 Aug 2021, 2359hours</span>, please refer to the table (<a href="#table2">here</a>) .</b></p>
 		</td>
 	</tr>
-	</tbody></table>
+	</tbody>
+</table>
 	
 
 <div id="table1"></div>
