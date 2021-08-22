@@ -2,9 +2,9 @@
 title: Overview
 permalink: /sc-pr/overview
 ---
-<i>This page provides an overview of entry requirements for all returning Singapore Citizens (SC) / Permanent Residents (PR), regardless of vaccination status. Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/sc-pr/vtl">Vaccinated Travel Lane (VTL) </a> page instead for more information. 
+<i>This page provides an overview of entry requirements for all returning Singapore Citizens (SC) / Permanent Residents (PR), regardless of vaccination status. Returning SC/PRs who are fully vaccinated and are returning from Brunei and Germany <b>from 8 Sep 2021 onwards</b>, should refer to the <a href="/sc-pr/vtl">Vaccinated Travel Lane (VTL) </a> page instead for more information. </i>
 	
-Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="/arriving/overview">this page</a> for the available Safe Travel options.</i>
+<i>Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="/arriving/overview">this page</a> for the available Safe Travel options.</i>
 
 This table summarises the key lane features and requirements for SCs and PRs returning to Singapore. 
 
