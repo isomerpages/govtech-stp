@@ -21,9 +21,10 @@ Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/a
 
 ### 1) Returning Singapore Citizens and Permanent Residents
 
-Singapore Citizens and Singapore Permanent Residents <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. 
+Singapore Citizens and Singapore Permanent Residents <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info.
 
-However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. There are reduced health measures for fully vaccinated travellers departing from Germany and Brunei under the Vaccinated Travel Lane from 8 Sep 2021. Click <a href="/sc-pr/overview">here</a>  for more information.
+There are reduced health measures for fully vaccinated travellers departing from Germany and Brunei under the Vaccinated Travel Lane from 8 Sep 2021. Click [here](/vtl/requirements-and-process) for more information.
+
 
 ---
 
