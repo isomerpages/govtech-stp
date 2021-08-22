@@ -6,6 +6,7 @@ permalink: /sc-pr/overview
 	
 <i>Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="/arriving/overview">this page</a> for the available Safe Travel options.</i>
 
+---
 This table summarises the key lane features and requirements for SCs and PRs returning to Singapore. 
 
 <table>
