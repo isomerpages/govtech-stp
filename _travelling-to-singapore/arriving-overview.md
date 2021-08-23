@@ -15,7 +15,7 @@ International travel has been restricted due to the COVID-19 pandemic. SafeTrave
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
 </ul>
 
-<iframe width="100%" height="100%" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/arriving/crew">here</a>  for more information.
