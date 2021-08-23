@@ -6,7 +6,7 @@ permalink: /stpl/faq
 
 Applicants are required to submit their entry applications <u><b>at least two weeks before their intended period of travel</b></u>.
 
-In addition, as entry approvals have been reduced for travellers with recent travel history to higher-risk countries/regions (i.e., all countries/regions, except countries/regions listed in Category (I) and (II) of the table [here](/stpl/shn-and-swab-summary)), such travellers are encouraged to try applying for entry in the SafeTravel application portal up to five weeks before their intended travel period. Those who are unable to secure their desired period of entry are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised.
+In addition, as entry approvals have been reduced for travellers with recent travel history to higher-risk countries/regions (i.e. all countries/regions, except countries/regions listed in Category (I) and (II) of the table [here](/stpl/shn-and-swab-summary)), such travellers are encouraged to try applying for entry in the SafeTravel application portal up to five weeks before their intended travel period. Those who are unable to secure their desired period of entry are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised.
 
 #### 2. I am a Student’s Pass In-Principle Approval (STP-IPA) holder. When applying for entry through the SafeTravel portal, I received the error message “Invalid IPA number”.
 
@@ -50,9 +50,9 @@ We understand that the new academic year may have started or may be starting soo
 Please try applying via the <a href="https://eservices.ica.gov.sg/STO">SafeTravel application portal</a> again early next week, when the next available entry dates open up for applications. In the meantime, you may also wish to seek advice from your university/ school on your academic matters.
 
 #### 6.  I am a Student’s Pass holder in a post-graduate programme. Can my spouse and children seek entry approval via the Student’s Pass Holder Lane (STPHL) as well?
-In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China and New Zealand). 
+In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except countries/regions listed in Category (I) and (II) of the table [here](/stpl/shn-and-swab-summary). 
 
-If your 21-day travel history includes only  Brunei, Hong Kong, Macao, Mainland China or New Zealand, you may submit an entry appeal for your spouse and children <a href="https://go.gov.sg/sto-enquiry">here</a>. 
+If your 21-day travel history includes only countries listed in Category (I),(II) and (III) in the table [here](/stpl/shn-and-swab-summary), you may submit an entry appeal for your spouse and children <a href="https://go.gov.sg/sto-enquiry">here</a>. 
 
 If your 21-day travel history includes a higher-risk country/region, we advise you to apply for entry approval for yourself to enter Singapore first, via <a href="https://eservices.ica.gov.sg/STO">this link</a>. When the COVID-19 situation has stabilised, you may then apply for your family to enter.
 
