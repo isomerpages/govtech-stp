@@ -8,7 +8,7 @@ permalink: /vtl/conditions
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (VTP) is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
   <li style="font-size:20px; list-style-type:decimal;"> A VTP holder must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-  <li style="font-size:18px; list-style-type:lower-alpha;"> have been in his/her declared country/region of departure, or his/her declared country/region of departure and Singapore, for the last 21 consecutive days before departing for Singapore;</li>
+  <li style="font-size:18px; list-style-type:lower-alpha;"> have been in his/her declared country of departure, or his/her declared country of departure and Singapore, for the last 21 consecutive days before departing for Singapore;</li>
         <li style="font-size:18px; list-style-type:lower-alpha;">travel to Singapore on a designated VTL flight;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of his/her flight, at an internationally accredited laboratory, clinic or medical facility, and obtain a test result certificate in English stating the following:</li>
         <ol style="font-size:18px; list-style-type:lower-roman;">
