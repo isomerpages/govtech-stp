@@ -6,7 +6,7 @@ permalink: /stpl/faq
 
 Applicants are required to submit their entry applications <u><b>at least two weeks before their intended period of travel</b></u>.
 
-In addition, as entry approvals have been reduced for travellers with recent travel history to higher-risk countries/regions (i.e., all countries/regions, except Brunei, Hong Kong, Macao, Mainland China and New Zealand), such travellers are encouraged to try applying for entry in the SafeTravel application portal up to five weeks before their intended travel period. Those who are unable to secure their desired period of entry are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised.
+In addition, as entry approvals have been reduced for travellers with recent travel history to higher-risk countries/regions (i.e., all countries/regions, except countries/regions listed in Category (I) and (III) of the table [here](/stpl/shn-and-swab-summary)), such travellers are encouraged to try applying for entry in the SafeTravel application portal up to five weeks before their intended travel period. Those who are unable to secure their desired period of entry are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised.
 
 #### 2. I am a Student’s Pass In-Principle Approval (STP-IPA) holder. When applying for entry through the SafeTravel portal, I received the error message “Invalid IPA number”.
 
@@ -43,7 +43,7 @@ In the meantime, you may wish to seek advice from your university/ school on you
 
 #### 5. I am a STP/STP-IPA holder, and cannot find an entry date in the STO portal. I would like to appeal for entry as my school term has started/ is starting soon.
 
-In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except Brunei, Hong Kong, Macao, Mainland China and New Zealand). 
+In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except countries/regions listed in Category (I) and (III) of the table [here](/stpl/shn-and-swab-summary)). 
 
 We understand that the new academic year may have started or may be starting soon. However, we are currently unable to accede to any entry appeals due to the border restrictions that are in place. 
 
