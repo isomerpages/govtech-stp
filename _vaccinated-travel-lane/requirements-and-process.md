@@ -137,7 +137,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs is required. Travellers to Singapore must carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
-															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>Note:</b> Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click here for a list of products offered by Singapore-based insurers.</i>
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>Note:</b> Travel insurance products which meet the minimum coverage will be eligible. These include products offered by Singapore- and overseas-based insurers for visitors entering Singapore. Click <a href="/health/travelinsurance">here</a> for a list of products offered by Singapore-based insurers.</i>
 </p>
 		</td>
 	</tr>

@@ -36,7 +36,7 @@ permalink: /vtl/faq
 
 Travellers must have been fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 
-#### 2. Are children who are not vaccinated or persons who are medically unfit to be to be vaccinated allowed to travel under the VTL scheme?
+#### 2. Are children who are not vaccinated or persons who are medically unfit to be vaccinated allowed to travel under the VTL scheme?
 
 Children or persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
 
