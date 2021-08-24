@@ -68,8 +68,6 @@ If the form below does not load or scroll properly on your mobile device, you ca
 
 <iframe width="100%" height="4000px" scrolling="no" src="https://form.gov.sg/60e693e777fd6b00111885d5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-...
-
 <!--<iframe width="100%" height="1900" src="https://webform-sto.plexure.com.sg/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 
