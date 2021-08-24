@@ -143,7 +143,7 @@ For example, if the scheduled departure date and time of the visitor’s designa
 
 The pre-departure COVID-19 PCR test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result certificate must be in English and state the following:
 
-- the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
+- the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
 - a negative COVID-19 PCR test result;
 - the date and time when the COVID-19 PCR test was taken; and
 - the name of the testing institution conducting the COVID-19 PCR test.
