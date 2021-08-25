@@ -34,7 +34,7 @@ permalink: /vtl/faq
 
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
 
-Travellers must have been fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
+Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 
 #### 2. Are children who are not vaccinated or persons who are medically unfit to be vaccinated allowed to travel under the VTL scheme?
 
@@ -107,17 +107,17 @@ A physical or electronic vaccination certificate needs to state the following:
 
 #### 6. What does a vaccination QR code look like?
 
-Please see a sample here:
+<p id="QRcode">Please see a sample here:</p>
 
 <img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
 #### 7. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
-Depending on the country the vaccination certificate is issued from, you may be issued with 1 or 2 vaccination QR codes to upload.
+Depending on the institution the vaccination certificate is issued from, you may be issued with 1 or 2 vaccination QR codes to upload.
 
 #### 8. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-Vaccination QR code(s) may be invalid for reasons such as:
+<p id="invalidQR">Vaccination QR code(s) may be invalid for reasons such as:</p>
 
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
 - Days interval between doses is less than the requirement
@@ -212,9 +212,9 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>be fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
+	<li>be fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 		</li>
-		<li>remain in their country/region of departure, or in their country/region of departure and Singapore in the last 21 consecutive days before departing for Singapore; and</li>
+		<li>have travelled only to their country/region of departure and/or Singapore in the last 21 consecutive days before departing for Singapore; and</li>
 		<li>undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
@@ -388,6 +388,7 @@ The cost of the COVID-19 PCR test is S$160 (inclusive of Goods and Services Tax)
 To expedite the COVID-19 PCR test at the airport, travellers should pre-book and make payment <a href="https://safetravel.changiairport.com/">here</a>.
 
 #### 8. What happens if travellers refuse to undergo the on-arrival COVID-19 PCR test?
+
 Among other measures which may be taken, if travellers refuse to undergo the on-arrival COVID-19 PCR test, they may have their VTP cancelled and be refused entry into Singapore. In such an event, travellers may also be liable for all costs incurred for their repatriation, including custody and maintenance pending repatriation.
 
 #### 9. Can my company / family member / friend pick me up from the airport in a private vehicle and transport me to my declared place of accommodation where I will be waiting for my COVID-19 PCR test results?
@@ -428,11 +429,11 @@ A credit card administrative charge of $5.75 is applicable for applications made
 
 #### 4. What are the clinics travellers can go to for their Day 3 and Day 7 tests?
 
-They can visit any of the designated clinics. They are required to undergo their COVID-19 PCR test *by 1500 hours (Singapore time) on each day*. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore.
+They can visit any of the <a href="https://www.rafflesmedicalgroup.com/vtl-traveller/">designated clinics</a>. They are required to undergo their COVID-19 PCR test *by 1500 hours (Singapore time) on each day*.
 
 #### 5. Can a traveller go to a clinic that is not within the list of designated clinics?
 
-No, travellers must only go to the designated clinics.
+No, travellers must only go to the <a href="https://www.rafflesmedicalgroup.com/vtl-traveller/">designated clinics</a>.
 
 #### 6. How do travellers book their appointments for their Day 3 and Day 7 tests?
 
