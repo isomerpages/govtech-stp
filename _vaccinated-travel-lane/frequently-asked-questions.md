@@ -122,7 +122,7 @@ Depending on the institution the vaccination certificate is issued from, you may
 
 
 
-<div id="invalidcode"></p>
+<div id="invalidcode"></div>
 
 
 #### 8. Why was/were my vaccination QR code(s) not accepted in my VTP application?
