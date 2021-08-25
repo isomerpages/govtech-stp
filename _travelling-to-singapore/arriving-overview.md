@@ -5,7 +5,7 @@ permalink: /arriving/overview
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.ica.gov.sg/covid-19/icab>">here</a> (See section under Collection of Vaccination Stickers for Eligible Short-Term Visitors.)</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.ica.gov.sg/covid-19/icab">here</a> (See section under Collection of Vaccination Stickers for Eligible Short-Term Visitors.)</b></p>
 </div>
 
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
