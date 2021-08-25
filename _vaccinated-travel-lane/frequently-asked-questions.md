@@ -117,7 +117,7 @@ Depending on the institution the vaccination certificate is issued from, you may
 
 #### 8. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-<p id="invalidQR">Vaccination QR code(s) may be invalid for reasons such as:</p>
+<p id="invalidcode">Vaccination QR code(s) may be invalid for reasons such as:</p>
 
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
 - Days interval between doses is less than the requirement
