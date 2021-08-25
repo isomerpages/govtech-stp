@@ -136,7 +136,7 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
-The following groups of workers with travel history within the last 21 days before arrival to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> are required to take a Serology test in Singapore.
+The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 21 days before their arrival, are required to take a Serology test in Singapore.
 
 - Confinement nannies
 - Helpers
@@ -253,7 +253,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 #### 3. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history within the last 21 days before arrival to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 21 days before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
 #### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 

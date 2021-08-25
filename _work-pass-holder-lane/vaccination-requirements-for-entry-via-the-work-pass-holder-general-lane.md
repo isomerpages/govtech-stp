@@ -2,7 +2,8 @@
 title: Vaccination Requirements for Entry via the Work Pass Holder General Lane
 permalink: /wphl/vaccination-requirements
 ---
-Pass holders with travel history within the last 21 days before arrival to Category III or IV countries/regions must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
+
+Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 21 days before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
 
 <div id="vaccinated"></div>
 
@@ -47,7 +48,9 @@ Pass holders with travel history within the last 21 days before arrival to Categ
      <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Country of vaccination</li>
         <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Name of vaccine used (if more than 1 dose, the name of each vaccine administered)</li>
         <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
-      </ol>	</td>
+      </ol>	
+    <p  style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note</b> If the vaccination certificate is not in English, it should be translated to English and notarised</p>
+    </td>
   </tr>
   </tbody>
   </table>
