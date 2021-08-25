@@ -424,15 +424,15 @@ Travellers are subject to Day 3 and Day 7 COVID-19 PCR tests to ensure public he
 
 The cost of each PCR test is S$94.16 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
 
-A credit card administrative charge of $5.75 is applicable for applications made on the portal
+A credit card administrative charge of $5.75 is applicable for applications made on the portal.
 
 #### 4. What are the clinics travellers can go to for their Day 3 and Day 7 tests?
 
-They can visit any of the <a href="">designated clinics</a>. They are required to undergo their COVID-19 PCR test *by 1500 hours (Singapore time) on each day*.
+They can visit any of the designated clinics. They are required to undergo their COVID-19 PCR test *by 1500 hours (Singapore time) on each day*. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore.
 
 #### 5. Can a traveller go to a clinic that is not within the list of designated clinics?
 
-No, travellers must only go to the <a href="">designated clinics</a>.
+No, travellers must only go to the designated clinics.
 
 #### 6. How do travellers book their appointments for their Day 3 and Day 7 tests?
 
