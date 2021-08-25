@@ -289,7 +289,7 @@ Travellers who have been vaccinated in Singapore should check with the authoriti
 
 #### 2. Do clinics need to help travellers digitally authenticate and endorse their HealthCerts?
 
-No, the traveller should digitally authenticate and endorse their HealthCerts themselves at . When issuing the HealthCerts to them, clinics, labs and/or the tech provider should also highlight the requirement to the traveller. In the event that the tech providers are already performing digital authentication and endorsement via Application Programming Interfaces (API), travellers will receive an endorsed document without having to transact on the Notαrise portal.
+No, the traveller should digitally authenticate and endorse their HealthCerts themselves at https://www.notarise.gov.sg . When issuing the HealthCerts to them, clinics, labs and/or the tech provider should also highlight the requirement to the traveller. In the event that the tech providers are already performing digital authentication and endorsement via Application Programming Interfaces (API), travellers will receive an endorsed document without having to transact on the Notαrise portal.
 
 #### 3. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
 
