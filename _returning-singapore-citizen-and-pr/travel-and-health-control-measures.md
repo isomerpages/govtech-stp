@@ -111,9 +111,10 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to serve SHN at a place of accommodation or serviced apartment can be submitted <b> via <a href="https://go.gov.sg/scproptoutsdf">this link</a></b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy their own residence or other suitable accommodation, such as hotels and serviced apartments:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Alone (i.e. no domestic helpers); or</i></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members with the same travel history and SHN duration.</i></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members<sup>[1]</sup> with the same travel history and SHN duration.</i></li>
 </ol>
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>[1]</sup>Fully vaccinated travellers who are entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their own residence or other suitable accommmodation, such as hotels or serviced apartments.</p>
 </td>
 </tr>	
 <tr>

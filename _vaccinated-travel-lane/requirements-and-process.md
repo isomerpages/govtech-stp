@@ -16,9 +16,9 @@ Fully vaccinated travellers* who are short-term visitors (including business and
 - Brunei Darussalam
 - Germany
 
-Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here]() for more information on the requirements.
+Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/requirements-and-process) for more information on the requirements.
 
-<i>*Travellers must have been fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
+<i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
  
 				 
 #### Application Requirements
@@ -118,7 +118,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 			<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel History</b>
 </td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must remain in their country/region of departure, or in their country/region of departure and Singapore, in the last 21 consecutive days before departing for Singapore<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 21 consecutive days before departing for Singapore.<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
 								 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>				 
 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>	
@@ -325,31 +325,3 @@ For the full requirements and conditions governing the use of TraceTogether, ple
 	</tr>
 	</tbody>
 	</table>
-	
-	
----
-
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i><sup>1</sup> Mobile devices that are incompatible with the TraceTogether app include:</i>
-</p><ol style="padding-left:20px;margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>	Phones that do not have access to the Apple App Store, Google Play Store, or Huawei App Gallery</i></li>			
-		 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>Non-camera phones</i></li>			
-			 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>Phones with Android version 5.0 and below</i></li>			
-			 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>Phones with iOS version 9 and below</i></li>			
-			 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>Phones running on Blackberry OS or Symbian OS</i></li>			
-			 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>Phones with a Mobile Device Management (MDM) system installed by employers that prevents downloads from the App Store, Google play store, or Huawei App Gallery.</i></li>			
-																	 </ol>
-<p></p>
-			  
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.
-</i></p>
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.</i></p>
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>
-Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app . <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b></i></p>
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app. <b>Those who are unable to do so may be denied entry into Singapore by ICA.</b></i></p>
-
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><i>
-	<sup>2</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i></p>

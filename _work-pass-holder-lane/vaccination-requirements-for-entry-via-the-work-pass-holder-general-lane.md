@@ -49,7 +49,7 @@ Pass holders with travel history to [Category III or IV countries/regions](/wphl
         <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Name of vaccine used (if more than 1 dose, the name of each vaccine administered)</li>
         <li style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;  line-height:1.5;">Vaccination date(s) (if more than 1 dose, the dates each dose was administered)</li>
       </ol>	
-    <p  style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note</b> If the vaccination certificate is not in English, it should be translated to English and notarised</p>
+    <p  style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note</b> If the vaccination certificate is not in English, it should be translated to English and notarised.</p>
     </td>
   </tr>
   </tbody>
