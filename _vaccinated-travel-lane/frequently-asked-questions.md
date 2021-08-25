@@ -105,7 +105,10 @@ A physical or electronic vaccination certificate needs to state the following:
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered).
 
+
+
 <div id="QRcode"></div>
+
 
 #### 6. What does a vaccination QR code look like?
 
@@ -117,7 +120,10 @@ Please see a sample here:
 
 Depending on the institution the vaccination certificate is issued from, you may be issued with 1 or 2 vaccination QR codes to upload.
 
+
+
 <div id="invalidcode"></p>
+
 
 #### 8. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
