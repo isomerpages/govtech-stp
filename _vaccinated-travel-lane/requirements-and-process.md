@@ -18,7 +18,7 @@ Fully vaccinated travellers* who are short-term visitors (including business and
 
 Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here]() for more information on the requirements.
 
-<i>*Travellers must have been fully vaccinated in their country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
+<i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
  
 				 
 #### Application Requirements
@@ -118,7 +118,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 			<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel History</b>
 </td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must remain in their country/region of departure, or in their country/region of departure and Singapore, in the last 21 consecutive days before departing for Singapore<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 21 consecutive days before departing for Singapore<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
 								 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>				 
 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>	
