@@ -140,7 +140,7 @@ The following groups of workers with travel history to <a href="https://go.gov.s
 
 - Confinement nannies
 - Helpers
-- Work Permit and S Pass holders from the Construction, Marine and Process (CMP) sectors
+- Work Permit and S Pass holders from the Construction, Marine shipyard and Process (CMP) sectors
 
 Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
 - [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
@@ -171,15 +171,15 @@ In general, individual served with an SHN are not permitted to leave their SHN a
 Employers may request for a shared room on behalf of their employees during the entry application. However, employers should advise their employees on the health risks involved in a room sharing arrangement, which could result in increased risk of infection and attract additional charges, e.g. medical treatment.
 
 Should your employee acknowledge the health risks but continue to express interest on sharing rooms, employers should provide their employees with an indemnity form for completion and signing. These forms are available below, and employers are encouraged to provide their employees with a form in a language familiar to them.
-- Bahasa Indonesia
-- Bengali
-- Burmese
-- Chinese
-- English
-- Hindi
-- Sinhalese
-- Tagalog
-- Tamil
+- [Bahasa Indonesia](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bahasa-indonesia.pdf?la=en&hash=63C8D9B962DE71330F0A7B6046CDD8B8)
+- [Bengali](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-bengali.pdf?la=en&hash=8236BA141ED09911A1D4F1C521A8F09C)
+- [Burmese](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-burmese.pdf?la=en&hash=6F9147F73011443D33BD7EFBB1AEC886)
+- [Chinese](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-mandarin.pdf?la=en&hash=F064A8698C4BDBEC21FD7D705695FC53)
+- [English](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-english.pdf?la=en&hash=E3128662C08792D9477A6E90DEE1CE09)
+- [Hindi](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-hindi.pdf?la=en&hash=DB23F7F02E88206A9E3F64BE8F962B89)
+- [Sinhalese](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-sinhalese.pdf?la=en&hash=6E3C0210CDB1B58A85D113B33BDDF09F)
+- [Tagalog](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tagalog.pdf?la=en&hash=613D73D0057EF096FE5C37C15E5029A6)
+- [Tamil](https://www.mom.gov.sg/-/media/mom/documents/covid-19/letter-of-declaration-and-indemnity-for-shn-room-sharing-tamil.pdf?la=en&hash=266F452708B6E03AF24114C1D9C67434)
 
 Employers should remind their employees to present the following documents to the SDF operator during check-in, who will then facilitate the room sharing arrangement:
 - Entry approval letter
@@ -241,7 +241,7 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in Category I or II countries/regions for 21 consecutive days before arrival.
+Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](/wphl/shn-and-swab-summary) for 21 consecutive days before arrival.
 
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
