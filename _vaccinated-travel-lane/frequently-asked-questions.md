@@ -105,9 +105,11 @@ A physical or electronic vaccination certificate needs to state the following:
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered).
 
+<div id="QRcode"></div>
+
 #### 6. What does a vaccination QR code look like?
 
-<p id="QRcode">Please see a sample here:</p>
+Please see a sample here:
 
 <img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
@@ -115,9 +117,11 @@ A physical or electronic vaccination certificate needs to state the following:
 
 Depending on the institution the vaccination certificate is issued from, you may be issued with 1 or 2 vaccination QR codes to upload.
 
+<div id="invalidcode"></p>
+
 #### 8. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-<p id="invalidcode">Vaccination QR code(s) may be invalid for reasons such as:</p>
+Vaccination QR code(s) may be invalid for reasons such as:
 
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
 - Days interval between doses is less than the requirement
