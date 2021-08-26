@@ -79,6 +79,6 @@ Depending on the traveller's travel and transit history and <a href="/arriving/o
     </tr>
 	</tbody>
 	</table>
-<i>*For returning SC/PRs - Payment details to be advised</i> <br/>
+<i style="margin-top:0px;">*For returning SC/PRs - Payment details to be advised</i> <br/>
 	
 Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
