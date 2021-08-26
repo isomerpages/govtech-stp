@@ -241,7 +241,7 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](/wphl/shn-and-swab-summary) for 21 consecutive days before arrival.
+Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](https://go.gov.sg/responsibilities-submitters-pass-holders) for 21 consecutive days before arrival.
 
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
@@ -257,7 +257,7 @@ Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsi
 
 #### 4. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
-Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](/wphl/shn-and-swab-summary), which include serving SHN depending on their travel histories. 
+Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](https://go.gov.sg/responsibilities-submitters-pass-holders), which include serving SHN depending on their travel histories. 
 
 #### 5. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
 
