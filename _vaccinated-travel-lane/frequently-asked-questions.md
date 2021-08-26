@@ -224,7 +224,7 @@ To be eligible to take a designated VTL flight, they are required to:
 <ul>
 	<li>be fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 		</li>
-		<li>have travelled only to their country/region of departure and/or Singapore in the last 21 consecutive days before departing for Singapore; and</li>
+		<li>have only been to their country/region of departure and/or Singapore in the last 21 consecutive days before departing for Singapore; and</li>
 		<li>undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
