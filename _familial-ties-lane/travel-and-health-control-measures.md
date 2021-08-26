@@ -100,7 +100,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 </ol>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an SDF, administer an Antigen Rapid Test on their own on Days 3, 7, and 11 of their arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.<br><br>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an SDF, administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on their own on Days 3, 7, and 11 of their arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.<br><br>
 	<span style="color:red;"><b>OR</b></span><br><br>
 	[For approved travellers who are fully vaccinated] <sup><span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments <sup><span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
 	</li>
@@ -137,13 +137,13 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an Antigen Rapid Test on their own, on Days 3, 7 and 11 of their arrival in Singapore..</li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on their own, on Days 3, 7 and 11 of their arrival in Singapore..</li>
 	</ol>
 	</li>
 	</ol>
 	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Indonesia, Philippines:</b> Take an Antigen Rapid Test , in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Indonesia, Philippines:</b> Take an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> , in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
 </td>     
 </tr>
 </tbody>
