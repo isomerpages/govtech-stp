@@ -7,8 +7,7 @@ permalink: /atp/requirements-and-process
 Foreigners who are short-term visitors (including business and official travellers) travelling from one of the following countries/regions may seek entry into Singapore by applying for an Air Travel Pass (ATP):
 - Hong Kong
 - Macao
-- Mainland China (excluding Jiangsu province)
-- New Zealand
+- Mainland China
 - Taiwan
 
 Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the [Returning SC/PRs lane](/sc-pr/requirements-and-process), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/requirements-and-process). These travellers should not apply for an ATP to travel to Singapore.
@@ -218,26 +217,3 @@ As each token is uniquely tagged to each individual, visitors are reminded to ca
   </tr>
  </tbody>
  </table>
- 
------
-
-<p style="margin-top:0px; margin-bottom:0px;">
-<span style="font-size:16px; ">
-<sup>1</sup>Mobile devices that are incompatible with the TraceTogether app include:
- <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Phones that do not have access to the Apple App Store, Google Play Store, or Huawei App Gallery </li>
-  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with Android version 5.0 and below </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones running on Blackberry OS or Symbian OS </li>
-<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM) system installed by employers that prevents downloads from the App Store, Google play store, or Huawei App Gallery.</li>
-            </ol>
- <p style="margin-top:0px; margin-bottom:0px;">
-<span style="font-size:16px;">
-Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore. 
-              <br/><br/>
-Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.
- <br/> <br/>
-Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app . <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
- <br/> <br/>
-Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
