@@ -11,13 +11,13 @@ For Construction, Marine shipyard or Process sector workers who meet <b>all of t
 For all other pass holders (work pass holders and their dependants), please refer to this page for their travel health control measures. The control measures vary based on the pass holders’ travel history and will be stated on their entry approval letters. As the measures are subject to change based on the global situation, please refer to the table below for the latest requirements. 
 
 ### Travel Health Control Measures for WPHL-pass holders 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  19 Aug 2021)</i></p>
+<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  27 Aug 2021)</i></p>
 
 <div id="table2"></div>
 
-<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 30 Aug 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Pass holders who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+<p style="font-size:20px; color: red;"><b>Pass holders who have arrived in Singapore before 30 Aug 2021, 2359h, are <u>not eligible</u> for the updated border measures announced on 27 Aug 2021, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
 
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
