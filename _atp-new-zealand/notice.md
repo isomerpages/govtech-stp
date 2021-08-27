@@ -1,7 +1,8 @@
 ---
-title: notice
+title: NOTICE
 permalink: /newzealand/atp/notice
 ---
+
 ### IMPORTANT NOTICE: SUSPENSION OF AIR TRAVEL PASS FOR NEW ZEALAND
 
 Given the increase in the number of COVID-19 cases in New Zealand, Singapore will tighten border measures for travellers with travel history to New Zealand within the last 21 days before departure for Singapore. 
