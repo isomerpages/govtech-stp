@@ -1,4 +1,5 @@
 collections:
   atp-new-zealand:
     output: true
-    order: []
+    order:
+      - notice.md
