@@ -6,7 +6,7 @@ permalink: /sc-pr/shn-and-swab-summary
 
 ### Travel Health Control Measures for Returning-SC/PRs 
 
-SC/PRs who are returning to Singapore may refer to the tables below (inclusive of latest announcement made on <b><u>27 Aug 2021</u></b>) for the applicable travel health control measures. To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+SC/PRs who are returning to Singapore may refer to the tables below (inclusive of latest announcement made on <b><u>28 Aug 2021</u></b>) for the applicable travel health control measures. To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
 Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. A traveller with a travel history to Category (III) or (IV) countries/regions will therefore be required to take a PDT, even if departing for Singapore from any Category (I) or (II) country/region.
 
@@ -19,7 +19,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 30 Aug 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 30 Aug 2021, 2359h, are <u>not eligible</u> for the updated border measures announced on 27 Aug 2021, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 30 Aug 2021, 2359h, are <u>not eligible</u> for the updated border measures announced on 28 Aug 2021, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
 
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
