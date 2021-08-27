@@ -6,9 +6,9 @@ permalink: /scpr-familial-ties-lane/shn-and-swab-summary
 
 ### Travel Health Control Measures for FTL-travellers
 
-The table below reflects the latest travel health control measures applicable to all approved FTL-travellers (inclusive of announcements made on <b><u>19 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+The table below reflects the latest travel health control measures applicable to all approved FTL-travellers (inclusive of announcements made on <b><u>27 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
-Travellers should note that for <b>Pre-Departure Tests (PDT) requirements</b> before departure to Singapore, you should consider the <b>21-day travel history before departure</b>. If travellers had travel history to Category (III) or (IV) countries/regions before departure, even when departing from a Category (I) or (II) country/region, a PDT is required. <b>Transit countries after departure are not considered for the PDT requirement</b>.
+Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. A traveller with a travel history to any Category (III) or (IV) countries/regions will therefore be required to take a PDT before departure, even if departing for Singapore from a Category (I) or (II) country/region.
 
 <b>Health measures in Singapore</b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
 
@@ -17,9 +17,9 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 
 <div id="table2"></div>
 
-<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 30 Aug 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 27 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
 
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
