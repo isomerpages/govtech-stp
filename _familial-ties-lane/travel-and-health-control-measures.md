@@ -43,6 +43,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 </td>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A Pre-Departure Test is not required if you only stayed in Category (I) or (II) countries/regions in the 21 days before departure.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
 </ol>
@@ -60,7 +61,8 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">A Pre-Departure Test is not required if you only stayed in Category (I) or (II) countries/regions in the 21 days before departure.</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Place of accommodation; or</li>
