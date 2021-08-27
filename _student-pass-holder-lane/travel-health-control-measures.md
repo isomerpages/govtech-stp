@@ -6,9 +6,9 @@ permalink: /stpl/shn-and-swab-summary
 
 ### Travel Health Control Measures for STPHL-Travellers
 
-The table below reflects the latest travel health control measures applicable to all approved STPHL-travellers (inclusive of announcements made on <b><u>19 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+The table below reflects the latest travel health control measures applicable to all approved STPHL-travellers (inclusive of announcements made on <b><u>27 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
-Travellers should note that for <b>Pre-Departure Tests (PDT) requirements</b> before departure to Singapore, you should consider the <b>21-day travel history before departure</b>. If travellers had travel history to Category (III) or (IV) countries/regions before departure, even when departing from a Category (I) or (II) country/region, a PDT is required. <b>Transit countries after departure are not considered for the PDT requirement</b>.
+Travellers should note that for <b>Pre-Departure Tests (PDT)</b> requirements</b> before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. A traveller with a travel history to any Category (III) or (IV) countries/regions will therefore be required to take a PDT, even if departing for Singapore from any Category (I) or (II) country/region.
 
 <b>Health measures in Singapore</b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
 
