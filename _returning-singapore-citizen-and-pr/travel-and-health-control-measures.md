@@ -17,9 +17,9 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 
 <div id="table2"></div>
 
-<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 20 Aug 2021, 2359h</span></b></p>
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 30 Aug 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 20 Aug 2021, 2359h, are <u>not eligible</u> for these new measures, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 30 Aug 2021, 2359h, are <u>not eligible</u> for the updated border measures announced on 27 Aug 2021, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
 
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
@@ -36,13 +36,14 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (excluding Jiangsu province)</b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (including Jiangsu province)</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A Pre-Departure Test is not required if you only stayed in Category (I) or (II) countries/regions in the 21 days before departure.</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 48 hours)</li>
 </ol>
@@ -60,6 +61,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A Pre-Departure Test is not required if you only stayed in Category (I) or (II) countries/regions in the 21 days before departure.</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
