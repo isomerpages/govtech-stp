@@ -233,7 +233,7 @@ To facilitate contact tracing, visitors must keep the TraceTogether app activate
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (likely available within 24 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (typically available within 24 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
 	<tr>
