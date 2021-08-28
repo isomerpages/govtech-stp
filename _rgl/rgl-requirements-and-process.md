@@ -78,7 +78,7 @@ Either a Company or Government Agency in Singapore can sponsor/apply for a SafeT
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Address(es) of Traveller’s accommodation for his/her:
 <ol style="margin-top:0px; list-style-type:lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 48 hours while waiting for release of <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results), and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">On-arrival isolation (approximately 24 hours while waiting for release of <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test ("PCR test")</a> results), and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">14-day stay in Singapore (must be a non-residential address and an individual room with en-suite toilet).</li>
 </ol>
   <p style="margin-top:10px; margin-bottom:0px; font-size:16px;">Note: Click <a href="https://sha.org.sg/hotel-accommodation">here</a> for a list of hotels that accept RGL travellers. This list is non-exhaustive, and travellers may book other accommodations that is a non-residential individual room with an en-suite toilet.</p>
@@ -227,15 +227,13 @@ To facilitate contact tracing, visitors must keep the TraceTogether app activate
 <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Up to 2 days after arriving in Singapore</th>
-    <!-- <th>Scenarios</th>
-   <th>Charging Policy for C+ treatment</th> -->
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Up to 24 hours after arriving in Singapore</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (within 48 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> RGL travellers must remain in their accommodation until a negative COVID-19 PCR test result is conveyed (typically available within 24 hours). <p style="font-size:16px;">Travellers tested positive for COVID-19 will be accorded medical treatment at his/her own expense.</p>
  </td>
   </tr>
 	<tr>

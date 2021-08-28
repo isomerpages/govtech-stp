@@ -27,8 +27,7 @@ permalink: /atp/faq
 An ATP allows visitors  travelling from one of the following countries/regions to seek entry into Singapore:
 - Hong Kong
 - Macao
-- Mainland China (excluding Jiangsu province)
-- New Zealand
+- Mainland China
 - Taiwan
 
 The ATP comes with [conditions](/atp/conditions) of travel that the applicant must comply with.
@@ -177,7 +176,7 @@ Purchase of travel insurance is a condition of the Air Travel Pass. Non-complian
 
 #### 1. Are visitors required to take an on-arrival COVID-19 PCR test?
 
-Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will be out within 48 hours.
+Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport, in lieu of a Stay-Home Notice. The test results will likely be available within 24 hours.
 
 After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
@@ -373,9 +372,3 @@ The S$50 deposit will be refunded if:
 - the TraceTogether token is not faulty or damaged.
 
 The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
-
----
-
-<sup>1</sup> Short-term visitors refer to business or general travellers who are not Singapore Citizens, Singapore Permanent Residents or Singapore Long-Term Pass Holders.
-
-Singapore Citizens, Singapore Permanent Residents and Singapore Long-Term Pass Holders travelling to Singapore are not required to apply for an ATP. However, Long-Term Pass holders will continue to require prior approval from the relevant Singapore Government agencies before entering Singapore.
