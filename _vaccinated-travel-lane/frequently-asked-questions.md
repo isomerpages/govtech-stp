@@ -130,6 +130,7 @@ Depending on the institution the vaccination certificate is issued from, you may
 Vaccination QR code(s) may be invalid for reasons such as:
 
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
+- Traveller is not fully vaccinated yet
 - Days interval between doses is less than the requirement
 - Number of QR codes uploaded does not meet the criteria
 - The QR code has been tampered with
