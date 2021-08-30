@@ -4,7 +4,7 @@ title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore
   under Green/Fast Lane arrangements.
 permalink: /
-notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; <b><u>30 Aug 2021, 1pm to 31 Aug 2021, 12am</u></b>. During this period, application services for Periodic commuting arrangement, Reciprocal Green Lane, Student Pass Holder Lane, Work Pass Holder Lane may be disrupted/not available.<br/><br/>Beware of <a
+notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; <b><u>30 Aug 2021, 1pm to 31 Aug 2021, 12am</u></b>. During this period, application services for Periodic commuting arrangement, Reciprocal Green Lane, Student Pass Holder Lane, Work Pass Holder Lane may be disrupted.<br/><br/>Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
   scam</a> calls from "+65 6812 5555", which is similar to the SafeTravel Enquiries Helpline
   number. Do not provide your personal information or make payment if you
