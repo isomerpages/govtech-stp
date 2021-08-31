@@ -32,10 +32,13 @@ permalink: /vtl/faq
 ### (a) Vaccination Requirement
 <p id="VacReq"><i>For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters">here</a>.</i></p>
 
+<div id="fullyvaccinated"></div>
+
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
 
 Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 
+<div id="doses"></div>
 
 #### 2. What is the minimum number of days required between 2 doses of vaccines?
 
@@ -195,9 +198,7 @@ Please see a sample here:
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
-Depending on the institution the vaccination certificate is issued from, you may be issued with 1 or 2 vaccination QR codes to upload.
-
-
+You should upload one vaccination QR code for each vaccination dose you have received. Travellers who have been vaccinated in Germany should upload either one or two vaccination QR codes, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses). 
 
 <div id="invalidcode"></div>
 
@@ -207,10 +208,11 @@ Depending on the institution the vaccination certificate is issued from, you may
 Vaccination QR code(s) may be invalid for reasons such as:
 
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
-- Traveller is not fully vaccinated yet
-- Days interval between doses is less than the requirement
+- Traveller is not [fully vaccinated](#fullyvaccinated) yet
+- [Days interval between doses](#doses) is less than the requirement
 - Number of QR codes uploaded does not meet the criteria
 - The QR code has been tampered with
+- Traveller is not vaccinated in his/her declared country/region of departure
 
 ---
 
@@ -324,7 +326,7 @@ Singapore Citizens and Permanent Residents may take either:
 
 <u><b>(A) Designated VTL Flights</b></u>
 
-Those travelling to Singapore on a designated VTL flight will be allowed to go about their activities upon entry into Singapore, without having to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight.
+Those travelling to Singapore on a designated VTL flight will be allowed to go about their activities upon entry into Singapore, without having to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight.
 
 <u><b>(B) Non-Designated Flights</b></u>
 
