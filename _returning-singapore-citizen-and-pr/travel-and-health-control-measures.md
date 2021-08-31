@@ -107,7 +107,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a fully vaccinated traveller who has been approved to serve SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
+	<a href="/health/faq#vaccinated">fully vaccinated</a> traveller who has been approved to serve SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 2:</span></b></p>
 			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to opt out of serving SHN at an SDF can be submitted <b> via <a href="https://go.gov.sg/scproptoutsdf">this link</a></b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy their own residence or other suitable accommodation, such as hotels and serviced apartments:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
