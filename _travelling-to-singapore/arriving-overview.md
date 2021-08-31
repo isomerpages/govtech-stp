@@ -8,28 +8,19 @@ permalink: /arriving/overview
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.ica.gov.sg/covid-19/icab">here</a> (See section under Collection of Vaccination Stickers for Eligible Short-Term Visitors.)</b></p>
 </div>
 
+International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
+
 <div id="top"></div>
-
-### SafeTravel Lanes for Entry into Singapore
-
-Please use the self-help tool below to find out which SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile. If the tool below does not work, try opening it in a separate window [here](https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16), or refer to a listing of SafeTravel Lanes listed by traveller profile [here](#lanelist)  
-
-<iframe width="100%" height="1200px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<div id="lanelist"></div>
-
-### List of SafeTravel Lanes by Traveller Profile
 
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
 	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
-	<li><a href="#stv">Foreign short-term visitors (from specified countries/regions only) </a></li>
-	<!--<li><a href="#st-business">Short-term business visits</a></li>
-	<li><a href="#social">Short-term social visits/tourists</a></li>-->
+	<li><a href="#st-business">Short-term business visits</a></li>
+	<li><a href="#social">Short-term social visits/tourists</a></li>
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
 </ul>
 
+<!--<iframe width="100%" height="1000px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/arriving/crew">here</a>  for more information.
 
@@ -56,7 +47,7 @@ Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to
 
 Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane which is open for applications from 1 Sep 2021, for first arrivals on 8 Sep 2021. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
 
-If you are not eligible for the Vaccinated Travel Lane, click the relevant lane below for more details.
+Otherwise, click the relevant lane below for more details.
 
 <table>
 	<thead>
@@ -89,23 +80,11 @@ If you are not eligible for the Vaccinated Travel Lane, click the relevant lane 
 	</tr>
 			<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><b>Must be vaccinated with WHO EUL vaccines at least 14 days before arrival.</b>
-			   <ul style="font-size: 18px; list-style-type: disc;">
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
 					 <li style="font-size: 18px;">Confinement Nannies</li>
 					 <li style="font-size: 18px;">Helpers</li>
 				 </ul>
-				</td>
-	</tr>
-					<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
-			   <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">Employer that needs to bring their employees (MOM-issued Pass holders) into Singapore for work
-						 </li>
-					 <li style="font-size: 18px;">Singapore Permanent Residents returning to Singapore for short-term home leave</li>
-				 </ul>
-			   <p style="font-size:16px;">[<b>Note:</b> Cross-border entry under the PCA is only permitted via <b><u>land at the Causeway and Second link from Malaysia</u></b>]</p>
 				</td>
 	</tr>
 	</tbody>
@@ -117,13 +96,70 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
-<div id="stv"></div>
+<div id="st-business"></div>
 
-### 3) Foreign Short-Term Visitors
+### 3) Short-Term Business Visits
 
-Short-term visitors departing from the following countries/regions may apply to enter Singapore for any purpose of visit. Conditions apply. Click the relevant countries/regions for more details. 
+Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
 
-Short-term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
+<table>
+	<thead>
+		<tr>
+			    <th style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel Lanes</b><br><i>(Click the links for lane details)</i></th>
+			    <th style="font-size: 18px; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; background-color:#EDEDED"><b>Countries/Regions</b></th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				 <ul style="font-size: 18px; list-style-type: disc;">
+					 <!--<li style="font-size: 18px;">Brunei Darussalam (Suspended with effect from 21 August 2021)</li>-->
+					 <li style="font-size: 18px;">Hong Kong</li>
+					 <li style="font-size: 18px;">Macao</li>
+					  <li style="font-size: 18px;">Mainland China </li>
+					 <!--<li style="font-size: 18px;">New Zealand</li>-->
+					 <li style="font-size: 18px;">Taiwan</li>
+				 </ul>
+		</td>
+	</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore)</i></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+					 <li style="font-size: 18px;">	Brunei Darussalam</li>
+					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
+				 </ul>
+				</td>
+	</tr>
+			<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br><br>(Temporarily suspended; Click  the above link for more details)</td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
+				 </ul>
+				</td>
+	</tr>
+					<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers)</td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+			<li style="font-size: 18px;">Brunei (for entry on or after 8 Sep 2021) </li>
+				 			<li style="font-size: 18px;">Germany (for entry on or after 8 Sep 2021)</li>
+				 </ul>
+				</td>
+	</tr>
+	</tbody>
+	</table>
+	
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
+
+<div id="social"></div>
+
+### 4) Short Term Social Visits/Tourists
+
+Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
 		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
 			<li><a href="/vtl/requirements-and-process">Germany</a></li>
@@ -133,13 +169,7 @@ Short-term visitors from the following countries/regions may apply to enter Sing
 	<!--<li><a href="/atp/requirements-and-process">New Zealand</a></li>-->
 	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
 </ul>
-
-Travellers seeking to enter Singapore for short-term business or official visits departing from the following countries/regions, may use the Reciprocal Green Lane.
-
-- [Brunei Darussalam](/rgl/overview)
-- [Mainland China (Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)](/rgl/overview)
-
-
+	
 ---
 
 Click here to return to the <a href="#top">top</a>.
@@ -148,7 +178,7 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="DCEV"></div>
 
-### 4) Death and Critical Illness Emergency Visits
+### 5) Death and Critical Illness Emergency Visits
 
 Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis. e.g. death or critical illness of family member in Singapore. Only a maximum of <u>two visitors per case</u> is allowed. 
 
