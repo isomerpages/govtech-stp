@@ -676,8 +676,16 @@ Fully vaccinated travellers have received the full regimen of WHO EUL Vaccines, 
 							<td>2</td>
 							<td>17 days</td>
 		</tr>
+						<tr>
+			<td>Sinovac</td>
+							<td>COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
+							<td>2</td>
+							<td>13 days</td>
+		</tr>
 	</tbody>
 	</table>
+	
+For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.
 
 #### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
