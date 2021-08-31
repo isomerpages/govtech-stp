@@ -12,52 +12,6 @@ Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a Vac
 <i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
 
 Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions (FAQs).
-
-#### Overview of VTL Requirements for Singapore Citizens and Permanent Residents
-
-<table>
-<thead>
-<tr>
-<th style="font-size: 16px; color: white; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;">&nbsp;</th>
-<th style="font-size: 16px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;text-align:center;"><b>Requirements</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Vaccination Status</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must be fully vaccinated.
-<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	i.e. They must have received and completed the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or  <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>, at least 14 days before their intended date of entry into Singapore.</p></td>
-</tr>
-<tr>
-<td style="font-size: 16px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Travel History</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Last 21 days in their country/region of departure and/or Singapore</td>
-</tr>
-<tr>
-<td style="font-size: 16px;  border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Designated Flight</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers must travel on non-stop designated VTL flights</td>
-</tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>COVID-19 Testing</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; line-height:1.5;">
-<ol style="margin-top:0px; margin-bottom:0px; font-size:16px;  line-height:1.5; list-style-type: disc;">
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pre-departure Polymerase Chain Reaction (PCR) test at least 48 hours prior to departure</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">On-arrival PCR test at Changi Airport</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Post-arrival PCR tests on Day 3 and Day 7 of arrival in Singapore, taken at one of the designated clinics</li>
-	</ol>
-	</td>
-</tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;  background-color:#EDEDED;"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;line-height:1.5;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers are required to be isolated in a pre-declared residential or non-residential accommodation until they receive a negative on-arrival COVID-19 PCR test result.</p><br>
-<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">The types of accommodation for self-isolation are:</p>
-<ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
-	<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
-	<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">non-residential accommodation (i.e. hotel or serviced apartment</li>
-	</ol><br>
-<p style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p></td>
-</tr>
-</tbody>
-</table>
 	
 #### 1. Pre-Departure
 
