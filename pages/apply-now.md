@@ -40,5 +40,9 @@ Please note this page is meant for users who are already familiar with the SafeT
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/requirements-and-process">Singapore Student's Pass Holder Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
     </tr>
+	         <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/requirements-and-process">Vaccinated Travel Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/vtl-portal">here</a></td>
+    </tr>
   </tbody>
   </table>
