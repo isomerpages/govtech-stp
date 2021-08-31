@@ -626,7 +626,60 @@ Click here to [Go Back To Top](#top).
 
 ## Vaccinated Travellers intending to travel to Singapore
 
-#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+#### 1. Who are "fully vaccinated travellers"?
+
+Fully vaccinated travellers have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore:
+
+<table>
+	<thead>
+		<tr>
+		<th>Manufacturer</th>
+			<th>Name of Vaccine</th>
+			<th>Dose(s) Required</th>
+			<th>Minimum Interval between Doses
+		</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Pfizer/BioNTech</td>
+			<td>BNT162b2/COMIRNATY<br/>Tozinameran (INN)</td>
+						<td>2</td>
+						<td>17 days</td>
+		</tr>
+		<tr>
+			<td>Moderna</td>
+						<td>mRNA-1273</td>
+						<td>2</td>
+						<td>24 days</td>
+		</tr>
+				<tr>
+			<td>Astrazeneca</td>
+								<td>AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
+								<td>2</td>
+								<td rowspan="2">24 days</td>
+		</tr>
+				<tr>
+			<td>Serum Institute of India</td>
+								<td>Covishield (ChAdOx1_nCoV-19)</td>
+					<td>2</td>
+		</tr>
+				<tr>
+			<td>Janssen</td>
+							<td>Ad26.COV2.S</td>
+							<td>1</td>
+							<td>NA</td>
+		</tr>
+				<tr>
+			<td>Sinopharm</td>
+							<td>SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
+							<td>2</td>
+							<td>17 days</td>
+		</tr>
+	</tbody>
+	</table>
+
+#### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
 From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
