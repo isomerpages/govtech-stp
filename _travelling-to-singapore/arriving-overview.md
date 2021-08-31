@@ -24,7 +24,7 @@ Please use the self-help tool below to find out which SafeTravel lanes you may u
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
 	<li><a href="#LTPH">General entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs</a></li>
-	<li><a href="#stv">Foreign short term visitors (from specified countries/regions only) </a></li>
+	<li><a href="#stv">Foreign short-term visitors (from specified countries/regions only) </a></li>
 	<!--<li><a href="#st-business">Short-term business visits</a></li>
 	<li><a href="#social">Short-term social visits/tourists</a></li>-->
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
@@ -121,9 +121,9 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 3) Foreign Short-Term Visitors
 
-Short term visitors departing from the following countries/regions may apply to enter Singapore for any purpose of visit. Conditions apply. Click the relevant countries/regions for more details. 
+Short-term visitors departing from the following countries/regions may apply to enter Singapore for any purpose of visit. Conditions apply. Click the relevant countries/regions for more details. 
 
-Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
+Short-term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
 		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
 			<li><a href="/vtl/requirements-and-process">Germany</a></li>
@@ -134,7 +134,7 @@ Short term visitors from the following countries/regions may apply to enter Sing
 	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
 </ul>
 
-Travellers seeking to enter Singapore for short term business or official visits departing from the following countries/regions, may use the Reciprocal Green Lane.
+Travellers seeking to enter Singapore for short-term business or official visits departing from the following countries/regions, may use the Reciprocal Green Lane.
 
 - [Brunei Darussalam](/rgl/overview)
 - [Mainland China (Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)](/rgl/overview)
