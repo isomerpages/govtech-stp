@@ -23,7 +23,7 @@ Singapore Citizens and Permanent Residents should not apply for a VTP to travel 
 				 
 #### Application Requirements
 
-Applications for a VTP must be made between 7 and 30 calendar days prior to their intended date of entry into Singapore. There will be no charge for each application. Please click [here](https://go.gov.sg/vtl-portal)
+Applications for a VTP must be made between 7 and 30 calendar days prior to their intended date of entry into Singapore. There will be no charge for each application. Please click [here](https://go.gov.sg/vtl-portal) to apply. 
 
 <table>
 	<tbody>
