@@ -146,10 +146,10 @@ Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-b
 
 ##### **Note:**
 	
-(i) <u><b>If you are using your own transport</b></u><br>
-The traveller must be transported directly to their declared place of accommodation by only one family member. 
+(i) <u><b>If you are using your own transport</b></u><br><br/>
+The traveller must be transported directly to their declared place of accommodation by only one family member from the same household. The vehicle used should not be a rented vehicle or from a car-sharing service. 
 
-If there is more than one traveller, those sharing the same vehicle should have the same travel history heading towards the same declared place of accommodation.
+If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
 All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
 
@@ -157,7 +157,7 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 	<li>Vehicle windows must be wound down with air conditioning turned off. Where practical;</li>
 		<li>The front passenger seat should be left unoccupied;</li>
 			<li>The front passenger seat should be left unoccupied;</li>			
-			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) guidelines for more information.</li>
+			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
 <u><b>Booking taxi/private-hire vehicles</b></u><br>
