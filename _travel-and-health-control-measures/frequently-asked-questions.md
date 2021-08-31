@@ -713,8 +713,8 @@ Tozinameran (INN)</li>
 				<li>COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM</li>
 				</ol>
 			</td>
-			<td></td>
-			<td></td>
+			<td>2</td>
+			<td>17 days</td>
 		</tr>
 	</tbody>
 </table>
