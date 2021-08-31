@@ -46,7 +46,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 D) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN-Dedicated Facility (SDF)</u>
 
-Travellers with a travel history to a Category (III) and (IV) country/region are required to serve their [SHN](/health/shn) in an [SHN-Dedicated Facility](/health/shn/sdf) (check the travel health control measures page if unsure). They may be able to apply to serve their SHN at a place of residence instead. Subject to approval, exceptions (i.e. serving SHN at place of residence) for the following groups of travellers could be arranged:
+Travellers with a travel history to a Category (III) and (IV) country/region are required to serve their [SHN](/health/shn) in an [SHN-Dedicated Facility](/health/shn/sdf) (check the <a href="/scpr-familial-ties-lane/shn-and-swab-summary">travel health control measures page</a> if unsure). They may be able to apply to serve their SHN at a place of residence instead. Subject to approval, exceptions (i.e. serving SHN at place of residence) for the following groups of travellers could be arranged:
 
 <table>
   <thead>
