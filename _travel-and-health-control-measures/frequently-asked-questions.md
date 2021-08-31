@@ -92,12 +92,21 @@ Travellers should only leave their SDF for their PCR test appointment only if th
 
 #### 2. What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?
 
-For travellers arranging transport from the airport to their place of residence, they may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br><br>In all other cases, travellers may use their own private vehicle or pre-book a taxi/private hire car with any of the designated operators in the table below, to travel to their place of residence or to go for their scheduled PCR tests. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
+##### a) From air/land/sea checkpoints to place of residence
 
+Travellers arranging transport <u>from the airport to their place of residence</u>, may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br><br>In all other cases, travellers may use their own private vehicle <sup>[See Note (i)]</sup> or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
+
+##### b) From place of residence to testing facilities for scheduled PCR tests
+
+Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> in <a href="#table1">Table 1</a> below.
+
+
+<p id="table1" style="font-size: 20px;"><b>Table 1: Transport service providers and contact details for travellers on 7-day SHN</b></p>
+	
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Service Provider and Contact Number</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Contact Number* / Mobile Application</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Service Provider and Contact Number</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Contact Number* / Mobile Application</b></th>
     </tr>
   </thead>
   <tbody>
@@ -134,21 +143,24 @@ For travellers arranging transport from the airport to their place of residence,
   </tbody>
   </table>
 	
-<u><b>If you are using your own transport</b></u><br>
-The traveller must be transported directly to their declared place of accommodation by only one family member. 
 
-If there is more than one traveller, those sharing the same vehicle should have the same travel history heading towards the same declared place of accommodation.
+##### **Note:**
+	
+(i) <u><b>If you are using your own transport</b></u><br><br/>
+The traveller must be transported directly to their declared place of accommodation by only one family member from the same household. The vehicle used should not be a rented vehicle or from a car-sharing service. 
+
+If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
 All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
 
 <ol style="list-style-type:disc;">
 	<li>Vehicle windows must be wound down with air conditioning turned off. Where practical;</li>
 		<li>The front passenger seat should be left unoccupied;</li>
-			<li>The front passenger seat should be left unoccupied;</li>			
-			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) guidelines for more information.</li>
+			<li>The back seat should only be occupied by the traveller(s)</li>			
+			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
-<u><b>Booking taxi/private-hire vehicles</b></u><br>
+(ii) <u><b>Booking taxi/private-hire vehicles</b></u><br><br>
 When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.<br><br>Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
 <div id="transportQ3"></div>
@@ -626,16 +638,112 @@ Click here to [Go Back To Top](#top).
 
 ## Vaccinated Travellers intending to travel to Singapore
 
-#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+#### 1. Who are "fully vaccinated travellers"?
 
-From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
+Fully vaccinated travellers have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore:
+
+<table>
+	<thead>
+		<tr>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Manufacturer</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Name of Vaccine</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Dose(s) Required</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Minimum Interval between Doses</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Pfizer/BioNTech</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">BNT162b2/COMIRNATY<br/>Tozinameran (INN)</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
+		</tr>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Moderna</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">mRNA-1273</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
+		</tr>
+				<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Astrazeneca</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+								<td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
+		</tr>
+				<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Serum Institute of India</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covishield (ChAdOx1_nCoV-19)</td>
+					<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+		</tr>
+				<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Janssen</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Ad26.COV2.S</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">1</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">NA</td>
+		</tr>
+				<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Sinopharm</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
+		</tr>
+						<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Sinovac</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">13 days</td>
+		</tr>
+	</tbody>
+	</table>
+	
+For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.
+
+#### 2. Am I a "fully vaccinated traveller" if I had received vaccines from different manufacturers?
+
+Yes, if you have received the requisite doses of WHO EUL Vaccines (below) and met the required minimum interval period, at least 2 weeks before arrival in Singapore:
+
+<table>
+	<thead>
+		<tr>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Name of Vaccine</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Doses Required</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Minimum Interval between Doses</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b>Any</b> WHO EUL vaccine:
+			<ol style="font-size: 16px; list-style-type: disc;">
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; line-height:1.5;">BNT162b2/COMIRNATY
+Tozinameran (INN)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px;  line-height:1.5;">mRNA-1273</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Covishield (ChAdOx1_nCoV-19)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Ad26.COV2.S</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM</li>
+				</ol>
+			</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">17 days</td>
+		</tr>
+	</tbody>
+</table>
+
+For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.
+
+
+#### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+
+From <b>20 August 2021, 2359hrs</b>, fully vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Received the full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore.</li>
 </ol>
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
+
+From 8 September 2021, fully vaccinated travellers who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
 
 Click here to [Go Back To Top](#top).
 

@@ -83,7 +83,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 test</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#vaccinated"> Vaccinated Travellers</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Who are "<a href="/health/faq#vaccinated">Fully Vaccinated Travellers</a>"?</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.moh.gov.sg/news-highlights/details/next-steps-in-our-transition-towards-covid-resilience"> Vaccination Stickers for Travellers Vaccinated Overseas</a></li>
 </ul>
  </td>

@@ -53,13 +53,12 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
        <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Travellers arriving in Singapore <b>from 20 August 2021</b>, 2359hrs, who:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="/health/faq#vaccinated">Fully vaccinated travellers</a> arriving in Singapore <b>from 20 August 2021</b>, 2359hrs, who:
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-alpha;">
-<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 21 consecutive days before arrival in Singapore; and</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have received the full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
+<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; AND</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 21 consecutive days before arrival in Singapore.</li>
 </ol>
-        <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the traveller must serve their SHN in their own residence or other suitable accommodation, such as hotels and serviced apartments, either:</p>
+        <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the fully vaccinated traveller must serve their SHN in their own residence or other suitable accommodation, such as hotels and serviced apartments, either:</p>
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
 <li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>

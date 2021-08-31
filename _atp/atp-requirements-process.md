@@ -104,12 +104,17 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     </td>
  </tr>
   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Non-Residential accommodation and individual room with attached toilet</b> </td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Self-isolation till negative on-arrival covid-19 PCR result is notified</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
+	    Visitors are required to be isolated until they receive a negative on arrival COVID-19 PCR test result. 
+	    <p style="font-size:16px; margin-top:10px;">The types of accommodation for self-isolation are:</p>
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Book an accommodation in Singapore to serve out their isolation period for 1 day while waiting for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result (the accommodation must be <b>non-residential and an individual room with an attached toilet</b>);</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">residential accommodation (i.e. HDB flat, condominium or landed property); or</li>
+	              <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">non-residential accommodation (i.e. hotel or serviced apartment).</li>
      </ol>
-<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.0;"><i>Note: Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels currently accepting visitors travelling to Singapore under the Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodations as long as these are non-residential and individual rooms with an attached toilet.</i></p>
+<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors must isolate alone, or with household members who have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the self-isolation accommodation without the same travel history, arrival date and self-isolation requirement, the traveller(s) must isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet. </p>
+	    <p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Visitors are required to bear the cost of their accommodation (if applicable) in Singapore</p>
+	    <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;"><i><b>Note: </b>Visitors may refer to the Singapore Hotel Association (SHA) <a href="https://sha.org.sg/hotel-accommodation">website</a> for a list of hotels. The list is non-exhaustive, and visitors may book other available accommodations as long as they offer individual rooms with an ensuite toilet.</i></p>
     </td>
  </tr>
   <tr>
@@ -180,7 +185,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  </tr>
 	  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation <b>(which must be non-residential and an individual room with attached toilet)</b> and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>Visitors are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done in the airport transit area, before arrival immigration.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>Visitors are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done in the airport transit area, before arrival immigration.
          </td>
  </tr>
 	<tr>

@@ -240,11 +240,15 @@ Visitors will only be allowed to go about their activities in Singapore after be
 
 #### 4. What types of accommodation do visitors need to use while waiting for their test results?
 
-The accommodation must be non-residential and must be an individual room with an attached toilet. Empty residential premises are not allowed.
+The self-isolation accommodation types are: 
+- residential accommodation (i.e. HDB flat, condominium or landed property); or 
+- non-residential accommodation (i.e. hotel or serviced apartment). 
+
+Visitors must isolate alone, or with household members who are vaccinated and have the same travel history, arrival date and self-isolation requirement. If there are other occupants in the accommodation without the same travel history, arrival date, and self-isolation requirement, the traveller(s) must isolate in an individual room with an en-suite toilet. 
 
 Visitors are required to bear the cost of their accommodation in Singapore.
 
-Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels currently accepting visitors travelling to Singapore under the Green Lane or Air Travel Pass. The list is non-exhaustive and visitors may book other available accommodation as long as these are non-residential. Please note that visitors must stay in individual rooms with an attached toilet.
+Visitors may refer to the Singapore Hotel Association (SHA) [website](https://www.sha.org.sg/) for a list of hotels. The list is non-exhaustive and visitors may book other available accommodation as long as they offer individual rooms with an en-suite toilet.
 
 #### 5. Can visitors share the same room with family members / travel companions / a caretaker (due to a certified disability or special needs) while waiting for their PCR test results?
 

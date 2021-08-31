@@ -107,7 +107,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	<span style="color:red;">Note 1:</span></b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a traveller who has (i) received full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least two weeks before arrival in Singapore, and (ii) successfully applied to serve SHN at at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a <a href="/health/faq#vaccinated">fully vaccinated</a> traveller who has been approved to serve SHN at at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	<span style="color:red;">Note 2:</span></b></p>
 			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to opt out of serving SHN at an SDF can be submitted <b>during entry application</b>. To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy their own residence or other suitable accommodation, such as hotels and serviced apartments:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
