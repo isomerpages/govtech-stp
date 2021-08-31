@@ -156,7 +156,7 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 <ol style="list-style-type:disc;">
 	<li>Vehicle windows must be wound down with air conditioning turned off. Where practical;</li>
 		<li>The front passenger seat should be left unoccupied;</li>
-			<li>The front passenger seat should be left unoccupied;</li>			
+			<li>The back seat should only be occupied by the traveller(s)</li>			
 			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
