@@ -63,7 +63,7 @@ Travellers with a travel history to a Category (III) and (IV) country/region are
     </tr>
        <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
-				Traveller is fully vaccinated <sup style="color:red;"><b> [Note]</b></sup> and had remained in only <a href="/scpr-familial-ties-lane/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
+				Traveller is fully vaccinated and had remained only in <a href="/scpr-familial-ties-lane/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
         <ol style="font-size:16px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
 <li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
@@ -75,8 +75,7 @@ Application can be submitted together with the Entry Approval application
     </tr>
         <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b style="color:red;">Note:</b>
-			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>			 
-					 Traveller must receive the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>(refer to "COVID-19 Vaccine EUL issued" section) at least two weeks before arrival in Singapore. Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
+			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
            </td>
     </tr>
   </tbody>
