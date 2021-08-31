@@ -12,7 +12,6 @@ Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a Vac
 <i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
 
 Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions (FAQs).
-
 	
 #### 1. Pre-Departure
 
