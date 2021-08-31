@@ -687,6 +687,39 @@ Fully vaccinated travellers have received the full regimen of WHO EUL Vaccines, 
 	
 For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.
 
+#### 2. Am I a "fully vaccinated traveller" if I had received vaccines from different manufacturers?
+
+Yes, if you have received the requisite doses of WHO EUL Vaccines (below) and met the required minimum interval period, at least 2 weeks before arrival in Singapore:
+
+<table>
+	<thead>
+		<tr>
+			<th>Name of Vaccine</th>
+			<th>Doses Required</th>
+			<th>Minimum Interval between Doses</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><b>Any</b> WHO EUL vaccine:
+			<ol>
+				<li>BNT162b2/COMIRNATY
+Tozinameran (INN)</li>
+				<li>mRNA-1273</li>
+				<li>AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
+				<li>Covishield (ChAdOx1_nCoV-19)</li>
+				<li>Ad26.COV2.S</li>
+				<li>SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
+				<li>COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM</li>
+				</ol>
+			</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
+
 #### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
 From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
