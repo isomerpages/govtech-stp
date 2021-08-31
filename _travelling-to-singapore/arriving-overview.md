@@ -101,7 +101,7 @@ If you are not eligible for the Vaccinated Travel Lane, click the relevant lane 
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 			   <ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">Employer that needs to bring their employees (MOM-issued Pass holders) into Singapore or Malaysia for work
+					 <li style="font-size: 18px;">Employer that needs to bring their employees (MOM-issued Pass holders) into Singapore for work
 						 </li>
 					 <li style="font-size: 18px;">Singapore Permanent Residents returning to Singapore for short-term home leave</li>
 				 </ul>
