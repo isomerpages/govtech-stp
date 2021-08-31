@@ -143,7 +143,10 @@ Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-b
   </tbody>
   </table>
 	
-<u><b>If you are using your own transport</b></u><br>
+
+##### **Note:**
+	
+(i) <u><b>If you are using your own transport</b></u><br>
 The traveller must be transported directly to their declared place of accommodation by only one family member. 
 
 If there is more than one traveller, those sharing the same vehicle should have the same travel history heading towards the same declared place of accommodation.
