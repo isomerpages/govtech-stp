@@ -99,14 +99,14 @@ The table below shows the minimum interval between 2 doses of vaccines for vacci
 						<tr>
 <td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Heterologous vaccine regimens in COVID-19 naïve persons </td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Any WHO EUL vaccine:
-	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">BNT162b2/COMIRNATY Tozinameran (INN)</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">mRNA-1273</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Covishield (ChAdOx1_nCoV-19)</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Ad26.COV2.S</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV) </li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">BNT162b2/COMIRNATY Tozinameran (INN)</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">mRNA-1273</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Covishield (ChAdOx1_nCoV-19)</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Ad26.COV2.S</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV) </li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
 </ol>	
 							</td>
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
