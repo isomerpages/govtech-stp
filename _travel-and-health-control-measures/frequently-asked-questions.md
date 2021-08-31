@@ -633,54 +633,54 @@ Fully vaccinated travellers have received the full regimen of WHO EUL Vaccines, 
 <table>
 	<thead>
 		<tr>
-		<th>Manufacturer</th>
-			<th>Name of Vaccine</th>
-			<th>Dose(s) Required</th>
-			<th>Minimum Interval between Doses
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Manufacturer</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Name of Vaccine</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Dose(s) Required</th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Minimum Interval between Doses
 		</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>Pfizer/BioNTech</td>
-			<td>BNT162b2/COMIRNATY<br/>Tozinameran (INN)</td>
-						<td>2</td>
-						<td>17 days</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Pfizer/BioNTech</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">BNT162b2/COMIRNATY<br/>Tozinameran (INN)</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
 		</tr>
 		<tr>
-			<td>Moderna</td>
-						<td>mRNA-1273</td>
-						<td>2</td>
-						<td>24 days</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Moderna</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">mRNA-1273</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+						<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
 		</tr>
 				<tr>
-			<td>Astrazeneca</td>
-								<td>AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
-								<td>2</td>
-								<td rowspan="2">24 days</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Astrazeneca</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+								<td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">24 days</td>
 		</tr>
 				<tr>
-			<td>Serum Institute of India</td>
-								<td>Covishield (ChAdOx1_nCoV-19)</td>
-					<td>2</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Serum Institute of India</td>
+								<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Covishield (ChAdOx1_nCoV-19)</td>
+					<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
 		</tr>
 				<tr>
-			<td>Janssen</td>
-							<td>Ad26.COV2.S</td>
-							<td>1</td>
-							<td>NA</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Janssen</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Ad26.COV2.S</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">1</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">NA</td>
 		</tr>
 				<tr>
-			<td>Sinopharm</td>
-							<td>SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
-							<td>2</td>
-							<td>17 days</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Sinopharm</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">2</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">17 days</td>
 		</tr>
 						<tr>
-			<td>Sinovac</td>
-							<td>COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
-							<td>2</td>
-							<td>13 days</td>
+			<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Sinovac</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">2</td>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">13 days</td>
 		</tr>
 	</tbody>
 	</table>
@@ -703,14 +703,14 @@ Yes, if you have received the requisite doses of WHO EUL Vaccines (below) and me
 		<tr>
 			<td><b>Any</b> WHO EUL vaccine:
 			<ol>
-				<li>BNT162b2/COMIRNATY
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">BNT162b2/COMIRNATY
 Tozinameran (INN)</li>
-				<li>mRNA-1273</li>
-				<li>AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
-				<li>Covishield (ChAdOx1_nCoV-19)</li>
-				<li>Ad26.COV2.S</li>
-				<li>SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
-				<li>COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">mRNA-1273</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">Covishield (ChAdOx1_nCoV-19)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">Ad26.COV2.S</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">SARS-COV-2 Vaccine (VeroCell), Inactivated (InCoV)</li>
+				<li style="margin-top:8px; margin-bottom:0px; font-size:18px; list-style-type:disc; line-height:1.5;">COVID-19 Vaccine (Vero Cell), Inactivated/CoronavacTM</li>
 				</ol>
 			</td>
 			<td>2</td>
