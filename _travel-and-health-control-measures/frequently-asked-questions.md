@@ -724,14 +724,15 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-From <b>20 August 2021, 2359hrs</b>, vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
+From <b>20 August 2021, 2359hrs</b>, fully vaccinated travellers will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>;</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Received the full regimen of the Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) at least 2 weeks before arrival in Singapore. </li>
+<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore.</li>
 </ol>
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
+
+From 8 September 2021, fully vaccinated travellers who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
 
 Click here to [Go Back To Top](#top).
 
