@@ -94,16 +94,19 @@ Travellers should only leave their SDF for their PCR test appointment only if th
 
 ##### a) From air/land/sea checkpoints to place of residence
 
-Travellers arranging transport <u>from the airport to their place of residence</u>, may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br><br>In all other cases, travellers may use their own private vehicle <sup>[See Note (i)]</sup> or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> with any of the designated operators at <a href="">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
+Travellers arranging transport <u>from the airport to their place of residence</u>, may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br><br>In all other cases, travellers may use their own private vehicle <sup>[See Note (i)]</sup> or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
 
 ##### b) From place of residence to testing facilities for scheduled PCR tests
 
-Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup>. <br><br>In all other cases, travellers may use their own private vehicle or pre-book a taxi/private hire car with any of the designated operators in the table below, to travel to their place of residence or to go for their scheduled PCR tests. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
+Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> in <a href="#table1">Table 1</a> below.
 
+
+<p id="table1" style="font-size: 20px;"><b>Table 1: Transport service providers and contact details for travellers on 7-day SHN</b></p>
+	
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Service Provider and Contact Number</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">Contact Number* / Mobile Application</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Service Provider and Contact Number</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Contact Number* / Mobile Application</b></th>
     </tr>
   </thead>
   <tbody>
