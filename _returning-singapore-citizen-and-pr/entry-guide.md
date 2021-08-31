@@ -69,8 +69,7 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
     </tr>
         <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><b style="color:red;">Note:</b>
-			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>			 
-					 Traveller must receive the full regimen of the Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>(refer to "COVID-19 Vaccine EUL issued" section) at least two weeks before arrival in Singapore. Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
+			<p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">	<i>Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
            </td>
     </tr>
   </tbody>
