@@ -14,7 +14,7 @@ permalink: /arriving/overview
 
 Please use the self-help tool below to find out which SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile. If the tool below does not work, try opening it in a separate window [here](https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16), or refer to a listing of SafeTravel Lanes listed by traveller profile [here](#lanelist)  
 
-<iframe width="100%" height="1600px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="2100px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div id="lanelist"></div>
