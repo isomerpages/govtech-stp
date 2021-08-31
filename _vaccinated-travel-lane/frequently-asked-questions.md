@@ -57,11 +57,63 @@ The table below shows the minimum interval between 2 doses of vaccines for vacci
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">17 days </td>
 </tr>
+	<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Moderna</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">mRNA-1273</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">24 days </td>
+</tr>
+		<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Astrazeneca</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">AZD1222-Vaxzeveria <br/>(ChAdOx1_nCoV-19)</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">24 days </td>
+</tr>
+			<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Serum Institute of India</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Covishield <br/> (ChAdOx1_nCoV-19)</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">24 days </td>
+</tr>
+				<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Janssen</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Ad26.COV2.S</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">NA </td>
+</tr>
+				<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Sinopharm</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV)</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">17 days </td>
+</tr>
+					<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Sinovac </td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">13 days </td>
+</tr>
+						<tr>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Heterologous vaccine regimens in COVID-19 naïve persons </td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Any WHO EUL vaccine:
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">BNT162b2/COMIRNATY Tozinameran (INN)</li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">mRNA-1273</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Covishield (ChAdOx1_nCoV-19)</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Ad26.COV2.S</li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV) </li>
+		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
+</ol>	
+							</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
+	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">17 days </td>
+</tr>
 </tbody>
 </table>
 
 
-#### 2. Are children who are not vaccinated or persons who are medically unfit to be vaccinated allowed to travel under the VTL scheme?
+#### 3. Are children who are not vaccinated or persons who are medically unfit to be vaccinated allowed to travel under the VTL scheme?
 
 Children or persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
 
@@ -76,7 +128,7 @@ However, unvaccinated:
 
 may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 3. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
+#### 4. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
 
 No, all travellers under the VTL need to be fully vaccinated.
 
@@ -92,7 +144,7 @@ However, unvaccinated:
 
 may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-#### 4. What do travellers who are vaccinated in Singapore need to present at check-in and arrival immigration?
+#### 5. What do travellers who are vaccinated in Singapore need to present at check-in and arrival immigration?
 
 You must present a proof of your vaccination status, which can be in the form of:
 
@@ -122,7 +174,7 @@ For (A) and (B), please see sample screenshots below:
 </table>
  
  	
-#### 5. What information needs to be reflected on a physical or electronic vaccination certificate?
+#### 6. What information needs to be reflected on a physical or electronic vaccination certificate?
 
 A physical or electronic vaccination certificate needs to state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
@@ -135,13 +187,13 @@ A physical or electronic vaccination certificate needs to state the following:
 <div id="QRcode"></div>
 
 
-#### 6. What does a vaccination QR code look like?
+#### 7. What does a vaccination QR code look like?
 
 Please see a sample here:
 
 <img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
  
-#### 7. How do I know if I need to upload 1 or 2 vaccination QR codes?
+#### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
 Depending on the institution the vaccination certificate is issued from, you may be issued with 1 or 2 vaccination QR codes to upload.
 
@@ -150,7 +202,7 @@ Depending on the institution the vaccination certificate is issued from, you may
 <div id="invalidcode"></div>
 
 
-#### 8. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 9. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 Vaccination QR code(s) may be invalid for reasons such as:
 
