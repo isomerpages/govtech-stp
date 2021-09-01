@@ -195,10 +195,15 @@ A physical or electronic vaccination certificate needs to state the following:
 Please see a sample here:
 
 <img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
+
+
+<div id="numberofcodes"></div>
+
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
 You should upload one vaccination QR code for each vaccination dose you have received. Travellers who have been vaccinated in Germany should upload either one or two vaccination QR codes, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses). 
+
 
 <div id="invalidcode"></div>
 
@@ -210,7 +215,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
 - Traveller is not [fully vaccinated](#fullyvaccinated) yet
 - [Days interval between doses](#doses) is less than the requirement
-- Number of QR codes uploaded does not meet the criteria
+- [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
 - The QR code has been tampered with
 - Traveller is not vaccinated in his/her declared country/region of departure
 
@@ -566,7 +571,7 @@ Failure to undergo the required COVID-19 PCR tests may constitute an offence und
  
 A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
 
-Further, the traveller’s VTP may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
 ---
 
@@ -577,7 +582,7 @@ Further, the traveller’s VTP may be cancelled, and in such an event, he/she ma
 
 <div id="AdditionalReq"></div> 
 
-### (h) Additional Requirements for Short-Term Visitors
+### (f) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 
@@ -629,9 +634,9 @@ Visitors must purchase COVID-19 travel insurance prior to their travel to Singap
 
 Visitors will have to declare, at the point of VTP application, that they will purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travelling to Singapore. They must also carry with them an electronic or physical copy of their insurance policy to facilitate their entry into Singapore.
 
-#### 5. What penalties will be imposed on traveller if he did not buy the insurance prior to entering Singapore?
+#### 5. What penalties will be imposed on the visitor if he/she did not buy the insurance prior to entering Singapore?
 
-Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP. In such an event, the VTP holder may be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
+Purchase of travel insurance is a condition of the VTL. Non-compliance with any of the conditions of the VTL may result in refusal of entry into Singapore and/or cancellation of the VTP and/or Visit Pass. In such an event, the VTP holder may be repatriated, and be liable for the cost of his/her repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
 
 ---
 
