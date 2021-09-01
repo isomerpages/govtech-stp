@@ -12,6 +12,7 @@ permalink: /vtl/apply-now
     <tr>
       <td width="60%" style="text-align:center;"><a href="https://go.gov.sg/vtl-portal">https://go.gov.sg/vtl-portal</a></td>
 		 </tr>
+		 <tr>
 		  <td><a href="https://go.gov.sg/vtl-portal"><img src="/images/vtl_portal.png" alt="https://go.gov.sg/vtl-portal" title="https://go.gov.sg/vtl-portal"></a></td>
 		 </tr>
 		 </tbody>
