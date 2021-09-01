@@ -7,6 +7,10 @@ permalink: /arriving/overview
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.ica.gov.sg/covid-19/icab">here</a> (See section under Collection of Vaccination Stickers for Eligible Short-Term Visitors.)</b></p>
 </div>
 
+Please use the self-help tool below to find out which SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile. If the tool below does not work, try opening it in a separate window <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16">here</a>, or refer to the SafeTravel Lanes listed by traveller profile <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">here</a>. Arriving Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arriving/crew">here</a> instead for more information.
+
+<iframe width="100%" height="1000px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 
 <div id="top"></div>
@@ -19,9 +23,6 @@ International travel has been restricted due to the COVID-19 pandemic. SafeTrave
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
 </ul>
 
-<iframe width="100%" height="1000px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Arriving Air and Sea Crew as well as Pleasure Craft owners can click <a href="/arriving/crew">here</a>  for more information.
 
 <div id="ReturningSCPR"></div>
 
