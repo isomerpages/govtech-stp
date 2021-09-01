@@ -15,7 +15,10 @@ Please use the self-help tool below to find out which SafeTravel lanes you may u
 
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 
-<div id="top"></div>
+<div id="lanelist"></div>
+
+### List of SafeTravel Lanes by Traveller Profile
+
 
 <ul style="list-style-type: decimal;">
 	<li><a href="#ReturningSCPR">Returning Singapore Citizens and Permanent Residents</a></li>
