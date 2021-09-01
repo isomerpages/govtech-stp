@@ -9,7 +9,9 @@ permalink: /arriving/overview
 
 Please use the self-help tool below to find out which SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile. If the tool below does not work, try opening it in a separate window <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16">here</a>, or refer to the SafeTravel Lanes listed by traveller profile <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">here</a>. Arriving Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arriving/crew">here</a> instead for more information.
 
+
 <iframe width="100%" height="1000px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 International travel has been restricted due to the COVID-19 pandemic. SafeTravel lanes are available to facilitate controlled entry to Singapore, based on the traveller’s profile and purpose of travel. The following categories of travel are currently allowed, which may be limited based on the traveller’s travel history to various countries/regions:
 
