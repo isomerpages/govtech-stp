@@ -5,7 +5,7 @@ permalink: /vtl/apply-now
 <table>
   <thead>
     <tr>
-      <th style="text-align:center;">Apply for Periodic Commuting Arrangement (PCA)</th>
+      <th style="text-align:center;">Apply for Vaccinated Travel Lane</th>
 		</tr>
 	</thead>
 	 <tbody>
