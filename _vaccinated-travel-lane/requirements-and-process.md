@@ -40,7 +40,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 </p>
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Personal data will be collected for VTP applications. By applying for the VTP, the traveller agrees to use of the personal data collected for the purpose of processing and implementing the VTL entry. Please click <a href="">here</a> to view the Privacy Statement.
 </p>
-															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For enquiries, please click <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For enquiries, please click <a href="/contact-us">here</a>.
 </p>
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>IMPORTANT:</b> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health. This may include changes to the VTL  conditions or cancellation of the VTP at short notice. Travellers will be notified of changes to the VTL conditions or cancellation of their VTP.</i>
 </p>
