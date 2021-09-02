@@ -198,7 +198,8 @@ Please see a sample here:
 
 Travellers with a EU Digital COVID Certificate can find their QR code at the top right corner.
 
-<img src="/images/EUCert.png" style="width:180px; height:180px;">
+<img src="/images/EUCert.png" style="width:402px; height:593px;">
+
 
 <div id="numberofcodes"></div>
 
