@@ -154,7 +154,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><p style="font-size:16px; line-height: 1.5;">Click <a href="/stpl/faq">here</a> for the FAQ related to STPHL, or click the links below for specific queries on the following topics:</p>
 <ul style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Who are "<a href="/health/faq#vaccinated">fully vaccinated travellers </a>"?</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.moh.gov.sg/news-highlights/details/next-steps-in-our-transition-towards-covid-resilience">Vaccination Stickers for WHO EUL Vaccinated travellers </a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">Vaccination Stickers for WHO EUL Vaccinated travellers </a></li>
 </ul>	
 <p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes.</p>
  </td>
