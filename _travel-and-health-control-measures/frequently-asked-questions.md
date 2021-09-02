@@ -741,6 +741,8 @@ From <b>20 August 2021, 2359hrs</b>, fully vaccinated travellers will be able to
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore.</li>
 </ol>
 
+From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinated overseas with a WHO-Emergency Use Listing (EUL) vaccine, and who can provide a valid, English-language vaccination certificate, can request for a tamper-proof vaccination sticker affixed onto their passports to be eligible for vaccination-differentiated safe management measures. For more information on vaccination stickers for short-term visitors, click [here](https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)). 
+
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
 From 8 September 2021, fully vaccinated travellers who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
