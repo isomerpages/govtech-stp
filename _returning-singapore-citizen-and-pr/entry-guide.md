@@ -25,7 +25,7 @@ All travellers are required to take a PDT before arrival in Singapore, except th
 <li style="margin-top:10px; margin-bottom:0px; line-height:1.5;">Reflects the date and result of the PCR test.</li>
 </ol>
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
+Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office <a href="/contact-us">here</a>.
 
 <div id="SGAC"></div>
 
