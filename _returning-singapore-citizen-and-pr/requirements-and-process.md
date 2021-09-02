@@ -32,7 +32,7 @@ Please note that travellers who have received COVID-19 vaccination or recovered 
 	<li style="font-size:18px;">Reflects the date and result of the PCR test.</li>
 </ul>
 	
-<span class="font-size:16px;">Travellers who face difficulties with taking a pre-departure COVID-19 PCR test prior to departure for Singapore can contact us via the <a href="https://go.gov.sg/sto-enquiry">Safe Travel Enquiry Form</a> or contact our Safe Travel Enquiries Helpline at 6812 5555 for assistance.</span>
+<span class="font-size:16px;">Travellers who face difficulties with taking a pre-departure COVID-19 PCR test prior to departure for Singapore can contact us <a href="/contact-usy">here</a>.</span>
 
 
 ### 4. Pre-Departure Preparation (within 72 hours before Departure)
