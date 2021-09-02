@@ -196,6 +196,9 @@ Please see a sample here:
 
 <img src="/images/Vaccination QR code.png" style="width:180px; height:180px;">
 
+Travellers with a EU Digital COVID Certificate can find their QR code at the top right corner.
+
+<img src="/images/EUCert.png" style="width:180px; height:180px;">
 
 <div id="numberofcodes"></div>
 
@@ -218,6 +221,12 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
 - The QR code has been tampered with
 - Traveller is not vaccinated in his/her declared country/region of departure
+
+For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
+
+#### 10. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
+
+Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
 ---
 
@@ -803,11 +812,15 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/sc-pr/vtl">here</a> for more information on the requirements.
 
-#### 10. Can travel agents apply for VTP on behalf of their clients?
+#### 10. I have an In-Principle Approval (IPA) for a Long-Term Pass. How should I apply for the VTP?
+
+IPA holders should apply for the VTP as short-term visitors. They will need to comply with all the [conditions](/vtl/conditions) of the VTP that apply to short-term visitors.
+
+#### 11. Can travel agents apply for VTP on behalf of their clients?
 
 No. Travellers will need to submit the application themselves as they are required to agree to the conditions of the VTL, read and agree to the Privacy Statement, as well as verify all submitted information.
 
-#### 11. Why was I unsuccessful in applying for a VTP?
+#### 12. Why was I unsuccessful in applying for a VTP?
 
 A VTP application may be unsuccessful for reasons such as:
 - Invalid vaccination QR code
@@ -815,17 +828,17 @@ A VTP application may be unsuccessful for reasons such as:
 - Passport validity is less than 6 months
 - Failure to complete payment for your Day 3 and Day 7 post-arrival COVID-19 Polymerase Chain Reaction (PCR) tests
  
-#### 12. How do I change the validity of my VTP?
+#### 13. How do I change the validity of my VTP?
 
 A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
 
-If you need to enter before or after the validity period, please submit an appeal <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555. All appeals are assessed on a case-by-case basis.
+If you need to enter before or after the validity period, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555. All appeals are assessed on a case-by-case basis.
 
-#### 13. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 14. How can I cancel my VTP as I no longer wish to travel to Singapore?
 
-Please submit a request <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+Please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
 
-#### 14. Can travellers use the VTP to transit/transfer through Singapore?
+#### 15. Can travellers use the VTP to transit/transfer through Singapore?
 
 No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
