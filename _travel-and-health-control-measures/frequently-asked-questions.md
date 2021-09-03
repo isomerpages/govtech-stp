@@ -252,7 +252,7 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 #### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
-If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
+If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
 Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
