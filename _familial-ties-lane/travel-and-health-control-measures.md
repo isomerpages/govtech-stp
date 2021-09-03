@@ -10,7 +10,7 @@ The table below reflects the latest travel health control measures applicable to
 
 Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but has transited via a Category (III) and/or (IV) country/region to Singapore is not required to take a PDT.	
 
-<b>Health measures in Singapore</b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
+<b>In land health measures </b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
 
 Travellers <u>must</u> comply with the travel health control measures required. Breaches of requirements may result in penalties under the Infectious Diseases Act and/or other relevant laws.
 
