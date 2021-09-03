@@ -161,7 +161,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 	</ol>
 	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Philippines:</b> Take an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test </a>, in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Indonesia, Philippines:</b> Take an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test </a>, in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
 </td>     
 </tr>
 </tbody>
