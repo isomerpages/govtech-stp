@@ -67,11 +67,11 @@ Travellers are considered fully vaccinated if they meet the following conditions
 	</tbody>
 	</table>
 	
-If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE and indicate your vaccination status accordingly on the online tool](/arriving/overview).
+If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE](/arriving/overview) and indicate your vaccination status accordingly on the online tool.
 
 ## Accepted Mixed Vaccine Regimes 
 
-Travellers arriving in Singapore from <b>8 Sep 2021</b> but have received mixed vaccine doses will be considered full vaccinated, if they meet the following conditions at least 2 weeks before arrival in Singapore:
+Travellers arriving in Singapore from <b>8 Sep 2021</b> but have received mixed vaccine doses will also be considered full vaccinated, if they meet the following conditions at least 2 weeks before arrival in Singapore:
 - Received two doses of any WHO EUL Vaccine listed below; and
 -	Met the minimum dose interval period.
 
@@ -105,4 +105,4 @@ Tozinameran (INN)</li>
 
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated. 
 
-If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE and indicate your vaccination status accordingly on the online tool](/arriving/overview).
+If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE](/arriving/overview) and indicate your vaccination status accordingly on the online tool.
