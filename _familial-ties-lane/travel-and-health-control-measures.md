@@ -19,7 +19,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 
 <p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 9 Sep 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 8 Sep 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measures stipulated in their Stay Home Notice (SHN).</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 9 Sep 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measures stipulated in their Stay Home Notice (SHN).</b></p>
 
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
@@ -36,7 +36,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (including Jiangsu province)</b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
