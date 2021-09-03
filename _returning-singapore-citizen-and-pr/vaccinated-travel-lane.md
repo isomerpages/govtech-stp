@@ -111,12 +111,12 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the HealthHub app; or</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">an electronic or physical copy of the vaccination certificate, stating the following:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">electronic or physical vaccination certificate(s), stating the following:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country of vaccination;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore.</li>
 </ol>
 </li>
 </ol>
@@ -149,12 +149,12 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <ol style="margin-top: 10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top: 10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the HealthHub app; or</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">an electronic or physical copy of the vaccination certificate, stating the following:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">electronic or physical vaccination certificate(s), stating the following:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country of vaccination;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore.</li>
 </ol>
 </li>
 </ol>
