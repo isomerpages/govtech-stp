@@ -57,7 +57,7 @@ C) <u>Request to complete the Stay-Home Notice (SHN) at residence instead of SHN
     </tr>
        <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
-				Traveller is <a href="/health/faq#vaccinated">fully vaccinated</a> and had remained in only <a href="/sc-pr/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
+				Traveller is <a href="/health/vtsg">fully vaccinated</a> and had remained in only <a href="/sc-pr/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either: 
         <ol style="font-size:16px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">
 <li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. <i>no domestic helpers</i>); or</li>
 	<li style="font-size:16px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
