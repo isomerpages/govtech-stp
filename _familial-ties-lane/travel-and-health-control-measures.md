@@ -120,11 +120,11 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an SDF, administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on their own on Days 3, 7, and 11 of their arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.<br><br>
 	<span style="color:red;"><b>OR</b></span><br><br>
-	[For approved travellers who are fully vaccinated] <sup><span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments <sup><span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
+	[For approved travellers who are <a href="/health/vtsg">fully vaccinated </a>] <sup><span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments <sup><span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a <a href="/health/faq#vaccinated">fully vaccinated</a> traveller who has been approved to serve SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a <a href="/health/vtsg">fully vaccinated traveller</a> who has been approved to serve SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 2:</span></b></p>
 			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to opt out of serving SHN at an SDF can be submitted <b>during entry application</b> . To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy their own residence or other suitable accommodation, such as hotels and serviced apartments:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -132,7 +132,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members<sup>[1]</sup> with the same travel history and SHN duration.</i></li>
 </ol>
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
-	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>[1]</sup>Fully vaccinated travellers who are entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their own residence or other suitable accommmodation, such as hotels or serviced apartments.</p>
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>[1]</sup><a href="/health/vtsg">Fully vaccinated traveller</a> who are entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their own residence or other suitable accommmodation, such as hotels or serviced apartments.</p>
 </td>
 </tr>	
 <tr>
