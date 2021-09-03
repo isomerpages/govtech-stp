@@ -371,15 +371,31 @@ Short-term visitors who are VTP holders may only travel to Singapore on designat
 #### 9. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
-- a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;
-- a valid vaccination certificate (electronic or physical copy);
-- a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<ul> 
+	<li>a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
+<li>a valid proof of vaccination status, which can be in the form of:
+<ul style="list-style-type:disc;">
+	<li>a vaccination status on the TraceToegether app;</li>
+	<li>a vaccination status on the HealthHub app; or</li>
+	<li>electronic or physical vaccination certificate(s) in English, stating the following:
+			<ul style="list-style-type:lower-roman;">
+				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
+				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;</li>
+				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
+		</ul>
+			</li>
+		</ul>
+	</li>
+<li>a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
 <li>the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from their country/region of departure to Singapore; and</li>
 <li>the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
+	</li>
+	</ul>
 
 In addition, short-term visitors must present:
 - a valid visa (for visa-required visitors); and
