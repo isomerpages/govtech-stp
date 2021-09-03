@@ -238,8 +238,7 @@ Travellers who need to purchase Singapore dollars or SIM cards, or rent mobile p
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 At arrival immigration in Singapore, all travellers must present to the ICA officer:
 							<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 	 
 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the HealthHub app; or</li>				
