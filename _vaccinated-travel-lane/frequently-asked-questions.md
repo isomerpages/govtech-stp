@@ -153,11 +153,11 @@ You must present a proof of your vaccination status, which can be in the form of
 
 (A)	a vaccination status on the TraceTogether app; <br>
 (B)	a vaccination status on the HealthHub app; or<br>
-(C)	an electronic or physical copy of the vaccination certificate, stating the following:
+(C)	electronic or physical vaccination certificate(s) in English, stating the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- the country of vaccination;
+- the country/region of vaccination;
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
-- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered)
+- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore
 
 For (A) and (B), please see sample screenshots below:
 
@@ -177,14 +177,13 @@ For (A) and (B), please see sample screenshots below:
 </table>
  
  	
-#### 6. What information needs to be reflected on a physical or electronic vaccination certificate?
+#### 6. What information needs to be reflected on electronic or physical vaccination certificates?
 
-A physical or electronic vaccination certificate needs to state the following:
+The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- the country of vaccination;
+- the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
-- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered).
-
+- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of teh last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
 
 <div id="QRcode"></div>
@@ -317,7 +316,19 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>be fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
+	<li>be fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. They must also have a valid proof of vaccination status, which can be in the form of: 
+		<ul style="list-style-type:disc;">
+	<li>a vaccination status on the TraceToegether app;</li>
+	<li>a vaccination status on the HealthHub app; or</li>
+	<li>electronic or physical vaccination certificate(s) in English, stating the following:
+			<ul style="list-style-type:lower-roman;">
+				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
+				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;</li>
+				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
+		</ul>
+			</li>
+		</ul>
 		</li>
 		<li>have only been to their country/region of departure and/or Singapore in the last 21 consecutive days before departing for Singapore; and</li>
 		<li>undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
@@ -360,15 +371,31 @@ Short-term visitors who are VTP holders may only travel to Singapore on designat
 #### 9. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
-- a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;
-- a valid vaccination certificate (electronic or physical copy);
-- a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<ul> 
+	<li>a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
+<li>a valid proof of vaccination status, which can be in the form of:
+<ul style="list-style-type:disc;">
+	<li>a vaccination status on the TraceToegether app;</li>
+	<li>a vaccination status on the HealthHub app; or</li>
+	<li>electronic or physical vaccination certificate(s) in English, stating the following:
+			<ul style="list-style-type:lower-roman;">
+				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
+				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;</li>
+				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
+		</ul>
+			</li>
+		</ul>
+	</li>
+<li>a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
 <li>the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from their country/region of departure to Singapore; and</li>
 <li>the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
+	</li>
+	</ul>
 
 In addition, short-term visitors must present:
 - a valid visa (for visa-required visitors); and

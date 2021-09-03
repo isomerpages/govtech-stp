@@ -187,7 +187,19 @@ Short term visitors are required to download and register their profile on the T
 				When checking in at the departure airport, travellers must present to the airline staff:
 						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
-												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid vaccination certificate (electronic or physical copy);</li>				
+<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>				 
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the HealthHub app; or</li>				
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">electronic or physical vaccination certificate(s) in English, stating the following:
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller’s arrival in Singapore.</li>
+																 </ol>
+	</li>
+											 </ol>
+											 </li>		
 										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
@@ -226,8 +238,20 @@ Travellers who need to purchase Singapore dollars or SIM cards, or rent mobile p
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 At arrival immigration in Singapore, all travellers must present to the ICA officer:
 							<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
-												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid vaccination certificate (electronic or physical copy);</li>				
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 	 
+<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>				 
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the HealthHub app; or</li>				
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">electronic or physical vaccination certificate(s) in English, stating the following:
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller’s arrival in Singapore.</li>
+																 </ol>
+	</li>
+											 </ol>
+											 </li>		
 										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
