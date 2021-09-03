@@ -640,7 +640,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Who are "fully vaccinated travellers"?
 
-Fully vaccinated travellers have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore:
+They include travellers arriving in Singapore from 8 Sep 2021, and have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore. 
 
 <table>
 	<thead>
@@ -700,7 +700,7 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 2. Am I a "fully vaccinated traveller" if I had received vaccines from different manufacturers?
 
-Yes, if you have received the requisite doses of WHO EUL Vaccines (below) and met the required minimum interval period, at least 2 weeks before arrival in Singapore:
+Yes, if you are arriving in Singapore from 8 Sep 2021, and have received the requisite doses of WHO EUL Vaccines (below) and met the required minimum interval period, at least 2 weeks before arrival in Singapore:
 
 <table>
 	<thead>
@@ -738,10 +738,10 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 From <b>20 August 2021, 2359hrs</b>, [fully vaccinated travellers](#vaccinated) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in the specific list of countries including Brunei Darussalam, Hong Kong, Macao, Mainland China, New Zealand, Taiwan, Australia, Austria, Canada, Germany, Italy, Norway, Republic of Korea (ROK), and Switzerland for 21 consecutive days before arrival in Singapore.</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for 21 consecutive days before arrival in Singapore</li>
 </ol>
 
-From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinated overseas with a WHO-Emergency Use Listing (EUL) vaccine, and who can provide a valid, English-language vaccination certificate, can request for a tamper-proof vaccination sticker affixed onto their passports to be eligible for vaccination-differentiated safe management measures. For more information on vaccination stickers for short-term visitors, click [here](https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)). 
+From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinated overseas with a WHO-Emergency Use Listing (EUL) vaccine, and who can provide a valid, <b>English-language vaccination certificate</b>, can request for a tamper-proof vaccination sticker affixed onto their passports to be eligible for vaccination-differentiated safe management measures. For more information on vaccination stickers for short-term visitors, click [here](https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)). 
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
