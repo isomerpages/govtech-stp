@@ -10,14 +10,13 @@ For Construction, Marine shipyard or Process sector workers who meet <b>all of t
 
 For all other pass holders (work pass holders and their dependants), please refer to this page for their travel health control measures. The control measures vary based on the pass holders’ travel history and will be stated on their entry approval letters. As the measures are subject to change based on the global situation, please refer to the table below for the latest requirements. 
 
-### Travel Health Control Measures for WPHL-pass holders 
-<p style="font-size:16px; margin-top:-10px;"><i>(<a href="https://safetravel.ica.gov.sg/news-and-media/press-releases/">Reflects latest travel policy</a> as at  28 Aug 2021)</i></p>
+### Travel Health Control Measures for WPHL-pass holders
 
 <div id="table2"></div>
 
-<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 30 Aug 2021, 2359h</span></b></p>
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 9 Sep 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Pass holders who have arrived in Singapore before 30 Aug 2021, 2359h, are <u>not eligible</u> for the updated border measures announced on 28 Aug 2021, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 9 Sep 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measure stipulated in their Stay Home Notice (SHN).</b></p>
 
 <b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
@@ -40,7 +39,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (including Jiangsu province)</b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
@@ -88,13 +87,26 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Canada</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Germany</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Republic of Korea</b></li>
 </ul>
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+		<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+</ol>
+</li>
+</ol>
+</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint: <br/><br/>  Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels <sup>[See Note]</sup> or serviced apartments) </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
@@ -114,6 +126,18 @@ For all other pass holders (work pass holders and their dependants), please refe
 </ol>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+		<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+</ol>
+</li>
+</ol>
+</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
@@ -139,21 +163,26 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<tr>
 <td rowspan ="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u><b>Category III</b></u><br/><br/>
 	<ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
-		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
-				  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
-  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
+	  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Croatia</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Egypt</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 			
 </ul>
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
@@ -201,7 +230,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 		<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
@@ -251,7 +280,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
@@ -273,7 +302,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 <td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;">By herself or with another helper/CN</td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;">
 <ol style="margin-top: 0px; list-style-type: disc;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test (ART)</a> ($67 including GST) at the checkpoint</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Additional test for helpers/CNs with travel history to <b><!--Indonesia--> or Philippines</b> within the last 21 days before arrival) <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test (ART)</a> ($67 including GST) at the checkpoint</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(For all helpers/CNs) COVID-19 serology and PCR tests at the SHN dedicated facility (SDF) within the first few days of arrival. <b>No registration is needed</b>. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
 		</ol>
 		</td>
@@ -281,7 +310,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 				<tr>
 <td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;">With her employer or employer’s family</td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;"><ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Additional test for helpers/CNs with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival) <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> (ART) ($67 including GST) at the checkpoint</li> 
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Additional test for helpers/CNs with travel history to <b><!--Indonesia--> or Philippines</b> within the last 21 days before arrival) <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> (ART) ($67 including GST) at the checkpoint</li> 
 			   <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(For all helpers/CNs) COVID-19 PCR test at the checkpoint ($160 including GST)</li>
 			   </ol><br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the helper/CN arrives in Singapore.</b> Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 					</td>
@@ -298,7 +327,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup> before arrival.</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
@@ -320,7 +349,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</thead>
 		<tbody>
 		<tr>
-<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;  ">Those with travel history to <b>Indonesia or Philippines</b> within the last 21 days before arrival </td>
+<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; line-height:1.5;  ">Those with travel history to <b><!--Indonesia--> or Philippines</b> within the last 21 days before arrival </td>
 	<td  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;   line-height:1.5;"><a href="/health/covid19-tests/pcrtest">Antigen Rapid Test (ART)</a> and PCR test ($227 including GST)
 	</td>
 </tr>
