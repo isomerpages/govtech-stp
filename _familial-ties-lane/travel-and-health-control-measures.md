@@ -6,7 +6,7 @@ permalink: /scpr-familial-ties-lane/shn-and-swab-summary
 
 ### Travel Health Control Measures for FTL-travellers
 
-The table below reflects the latest travel health control measures applicable to all approved FTL-travellers (inclusive of announcements made on <b><u>28 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+The table below reflects the latest travel health control measures applicable to all approved FTL-travellers (inclusive of announcements made on <b><u>3 Sep 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
 Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but has transited via a Category (III) and/or (IV) country/region to Singapore is not required to take a PDT.	
 
