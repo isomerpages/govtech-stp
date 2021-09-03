@@ -9,7 +9,7 @@ Travellers may be required to be fully vaccinated with WHO Emergency Use Listing
 If you have read and understood the criteria below and wish to find out which SafeTravel Lane you should use to enter Singapore, you may click [HERE](/arriving/overview) for more info.
 
 ## Vaccination with Same Vaccine Manufacturer 
-Travellers considered fully vaccinated if they meet the following conditions at least 2 weeks before arrival in Singapore:
+Travellers are considered fully vaccinated if they meet the following conditions at least 2 weeks before arrival in Singapore:
 - Received the full regimen of WHO EUL Vaccines (below), from a specific manufacturer, and 
 - Met the minimum dose interval period.
 
