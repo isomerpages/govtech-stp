@@ -2,7 +2,7 @@
 title: Pre-Departure & Entry Guide
 permalink: /dcev/entryguide
 ---
-This guide is meant for travellers who have received entry approvals to Singapore on a short-term basis via the Death &amp; Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer here for more information. Travellers who are fully vaccinated and are returning from Brunei and Germany from <b>8 Sep 2021</b> onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
+This guide is meant for travellers who have received entry approvals to Singapore on a short-term basis via the Death &amp; Critical Illness Emergency Visit (DCEV) Lane. Travellers who are unsure if they qualify for emergency entry, may refer here for more information. Travellers who are <a href="/health/vtsg">fully vaccinated</a> and are returning from Brunei and Germany from <b>8 Sep 2021</b> onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
 
 <div id="PDT"></div>
 
