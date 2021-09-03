@@ -35,13 +35,13 @@ Travellers with travel history to the following countries/regions will not be al
   </tbody>
   </table>
   
-<span>*</span>From <b>8 September 2021, 2359 hours</b>, all passengers with a 21-day travel history to Indonesia will be allowed to transit through Singapore. However, they are required to have a negative PCR Pre-Departure Test taken within 48 hours before departure to Singapore.
+<span>*</span>From <b>9 September 2021, 2359 hours</b>, all passengers with a 21-day travel history to Indonesia will be allowed to transit through Singapore. However, they are required to have a negative PCR Pre-Departure Test taken within 48 hours before departure to Singapore.
 
 #### Pre-Departure COVID-19 Test
 
 Currently, transit travellers with a travel history to any Category I and II countries/regions in the last 21 days before arriving in Singapore are not required to take a Pre-Departure Test (“PDT) before departing for Singapore.
 
-From <b>8 September 2021, 2359 hours</b>, only transit travellers with 21-day  travel history to Category I countries/regions before arriving in Singapore to transit are not required to take a PDT before departing for Singapore.
+From <b>9 September 2021, 2359 hours</b>, only transit travellers with 21-day  travel history to Category I countries/regions before arriving in Singapore to transit are not required to take a PDT before departing for Singapore.
 
 All other travellers transiting through Singapore (including Singapore Citizens and PRs) via flight or ferry will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore. 
 
