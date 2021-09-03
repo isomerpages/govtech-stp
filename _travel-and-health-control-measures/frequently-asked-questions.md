@@ -638,7 +638,7 @@ Click here to [Go Back To Top](#top).
 
 ## Vaccinated Travellers intending to travel to Singapore
 
-#### 1. Who are "fully vaccinated travellers"?
+<!--#### 1. Who are "fully vaccinated travellers"?
 
 They include travellers arriving in Singapore and have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore. 
 
@@ -730,10 +730,10 @@ Tozinameran (INN)</li>
 	</tbody>
 </table>
 
-For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.
+For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.-->
 
 
-#### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
 From <b>20 August 2021, 2359hrs</b>, [fully vaccinated travellers](#vaccinated) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
