@@ -640,7 +640,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1. Who are "fully vaccinated travellers"?
 
-They include travellers arriving in Singapore from 8 Sep 2021, and have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore. 
+They include travellers arriving in Singapore who have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore. 
 
 <table>
 	<thead>
