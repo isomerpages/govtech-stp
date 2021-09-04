@@ -103,6 +103,6 @@ Tozinameran (INN)</li>
 	</tbody>
 </table>
 
-If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated. 
+If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
 If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE](/arriving/overview) and indicate your vaccination status accordingly on the online tool.
