@@ -205,7 +205,7 @@ Travellers with a EU Digital COVID Certificate can find their QR code at the top
  
 #### 8. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
-You should upload one vaccination QR code for each vaccination dose you have received. Travellers who have been vaccinated in Germany should upload either one or two vaccination QR codes, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses). 
+You should upload one vaccination QR code for each vaccination dose you have received. Travellers who have been vaccinated in Germany should upload either one or two vaccination QR codes, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses). These QR codes should be obtained from their EU Digital COVID Certificate. 
 
 
 <div id="invalidcode"></div>
