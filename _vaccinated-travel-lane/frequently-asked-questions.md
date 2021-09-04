@@ -429,7 +429,7 @@ No, the VTL is meant for travellers who intend to seek entry into Singapore. For
 ### (d) On-Arrival COVID-19 PCR Test at the Airport
 
 #### 1. How do I pay for the on-arrival COVID-19 PCR test?
-Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="">here</a>.
+Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="/health/covid19-tests/pcrtest#price">here</a>.
 
 *(This is separate from the pre-payment made at the point of VTP application, which is for the post-arrival Day 3 and Day 7 COVID-19 PCR tests.)*
 
