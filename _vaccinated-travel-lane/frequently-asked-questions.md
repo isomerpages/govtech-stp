@@ -183,7 +183,7 @@ The electronic or physical vaccination certificate(s) should be in English and c
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
 - the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
-- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of teh last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
+- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
 
 <div id="QRcode"></div>
@@ -429,7 +429,7 @@ No, the VTL is meant for travellers who intend to seek entry into Singapore. For
 ### (d) On-Arrival COVID-19 PCR Test at the Airport
 
 #### 1. How do I pay for the on-arrival COVID-19 PCR test?
-Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="">here</a>.
+Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="/health/covid19-tests/pcrtest#price">here</a>.
 
 *(This is separate from the pre-payment made at the point of VTP application, which is for the post-arrival Day 3 and Day 7 COVID-19 PCR tests.)*
 
