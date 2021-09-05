@@ -6,20 +6,20 @@ permalink: /stpl/shn-and-swab-summary
 
 ### Travel Health Control Measures for STPHL-Travellers
 
-The table below reflects the latest travel health control measures applicable to all approved STPHL-travellers (inclusive of announcements made on <b><u>28 Aug 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+The table below reflects the latest travel health control measures applicable to all approved STPHL-travellers (inclusive of announcements made on <b><u>5 Sep 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
-Travellers should note that for <b>Pre-Departure Tests (PDT)</b> requirements</b> before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. A traveller with a travel history to any Category (III) or (IV) countries/regions will therefore be required to take a PDT, even if departing for Singapore from any Category (I) or (II) country/region.
+Travellers should note that for <b>Pre-Departure Tests (PDT) requirements</b> before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>.This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but has transited via a Category (III) and/or (IV) country/region to Singapore is not required to take a PDT.
 
-<b>Health measures in Singapore</b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
+<b>In land health measures</b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
 
 Travellers <u>must</u> comply with the travel health control measures required. Breaches of requirements may result in penalties under the Infectious Diseases Act and/or other relevant laws.
 
 
 <div id="table2"></div>
 
-<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 30 Aug 2021, 2359h</span></b></p>
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 9 Sep 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers who have arrived in Singapore before 30 Aug 2021, 2359h, are <u>not eligible</u> for the updated border measures announced on 28 Aug 2021, and should follow the health measures as communicated on their Stay Home Notices.</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 9 Sep 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measures stipulated in their Stay Home Notice (SHN).</b></p>
 
 <i>[<b><u>Note:</u></b> Only travellers below 3 years of age in the current calendar year are <u>exempted</u> from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test.]</i>
 
@@ -36,13 +36,13 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China (including Jiangsu province)</b></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Mainland China</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Taiwan</b></li>
 </ul>
 </td>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A Pre-Departure Test is not required if you only stayed in Category (I) or (II) countries/regions in the 21 days before departure.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A Pre-Departure Test is not required if you have stayed in any Category (I) countries/regions in the past 21 days before departure for Singapore</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result is conveyed (typically within 24 hours)</li>
 </ol>
@@ -56,11 +56,23 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Canada</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Germany</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>New Zealand</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Republic of Korea</b></li>
 </ul>
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">A Pre-Departure Test is not required if you only stayed in Category (I) or (II) countries/regions in the 21 days before departure.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
+<ol style="margin-top:0px; list-style-type: lower-latin;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore.</li>
+</ol>
+</li>
+</ol>
+</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
@@ -78,17 +90,24 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 	<ul style="margin-top:0px; list-style-type: disc;">
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Croatia</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Egypt</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea</b></li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 </ul></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
@@ -103,11 +122,11 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an SDF, administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on their own on Days 3, 7, and 11 of their arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.<br><br>
 	<span style="color:red;"><b>OR</b></span><br><br>
-	[For approved travellers who are fully vaccinated] <sup>	<span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments <sup>	<span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
+	[For approved travellers who are <a href="/health/vtsg">fully vaccinated</a>] <sup>	<span style="color:red;">[Note 1]</span></sup> Serve 14-day SHN at their own residence or other suitable accommodation, such as hotels and serviced apartments <sup>	<span style="color:red;">[Note 2]</span></sup> and take a COVID-19 PCR test on Day 14 of SHN.
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	<span style="color:red;">Note 1:</span></b></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a <a href="/health/faq#vaccinated">fully vaccinated</a> traveller who has been approved to serve SHN at at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Means a <a href="/health/vtsg">fully vaccinated traveller</a> who has been approved to serve SHN at at their own residence or other suitable accommodation, such as hotels and serviced apartments.</p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	<span style="color:red;">Note 2:</span></b></p>
 			<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Applications to opt out of serving SHN at an SDF can be submitted <b>during entry application</b>. To qualify, the traveller must remain in any Category (I) to (III) countries/regions for 21 consecutive days before arrival in Singapore and occupy their own residence or other suitable accommodation, such as hotels and serviced apartments:</p>
 <ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -115,14 +134,14 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>With vaccinated household members<sup>[1]</sup> with the same travel history and SHN duration.</i></li>
 </ol>
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Any prior approvals granted could be revoked, depending on the public health risk assessment made at the time of their arrival.</i></p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>[1]</sup>Fully vaccinated travellers who are entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their own residence or other suitable accommmodation, such as hotels or serviced apartments.</p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><sup>[1]</sup><a href="/health/vtsg">Fully vaccinated travellers</a> who are entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their own residence or other suitable accommmodation, such as hotels or serviced apartments.</p>
 </td>
 </tr>	
 <tr>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes section for exceptions)</span></b></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 72 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:

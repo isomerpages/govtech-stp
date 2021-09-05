@@ -36,7 +36,7 @@ permalink: /vtl/faq
 
 #### 1. All travellers under the VTL need to be fully vaccinated. What does ‘fully vaccinated’ mean?
 
-Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
+Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 
 <div id="doses"></div>
 
@@ -133,7 +133,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 #### 4. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
 
-No, all travellers under the VTL need to be fully vaccinated.
+No, all travellers under the VTL need to be <a href="/health/vtsg">fully vaccinated traveller</a>.
 
 Unvaccinated short-term visitors will not be allowed to travel under the VTL. 
 
@@ -216,7 +216,7 @@ You should upload one vaccination QR code for each vaccination dose you have rec
 Vaccination QR code(s) may be invalid for reasons such as:
 
 - Traveller’s particulars do not match with the particulars in the vaccination certificate
-- Traveller is not [fully vaccinated](#fullyvaccinated) yet
+- Traveller is not [fully vaccinated](/health/vtsg) yet
 - [Days interval between doses](#doses) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
 - The QR code has been tampered with
@@ -316,7 +316,7 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>be fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. They must also have a valid proof of vaccination status, which can be in the form of: 
+	<li>be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. They must also have a valid proof of vaccination status, which can be in the form of: 
 		<ul style="list-style-type:disc;">
 	<li>a vaccination status on the TraceToegether app;</li>
 	<li>a vaccination status on the HealthHub app; or</li>
@@ -509,7 +509,7 @@ Travellers may refer to the Singapore Hotel Association (SHA) <a href="https://w
 
 #### 6. Can travellers share the same room with family members / travel companions / a caregiver (due to a certified disability or special needs) while waiting for their PCR test results?
 
-If the family member(s), travel companion(s) or caregiver is/are fully vaccinated and share similar travel history in the past 21 days prior to departure for Singapore, travellers may share the same room with such persons, while waiting for their PCR test results.
+If the family member(s), travel companion(s) or caregiver is/are <a href="/health/vtsg">fully vaccinated</a> and share similar travel history in the past 21 days prior to departure for Singapore, travellers may share the same room with such persons, while waiting for their PCR test results.
 
 Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, will be issued a Quarantine / Isolation Order, and/or be subject to further public health requirements.
 

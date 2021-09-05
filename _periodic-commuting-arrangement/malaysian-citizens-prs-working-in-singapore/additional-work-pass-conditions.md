@@ -26,7 +26,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 
 *Before the foreign employee leaves for Singapore*
 
-2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing or Singapore if:
+2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 48 hours before departing or Singapore if:
 : a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore.
 
 Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
@@ -71,7 +71,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 
 *Before the foreign employee leaves for Singapore*
 
-2. The foreign employee shall take a COVID-19 Polymerase Chain Reaction (PCR) test within 72 hours before departing for Singapore if: 
+2. The foreign employee shall take a COVID-19 Polymerase Chain Reaction (PCR) test within 48 hours before departing for Singapore if: 
 : a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore. 
 
 Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government. The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.

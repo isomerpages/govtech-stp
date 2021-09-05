@@ -3,10 +3,10 @@ title: Arriving Overview
 permalink: /arriving/overview
 ---
 
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
+<!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">here</a></b></p>
-</div>
+</div>-->
 
 Please use the self-help tool below to find out which SafeTravel lanes you may use to travel to Singapore, based on your travel history and profile. If the tool below does not work, try opening it in a separate window <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16">here</a>, or refer to the SafeTravel Lanes listed by traveller profile <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">here</a>. Arriving Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arriving/crew">here</a> instead for more information.
 

@@ -108,7 +108,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Who are "<a href="/health/faq#vaccinated">fully vaccinated travellers</a>"?</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Who are "<a href="/health/vtsg">fully vaccinated travellers</a>"?</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">Vaccination Stickers for WHO EUL Vaccinated travellers </a></li>
 </ul>
  </td>
