@@ -6,7 +6,7 @@ permalink: /sc-pr/shn-and-swab-summary
 
 ### Travel Health Control Measures for Returning-SC/PRs 
 
-SC/PRs who are returning to Singapore may refer to the tables below (inclusive of latest announcement made on <b><u>4 Sep 2021</u></b>) for the applicable travel health control measures. To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+SC/PRs who are returning to Singapore may refer to the tables below (inclusive of latest announcement made on <b><u>5 Sep 2021</u></b>) for the applicable travel health control measures. To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
 Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but has transited via a Category (III) and/or (IV) country/region to Singapore is not required to take a PDT.	
 
