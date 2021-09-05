@@ -222,15 +222,15 @@ Travellers should ask for a copy of their PCR test result as it will be consider
 
 Travellers who fail to produce the required documentary proof of having taken the PCR test within the stipulated time before arrival in Singapore may be denied boarding or turned away.
 
-In general, travellers who are required to take a PCR test must do so <u>within 72 hours before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the 72 hours will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 PCR test must be taken no earlier than 25 May 2021.
+In general, travellers who are required to take a PCR test must do so <u>within 72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours) before departure to Singapore</u>. For passengers on <b>direct flights</b> to Singapore, the <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> will be counted from the scheduled departure day of the flight to Singapore. For example, if the flight is scheduled to depart on 28 May 2021, the COVID-19 PCR test must be taken no earlier than 25 May 2021.
 
-For passengers who are taking a <b>connecting flight</b> to Singapore, the 72 hours will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 PCR test must be taken within 72 hours before the scheduled departure of his flight from LAX.
+For passengers who are taking a <b>connecting flight</b> to Singapore, the <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> will be counted from the scheduled departure of his flight from his first embarkation point of his journey to Singapore. For example, if the passenger’s flight itinerary is LAX-NRT-SIN, the COVID-19 PCR test must be taken within <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> before the scheduled departure of his flight from LAX.
 
 #### 2. I am [transiting via Singapore](https://www.caas.gov.sg/covid-19-updates/updates/Publication/travellers-to-be-allowed-to-transit-through-changi-airport-from-2-june-2020). Do I still need to have a valid negative COVID-19 test result?
 
 Travellers who <u>only</u> had travel history to Brunei Darussalam, Mainland China, New Zealand, Hong Kong and Macao in the past 21 days before arriving in Singapore to transit are not required to take a Pre-Departure Test before departing for Singapore.
 
-All other travellers transiting through Singapore (including Singapore Citizens and PRs) via flight or ferry will need to present a valid negative COVID-19 PCR test taken within 72 hours before departure before they are allowed to board their flight or ferry for travel to Singapore. <b>This pre-departure test requirement also applies to travellers who had travel history to Australia in the past 21 days, and are arriving in Singapore to transit from 2 August 2021, 2359 hours onwards.</b>
+All other travellers transiting through Singapore (including Singapore Citizens and PRs) via flight or ferry will need to present a valid negative COVID-19 PCR test taken within <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> before departure before they are allowed to board their flight or ferry for travel to Singapore. <b>This pre-departure test requirement also applies to travellers who had travel history to Australia in the past 21 days, and are arriving in Singapore to transit from 2 August 2021, 2359 hours onwards.</b>
 
 Due to the fast-evolving epidemiological situation, travellers should confirm with the airline on their transit details/requirements.
 
@@ -252,11 +252,11 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 
 #### 5. I have recovered from COVID-19. Am I required to be tested for COVID-19 before departure for Singapore?
 
-If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken 72 hours before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
+If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
-Effective from 7 May 2021, 2359 hours, travellers will be denied boarding by their airline or ferry if:
+Travellers will be denied boarding by their airline or ferry if they are:
 - diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
-- tested positive on the COVID-19 PCR test within 72 hours before departure for Singapore.
+- tested positive on the COVID-19 PCR test within <u>72 hours (for arrivals before 9 Sep 2021, 2359 hours) or 48 hours (for arrivals after 9 Sep 2021, 2359 hours)</u> before departure for Singapore.
 
 #### 6. How will I be informed of my COVID-19 test result?
 
@@ -638,9 +638,9 @@ Click here to [Go Back To Top](#top).
 
 ## Vaccinated Travellers intending to travel to Singapore
 
-#### 1. Who are "fully vaccinated travellers"?
+<!--#### 1. Who are "fully vaccinated travellers"?
 
-They include travellers arriving in Singapore who have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore. 
+They include travellers arriving in Singapore and have received the full regimen of WHO EUL Vaccines, (i) from a specific manufacturer, and (ii) met the minimum interval period, at least 2 weeks before arrival in Singapore. 
 
 <table>
 	<thead>
@@ -700,7 +700,7 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 2. Am I a "fully vaccinated traveller" if I had received vaccines from different manufacturers?
 
-Yes, if you are arriving in Singapore from 8 Sep 2021, and have received the requisite doses of WHO EUL Vaccines (below) and met the required minimum interval period, at least 2 weeks before arrival in Singapore:
+Yes, if you are arriving in Singapore and have received the requisite doses of WHO EUL Vaccines (below) and met the required minimum interval period, at least 2 weeks before arrival in Singapore:
 
 <table>
 	<thead>
@@ -730,12 +730,12 @@ Tozinameran (INN)</li>
 	</tbody>
 </table>
 
-For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.
+For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">click here</a> and refer to <i>"COVID-19 Vaccine EUL issued"</i> section.-->
 
 
-#### 3. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
+#### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-From <b>20 August 2021, 2359hrs</b>, [fully vaccinated travellers](#vaccinated) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
+From <b>20 August 2021, 2359hrs</b>, [fully vaccinated travellers](/health/vtsg) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for 21 consecutive days before arrival in Singapore</li>
@@ -745,7 +745,7 @@ From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinat
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
-From 8 September 2021, fully vaccinated travellers who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
+From 8 September 2021, [fully vaccinated travellers](/health/vtsg) who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
 
 Click here to [Go Back To Top](#top).
 
