@@ -99,8 +99,10 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 </ul></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
