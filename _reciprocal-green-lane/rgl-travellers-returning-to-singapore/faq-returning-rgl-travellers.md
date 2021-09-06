@@ -47,11 +47,16 @@ third_nav_title: RGL Travellers Returning to Singapore
 
 #### 1. What health measures will apply to me upon my return to Singapore after my RGL travel?
 
-Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Brunei Darussalam or Mainland China  under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
+Singapore Citizens, Permanent Residents and Long-Term Pass holders returning to Singapore from their trip to Mainland China  under the RGL are not required to serve a Stay-Home Notice. However, they will be required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) upon arrival and remain in self-isolation until a negative PCR test is conveyed.
+
+Travellers returning to Singapore from their trip to Brunei Darussalam under RGL are required to:
+- Take a COVID-19 PCR test within 72 hours before departure for Singapore.
+- Take an on-arrival COVID-19 PCR test; and 
+- Serve a 7-day SHN at a place of residence, self-sourced hotel or service apartment, and take a COVID-19 PCR test on Day 7 of SHN
 
 Travellers are reminded to submit their health declarations via [ICA’s SG Arrival Card e-Service](https://eservices.ica.gov.sg/sgarrivalcard/) up to three days before their scheduled arrival in Singapore. Travellers can disregard the electronic SHN sent upon the submission of the Electronic Health Declaration through ICA’s SG Arrival Card e-Service, provided that the conditions above are met.
 
-#### 2. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei or Mainland China?
+#### 2. Do I have to pay for my COVID-19 medical bills if I am found to have COVID-19 upon return from Brunei Darussalam or Mainland China?
 
 Travellers will be responsible for charges for COVID-19 treatment if [symptoms](/health/covid19-symptoms) develop within 14 days of arrival. Singapore Citizens and Permanent Residents who travelled to Brunei Darussalam or Mainland China under RGL may access Government subsidies and MediShield Life/Integrated Shield Plan to help pay for their bills. Long-Term Pass Holders who travelled to Brunei Darussalam or Mainland China under RGL may tap on their usual financing arrangements, such as foreign worker insurance.
 
@@ -65,9 +70,77 @@ Singapore Citizens, Permanent Residents and Long-Term Pass holders should retain
 
 Upon arrival in Singapore, all Singapore-based travellers returning from their travel from <b>Germany/Indonesia/Japan/Malaysia/ Republic of Korea</b> on RGL, will be required to:
 - Take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest);
-- Serve a 14-day SHN which they will serve at the <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> or place of residence, with COVID-19 PCR test on Day 14 of SHN
+- Take an on-arrival [COVID-19 PCR test](health/covid19-tests/pcrtest) (travellers arriving in Singapore from Indonesia will be required to take an additional Antigen Rapid test upon arrival); and
+- Serve [SHN](/health/shn) and take the relevant COVID-19 tests, details below:
 
-Travellers will pay for the cost of the 14-day SHN and the COVID-19 PCR tests. Click [here](/health) for more information on the prevailing health control measures for safe travel lane users.
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#EDEDED;"><b>Country</b></th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>SHN Requirements</b></th>
+         <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;  background-color:#EDEDED;"><b>Test(s) required during SHN</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+      <ol style="list-style-type:disc;">
+        <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Germany</li>
+         <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Republic of Korea</li>
+        </ol>
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">7-day SHN at:
+      <ol style="list-style-type:lower-roman;">
+          <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Place of accommodation; or</li>
+         <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Self-sourced hotel</li>
+        <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Serviced apartment</li>
+        </ol>
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">COVID-19 PCR test at the end of the SHN</td>
+    </tr>
+     <tr>
+      <td rowspan="3" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+      <ol style="list-style-type:disc;">
+        <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Japan</li>
+        </ol>
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><u>Default:</u><br/> 14-day SHN at an <a href="/health/shn/sdf">SDF</a>
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+        <ol style="list-style-type:disc;">
+        <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Antigen rapid test on Days 3,7,11 of arrival in Singapore; and</li>
+          <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">COVID-19 PCR test at the end of SHN</li>
+        </ol>
+       </td>
+    </tr>
+         <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><u>Approved <a href="/health/vtsg">fully vaccinated travellers</a> only</u> <br/> 14-day SHN at an own residence or other suitable accommodations such as hotels and serviced apartmens<sup style="color:red;">[note]</sup>
+      </td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">COVID-19 PCR test at the end of SHN
+       </td>
+    </tr>
+           <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><span style="color:red;"><i>[Note]</i></span> <br/><br/> <a href="/health/shn/sdf#sdf-opt-out">Click here</a> for the application instructions to serve SHN at an accommodation of choice. 
+      </td>
+    </tr>
+     <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">
+      <ol style="list-style-type:disc;">
+        <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Indonesia</li>
+         <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Malaysia</li>
+        </ol>
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">14-day SHN at an SDF
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
+        <ol style="list-style-type:disc;">
+        <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Antigen rapid test on Day 3,7,11 of arrival in Singapore; and</li>
+         <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">COVID-19 PCR test at the end of SHN</li>
+        </ol></td>
+    </tr>
+  </tbody>
+  </table>
+
 
 #### 2. Do I have to take a COVID-19 test before I return to Singapore?
 
