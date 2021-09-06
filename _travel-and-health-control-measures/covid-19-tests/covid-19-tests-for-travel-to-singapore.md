@@ -7,18 +7,21 @@ third_nav_title: Covid 19 Tests
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore.
 
-Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in the current calendar year (i.e. those born in 2018 or before) departing for Singapore will also be subjected to COVID-19 tests.
+Where COVID-19 tests are required as part of travel health measures, travellers aged 3 and above in this current calendar year (i.e. born in 2018 or before) departing for Singapore will also be subjected to COVID-19 tests.
 
 The health measures to be imposed may not be limited to COVID-19 tests, and you should check the requirements of your respective <a href="/arriving/overview">Safe Travel Lane</a> for full details.
 
 
 #### 1. PCR Test before Departing to Singapore
 
-Depending on the travellers’ travel history and [Safe Travel Lane](/arriving/overview) used to visit Singapore, travellers may be required to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) before departing to Singapore. 
+With effect from 9 Sep 2021, 2359h, travellers with a 21-day travel history to a Category (II) to (IV) country/region are required to take a COVID-19 Polymerase Chain Reaction test ("COVID-19 PCR test") within 48 hours before departure for Singapore. Travellers are required to take their PDT at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be considered by the airline or ferry terminal operator as proof that the traveller had been tested for COVID-19:
+- Is in English (or accompanied with an English translation);
+- Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
+- Reflects the date and result of the PCR test. 
 
-<b>Please check the respective Safe Travel Lane pages for details of the pre-departure PCR test requirements, which may vary (i.e. 48 or 72 hours before departure) depending on travel history and Safe Travel Lane used.</b>
+Travellers who fail to produce the required documentary proof of a valid negative pre-departure COVID-19 PCR test may be denied boarding or turned away. 
 
-All travellers whose 21-day travel history includes a Category (III) or (IV) country/region are required to take a COVID-19 PCR test at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). Travellers should request for a copy of the test result as it will be considered by the airlines and ferry terminal operators as proof that the traveller has been tested for COVID-19. The documentary proof should be in English and should also state the date of the test taken, traveller’s name as well as date of birth or passport number (per the passport used for travelling). Travellers who fail to produce the required documentary proof of a valid negative pre-departure PCR test may be denied boarding or turned away.
+To check if a COVID-19 PCR test is required before your departure for Singaproe, please refer to the "Travel and Health Control measures" or "Requirements & Process" page found for each [Safe Travel Lane](/arriving/overview)
 
 <div id="price"></div>
 
@@ -57,7 +60,7 @@ Travellers will be informed of their PCR test results verbally by phone or in pe
 
 #### 3. Tests During SHN
 
-Depending on the traveller's travel and transit history and <a href="/arriving/overview">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take tests before the end of their <a href="/health/shn/sdf">SHN</a>.
+Depending on the traveller's travel and transit history and <a href="/arriving/overview">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take the following tests before the end of their <a href="/health/shn/sdf">SHN</a>.
 
 <table>
  <thead>
