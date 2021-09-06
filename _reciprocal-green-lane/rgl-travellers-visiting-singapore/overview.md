@@ -9,6 +9,8 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 
 <b>Business and official travellers travelling from Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a> </b>
 
+[Fully vaccinated travellers](/health/vtsg) from Brunei Darussalam and Germany who are planning to enter Singapore from 8 Sep 2021, 0001 hours (Singapore time) may consider entering the country via the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process).
+
 <table>
 <thead>
   <tr>
@@ -49,7 +51,7 @@ Singapore residents who wish to travel to an RGL counterpart country/region via 
 <tbody>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
-       <td style="text-align:left;border-right:1px solid #D8D8D8;">The Singapore-Germany Reciprocal Green Lane (RGL) is currently suspended until further notice.<br/><br/>Singapore Citizens (SC) and Permanent Residents (PR) can still travel from Germany to Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/ PR Lane</a>. Long-term Pass Holders may apply for entry into Singapore through the <a href="/wphl/overview">Work Pass Holder Lane</a> or the <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>. Family members of Singapore Citizens and Permanent Residents may also apply for entry into Singapore through the <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a>. <br/><br/>For all other travellers not covered by the arrangements above, entry into Singapore is not allowed except in exceptional and urgent circumstances.<br/><br/> For travels from Singapore to Germany, please refer to the Singapore MFA Germany Travel Page for information on entry requirements into Germany and health measures upon arrival. </td>
+       <td style="text-align:left;border-right:1px solid #D8D8D8;">The Singapore-Germany Reciprocal Green Lane (RGL) is currently suspended until further notice.<br/><br/>Singapore Citizens (SC) and Permanent Residents (PR) can still travel from Germany to Singapore via the <a href="/sc-pr/requirements-and-process">Returning SC/ PR Lane</a>. Long-term Pass Holders may apply for entry into Singapore through the <a href="/wphl/overview">Work Pass Holder Lane</a> or the <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>. Family members of Singapore Citizens and Permanent Residents may also apply for entry into Singapore through the <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a>. Fully vaccinated travellers from Germany may enter Singapore via the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (VTL)</a>, with effect from 8 September 2021, 0001 hours (Singapore time). <br/><br/>For all other travellers not covered by the arrangements above, entry into Singapore is not allowed except in exceptional and urgent circumstances.<br/><br/> For travels from Singapore to Germany, please refer to the Singapore MFA Germany Travel Page for information on entry requirements into Germany and health measures upon arrival. </td>
   </tr>
    <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
