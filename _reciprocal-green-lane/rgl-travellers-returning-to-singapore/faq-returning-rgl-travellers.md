@@ -124,15 +124,15 @@ Upon arrival in Singapore, all Singapore-based travellers returning from their t
       </td>
     </tr>
      <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">
       <ol style="list-style-type:disc;">
         <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Indonesia</li>
          <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Malaysia</li>
         </ol>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">14-day SHN at an SDF
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">14-day SHN at an SDF
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">
         <ol style="list-style-type:disc;">
         <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">Antigen rapid test on Day 3,7,11 of arrival in Singapore; and</li>
          <li style="font-size:20px; margin-top:0px; margin-bottom:0px;">COVID-19 PCR test at the end of SHN</li>
