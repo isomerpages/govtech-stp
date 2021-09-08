@@ -284,7 +284,7 @@ We understand these measures are difficult for employers and seek understanding 
 
 #### 8. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
 
-Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. 
+Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. Vaccines requiring 2 doses can be completed either using the [same or different brands](/health/vtsg) and taken based on the recommended intervals between each dose.
 
 Pass holders who took other types of vaccines will not meet the entry requirements. Thus, please **do not** submit entry applications for them.
 
@@ -316,7 +316,7 @@ Please produce the memo when requested by the authorities.
 
 No, the pass holder cannot enter Singapore yet. 
 
-Pass holders must receive the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses must be completed using the same brand and taken based on recommended intervals between each dose. 
+Pass holders must receive the full regimen of [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses can be completed either using the [same or different brand](/health/vtsg) and taken based on recommended intervals between each dose. 
 
 Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
 
