@@ -8,7 +8,7 @@ permalink: /dcev/shn-and-swab-summary
 
 The table below reflects the latest travel health control measures applicable to all approved DCEV-travellers (inclusive of announcements made on <b><u>5 Sep 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
-Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit countries after departure are not considered for the PDT requirement</b>. This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but has transited via a Category (III) and/or (IV) country/region to Singapore is not required to take a PDT.
+Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit lasting less than 24 hours via any Category (II) to (IV) country/region after departure are not considered for the PDT requirement</b>. This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but had remained in a Category (III) country/region for less than 24 hours to transit to Singapore is not required to take a PDT.
 
 <b>In land health measures</b> (e.g. on-arrival tests, SHN) are applied based on the traveller’s <b>21-day travel history before arrival in Singapore</b>. If travellers have visited or transited (no matter how brief) through multiple countries/regions, the most stringent set of measures out of all the countries/regions visited during the past 21 days before arriving in Singapore will apply.
 
