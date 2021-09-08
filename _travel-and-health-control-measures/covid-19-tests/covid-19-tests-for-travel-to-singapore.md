@@ -21,7 +21,7 @@ With effect from 9 Sep 2021, 2359h, travellers with a 21-day travel history to a
 
 Travellers who fail to produce the required documentary proof of a valid negative pre-departure COVID-19 PCR test may be denied boarding or turned away. 
 
-To check if a COVID-19 PCR test is required before your departure for Singaproe, please refer to the "Travel and Health Control measures" or "Requirements & Process" page found for each [Safe Travel Lane](/arriving/overview)
+To check if a COVID-19 PCR test is required before your departure for Singapore, please refer to the "Travel and Health Control measures" or "Requirements & Process" page found for each [Safe Travel Lane](/arriving/overview)
 
 <div id="price"></div>
 
