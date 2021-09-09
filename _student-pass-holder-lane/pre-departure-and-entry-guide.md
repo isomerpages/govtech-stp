@@ -148,7 +148,4 @@ Depending on the volume of tests conducted that day, the result of the COVID-19 
 
 Travellers under self-isolation or serving SHN at their own residence may leave their accommodation after a negative COVID-19 test result is conveyed. For travellers serving SHN at an SDF, the checkout timing would be conveyed to the traveller by the SDF.
 
-Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the TraceTogether app, which allows the identification of close contacts of a positive COVID-19 case.
-
-
 Travellers must comply with the prevailing public health-related and safe distancing measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> app, which allows the identification of close contacts of a positive COVID-19 case.
