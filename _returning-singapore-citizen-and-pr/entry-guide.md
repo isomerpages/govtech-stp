@@ -15,6 +15,7 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 All travellers are required to take a PDT before arrival in Singapore, except those who:
 - Are below the age of three in this calendar year; or
 - Have remained in only [Category (I) and (II) country/regions](/sc-pr/shn-and-swab-summary) in the past 21 consecutive days before departure for Singapore; or
+- Have remained in only Category (I) country/regions in the past 21 consecutive days but remained in any Category (II) to (IV) country/region for less than 24 hours to transit to Singapore; or
 - Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 <a href="/sc-pr/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
@@ -137,7 +138,7 @@ Click <a href="/health/faq#transportQ3">here</a> for the relevant charges.
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this [webform](https://go.gov.sg/sto-enquiry) for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART. 
+All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this [webform](https://go.gov.sg/sto-enquiry) for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to any Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART. 
 
 Travellers who test positive for [COVID-19](https://safetravel.ica.gov.sg/health/covid19-symptoms) will and must undergo [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
 
