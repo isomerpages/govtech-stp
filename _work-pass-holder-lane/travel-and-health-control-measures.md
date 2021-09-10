@@ -270,15 +270,15 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup> 1 </sup>An individual is considered fully vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>.<br/><br/><sup> 2 </sup>Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</td></tr>
 	</tr>
 	<tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Category IV</b></u><br/><br/><b>All other countries/regions <u>excluding</u></b>:
-<ol style="margin-top: 0px; list-style-type: disc;">
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Category IV</b></u><br/><br/><b>All other countries/regions<br/> <span style="color:red;">(see notes section for exception)</span></b>
+<!--<ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Bangladesh</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>India</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Myanmar</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Nepal</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Pakistan</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Sri Lanka</b></li>
-</ol><br/>Entry is disallowed for pass holders with travel history, including transit, to any of the above countries/regions. This applies even if they had received prior entry approvals.
+</ol><br/>Entry is disallowed for pass holders with travel history, including transit, to any of the above countries/regions. This applies even if they had received prior entry approvals.-->
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -325,6 +325,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</ol>
 	</li>
 </ol>
+<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>
 	</td> 
 	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -379,6 +381,8 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions. </li>
 			</ol><br/>
 			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
+	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
+		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>	
 	</td> 
 	</tr>
 	</tbody>
