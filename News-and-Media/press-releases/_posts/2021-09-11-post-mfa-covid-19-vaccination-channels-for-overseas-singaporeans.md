@@ -21,7 +21,7 @@ layout: post
 
 5. While the COVID-19 vaccines will be provided by the Singapore Government, OS will have to bear the associated costs of returning for the vaccination, including accommodation at the designated facility, swab tests and travel expenses.
 
-6. OS should register their interest in using either vaccination channel via https://go.gov.sg/vaccinationchannels. Prior to travelling to Singapore, OS should obtain the relevant re-entry approvals and return flight/ferry tickets to ensure they can return to their resident countries after their vaccination. More information on the vaccination channels can be found on MOH’s FAQ page.
+6. OS should register their interest in using either vaccination channel via [https://go.gov.sg/vaccinationchannels](https://go.gov.sg/vaccinationchannels). Prior to travelling to Singapore, OS should obtain the relevant re-entry approvals and return flight/ferry tickets to ensure they can return to their resident countries after their vaccination. More information on the vaccination channels can be found on MOH’s FAQ page.
 
 ---
 
