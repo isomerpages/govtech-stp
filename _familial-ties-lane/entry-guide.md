@@ -98,7 +98,7 @@ All travellers with a travel history to any [Category (II) to (IV) country/regio
 
 A) <u>Immigration Clearance</u>
 
-Travellers with a travel history to any [Category (II) and (IV) country/region](scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
+Travellers with a travel history to any [Category (II) to (IV) country/region](scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
 
 Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the [SGAC declaration](#sgac). Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. For example, if traveller had visited a Category (I) and (III) country/region in any of the past 21 days before arrival in Singapore, the Category (III) measures will apply regardless of the duration stayed in each location (includes transits).
 
