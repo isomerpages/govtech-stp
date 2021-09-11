@@ -15,7 +15,7 @@ layout: post
 <ul style="list-style-type:lower-alpha;">
 <li>Receive the first dose upon arrival in Singapore without serving full SHN, then return to their resident country on the next available flight/ferry. Individuals can complete their vaccination regimen by repeating this process for their second dose; or</li>
 <li>Receive the first dose upon arrival in Singapore, complete full SHN at a dedicated facility, and receive the second dose after the required dosing interval before returning to their resident country.</li>
-	</ul>
+</ul>
 
 4. OS under Option (b) will be subject to the prevailing border measures on the pre-departure test, on-arrival testing regime as well as length of SHN based on their 21-day travel history. OS under Option (a) will also be subject to the same prevailing border measures until they depart on the next available flight/ferry. Regardless of their country/region of embarkation, the OS will be required to stay at an appointed dedicated facility where the vaccination will be offered on-site, while they are under SHN. For more information on the entry requirements to Singapore for returning Singaporeans, please visit the SafeTravel website.
 
