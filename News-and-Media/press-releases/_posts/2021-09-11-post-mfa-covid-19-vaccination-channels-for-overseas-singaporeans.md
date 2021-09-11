@@ -26,6 +26,7 @@ layout: post
 ---
 
 **MINISTRY OF FOREIGN AFFAIRS**<br/>
+**MINISTRY OF HEALTH**<br/>
 **SINGAPORE**
 
 **11 SEPTEMBER 2021**
