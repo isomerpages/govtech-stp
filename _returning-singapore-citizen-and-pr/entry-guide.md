@@ -83,7 +83,7 @@ Travellers should note that any prior approvals given to complete the SHN at a p
 
 ### 2. Departure for Singapore
 
-All travellers with travel history to any <a href="/sc-pr/shn-and-swab-summary">Category (II) and (IV) countries/regions</a> in the past 21 days before departing for Singapore, must present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding.
+All travellers with travel history to any <a href="/sc-pr/shn-and-swab-summary">Category (II) to (IV) countries/regions</a> in the past 21 days before departing for Singapore, must present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding.
 
 ### 3. Arrival in Singapore
 
