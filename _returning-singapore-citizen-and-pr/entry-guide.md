@@ -14,7 +14,7 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
 All travellers are required to take a PDT before arrival in Singapore, except those who:
 - Are below the age of three in this calendar year; or
-- Have remained in only [Category (I) and (II) country/regions](/sc-pr/shn-and-swab-summary) in the past 21 consecutive days before departure for Singapore; or
+- Have remained in only [Category (I) country/regions](/sc-pr/shn-and-swab-summary) in the past 21 consecutive days before departure for Singapore; or
 - Have remained in only Category (I) country/regions in the past 21 consecutive days but remained in any Category (II) to (IV) country/region for less than 24 hours to transit to Singapore; or
 - Singapore Citizen entering Singapore via the Causeway or Second Link.
 
@@ -83,7 +83,7 @@ Travellers should note that any prior approvals given to complete the SHN at a p
 
 ### 2. Departure for Singapore
 
-All travellers with travel history to any <a href="/sc-pr/shn-and-swab-summary">Category (III) and (IV) countries/regions</a> in the past 21 days before departing for Singapore, must present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding.
+All travellers with travel history to any <a href="/sc-pr/shn-and-swab-summary">Category (II) and (IV) countries/regions</a> in the past 21 days before departing for Singapore, must present a valid negative PDT report during pre-boarding checks, otherwise they may be denied boarding.
 
 ### 3. Arrival in Singapore
 
