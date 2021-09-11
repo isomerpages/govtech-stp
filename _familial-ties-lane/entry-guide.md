@@ -15,8 +15,8 @@ A) <u>Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</u>
 
 All travellers are required to take a PDT before arrival in Singapore, except those who:
 - Are below the age of three in this calendar year; or
-- Have remained in only Category (I) and (II) country/regions in the past 21 consecutive days before departure for Singapore; or
-- Have remained in only Category (I) country/regions in the past 21 consecutive days but remained in any Category (II) to (IV) country/region for less than 24 hours to transit to Singapore; or
+- Have remained in any Category (I) country/regions in the past 21 consecutive days before departure for Singapore; or
+- Have remained in any Category (I) country/regions in the past 21 consecutive days but remained in any Category (II) to (IV) country/region for less than 24 hours to transit to Singapore; or
 
 <a href="/scpr-familial-ties-lane/shn-and-swab-summary">Click here</a> to check if your travel history requires you to take a PDT.  Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
 
@@ -91,14 +91,14 @@ Travellers should note that any prior approvals given to complete the SHN at a p
 
 During pre-boarding checks, travellers may be asked to produce a valid approval letter.
 
-All travellers with a travel history to any [Category (III) and (IV) country/region](/scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, must also present a [valid negative PDT report](#PDT) report during pre-boarding checks, otherwise they may be denied boarding.
+All travellers with a travel history to any [Category (II) to (IV) country/region](/scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, must also present a [valid negative PDT report](#PDT) report during pre-boarding checks, otherwise they may be denied boarding.
 
 
 ### 3. Arrival in Singapore
 
 A) <u>Immigration Clearance</u>
 
-Travellers with a travel history to any [Category (III) and (IV) country/region](scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
+Travellers with a travel history to any [Category (II) and (IV) country/region](scpr-familial-ties-lane/shn-and-swab-summary) in the past 21 days before arriving in Singapore, who are unable to produce a valid negative PDT report may be denied entry into Singapore and could have their passes revoked.
 
 Depending on the traveller’s 21-day travel history, they will receive their SHN via the email provided in the [SGAC declaration](#sgac). Travellers who have visited multiple countries/regions in the past 21 days before entering Singapore, will be subject to the strictest set of travel health control measures. For example, if traveller had visited a Category (I) and (III) country/region in any of the past 21 days before arrival in Singapore, the Category (III) measures will apply regardless of the duration stayed in each location (includes transits).
 
@@ -149,7 +149,7 @@ Click <a href="/health/faq#transportQ3">here</a> for the relevant charges.
 
 Travellers must remain in their accommodation of self-isolation or SHN/SDF, until after they are ascertained to be free of COVID-19.
 
-All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this [webform](https://go.gov.sg/sto-enquiry) for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (III) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART.
+All SHN-serving travellers will be scheduled by the relevant government agency to take a COVID-19 PCR test at the end of the SHN period. Travellers who do not receive their COVID-19 PCR test appointment details a day before the scheduled test should write to STO via this [webform](https://go.gov.sg/sto-enquiry) for assistance. In addition to the COVID-19 PCR test, travellers with a travel history to a Category (III) or (IV) country/region will be required to self-administer an Antigen Rapid Test (ART) on Days 3, 7 and 11 on arrival in Singapore. Only travellers with a travel history to a Category (I) to (II) country/region and have been allowed to serve their SHN at an accommodation of choice is exempted from the need to self-administer an ART.
 
 Depending on the volume of tests conducted that day, the result of the COVID-19 PCR test is generally released to the traveller after about 24 hours from when the test was administered. The result could be conveyed to the traveller via a call or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).  Any traveller who is tested positive for [COVID-19](/health/covid19-symptoms) will be sent for treatment immediately;
 
