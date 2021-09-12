@@ -13,20 +13,20 @@ The requirements and processes outlined on this page apply to inbound travellers
 </thead>
 <tbody>
     <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-      <td rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">Travellers travelling from Brunei Darussalam and Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
-  </tr>
-  <tr>
-      <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Travellers travelling from Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a></td>
   </tr>
    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
-    <td rowspan="6" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>New applications have been suspended for these countries/regions</b></span>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei </b></td>
+    <td rowspan="7" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>New applications have been suspended for these countries/regions</b></span>
        <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for the press releases regarding Singapore's RGL suspension for:</p>
       <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
       </ol>
  </td>
+  </tr>
+		<tr>
+    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany</b></td>
   </tr>
 	<tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Indonesia</b></td>
