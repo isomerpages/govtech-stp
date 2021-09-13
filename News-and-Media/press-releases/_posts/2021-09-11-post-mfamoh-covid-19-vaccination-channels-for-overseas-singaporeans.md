@@ -4,7 +4,7 @@ date: 2021-09-11
 permalink: /press-releases/vaccination-channels
 layout: post
 ---
-The original press statement can be found on the [MFA](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/09/20210911-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans) and [MOH](https://www.moh.gov.sg/news-highlights/details/covid-19-vaccination-channels-for-overseas-singaporeans_11Sep2021) website. Please click here to view the Frequently Asked Questions (FAQs).
+**The original press statement can be found on the [MFA](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/09/20210911-COVID-19-Vaccination-Channels-for-Overseas-Singaporeans) and [MOH](https://www.moh.gov.sg/news-highlights/details/covid-19-vaccination-channels-for-overseas-singaporeans_11Sep2021) website. Please click here to view the Frequently Asked Questions (FAQs).**
 
 As part of our ongoing efforts to encourage Singaporeans who are medically eligible to be vaccinated under our national COVID-19 vaccination programme, Singapore will launch two dedicated vaccination channels to make it more convenient for Singapore Citizens based overseas to receive vaccination in Singapore.
 
