@@ -11,7 +11,7 @@ permalink: /atp/apply-now
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;"><!--<a href="https://go.gov.sg/atpsg">https://go.gov.sg/atpsg</a>--> <span style="color:red;"><b>We are moving to a new address. Please come back after 0000hrs (Singapore time)</b></span></td>
+      <td style="text-align:center;"><!--<a href="https://go.gov.sg/atpsg">https://go.gov.sg/atpsg</a>--> <span style="color:red;"><b>Application services for Air Travel pass is currently under maintenance. Please come back after 0000hrs (Singapore time)</b></span></td>
     </tr>
     <!--<tr>
       <td><a href="https://go.gov.sg/atpsg"><img src="/images/qr-atpsg.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
