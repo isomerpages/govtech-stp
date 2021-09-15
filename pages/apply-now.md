@@ -14,7 +14,7 @@ Please note this page is meant for users who are already familiar with the SafeT
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><!--Apply <a href="https://go.gov.sg/atpsg">here</a>--> We are moving to a new address. Pleasecome back after 0000hrs (Singapore Time)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;"><!--Apply <a href="https://go.gov.sg/atpsg">here</a>--> <span style="color:red;">We are moving to a new address. Pleasecome back after 0000hrs (Singapore Time)</span></td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/connectsg/requirements-and-process ">Connect@Singapore</a></td>
