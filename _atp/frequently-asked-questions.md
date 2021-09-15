@@ -63,7 +63,7 @@ Otherwise, only the application with the latest intended date of entry will be p
 #### 7. How long is the validity of an ATP?
 An ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
-For example, visitors who hold a valid ATP to enter Singapore on 1 January 2021, have up to 8 January 2021 to do so should they need to make changes to their flight departure date.
+For example, visitors who hold a valid ATP to enter Singapore on 1 October 2021, have up to 8 October 2021 to do so should they need to make changes to their flight departure date.
 
 #### 8. Once an ATP application is approved, can the relevant authorities change the conditions of travel or even cancel the ATP?
 
