@@ -44,9 +44,9 @@ We will endeavour to get back to the applicant within three working days.
 
 #### 4. Is there a fee to apply for an ATP?
 
-No, there is no fee payable for the application of an ATP. <!--However, with effect from 16 September 2021, applicants will have to make payment for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test when they receive the payment notification email. Applications will only be approved when payment is received by the deadline indicated in the payment notification email.-->
+No, there is no fee payable for the application of an ATP. However, with effect from 16 September 2021, applicants will have to make payment for their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test when they receive the payment notification email. Applications will only be approved when payment is received by the deadline indicated in the payment notification email.
 
-<!--For applications made before 16 September 2021, applications will have to make pre-payment for their on-arrival COVID-19 PCR test separately at [https://safetravel.changiairport.com/](https://safetravel.changiairport.com/)-->
+For applications made before 16 September 2021, applications will have to make pre-payment for their on-arrival COVID-19 PCR test separately at [https://safetravel.changiairport.com/](https://safetravel.changiairport.com/)
 
 #### 5. Do visitors travelling with family members need to apply an ATP for every individual?
 
@@ -80,16 +80,12 @@ For information on border control measures, please refer to ICA’s website <a h
 
 No. Visitors will need to submit the application themselves as they are required to agree to the conditions of the ATP, read and agree to the Privacy Statement, as well as verify all submitted information.
 
-#### 11. Why was my ATP application rejected?
+#### 11. Why was I unsuccessful in applying for an ATP?
 
-An ATP application may be rejected for reasons such as:
+An ATP application may be unsuccessful for reasons such as:
 - Incomplete and/or incorrect information submitted
-- Duplicate applications
-- Duplicate mobile number submitted <br/> <i>[Note: Each visitor must provide his/her own mobile number and remain contactable at that number throughout his/her stay in Singapore, with the exception of those below 18 years old.]</i>
-- Multiple applications with intended dates of entry that are less than 7 days apart<br/>
-<i>[Note: If submitting multiple ATP applications, visitors should ensure that the intended date of entry into Singapore for each application is at least 7 calendar days apart. This is because an ATP is valid from the visitor’s intended date of entry and up to 7 calendar days after.]</i>
-- Invalid or ineligible flight number
 - Passport validity is less than 6 months
+- Failure to complete payment for your on-arrival COVID-19 Polymerase Chain Reaction (PCR) test 
 
 #### 12. Can visitors use the ATP to transit/transfer through Singapore?
 
