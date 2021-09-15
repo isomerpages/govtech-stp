@@ -4,7 +4,7 @@ title: SafeTravel
 description: SafeTravel Pass is required for travellers entering into Singapore
   under Green/Fast Lane arrangements.
 permalink: /
-notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 15 September 2021, from 11pm to 12am. During this period, application services for Air Travel Pass will not be available.<br/><br/>Beware of <a
+notification: <h6 style="text-align:left;">Scheduled maintenance will be taking place on:<br>&bull; 15 September 2021, from 11pm to 1230am. During this period, application services for Air Travel Pass will not be available.<br/><br/>Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
   scam</a> calls from "+65 6812 5555", which is similar to the SafeTravel Enquiries Helpline
   number. Do not provide your personal information or make payment if you
