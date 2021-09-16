@@ -864,7 +864,11 @@ A VTP is valid for single entry into Singapore anytime from your intended date o
 
 If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application. The prepayment for your Day 3 and Day 7 PCR tests under your unutilised VTP will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
-#### 14. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 14. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
+
+If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+
+#### 15. How can I cancel my VTP as I no longer wish to travel to Singapore?
 
 Please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
 
