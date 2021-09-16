@@ -602,6 +602,8 @@ If the travellers’ time of departure from Singapore is:
 
 The travellers’ time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
+The expected waiting time for the refund is about three weeks, depending on the credit card issuing bank.
+
 #### 13. What are the penalties if travellers miss their scheduled Day 3 or Day 7 test?
 
 Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
