@@ -24,8 +24,8 @@ Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders mu
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Submit Air Travel Pass application</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore at no charge <a href="https://go.gov.sg/atpsg">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. Successful applicants will receive a payment notification email, usually within 2 to 3 days, to pre-pay for their post-arrival COVID-19 PCR test. Applications will only be approved when payment is received by the deadline indicated in the payment notification email. 
+    <td rowspan="2" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Air Travel Pass application</b></td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Foreigners, who are short-term visitors, may apply for an ATP for entry into Singapore<a href="https://go.gov.sg/atpsg">here</a>. Applications must be made between 7 and 30 calendar days prior to the visitor’s intended date of entry into Singapore. Successful applicants will receive a payment notification email, usually within 2 to 3 days, to pre-pay for their post-arrival COVID-19 PCR test. Applications will only be approved when payment is received by the deadline indicated in the payment notification email. 
 	    <br/> <br/>When an ATP application is approved, an approval letter will be sent to the applicant via email. The ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to 7 calendar days after.
      <br/><br/>
 Visitors must comply with the <a href="/atp/conditions"> Conditions</a> of the Air Travel Pass, and the prevailing immigration requirements of the Singapore Immigration & Checkpoints Authority (ICA) for their entry and stay in Singapore. Visitors who do not meet the Air Travel Pass conditions may be refused entry into Singapore and/or have their Air Travel Pass cancelled. In such an event, visitors may also be liable for the cost of their repatriation, including custody and maintenance pending repatriation. In addition, their future Air Travel Pass applications may also be rejected. <br/><br/>
@@ -128,14 +128,6 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">		Children below 6 years of age in that calendar year are exempted from the TraceTogether requirement.</li>
      </ol>
 						<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="https://safetravel.ica.gov.sg/health/tt-for-travellers">here</a>.</p>
-    </td>
- </tr>
-   <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Registration and payment of on-arrival COVID-19 PCR test</b> </td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"> 
-     <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Visitors should also <a href="https://safetravel.changiairport.com/#/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to departing for Singapore.<br/> <i>Note: Children below 3 years of age in that calendar year are not required to undergo a COVID-19 PCR test at the airport upon arrival in Singapore.</i></li>
-     </ol>
     </td>
  </tr>
 <thead>
