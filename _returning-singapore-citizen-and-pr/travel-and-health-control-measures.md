@@ -94,6 +94,7 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bulgaria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Croatia</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Czech Republic</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Egypt</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
