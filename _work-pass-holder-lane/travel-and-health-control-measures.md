@@ -348,7 +348,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take on-arrival COVID-19 test at the Singapore checkpoint: <br/><br/>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take on-arrival COVID-19 PCR test ($160 including GST) at the Singapore checkpoint: <br/><br/>
 	<table>
 		<thead>
 <tr>
