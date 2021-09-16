@@ -56,10 +56,6 @@ Yes, each visitor will require an ATP. In the case of a minor (below 18 years ol
 
 There is no limit to the number of times visitors can apply for an ATP. Every entry into Singapore requires a new ATP application.
 
-If submitting multiple ATP applications, visitors should ensure that the intended date of entry into Singapore for each application is at least 7 calendar days apart. This is because an ATP is valid from the visitor’s intended date of entry and up to 7 calendar days after. 
-
-Otherwise, only the application with the latest intended date of entry will be processed and the rest rejected.
-
 #### 7. How long is the validity of an ATP?
 An ATP is valid for single entry into Singapore anytime from the visitor’s intended date of entry and up to seven calendar days after.
 
