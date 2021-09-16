@@ -173,7 +173,7 @@ Short term visitors are required to download and register their profile on the T
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>On-arrival COVID-19 PCR test at Changi Airport</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-					Travellers should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to their departure for Singapore. (This is separate from the pre-payment made at the point of VTP application, which is for the post-arrival Day 3 and Day 7 COVID-19 PCR tests.)						
+					Travellers should also <a href="https://safetravel.changiairport.com/">register and make payment</a> for their <a href="/health/covid19-tests/pcrtest#price">on-arrival COVID-19 PCR test</a> prior to their departure for Singapore. (This is separate from the pre-payment made at the point of VTP application, which is for the <a href="">post-arrival Day 3 and Day 7 COVID-19 PCR tests</a>.)						
 		</td>
 	</tr>
 							<tr>
