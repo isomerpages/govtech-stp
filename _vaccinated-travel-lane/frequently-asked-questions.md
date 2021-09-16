@@ -870,7 +870,7 @@ If your particulars have changed, please write to the Safe Travel Office using t
 
 #### 15. How can I cancel my VTP as I no longer wish to travel to Singapore?
 
-Please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, the prepayment for your Day 3 and Day 7 PCR tests will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
 #### 15. Can travellers use the VTP to transit/transfer through Singapore?
 
