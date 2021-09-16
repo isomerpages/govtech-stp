@@ -6,7 +6,7 @@ permalink: /scpr-familial-ties-lane/shn-and-swab-summary
 
 ### Travel Health Control Measures for FTL-travellers
 
-The table below reflects the latest travel health control measures applicable to all approved FTL-travellers (inclusive of announcements made on <b><u>5 Sep 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
+The table below reflects the latest travel health control measures applicable to all approved FTL-travellers (inclusive of announcements made on <b><u>17 Sep 2021</u></b>). To view all travel-related announcements, click <a href="/news-and-media/press-releases/">here</a>.
 
 Travellers should note that the <b>Pre-Departure Tests (PDT)</b> requirements before departure for Singapore is dependent on their <b>21-day travel history before departure</b>. <b>Transit lasting less than 24 hours via any Category (II) to (IV) country/region after departure are not considered for the PDT requirement</b>. This means that a traveller who has departed from a Category (I) country/region following a 21-day stay, but had remained in a Category (III) country/region for less than 24 hours to transit to Singapore is not required to take a PDT.
 
@@ -112,7 +112,6 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Spain</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
-		
 </ul></td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
@@ -172,7 +171,6 @@ Travellers <u>must</u> comply with the travel health control measures required. 
 	</ol>
 	<p style="font-size: 16px; color:red; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Note for travellers with a travel history to any of the following countries/regions:</b></p>
 		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[1] Bangladesh, India, Myanmar, Nepal, Pakistan, Sri Lanka:</b> Disallowed from entry, including travellers who have received prior entry approvals.</p>
-		<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[2] Indonesia, Philippines:</b> Take an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> , in addition to the COVID-19 PCR test, upon arrival in Singapore.</p>
 </td>     
 </tr>
 </tbody>
