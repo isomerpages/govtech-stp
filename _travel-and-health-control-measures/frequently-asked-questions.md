@@ -349,7 +349,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1.	Do all travellers entering Singapore require mandatory travel insurance covering COVID-19?
 
-The mandatory insurance requirement will apply to short-term visitors who are entering Singapore under the Air Travel Pass (ATP) and Reciprocal Green Lanes (RGLs). It will not apply to returning Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to tap on regular healthcare financing arrangements for their inpatient medical bills should they develop onset of COVID-19 symptoms within 14 days of their return.
+The mandatory insurance requirement will apply to short-term visitors who are entering Singapore under the Air Travel Pass (ATP), Reciprocal Green Lanes (RGLs) and Vaccinated Travel Lane (VTL). It will not apply to returning Singapore Citizens/Permanent Residents (SCs/PRs), as they are able to tap on regular healthcare financing arrangements for their inpatient medical bills should they develop onset of COVID-19 symptoms within 14 days of their return.
 
 #### 2.	How can travellers purchase the insurance coverage?
 

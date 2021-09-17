@@ -602,6 +602,8 @@ If the travellers’ time of departure from Singapore is:
 
 The travellers’ time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
+The expected waiting time for the refund is about three weeks, depending on the credit card issuing bank.
+
 #### 13. What are the penalties if travellers miss their scheduled Day 3 or Day 7 test?
 
 Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
@@ -860,11 +862,15 @@ A VTP application may be unsuccessful for reasons such as:
 
 A VTP is valid for single entry into Singapore anytime from your intended date of entry and up to six calendar days after.
 
-If you need to enter before or after the validity period, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555. All appeals are assessed on a case-by-case basis.
+If your travel plans change and you need to enter before or after the validity period, please submit a new VTP application. The prepayment for your Day 3 and Day 7 PCR tests under your unutilised VTP will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
-#### 14. How can I cancel my VTP as I no longer wish to travel to Singapore?
+#### 14. How do I change my declared particulars (e.g. mobile number, email address, self-isolation accommodation) on my VTP application?
 
-Please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+If your particulars have changed, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+
+#### 15. How can I cancel my VTP as I no longer wish to travel to Singapore?
+
+You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, the prepayment for your Day 3 and Day 7 PCR tests will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
 #### 15. Can travellers use the VTP to transit/transfer through Singapore?
 
