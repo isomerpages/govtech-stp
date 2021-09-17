@@ -872,7 +872,7 @@ If your particulars have changed, please write to the Safe Travel Office using t
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, the prepayment for your Day 3 and Day 7 PCR tests will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
-#### 15. Can travellers use the VTP to transit/transfer through Singapore?
+#### 16. Can travellers use the VTP to transit/transfer through Singapore?
 
 No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 

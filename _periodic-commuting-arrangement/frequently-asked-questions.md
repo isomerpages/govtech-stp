@@ -92,7 +92,7 @@ PCA travellers may travel to Singapore in their own vehicles. However, they will
 
 Employers are strongly encouraged to ensure that their employees can enter Singapore on the date indicated in the application. This is because the pre-payments made for the cost of SDF and COVID-19 Polymerase Chain Reaction test (“PCR test”) during application, are <u>non-refundable</u>. Forfeited pre-payments will go towards covering the relevant cost incurred to secure and prepare an accommodation for a traveller.
 
-Requests for refunds or change in entry date will only be considered if there unforeseen extenuating factors, e.g. compassionate reasons. For such cases, employers may write to <a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a> with the relevant supporting documents.
+Requests for refunds or change in entry date will only be considered if there are unforeseen extenuating factors, e.g. compassionate reasons. For such cases, employers may write to <a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a> with the relevant supporting documents.
 
 #### 2. My employee was diagnosed with COVID-19 upon entry into Singapore. Who is responsible for his/her COVID-19 medical treatment?
 
