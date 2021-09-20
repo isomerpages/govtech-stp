@@ -73,12 +73,12 @@ Returning RGL travellers will be subjected to the health measures described in t
 	 <li style="font-size:16px; margin-top: 0px; margin-bottom:0px;line-height:1.5; ">Take an on-arrival COVID-19 PCR test; and</li>
 	<li style="font-size:16px; margin-top: 0px; margin-bottom:0px; line-height:1.5;">Serve a 7-day SHN at place of residence, self-sourced hotel or service apartment, and take a COVID-19 PCR test on Day 7 of SHN.</li>	
 </ol>
-	     <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Malaysia</b> will:  </p>
+<!--	     <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Returning RGL travellers from <b>Malaysia</b> will:  </p>
 <ol style="margin-top:0px; list-style-type:disc;">
   <li style="font-size:16px; margin-top: 0px; margin-bottom:0px;line-height:1.5; ">Take a COVID-19 PCR test within 72 hours before departure for Singapore;</li>
 	 <li style="font-size:16px; margin-top: 0px; margin-bottom:0px;line-height:1.5; ">Take an on-arrival COVID-19 PCR test; and</li>
 	<li style="font-size:16px; margin-top: 0px; margin-bottom:0px; line-height:1.5;">Serve a 14-day SHN at SDF, self-administer an Antigen Rapid Test on Day 3,7 and 11of arrival in Singapore, and take a COVID-19 PCR test on Day 14 of SHN.</li>	
-</ol>
+</ol>-->
  </td>
   </tr>
   </tbody>
