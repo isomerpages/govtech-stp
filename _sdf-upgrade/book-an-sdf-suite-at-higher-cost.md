@@ -96,6 +96,13 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
    </tr>
+			 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:rc.sinrz.reservations@ritzcarlton.com">Carlton Hotel</a></td>
+          <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+   </tr>
       <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:SDFsuite.fs@fairmont.com">Fairmont Singapore </a></td>
        <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
@@ -116,12 +123,26 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center;font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
-    </tr>   
+    </tr>
+					 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:mosin-reservations@mohg.com">Mandarin Oriental</a></td>
+          <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+   </tr>
 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:Sinci.res@conradhotels.com">Conrad Centennial Singapore</a></td>
           <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+   </tr>
+							 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><a href="mailto:duty.manager@fourpointssingaporeriverview.com">Four Points by Sheraton Singapore, Riverview</a></td>
+          <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
       <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">&nbsp;</td>
    </tr>
 	 <tr>
@@ -159,6 +180,13 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
     </tr>
+									 <tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="mailto:pohgek.kwee@shangri-la.com">Shangri-La Singapore</a></td>
+          <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">√</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+      <td style="text-align:center; font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">&nbsp;</td>
+   </tr>
   </tbody>
   </table>
   <p style="margin-top:0px; margin-bottom:0px; font-size:18px;"><sup>^</sup>The cost does not include charges for COVID-19 tests. Prices may be revised periodically. In the event of a change in price, travellers will continue to pay the prevailing price at the point of booking.<br><sup>#</sup>The typical size of a standard SDF room is 25sqm. <br> <sup>*</sup>Subject to maximum occupancy of suites, which may vary across SDFs.</p>
