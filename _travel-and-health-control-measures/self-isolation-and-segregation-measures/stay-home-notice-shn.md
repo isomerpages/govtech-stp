@@ -15,7 +15,7 @@ Travellers issued with an SHN should refer to the SHN Health Advisory [here](/fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_iO3-H1FjgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**View this video in the following languages: [中文](https://youtu.be/4B-zT4wW_CY), [Bahasa Indonesia](https://youtu.be/3oTQ0TAdkkk)**
+**View this video in the following languages: [Chinese](https://youtu.be/4B-zT4wW_CY), [Bahasa Indonesia](https://youtu.be/3oTQ0TAdkkk)**
 
 ---
 
