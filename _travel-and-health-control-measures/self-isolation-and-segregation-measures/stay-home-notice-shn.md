@@ -7,7 +7,7 @@ third_nav_title: Self-Isolation and Segregation Measures
 
 The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
 
-<iframe width="560" height="315" src="https://youtu.be/Om-hkGPvHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Om-hkGPvHOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In general, travellers under SHN are required to take a mandatory [COVID-19 Polymerase Chain Reaction test ("PCR Test")](/health/covid19-tests/pcrtest) towards the end of their SHN. <b>Travellers can check their required SHN duration and required <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a> on the individual <a href="/arriving/overview">SafeTravel Lanes pages</a></b>. Travellers approved for entry into Singapore should refer to their Entry Approval Letter or SafeTravel Pass for details on whether they are required to serve their SHN and COVID-19 test to take. 
 
