@@ -35,8 +35,8 @@ permalink: /atp/apply-now
       <td style="text-align:center;">Please enter the necessary details to start applying</td>
     </tr>
     <tr>
-      <td><a href="https://go.gov.sg/atpsg"><img src="/files/ATP_1.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
-      <td><a href="https://go.gov.sg/atpsg"><img src="/files/ATP_2.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
+      <td><a href="https://go.gov.sg/atpsg"><img src="/files/ATP_1.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
+      <td><a href="https://go.gov.sg/atpsg"><img src="/files/ATP_2.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
     </tr>
   </tbody>
 </table>
