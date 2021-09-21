@@ -35,7 +35,7 @@ sections:
           description: null
           url: /departing/overview
   - resources:
-      title: Press Releases on Border Measures
+      title: "Press Releases "
       button: View More
   - infopic:
       title: An Inter-Agency Collaboration
