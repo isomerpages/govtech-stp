@@ -3,14 +3,6 @@ title: Apply Now
 permalink: /atp/apply-now
 ---
 
-<style>
-.imageContainer > img:hover {
-  width: 500px;
-  height: 200px;
-}
-</style>
-
-
 <!--<table>
   <thead>
     <tr>
@@ -27,7 +19,6 @@ permalink: /atp/apply-now
   </tbody>
 </table>-->
 
-<div class="imageContainer">
 <table>
   <thead>
     <tr>
@@ -56,4 +47,3 @@ permalink: /atp/apply-now
     </tr>
   </tbody>
 </table>
-  </div>
