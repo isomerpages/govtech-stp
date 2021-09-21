@@ -34,16 +34,16 @@ permalink: /atp/apply-now
       <td style="text-align:center;">Please enter the necessary details to start applying</td>
     </tr>
     <tr>
-      <td><a href="/files/ATP_1.PNG"><img src="/files/ATP_1.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:80%;"></a></td>
-      <td><a href="/files/ATP_2.PNG"><img src="/files/ATP_2.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:80%;"></a></td>
+      <td><a href="/files/ATP_1.PNG"><img src="/files/ATP_1.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
+      <td><a href="/files/ATP_2.PNG"><img src="/files/ATP_2.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
     </tr>
      <tr>
       <td style="text-align:center;">"One Time Password (OTP)" will be sent to your email address</td>
       <td style="text-align:center;">Select "Apply for a Air Travel Pass" for ATP application</td>
     </tr>
       <tr>
-      <td><a href="/files/ATP_3.PNG"><img src="/files/ATP_3.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:80%;"></a></td>
-      <td><a href="/files/ATP_4.PNG"><img src="/files/ATP_4.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:80%;"></a></td>
+      <td><a href="/files/ATP_3.PNG"><img src="/files/ATP_3.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
+      <td><a href="/files/ATP_4.PNG"><img src="/files/ATP_4.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
     </tr>
   </tbody>
 </table>
