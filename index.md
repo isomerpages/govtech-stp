@@ -35,8 +35,9 @@ sections:
           description: null
           url: /departing/overview
   - resources:
-      title: "Press Releases "
+      title: Press Releases
       button: View More
+      subtitle: News on border measures
   - infopic:
       title: An Inter-Agency Collaboration
       description: The SafeTravel portal is brought to you by the <a
