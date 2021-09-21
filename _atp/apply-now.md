@@ -2,7 +2,6 @@
 title: Apply Now
 permalink: /atp/apply-now
 ---
-
 <!--<table>
   <thead>
     <tr>
@@ -27,7 +26,7 @@ permalink: /atp/apply-now
   </thead>
   <tbody>
     <tr>
-      <td colspan="2" style="text-align:center; vertical align:middle;"><a href="https://go.gov.sg/atpsg">https://go.gov.sg/atpsg</a></td>
+      <td colspan="2" style="text-align:center; vertical align:middle;">Application portal link: <a href="https://go.gov.sg/atpsg">https://go.gov.sg/atpsg</a></td>
     </tr>
      <tr>
       <td style="text-align:center;"><b>1) Please select "Log in with Email Address" to apply for an Air Travel Pass</b></td>
