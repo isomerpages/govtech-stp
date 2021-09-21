@@ -1,5 +1,5 @@
 collections:
-  travel-and-health-control-measures:
+  info-resources:
     output: true
     order:
       - overview.md
