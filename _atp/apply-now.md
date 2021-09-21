@@ -8,7 +8,7 @@ permalink: /atp/apply-now
   width: 500px;
   height: 200px;
 }
-  </style>
+</style>
 
 
 <!--<table>
