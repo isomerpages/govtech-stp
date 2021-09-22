@@ -1,7 +1,8 @@
 ---
-title: Covid-19 Symptoms
+title: COVID-19 Symptoms
 permalink: /health/covid19-symptoms
 ---
+
 On 30 January 2020, the World Health Organisation declared the rapid transmission of the novel coronavirus disease (COVID-19) a Public Health Emergency of International Concern. COVID-19 belongs to a large family of viruses known to cause mild to severe respiratory issues. 
 
 Travellers who are experiencing/showing any combination of the following symptoms, should defer their travel plans and seek immediate medical attention:
