@@ -1,6 +1,6 @@
 logo: /images/ICA-STP-3.png
 links:
-  - title: Start Your Journey
+  - title: Start Here
     sublinks:
       - title: Travelling to Singapore
         url: /arriving/overview
@@ -8,7 +8,7 @@ links:
         url: /departing/overview
       - title: Transiting through Singapore
         url: /transit/overview
-  - title: Info Resources
+  - title: Traveller Resources
     url: /health
   - title: Apply Now
     url: /apply-now
