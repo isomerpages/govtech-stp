@@ -1,8 +1,7 @@
 ---
 layout: landing-page-stp
 title: SafeTravel
-description: SafeTravel Pass is required for travellers entering into Singapore
-  under Green/Fast Lane arrangements.
+description: "SafeTravel Website "
 permalink: /
 notification: <h6 style="text-align:left;">Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
