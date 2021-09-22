@@ -9,21 +9,25 @@ These traveller resource pages provide information on  some of Singapore's commo
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
   <b>COVID-19 Tests</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Test (“PCR Test”)</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pcrtest">COVID-19 tests for travel to Singapore</a></li>
   <!--  <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/serology">Serology Test</a></li>-->
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pre-departure-test">Pre-departure test</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/covid19-tests/pre-departure-test">Outbound pre-departure test</a></li>
     </ol>
   </li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"> <b>Self-Isolation and Segregation Measures</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn">Stay-Home Notice (SHN)</a></li>
     <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn/sdf">SHN in Dedicated Facilities (SDF)</a></li>
-    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Devices</a></li>
+    <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:square;"><a href="/health/shn-monitoring">SHN Electronic Monitoring Device</a></li>
     </ol>
   </li>
+	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+<a href="/health/vtsg">Definition of fully vaccinated traveller </a></li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc">
 <a href="/health/travelinsurance">Mandatory COVID-19 Travel Insurance</a></li>
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"><a href="/health/covidtreatment">Treatment for Covid-19</a></li>
+	  <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc">
+<a href="/health/tt-for-travellers">TraceTogether for Travellers</a></li>
   </ol>
 
 For more details on which specific health protocols you may be subject to when travelling, you may refer to the following pages for more details:
