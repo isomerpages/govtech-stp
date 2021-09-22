@@ -2,11 +2,8 @@
 title: Overview
 permalink: /health
 ---
-Singapore is reopening its borders in a controlled and safe manner to maintain its status as an international hub.
+These traveller resource pages provide information on  some of Singapore's common travel health protocols and and other useful information resources. These include:
 
-Travellers approved for entry should refer to the specific requirements and process for the respective [Safe Travel lanes](/arriving/overview) they are entering Singapore on. These health control requirements would also be stated as conditions of entry approval where relevant. 
-
-To minimise the public health risks associated with the border reopening, travellers arriving in Singapore may be required to observe the relevant health control measures, below:
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
@@ -29,7 +26,10 @@ To minimise the public health risks associated with the border reopening, travel
   <li style="margin-top:10px; margin-bottom:0px; font-size:18px; list-style-type:disc"><a href="/health/covidtreatment">Treatment for Covid-19</a></li>
   </ol>
 
-As these measures are continually evolving to better respond to the epidemiological developments overseas, travellers planning to visit Singapore should visit the [Ministry of Health’s (MOH)](https://www.moh.gov.sg/covid-19) webpage for the latest information.
+For more details on which specific health protocols you may be subject to when travelling, you may refer to the following pages for more details:
+* [Travelling to Singapore](arriving/overview)
+* [Transiting through Singapore](/transit/overview)
+* [Departing from Singapore](/departing/overview) 
 
 Visitors should monitor their health and should not travel to Singapore if they:
 <ol style="margin-top:0px; margin-bottom:0px;">
