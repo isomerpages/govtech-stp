@@ -1,7 +1,8 @@
 ---
-title: Transiting Through Singapore
+title: Transiting through Singapore
 permalink: /transit/overview
 ---
+
 
 #### Eligibility
 

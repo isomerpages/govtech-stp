@@ -552,9 +552,9 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
            </ol>  
 </td>
    </tr> 
-				<tr>
+<!--				<tr>
 <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" colspan="2">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
-		</tr>
+		</tr>-->
       </tbody>
   </table>
   
@@ -618,7 +618,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
 			</ol>
 		</td>
   </tr>
-   <tr>
+<tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the land/sea checkpoints:</b></td>
     <td style="font-size:18px; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;">Travellers may wish to directly email to <a href="mailto:francis.goh@parkwayshenton.com.sg">francis.goh@parkwayshenton.com.sg</a> for their refund or cancellation requests.
  </td>
