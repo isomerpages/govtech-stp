@@ -43,7 +43,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
+description: Singapore’s latest border measures in response to COVID-19
 staging: https://govtech-stp-staging.netlify.app
 prod: https://govtech-stp-prod.netlify.app
 plugins:

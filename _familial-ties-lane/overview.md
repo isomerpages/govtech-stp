@@ -40,7 +40,7 @@ The table below is a quick overview of the key FTL features and requirements. Tr
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">For new entry applications, approvals have been reduced for travellers with a travel history to all higher-risk countries/regions(i.e. all countries/regions, except countrie/regions listed in Category (I) and (II) of the table <a href="/scpr-familial-ties-lane/shn-and-swab-summary">here</a></p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">For new entry applications, approvals have been reduced for travellers with a travel history to all higher-risk countries/regions(i.e. all countries/regions, except countries/regions listed in Category (I) and (II) of the table <a href="/scpr-familial-ties-lane/shn-and-swab-summary">here</a></p>
 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Applications are allowed for travellers from all countries/regions, <b>except</b> those who have travel or transit history to the following countries in the past 21 days before arriving in Singapore:
 			 </p><ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
