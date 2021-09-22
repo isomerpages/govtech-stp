@@ -1,5 +1,5 @@
 collections:
-  travelling-to-singapore:
+  start-here:
     output: true
     order:
       - travelling-to-singapore.md
