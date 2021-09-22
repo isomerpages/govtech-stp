@@ -3,7 +3,6 @@ title: COVID-19 Tests for Travel to Singapore
 permalink: /health/covid19-tests/pcrtest
 third_nav_title: Covid 19 Tests
 ---
-
 ### COVID-19 Tests for Travel to Singapore
 
 This page provides information on the various COVID-19 tests to be taken when travelling to Singapore.
@@ -28,7 +27,7 @@ To check if a COVID-19 PCR test is required before your departure for Singapore,
 
 #### 2. On-Arrival Tests
 
-All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test cost S$160 (including GST). Travellers with a travel history that includes a specified Category (IV) country/region will be required to take an additional Antigen Rapid test, which costs S$67 (including GST). 
+All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test cost S$160 (including GST). <!--Travellers with a travel history that includes a specified Category (IV) country/region will be required to take an additional Antigen Rapid test, which costs S$67 (including GST). -->
 
 To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
 
