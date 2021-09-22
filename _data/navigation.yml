@@ -1,29 +1,13 @@
 logo: /images/ICA-STP-3.png
 links:
-  - title: Safe Travel Lanes
+  - title: Start Here
     sublinks:
-      - title: Returning Singapore Citizen/Permanent Resident
-        url: /SC-PR/overview
-      - title: Vaccinated Travel Lane
-        url: /vtl/requirements-and-process
-      - title: Work Pass Holder General Lane
-        url: /wphl/overview
-      - title: Student's Pass Holder Lane
-        url: /stpl/overview
-      - title: Singapore Citizen/Permanent Resident Familial Ties Lane
-        url: /scpr-familial-ties-lane/overview
-      - title: Reciprocal Green Lane (Business/Official Short Term Travel)
-        url: /rgl/overview
-      - title: Air Travel Pass (Any Purpose of Travel including Business and Official
-          Travel)
-        url: /atp/overview
-      - title: Periodic Commuting Arrangement (Workers Commuting between Singapore and
-          Malaysia)
-        url: /pca/overview
-      - title: Connect@Singapore
-        url: /connectsg/overview
-      - title: Death and Critical Illness Emergency Visit Lane
-        url: /dcev/overview
+      - title: Travelling to Singapore
+        url: /arriving/overview
+      - title: Departing from Singapore
+        url: /departing/overview
+      - title: Transiting Through Singapore
+        url: /transit/overview
   - title: Info Resources
     url: /health
   - title: Apply Now
