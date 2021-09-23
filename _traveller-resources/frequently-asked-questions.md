@@ -36,9 +36,6 @@ Some groups of travellers are allowed to serve SHN at a self-sourced accommodati
 
 Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their 7-day SHN.
 
-Travellers who choose not to serve their 7-day SHN in a self-sourced accommodation may appeal to opt-in to an assigned SDF . These appeals, which are subject to approval, can be submitted using this [link](https://form.gov.sg/#!/5f9a5d6b9ad89a0011c84802). Relevant charges will apply.
-
-
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
 The more stringent travel health control measures would apply. This means that a traveller who had transited to Singapore via a second country where mandatory [SDF](/health/shn/sdf) stay is required, will serve their [SHN](/health/shn) at an SDF upon arrival into Singapore.
@@ -82,15 +79,9 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 ## Transport Arrangements During SHN
 
-#### 1. What are the types of transport that I can take if I am serving my 7-day Stay-Home Notice (SHN) at an SHN-dedicated facility (SDF)?
-
-Upon arrival, travellers will commute directly to their assigned SDF using government-arranged transport. During the SHN period, travellers are prohibited from leaving their accommodations. They are only permitted to leave the SDF if they are due to take their [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at the designated testing facility. As travel via public transport is prohibited, transport will be arranged by the Ministry of Health (MOH) to ferry travellers to and from the designated testing facility.
-
-Travellers should only leave their SDF for their PCR test appointment only if they are feeling well. Travellers who are unwell should remain in their accommodation and alert the relevant agencies listed in this [page](https://go.gov.sg/tc) immediately.
-
 <div id="transportQ2"></div>
 
-#### 2. What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?
+#### 1. What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?
 
 ##### a) From air/land/sea checkpoints to place of residence
 
@@ -165,7 +156,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 <div id="transportQ3"></div>
 
-#### 3. I have been allowed to serve my 14-day SHN at my residence. What are the types of transport that I can take?
+#### 2. I have been allowed to serve my 14-day SHN at my residence. What are the types of transport that I can take?
 
 You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for:
 - travelling from the checkpoint to your place of residence; and
