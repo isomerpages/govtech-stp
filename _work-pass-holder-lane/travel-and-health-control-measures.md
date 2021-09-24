@@ -268,6 +268,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder can isolate in a room with an attached toilet.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder does not stay in a dormitory. </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>. </li>
 	</ol><br/>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
