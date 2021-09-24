@@ -145,14 +145,14 @@ For all other pass holders (work pass holders and their dependants), please refe
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels <sup>[See Note]</sup> or serviced apartments) </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or family, including any helpers)</b>  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or family, including any helpers) where the pass holder can be isolated in a room with an attached toilet.</b>  </li>
 	</ol>
 	</li>
 				<table>
 <tr>
 <td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should check and ensure they can accommodate guests serving SHN when booking. </i></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should refer to this <a href="https://sha.org.sg/stay-home-notice">list</a>. They may contact the hotel directly to make their booking, and should inform them that it is for SHN purpose. </i></li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Pass holders are <b>not allowed</b> to serve SHN in dormitories or residences occupied by non-family members.</i></li>
 	</ol>
 	</td>
@@ -266,7 +266,9 @@ For all other pass holders (work pass holders and their dependants), please refe
 			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
 			<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the pass holder. </li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder can isolate in a room with an attached toilet.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder does not stay in a dormitory. </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>. </li>
 	</ol><br/>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
 	<ol style="margin-top: 0px; list-style-type: disc;">
