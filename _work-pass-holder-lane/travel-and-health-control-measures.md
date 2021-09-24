@@ -266,6 +266,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
 			<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the pass holder. </li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder can isolate in a room with an attached toilet.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder does not stay in a dormitory. </li>
 	</ol><br/>
 			<sup>#</sup> These groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore:
