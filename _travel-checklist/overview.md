@@ -8,8 +8,14 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 
 #### 1)	Requirements & Process checklists for specified lanes:
 <ol style="font-size:20px; margin-bottom:0px;">
-	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Vaccinated Travel Lane
 	</li>
-	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Air Travel Pass
+	</li>
+		<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Connect@Singapore
+	</li>
+		<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Reciprocal Green Lane
+	</li>
+		<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Death and Critical Illness Emergency Visit Lane
 	</li>
 </ol>
