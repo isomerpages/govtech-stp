@@ -17,7 +17,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must write to Safe Travel Office with the relevant supporting documents for approval to enter Singapore via DCEV. Click here for more details.
+All travellers, except Singapore Citizens and Permanent Residents, must write to Safe Travel Office with the relevant supporting documents for approval to enter Singapore via DCEV. Click [here](/dcev/overview) for more details.
 
 &#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
@@ -245,4 +245,3 @@ Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and m
 After SHN, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether](https://www.tracetogether.gov.sg/) app, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the [Ministry of Health website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition as a “fully vaccinated traveller”.
-
