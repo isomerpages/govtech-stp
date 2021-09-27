@@ -6,7 +6,7 @@ These checklists detail the full list of the administrative and health-related p
 
 If you have yet to identify a suitable Safe Travel Lane for entry, return to the “Travelling to Singapore” page for details. Otherwise, click on the links below for the checklist relevant to you:
 
-#### 1)	Requirements & Process checklists for specified lanes:
+### 1)	Requirements & Process checklists for specified lanes:
 <ol style="font-size:20px; margin-bottom:0px;">
 	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Vaccinated Travel Lane
 	</li>
@@ -19,3 +19,8 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 		<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Death and Critical Illness Emergency Visit Lane
 	</li>
 </ol>
+
+### 2)	Checklist based on 21-day travel and transit history for Safe Travel Lanes not specified above:
+
+
+
