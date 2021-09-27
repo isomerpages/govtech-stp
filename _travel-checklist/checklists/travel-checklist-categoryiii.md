@@ -161,7 +161,7 @@ Travellers must also administer an Antigen Rapid Test (ART) on their own on Days
 
 Travellers who are serving SHN at their own place of residence must use Strides to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
 
-### Stage 5: End of Self-isolation period
+### Stage 5: End of Stay-Home Notice
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
