@@ -3,3 +3,5 @@ collections:
     output: true
     order:
       - overview.md
+      - checklists/.keep
+      - checklists/travel-checklist-categoryi.md
