@@ -165,7 +165,7 @@ Travellers who are serving SHN at their own place of residence must use Strides 
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-Travellers can leave their SHN accommodation only after the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
 
 For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
