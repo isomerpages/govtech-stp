@@ -14,7 +14,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the “Travelling to Singapore” page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the [“Travelling to Singapore”](/arriving/overview) page.
 
 &#9744;  <i><b>B) Submission of Declarations & Registration/Payment for On-Arrival COVID-19 Test</b></i>
 
