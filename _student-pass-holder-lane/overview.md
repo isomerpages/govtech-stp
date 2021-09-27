@@ -112,22 +112,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Pre-Departure &amp; Entry <br> <i>[For STPHL-approved Travellers only]</i></b></th>
-</tr>
-</thead>
-<tbody>
-	<tr>
-		<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day travel period (Monday – Sunday) as indicated in the application</td>
-</tr>
-	<tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-Departure and Entry Process Guide</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/stpl/requirements-and-process">Here</a></td>
-</tr>
-</tbody>
-	<thead>
-<tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Additional Resources</b></th>
+<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Traveller Resources</b></th>
 </tr>
 </thead>
 <tbody><tr>
