@@ -50,45 +50,45 @@ Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pc
 
 The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers will commute directly to their declared SHN accommodation using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
 
-<table>
+								<table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Contact Details</b></th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6213 0997</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6477 5971</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6776 7553</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6681 9462</td>
     </tr>
      <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
   </tbody>
-  </table>
+  </table>	
 	
 To guarantee a smooth journey, click [here](/health/faq#transport) for the relevant transport advisories.
 
