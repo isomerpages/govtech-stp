@@ -117,7 +117,7 @@ Travellers will commute directly to their declared SHN accommodation using their
 	
 The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. To guarantee a smooth journey, click [here](/health/faq#transport) for the relevant transport advisories.
 
-### Stage 4: Self-isolation
+### Stage 4: Stay-Home Notice and COVID-19 Tests
 
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
