@@ -11,7 +11,7 @@ Singapore does not impose any mandatory health requirements on travellers for de
 <a id="PDT"></a>
 ### COVID-19 Pre-Departure Test (if required by destination country/region)
 
-Travellers are advised to check with the authorities of their destination country/region on whether they are required to take a COVID-19 test before departure, or present health certificates on arrival. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
+Travellers are advised to check with the authorities of their destination country/region on whether they are required to take a COVID-19 test before departure. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of the clinics offering PCR Pre-Departure Tests, listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
 Travellers are responsible for ensuring that the test conducted by the clinic meets the testing requirements of the destination country/region. Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time.
 
