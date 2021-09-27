@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - travel-checklist/.keep
+      - travel-checklist/overview.md
       - overview.md
       - covid-19-symptoms.md
       - covid-19-tests/.keep
