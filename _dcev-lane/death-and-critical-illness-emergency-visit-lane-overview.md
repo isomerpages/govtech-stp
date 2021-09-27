@@ -2,7 +2,7 @@
 title: Death & Critical Illness Emergency Visit Lane - Overview
 permalink: /dcev/overview
 ---
-This Death &amp; Critical Illness Emergency Visit (DCEV) Lane caters to all foreign travellers who are seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member in Singapore. Travellers who are fully vaccinated and are returning from Brunei and Germany from <b>8 Sep 2021</b> onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
+This Death &amp; Critical Illness Emergency Visit (DCEV) Lane caters to all foreign travellers who are seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member <b>in Singapore</b>. A maximum of two travellers may be granted entry per case. Singapore Citizens (SC) and Permanent Residents (PR) in a similar predicament can return to Singapore <b>without</b> the need to apply for an entry approval via this lane; click <a href="/sc-pr/overview">here</a> for more details.
 
 Overseas Singapore Citizens/Permanent Residents in a similar situation, i.e. family emergency, may return to the country without the need to apply for entry approval, via the [Returning Singapore Citizen/Permanent Resident Lane](/sc-pr/overview) . Prevailing health measures will apply but special arrangements can be made for the traveller to visit the funeral/hospital during the SHN period if need be.
 
