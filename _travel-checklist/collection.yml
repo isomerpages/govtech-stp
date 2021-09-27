@@ -2,4 +2,5 @@ collections:
   travel-checklist:
     output: true
     order:
+      - checklists/.keep
       - overview.md
