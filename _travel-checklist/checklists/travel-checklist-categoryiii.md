@@ -74,7 +74,8 @@ Foreign Travellers will indicate their SHN accommodation preference when applyin
     </tr>
   </tbody>
   </table>
-	
+
+Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
 
 ### Stage 2: Departure for Singapore
 
@@ -101,11 +102,13 @@ Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pc
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
-A 7-day Stay-Home Notice (SHN) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
+A 14-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
 
-&#9744;  <i><b>D) Transport to Declared Self-Isolation Accommodation</b></i>
+&#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
-Travellers will commute directly to their declared SHN accommodation using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
+Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at SHN dedicated facilities will take the government-provided transport. Travellers are disallowed to take public transport (e.g. trains, buses, street-hailed taxis).
+
+For those have been approved to serve SHN at their own accommodation, a transport booking must be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
