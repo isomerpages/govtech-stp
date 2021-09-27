@@ -58,18 +58,7 @@ Aside from selecting “<i>Appeal for entry into Singapore under Compassionate R
 </tbody>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Pre-Departure &amp; Entry<br><i>[DCEV-approved Travellers Only]</i></b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-departure and Entry Guide</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Click <a href="/dcev/entryguide">here</a></td>
-</tr>
-</tbody>
-<thead>
-<tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Additional Resources</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Traveller Resources</b></th>
 </tr>
 </thead>
 <tbody>
