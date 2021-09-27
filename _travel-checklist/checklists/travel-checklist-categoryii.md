@@ -20,7 +20,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region]() in the past 21 consecutive days before departure; or
+- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 21 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
