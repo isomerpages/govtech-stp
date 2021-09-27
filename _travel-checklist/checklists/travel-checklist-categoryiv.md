@@ -44,6 +44,8 @@ Travellers who are fit for travel, i.e. not showing any COVID-19 symptoms, must:
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
 
+<div id="1E"></div>
+
 &#9744;  <i><b>E) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
 
 Travellers will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Designated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
