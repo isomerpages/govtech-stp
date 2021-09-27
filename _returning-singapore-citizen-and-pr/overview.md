@@ -55,6 +55,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (III) travel history</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (IV) travel history</a></li>
 </ol>
+<p style="font-size:16px; line-height:1.5;">Please read only after determining the travel health control measures (as per row above) the traveller will be subject to.</p>
 	</td>
 </tr>
 </tbody>
