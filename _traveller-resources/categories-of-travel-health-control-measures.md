@@ -183,13 +183,28 @@ A step-by-step traveller’s checklist for each travel history category is also 
 	<table>
   <thead>
     <tr>
-     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
+     <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Countries/ Regions</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Additional Requirements/ Exceptions </b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;"><ul style="margin-top:0px; list-style-type: disc;">
+		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	Malaysia</b></li></ul></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Singapore Citizens entering Singapore via the Causeway or Second Link do not need to take a COVID-19 PCR test within 48 hours before departure </td>
+    </tr>
+		    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">	<ul style="margin-top:0px; list-style-type: disc;">
+		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>	Bangladesh</b></li>
+						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>India</b></li>
+						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Myanmar</b></li>
+						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Nepal</b></li>
+						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Pakistan</b></li>
+						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sri Lanka</b></li>
+				</ul></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Only Singapore Citizens, Permanent Residents and travellers under the Death and Critical Illness Emergency Visits Lane are allowed entry. 
+<br/><br/>
+All other travellers disallowed entry, including travellers who have received prior entry approvals.
+ </td>
     </tr>
 		</tbody>
 	</table>
