@@ -10,7 +10,6 @@ This checklist is suitable **only** for travellers with travel and transit histo
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
-
 ### Stage 1: Pre-Departure for Singapore
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
