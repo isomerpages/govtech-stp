@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - overview.md
+      - travel-checklist.md
+      - categories-of-travel-health-control-measures.md
       - covid-19-symptoms.md
       - covid-19-tests/.keep
       - covid-19-tests/covid-19-tests-for-travel-to-singapore.md
@@ -16,5 +18,3 @@ collections:
       - treatment-for-covid-19.md
       - vaccinated-travellers-intending-to-travel-to-singapore.md
       - frequently-asked-questions.md
-      - travel-checklist.md
-      - categories-of-travel-health-control-measures.md
