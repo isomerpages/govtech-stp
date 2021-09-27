@@ -10,10 +10,10 @@ collections:
       - covid-19-tests/covid-19-tests-for-travel-to-singapore.md
       - covid-19-tests/outbound-pre-departure-test.md
       - mandatory-covid-19-travel-insurance-inbound-travellers-to-singapore.md
-      - self-isolation-and-segregation-measures/.keep
-      - self-isolation-and-segregation-measures/stay-home-notice-shn.md
-      - self-isolation-and-segregation-measures/shn-dedicated-facilities-sdf.md
-      - self-isolation-and-segregation-measures/shn-electronic-monitoring-device.md
+      - info-on-stay-home-notice/.keep
+      - info-on-stay-home-notice/stay-home-notice-shn.md
+      - info-on-stay-home-notice/shn-dedicated-facilities-sdf.md
+      - info-on-stay-home-notice/shn-electronic-monitoring-device.md
       - tracetogether-for-travellers.md
       - treatment-for-covid-19.md
       - information-for-inbound-vaccinated-travellers.md
