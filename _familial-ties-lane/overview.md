@@ -59,7 +59,7 @@ The table below is a quick overview of the key FTL features and requirements.
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
 	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">4 to 33 days from the date of application (30-day window period)<br/>
-<p style="font-size:16px; line-height:1.5;">&#9888; Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</p>
+<p style="font-size:16px; line-height:1.5;"><i>&#9888; Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p>
 	</td>
 </tr>
 <tr>
