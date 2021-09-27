@@ -113,39 +113,26 @@ For those have been approved to serve SHN at their own accommodation, a transpor
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Contact Details</b></th>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Cost ($SGD; Excludes 10% credit card charge)</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
+				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
+				</ol>
+			</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authoritiesb</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
-    </tr>
-     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc single trip approved by the relevant authorities</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
     </tr>
   </tbody>
   </table>
