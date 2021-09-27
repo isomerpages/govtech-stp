@@ -6,7 +6,7 @@ permalink: /shn-and-swab-summary
 
 ### Overview
 
-There are currently four categories of health measures for travellers entering Singapore via the general entry SafeTravel lanes below: 
+there are currently four categories of travel health control measures (thcm) for travellers entering Singapore via the general entry SafeTravel lanes below: 
 - Returning Singapore Citizen/ Permanent Resident (SC/PR) Lane
 - Death and Critical Illness Emergency Visits Lane
 - Familial Ties Lane
