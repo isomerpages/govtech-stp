@@ -19,27 +19,13 @@ Summarised below is a quick overview of the key lane features and requirements. 
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-Singapore Citizens and Permanent Residents (capped at two travellers per eligible case) who are unable to enter Singapore via a Safe Travel lane, but require urgent entry to attend to the death or critical medical condition of an immediate family member. </td>
  </tr>
    <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">Attend to a family emergency in Singapore, e.g. funeral, family member who is critically ill</td>
- </tr>
-   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Required Country/Region of Departure</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed.</td>
- </tr>
-   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Controls</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">Approved travellers will be informed of the requisite health measures for entry including Stay Home Notice and COVID-19 tests. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing travel policies governing such visits.<br>
-<p style="font-size:16px; line-height:1.5;">For more information on the specific travel health control measures including their costs, click on the links below:</p>
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
-</ol>
-</td>
  </tr>
 	</tbody>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Application Process</b></th>
 </tr>
 </thead>
 <tbody>
@@ -49,7 +35,8 @@ Summarised below is a quick overview of the key lane features and requirements. 
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Please write in via our <a href="https://safetravel.ica.gov.sg/contact-us">enquiry form</a> under the category “<i>Appeal for entry into Singapore under Compassionate Reasons</i>”, with relevant supporting documents, such as:
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Submit a request via this <a href="https://safetravel.ica.gov.sg/contact-us">form</a>.
+Aside from selecting “<i>Appeal for entry into Singapore under Compassionate Reasons</i>” in the form, travellers must also submit the following:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Death certificate or any other documents as proof of death of the immediate family member (for death cases) or Doctor’s letter to support critically ill cases (for critically ill cases);
 </li>
