@@ -68,6 +68,10 @@ Aside from selecting “<i>Appeal for entry into Singapore under Compassionate R
 	<a href="/dcev/shn-and-swab-summary">CLICK HERE</a> for the travel health control measure (e.g. Stay Home Notice, swab tests) categories and their applicable country/region. Prevailing health measures will apply but special arrangements can be made for the traveller to visit the funeral/hospital during the SHN period if need be.
  </td>
 </tr>
+		<tr>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Click here</td>
+</tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
