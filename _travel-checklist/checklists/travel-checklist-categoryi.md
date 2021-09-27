@@ -43,7 +43,6 @@ If (C), above, is in order, travellers who are fit for travel should:
 </ol>
 
 
-
 ### Stage 2: Departure for Singapore
 
 &#9744;  <i><b>A) Pre-boarding Document Checks</b></i>
@@ -114,7 +113,7 @@ Travellers may self-isolate in the following accommodations:
 - Place of residence; or 
 - Hotel of choice.
 
-Travellers without a suitable place of residence may [self-isolate](https://sha.org.sg/air-travel-pass) at a hotel found in this non-exhaustive list. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving their accommodations.
+Travellers without a suitable place of residence may [self-isolate](https://sha.org.sg/air-travel-pass) at a hotel found in this [non-exhaustive list](https://sha.org.sg/hotel-accommodation). Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving their accommodations.
 
 ### Stage 5: End of Self-isolation period
 
