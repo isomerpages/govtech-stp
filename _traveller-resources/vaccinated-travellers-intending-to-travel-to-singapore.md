@@ -109,8 +109,8 @@ Travellers who arrived in Singapore after 17 Sep 2021 will need to have their va
 <table>
 	<thead>
 		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Remaining in Singapore for more than 30 days</b></th>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Remaining in Singapore for 30 days or less</b></th>
+		<th style="margin-top:0px; margin-bottom:0px; font-size:16px; color:white; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153855;"><b>Remaining in Singapore for more than 30 days</b></th>
+			<th style="margin-top:0px; margin-bottom:0px; font-size:16px; color:white; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153855"><b>Remaining in Singapore for 30 days or less</b></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -118,11 +118,10 @@ Travellers who arrived in Singapore after 17 Sep 2021 will need to have their va
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; ">Travellers should obtain a positive COVID-19 serology test result from Public Health Preparedness Clinics. Please call in advance to check if the service is available and the cost of the test. <br/><br/>
 The clinics will undertake the necessary administrative work and your vaccination record should appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps within 2 days of the test.
 </td>
-							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; "><p style="background-color:;color:red;"><b>NOTE: The electronic vaccination record accorded via this channel will be valid for only 30 days.</b></p><<br/>
+							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; "><p style=" font-size:16px; color:red; line-height:1.5;"><b>NOTE: The electronic vaccination record accorded via this channel will be valid for only 30 days.</b></p>
 Travellers who intend to remain in Singapore for less than 30 days may show proof of their original vaccination certificate(s) during immigration clearance. 
 The vaccination record should subsequently appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>  apps within 2 days of the test.
 </td>
 		</tr>
 		</tbody>
 			</table>
-	
