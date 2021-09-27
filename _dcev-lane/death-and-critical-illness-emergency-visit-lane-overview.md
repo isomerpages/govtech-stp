@@ -16,7 +16,7 @@ Summarised below is a quick overview of the key lane features and requirements. 
 <tbody>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-Singapore Citizens and PRs (capped at two travellers per eligible case) seeking urgent entry into Singapore to attend to the death or critical medical condition of an immediate family member and are unable to come in via other lanes. </td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Non-Singapore Citizens and Permanent Residents (capped at two travellers per eligible case) who are unable to enter Singapore via a Safe Travel lane, but require urgent entry to attend to the death or critical medical condition of an immediate family member. </td>
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
