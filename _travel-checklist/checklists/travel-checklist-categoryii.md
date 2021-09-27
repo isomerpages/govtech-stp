@@ -1,7 +1,6 @@
 ---
 title: Travel Checklist - Category(II)
 permalink: /travel-checklist/category-2
-third_nav_title: Checklists
 ---
 
 <i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry-requirements will be turned away from Singapore. </i>
