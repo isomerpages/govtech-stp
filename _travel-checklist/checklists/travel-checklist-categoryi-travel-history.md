@@ -22,8 +22,6 @@ Travellers who are fit for travel, i.e. not showing any COVID-19 symptoms, must:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration here</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test, if they are arriving via air (register here), sea or land (register here)</li>
-		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Activate TraceTogether mobile application for use in Singapore</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test, if they are arriving via air (register here), sea or land (register here)</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Activate TraceTogether mobile application for use in Singapore</li>
 </ol>
-
-
