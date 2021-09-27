@@ -116,28 +116,11 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Self-isolation at declared accommodation, pending COVID-19 PCR test result
 			</td>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">
-				<table>
-  <thead>
-    <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Self-isolation/SHN arrangement</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Options</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Airport
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:disc; line-height:1.5">	Own private transport; OR</li>
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:disc; line-height:1.5">GrabSHN, Go-Jek, Ryde, MVL(TADA) [only via mobile application]</li>
-				</ol></td>
-    </tr>
-		    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Land and Sea Checkpoint
-			</td>
-					      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:disc; line-height:1.5">	Own private transport; or the following pre-booked transport:</li></ol>
-								<table>
+      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
+				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
+							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Pre-booked taxi/private hire vehicle from any of the following transport operators:</li>
+				</ol>
+					<table>
   <thead>
     <tr>
  <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
@@ -170,10 +153,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
     </tr>
   </tbody>
   </table>	
-			</td>
-    </tr>
-  </tbody>
-  </table></td>
+	</td>
     </tr>
 		    <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at own accommodation
