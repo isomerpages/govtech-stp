@@ -8,7 +8,7 @@ permalink: /travel-checklist/category-1
 
 This checklist is suitable **only** for travellers with travel and transit history to any Category (I) country/region in the past 21 days before arrival in Singapore. Return to [this menu]() if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
-Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
+Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#x2610;)** for completed activities.
 
 ### Stage 1: Pre-Departure for Singapore
 
