@@ -98,7 +98,7 @@ A verified vaccination status may be required for certain activities in Singapor
 
 From 25 Aug to 17 Sep 2021, ICA had issued tamper-proof vaccination stickers affixed to travellers’ passports to allow visitors to be eligible for the vaccination-differentiated Safe Management Measures. These stickers are only valid till 30 Sep 2021. 
 
-Travellers who arrived in Singapore after 17 Sep 2021 will need to have their vaccination status reflected electronically in their [HealthHub](https://www.healthhub.sg/) or TraceTogether apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
+Travellers who arrived in Singapore after 17 Sep 2021 will need to have their vaccination status reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
 
 <ol style="list-style-type: lower-roman;">
 <li>Be aged 12 and above;</li>
@@ -116,12 +116,11 @@ Travellers who arrived in Singapore after 17 Sep 2021 will need to have their va
 	<tbody>
 		<tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; ">Travellers should obtain a positive COVID-19 serology test result from Public Health Preparedness Clinics. Please call in advance to check if the service is available and the cost of the test. <br/><br/>
-The clinics will undertake the necessary administrative work and your vaccination record should appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and TraceTogether apps within 2 days of the test.
+The clinics will undertake the necessary administrative work and your vaccination record should appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps within 2 days of the test.
 </td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; ">NOTE: The electronic vaccination record accorded via this channel will be valid for only 30 days.<br/><br/>
 Travellers who intend to remain in Singapore for less than 30 days may show proof of their original vaccination certificate(s) during immigration clearance. 
-The vaccination record should subsequently appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and TraceTogether  apps within 2 days of the test.
-
+The vaccination record should subsequently appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>  apps within 2 days of the test.
 </td>
 		</tr>
 		</tbody>
