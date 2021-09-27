@@ -135,7 +135,7 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry).
 
 
-### Stage 5: End of Self-isolation period
+### Stage 5: End of Stay-Home Notice
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
