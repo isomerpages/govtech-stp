@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-3
 
 ### Travel Checklist – Category (III) Travel History
 
-This checklist is suitable **only** for travellers with travel and transit history to any Category (III) country/region in the past 21 days before arrival in Singapore. Return to this menu if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should not refer to this document but refer to the lane specific requirements or refer to their approval letters for instructions. 
+This checklist is suitable **only** for travellers with travel and transit history to any [Category (III) country/region](/shn-and-swab-summary) in the past 21 days before arrival in Singapore. Return to this menu if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should not refer to this document but refer to the lane specific requirements or refer to their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -14,13 +14,13 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the “Travelling to Singapore” page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the [“Travelling to Singapore”](/arriving/overview) page.
 
 &#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region]() in the past 21 consecutive days before departure; or
+- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 21 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
