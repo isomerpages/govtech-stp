@@ -2,3 +2,16 @@
 title: Travel Checklist - Category(I) Travel History
 permalink: /travel-checklist/category-1
 ---
+<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry-requirements will be turned away from Singapore. </i>
+
+### Travel Checklist – Category (I) Travel History
+
+This checklist is suitable **only** for travellers with travel and transit history to any Category (I) country/region in the past 21 days before arrival in Singapore. Return to [this menu]() if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
+
+Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.
+
+### Stage 1: Pre-Departure for Singapore
+
+&#9744;  <i><b>A) Application for Entry Approval</b></i>
+
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the “Travelling to Singapore” page.
