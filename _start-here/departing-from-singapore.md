@@ -34,7 +34,7 @@ Please note that Government-paid swabs are not allowed to be used for the issuan
 
 ##### Notαrise for Digital PDT Certificates
 
-MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. The [list of clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) able to offer digital PDTs will be updated in due course.
+MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. 
 
 **All outbound travellers taking their PCR PDTs in Singapore will receive a digital results certificate, and are required to digitally authenticate and endorse the digital test certificate via <https://www.notarise.gov.sg> before travel.** This ensures that the result and certificate is issued and authenticated by MOH (i.e. it is issued by an approved clinic/lab and has not been tampered with).
 
