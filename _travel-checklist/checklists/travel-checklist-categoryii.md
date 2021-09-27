@@ -117,7 +117,7 @@ Travellers will commute directly to their declared SHN accommodation using their
   </tbody>
   </table>
 	
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. To guarantee a smooth journey, click here for the relevant transport advisories.
+The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. To guarantee a smooth journey, click [here](/health/faq#transport) for the relevant transport advisories.
 
 ### Stage 4: Self-isolation
 
@@ -146,5 +146,3 @@ Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and m
 After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition as a “fully vaccinated traveller”.
-
-
