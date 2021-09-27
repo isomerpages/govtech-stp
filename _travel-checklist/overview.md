@@ -24,12 +24,12 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 ### 2)	Checklist based on 21-day travel and transit history for Safe Travel Lanes not specified above:
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
-	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (I)
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-1">Category (I)</a>
 	</li>
-	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (II)
+	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-2">Category (II)</a>
 		</li> 
-		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (III)
+		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-3">Category (III)</a>
 	</li>
-		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (IV)
+		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-4">Category (IV)</a>
 	</li>
 </ol>
