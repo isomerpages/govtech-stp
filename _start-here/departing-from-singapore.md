@@ -33,7 +33,7 @@ On the day of the PCR test appointment, travellers will be asked to present the 
 
 Please note that Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos.
 
-##### Notαrise for Digital PDT Certificates
+### Digital PDT and Vaccination Certificates
 
 MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. 
 
@@ -41,4 +41,6 @@ MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PD
 
 After using <https://www.notarise.gov.sg>, the QR code of your digitally authenticated and endorsed test certificate will be e-mailed to you within 15 minutes. If you have presented your NRIC at the clinic, the QR code will also be automatically uploaded onto your SingPass mobile app. The QR code can be shown to foreign immigration & customs authorities, who may scan the QR code with any reader (e.g. normal phone camera) to verify the authenticity of the digital certificate.
 
-For FAQs on PDT and health certificates (including PDT and vaccination certs), please click [here](/health/faq#outboundPDT).
+You may also use <https://www.notarise.gov.sg> to generate a digital vaccination certificate if you are fully vaccinated and have a Singpass account.
+
+For FAQs on PDT and vaccination certificates, please click [here](/health/faq#outboundPDT).
