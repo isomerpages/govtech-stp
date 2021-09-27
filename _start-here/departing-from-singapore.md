@@ -12,7 +12,7 @@ Singapore does not impose any mandatory health requirements on travellers for de
 
 Travellers are advised to check with the destination country/region on whether they are required to take a COVID-19 test before departure or present health certificates on arrival. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
-#### Arranging your PDT
+##### Arranging your PDT
 
 Travellers are responsible for ensuring that the test conducted by the clinic meets the testing requirements of the destination country/region. Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time.
 
@@ -32,7 +32,7 @@ On the day of the PCR test appointment, travellers will be asked to present the 
 
 Please note that Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos.
 
-#### Notαrise for Digital PDT Certificates
+##### Notαrise for Digital PDT Certificates
 
 MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. The [list of clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) able to offer digital PDTs will be updated in due course.
 
