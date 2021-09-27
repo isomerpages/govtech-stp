@@ -4,58 +4,40 @@ permalink: /departing/overview
 ---
 Singapore does not impose any mandatory health requirements on travellers for departure to other countries/regions. However, the following is advised:
 - Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories to other countries/regions.
+- Check if you are eligible for special arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as Pre-Departure Tests to be taken.
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary.
 
-### Travellers Departing to Countries/Regions that Require COVID-19 Pre-Departure Test (PDT) or Health Certificates
+### Travellers Departing to Countries/Regions that Require a COVID-19 Pre-Departure Test (PDT) or Health Certificates
 
-Some countries/regions require a Pre-Departure Test (PDT) before travellers depart from Singapore, and may require presentation of health certificates on arrival.
+Travellers are advised to check with the destination country/region on whether they are required to take a COVID-19 test before departure or present health certificates on arrival. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
-For more details on arranging for a PDT, please click [here](/health/covid19-tests/pre-departure-test).
+#### Arranging your PDT
+
+Travellers are responsible for ensuring that the test conducted by the clinic meets the testing requirements of the destination country/region. Travellers should also allocate adequate time to take and receive their test result before departure from Singapore. In general, travellers who present themselves at the clinic less than 38 hours before the scheduled flight may not receive their test results on time.
+
+Any cost incurred for travel-related tests will be borne by the traveller, which the traveller can enquire with the clinic before making an appointment. Government subsidies will not be given for these tests.
+
+To make an appointment, travellers should have the following information ready:
+- Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass Holders only and passport (for all travellers)
+- Departure flight timing (if applicable)
+- Possible times for your test slot
+- Address in Singapore
+- Contact number
+- Email address to receive the result memo
+
+On the day of the PCR test appointment, travellers will be asked to present the following: 
+- Identity card (for Singapore Citizens, Permanent Residents, and Long-Term Pass Holders only and passport (for all travellers)
+- Softcopy booking reference showing your departure flight timing (if applicable)
+- Fees for COVID-19 Pre-Departure Test – Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos
+
+#### Notαrise for Digital PDT Certificates
+
+MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. The [list of clinics](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers) able to offer digital PDTs will be updated in due course.
+
+**All outbound travellers taking their PCR PDTs in Singapore will receive a digital results certificate, and are required to digitally authenticate and endorse the digital test certificate via <https://www.notarise.gov.sg> before travel.** This ensures that the result and certificate is issued and authenticated by MOH (i.e. it is issued by an approved clinic/lab and has not been tampered with).
+
+After using <https://www.notarise.gov.sg>, the QR code of your digitally authenticated and endorsed test certificate will be e-mailed to you within 15 minutes. If you have presented your NRIC at the clinic, the QR code will also be automatically uploaded onto your SingPass mobile app. The QR code can be shown to foreign immigration & customs authorities, who may scan the QR code with any reader (e.g. normal phone camera) to verify the authenticity of the digital certificate.
 
 For FAQs on PDT and health certificates (including PDT and vaccination certs), please click [here](/health/faq#outboundPDT).
 
-### Travel Using Reciprocal Green Lane for Business/Official Travel
-
-Singapore has arranged for Reciprocal Green Lanes (RGLs) with the following countries/regions for short term business and official travel. 
-<table>
-<thead>
-  <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Country/Region</th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">NOTE</th>
-  </tr>
-</thead>
-<tbody>
-    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Mainland China (Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</b></td>
-      <td  rowspan="2" style="text-align:left;border-right:1px solid #D8D8D8;">-</td>
-  </tr>
-	    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Brunei Darussalam</b></td>
-  </tr> 
-   <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Germany </b></td>
-    <td rowspan="6" style="text-align:left;border-right:1px solid #D8D8D8;"><span style="color:red;"><b>For these RGL countries/regions, please check with your overseas sponsors if you are still eligible for RGL travel.</b></span>
-       <p style="margin-top:0px; margin-bottom:0px; font-size:16px;">Click below for press releases regarding RGL suspension for:</p>
-      <ol style="margin-top:0px; margin-bottom:0px;display: none list-style-type:disc;">
-				<!--	<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="http://www.pmo.gov.bn/TAPressRelease/tsca%20-%20190521.pdf">Brunei Darussalam</a></li>-->
-<li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210101-Indon-Entry">Indonesia</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210115-SG-JP-RGL-Suspension">Japan</a></li><li style="margin-top:0px; margin-bottom:0px; font-size:16px;"><a href="https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2021/01/20210130-RGL-Suspension">Germany, Malaysia and the Republic of Korea</a></li>            
-      </ol>
- </td>
-  </tr>
-	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Indonesia</b></td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED" ><b>Japan</b></td>
-  </tr>
-  <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Malaysia</b></td>
-  </tr>
-     <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Republic of Korea</b></td>
-  </tr>
-  </tbody>
-  </table>
-
-These RGLs have specific departure requirements and application processes and more details can be found [here](/rgl/visiting-rgl-counterparts).
