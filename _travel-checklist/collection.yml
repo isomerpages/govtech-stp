@@ -1,4 +1,5 @@
 collections:
   travel-checklist:
     output: true
-    order: []
+    order:
+      - overview.md
