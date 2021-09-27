@@ -126,7 +126,7 @@ A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travel
 - Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
 - Received a negative PCR test result for the test taken on the last day of SHN.
 
-To calculate the estimated SHN end-date, click here for an SHN calculator. Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to [this page](https://sha.org.sg/hotel-accommodation) for the non-exhaustive list of hotels offering SHN-accommodation.
+To calculate the estimated SHN end-date, click [here](/shn-calculator) for an SHN calculator. Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to [this page](https://sha.org.sg/hotel-accommodation) for the non-exhaustive list of hotels offering SHN-accommodation.
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. For more information on SHN-related compliance matters, click [here](/health/shn#shn-compliance-checks).
 
