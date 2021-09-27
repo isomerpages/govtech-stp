@@ -38,4 +38,10 @@ As part of the airline or transport operator’s pre-boarding checks, travellers
 
 ### Stage 3: Arrival in Singapore
 
+&#9744;  <i><b>A) Immigration Clearance</b></i>
 
+Follow the instructions provided by the relevant ground officers and signages on arrival. 
+
+&#9744;  <i><b>B) COVID-19 Tests</b></i>
+
+Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
