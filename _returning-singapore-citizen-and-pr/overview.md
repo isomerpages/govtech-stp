@@ -26,7 +26,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions of Departure</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed</td>
  </tr>
 </tbody>
 <thead>
@@ -36,7 +36,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Process</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" rowspan="5">None; SC/PR do not need an entry approval for entry.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" rowspan="5"><b>None</b>; SC/PR do not need an entry approval for entry.</td>
 </tr>
 </tbody><thead>
 <tr>
