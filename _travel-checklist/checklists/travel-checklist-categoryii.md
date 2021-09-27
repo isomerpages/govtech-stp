@@ -132,17 +132,21 @@ To calculate the estimated SHN end-date, click here for an SHN calculator. Trave
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. For more information on SHN-related compliance matters, click [here](/health/shn#shn-compliance-checks).
 
+&#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
+
+Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry).
+
 
 ### Stage 5: End of Self-isolation period
 
-&#9744;  <i><b>A) Release from self-isolation</b></i>
+&#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-Travellers may only leave their accommodation only after a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+Travellers can leave their SHN accommodation only after the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
 
 Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
-After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After SHN, travellers may go about their activities but must comply with the latest public health measures.This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition as a “fully vaccinated traveller”.
