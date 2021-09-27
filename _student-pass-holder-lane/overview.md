@@ -58,7 +58,10 @@ The table below provides a quick overview of the key STPHL features, requirement
 	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">2 to 5 weeks before the planned date of entry<br/>
 		<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p></td>
 </tr>
-
+<tr>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">7-day travel period (Monday- Sunday) as indicated in the application</td>
+</tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  background-color:#EDEDED;"><b>How and Where To Apply</b></td>
 	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
