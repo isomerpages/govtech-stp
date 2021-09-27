@@ -5,7 +5,7 @@ permalink: /departing/overview
 Singapore does not impose any mandatory health requirements on travellers for departure to other countries/regions. However, the following is advised:
 - Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories to other countries/regions.
 - Check if you are eligible for special travel arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
-- Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests](#PDT) to be taken or vaccination requirements.
+- Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary.
 
 <a id="PDT"></a>
@@ -31,6 +31,7 @@ On the day of the PCR test appointment, travellers will be asked to present the 
 
 Please note that Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos.
 
+<a id="certs"></a>
 ### Digital PDT and Vaccination Certificates
 
 MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. 
