@@ -85,7 +85,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 ##### a) From air/land/sea checkpoints to place of residence
 
-Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup> or pre-0book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
+Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup> or pre-book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
 
 ##### b) From place of residence to testing facilities for scheduled PCR tests
 
