@@ -8,10 +8,22 @@ permalink: /travel-checklist/category-1
 
 This checklist is suitable **only** for travellers with travel and transit history to any Category (I) country/region in the past 21 days before arrival in Singapore. Return to [this menu]() if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
-Travellers may print out this page and indicate with a "&#9745;" in the box (&#9744;) for completed activities.
+Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
 ### Stage 1: Pre-Departure for Singapore
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the “Travelling to Singapore” page.
+
+&#9744;  <i><b>B) Submission of Declarations & Registration/Payment for On-Arrival COVID-19 Test</b></i>
+
+Travellers who are fit for travel, i.e. not showing any COVID-19 symptoms, must:
+
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration here</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test, if they are arriving via air (register here), sea or land (register here)</li>
+		<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Activate TraceTogether mobile application for use in Singapore</li>
+</ol>
+
+
