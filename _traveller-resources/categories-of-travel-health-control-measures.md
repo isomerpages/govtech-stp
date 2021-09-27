@@ -35,6 +35,8 @@ For details on the travel and health-related requirements of the SafeTravel Lane
 
 A step-by-step traveller’s checklist for each travel history category is also available at each row, click the one that fits your travel history.
 
+(Mobile users to scroll right &#9755; for more information)
+
 <table>
 <thead>
 <tr>
