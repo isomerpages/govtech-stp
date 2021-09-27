@@ -5,9 +5,10 @@ permalink: /departing/overview
 Singapore does not impose any mandatory health requirements on travellers for departure to other countries/regions. However, the following is advised:
 - Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories to other countries/regions.
 - Check if you are eligible for special arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>
-- Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as Pre-Departure Tests to be taken or vaccination requirements.
+- Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests](#PDT) to be taken or vaccination requirements.
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary.
 
+<a id="PDT"></a>
 ### Travellers Departing to Countries/Regions that Require a COVID-19 Pre-Departure Test (PDT) or Health Certificates
 
 Travellers are advised to check with the destination country/region on whether they are required to take a COVID-19 test before departure or present health certificates on arrival. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
