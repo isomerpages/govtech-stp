@@ -20,7 +20,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
 
-&#9744;  <i><b>C) Submission of Declarations & Registration/Payment for On-Arrival COVID-19 Test</b></i>
+&#9744;  <i><b>C) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
 
