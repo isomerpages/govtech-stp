@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - death-and-critical-illness-emergency-visit-lane-overview.md
-      - pre-departure-and-entry-guide.md
       - returnees-from-malaysia.md
       - travel-checklist-death-and-critical-illness-emergency-visit-lane.md
