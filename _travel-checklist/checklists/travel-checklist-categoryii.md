@@ -2,7 +2,6 @@
 title: Travel Checklist - Category(II)
 permalink: /travel-checklist/category-2
 ---
-
 <i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry-requirements will be turned away from Singapore. </i>
 
 ### Travel Checklist – Category (II) Travel History
@@ -15,7 +14,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the “Travelling to Singapore” page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the [“Travelling to Singapore”](/arriving/overview) page.
 
 &#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
