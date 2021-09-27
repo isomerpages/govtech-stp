@@ -4,8 +4,8 @@ permalink: /health/vtsg
 ---
 Travellers may be required to be fully vaccinated with WHO Emergency Use Listing (EUL) COVID-19 vaccines in order to be eligible for certain travel lanes to travel to Singapore, and domestic health measures requiring vaccinated status. This page outlines:
 
-- [Vaccinations accepted by Singapore]()
-- [How to obtain vaccinated status for activities within Singapore](#acceptedvaccines)
+- [Vaccinations accepted by Singapore](#acceptedvaccines)
+- [How to obtain vaccinated status for activities within Singapore](#VDSMM)
 
 <div id="acceptedvaccines"></div>
 
@@ -88,4 +88,9 @@ If you do not meet any of the above requirements, you are <b>not</b> considered 
 
 If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE](/arriving/overview) and indicate your vaccination status accordingly on the online tool.
 
+
+<div id="VDSMM"></div>
+
+
 ### Obtaining Vaccinated Status for Activities Within Singapore
+
