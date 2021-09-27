@@ -81,7 +81,9 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?
+#### 1. I have been placed on self-isolation / 7-day Stay Home Notice. What are the commuting/transport-related rules I should take note of in Singapore?
+
+<!--What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?-->
 
 ##### a) From air/land/sea checkpoints to place of residence
 
