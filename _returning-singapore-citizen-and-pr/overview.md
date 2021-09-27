@@ -16,7 +16,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 <tbody>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Singapore Citizens (SC) and Singapore Permanent Residents (PR)<br><br>PR In-Principle Approval holders are ineligible for travel via this lane, and should apply for entry under the <a href="https://safetravel.ica.gov.sg/scpr-familial-ties-lane/requirements-and-process">Familial Ties Lane</a> instead.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Singapore Citizens (SC) and Singapore Permanent Residents (PR)</td>
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
@@ -26,20 +26,8 @@ This table summarises the key lane features and requirements for SCs and PRs ret
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Countries/Regions of Departure</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All countries/regions allowed.</td>
  </tr>
-   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore</u>. To view the latest travel-policy announcements, click <a href="/news-and-media/press-releases/">here</a>.<br>
-
-<p style="font-size:16px; line-height: 1.5;"><a href="/sc-pr/shn-and-swab-summary">CLICK HERE</a> to review the latest travel health measures, which depend on your travel history in the past consecutive 21 days before entering Singapore. For SC/PRs who are returning via the VTL, <a href="/sc-pr/vtl">click here</a> instead.</p>
-	
-<p style="font-size:16px; line-height:1.0;">For more information on the specific travel measures including their costs, click on the links below:</p>
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 Tests</a> (e.g. COVID-19 Polymerase Chain Reaction Test, Antigen Rapid Test)</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://safetravel.ica.gov.sg/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
-</ol>
-</td>
- </tr>
-</tbody><thead>
+</tbody>
+<thead>
 <tr>
 <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
 </tr>
