@@ -91,3 +91,29 @@ The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibi
   </table>
 	
 To guarantee a smooth journey, click [here](/health/faq#transport) for the relevant transport advisories.
+
+### Stage 4: Self-isolation
+
+&#9744;  <i><b>A) Serve self-isolation period</b></i>
+
+Travellers may self-isolate in the following accommodations:
+- Place of residence; or 
+- Hotel of choice.
+
+Travellers without a suitable place of residence may [self-isolate](https://sha.org.sg/air-travel-pass) at a hotel found in this non-exhaustive list. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving their accommodations.
+
+### Stage 5: End of Self-isolation period
+
+&#9744;  <i><b>A) Release from self-isolation</b></i>
+
+Travellers may only leave their accommodation only after a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+
+Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
+
+&#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
+
+After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition as a “fully vaccinated traveller”.
+
+
