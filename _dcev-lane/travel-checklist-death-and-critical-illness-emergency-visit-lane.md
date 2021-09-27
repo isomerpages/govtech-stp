@@ -10,15 +10,15 @@ This checklist is suitable only for travellers who have been approved for entry 
 
 Given the nature of the visit, arrangements will be made to allow travellers to make short and safe visits to the medical facility and/or funeral. Otherwise, scroll-down or click on the links for health-related protocols applicable based on the relevant stage of your journey.
 
-Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
+Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#x2610;)** for completed activities.
 
 ### Stage 1: Pre-Departure for Singapore
 
-&#9744;  <i><b>A) Application for Entry Approval</b></i>
+&#x2610;  <i><b>A) Application for Entry Approval</b></i>
 
 All travellers, except Singapore Citizens and Permanent Residents, must write to Safe Travel Office with the relevant supporting documents for approval to enter Singapore via DCEV. Click [here](/dcev/overview) for more details.
 
-&#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
+&#x2610; <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
@@ -32,7 +32,7 @@ Travellers are required to take their PDT at an [accredited or authorised testin
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office [here](/contact-us).
 
-&#9744;  <i><b>C) Submission of Health Declaration</b></i>
+&#x2610;  <i><b>C) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an[SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
 
@@ -42,7 +42,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an[SG Arriv
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 14 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#x2610;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
 If (C), above, is in order, travellers who are fit for travel should:
 
@@ -54,11 +54,11 @@ If (C), above, is in order, travellers who are fit for travel should:
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
-&#9744;  <i><b>E) Application for Entry Visas</b></i>
+&#x2610;  <i><b>E) Application for Entry Visas</b></i>
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
 
-&#9744;  <i><b>F) TraceTogether Registration</b></i>
+&#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
 Travellers must download and create a user profile on the [TraceTogether app](https://www.tracetogether.gov.sg/) on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aiding contact tracing. 
 
@@ -67,7 +67,7 @@ Children who are aged 6 years or below in this calendar year are exempted from t
 
 ### Stage 2: Departure for Singapore
 
-&#9744;  <i><b>A) Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
+&#x2610;  <i><b>A) Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
 
@@ -81,7 +81,7 @@ Travellers without the above may be denied boarding. Travellers who are exempted
 
 ### Stage 3: Arrival in Singapore
 
-&#9744;  <i><b>A) Immigration Clearance</b></i>
+&#x2610;  <i><b>A) Immigration Clearance</b></i>
 
 Follow the instructions of the ground staff and signage on arrival. 
 
@@ -96,11 +96,11 @@ Travellers will be asked to produce the following documents as part of the immig
 	
 Travellers with a 21-day travel history to any [Category (II) to (IV) country/region](/shn-and-swab-summary) will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
 
-&#9744;  <i><b>B) COVID-19 Tests</b></i>
+&#x2610; <i><b>B) COVID-19 Tests</b></i>
 
 Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
-&#9744;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
+&#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 
 Depending on your travel history, you may be required to self-isolate or serve a Stay Home Notice.
 
@@ -202,7 +202,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 	
 ### Stage 4: Self-Isolation, Stay-Home Notice and COVID-19 Tests
 
-&#9744;  <i><b>A) Serve Self-isolation / Stay-Home Notice (SHN))</b></i>
+&#x2610;  <i><b>A) Serve Self-isolation / Stay-Home Notice (SHN))</b></i>
 
 SHN-serving travellers will be required to take additional COVID-19 tests during the SHN period. Where applicable, the test requirements will be communicated to the traveller.
 
@@ -210,7 +210,7 @@ Travellers who wish to leave their self-isolation/SHN accommodation, or SDF for 
 
 Travellers who test positive for [COVID-19](/health/covid19-symptoms) will receive the necessary [medical treatment](/health/covidtreatment), and the prevailing treatment charges would apply.
 
-&#9744;  <i><b>B) Visits to Medical Facility / Funeral</b></i>
+&#x2610; <i><b>B) Visits to Medical Facility / Funeral</b></i>
 
 For travellers who received approval to leave their SHN location for short visitations (details of visitation conditions will be conveyed to the travellers separately), the following transport arrangements apply:
 - **Travellers who are serving SHN at SDFs** are to make transport arrangements at their own cost from Strides Transportation Pte Ltd. Refer to Stage 3C above, for details.
@@ -219,11 +219,11 @@ For travellers who received approval to leave their SHN location for short visit
 
 ### Stage 5: End of Stay-Home Notice
 
-&#9744;  <i><b>A1) Early release from Stay-Home Notice(SHN) (if applicable)</b></i>
+&#x2610;  <i><b>A1) Early release from Stay-Home Notice(SHN) (if applicable)</b></i>
 
 Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, Please submit a request via [this form](https://go.gov.sg/sto-enquiry), with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
 
-&#9744;  <i><b>A2)Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
+&#x2610; <i><b>A2)Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
 
 Travellers can leave their self-isolation/SHN accommodation only if their final COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).
 
@@ -231,7 +231,7 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timi
 
 Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). Prevailing treatment charges will apply.
 
-&#9744;  <i><b>B) Prevailing COVID-19 measures in Singapore</b></i>
+&#x2610;  <i><b>B) Prevailing COVID-19 measures in Singapore</b></i>
 
 After SHN, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether](https://www.tracetogether.gov.sg/) app, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the [Ministry of Health website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
