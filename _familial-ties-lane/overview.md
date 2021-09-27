@@ -77,7 +77,24 @@ The table below is a quick overview of the key FTL features and requirements.
 <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Traveller Resources</b></th>
 </tr>
 </thead>
-<tbody><tr>
+<tbody>
+	<tr>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 21-day travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/scpr-familial-ties-lane/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
+</tr>
+<tr>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">These checklists provide a step-by-step guide to help the traveller prepare for the various administrative and travel/health-realted protocols that the traveller wil be subject to <b>before and during the traveller's stay</b> in Singapore:
+<ol style="margin-top:0px; list-style-type: disc;">
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (I) travel history</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (II) travel history</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (III) travel history</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (IV) travel history</a></li>
+</ol>
+<p style="font-size:16px; line-height:1.5;">Please read only after determining the <a href="/sc-pr/shn-and-swab-summary">travel health control measures</a> (as per row above) the traveller will be subject to.</p>
+	</td>
+</tr>
+	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
