@@ -41,6 +41,6 @@ MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PD
 
 After using <https://www.notarise.gov.sg>, the QR code of your digitally authenticated and endorsed test certificate will be e-mailed to you within 15 minutes. If you have presented your NRIC at the clinic, the QR code will also be automatically uploaded onto your SingPass mobile app. The QR code can be shown to foreign immigration & customs authorities, who may scan the QR code with any reader (e.g. normal phone camera) to verify the authenticity of the digital certificate.
 
-You may also use <https://www.notarise.gov.sg> to generate a digital vaccination certificate if you are fully vaccinated and have a Singpass account.
+If necessary, you may also use <https://www.notarise.gov.sg> to generate a digital vaccination certificate if you are fully vaccinated and have a Singpass account.
 
 For FAQs on PDT and vaccination certificates, please click [here](/health/faq#outboundPDT).
