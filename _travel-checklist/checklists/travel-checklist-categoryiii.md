@@ -30,25 +30,37 @@ Travellers are required to take their PDT at an [accredited or authorised testin
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office [here](/contact-us).
 
-&#9744;  <i><b>C) Submission of Declarations & Registration/Payment for On-Arrival COVID-19 Test</b></i>
+&#9744;  <i><b>C) Submission of Health Declaration</b></i>
 
-Travellers who are fit for travel, i.e. not showing any COVID-19 symptoms, must:
+Up to 72 hours before arrival in Singapore, travellers should submit an[SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test, if they are arriving via air (<a href="https://safetravel.changiairport.com/#/">register here</a>), sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register here</a>)</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Activate <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> mobile application for use in Singapore</li>
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 21 days before departing for Singapore; or</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 14 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>D) Application for Entry Visas</b></i>
+&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+
+If (C), above, is in order, travellers who are fit for travel should:
+
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Submit an SG Arrival Card (SGAC) with their pre-trip health and travel history declaration <a href="https://eservices.ica.gov.sg/sgarrivalcard/">here</a><ol style="font-size:18px; list-style-type:disc;">
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/">register and pay here</a>)</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register and pay here</a>)</li>
+			</ol></li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
+</ol>
+
+&#9744;  <i><b>E) Application for Entry Visas</b></i>
 
 Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
 
-&#9744;  <i><b>E) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
+&#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
 
 Travellers will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Designated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
 
-Exceptions to the norm, however, will be considered for specified groups of travellers. Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, will be considered for special cases below. Unless otherwise indicated, all applications must be submitted **at least three working days before arrival** in Singapore.
+Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, will be considered for special cases below. Unless otherwise indicated, all applications must be submitted **at least three working days before arrival** in Singapore.
 
 <table>
   <thead>
