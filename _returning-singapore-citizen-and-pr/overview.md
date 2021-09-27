@@ -2,7 +2,9 @@
 title: Overview
 permalink: /sc-pr/overview
 ---
-Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore <b>without</b> the need to apply for an entry approval. PR-In-Principle Approval holders, however, must apply for an entry approval under the [Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process). Non- SC/PR family members of SC/PRs are also required to apply for an entry approval via a suitable Safe Travel Lane. To identify a suitable SafeTravel Lane, please return to [this menu](/arriving/overview).
+*Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore <b>without</b> the need to apply for an entry approval. PR-In-Principle Approval holders, however, must apply for an entry approval under the [Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process). *
+
+*Non- SC/PR family members of SC/PRs are required to apply for  entry approval via a suitable [Safe Travel Lane](/arriving/overview). *
 
 ---
 This table summarises the key lane features and requirements for SCs and PRs returning to Singapore. 
