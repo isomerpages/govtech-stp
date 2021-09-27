@@ -2,9 +2,7 @@
 title: Overview
 permalink: /sc-pr/overview
 ---
-<i>This page provides an overview of entry requirements for all returning Singapore Citizens (SC) / Permanent Residents (PR), regardless of vaccination status. Returning SC/PRs who are fully vaccinated and are returning from **Brunei and Germany** should refer to the <a href="/sc-pr/vtl">Vaccinated Travel Lane (VTL) </a> page instead for more information. </i>
-	
-<i>Non-SC/PRs, including those who are returning to Singapore with an SC/PR family member will require an Entry Approval and should refer to <a href="/arriving/overview">this page</a> for the available Safe Travel options.</i>
+Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore <b>without</b> the need to apply for an entry approval. PR-In-Principle Approval holders, however, must apply for an entry approval under the [Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process)). Non- SC/PR family members of SC/PRs are also required to apply for an entry approval via a suitable Safe Travel Lane. To identify a suitable SafeTravel Lane, please return to [this menu](/arriving/overview).
 
 ---
 This table summarises the key lane features and requirements for SCs and PRs returning to Singapore. 
