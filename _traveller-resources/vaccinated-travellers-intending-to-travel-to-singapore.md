@@ -100,6 +100,8 @@ From 25 Aug to 17 Sep 2021, ICA had issued tamper-proof vaccination stickers aff
 
 Travellers who arrived in Singapore after 17 Sep 2021 will need to have their vaccination status reflected electronically in their HealthHub or TraceTogether apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
 
-(i)	Be aged 12 and above;<br/>
-(ii)	Be fully vaccinated overseas with any vaccines approved under the WHO EUL; and<br/>
-(iii)	Bring along the original overseas vaccination document that is in English or translated to English by a translation service provider, embassy or notary public
+<ol style="list-style-type: lower-roman;">
+<li>Be aged 12 and above;</li>
+<li>Be fully vaccinated overseas with any vaccines approved under the WHO EUL; and</li>
+<li>Bring along the original overseas vaccination document that is in English or translated to English by a translation service provider, embassy or notary public</li>
+	</ol>
