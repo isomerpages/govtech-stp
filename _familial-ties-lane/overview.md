@@ -2,10 +2,12 @@
 title: Overview
 permalink: /scpr-familial-ties-lane/overview
 ---
-The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/requirements-and-process) for more information. Travellers who are fully vaccinated and are returning from Brunei and Germany from 8 Sep 2021 onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
+The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. 
 
-The table below is a quick overview of the key FTL features and requirements. Travellers and applicants who have been approved to travel to Singapore via the FTL should refer to [this page](/scpr-familial-ties-lane/requirements-and-process) for the full entry process. Travellers who are not eligible for entry via the FTL may return to [this menu](/arriving/overview) to explore other Safe Travel options.
+SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/requirements-and-process) for more information. If you are ineligible for entry via FTL, return to this menu to explore other Safe Travel Lane options.
 
+---
+The table below is a quick overview of the key FTL features and requirements.
 <table>
 <thead>
 <tr>
@@ -29,20 +31,11 @@ The table below is a quick overview of the key FTL features and requirements. Tr
 			 </td>
 	</tr>
    <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-		  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Reunite with SC/PR family in Singapore </li>
-				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Complete long-term immigration facilities</li>
-					</ol>
-		 </td>
- </tr>
-   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">For new entry applications, approvals have been reduced for travellers with a travel history to all higher-risk countries/regions(i.e. all countries/regions, except countries/regions listed in Category (I) and (II) of the table <a href="/scpr-familial-ties-lane/shn-and-swab-summary">here</a></p>
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Applications are allowed for travellers from all countries/regions, <b>except</b> those who have travel or transit history to the following countries in the past 21 days before arriving in Singapore:
-			 </p><ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed except travellers whose 21-day travel and transit history before arrival in Singapore includes any of the following countries:</p><br/>
+
+<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
 				 		 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Myanmar</li>
