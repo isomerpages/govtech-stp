@@ -81,16 +81,17 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?
+#### 1. I have been placed on self-isolation / 7-day Stay Home Notice. What are the commuting/transport-related rules I should take note of in Singapore?
+
+<!--What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?-->
 
 ##### a) From air/land/sea checkpoints to place of residence
 
-Travellers arranging transport <u>from the airport to their place of residence</u>, may only use their own private vehicle, or book private hire vehicles (row 6 of the table below). <br><br>In all other cases, travellers may use their own private vehicle <sup>[See Note (i)]</sup> or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
+Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup> or pre-book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
 
 ##### b) From place of residence to testing facilities for scheduled PCR tests
 
-Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-book a taxi/private hire car <sup>[See Note (ii)]</sup> in <a href="#table1">Table 1</a> below.
-
+Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup>, or pre-book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup>  in <a href="#table1">Table 1</a> below.
 
 <p id="table1" style="font-size: 20px;"><b>Table 1: Transport service providers and contact details for travellers on 7-day SHN</b></p>
 	
@@ -136,9 +137,12 @@ Travellers may use their own private vehicle <sup>[See Note (i)]</sup>, or pre-b
 	
 
 ##### **Note:**
+
+<div id="note1"></div>
 	
-(i) <u><b>If you are using your own transport</b></u><br><br/>
-The traveller must be transported directly to their declared place of accommodation by only one family member from the same household. The vehicle used should not be a rented vehicle or from a car-sharing service. 
+(i) <u><b>If you are using your own transport</b></u>
+
+Travellers may be picked up from the airport by an authorised hotel and transport service representative/ family member/ friend in a private vehicle. In all other situations, the traveller may only be picked up by a family member from the same household. There should not be more than one person picking the traveller up and the traveller must be transported directly to their declared place of accommodation.
 
 If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
@@ -151,8 +155,15 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
-(ii) <u><b>Booking taxi/private-hire vehicles</b></u><br><br>
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.<br><br>Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
+Travellers are not to take public transport (e.g. MRT, public bus)
+
+<div id="note2"></div>
+
+(ii) <u><b>Booking taxi/private-hire vehicles</b></u>
+
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+
+Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
 <div id="transportQ3"></div>
 
