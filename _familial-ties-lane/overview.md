@@ -46,17 +46,6 @@ The table below is a quick overview of the key FTL features and requirements.
 			 <p></p>			 
 		 </td>
  </tr>
-   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-	<p style="font-size:16px; line-height: 1.5;"><a href="/scpr-familial-ties-lane/shn-and-swab-summary">Click here</a> to review the latest travel health measures imposed on all travellers based on their travel history. For more information on the specific measures including their costs, click on the links below:</p>
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Tests</a> ("PCR Test")</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
-</ol>
-			 <p style="font-size:16px; line-height: 1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore.  </u> To view the latest travel-policy announcements, click <a href="/news-and-media/press-releases/">here.</a> </p>
-</td>
- </tr>
 </tbody><thead>
 <tr>
 <th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Application Process</b></th>
@@ -64,12 +53,14 @@ The table below is a quick overview of the key FTL features and requirements.
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR family member with Singpass to apply on behalf of the traveller
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR with a Singpass account to apply on behalf of the traveller
 </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">4 to 33 days from the date of application (30-day window period)</td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">4 to 33 days from the date of application (30-day window period)
+<p style="font-size:16px;">&#9888; Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</p>
+	</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Entry Period</b></td>
