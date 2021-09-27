@@ -129,15 +129,16 @@ The table below provides a quick overview of the key STPHL features, requirement
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (III) travel history</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="">Category (IV) travel history</a></li>
 </ol>
-<p style="font-size:16px; line-height:1.5;">Please read only after determining the <a href="/scpr-familial-ties-lane/shn-and-swab-summary">travel health control measures</a> (as per row above) the traveller will be subject to.</p>
+<p style="font-size:16px; line-height:1.5;">Please read only after determining the <a href="/stpl/shn-and-swab-summary">travel health control measures</a> (as per row above) the traveller will be subject to.</p>
 	</td>
 </tr>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;"><p style="font-size:16px; line-height: 1.5;">Click <a href="/stpl/faq">here</a> for the FAQ related to STPHL, or click the links below for specific queries on the following topics:</p>
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Who are "<a href="/health/vtsg">fully vaccinated travellers </a>"?</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">Vaccination Stickers for WHO EUL Vaccinated travellers </a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">SDF issues</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">COVID-19 PCR test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul>	
 <p style="font-size:16px; line-height: 1.5;">Click <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on Visas and Visit Pass validity, <a href="https://www.ica.gov.sg/reside/STP/apply">here</a> for information on Student’s Passes, or <a href="https://www.ica.gov.sg/enter-depart/extend_short_stay">here</a> for information on short-term passes.</p>
  </td>
