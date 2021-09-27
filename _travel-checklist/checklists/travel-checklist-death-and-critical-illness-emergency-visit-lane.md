@@ -207,76 +207,30 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 				</td></tr>
   </tbody>
   </table>
+	
+	
+### Stage 4: Self-Isolation, Stay-Home Notice and COVID-19 Tests
 
+&#9744;  <i><b>A) Serve Self-isolation / Stay-Home Notice (SHN))</b></i>
 
+SHN-serving travellers will be required to take additional COVID-19 tests during the SHN period. Where applicable, the test requirements will be communicated to the traveller.
 
+Travellers who wish to leave their self-isolation/SHN accommodation, or SDF for facilitated visits to funerals/wakes or hospitals must have a negative PCR result within the last 72 hours of the visit, or a negative ART result before they can leave their SHN/SDF location. The cost of the tests will be borne by the travellers and paid directly to the test providers. Those who are unable to comply with the pre-visiting testing requirement will not be allowed to leave their SHN/SDF location.
 
-&#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
+Travellers who test positive for [COVID-19](/health/covid19-symptoms) will receive the necessary [medical treatment](/health/covidtreatment), and the prevailing treatment charges would apply.
 
-A 14-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
+&#9744;  <i><b>B) Visits to Medical Facility / Funeral</b></i>
 
-&#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
+For travellers who received approval to leave their SHN location for short visitations (details of visitation conditions will be conveyed to the travellers separately), the following transport arrangements apply:
+- **Travellers who are serving SHN at SDFs** are to make transport arrangements at their own cost from Strides Transportation Pte Ltd. Refer to Stage 3C above, for details.
+- **Travellers who are serving SHN at other SHN location**s (i.e. self-sourced accommodation, place of residence) may self-drive using their own private vehicles or be driven by the same family member who picked them up from the airport. These travellers may also book private hire vehicles. Refer to Stage 3C above for details.
 
-Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at SHN dedicated facilities will take the government-provided transport. Travellers are disallowed to take public transport (e.g. trains, buses, street-hailed taxis).
-
-For those have been approved to serve SHN at their own accommodation, a transport booking must be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
-
-<table>
-  <thead>
-    <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost ($SGD; Excludes 10% credit card charge)</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
-				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
-				</ol>
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc <b>round trips</b> approved by the relevant authoritiesb</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc <b>single trip</b> approved by the relevant authorities</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
-    </tr>
-  </tbody>
-  </table>
-
-
-### Stage 4: Stay-Home Notice and COVID-19 Tests
-
-&#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
-
-A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers must remain in the SHN accommodation for the period specified in their SHN, unless they have/have been:
--Directed by the relevant authorities to do so;
-- Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
-- Received a negative PCR test result for the test taken on the last day of SHN.
-
-To calculate the estimated SHN end-date, click [here](/shn-calculator) for an SHN calculator.
-
-During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. For more information on SHN-related compliance matters, click [here](/health/shn#shn-compliance-checks).
-
-&#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
-
-**All** Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry).
-
-Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
 
 ### Stage 5: End of Stay-Home Notice
 
-&#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
+&#9744;  <i><b>A) Early release from Stay-Home Notice(SHN) (if applicable)</b></i>
 
-Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
-
-For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
-
-Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
+Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, Please submit a request via [this form](https://go.gov.sg/sto-enquiry), with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
