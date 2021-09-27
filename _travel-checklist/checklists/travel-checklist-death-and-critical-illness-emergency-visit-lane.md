@@ -54,40 +54,36 @@ Travellers must download and create a user profile on the [TraceTogether app](ht
 Children who are aged 6 years or below in this calendar year are exempted from this requirement. Travellers who are unable to download the mobile application due to a certified disability or special need, will receive a TraceTogether token on arrival in Singapore. For more details on the use of TraceTogether, click [here](/health/tt-for-travellers).
 
 
-<table>
-  <thead>
-    <tr>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Conditions</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Application</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Click Here</a></td>
-    </tr>
-  </tbody>
-  </table>
-
-Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
-
 ### Stage 2: Departure for Singapore
 
-&#9744;  <i><b>A) Pre-boarding Document Checks</b></i>
+&#9744;  <i><b>A) Pre-boarding Document Checks (for travellers arriving by air or sea)</b></i>
 
 As part of the airline or transport operator’s pre-boarding checks, travellers may be asked for the following:
-- Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and
-- Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result
 
-Travellers without the above may be denied boarding.
+<ul style="list-style-type:lower-roman;">
+<li>Entry approval letter (only for travellers who are not a Singapore Citizen or Permanent Resident); and</li>
+<li>	Valid Pre-Departure COVID-19 Polymerase Chain Reaction test (PDT) showing a negative COVID-19 result (if required)</li>
+</ul>
+
+Travellers without the above may be denied boarding. Travellers who are exempted from (ii) should produce their proof of exemption to the transport operator instead.
 
 
 ### Stage 3: Arrival in Singapore
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
-Follow the instructions provided by the relevant ground officers and signages on arrival. 
+Follow the instructions of the ground staff and signage on arrival. 
 
-As part of immigration clearance, travellers will be asked for their PDT report showing a negative COVID-19 result. Failing which, they may be turned away, and/or have their entry/re-entry or work-related permits and passes cancelled. Singapore Citizens entering Singapore via the Causeway or Second Link from Malaysia are exempted from having to produce a PDT report.
+Travellers will be asked to produce the following documents as part of the immigration clearance process:
+
+<ul style="list-style-type:lower-roman;">
+		<li>Negative PDT report, if required</li>
+	<li>	Valid entry approval letter (electronic or physical copy)</li>
+	<li>Valid visa (only visa-required passport holders)</li>
+	<li>	A mobile device with the TraceTogether app downloaded and with a registered user profile</li>
+	</ul>
+	
+Travellers with a 21-day travel history to any [Category (II) to (IV) country/region](/shn-and-swab-summary) will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
 
 &#9744;  <i><b>B) COVID-19 Tests</b></i>
 
