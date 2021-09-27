@@ -32,7 +32,7 @@ On the day of the PCR test appointment, travellers will be asked to present the 
 Please note that Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos.
 
 <a id="certs"></a>
-### Digital PDT and Vaccination Certificates
+### Digital PDT and Vaccination Certificates 
 
 MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PDT) results issued by clinics be issued in the form of a digital certificate compliant with the HealthCerts schema and standards. 
 
