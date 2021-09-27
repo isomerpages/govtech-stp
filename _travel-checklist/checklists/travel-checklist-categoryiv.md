@@ -132,9 +132,9 @@ For those have been approved to serve SHN at their own accommodation, a transpor
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
 A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers must remain in the SHN accommodation for the period specified in their SHN, unless they have/have been:
-- Directed by the relevant authorities to do so;
-- Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
-- Received a negative PCR test result for the test taken on the last day of SHN.
+-Are directed by the relevant authorities to do so;
+- Are Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
+- Have received a negative PCR test result for the test taken on the last day of SHN.
 
 To calculate the estimated SHN end-date, click [here](/shn-calculator) for an SHN calculator.
 
@@ -142,19 +142,15 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
-Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry).
+**All** Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry).
 
-Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they:
-- Are a fully vaccinated traveller with a 21-day travel history to any Category (I) to (III) country/region; **AND**
-- Been approved to complete their SHN in their residence or accommodation of choice.
+Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
 
-Travellers who are serving SHN at their own place of residence must use Strides to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
-
-### Stage 5: End of Self-isolation period
+### Stage 5: End of Stay-Home Notice
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-Travellers can leave their SHN accommodation only after the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
 
 For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
