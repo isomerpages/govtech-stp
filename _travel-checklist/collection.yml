@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - checklists/.keep
+      - checklists/travel-checklist-categoryi-travel-history.md
       - overview.md
