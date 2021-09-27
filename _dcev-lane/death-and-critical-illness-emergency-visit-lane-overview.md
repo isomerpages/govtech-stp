@@ -86,7 +86,7 @@ For issues related to Visa or Visit Pass validity, please visit the <a href="htt
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Need help?</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">If your questions are not addressed by the FAQs above, please <a href="https://go.gov.sg/sto-enquiry">contact us</a>.
+<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Have a question that is not addressed by any of the available resources found in this webpage?<br/><a href="https://go.gov.sg/sto-enquiry">Contact us here</a>.
  </td>
 </tr>
 </tbody>
