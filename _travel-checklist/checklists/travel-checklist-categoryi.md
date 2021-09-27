@@ -2,7 +2,6 @@
 title: Travel Checklist - Category(I)
 permalink: /travel-checklist/category-1
 ---
-
 <i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry-requirements will be turned away from Singapore. </i>
 
 ### Travel Checklist – Category (I) Travel History
@@ -107,14 +106,12 @@ Travellers without a suitable place of residence may [self-isolate](https://sha.
 
 &#9744;  <i><b>A) Release from self-isolation</b></i>
 
-Travellers may only leave their accommodation only after a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+Travellers may only leave their accommodation only **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices). 
 
 Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
-After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After self-isolation, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition as a “fully vaccinated traveller”.
-
-
