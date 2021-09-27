@@ -2,7 +2,7 @@
 title: Overview
 permalink: /stpl/overview
 ---
-The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative or fiancé/fiancée, should apply for entry via the [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview). Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the [Work Pass Holder General Lane](/wphl/overview). Travellers who are fully vaccinated and are returning from Brunei and Germany from <b>8 Sep 2021</b> onwards, should refer to the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) for more information.
+The Student’s Pass Holder Lane (STPHL) is a Safe Travel lane that facilitates the entry of Student’s Pass (STP) holders and their eligible family members into Singapore. STP holders who are related to a Singapore Citizen or Permanent Resident (SC/PR), e.g. immediate family member, relative or fiancé/fiancée, should apply for entry via the [Familial Ties Lane](/scpr-familial-ties-lane/overview). Foreign students holding a Dependent’s Pass and family members holding MOM-issued passes should apply for entry via the [Work Pass Holder General Lane](/wphl/overview).
 
 The table below provides a quick overview of the key STPHL features, requirements as well as application and entry instructions. Travellers who are not eligible for entry via the STPHL may return to [this menu](/arriving/overview) to explore other Safe Travel options.
 
@@ -29,23 +29,10 @@ The table below provides a quick overview of the key STPHL features, requirement
 			 </td>
 	</tr>
    <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-		  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Education purpose</li>
-				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Fulfil academic obligation</li>
-					</ol>
-		 </td>
- </tr>
-   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">For <u><b>new entry applications</b></u>, travellers should note that entry approvals have been reduced for travellers with a travel history to all higher-risk countries/regions (i.e. all countries/regions, except countries/regions listed in Category (I) and (II) of the table <a href="/stpl/shn-and-swab-summary">here</a>).
-			 </p>
-			 <p></p>
-<p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Travellers who are unable to secure their desired period of entry in the SafeTravel application portal are advised to check for new entry periods the following week, or defer their travels until the situation has stabilised. <a href="/health/vtsg">fully vaccinated travellers</a> who are entering Singapore from Brunei or Germany from 8 Sep 2021 onwards could consider visiting Singapore via the <a href="/vtl/requirements-and-process">Vaccinated Travel Lane (VTL).</a></p>
-	<p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">For <u><b>approved entry applications</b></u>, travellers must not visit or transit via any of the following countries/regions in the past 21 days before departing for Singapore, or they will be turned away:
-	</p><ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed <b>except</b> travellers whose 21-day travel and transit history before arrival in Singapore includes any of the following countries:</p>
+<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
 				 		 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Myanmar</li>
@@ -55,17 +42,6 @@ The table below provides a quick overview of the key STPHL features, requirement
 					</ol>
 	<p></p>
 		 </td>
- </tr>
-   <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-		 <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-	<p style="font-size:16px; line-height: 1.5;"><a href="/stpl/shn-and-swab-summary">Click here</a> to review the latest travel health measures imposed on all travellers based on their travel history. For more information on the specific measures including their costs, click on the links below:</p>
-<ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction Tests</a> ("PCR Test")</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/shn/sdf">Stay-Home Notice</a> (SHN), which may be served in an <a href="/health/shn/sdf">SHN-Dedicated Facility</a> (SDF)</li>
-</ol>
-			 <p style="font-size:16px; line-height: 1.5;"><u>All health measures imposed will take immediate effect upon the traveller’s arrival in Singapore.</u> To view the latest travel-policy announcements, click <a href="/news-and-media/press-releases/">here.</a> </p>
-</td>
  </tr>
 </tbody><thead>
 <tr>
@@ -79,8 +55,10 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">2 to 5 weeks before the planned date of entry</td>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">2 to 5 weeks before the planned date of entry<br/>
+		<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p></td>
 </tr>
+
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  background-color:#EDEDED;"><b>How and Where To Apply</b></td>
 	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
