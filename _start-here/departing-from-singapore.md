@@ -9,9 +9,9 @@ Singapore does not impose any mandatory health requirements on travellers for de
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary.
 
 <a id="PDT"></a>
-### Procedure for taking a COVID-19 Pre-Departure Test (if required by destination country/region)
+### COVID-19 Pre-Departure Test (if required by destination country/region)
 
-Travellers are advised to check with the destination country/region on whether they are required to take a COVID-19 test before departure or present health certificates on arrival. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
+Travellers are advised to check with the authorities of their destination country/region on whether they are required to take a COVID-19 test before departure, or present health certificates on arrival. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of these clinics [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
 
 ##### Arranging your PDT
 
