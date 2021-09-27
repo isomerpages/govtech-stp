@@ -79,8 +79,7 @@ Aside from selecting “<i>Appeal for entry into Singapore under Compassionate R
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#payments">Payments and refunds</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#shnsdf">SDF issues</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/faq#pcrtest">COVID-19 PCR test</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Who are "<a href="/health/vtsg">fully vaccinated travellers</a>"?</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">Vaccination Stickers for WHO EUL Vaccinated travellers </a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul><br>
 For issues related to Visa or Visit Pass validity, please visit the <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">ICA webpage</a> for more information.
  </td>
