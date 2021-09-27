@@ -17,7 +17,7 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/rgl/overview">Reciprocal Green Lane</a>
 	</li>
-		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/dcev/entryguide">Death and Critical Illness Emergency Visit Lane</a>
+		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="">Death and Critical Illness Emergency Visit Lane</a>
 	</li>
 </ol>
 
@@ -27,7 +27,7 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (I)
 	</li>
 	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (II)
-	</li>
+		</li> 
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (III)
 	</li>
 		<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; ">Category (IV)
