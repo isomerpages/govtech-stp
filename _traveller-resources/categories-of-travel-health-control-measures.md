@@ -158,7 +158,7 @@ A step-by-step traveller’s checklist for Cat(I) travel history is available <a
 <tr>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>			
 <br><br>
-A step-by-step traveller’s checklist for Cat(IV) travel history is available <a href="/travel-checklist/category-1">HERE</a>.
+A step-by-step traveller’s checklist for Cat(IV) travel history is available <a href="/travel-checklist/category-4">HERE</a>.
 </td>
 <td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8;">
 <ol style="margin-top:0px; list-style-type: decimal;">
