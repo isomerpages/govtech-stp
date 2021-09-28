@@ -56,6 +56,8 @@ Travellers who are fit for travel should:
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
+<div id="1F"></div>
+
 &#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
 
 Travellers will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Designated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
