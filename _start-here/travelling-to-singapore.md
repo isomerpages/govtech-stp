@@ -2,7 +2,6 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
-
 <!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">here</a></b></p>
@@ -61,7 +60,7 @@ Otherwise, click the relevant lane below for more details.
 	</thead>
 	<tbody>
 	<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Singapore Citizen (SC)/Permanent Resident (PR) Familial Ties Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
 				 <ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">Singapore Permanent Resident In-Principle Approval holders who need to complete long-term immigration formalities  </li>
@@ -73,7 +72,7 @@ Otherwise, click the relevant lane below for more details.
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/requirements-and-process">Student's Pass Holder Lane</a></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
 					 <li style="font-size: 18px;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date</li>

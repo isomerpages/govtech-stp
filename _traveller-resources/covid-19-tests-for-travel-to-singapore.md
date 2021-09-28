@@ -1,7 +1,6 @@
 ---
 title: COVID-19 Tests for Travel to Singapore
 permalink: /health/covid19-tests/pcrtest
-third_nav_title: Covid 19 Tests
 ---
 ### COVID-19 Tests for Travel to Singapore
 

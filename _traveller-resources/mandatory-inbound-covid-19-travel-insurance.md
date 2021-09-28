@@ -1,13 +1,12 @@
 ---
-title: Mandatory COVID-19 Travel Insurance (Inbound Travellers to Singapore)
+title: "Mandatory Inbound COVID-19 Travel Insurance "
 permalink: /health/travelinsurance
 ---
-
 ## Mandatory COVID-19 Travel Insurance
 
 ### Short-term Visitors
 
-With effect from 31 January 2021, 2359 hours, short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000. The travel insurance will help them pay for the costs of their medical treatment in Singapore.
+Short-term visitors applying to enter Singapore via the [Air Travel Pass (ATP)](/atp/overview),  [Reciprocal Green Lanes (RGLs)](/rgl/overview) and [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) will need to have travel insurance for their COVID-19-related medical treatment and hospitalisation costs in Singapore, with a minimum coverage of S$30,000. The travel insurance will help them pay for the costs of their medical treatment in Singapore.
 
 Visitors should <u>purchase such travel insurance prior to travelling to Singapore</u>, either from Singapore-based or overseas insurers. 
 

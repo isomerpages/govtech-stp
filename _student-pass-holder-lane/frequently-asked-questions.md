@@ -62,7 +62,7 @@ Entry approval will not be issued for applicants to sit for the AEIS tests.
 
 Travellers seeking to enter Singapore should ensure they are eligible for entry via one of the <a href="/arriving/overview">SafeTravel Lanes</a>.
 
-Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA) holders and [eligible family members](/stphl/requirements-and-process) may apply for entry through the Student's Pass Holder's Lane (STPHL).
+Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA) holders and [eligible family members](/stpl/requirements-and-process) may apply for entry through the Student's Pass Holder's Lane (STPHL).
 
 #### 8. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
 
