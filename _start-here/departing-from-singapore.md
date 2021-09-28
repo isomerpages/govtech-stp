@@ -8,7 +8,8 @@ Singapore does not impose any mandatory health requirements on travellers for de
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary.
 
-<a id="PDT"></a>
+<div id="PDT"></div>
+
 ### COVID-19 Pre-Departure Test (if required by destination country/region)
 
 Travellers are advised to check with the authorities of their destination country/region on whether they are required to take a COVID-19 test before departure. Travellers who are required to take a COVID-19 test in Singapore before their departure can make an appointment at any of the clinics offering PCR Pre-Departure Tests, listed [here](https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers). 
@@ -31,7 +32,8 @@ On the day of the PCR test appointment, travellers will be asked to present the 
 
 Please note that Government-paid swabs are not allowed to be used for the issuance of Pre-Departure COVID-19 travel memos.
 
-<a id="certs"></a>
+<div id="certs"></div>
+
 ### Digital PDT and Vaccination Certificates for Overseas use
 
 ##### Digital PDT Certificate
@@ -48,4 +50,4 @@ Hardcopy vaccination cards/slips issued to individuals vaccinated in Singapore a
 
 Travellers who wish or need to present proof of their vaccination status to an foreign authority, may request for a digital vaccination certificate from [Notαrise](https://www.notarise.gov.sg). For successful requests, a digital vaccination certificate will be sent to the traveller’s email and/or Singpass application. Travellers should note that the use of the digital vaccination certificate is subject to the prevailing entry requirements of the destination country.
 
-For FAQs on PDT and vaccination certificates, please click [here](/health/faq#outboundPDT). Travellers who encounter any technical difficulties with the digital certificates may write to support@notarise.gov.sg for assistance. 
+For FAQs on PDT and vaccination certificates, please click [here](/health/faq#outboundPDT). Travellers who encounter any technical difficulties with the digital certificates may write to support@notarise.gov.sg for assistance.
