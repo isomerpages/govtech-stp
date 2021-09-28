@@ -143,8 +143,8 @@ Travellers who need to only make a short-term business trip to Singapore may use
 					<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-			<li style="font-size: 18px;">Brunei (for entry on or after 8 Sep 2021) </li>
-				 			<li style="font-size: 18px;">Germany (for entry on or after 8 Sep 2021)</li>
+			<li style="font-size: 18px;">Brunei  </li>
+				 			<li style="font-size: 18px;">Germany </li>
 				 </ul>
 				</td>
 	</tr>
