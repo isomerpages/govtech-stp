@@ -106,6 +106,7 @@ Depending on your travel history, you may be required to self-isolate or serve a
 
 Travellers are prohibited from using public transport (i.e. trains, buses, street-hailed taxis) to commute to their accommodation or assigned SHN-designated facility. Depending on the traveller’s SHN arrangement, they have the following transport options, which will apply throughout the SHN period:
 
+<i>(Mobile users scroll right &#9755; to view the table)</i>
 <table>
   <thead>
     <tr>
