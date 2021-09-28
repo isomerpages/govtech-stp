@@ -1,7 +1,8 @@
 ---
-title: Treatment for COVID-19
+title: Medical Treatment for COVID-19
 permalink: /health/covidtreatment
 ---
+
 
 ## Mandatory Treatment upon Positive Test for COVID-19
 

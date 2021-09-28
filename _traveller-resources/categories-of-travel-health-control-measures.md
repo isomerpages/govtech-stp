@@ -33,8 +33,10 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 		
 ### Categories of Travel Health Control Measures (for arrivals from 22 Sep 2021, 2359H)
 
+	
 <i>(Mobile users scroll right &#9755; to view the table)</i>
 
+<div id="table"></div>
 <table>
 <thead>
 <tr>
