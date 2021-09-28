@@ -6,13 +6,13 @@ permalink: /shn-and-swab-summary
 
 ### Overview
 
-Travellers entering Singapore from via any general entry SafeTravel lane, below, will be subject to one of the four categories of travel health control measures (THCMs):
+Travellers entering Singapore via the general entry SafeTravel lanes listed below, can refer to the table below to find out what travel health control measures (THCMs) are applicable to them based on their travel history:
 - Returning Singapore Citizen/ Permanent Resident (SC/PR) Lane
 - Death and Critical Illness Emergency Visits Lane
 - Familial Ties Lane
 - Student’s Pass Holder Lane
 
-For details on the travel and health-related requirements of the SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) for the relevant links.
+For details on the travel and health-related requirements of SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) to refer to the lane-specific requirements.
 
 <table style="background-color:#f5f5f5">
 <tbody>
@@ -32,8 +32,6 @@ For details on the travel and health-related requirements of the SafeTravel Lane
 		</table>
 		
 ### Categories of Travel Health Control Measures (for arrivals from 22 Sep 2021, 2359H)
-
-A step-by-step traveller’s checklist for each travel history category is also available at each row, click the one that fits your travel history.
 
 <i>(Mobile users scroll right &#9755; to view the table)</i>
 
