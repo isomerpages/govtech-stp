@@ -45,4 +45,4 @@ Foreign travellers transiting in Singapore will not require entry visas if they 
 
 Some airlines may require travellers to pass through Singapore Immigration to transit as they do not have the necessary transfer facilities in the transit area of the airport. In such cases, the traveller should check the ICA main website <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> on whether they need to apply for an entry visa.
 
-Please check with your airline if you are unsure if your transit requires you to clear immigration.
+Please check with your airline on whether your transit requires you to clear immigration.
