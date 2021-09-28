@@ -40,7 +40,7 @@ MOH has mandated that all Polymerase Chain Reaction (PCR) Pre-Departure Test (PD
 
 **All outbound travellers taking their PCR PDTs in Singapore will receive a digital results certificate, and are required to digitally authenticate and endorse the digital test certificate via <https://www.notarise.gov.sg> before travel.** This ensures that the result and certificate is issued and authenticated by MOH (i.e. it is issued by an approved clinic/lab and has not been tampered with).
 
-After using <https://www.notarise.gov.sg>, the QR code of your digitally authenticated and endorsed test certificate will be e-mailed to you within 15 minutes. If you have presented your NRIC at the clinic, the QR code will also be automatically uploaded onto your SingPass mobile app. The QR code can be shown to foreign immigration & customs authorities, who may scan the QR code with any reader (e.g. normal phone camera) to verify the authenticity of the digital certificate. Travellers who do not receive their QR code or encounter any technical difficulties while authenticating their digital result certificate may write to support@notarise.gov.sg for assistance. 
+After using <https://www.notarise.gov.sg>, the QR code of your digitally authenticated and endorsed test certificate will be e-mailed to you within 15 minutes. If you have presented your NRIC at the clinic, the QR code will also be automatically uploaded onto your SingPass mobile app. The QR code can be shown to foreign immigration & customs authorities, who may scan the QR code with any reader (e.g. normal phone camera) to verify the authenticity of the digital certificate. 
 
 ##### Digital Vaccination Certificate
 
@@ -48,4 +48,4 @@ Hardcopy vaccination cards/slips issued to individuals vaccinated in Singapore a
 
 Travellers who wish or need to present proof of their vaccination status to an foreign authority, may request for a digital vaccination certificate from [Notαrise](https://www.notarise.gov.sg). For successful requests, a digital vaccination certificate will be sent to the traveller’s email and/or Singpass application. Travellers should note that the use of the digital vaccination certificate is subject to the prevailing entry requirements of the destination country.
 
-For FAQs on PDT and vaccination certificates, please click [here](/health/faq#outboundPDT).
+For FAQs on PDT and vaccination certificates, please click [here](/health/faq#outboundPDT). Travellers who encounter any technical difficulties with the digital certificates may write to support@notarise.gov.sg for assistance. 
