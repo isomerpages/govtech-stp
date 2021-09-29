@@ -154,8 +154,6 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
 
-Travellers are not to take public transport (e.g. MRT, public bus)
-
 <div id="note2"></div>
 
 (ii) <u><b>Booking taxi/private-hire vehicles</b></u>
