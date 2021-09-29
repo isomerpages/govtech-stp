@@ -83,9 +83,9 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 #### 1. I have been placed on self-isolation / 7-day Stay Home Notice. What are the commuting/transport-related rules I should take note of in Singapore?
 
-<!--What are the types of transport that I can take if I am serving my  7-day Stay-Home Notice (SHN) at my place of residence?-->
+All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
 
-##### a) From air/land/sea checkpoints to place of residence
+<!--##### a) From air/land/sea checkpoints to place of residence
 
 Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup> or pre-book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
 
@@ -133,16 +133,15 @@ Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
   </tbody>
-  </table>
-	
+  </table>-->
 
-##### **Note:**
+<!--##### **Note:**-->
 
 <div id="note1"></div>
 	
 (i) <u><b>If you are using your own transport</b></u>
 
-Travellers may be picked up from the airport by an authorised hotel and transport service representative/ family member/ friend in a private vehicle. In all other situations, the traveller may only be picked up by a family member from the same household. There should not be more than one person picking the traveller up and the traveller must be transported directly to their declared place of accommodation.
+Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
 
 If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
 
@@ -167,7 +166,7 @@ Only travellers with the same travel history and heading to the same declared pl
 
 <div id="transportQ3"></div>
 
-#### 2. I have been allowed to serve my 14-day SHN at my residence. What are the types of transport that I can take?
+<!-- #### 2. I have been allowed to serve my 14-day SHN at my residence. What are the types of transport that I can take?
 
 You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for:
 - travelling from the checkpoint to your place of residence; and
@@ -201,7 +200,7 @@ You must make transport arrangements at your own cost from the transport service
   </tbody>
   </table> 
 	
-For service-related feedback, travellers may wish to contact 6477 5977 or email to taxicorp@smrt.com.sg.
+For service-related feedback, travellers may wish to contact 6477 5977 or email to taxicorp@smrt.com.sg.-->
 	
 Click here to [Go Back To Top](#top).
 
