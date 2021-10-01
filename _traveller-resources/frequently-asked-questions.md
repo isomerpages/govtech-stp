@@ -34,7 +34,7 @@ The length of your SHN will be stipulated in the Entry Approval Letter or Safe T
 
 Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
-Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their 7-day SHN.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
@@ -48,7 +48,7 @@ Travellers should note that basic essentials such as portable water, cleaning su
 
 #### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect for 7 or 14 days (depending on 21-day travel history) until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. [Click here](/shn-calculator) to calculate the end date of your SHN.
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
 Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
 
