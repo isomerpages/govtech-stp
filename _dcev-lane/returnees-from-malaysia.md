@@ -47,10 +47,10 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 	<p style="font-size:16px; line-height:1.5;"><u>Note</u>: Travellers who are unable to meet the above pre-arrival COVID-19 PCR test requirement in time may contact the Safe Travel Office <a href="/contact-us">here</a> to appeal for an exemption. Please provide your DCEV entry approval into Malaysia as supporting document for our consideration.</p>
 </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <b>(for arrivals before 7 Oct 2021)</b> or 10-day <b>(for arrivals from 7 Oct 2021)</b> <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered Antigen Rapid Test on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[From 27 Jun 2021, 2359 hours] </b>Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered <a href="/health/covid-19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 </ol>
