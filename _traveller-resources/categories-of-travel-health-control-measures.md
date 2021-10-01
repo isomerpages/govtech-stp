@@ -29,8 +29,8 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 			</td>
     </tr>
 	</tbody>
-		</table>
-		<br/>
+		</table><br/>
+		
 		
 On this page you will find the following: 
 		
