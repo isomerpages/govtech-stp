@@ -121,7 +121,7 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN <b>OR</b <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antitgen Rapid Test</a> on Day 7 of SHN.
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN <b>OR</b> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antitgen Rapid Test</a> on Day 7 of SHN.
 </li>
 </ol>
 </td>
