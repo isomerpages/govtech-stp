@@ -124,7 +124,7 @@ Please click on the following links to view the conditions applicable to you, co
  
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>1</sup>An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>.</p>
 
-<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the flight is D (e.g. 1 October 2021), the traveller must have remained in his/her declared point of departure from D-21 to D (i.e. 10 September to 1 October 2021, if D is 1 October 2021).</p>
+<p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>2</sup>If the scheduled day of departure of the flight is D (e.g. 7 October 2021), the traveller must have remained in his/her declared point of departure from D-14 to D (i.e. 23 September to 7 October 2021, if D is 7 October 2021).</p>
 
 <p style="font-size:16px; margin-top:10px; line-height:1.5;"><sup>3</sup>Travellers are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including especially Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done either in the airport transit area before arrival immigration, in the baggage claim hall, or within the designated arrival passenger zone in the airport landside area.</p>
 
