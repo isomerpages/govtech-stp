@@ -273,7 +273,7 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore:
 	</li>
 	<table>
 <tr>
@@ -293,14 +293,19 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 					</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="/health/shn">SHN</a> at:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,500 including GST) where the helper/CN will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 and 11 of arrival ($40 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. (This PCR test will be replaced by a self-administered ART from 22 Oct 2021).</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), where the helper/CN will
+	<ol style="margin-top: 0px; list-style-type: lower-latin;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN (This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li>
+			</ol>
+		</li>
 		</ol>
 	</li>
 </ol>
-<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
+<i>	* During the entry application, submitters can request for helpers and CNs to serve their 10-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
