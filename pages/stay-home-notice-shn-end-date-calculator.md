@@ -21,7 +21,7 @@ Should you have any further SHN-related queries, you may contact the SafeTravel 
 
 <div id="cal"></div>
 
-## 14-day SHN Calculator
+## 10-day SHN Calculator
 
 <iframe width="100%" height="620" src="https://www.checkfirst.gov.sg/c/shn-date-calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
