@@ -31,7 +31,6 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 	</tbody>
 		</table><br/>
 		
-		
 On this page you will find the following: 
 		
 <ol style="margin-top:10px; margin-bottom:10px; font-size:18px;">
