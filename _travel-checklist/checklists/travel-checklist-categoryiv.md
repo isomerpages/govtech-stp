@@ -104,7 +104,7 @@ Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pc
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
-A 14-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
+A 14-day (for arrivals before 7 Oct 2021) or 10-day (for arrivals from 7 Oct 2021) [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
 
 &#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
