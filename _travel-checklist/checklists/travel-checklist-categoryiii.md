@@ -24,7 +24,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 21 consecutive days before departure; or
+- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
@@ -40,8 +40,8 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 21 days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 14 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
 &#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
@@ -53,7 +53,7 @@ Travellers who are fit for travel should:
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/">register and pay here</a>)</li>
 				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register and pay here</a>)</li>
 			</ol></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
 <div id="1F"></div>
@@ -76,7 +76,7 @@ Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, 
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Click Here</a></td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Traveller is <a href="/health/vtsg">fully vaccinated</a> and had remained in only <a href="/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either:
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Traveller is <a href="/health/vtsg">fully vaccinated</a> and had remained in only <a href="/shn-and-swab-summary">Category (I), (II) or (III) countries/regions</a> for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days before arrival in Singapore, and is occupying a place of accommodation or serviced apartment either:
 			<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
 				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. no domestic helpers); or</li>
 				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
