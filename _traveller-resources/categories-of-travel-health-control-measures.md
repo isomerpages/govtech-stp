@@ -18,10 +18,10 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <tbody>
     <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br/><br/>
-					<b> &#10112;</b> If you have visited or transited in multiple countries in the past 21 days (for arrivals before 7 Oct 2021) or 14 days (for arrivals after 7 Oct 2021) before arriving in Singapore, note that:
+					<b> &#10112;</b> If you have visited or transited in multiple countries in the past 21 days <b>(for arrivals before 7 Oct 2021)</b> or 14 days <b>(for arrivals after 7 Oct 2021)</b> before arriving in Singapore, note that:
 					<ol style=" padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of the countries/regions you have visited will apply. For instance, a traveller who had left for Singapore from a Category (II) country/region but transited via a Category (III) country/region, will be subject to the Category (III) measures; and</li>
-												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 21 (for arrivals before 7 Oct 2021) or 14 (for arrivals from 7 Oct 2021) consecutive days before departure.</li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>&#10113;</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
