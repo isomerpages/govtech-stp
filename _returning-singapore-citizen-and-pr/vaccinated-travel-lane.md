@@ -2,12 +2,12 @@
 title: Vaccinated Travel Lane
 permalink: /sc-pr/vtl
 ---
-As part of Singapore’s efforts to reopen our borders safely, fully vaccinated* Singapore Citizens (SCs) and Permanent Residents (PRs) may now return to Singapore via the Vaccinated Travel Lane (VTL) from the following countries/regions, <b>with effect from 8 September 2021, 0001 hours (Singapore time)</b>:
+As part of Singapore’s efforts to reopen our borders safely, fully vaccinated* Singapore Citizens (SCs) and Permanent Residents (PRs) may now return to Singapore via the Vaccinated Travel Lane (VTL) from the following countries/regions:
 
 - Brunei Darussalam
 - Germany
 
-Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a Vaccinated Travel Pass (VTP) to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements.
+SCs and PRs do <u>not</u> need to apply for a Vaccinated Travel Pass (VTP) to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements.
 
 <i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
 
@@ -50,7 +50,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 </tr>
 <tr>
 <td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.lufthansa.com/sg/en/de-sg-vtl">Lufthansa</a> </td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/germany-singapore-vaccinated-travel-lanes/">Singapore Airlines</a></td>
@@ -62,11 +62,12 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Travel History</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers to Singapore must have only been to their country/region of departure and/or Singapore, in the last 21 consecutive days before departing for Singapore</p>
+<p style="margin-top:15px; margin-bottom:10px; font-size:16px; ;line-height:1.5;"><i><b>[For travellers entering Singapore with effect from 6 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. </i></p>	
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
 <ol style="margin-top: 0px; margin-bottom:0px; font-size:16px;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact refers to:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or </li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Had close contact with any person with COVID-19 in the last 10 days before departing for Singapore. Close contact refers to:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Providing care for a COVID-19 patient, including in healthcare or family/social settings;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
@@ -213,4 +214,4 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 </tbody></table>
 
 ________________________________________
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><sup>1</sup> Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i></p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><sup>1</sup> The day that the traveller clears arrival immigration for entry into Singapore is counted as Day1. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).</i></p>
