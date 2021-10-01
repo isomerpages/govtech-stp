@@ -3,7 +3,6 @@ title: Stay Home Notice (SHN)
 permalink: /health/shn
 third_nav_title: Info On Stay Home Notice
 ---
-
 ### Overview 
 
 The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.
@@ -37,9 +36,15 @@ For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of th
       </td>
     </tr>
      <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom: 1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>14-day SHN</b>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom: 1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>14-day SHN (for arrivals before 7 Oct 2021)</b>
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom: 1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller B arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his COVID-19 test result is released.
+      </td>
+    </tr>
+		<tr>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>10-day SHN (for arrivals after 7 Oct 2021)</b>
+      </td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller C arrived in Singapore on 7 October 2021. His SHN will start with immediate effect on 7 October 2021, and end on 17 October 2021, after his COVID-19 test results are released, before exiting SHN.
       </td>
     </tr>
        <!--  <tr>
