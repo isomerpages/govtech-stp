@@ -730,10 +730,10 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-From <b>20 August 2021, 2359hrs</b>, [fully vaccinated travellers](/health/vtsg) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
+[Fully vaccinated travellers](/health/vtsg) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day (for arrivals before 7 Oct 2021) or 10-day (for arrivals after 7 Oct 2021) SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for 21 consecutive days before arrival in Singapore</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any <a href="/shn-and-swab-summary">Category (I) to (III) country/region</a> for 21 (for arrivals before 7 Oct 2021) or 14 (for arrivals after 7 Oct 2021) consecutive days before arrival in Singapore</li>
 </ol>
 
 From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinated overseas with a WHO-Emergency Use Listing (EUL) vaccine, and who can provide a valid, <b>English-language vaccination certificate</b>, can request for a tamper-proof vaccination sticker affixed onto their passports to be eligible for vaccination-differentiated safe management measures. For more information on vaccination stickers for short-term visitors, click [here](https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)). 
