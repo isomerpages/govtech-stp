@@ -181,7 +181,7 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">See <a href="/travel-checklist/category-3#1F">Stage 1F</a> of the checklist for details on how to approval to serve your SHN at your place of residence, hotel, or serviced apartment.  </p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">See <a href="/travel-checklist/category-3#1F">Stage 1F</a> of the checklist for details on how to apply to serve your SHN at your place of residence, hotel, or serviced apartment.  </p>
 </td>
 </tr>	
 <tr>
