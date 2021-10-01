@@ -127,7 +127,7 @@ For those have been approved to serve SHN at their own accommodation, a transpor
 <table>
   <thead>
     <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost ($SGD; Excludes 10% credit card charge)</b></th>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost (SGD; Excludes 10% credit card charge)</b></th>
     </tr>
   </thead>
   <tbody>
@@ -167,9 +167,15 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
-**For arrivals before 22 Oct 2021**, **ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). **For arrivals from 22 Oct 2021**, travellers will be required to administer an Antigen Rapid Test on the last day of the SHN. 
+**ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). 
 
-**For arrivals before 22 Oct 2021**, travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. **For arrivals after 22 Oct 2021**, travellers must administer an Antigen Rapid Test (ART) on their own on Days 3 and 7 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
+Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice. Travellers are exempted from ART, if they:
+- Are a fully vaccinated traveller with a 21-day travel history to any Category (I) to (III) country/region; **AND**
+- Been approved to complete their SHN in their residence or accommodation of choice.
+
+**From 7 October 2021**, travellers must self-administer an ART on Days 3 and 7 of their arrival in Singapore. Self-administered ART is required regardless of SHN location. Travellers will also be scheduled to take a PCR test on Day 10 of their arrival. 
+
+**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.
 
 Travellers who are serving SHN at their own place of residence must use Strides to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
 
