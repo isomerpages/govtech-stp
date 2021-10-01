@@ -27,11 +27,11 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 *Before the foreign employee leaves for Singapore*
 
 2.	The Employer shall inform the foreign employee that he/she is required to take a COVID-19 Polymerase Chain Reaction (PCR) test within 48 hours before departing or Singapore if:
-: a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore.
+: a. the foreign employee had recent travel history to Malaysia within the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days prior to entering Singapore.
 
 Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government.The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
 
-3. The Employer shall inform the foreign employee that he/she is required to serve a 14-day Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
+3. The Employer shall inform the foreign employee that he/she is required to serve a 14-day <b>(for arrivals before 7 Oct 2021)</b> or 10-day <b>(for arrivals from 7 Oct 2021)</b> Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
 
 4. The Employer shall ensure that the foreign employee is able to fully comply with the additional work pass conditions imposed on him/her for the SHN period.
 
@@ -44,7 +44,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 7. The Employer shall ensure that the foreign employee undergoes an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test ($160 inclusive of GST), and the cost shall be paid upfront before the OAT test is conducted. This requirement for the OAT for all inbound PCA travellers takes effect from 24 January 2021, 2359 hours.
 
 8. The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
-: a. 14 days subsequent thereafter and will end at 12 noon on the 15th day; or
+: a. 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days subsequent thereafter and will end at 12 noon on the 15th <b>(for arrivals before 7 Oct 2021)</b> or 11th <b>(for arrivals from 7 Oct 2021)</b> day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, whichever is later
 
 9. The Employer/foreign employee shall bear the full costs of the foreign employee's stay at a dedicated SHN facility during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee. 
@@ -72,7 +72,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 *Before the foreign employee leaves for Singapore*
 
 2. The foreign employee shall take a COVID-19 Polymerase Chain Reaction (PCR) test within 48 hours before departing for Singapore if: 
-: a. the foreign employee had recent travel history to Malaysia within the last 21 days prior to entering Singapore. 
+: a. the foreign employee had recent travel history to Malaysia within the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days prior to entering Singapore. 
 
 Such a foreign employee shall obtain a valid negative COVID-19 test result in English, from a laboratory accredited by the Malaysian authorities and recognised by the Singapore government. The negative COVID-19 test result shall be presented to the Singapore authorities on his/her arrival in Singapore.
 
@@ -81,7 +81,7 @@ Such a foreign employee shall obtain a valid negative COVID-19 test result in En
 3. The foreign employee shall undergo an On-Arrival Testing (“OAT”) at the land checkpoints. Either the Employer or the foreign employee shall bear the cost of the OAT test ($160 inclusive of GST), and the cost shall be paid upfront before the OAT test is conducted. This requirement for the OAT for all inbound PCA travellers takes effect from 24 January 2021, 2359 hours.
 
 4. The foreign employee shall comply with the Stay-Home Notice period ("SHN period") which will commence with immediate effect from the time it is issued to the foreign employee on arrival and will be effective on that day until:
-: a. 14 days subsequent thereafter, and will end at 12 noon on the 15th day; or
+: a. 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days subsequent thereafter, and will end at 12 noon on the 15th <b>(for arrivals before 7 Oct 2021)</b> or 11th <b>(for arrivals from 7 Oct 2021)</b> day; or
 : b. until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN period will end immediately, whichever is later.
 
 5. The foreign employee shall proceed from the Singapore immigration land checkpoint directly to his/her dedicated SHN facility to serve his/her SHN.
