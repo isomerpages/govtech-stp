@@ -26,7 +26,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region]() in the past 21 consecutive days before departure; or
+- Have remained in any [Category (I) country/region]() in the past 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
@@ -42,8 +42,8 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 21 days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 14 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
 &#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
@@ -94,7 +94,7 @@ Travellers will be asked to produce the following documents as part of the immig
 	<li>	A mobile device with the TraceTogether app downloaded and with a registered user profile</li>
 	</ul>
 	
-Travellers with a 21-day travel history to any [Category (II) to (IV) country/region](/shn-and-swab-summary) will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
+Travellers with a 21-day <b>(for arrivals before 7 Oct 2021)</b> or 14-day <b>(for arrivals from 7 Oct 2021)</b> travel history to any [Category (II) to (IV) country/region](/shn-and-swab-summary) will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
 
 &#x2610; <i><b>B) COVID-19 Tests</b></i>
 
@@ -161,7 +161,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 			</td>
     </tr>
 		<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Approved 14-day SHN at own residence
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Approved 14-day <b>(for arrivals before 7 Oct 2021)</b> or 10-day <b>(for arrivals from 7 Oct 2021)</b> SHN at own residence
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">		Travellers will commute to their declared SHN accommodation using transportation services offered by Strides Transportation Pte Ltd (“Strides”). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. <br/><br/>
 				<table>
