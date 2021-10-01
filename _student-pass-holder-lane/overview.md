@@ -26,6 +26,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Spouse of STP/STP-IPA holder on post-graduate programme</li>
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Child(ren) of STP/STP-IPA holder on post-graduate programme </li>
 			 </ol>
+			 <p style="line-height:1.5; margin-top:10px; margin-bottom:10px; font-size:16px;">From 1 Nov 2021, all Long-Term Pass Holders will be required to be fully vaccinated as an entry requirement</p>
 			 </td>
 	</tr>
    <tr>
@@ -118,7 +119,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 21-day travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 21-day <b>(for arrivals before 7 Oct 2021)</b> and 14-day <b>(for arrivals from 7 Oct 2021)</b> travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
