@@ -13,14 +13,13 @@ The health measures to be imposed may not be limited to COVID-19 tests, and you 
 
 #### 1. PCR Test before Departing to Singapore
 
-With effect from 9 Sep 2021, 2359h, travellers with a 21-day travel and/or transit history lasting more than 24 hours in any Category (II) to (IV) country/region are required to take a COVID-19 Polymerase Chain Reaction test ("COVID-19 PCR test") within 48 hours before departure for Singapore. Travellers are required to take their PDT at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be considered by the airline or ferry terminal operator as proof that the traveller had been tested for COVID-19:
+Travellers may be required to take a COVID-19 Polymerase Chain Reaction (PCR) pre-departure test 48 hours before departing to Singapore.  If so, travellers are required to take their PDT at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test. 
 
 Travellers who fail to produce the required documentary proof of a valid negative pre-departure COVID-19 PCR test may be denied boarding or turned away. 
 
-To check if a COVID-19 PCR test is required before your departure for Singapore, please refer to the "Travel and Health Control measures" or "Requirements & Process" page found for each [Safe Travel Lane](/arriving/overview)
 
 <div id="price"></div>
 
@@ -52,7 +51,7 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
   </tbody>
   </table>
 
-Travellers will be informed of their PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
+Travellers will be informed of their on-arrival PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
 
 
 <div id="shntests"></div>
@@ -77,7 +76,7 @@ Depending on the traveller's travel and transit history and <a href="/arriving/o
     </tr>
 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN*</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">40 (for full set)</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">20 (Set of 2, for travellers serving 7-day SHN)<br/><br/>40 (Set of 4, for travellers serving 10-day SHN)</td>
     </tr>
 	</tbody>
 	</table>
