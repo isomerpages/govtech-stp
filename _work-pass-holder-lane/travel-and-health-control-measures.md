@@ -114,11 +114,23 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei Darussalam</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Canada</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Czech Republic</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>France</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Germany</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Portugal</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>New Zealand</b></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Spain</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 </ul>
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -153,7 +165,7 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 	</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. (This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).</li>
 </ol>
 	<table>
 				<tr>
@@ -199,7 +211,7 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 	</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. (This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).</li>
 </ol>
 			<table>
 						<tr>
@@ -219,27 +231,31 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 <td rowspan ="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u><b>Category III</b></u><br/><br/>
 	<ul style="margin-top:0px; list-style-type: disc;">
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bahrain</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bhutan</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bulgaria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Croatia</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Czech Republic</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Cyprus</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Egypt</b></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>France</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Fiji</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Greece</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Iceland</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Ireland</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Liechtenstein</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Maldives</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Slovakia</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Portugal</b></li>
 						<!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>-->
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Spain</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Turkey</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United Kingdom</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United States</b></li>
 		
 </ul>
 </td>
