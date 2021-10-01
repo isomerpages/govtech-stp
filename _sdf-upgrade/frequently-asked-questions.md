@@ -83,8 +83,4 @@ Travellers who are transferring to another suite mid-way through their SHN stay 
 
 Travellers who have made pre-payment when obtaining approval to enter Singapore will be required to pay the difference from the higher cost of the SDF suite. This additional amount will be paid to the SDF at check-in.
 
-For example: If traveller has already paid $2k to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $5.5k to Fairmont Singapore at check-in (assuming a 14-day SDF stay).
-
-#### 4. When I made my suite booking, prices were different from what is [currently](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) published. Which price will I pay?
-
-The [current](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) prices for ‘Standard’ (previously ‘Regular’), ‘Large’, and ‘Extra Large’ suites took effect on 14 Apr 2021. Travellers who made suite bookings with SDFs before 14 Apr 2021, will continue to pay the previous price listed for the suite at the point of booking. However, should travellers decide to make changes to their booking (i.e. change of dates, SDF, or suite type), they will be subject to the new prices instead. This does not apply to additional costs imposed, which are separate from the suite charges (e.g. charges for COVID-19 tests).
+For example: If traveller has already paid $1,450 to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $3,900 to Fairmont Singapore at check-in (assuming a 10-day SDF stay).
