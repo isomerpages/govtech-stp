@@ -160,6 +160,7 @@ Pass holders with travel history to <a href="/wphl/shn-and-swab-summary">Categor
 			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
 			</ol><br/>
 			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.<br/><br/>
+			Those who got vaccinated overseas will also need to take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.
 		</td>
 	</tr>
 		</tbody>
