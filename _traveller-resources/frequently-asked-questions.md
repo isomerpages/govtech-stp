@@ -241,7 +241,7 @@ Travellers who present falsified COVID-19 test certificates will be dealt with a
 
 Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.gov.sg/covid-19/faqs) should defer their travels. 
 
-To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021) days or fewer from date of travel. Travellers should only schedule their trip to Singapore 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021) days after the first diagnosis and after they have fully recovered from COVID-19. 
+To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days or fewer from date of travel. Travellers should only schedule their trip to Singapore 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after the first diagnosis and after they have fully recovered from COVID-19. 
 
 <div id="pcrtestQ5"></div>
 
