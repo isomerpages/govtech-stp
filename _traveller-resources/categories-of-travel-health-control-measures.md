@@ -29,7 +29,7 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 			</td>
     </tr>
 	</tbody>
-		</table><br/>
+		</table>
 		
 On this page you will find the following: 
 		
