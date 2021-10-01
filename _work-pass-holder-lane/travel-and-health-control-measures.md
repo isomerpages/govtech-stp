@@ -201,6 +201,18 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 	</table>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
 </ol>
+			<table>
+						<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement nannies) with travel history from all countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
+
+<ol style="margin-top:0px; list-style-type:disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who are below 18 years old on date of entry.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who cannot be vaccinated due to medical conditions.</li>
+	</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those who got vaccinated overseas will also need to take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</p></td>
+</tr>
+			</table>
 </td> 
 	</tr>
 		<tr>
@@ -277,7 +289,19 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 		</ol>
-</i>
+</i><br/>
+	<table>
+				<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
+
+<ol style="margin-top:0px; list-style-type:disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who are below 18 years old on date of entry.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who cannot be vaccinated due to medical conditions.</li>
+	</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those who got vaccinated overseas will also need to take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</p></td>
+</tr>
+	</table>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
@@ -375,6 +399,18 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 		</ol>
 	</li>
 </ol>
+	<table>
+				<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
+
+<ol style="margin-top:0px; list-style-type:disc;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who are below 18 years old on date of entry.</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who cannot be vaccinated due to medical conditions.</li>
+	</ol>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those who got vaccinated overseas will also need to take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</p></td>
+</tr>
+	</table>
 	</td> 
 	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
