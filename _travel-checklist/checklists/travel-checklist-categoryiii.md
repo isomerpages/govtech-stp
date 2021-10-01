@@ -167,11 +167,9 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
-Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry).
+**For arrivals before 22 Oct 2021**, travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). **For arrivals from 22 Oct 2021**, travellers will be required to administer an Antigen Rapid Test on the last day of the SHN. 
 
-Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they:
-- Are a fully vaccinated traveller with a 21-day travel history to any Category (I) to (III) country/region; **AND**
-- Been approved to complete their SHN in their residence or accommodation of choice.
+**For arrivals before 22 Oct 2021**, travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. **For arrivals after 22 Oct 2021**, travellers must administer an Antigen Rapid Test (ART) on their own on Days 3 and 7 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
 
 Travellers who are serving SHN at their own place of residence must use Strides to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
 
