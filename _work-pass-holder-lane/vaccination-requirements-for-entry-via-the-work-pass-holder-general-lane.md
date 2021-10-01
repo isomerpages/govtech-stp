@@ -2,8 +2,9 @@
 title: Vaccination Requirements for Entry via the Work Pass Holder General Lane
 permalink: /wphl/vaccination-requirements
 ---
+Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
 
-Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 21 days before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
+<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be fully vaccinated <b>before arrival</b>.</p>
 
 <div id="vaccinated"></div>
 
@@ -73,8 +74,9 @@ Pass holders with travel history to [Category III or IV countries/regions](/wphl
       </ol>
   </li>
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">Helpers and confinement nannies</a></li>
-  </ol>
-
+  </ol><br/>
+	
+<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be fully vaccinated <b>before arrival</b>.</p>
 
 ### Penalties for non-compliance
 
