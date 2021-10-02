@@ -119,14 +119,8 @@ We understand these measures are difficult for employers and their pass holders,
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">WHP, PEP and EntrePass holders to apply: <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval</a><br/><br/>
 Pass holders with travel history to <a href="/wphl/shn-and-swab-summary">Category III or IV countries/regions</a> in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.<br/><br/>
-			The vaccination requirement <b>does not</b> apply to <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP workers, helpers and confinement nannies</a>.<br/><br/>
-			<b>Note</b>: From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be <a href="/wphl/vaccination-requirements">fully  vaccinated</a><b>before</b> arrival, except for the following groups:<br/>
-		<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
-			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pass holders who are below 18 years old on date of entry .</li>
-			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
-			</ol><br/>
-			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.<br/><br/>
-			Those who got vaccinated overseas will also need to take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.
+			The vaccination requirement <b>does not</b> apply to <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP workers, helpers and confinement nannies</a>entering Singapore before 1 Nov 2021.<br/><br/>
+			<b>Note</b>: From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be <a href="/wphl/vaccination-requirements">fully  vaccinated</a> <b>before</b> arrival.
 		</td>
 	</tr>
 				<tr>
@@ -153,14 +147,8 @@ Pass holders with travel history to <a href="/wphl/shn-and-swab-summary">Categor
 			</td>
 			<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
 				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b> Pass holders with travel history to <a href="/wphl/shn-and-swab-summary">Category III or IV countries/regions</a> in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the vaccination requirements <a href="/wphl/vaccination-requirements">listed here</a> carefully.</p><br/>
-			The vaccination requirement <b>does not</b> apply to <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP workers, helpers and confinement nannies</a>.<br/><br/>
-					<b>Note</b>: From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be <a href="/wphl/vaccination-requirements">fully  vaccinated</a> <b>before</b> arrival, except for the following groups:<br/>
-		<ol style="margin-top:5px; margin-bottom:0px; font-size:16px;  list-style-type:disc;">
-			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pass holders who are below 18 years old on date of entry .</li>
-			<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
-			</ol><br/>
-			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.<br/><br/>
-			Those who got vaccinated overseas will also need to take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.
+			The vaccination requirement <b>does not</b> apply to <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP workers, helpers and confinement nannies</a> entering Singapore before 1 Nov 2021.<br/><br/>
+					<b>Note</b>: From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be <a href="/wphl/vaccination-requirements">fully  vaccinated</a> <b>before</b> arrival.
 		</td>
 	</tr>
 		</tbody>
