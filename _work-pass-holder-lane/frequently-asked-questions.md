@@ -249,13 +249,13 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval.* For now, it will not apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
 
-<b>Note:</b> From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be fully vaccinated <b>before</b> arrival, except for the following groups:
+<b>Note:</b> From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel historyin the last 14 days to all countries/regions before arriving in Singapore,  must be fully vaccinated <b>before</b> arrival, except for the following groups:
 <ol>
 	<li>Pass holders who are below 18 years old on date of entry</li>
 	<li>Pass holders who cannot be vaccinated due to medical conditions</li>
 	</ol>
 
-<i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 14 days to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>
+<i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021)  to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
@@ -265,7 +265,7 @@ Work pass holders will need to show proof of vaccination. If the vaccination cer
 
 #### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. Why can’t I submit an entry application to bring him into Singapore?
 
-Due to the need to reschedule workers from [Category III or IV countries/regions](/wphl/shn-and-swab-summary), new entry applications can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](/wphl/shn-and-swab-summary) for 14 consecutive days before arrival.
+Due to the need to reschedule workers from [Category III or IV countries/regions](/wphl/shn-and-swab-summary), new entry applications can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](/wphl/shn-and-swab-summary) for 21 consecutive days (for arrivals before 7 Oct 2021, or 14 consecutive days for arrivals after 7 Oct 2021)  before arrival.
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
 #### 4. I am medically ineligible for vaccination. How can I appeal to be exempted from the vaccination condition for entry?  
@@ -284,7 +284,7 @@ Work Holiday Pass, or PEP (without employers) and EntrePass holders without a Co
 
 #### 7. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](https://go.gov.sg/responsibilities-submitters-pass-holders) for 14 consecutive days before arrival.
+Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](https://go.gov.sg/responsibilities-submitters-pass-holders) for 21 consecutive days (for arrivals before 7 Oct 2021, or 14 consecutive days for arrivals after 7 Oct 2021)  before arrival.
 
 We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
 
@@ -296,7 +296,7 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 #### 9. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
 #### 10. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
