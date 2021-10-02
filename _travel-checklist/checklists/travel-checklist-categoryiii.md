@@ -124,6 +124,8 @@ Travellers will be ushered to commute directly to the assigned Stay-Home Notice 
 
 **For arrivals before 7 October 2021**, For those have been approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
+**For arrivals from 7 October 2021**, **For unvaccinated travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+
 <table>
   <thead>
     <tr>
@@ -151,7 +153,7 @@ Travellers will be ushered to commute directly to the assigned Stay-Home Notice 
   </tbody>
   </table>
 
-**For arrivals from 7 October 2021** For those have been approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
+**For arrivals from 7 October 2021** **For fully vaccinated travellers** approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
