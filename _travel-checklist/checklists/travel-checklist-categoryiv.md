@@ -161,7 +161,7 @@ Travellers must also administer an Antigen Rapid Test (ART) on their own on Days
 
 **From 7 October 2021**, travellers must self-administer an ART on Days 3 and 7 of their arrival in Singapore. Self-administered ART is required regardless of SHN location. Travellers will also be scheduled to take a PCR test on Day 10 of their arrival. 
 
-**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.
+<!--**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.-->
 
 ### Stage 5: End of Stay-Home Notice
 
