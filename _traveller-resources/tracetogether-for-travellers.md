@@ -85,7 +85,7 @@ The S$50 deposit will be refunded if:
 -	the visitor had made a deposit for the TraceTogether token being returned; and
 -	the visitor is returning the token in-person.
 
-The returned TraceTogether tokens will be securely stored for 21 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+The returned TraceTogether tokens will be securely stored for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore.
 
 #### 3.	Frequently Asked Questions
 
