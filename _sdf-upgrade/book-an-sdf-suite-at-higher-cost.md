@@ -44,7 +44,7 @@ Subject to availability, travellers who are required to complete their [Stay-Hom
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">S$14,300</td>
     </tr>
         <tr>
-      <td colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$600 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$600.
+      <td colspan="4" style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Cost for additional persons sharing the suite (for food):<br> Additional S$450 for every sharing person aged 4 and above.<br> Children aged 3 years and under who require the SDF to provide food will be charged S$450.
 </td>
     </tr>
 	<tr>
