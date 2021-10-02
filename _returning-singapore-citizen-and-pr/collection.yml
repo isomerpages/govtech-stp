@@ -2,6 +2,6 @@ collections:
   returning-singapore-citizen-and-pr:
     output: true
     order:
-      - overview.md
+      - overview-returning-scpr-lane.md
       - vaccinated-travel-lane.md
       - vaccination-channels-for-overseas-singaporeans.md
