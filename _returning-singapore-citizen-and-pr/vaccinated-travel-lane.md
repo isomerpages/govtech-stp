@@ -67,7 +67,7 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 <ol style="margin-top: 0px; margin-bottom:0px; font-size:16px;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or </li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Had close contact with any person with COVID-19 in the last 10 days before departing for Singapore. Close contact refers to:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Had close contact with any person with COVID-19 in the last 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore. Close contact refers to:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Providing care for a COVID-19 patient, including in healthcare or family/social settings;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
