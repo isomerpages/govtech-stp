@@ -122,7 +122,7 @@ A 14-day (for arrivals before 7 Oct 2021) or 10-day (for arrivals from 7 Oct 202
 
 Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at SHN dedicated facilities will take the government-provided transport. Travellers are disallowed to take public transport (e.g. trains, buses, street-hailed taxis).
 
-For those have been approved to serve SHN at their own accommodation, a transport booking must be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+**For arrivals before 7 October 2021**, For those have been approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -151,6 +151,47 @@ For those have been approved to serve SHN at their own accommodation, a transpor
   </tbody>
   </table>
 
+**For arrivals from 7 October 2021** For those have been approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
+
+<table>
+  <thead>
+    <tr>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+    </tr>
+  </tbody>
+  </table>
 
 ### Stage 4: Stay-Home Notice and COVID-19 Tests
 
@@ -175,7 +216,7 @@ Travellers must also administer an Antigen Rapid Test (ART) on their own on Days
 
 **From 7 October 2021**, travellers must self-administer an ART on Days 3 and 7 of their arrival in Singapore. Self-administered ART is required regardless of SHN location. Travellers will also be scheduled to take a PCR test on Day 10 of their arrival. 
 
-**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.
+<!--**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.-->
 
 Travellers who are serving SHN at their own place of residence must use Strides to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
 
