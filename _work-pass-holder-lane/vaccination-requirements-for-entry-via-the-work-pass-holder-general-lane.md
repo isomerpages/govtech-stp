@@ -4,7 +4,7 @@ permalink: /wphl/vaccination-requirements
 ---
 Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
 
-<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be fully vaccinated <b>before arrival</b>.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be fully vaccinated <b>before arrival</b>.</p>
 
 <div id="vaccinated"></div>
 
