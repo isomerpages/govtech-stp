@@ -17,14 +17,14 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <table style="background-color:#f5f5f5">
 <tbody>
     <tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br/><br/>
-					<b> &#10112;</b> If you have visited or transited in multiple countries in the past 21 days <b>[for arrivals before 7 Oct 2021]</b> or 14 days <b>[for arrivals from 7 Oct 2021]</b> before arriving in Singapore, note that:
-					<ol style=" padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
+				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br><br>
+					<b> ➀</b> If you have visited or transited in multiple countries in the past 21 days <b>[for arrivals before 7 Oct 2021]</b> or 14 days <b>[for arrivals from 7 Oct 2021]</b> before arriving in Singapore, note that:
+					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of the countries/regions you have visited will apply. For instance, a traveller who had left for Singapore from a Category (II) country/region but transited via a Category (III) country/region, will be subject to the Category (III) measures; and</li>
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 21 <b>[for arrivals before 7 Oct 2021]</b> or 14 <b>[for arrivals from 7 Oct 2021]</b> consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>&#10113;</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
+										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
 			</td>
     </tr>
@@ -43,19 +43,19 @@ On this page you will find the following:
 ### Categories of Travel Health Control Measures (for arrivals from 6 Oct 2021, 2359H)
 
 	
-<i>(Mobile users scroll right &#9755; to view the table)</i>
+<i>(Mobile users scroll right ☛ to view the table)</i>
 
 <div id="table"></div>
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions by Travel Health Control Categories</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions by Travel Health Control Categories</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<b>Category (I)</b><br>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<b>Category (I)</b><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
@@ -73,7 +73,7 @@ A step-by-step traveller’s checklist for Cat(I) travel history is available <a
 </td> 
 	</tr>
 <tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (II)</b><br>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (II)</b><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei Darussalam</b></li>
@@ -128,7 +128,7 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 </td>
 </tr>
 		<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (III)</b><br>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (III)</b><br>
 	<ul style="margin-top:0px; list-style-type: disc;">
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bahrain</b></li>
@@ -179,17 +179,15 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 			<!--<b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN.-->
 		</li>
 	</ol><br><br>
-	<span style="color:red;"><b>For approved travellers who are <a href="/health/vtsg">fully vaccinated</a>:</b></span><br><br>
-	<!--<b>[For arrivals before 22 Oct 2021]</b>--><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.<br/><br/>
+	<span style="color:red;"><b>Note for approved travellers who are <a target="_blank" href="/health/vtsg">fully vaccinated</a>:</b></span><br><br>
+	<!--<b>[For arrivals before 22 Oct 2021]</b>--> Fully vaccinated travellers may serve their 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments (instead of at a designated SHN Dedicated Facility) and take a COVID-19 PCR test on Day 10 of SHN. See <a href="/travel-checklist/category-3#1F">Stage 1F</a> of the Category III Traveller's Checklist for details on how to apply to serve your SHN at your place of residence, hotel, or serviced apartment.  <br><br>
 	<!--<b>[For arrivals from 22 Oct 2021]</b><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore, and on Day 10 of SHN. -->
 	</li>
 </ol>
-	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">See <a href="/travel-checklist/category-3#1F">Stage 1F</a> of the checklist for details on how to apply to serve your SHN at your place of residence, hotel, or serviced apartment.  </p>
 </td>
 </tr>	
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>	
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>	
 <br><br>
 A step-by-step traveller’s checklist for Cat(IV) travel history is available <a href="/travel-checklist/category-4">HERE</a>.
 </td>
@@ -241,7 +239,7 @@ A step-by-step traveller’s checklist for Cat(IV) travel history is available <
 						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sri Lanka</b></li>
 				</ul></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Only Singapore Citizens, Permanent Residents and travellers under the Death and Critical Illness Emergency Visits Lane are allowed entry. 
-<br/><br/>
+<br><br>
 All other travellers disallowed entry, including travellers who have received prior entry approvals.
  </td>
     </tr>
@@ -256,25 +254,25 @@ All other travellers disallowed entry, including travellers who have received pr
 </table>
 
 
-<div id="before"></div>	  
+<div></div>	  
 
 
 ### Categories of Travel Health Control Measures (for arrivals before 6 Oct 2021, 2359H)
 
 	
-<i>(Mobile users scroll right &#9755; to view the table)</i>
+<i>(Mobile users scroll right ☛ to view the table)</i>
 
 <div id="table"></div>
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions by Travel Health Control Categories</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions by Travel Health Control Categories</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<b>Category (I)</b><br>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<b>Category (I)</b><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
@@ -292,7 +290,7 @@ A step-by-step traveller’s checklist for Cat(I) travel history is available <a
 </td> 
 	</tr>
 <tr>
-<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (II)</b><br>
+<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (II)</b><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei Darussalam</b></li>
@@ -333,7 +331,7 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 </td>
 </tr>
 		<tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (III)</b><br>
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (III)</b><br>
 	<ul style="margin-top:0px; list-style-type: disc;">
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
@@ -384,7 +382,7 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 </td>
 </tr>	
 <tr>
-<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>			
+<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>			
 <br><br>
 A step-by-step traveller’s checklist for Cat(IV) travel history is available <a href="/travel-checklist/category-4">HERE</a>.
 </td>
@@ -434,7 +432,7 @@ A step-by-step traveller’s checklist for Cat(IV) travel history is available <
 						  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sri Lanka</b></li>
 				</ul></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Only Singapore Citizens, Permanent Residents and travellers under the Death and Critical Illness Emergency Visits Lane are allowed entry. 
-<br/><br/>
+<br><br>
 All other travellers disallowed entry, including travellers who have received prior entry approvals.
  </td>
     </tr>
