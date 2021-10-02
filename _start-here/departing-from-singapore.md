@@ -3,7 +3,7 @@ title: Departing from Singapore
 permalink: /departing/overview
 ---
 When departing from Singapore, the following is advised before your trip:
-- Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories to other countries/regions.
+- Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories for specific countries/regions.
 - Check if you are eligible for outbound SafeTravel Lane arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary before your trip if you need certainty of a return date.
