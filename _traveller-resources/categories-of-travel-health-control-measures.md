@@ -121,7 +121,8 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 </li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN <br/><br/> <b>OR</b> <br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 7 of SHN.
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN.
+	<!--<b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN <br/><br/> <b>OR</b> <br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 7 of SHN.-->
 </li>
 </ol>
 </td>
@@ -141,15 +142,16 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Greece</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Iceland</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Ireland</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Liechtenstein</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Maldives</b></li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Slovakia</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Turkey</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United States</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United Kingdom</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United States</b></li>
+		
 </ul>
 	<br>
 A step-by-step traveller’s checklist for Cat(III) travel history is available <a href="/travel-checklist/category-3">HERE</a>.
@@ -173,11 +175,13 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 	<ol style="font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">
 		<!--<li style="font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">Take a COVID-19 PCR test on Day 10 of SHN;</li>-->
 		<li style="font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore and</li>
-		<li style="font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;"><b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN. </li>
+		<li style="font-size:16px; margin-top:0px; margin-bottom:0px; list-style-type:lower-roman;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.
+			<!--<b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN.-->
+		</li>
 	</ol><br><br>
 	<span style="color:red;"><b>For approved travellers who are <a href="/health/vtsg">fully vaccinated</a>:</b></span><br><br>
-	<b>[For arrivals before 22 Oct 2021]</b><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.<br/><br/>
-	<b>[For arrivals from 22 Oct 2021]</b><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore, and on Day 10 of SHN. 
+	<!--<b>[For arrivals before 22 Oct 2021]</b>--><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.<br/><br/>
+	<!--<b>[For arrivals from 22 Oct 2021]</b><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore, and on Day 10 of SHN. -->
 	</li>
 </ol>
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">Note 1:</span></b></p>
@@ -208,7 +212,8 @@ A step-by-step traveller’s checklist for Cat(IV) travel history is available <
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>-->
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a>, on Days 3 and 7 of their arrival in Singapore; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN. </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.
+		<!--<b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN.--> </li>
 	</ol>
 	</li>
 	</ol>
