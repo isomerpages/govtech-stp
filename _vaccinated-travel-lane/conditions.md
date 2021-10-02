@@ -73,7 +73,7 @@ Please click on the following links to view the conditions applicable to you, co
 
 <div id="after"></div>
 
-#### For travellers entering Singapore with effect from 6 October 2021, 2359hrs, to before 18 October 2021, 2359hrs 
+#### For travellers entering Singapore with effect from 6 October 2021, 2359hrs
 
 
 <ol style="font-size:20px;">
