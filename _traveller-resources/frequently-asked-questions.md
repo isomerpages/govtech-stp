@@ -804,8 +804,6 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any <a href="/shn-and-swab-summary">Category (I) to (III) country/region</a> for 21 (for arrivals before 7 Oct 2021) or 14 (for arrivals after 7 Oct 2021) consecutive days before arrival in Singapore</li>
 </ol>
 
-From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinated overseas with a WHO-Emergency Use Listing (EUL) vaccine, and who can provide a valid, <b>English-language vaccination certificate</b>, can request for a tamper-proof vaccination sticker affixed onto their passports to be eligible for vaccination-differentiated safe management measures. For more information on vaccination stickers for short-term visitors, click [here](https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)). 
-
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
 From 8 September 2021, [fully vaccinated travellers](/health/vtsg) who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
