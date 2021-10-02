@@ -806,7 +806,7 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 
-From 8 September 2021, [fully vaccinated travellers](/health/vtsg) who are departing from Germany or Brunei Darussalam for Singapore, will not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
+[Fully vaccinated travellers](/health/vtsg) utilising the Vaccinated Travel Lane are not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
 
 Click here to [Go Back To Top](#top).
 
@@ -816,7 +816,7 @@ Click here to [Go Back To Top](#top).
 
 ## Travellers who require the use of nebuliser
 
-#### 1. I require to use a nebuliser to manage my medical condition, what must i do before i enter Singapore?
+#### 1. I require to use a nebuliser to manage my medical condition, what must I do before I enter Singapore?
 
 All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
 
