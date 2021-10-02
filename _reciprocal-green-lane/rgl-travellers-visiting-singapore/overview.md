@@ -9,7 +9,7 @@ The Reciprocal Green Lane (RGL) facilitates short-term essential business and of
 
 <b>Business and official travellers travelling from Mainland China may alternatively visit Singapore via the <a href="/atp/overview">Air Travel Pass.</a> </b>
 
-[Fully vaccinated travellers](/health/vtsg) from Brunei Darussalam and Germany who are planning to enter Singapore from 8 Sep 2021, 0001 hours (Singapore time) may consider entering the country via the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process).
+[Fully vaccinated travellers](/health/vtsg) from Brunei Darussalam and Germany should consider entering Singapore via the [Vaccinated Travel Lane (VTL)](/vtl/requirements-and-process) instead.
 
 <table>
 <thead>
