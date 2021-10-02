@@ -68,12 +68,12 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel history</b> </td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
      <ol style="margin-top:0px; list-style-type: disc;">
-         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in their declared point of departure in the last 21 consecutive days before departing for Singapore</li>
+         <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Remain in their declared point of departure in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days before departing for Singapore</li>
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Monitor their health status before departure; Visitors should not travel to Singapore if they:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
- <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact means:
+ <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Are diagnosed or suspected to have COVID-19 infection in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.0;">Had close contact with any person with COVID-19 in the last 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore. Close contact means:
   <ul style="margin-top:0px;">
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"> Providing care for a COVID-19 patient, including in healthcare or family/social setting; </li>
     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>
@@ -195,7 +195,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore and up to 21 days after departure from Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore and up to 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after departure from Singapore</th>
   </tr>
   </thead>
 <tbody>
@@ -206,7 +206,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore. <br/><br/>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore. <br/><br/>
 			<b>For TraceTogether token users:</b><br/>
 As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <br/><br/>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints, prior to their departure from Singapore.</p><br/>

@@ -56,11 +56,8 @@ To make changes to your suite bookings, please first contact the SDF to ensure t
 
 Please do not make multiple suite bookings. SDFs will be asked to cancel all bookings if a traveller is found to have made multiple bookings.
 
-#### 9. I had booked a ‘Regular’ suite, but this option is no longer indicated under [Suite Options](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options). Will there be any change to my suite booking?
 
-‘Regular’ suites were renamed as ‘Standard’ suites on 14 Apr 2021. The size of suites within this category is unchanged (80-100sqm).
-
-#### 10. The duration of SHN I am required to serve at an SDF changed after I booked my suite. Will I be able to stay in the suite I booked for the entire new duration of my SHN?
+#### 9. The duration of SHN I am required to serve at an SDF changed after I booked my suite. Will I be able to stay in the suite I booked for the entire new duration of my SHN?
 
 The SDF will contact you to share possible options and change in costs (if any). If your SHN duration was increased, your suite booking is subject to availability. If the same suite is available, the [latest costs](/health/shn/sdfupgrade#options) will apply for the additional days (after pro-ration). If your SHN duration was reduced, the cost will be pro-rated based on the actual number of days stayed in the suite.
 
@@ -74,7 +71,7 @@ Travellers will be charged a pro-rated cost for the suite, based on the number o
 
 In addition, travellers will also be charged additional costs of at least $345 ($300 for specialised cleaning costs for the vacated room; $45/vehicle for transport to the next SDF) for their transfers.
 
-For example, total costs for a traveller on 14-day SHN at an SDF: [2/14 * $2k at existing SDF] + [12/14 * $7.5k at the standard suite] + $345 = $7.1k (rounded up). Travellers who have already paid the default SDF cost only need to pay the difference.
+For example, total costs for a traveller on 10-day SHN at an SDF: [2/10 * $1,450 at existing SDF] + [8/10 * $5,350 at the standard suite] + $345 = $4,915. Travellers who have already paid the default SDF cost only need to pay the difference.
 
 #### 2. How do I pay for my suite?
 
@@ -86,8 +83,4 @@ Travellers who are transferring to another suite mid-way through their SHN stay 
 
 Travellers who have made pre-payment when obtaining approval to enter Singapore will be required to pay the difference from the higher cost of the SDF suite. This additional amount will be paid to the SDF at check-in.
 
-For example: If traveller has already paid $2k to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $5.5k to Fairmont Singapore at check-in (assuming a 14-day SDF stay).
-
-#### 4. When I made my suite booking, prices were different from what is [currently](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) published. Which price will I pay?
-
-The [current](https://safetravel.ica.gov.sg/health/shn/sdfupgrade#options) prices for ‘Standard’ (previously ‘Regular’), ‘Large’, and ‘Extra Large’ suites took effect on 14 Apr 2021. Travellers who made suite bookings with SDFs before 14 Apr 2021, will continue to pay the previous price listed for the suite at the point of booking. However, should travellers decide to make changes to their booking (i.e. change of dates, SDF, or suite type), they will be subject to the new prices instead. This does not apply to additional costs imposed, which are separate from the suite charges (e.g. charges for COVID-19 tests).
+For example: If traveller has already paid $1,450 to an agency when obtaining approval to enter Singapore, and later decides to book a ‘Standard’ suite at Fairmont Singapore before arrival, the traveller will need to pay the balance of $3,900 to Fairmont Singapore at check-in (assuming a 10-day SDF stay).

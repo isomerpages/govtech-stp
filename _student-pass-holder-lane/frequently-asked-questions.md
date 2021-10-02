@@ -52,9 +52,9 @@ Please try applying via the <a href="https://eservices.ica.gov.sg/STO">SafeTrave
 #### 6.  I am a Student’s Pass holder in a post-graduate programme. Can my spouse and children seek entry approval via the Student’s Pass Holder Lane (STPHL) as well?
 In view of the COVID-19 situation globally, new entry approvals have been reduced until further notice for all long-term pass holders with travel history to higher-risk countries/regions (i.e. all countries/regions, except countries/regions listed in Category (I) and (II) of the table [here](/stpl/shn-and-swab-summary). 
 
-If your 21-day travel history includes only countries listed in Category (I),(II) and (III) in the table [here](/stpl/shn-and-swab-summary), you may submit an entry appeal for your spouse and children <a href="https://go.gov.sg/sto-enquiry">here</a>. 
+If your 21-day (for arrivals before 7 Oct 2021) or 14-day (for arrivals after 7 Oct 2021) travel history includes only countries listed in Category (I),(II) and (III) in the table [here](/stpl/shn-and-swab-summary), you may submit an entry appeal for your spouse and children <a href="https://go.gov.sg/sto-enquiry">here</a>. 
 
-If your 21-day travel history includes a higher-risk country/region, we advise you to apply for entry approval for yourself to enter Singapore first, via <a href="https://eservices.ica.gov.sg/STO">this link</a>. When the COVID-19 situation has stabilised, you may then apply for your family to enter.
+If your 21-day (for arrivals before 7 Oct 2021) or 14-day (for arrivals after 7 Oct 2021) travel history includes a higher-risk country/region, we advise you to apply for entry approval for yourself to enter Singapore first, via <a href="https://eservices.ica.gov.sg/STO">this link</a>. When the COVID-19 situation has stabilised, you may then apply for your family to enter.
 
 #### 7. I would like appeal for an Entry Approval for my child and I to enter Singapore so that he/she can sit for tests conducted as part of the Admissions Exercise for International Students (AEIS).
 

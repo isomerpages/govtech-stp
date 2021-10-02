@@ -2,9 +2,9 @@
 title: Overview
 permalink: /scpr-familial-ties-lane/overview
 ---
-<i>The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. If you are ineligible for entry via FTL, return to this menu to explore other Safe Travel Lane options. </i>
+<i>The <b>Familial Ties Lane (FTL)</b> is a Safe Travel Lane that facilitates entry of immediate family members of Singapore Citizens (SC) / Permanent Residents (PR), and PR in-principle approval holders into Singapore. </i>
 
-<i>Travellers who are SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/requirements-and-process) instead for more information. </i>
+<i>SC/PRs may return to Singapore without the need for any Entry Approvals and should refer to [this page](/sc-pr/requirements-and-process) instead for more information. If you are ineligible for entry via FTL, return to <a href="/arriving/overview">this menu</a> to explore other Safe Travel Lane options. </i>
 
 ---
 The table below is a quick overview of the key FTL features and requirements.
@@ -28,12 +28,13 @@ The table below is a quick overview of the key FTL features and requirements.
 			 </li>
 			  <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC/PR, holding an IPA-Dependent Pass issued by the Ministry of Social and Family Development</li>
 			 </ol>
+			 <p style="font-size:16px; margin-top:10px; margin-bottom:10px; line-height:1.5;">From 1 Nov 2021, pirority will be given to vaccinated travellers applying for entry via the FTL. Unvaccinated travellers may still apply for entry via the FTL but would be accorded lower priority.</p>
 			 </td>
 	</tr>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 21-day travel history before arrival in Singapore)</i></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 21-day <b>(for arrivals before 7 Oct 2021)</b> or 14-day <b>(for arrivals from 7 Oct 2021)</b> travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed except travellers whose 21-day travel and transit history before arrival in Singapore includes any of the following countries:</p><br/>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed except travellers whose 21-day <b>(for arrivals before 7 Oct 2021)</b> or 14-day <b>(for arrivals from 7 Oct 2021)</b> travel and transit history before arrival in Singapore includes any of the following countries:</p><br/>
 
 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
@@ -80,7 +81,7 @@ The table below is a quick overview of the key FTL features and requirements.
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 21-day travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 21-day <b>(for arrivals before 7 Oct 2021)</b> and 14-day <b>(for arrivals from 7 Oct 2021)</b> travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>

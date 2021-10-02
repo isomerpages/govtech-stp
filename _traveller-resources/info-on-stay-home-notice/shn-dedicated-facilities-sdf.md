@@ -3,7 +3,6 @@ title: SHN-Dedicated Facilities (SDF)
 permalink: /health/shn/sdf
 third_nav_title: Info On Stay Home Notice
 ---
-
 ### SHN-Dedicated Facilities (SDF)
 
 Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF <b>only upon arrival</b>.
@@ -11,16 +10,16 @@ Travellers arriving from higher-risk countries/regions will be required to serve
 If you have specific needs for your SDF stay (e.g. medical requirements), you may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for details. Alternatively, you may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. You are strongly advised to submit your enquiry or request two weeks in advance of your arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation.^ If you are already serving SHN at an SDF, you may wish to contact the SDF's front desk for assistance.
 <p style="margin-top: -5px;"><sup>^</sup><i> As  there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</i></p>
 
-<b>Cost of SDF Stay (14 Days)<br> (For cost of SDF stay relating to Helpers and Confinement Nannies, click <a href="/wphl/shn-and-swab-summary">here</a>.)</b>
+<b>Cost of SDF Stay (10 Days)<br> (For cost of SDF stay relating to Helpers and Confinement Nannies, click <a href="/wphl/shn-and-swab-summary">here</a>.)</b>
 
 <table>
   <tbody><tr>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">S$2,000 per person for accommodation and food.</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">S$1,450 per person for accommodation and food.</td>
   </tr>
   <tr>
     <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
-    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">S$1,300 per person for accommodation and food.
+    <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">S$950 per person for accommodation and food.
     </td>   
   </tr>
     <tr>
@@ -38,7 +37,7 @@ Travellers who wish to book an SDF suite at a specific hotel at higher cost, may
 
 ### SDF Opt-Out
 
-In general, travellers issued with a 14-day SHN must complete their SHN at an SDF, Exceptions, however, can be arranged for small group of travellers who will complete their 14-day SHN at their own residence instead. Travellers eligible for this arrangement should submit their applications three working days before their scheduled arrival in Singapore via the links below:
+In general, travellers issued with a 10-day SHN must complete their SHN at an SDF, Exceptions, however, can be arranged for small group of travellers who will complete their 10-day SHN at their own residence instead. Travellers eligible for this arrangement should submit their applications three working days before their scheduled arrival in Singapore via the links below:
 
 <table>
   <thead>
@@ -54,10 +53,10 @@ In general, travellers issued with a 14-day SHN must complete their SHN at an SD
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
        <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="/health/vtsg">Fully vaccinated travellers</a> arriving in Singapore <b>from 20 August 2021</b>, 2359hrs, who:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="/health/vtsg">Fully vaccinated travellers</a> who:
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; AND</li>
-	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 21 consecutive days before arrival in Singapore.</li>
+	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 14 consecutive days before arrival in Singapore.</li>
 </ol>
         <p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">In addition to the above, the <a href="/health/vtsg">fully vaccinated travellers</a> must serve their SHN in their own residence or other suitable accommodation, such as hotels and serviced apartments, either:</p>
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-roman;">

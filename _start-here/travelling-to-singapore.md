@@ -7,8 +7,9 @@ permalink: /arriving/overview
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">here</a></b></p>
 </div>-->
 
-Please use the self-help tool below to find out which SafeTravel lanes you may use to travel to Singapore. If the tool below does not work, try opening it in a separate window <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16">here</a>, or refer to the SafeTravel Lanes listed  <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">here</a>. Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arriving/crew">here</a> instead for more information.
+All travellers seeking to enter Singapore will enter via a SafeTravel Lane arrangement, and the eligibility criteria and requirements for each SafeTravel Lane differ depending on the traveller's profile. Please use the self-help tool below to find out which SafeTravel Lanes you may use to travel to Singapore, and the corresponding lane requirements. If the tool below does not work, try opening it in a separate window <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16">here</a>, or refer to the SafeTravel Lanes listed  <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">here</a>. 
 
+Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arriving/crew">here</a> instead for more information.
 
 <iframe width="100%" height="2100px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,10 +31,9 @@ Please use the self-help tool below to find out which SafeTravel lanes you may u
 
 ### 1) Returning Singapore Citizens and Permanent Residents
 
-Singapore Citizens and Singapore Permanent Residents <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info.
+Singapore Citizens (SC) and Permanent Residents (PR) <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info on requirements for the Returning SC/PR Lane.
 
-There are reduced health measures for fully vaccinated travellers departing from Germany and Brunei under the Vaccinated Travel Lane <b>from 8 Sep 2021</b>. Click [here](/vtl/requirements-and-process) for more information.
-
+Fully vaccinated Singapore Citizens and Permanent Residents departing from Germany and Brunei under the Vaccinated Travel Lane can enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/vtl/requirements-and-process) for more information on the Vaccinated Travel Lane for SC/PR travellers.
 
 ---
 
@@ -47,7 +47,7 @@ Click here to return to the <a href="#top">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
-Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane which is open for applications from 1 Sep 2021, for first arrivals on 8 Sep 2021. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
+Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
 
 Otherwise, click the relevant lane below for more details.
 
@@ -196,7 +196,7 @@ To expedite the assessment process, travellers who are requesting for emergency 
 
 Approved travellers will be required to abide by the stipulated health measures for entry including <a href="/health/shn">Stay Home Notice</a> and <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a>. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
 
-Click [here](/dcev/overview) for more information
+Click [here](/dcev/overview) for more information on the Death and Critical Illness Emergency Visits Lane.
 
 ---
 

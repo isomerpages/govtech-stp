@@ -97,8 +97,6 @@ If the above clarifies regarding your vaccination status, you may find out more 
 
 A verified vaccination status may be required for certain activities in Singapore, such as participating in mask-off activities and attending large-scale events. You can visit MOH’s website [here](https://go.gov.sg/moh-smm) for more information on domestic Vaccination-Differentiated Safe Management Measures within Singapore.
 
-From 25 Aug to 17 Sep 2021, ICA had issued tamper-proof vaccination stickers affixed to travellers’ passports to allow visitors to be eligible for the vaccination-differentiated Safe Management Measures. These stickers are only valid till 30 Sep 2021. 
-
 Travellers who arrived in Singapore after 17 Sep 2021 will need to have their vaccination status reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
 
 <ol style="list-style-type: lower-roman;">

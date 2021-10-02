@@ -34,7 +34,7 @@ The length of your SHN will be stipulated in the Entry Approval Letter or Safe T
 
 Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
-Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their 7-day SHN.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
 #### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
 
@@ -48,7 +48,7 @@ Travellers should note that basic essentials such as portable water, cleaning su
 
 #### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
-The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect for 7 or 14 days (depending on 21-day travel history) until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. [Click here](/shn-calculator) to calculate the end date of your SHN.
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
 Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
 
@@ -164,14 +164,82 @@ Only travellers with the same travel history and heading to the same declared pl
 
 <div id="transportQ3"></div>
 
-<!-- #### 2. I have been allowed to serve my 14-day SHN at my residence. What are the types of transport that I can take?
+#### 2. I have been approved to serve SHN at my place of residence/accommodation. What are the types of transport that I can take?
 
-You must make transport arrangements at your own cost from the transport service provider listed in Table 1, for:
-- travelling from the checkpoint to your place of residence; and
-- leaving your place of residence for your scheduled COVID-19 test appointment at the designated testing facility or for approved purposes. You must return immediately to your residence thereafter.
+For travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
+<table>
+  <thead>
+    <tr>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost (SGD; Excludes 10% credit card charge)</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
+				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
+				</ol>
+			</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authoritiesb</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc single trip approved by the relevant authorities</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
+    </tr>
+  </tbody>
+  </table>
 
- <table>
+ **[For arrivals from 7 October 2021]** <a href="/health/vtsg">Fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
+
+<table>
+  <thead>
+    <tr>
+<th colspan ="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+    </tr>
+  </tbody>
+  </table>
+  
+The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. 
+
+<!-- <table>
   <thead>
     <tr>
 			<th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" colspan="3">Table 1: Transport Service Provider for Persons Approved* to Serve SHN at A Place of Residence</th>
@@ -184,7 +252,7 @@ You must make transport arrangements at your own cost from the transport service
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;" rowspan="2">Strides Transportation Pte Ltd <br> 6477 5977 
 </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From checkpoint to residence</b> - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br><br>plus <br><br><b>From residence to testing facility for COVID-19 tests on Day 14 and Day 21 (round trip)</b> - Please ensure that your test appointment has been scheduled before making transport arrangements. .</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From checkpoint to residence</b> - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br><br>plus <br><br><b>From residence to testing facility for COVID-19 tests on Day 14 <b>(for arrivals before 7 Oct 2021)</b> or Day 10 <b>(for arrivals from 7 Oct 2021)</b> (round trip)</b> - Please ensure that your test appointment has been scheduled before making transport arrangements. .</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
@@ -193,7 +261,7 @@ You must make transport arrangements at your own cost from the transport service
 </td>
     </tr>
     <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;" colspan="3">* <i>Includes only travellers with a travel history to a Category (III) or (IV) country/region in the past 21 days before arriving in Singapore.</i></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;" colspan="3">* <i>Includes only travellers with a travel history to a Category (III) or (IV) country/region in the past 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before arriving in Singapore.</i></td>
     </tr>
   </tbody>
   </table> 
@@ -241,7 +309,7 @@ Travellers who present falsified COVID-19 test certificates will be dealt with a
 
 Travellers who are unwell or recently diagnosed with [COVID-19](https://www.moh.gov.sg/covid-19/faqs) should defer their travels. 
 
-To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 21 days or fewer from date of travel. Travellers should only schedule their trip to Singapore 21 days after the first diagnosis and after they have fully recovered from COVID-19. 
+To prevent the spread of COVID-19, airlines will deny travellers from boarding an aircraft if they have a recent diagnosis of COVID-19, i.e. first diagnosis made 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days or fewer from date of travel. Travellers should only schedule their trip to Singapore 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after the first diagnosis and after they have fully recovered from COVID-19. 
 
 <div id="pcrtestQ5"></div>
 
@@ -250,7 +318,7 @@ To prevent the spread of COVID-19, airlines will deny travellers from boarding a
 If a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) is required to be taken <u>48 hours</u> before departure, i.e. a condition for entry into Singapore, travellers must take the test regardless of whether they have recovered from COVID-19. 
 
 Travellers will be denied boarding by their airline or ferry if they are:
-- diagnosed with COVID-19 infection 21 days or less, from the date of travel; and/or
+- diagnosed with COVID-19 infection 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days or less, from the date of travel; and/or
 - tested positive on the COVID-19 PCR test within <u>48 hours</u> before departure for Singapore.
 
 #### 6. How will I be informed of my COVID-19 test result?
@@ -552,7 +620,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 </td>
    </tr> 
 <!--				<tr>
-<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" colspan="2">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 21 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
+<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" colspan="2">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 14 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
 		</tr>-->
       </tbody>
   </table>
@@ -730,13 +798,11 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-From <b>20 August 2021, 2359hrs</b>, [fully vaccinated travellers](/health/vtsg) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day SHN at their place of residence or suitable accommodation of choice if they:
+[Fully vaccinated travellers](/health/vtsg) will be able to apply to opt out of dedicated SHN facilities and serve their 14-day (for arrivals before 7 Oct 2021) or 10-day (for arrivals after 7 Oct 2021) SHN at their place of residence or suitable accommodation of choice if they:
 <ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for 21 consecutive days before arrival in Singapore</li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any <a href="/shn-and-swab-summary">Category (I) to (III) country/region</a> for 21 (for arrivals before 7 Oct 2021) or 14 (for arrivals after 7 Oct 2021) consecutive days before arrival in Singapore</li>
 </ol>
-
-From 25 Aug 2021 to 9 Sep 2021, short-term visitors who have been fully vaccinated overseas with a WHO-Emergency Use Listing (EUL) vaccine, and who can provide a valid, <b>English-language vaccination certificate</b>, can request for a tamper-proof vaccination sticker affixed onto their passports to be eligible for vaccination-differentiated safe management measures. For more information on vaccination stickers for short-term visitors, click [here](https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)). 
 
 For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
 

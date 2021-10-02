@@ -35,7 +35,7 @@ Travellers with travel history to the following countries/regions will not be al
 
 #### Pre-Departure COVID-19 Test
 
-A pre-departure COVID-19 test is not required for transit travellers who only have travel history to <a href="/shn-and-swab-summary#table" target="_blank">Category(I) countries/regions</a> in the 21 days before transiting in Singapore.
+A pre-departure COVID-19 test is not required for transit travellers  with a 21-day travel history (for arrivals before 7 Oct 2021) or 14-day travel history (for arrivals after 7 Oct 2021) to any <a href="/shn-and-swab-summary#table" target="_blank">Category(I) countries/regions</a>.
 
 All other travellers transiting in Singapore are required to take a COVID-19 Polymerase Chain Reaction test("PCR test") <b>within 48 hours before departure for Singapore.</b> Only travellers with a valid negative COVID-19 PCR test report will be allowed to board their flight or ferry to transit in Singapore.
 

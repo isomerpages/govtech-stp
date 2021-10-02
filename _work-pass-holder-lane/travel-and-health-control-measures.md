@@ -4,7 +4,7 @@ permalink: /wphl/shn-and-swab-summary
 ---
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures. 
 
-For Construction, Marine shipyard or Process sector workers who meet <b>all of these conditions</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) for their travel health control measures:
+For Construction, Marine shipyard or Process sector workers ("CMP workers") who meet <b>all of these conditions</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) for their travel health control measures:
 - Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes
 - Not entering Singapore with their dependants
 
@@ -14,18 +14,20 @@ For all other pass holders (work pass holders and their dependants), please refe
 
 <div id="table2"></div>
 
-<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 22 Sep 2021, 2359h</span></b></p>
+<p style="font-size:24px;"><b>Travel Health Control Measures for Travellers Arriving <span style="color: red;">From 6 Oct 2021, 2359h</span></b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 22 Sep 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measure stipulated in their Stay Home Notice (SHN).</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 6 Oct 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measure stipulated in their Stay Home Notice (SHN).</b></p>
 
-<b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
+<b>Note:</b> <br/><br/>Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
+
+From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement nannies) with travel history in the last 14 days from all countries/regions before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 
 <table>
 <thead>
 <tr>
-<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions that traveller had spent last 21 consecutive days in before entering Singapore</b></th>
+<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions that traveller had spent last 14 consecutive days in before entering Singapore</b></th>
 <th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Travel Health Control Measures under WPHL</b></th>
 </tr>
 	<tr>
@@ -57,7 +59,11 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+</tr>
+		<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p></td>
 </tr>
 	</table>
 	</td> 
@@ -74,7 +80,12 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 	<table>
 <tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
+</tr>
+				<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+					</td>
 </tr>
 	</table>
 </td> 
@@ -85,11 +96,23 @@ For all other pass holders (work pass holders and their dependants), please refe
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei Darussalam</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Canada</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Czech Republic</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>France</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Germany</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Portugal</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>New Zealand</b></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Republic of Korea</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Spain</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 </ul>
 </td>
 <td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">
@@ -124,9 +147,16 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).--></li>
 </ol>
-	</td> 
+	<table>
+				<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+</td>
+</tr>
+	</table>
+	</td>
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
@@ -158,35 +188,45 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).--></li>
 </ol>
+			<table>
+						<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p></td>
+</tr>
+			</table>
 </td> 
 	</tr>
 		<tr>
 <td rowspan ="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><u><b>Category III</b></u><br/><br/>
 	<ul style="margin-top:0px; list-style-type: disc;">
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bahrain</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Belgium</b></li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bhutan</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bulgaria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Croatia</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Czech Republic</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Denmark</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Cyprus</b></li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Egypt</b></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Finland</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>France</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Italy</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Japan</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Luxembourg</b></li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Malta</b></li>
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Netherlands</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Fiji</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Greece</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Iceland</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Ireland</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
+		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Liechtenstein</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Maldives</b></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Slovakia</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Norway</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Portugal</b></li>
 						<!--<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Poland</b></li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Saudi Arabia</b></li>-->
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Spain</b></li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Sweden</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Switzerland</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Turkey</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United Kingdom</b></li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>United States</b></li>
 		
 </ul>
 </td>
@@ -204,7 +244,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore:
 	</li>
 	<table>
 <tr>
@@ -224,19 +264,31 @@ For all other pass holders (work pass holders and their dependants), please refe
 					</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 14-day <a href="/health/shn">SHN</a> at:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,500 including GST) where the helper/CN will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 and 11 of arrival ($40 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), where the helper/CN will:
+	<ol style="margin-top: 0px; list-style-type: lower-latin;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li>
+			</ol>
+		</li>
 		</ol>
 	</li>
 </ol>
-<i>	* During the entry application, submitters can request for helpers and CNs to serve their 14-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
+<i>	* During the entry application, submitters can request for helpers and CNs to serve their 10-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the helper/CN fulfils <b>both of these conditions</b>:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated<sup> 1 </sup> with vaccines approved for use under the national vaccination programme; and </li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 		</ol>
-</i>
+</i><br/>
+	<table>
+				<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+</td>
+</tr>
+	</table>
 	</td> 
 		<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li><br/>
@@ -255,15 +307,21 @@ For all other pass holders (work pass holders and their dependants), please refe
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take on-arrival COVID-19 PCR test at the Singapore checkpoint:
 <br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 	</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($2,000 including GST), where the pass holder will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 and 11 of arrival ($40 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), and take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN.  </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($1,450 including GST), where the pass holder will: 
+			<ol style="margin-top: 0px; list-style-type: lower-latin;">
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*),where the pass holder will:
+	<ol style="margin-top: 0px; list-style-type: lower-latin;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
 	</ol>
 	</li>
 				<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>-->
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(Only for pass holders who were vaccinated overseas)<br/><br/>Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status<sup>#</sup> within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
 </ol>
-			* During the entry application, submitters can request for pass holders to serve their 14-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
+			* During the entry application, submitters can request for pass holders to serve their 10-day SHN at a place of residence or suitable accommodation (e.g. hotel or serviced apartment), instead of SDFs. Submitters can only do so if the pass holder fulfils <b>both of these conditions</b>:		
 			<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated<sup> 2 </sup> and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 				<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder can isolate in a room with an attached toilet.</li>-->
@@ -277,7 +335,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 			</ol><br/>
 			For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
 </td> 
-	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup> 1 </sup>An individual is considered fully vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>.<br/><br/><sup> 2 </sup>Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 14-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</td></tr>
+	<tr><td colspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><sup> 1 </sup>An individual is considered fully vaccinated 14 days after he/she has received the full regimen of Pfizer-BioNTech/ Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a>.<br/><br/><sup> 2 </sup>Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve 10-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</td></tr>
 	</tr>
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><u><b>Category IV</b></u><br/><br/><b>All other countries/regions <u>excluding</u></b>
@@ -305,7 +363,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 test when they arrive in Singapore:</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore:</li>
 <table>
 <tr>
 <th  style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  line-height:1.5;"><b>If the helper/CN is serving SHN </b></th>
@@ -327,13 +385,20 @@ For all other pass holders (work pass holders and their dependants), please refe
 					</td>
 </tr>
 	</table>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 14-day <a href="/health/shn">SHN</a> at an SDF ($1,500 including GST) and:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer ARTs ($40 including GST) on Days 3, 7 and 11 of arrival; <u>and</u></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer ARTs ($20 including GST) on Days 3, 7 of arrival; <u>and</u></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li>
 		</ol>
 	</li>
 </ol>
+	<table>
+				<tr>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
+</td>
+</tr>
+	</table>
 	</td> 
 	<td  style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
@@ -372,10 +437,10 @@ For all other pass holders (work pass holders and their dependants), please refe
 	</table>
 	<p style="font-size:16px; line-height:1.5; margin-top:15px;">Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a><b> before the pass holder arrives in Singapore.</b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.</p>-->
 	</li>	
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">		Serve a 14-day <a href="/health/shn/">SHN</a> at an <a href="/health/shn/sdf">SHN dedicated facility (SDF) </a>($2,000 including GST) and:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">		Serve a 10-day <a href="/health/shn/">SHN</a> at an <a href="/health/shn/sdf">SHN dedicated facility (SDF) </a>($1,450 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> ($40 including GST) on Days 3, 7 and 11 of arrival; <u>and</u></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 14 of SHN. </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> ($20 including GST) on Days 3, 7 of arrival; <u>and</u></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li>
 		</ol>
 	</li>
 	<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>	Additional procedure only for pass holders staying in dormitories:</b><br/><br/>After the 14-day SHN, such pass holders must still undergo an <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">additional 7-day stay and testing regime.</a>

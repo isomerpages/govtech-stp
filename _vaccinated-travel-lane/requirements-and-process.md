@@ -2,12 +2,6 @@
 title: Requirements and Process
 permalink: /vtl/requirements-and-process
 ---
-As part of Singapore’s efforts to reopen our borders safely, fully vaccinated travellers (including Singapore Citizens and Permanent Residents) can now travel to Singapore via the Vaccinated Travel Lane (VTL). 
-
-In order to enter Singapore via the VTL, a traveller, who is not a Singapore Citizen or Permanent Resident, must apply for a <b>Vaccinated Travel Pass (VTP)</b> with effect from <b>1 September 2021, 0001 hours (Singapore time)</b>, for entry into Singapore from <b>8 September 2021, 0001 hours (Singapore time)</b>.
-
-<b>Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements.</b> Please click [here](/sc-pr/vtl) for more information on the requirements.
-	
 ### 1. Vaccinated Travel Pass (VTP) Application
 
 #### Eligibility
@@ -16,7 +10,7 @@ Fully vaccinated travellers* who are short-term visitors (including business and
 - Brunei Darussalam
 - Germany
 
-Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/requirements-and-process) for more information on the requirements.
+Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/vtl) for more information on the requirements.
 
 <i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
  
@@ -105,7 +99,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 </tr>
 <tr>
 <td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Lufthansa </td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.lufthansa.com/sg/en/de-sg-vtl">Lufthansa</a> </td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/germany-singapore-vaccinated-travel-lanes/">Singapore Airlines</a></td>
@@ -118,11 +112,12 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 			<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Travel History</b>
 </td>
-						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 21 consecutive days before departing for Singapore.<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
+						<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 21 consecutive days before departing for Singapore.<p style="margin-top:15px; margin-bottom:10px; font-size:16px; ;line-height:1.5;"><i><b>[For travellers entering Singapore with effect from 6 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. </i></p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
 								 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>				 
-				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 days before departing for Singapore; or </li>	
-								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">iii.	Had close contact with any person with COVID-19 in the last 14 days before departing for Singapore. Close contact refers to:
+				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or </li>	
+								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">iii.	Had close contact with any person with COVID-19 in the last 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore. Close contact refers to:
 									  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Providing care for a COVID-19 patient, including in healthcare or family/social settings;</li>				 
 												 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>				
@@ -305,7 +300,7 @@ During their stay in Singapore, travellers must adhere to the prevailing public 
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 <b>For TraceTogether app users:</b>
-					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices at all times while in Singapore. Upon request by the Singapore Ministry of Health, a visitor must provide all data in the TraceTogether app should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices at all times while in Singapore. Upon request by the Singapore Ministry of Health, a visitor must provide all data in the TraceTogether app should he/she test positive for COVID-19 while in Singapore or in the first 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore.
 		</p><br>
 	<b>For TraceTogether token users:</b>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Visitors who use the TraceTogether token are reminded to carry their own tokens with them wherever they go, and not to exchange their tokens with others as each token is uniquely tagged to each individual.
@@ -340,7 +335,7 @@ During their stay in Singapore, travellers must adhere to the prevailing public 
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 					<b>For TraceTogether app users:</b>
-									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">After leaving Singapore, travellers are required to keep their TraceTogether app with the data for 21 consecutive days. Upon request by the Singapore Ministry of Health, a visitor must provide all data in the TraceTogether app should he/she test positive for COVID-19 while in Singapore, or inform the Singapore Ministry of Health of his COVID-19 positive status and request for the code to upload all the data in the TraceTogether app should he/she test positive for COVID-19 in the first 21 days after leaving Singapore. </p>
+									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">After leaving Singapore, travellers are required to keep their TraceTogether app with the data for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days. Upon request by the Singapore Ministry of Health, a visitor must provide all data in the TraceTogether app should he/she test positive for COVID-19 while in Singapore, or inform the Singapore Ministry of Health of his COVID-19 positive status and request for the code to upload all the data in the TraceTogether app should he/she test positive for COVID-19 in the first 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore. </p>
 									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;"><b>For TraceTogether token users:</b></p>
 									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints prior to their departure from Singapore.</p><p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">
 For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.
@@ -349,3 +344,29 @@ For the full requirements and conditions governing the use of TraceTogether, ple
 	</tr>
 	</tbody>
 	</table>
+	
+---
+	
+<p style="margin-top:0px; margin-bottom:0px;">
+<span style="font-size:16px; ">
+<sup>1</sup>Mobile devices that are incompatible with the TraceTogether app include:
+ <ol style="margin-top:0px; list-style-type: disc;">
+         <li style="font-size:16px; margin-top:0px; margin-bottom:0px;">Phones that do not have access to the Apple App Store, Google Play Store, or Huawei App Gallery </li>
+  <li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Non-camera phones </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with Android version 5.0 and below </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with iOS version 9 and below </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones running on Blackberry OS or Symbian OS </li>
+<li style="font-size:16px; margin-top:0px; margin-bottom:0px;"> Phones with a Mobile Device Management (MDM) system installed by employers that prevents downloads from the App Store, Google play store, or Huawei App Gallery.</li>
+            </ol>
+ <p style="margin-top:0px; margin-bottom:0px;">
+<span style="font-size:16px;">
+Visitors, who are unable to download the TraceTogether app on their existing mobile device, can rent a compatible mobile device from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore. 
+              <br/><br/>
+Visitors, who can download the TraceTogether app but are unable to obtain an SMS One-Time Password (OTP) to register their profile on the app due to network restrictions, can book a Singapore SIM card from Changi Recommends <a href="https://www.changirecommends.com/reservation_form.aspx">here</a> before departing for Singapore.
+ <br/> <br/>
+Visitors, who have rented a mobile device or booked a Singapore SIM card from Changi Recommends, must have an electronic or physical copy of their booking confirmation from Changi Recommends to present to the airline staff during check-in at the departure airport, in lieu of a mobile device with the TraceTogether app already downloaded and with their profiles registered on the app . <b>Those who are unable to present a booking confirmation may be refused boarding by the airline.</b>
+ <br/> <br/>
+Such visitors can collect their rental mobile device or Singapore SIM card at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, visitors are to activate the Singapore SIM card and immediately register their profile on the TraceTogether app with their Singapore mobile number and with the same identification number, nationality and date of birth as those shown in the passport that they are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and with their profiles registered on the app.<b> Those who are unable to do so may be denied entry into Singapore by ICA.</b>
+
+<br/><br/>
+<sup>2</sup>The day that the traveller clears arrival immigration for entry into Singaproe is counted as Day 1. To illustrate, if the traveller clears arrival immigration at 2330hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR test on 3 October (i.e. Day 3) and 7 October (i.e. Day 7). If the traveller clears arrival immigration at 0030hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR test on 4 October (i.e. Day 3) and 8 October (i.e. Day 7).
