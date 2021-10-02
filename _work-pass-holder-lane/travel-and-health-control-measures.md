@@ -394,14 +394,9 @@ From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement na
 </ol>
 	<table>
 				<tr>
-<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
-
-<ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who are below 18 years old on date of entry.</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who cannot be vaccinated due to medical conditions.</li>
-	</ol>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those who got vaccinated overseas will also need to take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</p></td>
+</td>
 </tr>
 	</table>
 	</td> 
