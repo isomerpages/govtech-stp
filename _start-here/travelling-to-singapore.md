@@ -47,7 +47,7 @@ Click here to return to the <a href="#top">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
-Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane which is open for applications from 1 Sep 2021, for first arrivals on 8 Sep 2021. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
+Fully vaccinated travellers departing from Germany and Brunei may be able to utilise the Vaccinated Travel Lane. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
 
 Otherwise, click the relevant lane below for more details.
 
