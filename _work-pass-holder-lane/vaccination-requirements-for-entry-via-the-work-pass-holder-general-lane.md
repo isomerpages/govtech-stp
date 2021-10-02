@@ -76,7 +76,7 @@ Pass holders with travel history to [Category III or IV countries/regions](/wphl
     <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">Helpers and confinement nannies</a></li>
   </ol><br/>
 	
-<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history to all countries/regions must be fully vaccinated <b>before arrival</b>.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history in the last 14 days to all countries/regions before arriving in Singapore, must be fully vaccinated <b>before arrival</b>.</p>
 
 ### Penalties for non-compliance
 
