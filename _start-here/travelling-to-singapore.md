@@ -196,7 +196,7 @@ To expedite the assessment process, travellers who are requesting for emergency 
 
 Approved travellers will be required to abide by the stipulated health measures for entry including <a href="/health/shn">Stay Home Notice</a> and <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a>. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
 
-Click [here](/dcev/overview) for more information
+Click [here](/dcev/overview) for more information on the Death and Critical Illness Emergency Visits Lane.
 
 ---
 
