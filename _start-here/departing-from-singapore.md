@@ -2,7 +2,7 @@
 title: Departing from Singapore
 permalink: /departing/overview
 ---
-Travellers may leave Singapore but the following is advised before your trip:
+Travellers may leave Singapore and there are no specific requirements for departure, but the following is strongly advised before your trip:
 - Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories for specific countries/regions.
 - Check if you are eligible for outbound SafeTravel Lane arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
