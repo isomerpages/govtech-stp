@@ -18,16 +18,9 @@ For all other pass holders (work pass holders and their dependants), please refe
 
 <p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 6 Oct 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measure stipulated in their Stay Home Notice (SHN).</b></p>
 
-<b>Note:</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
+<b>Note:</b> <br/><br/>Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
-From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement nannies) with travel history from all countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
-
-<ol style="list-style-type:disc;">
-	<li>Pass holders who are below 18 years old on date of entry.</li>
-	<li>Pass holders who cannot be vaccinated due to medical conditions.</li>
-	</ol>
-	
-For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.
+From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement nannies) with travel history in the last 14 days from all countries/regions before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 
@@ -69,14 +62,8 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 <td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
 </tr>
 		<tr>
-<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
-
-<ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who are below 18 years old on date of entry.</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who cannot be vaccinated due to medical conditions.</li>
-	</ol>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those who got vaccinated overseas will also need to take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</p></td>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
+	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p></td>
 </tr>
 	</table>
 	</td> 
@@ -96,14 +83,9 @@ For more details, please refer to the <a href="/wphl/vaccination-requirements">v
 <td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]: For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></td>
 </tr>
 				<tr>
-<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>, except for the following groups:
-
-<ol style="margin-top:0px; list-style-type:disc;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who are below 18 years old on date of entry.</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Pass holders who cannot be vaccinated due to medical conditions.</li>
-	</ol>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  ">From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Those who got vaccinated overseas will also need to take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</p></td>
+					</td>
 </tr>
 	</table>
 </td> 
