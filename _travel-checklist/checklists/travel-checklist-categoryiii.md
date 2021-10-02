@@ -122,9 +122,7 @@ A 14-day (for arrivals before 7 Oct 2021) or 10-day (for arrivals from 7 Oct 202
 
 Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at **SHN dedicated facilities will take the government-provided transport.** Travellers are **disallowed** to take public transport (e.g. trains, buses, street-hailed taxis).
 
-**For arrivals before 7 October 2021**, **For travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
-
-**For arrivals from 7 October 2021**, **For unvaccinated travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+**For travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -153,7 +151,7 @@ Travellers will be ushered to commute directly to the assigned Stay-Home Notice 
   </tbody>
   </table>
 
-**For arrivals from 7 October 2021** **For fully vaccinated travellers** approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
+<span style="color:red;"><b>[For fully vaccinated travellers]</b></span> **For arrivals from 7 October 2021, fully vaccinated travellers** approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
