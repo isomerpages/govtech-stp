@@ -120,7 +120,7 @@ A 14-day (for arrivals before 7 Oct 2021) or 10-day (for arrivals from 7 Oct 202
 
 &#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
-Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at SHN dedicated facilities will take the government-provided transport. Travellers are disallowed to take public transport (e.g. trains, buses, street-hailed taxis).
+Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at **SHN dedicated facilities will take the government-provided transport.** Travellers are **disallowed** to take public transport (e.g. trains, buses, street-hailed taxis).
 
 **For arrivals before 7 October 2021**, For those have been approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
