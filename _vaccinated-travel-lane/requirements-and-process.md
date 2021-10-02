@@ -10,7 +10,7 @@ Fully vaccinated travellers* who are short-term visitors (including business and
 - Brunei Darussalam
 - Germany
 
-Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/requirements-and-process) for more information on the requirements.
+Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/vtl) for more information on the requirements.
 
 <i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
  
