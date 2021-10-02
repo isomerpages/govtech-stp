@@ -308,8 +308,11 @@ From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement na
 <br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 	</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at: 	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($1,450 including GST), where the pass holder will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. (This will be replaced by a self-administered ART for arrivals from 22 Oct 2021)</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*),where the helper/CN will:
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SHN dedicated facility (<a href="/health/shn/sdf">SDF</a>) ($1,450 including GST), where the pass holder will: 
+			<ol style="margin-top: 0px; list-style-type: lower-latin;">
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and</li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. (This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li></ol></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*),where the pass holder will:
 	<ol style="margin-top: 0px; list-style-type: lower-latin;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN (This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li></ol></li>
