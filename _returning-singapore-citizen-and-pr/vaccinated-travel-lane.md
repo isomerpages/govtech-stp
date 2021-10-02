@@ -2,14 +2,14 @@
 title: Vaccinated Travel Lane
 permalink: /sc-pr/vtl
 ---
-As part of Singapore’s efforts to reopen our borders safely, fully vaccinated* Singapore Citizens (SCs) and Permanent Residents (PRs) may now return to Singapore via the Vaccinated Travel Lane (VTL) from the following countries/regions:
+As part of Singapore’s efforts to reopen our borders safely, <a href="/health/vtsg">fully vaccinated*</a> Singapore Citizens (SCs) and Permanent Residents (PRs) may now return to Singapore via the Vaccinated Travel Lane (VTL) from the following countries/regions:
 
 - Brunei Darussalam
 - Germany
 
 SCs and PRs do <u>not</u> need to apply for a Vaccinated Travel Pass (VTP) to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements.
 
-<i>*Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
+<i>*Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a></i>
 
 Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions (FAQs).
 	
