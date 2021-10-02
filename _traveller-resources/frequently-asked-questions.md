@@ -166,7 +166,7 @@ Only travellers with the same travel history and heading to the same declared pl
 
 #### 2. I have been allowed to serve SHN at my place of residence. What are the types of transport that I can take?
 
-Travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+For travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
