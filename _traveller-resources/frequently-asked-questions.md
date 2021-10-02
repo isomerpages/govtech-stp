@@ -816,7 +816,7 @@ Click here to [Go Back To Top](#top).
 
 ## Travellers who require the use of nebuliser
 
-#### 1. I require to use a nebuliser to manage my medical condition, what must i do before i enter Singapore?
+#### 1. I require to use a nebuliser to manage my medical condition, what must I do before I enter Singapore?
 
 All travellers who require to use a nebuliser daily or on an ad-hoc basis for their management of medical condition are required to declare the usage before arrival into Singapore. Travellers may submit their declaration through the link provided in their entry approval. 
 
