@@ -2,6 +2,9 @@
 title: Apply Now
 permalink: /apply-now
 ---
+
+<span style="color:red"><b>NOTE: All application services will not be available till 4 October 2021 (Monday), 6pm (Singapore Time) due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
+
 **This page is meant for users who are already familiar with the relevant SafeTravel lane eligibility criteria and requirements, and wish to apply for entry.**
 
 <u>If you are unsure which lane to use to enter Singapore and the corresponding entry requirements</u>, please refer to the [Travelling to Singapore](/arriving/overview) page instead, which will guide you on which lane to use.
