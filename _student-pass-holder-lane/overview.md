@@ -50,8 +50,8 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 </thead>
 <tbody><tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Eligible travellers
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves
 </td>
 </tr>
 <tr>
