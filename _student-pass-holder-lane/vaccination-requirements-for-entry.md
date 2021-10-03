@@ -14,7 +14,7 @@ permalink: /stpl/vaccination-requirements
 	</li>
 		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Have received 1 dose of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> if they had earlier recovered from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously.</li>
 		<li style="margin-top:10px; font-size: 18px;margin-bottom:0px; list-style-type:disc; line-height:1.5">Be able to <a href="#documents">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry.</li>
-		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https:/www.phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing Stay-Home Notice (SHN). Please call in advance to check that the clinic is able to support the serology test. <br/><br/>If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. (Their vaccination status can then be viewed on the <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps, which they may present to enjoy vaccination-differentiated safe management measures in Singapore.)<br/><br/> If the serology test results are negative, tehy will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</li>
+		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https:/www.phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing their self-isolation or Stay-Home Notice (SHN) in Singapore. Please call in advance to check that the clinic is able to support the serology test. <br/><br/>If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. (Their vaccination status can then be viewed on the <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps, which they may present to enjoy vaccination-differentiated safe management measures in Singapore.)<br/><br/> If the serology test results are negative, tehy will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</li>
 </ol>
 
 <div id="documents"></div>
@@ -65,3 +65,9 @@ permalink: /stpl/vaccination-requirements
 	</li>
 		<li style="margin-top:10px;font-size: 18px; margin-bottom:0px; list-style-type:disc; line-height:1.5">Travellers who cannot be vaccinated due to medical conditions <br/><br/> To be considered for exemption, travellers must <a href="https://go.gov.sg/moe-vaccination-exemption">submit a request</a> and upload a doctor's memo. If the request is approved, travellers can then proceed with the <a href="/stpl/overview">entry application </a></li>
 </ol>
+
+### Penalties for non-compliance
+
+Strict enforcement action, including revocation of passes, will be taken for non-compliance or false declaration. 
+
+
