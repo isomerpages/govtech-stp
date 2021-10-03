@@ -53,7 +53,7 @@ The table below is a quick overview of the key FTL features and requirements.
 </tr>
 </thead>
 <tbody><tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Applicant</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">SC/PR with a Singpass account to apply on behalf of the traveller
 </td>
 </tr>
