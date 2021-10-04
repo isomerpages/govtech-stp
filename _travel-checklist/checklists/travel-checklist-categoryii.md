@@ -83,14 +83,15 @@ Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pc
 
 A 7-day Stay-Home Notice (SHN) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
 
-&#9744;  <i><b>D) Transport to Declared Self-Isolation Accommodation</b></i>
+&#9744; <i><b>D) Transport to Declared Self-Isolation Accommodation</b></i>
 
 Travellers will commute directly to their declared SHN accommodation using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
     <tr>
-<th colspan=2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
+<th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th>
+<th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
     </tr>
   </thead>
   <tbody>
