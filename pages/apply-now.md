@@ -3,7 +3,7 @@ title: Apply Now
 permalink: /apply-now
 ---
 
-<span style="color:red"><b>NOTE: All application services will not be available till <u>4 October 2021 (Monday), 6pm (Singapore Time)</u> due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
+<span style="color:red"><b>NOTE: All application services will not be available till <u>5 October 2021 (Monday), 6pm (Singapore Time)</u> due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
 
 **This page is meant for users who are already familiar with the relevant SafeTravel lane eligibility criteria and requirements, and wish to apply for entry.**
 
