@@ -20,7 +20,7 @@ For all other pass holders (work pass holders and their dependants), please refe
 
 <b>Note:</b> <br/><br/>Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
 
-From 1 Nov 2021, pass holders (including CMP workers, helpers and confinement nannies) with travel history in the last 14 days from all countries/regions before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
+From 1 Nov 2021, all work pass holders and their dependants arriving from Catergory I or II countries/regions, as well as CMP workers, helpers and confinement nannies from all countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before they arrive in Singapore</b>. This is in addition to all pass holders from Category III and IV countries/regions who were already required to be fully vaccinated since 10 Aug 2021, before arrival. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 
