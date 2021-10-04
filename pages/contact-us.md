@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-<span style="color:red"><b>NOTE: All application services will not be available till <u>4 October 2021 (Monday), 6pm (Singapore Time)</u> due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
+<span style="color:red"><b>NOTE: All application services will not be available till <u>5 October 2021 (Monday), 6pm (Singapore Time)</u> due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE </b><br/> Public Advisory On Scam Calls From ICA</p>
