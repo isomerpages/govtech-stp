@@ -192,7 +192,7 @@ From 1 Nov 2021, all work pass holders and their dependants arriving from Caterg
 </ol>
 			<table>
 						<tr>
-<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>
+<td style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><b>Note: </b>From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>.
 <p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>.</p></td>
 </tr>
 			</table>
