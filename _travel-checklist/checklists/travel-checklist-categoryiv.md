@@ -159,7 +159,7 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
 
- From 6 Oct 2021, 2359h, travellers serving SHN at an SDF must self-administer an ART on Days 3 and 7 of their arrival in Singapore. Travellers will also be scheduled to take a PCR test on Day 10 of their arrival.
+**From 6 Oct 2021, 2359h**, travellers serving SHN at an SDF must self-administer an ART on Days 3 and 7 of their arrival in Singapore. Travellers will also be scheduled to take a PCR test on Day 10 of their arrival.
 
 <!--**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.-->
 
