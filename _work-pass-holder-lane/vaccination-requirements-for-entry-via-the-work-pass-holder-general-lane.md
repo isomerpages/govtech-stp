@@ -4,7 +4,7 @@ permalink: /wphl/vaccination-requirements
 ---
 Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
 
-<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history in the last 14 days to all countries/regions before arriving in Singapore, must be fully vaccinated <b>before arrival</b>.</p>
+<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all work pass holders and dependants arriving from Category I and II countries/regions, as well as CMP workers, helpers and confinement nannies from all countries/regions must be <a href="#vaccinated">fully vaccinated</a> before arrival. This is in addition to all pass holders from Category III and IV countries who were already required to be <a href="#vaccinated">fully vaccinated</a> since 10 Aug before arrival.  Please read the <a href="#vaccinated">vaccination requirements</a> carefully.</p>
 
 <div id="vaccinated"></div>
 
@@ -16,7 +16,7 @@ Pass holders with travel history to [Category III or IV countries/regions](/wphl
   </li>
   <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received 1 dose of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> if they had earlier recovered from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously.</li>
       <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Be able to <a href="#document">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https://www.phpc.gov.sg">Public Health Preparedness Clinic</a>  to confirm their vaccination status within 14 days of completing Stay-Home Notice (SHN).  Please call the clinic to check if they offer serology tests.
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https://www.phpc.gov.sg">Public Health Preparedness Clinic</a>  to confirm their vaccination status within 14 days of completing self-isolation or Stay-Home Notice (SHN).  Please call the clinic to check if they offer serology tests.
       <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</p>
   </li>
   </ol>
