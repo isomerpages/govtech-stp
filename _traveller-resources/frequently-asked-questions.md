@@ -195,7 +195,7 @@ For travellers approved to serve SHN at their own accommodation, a transport boo
   </tbody>
   </table>
 
- **[For arrivals from 7 October 2021]** <a href="/health/vtsg">Fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
+ **[For arrivals from 7 October 2021]** <a href="/health/vtsg">Fully vaccinated</a> travellers from Cat(III) Countries/Regions, approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
