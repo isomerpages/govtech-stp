@@ -2,7 +2,7 @@ collections:
   traveller-resources:
     output: true
     order:
-      - overview.md
+      - resources-overview.md
       - categories-of-travel-health-control-measures.md
       - inbound-travel-checklists.md
       - covid-19-symptoms.md

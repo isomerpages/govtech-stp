@@ -145,7 +145,8 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
-<!--**For arrivals before 22 Oct 2021**,--> travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). 
+<!--**For arrivals before 22 Oct 2021**,--> 
+Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). 
 
 <!--**For arrivals from 22 Oct 2021**, Travellers will require to self-administer an Antigen Rapid Test(ART) on D7 of their SHN, in place of taking a PCR test.-->
 

@@ -18,9 +18,13 @@ For all other pass holders (work pass holders and their dependants), please refe
 
 <p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 6 Oct 2021, 2359h, are ineligible for the measures stated below. They will be subject to the health measure stipulated in their Stay Home Notice (SHN).</b></p>
 
-<b>Note:</b> <br/><br/>Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/>
+<b>Note:</b> <br/>
 
-From 1 Nov 2021, all work pass holders and their dependants arriving from Catergory I or II countries/regions, as well as CMP workers, helpers and confinement nannies from all countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before they arrive in Singapore</b>. This is in addition to all pass holders from Category III and IV countries/regions who were already required to be fully vaccinated since 10 Aug 2021, before arrival. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
+1. From 1 Nov 2021, all work pass holders and their dependants arriving from Catergory I or II countries/regions, as well as CMP workers, helpers and confinement nannies from all countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before they arrive in Singapore</b>. This is in addition to all pass holders from Category III and IV countries/regions who were already required to be fully vaccinated since 10 Aug 2021, before arrival. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
+2. If you have visited or transited in multiple countries/regions in the last 14 days, the travel health control measures for the country/region assessed to have the higher COVID-19 risk will apply. For example, if you have travelled through both Category II and III countries/regions in the last 14 days, you will be subject to Category  III travel health control measures when you enter Singapore.
+3. Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 tests listed below.<br/><br/>
+
+
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 
@@ -264,11 +268,11 @@ From 1 Nov 2021, all work pass holders and their dependants arriving from Caterg
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will (a) self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and (b) take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), where the helper/CN will:
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), where the helper/CN will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--:
 	<ol style="margin-top: 0px; list-style-type: lower-latin;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li>
-			</ol>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.<!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li>
+			</ol>-->
 		</li>
 		</ol>
 	</li>
@@ -309,10 +313,10 @@ From 1 Nov 2021, all work pass holders and their dependants arriving from Caterg
 			<ol style="margin-top: 0px; list-style-type: lower-latin;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*),where the pass holder will:
-	<ol style="margin-top: 0px; list-style-type: lower-latin;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), where the pass holder will  take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.
+	<!--<ol style="margin-top: 0px; list-style-type: lower-latin;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li></ol>--></li>
 	</ol>
 	</li>
 				<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>-->
