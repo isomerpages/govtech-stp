@@ -309,10 +309,10 @@ From 1 Nov 2021, all work pass holders and their dependants arriving from Caterg
 			<ol style="margin-top: 0px; list-style-type: lower-latin;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3, 7 of arrival ($20 including GST), and</li>
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*),where the pass holder will:
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Place of residence or suitable accommodation (e.g. hotel or serviced apartment) (if eligible*), where the pass holder will<!--:
 	<ol style="margin-top: 0px; list-style-type: lower-latin;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">--> take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li></ol></li>
 	</ol>
 	</li>
 				<!--<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	<b>Additional procedure only for pass holders staying in dormitories: </b><br/><br/>After the 14-day SHN, such pass holders must still <a href="https://www.mom.gov.sg/covid-19/7-day-additional-testing-regime">undergo an additional 7-day stay and testing regime</a>.</li>-->
