@@ -290,15 +290,15 @@ Pass holders who took other types of vaccines will not meet the entry requiremen
 
 Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
-#### 10. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
+#### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
 Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](https://go.gov.sg/responsibilities-submitters-pass-holders), which include serving SHN depending on their travel histories. 
 
-#### 11. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
+#### 10. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
 
 No, pass holders need to obtain an approval from Ministry of Manpower (MOM) to be exempted. Companies must submit an [exemption request for their pass holders](https://www.mom.gov.sg/exempt-vaccination) and upload the doctor’s memo. If the request is approved, your company can then proceed with the [pass holder’s entry application](https://go.gov.sg/wphl-requirements).
 
-#### 12. My pass holder does not wish to send his/her child (aged 12 years old to below 18 years old) for the COVID-19 vaccination in Singapore. Can the child be exempted?
+#### 11. My pass holder does not wish to send his/her child (aged 12 years old to below 18 years old) for the COVID-19 vaccination in Singapore. Can the child be exempted?
 
 Unvaccinated children who are 12 years old to below 18 years old on date of entry must get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival.
 
@@ -310,7 +310,7 @@ However, if the child cannot be vaccinated due to medical conditions, please get
 
 Please produce the memo when requested by the authorities. 
 
-#### 13. My pass holder was vaccinated 2 days ago. Can he/she enter Singapore next week?
+#### 12. My pass holder was vaccinated 2 days ago. Can he/she enter Singapore next week?
 
 No, the pass holder cannot enter Singapore yet. 
 
@@ -318,7 +318,7 @@ Pass holders must receive the full regimen of [WHO EUL vaccines](https://extrane
 
 Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
 
-#### 14. My pass holder is fully vaccinated and took a serology test at a Public Health Preparedness Clinic. However, the serology test result was negative or inconclusive. What happens next?
+#### 13. My pass holder is fully vaccinated and took a serology test at a Public Health Preparedness Clinic. However, the serology test result was negative or inconclusive. What happens next?
 
 The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) in Singapore within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
 
