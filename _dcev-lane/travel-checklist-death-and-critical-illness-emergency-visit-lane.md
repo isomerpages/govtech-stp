@@ -26,7 +26,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region]() in the past 14 consecutive days before departure; or
+- Have remained in only [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
@@ -110,14 +110,14 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <table>
   <thead>
     <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Point of Departure</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Options</b></th>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Type of self-isolation/SHN</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Options</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Self-isolation at declared accommodation, pending COVID-19 PCR test result
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers, Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
 							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Pre-booked taxi/private hire vehicle from any of the following transport operators:</li>
 				</ol>
@@ -156,12 +156,8 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
   </table>	
 	</td>
     </tr>
-		    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at own accommodation
-			</td>
-    </tr>
 		<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Approved 10-day SHN at own residence
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers who are not fully vaccinated]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">		Travellers will commute to their declared SHN accommodation using transportation services offered by Strides Transportation Pte Ltd (“Strides”). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. <br/><br/>
 				<table>

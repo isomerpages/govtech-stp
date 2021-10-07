@@ -122,38 +122,11 @@ A 10-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address
 
 &#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
-Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at **SHN dedicated facilities will take the government-provided transport.** Travellers are **disallowed** to take public transport (e.g. trains, buses, street-hailed taxis).
+Travellers are required to commute directly from the checkpoint to the assigned Stay-Home Notice (SHN) accommodation. 
 
-<span style="color:red;"><b>[For unvaccinated travellers]</b></span> Unvaccinated travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+Those staying at **SHN dedicated facilities will take the government-provided transport**.
 
-<table>
-  <thead>
-    <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost (SGD; Excludes 10% credit card charge)</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
-				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
-				</ol>
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authoritiesb</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc single trip approved by the relevant authorities</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
-    </tr>
-  </tbody>
-  </table>
-
-<span style="color:red;"><b>[For fully vaccinated travellers]</b></span> <a href="/health/vtsg">fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
+<b><a href="/health/vtsg">Fully vaccinated</a> travellers</b> who have obtained approval to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
@@ -194,6 +167,35 @@ Travellers will be ushered to commute directly to the assigned Stay-Home Notice 
     </tr>
   </tbody>
   </table>
+  
+**For travellers who are not fully vaccinated travellers** but have obtained approval to serve SHN at their own accommodation, a [transport booking](/health/faq#transport) **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+
+<table>
+  <thead>
+    <tr>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost (SGD; Excludes 10% credit card charge)</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
+				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
+				</ol>
+			</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authoritiesb</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc single trip approved by the relevant authorities</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
+    </tr>
+  </tbody>
+  </table>  
   
 The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. 
 
@@ -236,6 +238,6 @@ Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and m
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
-After SHN, travellers may go about their activities but **must** comply with the latest public health measures.This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After SHN, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition of your vaccinated status.

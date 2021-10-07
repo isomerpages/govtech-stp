@@ -24,7 +24,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
+- Have remained in only [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
@@ -110,7 +110,7 @@ A 10-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address
 
 Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at SHN dedicated facilities will take the government-provided transport. Travellers are disallowed to take public transport (e.g. trains, buses, street-hailed taxis).
 
-For those have been approved to serve SHN at their own accommodation, a transport booking must be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+For those have been approved to serve SHN at their own accommodation, a [transport booking](/health/faq#transport) must be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -138,6 +138,8 @@ For those have been approved to serve SHN at their own accommodation, a transpor
     </tr>
   </tbody>
   </table>
+  
+The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options they used for commuting from their SHN accommodation, when commuting to the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.
 
 
 ### Stage 4: Stay-Home Notice and COVID-19 Tests
@@ -173,6 +175,6 @@ Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and m
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
-After SHN, travellers may go about their activities but **must** comply with the latest public health measures.This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After SHN, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition of your vaccinated status.

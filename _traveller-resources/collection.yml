@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - resources-overview.md
-      - categories-of-travel-health-control-measures.md
+      - travel-health-control-measures-category-iiiiiiiv.md
       - inbound-travel-checklists.md
-      - covid-19-symptoms.md
       - covid-19-tests-for-travel-to-singapore.md
-      - mandatory-inbound-covid-19-travel-insurance.md
       - info-on-stay-home-notice/.keep
       - info-on-stay-home-notice/stay-home-notice-shn.md
       - info-on-stay-home-notice/shn-dedicated-facilities-sdf.md
       - info-on-stay-home-notice/shn-electronic-monitoring-device.md
-      - tracetogether-for-travellers.md
-      - medical-treatment-for-covid-19.md
       - information-for-inbound-vaccinated-travellers.md
+      - covid-19-symptoms.md
+      - tracetogether-for-travellers.md
+      - mandatory-inbound-covid-19-travel-insurance.md
+      - medical-treatment-for-covid-19.md
       - frequently-asked-questions.md

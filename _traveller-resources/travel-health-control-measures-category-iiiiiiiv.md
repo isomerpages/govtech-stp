@@ -1,7 +1,8 @@
 ---
-title: Categories Of Travel Health Control Measures
+title: Travel Health Control Measures (Category I/II/III/IV)
 permalink: /shn-and-swab-summary
 ---
+
 <i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be disallowed entry to Singapore.]</i>
 
 ### Overview
