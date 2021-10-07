@@ -153,7 +153,7 @@ Travellers will be ushered to commute directly to the assigned Stay-Home Notice 
   </tbody>
   </table>
 
-<span style="color:red;"><b>[For fully vaccinated travellers]</b></span><a href="/health/vtsg">fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
+<span style="color:red;"><b>[For fully vaccinated travellers]</b></span> <a href="/health/vtsg">fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
