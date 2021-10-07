@@ -76,7 +76,7 @@ Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
 
 #### 6. I am an employer of a helper/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
 
-You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to fulfil the travel health control measures.
+You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to ensure that the travel health control measures are fulfilled.
 
 #### 7. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
 
