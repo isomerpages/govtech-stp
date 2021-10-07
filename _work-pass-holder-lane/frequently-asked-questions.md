@@ -268,10 +268,7 @@ From 15 Oct 2021, we will be accepting entry approval applications for fully vac
 #### 4. I am medically ineligible for vaccination. How can I appeal to be exempted from the vaccination condition for entry?  
 You may appeal for an [exemption from the vaccination condition for entry](https://form.gov.sg/#!/610b4fe79eba440012bddce5), supported by a doctor’s memo. You will need to obtain the exemption before applying for entry approval. 
 
-#### 5. Why is the vaccination entry requirement not applicable to migrant domestic workers and S Pass/work permit holders in the Construction/Marine Shipyard/Process (CMP) sectors, especially when they are mostly from high risk countries?
-The vaccination entry requirement is currently not applicable to migrant domestic workers and CMP S Pass/work permit holders as there are on-going industry initiatives with tightened end-to-end process to bring on board these workers into Singapore safely
-
-#### 6. My pass holder gets exempted from serving SHN at dedicated facilities when he enters Singapore via the Vaccinated Traveller Lane (VTL). Why is he not given the same exemption if he is entering Singapore using the Work Pass Holder General Lane (WPHL) for work pass holders?
+#### 5. My pass holder gets exempted from serving SHN at dedicated facilities when he enters Singapore via the Vaccinated Traveller Lane (VTL). Why is he not given the same exemption if he is entering Singapore using the Work Pass Holder General Lane (WPHL) for work pass holders?
 
 Work pass holders entering via the WPHL must meet vaccination requirements as part of conditions for entry. As this is applied to pass holders entering Singapore from many countries/regions of higher importation risk, the pass holders will continue to be subjected to the full SHN requirements upon entry, for public health reasons. Work pass holders who qualify for a stepped-down SHN regime under the VTL may cancel their MOM entry approval and submit another application to enter under the VTL. 
 
@@ -279,11 +276,9 @@ Companies can cancel entry approvals for pass holders using this [online form](h
 
 Work Holiday Pass, or PEP (without employers) and EntrePass holders without a Corppass can cancel entry approvals for themselves and their dependants using this [online form](http://www.mom.gov.sg/cancel-entry-individual).
 
-#### 7. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
+#### 6. My helper/confinement nanny is fully vaccinated. When can I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](https://go.gov.sg/responsibilities-submitters-pass-holders) for 14 consecutive days before arrival.
-
-We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
+From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated helpers/confinement nannies entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and helpers/nannies may have to wait about three to six months before they can enter Singapore. 
 
 #### 8. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
 
