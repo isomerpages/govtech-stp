@@ -168,7 +168,7 @@ Those staying at **SHN dedicated facilities will take the government-provided tr
   </tbody>
   </table>
   
-**For travellers who are not fully vaccinated travellers** but have obtained approval to serve SHN at their own accommodation, a [transport booking](/health/faq#transport) **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+**For travellers who are not fully vaccinated** but have obtained approval to serve SHN at their own accommodation, a [transport booking](/health/faq#transport) **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
