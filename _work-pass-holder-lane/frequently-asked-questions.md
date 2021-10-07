@@ -261,10 +261,9 @@ Eligible work pass holders and their dependants must complete the full course of
 
 Work pass holders will need to show proof of vaccination. If the vaccination certificate is not in English, it should be translated to English and notarised. 
 
-#### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. Why can’t I submit an entry application to bring him into Singapore?
+#### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. When can I submit an entry application to bring him into Singapore?
 
-Due to the need to reschedule workers from [Category III or IV countries/regions](/wphl/shn-and-swab-summary), new entry applications can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](/wphl/shn-and-swab-summary) for 14 consecutive days before arrival.
-We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
+From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated S Pass and Work Permit holders from CMP sectors entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and pass holders may have to wait about three to six months before they can enter Singapore. 
 
 #### 4. I am medically ineligible for vaccination. How can I appeal to be exempted from the vaccination condition for entry?  
 You may appeal for an [exemption from the vaccination condition for entry](https://form.gov.sg/#!/610b4fe79eba440012bddce5), supported by a doctor’s memo. You will need to obtain the exemption before applying for entry approval. 
