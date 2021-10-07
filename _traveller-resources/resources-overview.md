@@ -11,6 +11,8 @@ Otherwise, click on the links below for the relevant resources on Singapore's tr
   <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
 	<a href="/shn-and-swab-summary">Travel Health Control Measures  (Category I/II/III/IV)</a></li>
 	 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
+  <a href="/travel-checklist/overviewt">Inbound Travel Checklists</a></li>
+	 <li style="margin-top:0px; margin-bottom:0px; font-size:18px; ">
   <a href="/health/covid19-tests/pcrtest">COVID-19 tests for travel to Singapore</a></li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> <b>Information on Stay Home Notice</b>
   <ol style="margin-top:0px; margin-bottom:0px; font-size:18px;">
