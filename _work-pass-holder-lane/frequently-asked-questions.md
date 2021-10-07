@@ -280,13 +280,13 @@ Work Holiday Pass, or PEP (without employers) and EntrePass holders without a Co
 
 From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated helpers/confinement nannies entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and helpers/nannies may have to wait about three to six months before they can enter Singapore. 
 
-#### 8. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
+#### 7. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
 
 Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. Vaccines requiring 2 doses can be completed either using the [same or different brands](/health/vtsg) and taken based on the recommended intervals between each dose.
 
 Pass holders who took other types of vaccines will not meet the entry requirements. Thus, please **do not** submit entry applications for them.
 
-#### 9. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
+#### 8. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
 Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
@@ -322,10 +322,5 @@ Example: If the pass holder received the full vaccine regimen on 1 Sep, the earl
 
 The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) in Singapore within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
 
-#### 15. My pass holder has an approval to enter Singapore. However, Ministry of Manpower (MOM) informed me that his/her entry will have to be delayed. I understand MOM will email me when to bring him/her in. Does he/she need to be fully vaccinated before arrival?
-
-No, the pass holder does not need to be vaccinated before arrival. The vaccination requirement only applies to pass holders who obtained entry approvals **from 10 Aug 2021**.
-
-MOM will email you to exempt your pass holder from the vaccination requirement. 
 
 <a href="#top">Click here to return to the top.</a>
