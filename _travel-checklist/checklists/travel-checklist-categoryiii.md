@@ -124,7 +124,7 @@ A 10-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address
 
 Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at **SHN dedicated facilities will take the government-provided transport.** Travellers are **disallowed** to take public transport (e.g. trains, buses, street-hailed taxis).
 
-**For travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+<span style="color:red;"><b>[For unvaccinated travellers]</b></span> approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -153,7 +153,7 @@ Travellers will be ushered to commute directly to the assigned Stay-Home Notice 
   </tbody>
   </table>
 
-<span style="color:red;"><b>[For fully vaccinated travellers]</b></span> **For arrivals from 7 October 2021**, <a href="/health/vtsg">fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
+<span style="color:red;"><b>[For fully vaccinated travellers]</b></span><a href="/health/vtsg">fully vaccinated</a> travellers approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
@@ -212,17 +212,17 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
-**ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). 
+**ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on Day 10 of their arrival. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). 
 
-Travellers must also administer an Antigen Rapid Test (ART) on their own on Days 3, 7 and 11 of their arrival in Singapore. [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice. Travellers are exempted from ART, if they:
+Travellers serving SHN at an SDF must self-administer an ART on Days 3 and 7 of their arrival in Singapore [Click here](https://moh.gov.sg/covid-19/selftestart) for more information on ARTs.
+
+Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice. Travellers are exempted from ART, if they:
 - Are a fully vaccinated traveller with a 21-day travel history to any Category (I) to (III) country/region; **AND**
 - Been approved to complete their SHN in their residence or accommodation of choice.
 
-**From 6 Oct 2021, 2359h**, travellers serving SHN at an SDF must self-administer an ART on Days 3 and 7 of their arrival in Singapore. Travellers will also be scheduled to take a PCR test on Day 10 of their arrival.
-
 <!--**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.-->
 
-Travellers who are serving SHN at their own place of residence must use Strides to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
+Travellers who are serving SHN at their own place of residence may use private transport to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
 
 ### Stage 5: End of Stay-Home Notice
 
