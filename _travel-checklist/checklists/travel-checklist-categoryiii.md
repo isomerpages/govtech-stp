@@ -124,7 +124,7 @@ A 10-day [Stay-Home Notice (SHN)](/health/shn) will be sent to the email address
 
 Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at **SHN dedicated facilities will take the government-provided transport.** Travellers are **disallowed** to take public transport (e.g. trains, buses, street-hailed taxis).
 
-<span style="color:red;"><b>[For unvaccinated travellers]</b></span> approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+<span style="color:red;"><b>[For unvaccinated travellers]</b></span> Unvaccinated travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
