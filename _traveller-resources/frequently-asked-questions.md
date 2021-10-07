@@ -195,7 +195,7 @@ Only travellers with the same travel history and heading to the same declared pl
   </tbody>
   </table>
 
-<b><a href="/health/vtsg">Fully vaccinated</a> travellers</b> from <b>Cat(III) Countries/Regions</a>, approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
+<b><a href="/health/vtsg">Fully vaccinated</a> travellers</b> from <b>Cat(III) Countries/Regions</b>, approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
 
 <table>
   <thead>
