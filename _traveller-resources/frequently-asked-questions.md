@@ -81,61 +81,9 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. I have been placed on self-isolation / 7-day Stay Home Notice. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with category II travel history or fully vacccinated travellers with Category III travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
-
-<!--##### a) From air/land/sea checkpoints to place of residence
-
-Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup> or pre-book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup> with any of the designated operators at <a href="#table1">Table 1</a> below, to travel to their place of residence. <b>Do not take other forms of public transport (e.g. bus / train), or street-hail a taxi</b>. 
-
-##### b) From place of residence to testing facilities for scheduled PCR tests
-
-Travellers may use their own private vehicle <sup><a href="#note1">[See Note (i)]</a></sup>, or pre-book a taxi/private hire car <sup><a href="#note2">[See Note (ii)]</a></sup>  in <a href="#table1">Table 1</a> below.
-
-<p id="table1" style="font-size: 20px;"><b>Table 1: Transport service providers and contact details for travellers on 7-day SHN</b></p>
-	
-<table>
-  <thead>
-    <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;"> &nbsp;</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Service Provider and Contact Number</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;"><b>Contact Number* / Mobile Application</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
-    </tr>
-     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
-    </tr>
-  </tbody>
-  </table>-->
-
-<!--##### **Note:**-->
 
 <div id="note1"></div>
 	
@@ -148,8 +96,8 @@ If there is more than one traveller, those sharing the same vehicle should have 
 All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
 
 <ol style="list-style-type:disc;">
-	<li>Vehicle windows must be wound down with air conditioning turned off. Where practical;</li>
-		<li>The front passenger seat should be left unoccupied;</li>
+	<li>Vehicle windows must be wound down with air conditioning turned off.</li>
+		<li>Where practicable, the front passenger seat should be left unoccupied;</li>
 			<li>The back seat should only be occupied by the traveller(s)</li>			
 			<li>The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19">guidelines</a> for more information.</li>
 </ol>
@@ -164,9 +112,9 @@ Only travellers with the same travel history and heading to the same declared pl
 
 <div id="transportQ3"></div>
 
-#### 2. I have been approved to serve SHN at my place of residence/accommodation. What are the types of transport that I can take?
+#### 2. [For non-fully vaccinated travellers with Category (III) travel history and travellers with Category (IV) travel history] Due to extenuating Circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
 
-**For unvaccinted travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+**For such travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -191,48 +139,6 @@ Only travellers with the same travel history and heading to the same declared pl
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc single trip approved by the relevant authorities</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
-    </tr>
-  </tbody>
-  </table>
-
-<b><a href="/health/vtsg">Fully vaccinated</a> travellers</b> from <b>Cat(III) Countries/Regions</b>, approved to serve SHN at their own accommodation may commute using their own private vehicle, or pre-book taxi/private hire car with any of the following transport operators:
-
-<table>
-  <thead>
-    <tr>
-<th colspan ="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
-    </tr>
-     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
   </tbody>
   </table>
