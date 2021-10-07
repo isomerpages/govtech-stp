@@ -137,9 +137,8 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
-- Serving 14-day <b>(for arrivals before 7 Oct 2021)</b> or 10-day <b>(for arrivals from 7 Oct 2021)</b> Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
-- <b>For arrivals before 7 Oct 2021</b> Take three self-administered COVID-19 Antigen Rapid Test (ART), on Day 3, 7 and 11; followed by PCR test on Day 14 of SHN. 
-- <b>For arrivals from 7 Oct 2021</b> Take two self-administered COVID-19 Antigen Rapid Test (ART), on Day 3 and 7; followed by PCR test on Day 10 of SHN. 
+- Serving 10-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
+- Take two self-administered COVID-19 Antigen Rapid Test (ART), on Day 3 and 7; followed by PCR test on Day 10 of SHN. 
 
 Click <a href="/sc-pr/shn-and-swab-summary">here</a> and <a href="/sc-pr/requirements-and-process">here</a> for more information.
 
@@ -208,7 +207,7 @@ The cost of the COVID-19 PCR test taken on-arrival at the checkpoint, will be co
 
 Travellers who are unwell or recently diagnosed with [COVID-19](/health/covid19-symptoms) should defer their travels. 
 
-Those diagnosed with COVID-19 should only schedule their trip to Singapore 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
+Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 days after the first diagnosis, <u>and</u> after they have fully recovered from COVID-19.
 
 #### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 48 hours before departure for Singapore?
 
@@ -219,11 +218,11 @@ As a condition for entry into Singapore, <u>all</u> travellers arriving from Mal
  
 Travellers will be turned away at Singapore's checkpoint if:
 <ol style="list-style-type: lower-latin;">
-	<li>diagnosed with COVID-19 infection 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days or less, from the date of travel; and/or</li>
+	<li>diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or</li>
 	<li>tested positive on the pre-departure COVID-19 PCR test.</li>
 </ol> 
 <!--Travellers will be turned away at Singapore's checkpoint if: 
-- diagnosed with COVID-19 infection 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days or less, from the date of travel; and/or
+- diagnosed with COVID-19 infection 14  days or less, from the date of travel; and/or
 - tested positive on the pre-departure COVID-19 PCR test.-->
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
@@ -353,11 +352,11 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for another PCR test on the 14th <b>(for arrivals before 7 Oct 2021)</b> or 10th <b>(for arrivals from 7 Oct 2021)</b> day before they exit their SHN.
+Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for another PCR test on the 10th  day before they exit their SHN.
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 
-Employers or employees that do not have the details of the COVID-19 PCR test appointment date, time and designated test site <u>by the 11th <b>(for arrivals before 7 Oct 2021)</b> or 7th <b>(for arrivals from 7 Oct 2021)</b> day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
+Employers or employees that do not have the details of the COVID-19 PCR test appointment date, time and designated test site <u>by the 7th day </u> of the SHN period should write in using [SafeTravel Enquiry Form](https://go.gov.sg/sto-enquiry). Please include the employee’s name and FIN (for work pass holder) or NRIC (for Singapore PR), and employer’s mobile number for our follow up.
 
 #### 2. My employee did not turn up for his/her COVID-19 Polymerase Chain Reaction test (“PCR test”) on the scheduled date. Who can I contact to reschedule a new swab appointment?
 
