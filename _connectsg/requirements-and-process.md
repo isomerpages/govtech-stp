@@ -14,7 +14,7 @@ An Appointed Facility operator can sponsor and host/apply for a SafeTravel Pass 
 <li>Seeking to make a short-term stay of up to 14 days.</li>
 </ul>
 
-Until further notice, travellers with travel history to the following countries/regions in the past 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
+Until further notice, travellers with travel history to the following countries/regions in the past 14 days <u>will not be allowed to enter Singapore under the Connect@SG scheme</u>: 
 - Bangladesh 
 - India 
 - Nepal 
