@@ -247,13 +247,11 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. Who will the vaccination entry requirement apply to?
 
-From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval.* For now, it will not apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
+From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval.* 
 
-<b>Note:</b> From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel historyin the last 14 days to all countries/regions before arriving in Singapore,  must be fully vaccinated <b>before</b> arrival, except for the following groups:
-<ol>
-	<li>Pass holders who are below 18 years old on date of entry</li>
-	<li>Pass holders who cannot be vaccinated due to medical conditions</li>
-	</ol>
+<b>Note:</b> From 1 Nov 2021, all pass holders and their dependants from Category I or II countries/region, as well as CMP workers, helpers and confinement nannies from all countries/regions must be fully vaccinated 14 days before they  arrive in Singapore.
+
+This will also apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
 
 <i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 14 days to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>
 
