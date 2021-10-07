@@ -277,12 +277,12 @@ To facilitate contact tracing, visitors must keep the TraceTogether app activate
 <tbody>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Retention of TraceTogether data</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">RGL travellers must retain the TraceTogether app for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days after leaving Singapore.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">RGL travellers must retain the TraceTogether app for 14 consecutive days after leaving Singapore.
  </td>
   </tr>
   <tr>
     <td rowspan="1" style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Reporting of Positive COVID-19 Test</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">RGL travellers who test positive for COVID-19 in the first 21  <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">RGL travellers who test positive for COVID-19 in the first 14 days after leaving Singapore must:  <ol style="margin-top:0px; list-style-type: disc;">
       <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Upload all data in the TraceTogether app upon request by the Singapore Ministry of Health (MOH); or
 </li>
        <li style="font-size:16px; margin-top:10px; margin-bottom:0px;  line-height:1.5;">Inform the Singapore host, who would then upload the TraceTogether data to MOH.
