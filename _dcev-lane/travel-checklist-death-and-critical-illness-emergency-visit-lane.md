@@ -117,7 +117,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers, Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
-      <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
 							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Pre-booked taxi/private hire vehicle from any of the following transport operators:</li>
 				</ol>
@@ -156,12 +156,8 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
   </table>	
 	</td>
     </tr>
-		    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <b>[Travellers who are not fully vaccinated]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
-			</td>
-    </tr>
 		<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Approved 10-day SHN at own residence
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers who are not fully vaccinated]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">		Travellers will commute to their declared SHN accommodation using transportation services offered by Strides Transportation Pte Ltd (“Strides”). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. <br/><br/>
 				<table>
