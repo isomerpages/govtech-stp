@@ -13,9 +13,9 @@ In general, travellers under SHN are required to take a mandatory [COVID-19 Poly
 
 Travellers issued with an SHN should refer to the SHN Health Advisory [here](/files/MOH-Health-Advisory-SHN.pdf), and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the [Frequently Asked Questions (FAQ) section](/health/faq#shnsdf). Those in need of additional support can refer to this [page](https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support) for a list of local helplines and resources.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_iO3-H1FjgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZarGe4vr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**View this video in the following languages: [Chinese](https://youtu.be/4B-zT4wW_CY), [Bahasa Indonesia](https://youtu.be/3oTQ0TAdkkk)**
+**View this video in the following languages: [Chinese](https://youtu.be/dTHU3xh2Buk), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
 
 ---
 
