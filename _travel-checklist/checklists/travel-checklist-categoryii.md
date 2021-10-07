@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-2
 
 ### Travel Checklist – Category (II) Travel History
 
-This checklist is suitable **only** for travellers with travel and transit history to any Category (II) country/region in the past 21 days (for arrivals before 7 Oct 2021) or 14 days (for arrivals from 7 Oct 2021) before arrival in Singapore. Return to [this menu](/shn-and-swab-summary) if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
+This checklist is suitable **only** for travellers with travel and transit history to any Category (II) country/region in the past 14 days before arrival in Singapore. Return to [this menu](/shn-and-swab-summary) if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -24,7 +24,7 @@ Valid entry-visa holders and visa-exempted travellers are not required to apply 
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
-- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days before departure; or
+- Have remained in any [Category (I) country/region](/shn-and-swab-summary) in the past 14 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
 Travellers are required to take their PDT at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the PDT:
@@ -40,8 +40,8 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or</li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
 &#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>

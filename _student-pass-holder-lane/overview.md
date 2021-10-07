@@ -30,9 +30,9 @@ The table below provides a quick overview of the key STPHL features, requirement
 			 </td>
 	</tr>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 21-day <b>(for arrivals before 7 Oct 2021)</b> or 14-day <b>(for arrivals from 7 Oct 2021)</b> travel history before arrival in Singapore)</i></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed <b>except</b> travellers whose 21-day <b>(for arrivals before 7 Oct 2021)</b> or 14-day <b>(for arrivals from 7 Oct 2021)</b> travel and transit history before arrival in Singapore includes any of the following countries:</p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed <b>except</b> travellers whose 14-day travel and transit history before arrival in Singapore includes any of the following countries:</p>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
@@ -119,7 +119,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 21-day <b>(for arrivals before 7 Oct 2021)</b> and 14-day <b>(for arrivals from 7 Oct 2021)</b> travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>

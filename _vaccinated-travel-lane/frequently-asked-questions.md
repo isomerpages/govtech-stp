@@ -330,8 +330,7 @@ To be eligible to take a designated VTL flight, they are required to:
 			</li>
 		</ul>
 		</li>
-		<li>have only been to their country/region of departure and/or Singapore in the last 21 consecutive days before departing for Singapore; and
-			<br/><br/> <b>[For travellers entering Singapore with effect from 6 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. 
+		<li>Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. 
 	</li>
 		<li style="margin-top:15px;">undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
@@ -511,7 +510,7 @@ Travellers may refer to the Singapore Hotel Association (SHA) <a href="https://w
 
 #### 6. Can travellers share the same room with family members / travel companions / a caregiver (due to a certified disability or special needs) while waiting for their PCR test results?
 
-If the family member(s), travel companion(s) or caregiver is/are <a href="/health/vtsg">fully vaccinated</a> and share similar travel history in the past 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days prior to departure for Singapore, travellers may share the same room with such persons, while waiting for their PCR test results.
+If the family member(s), travel companion(s) or caregiver is/are <a href="/health/vtsg">fully vaccinated</a> and share similar travel history in the past 14 days prior to departure for Singapore, travellers may share the same room with such persons, while waiting for their PCR test results.
 
 Please also note that if a traveller’s test result is confirmed to be positive, all persons who had shared the same room with the traveller, as well as those identified to be a close contact, will be issued a Quarantine / Isolation Order, and/or be subject to further public health requirements.
 
@@ -740,7 +739,7 @@ If you still face issues, please email <a href="mailto:support@tracetogether.gov
 
 #### 4. If I change my mobile device or SIM card when I arrive in Singapore, do I need to download the TraceTogether app again?
 
-If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration.
+If you change your mobile device, you are required to download the TraceTogether app again on your new mobile device and activate it by following the instructions that appear when you launch the app. You must also retain your previous mobile device with the TraceTogether app up to 14 days after departure from Singapore. This is because the TraceTogether app data stored in your previous mobile device also needs to be retained for that duration.
 
 If you change your SIM card but are still using the same mobile device, you will not need to download the TraceTogether app again.
 
@@ -754,7 +753,7 @@ Visitors, with mobile devices that are unable to download the TraceTogether app,
 
 Visitors can pay for and collect their rental mobile device at the Changi Recommends booth in Changi Airport prior to clearing arrival immigration. Upon collection, they must download the TraceTogether app and immediately register their profile on the app with their Singapore mobile number and the same identification number, nationality and date of birth as those shown in the passport that you are using to enter Singapore. At immigration clearance, visitors are to present their mobile device with the TraceTogether app already downloaded and registered. Those who are unable to do so may be denied entry into Singapore by ICA.
 
-Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days after departing Singapore.
+Visitors, who have rented a mobile device from Changi Recommends, must carry it with them at all times during their stay in Singapore until it is returned to Changi Recommends. If you change to another mobile device during your stay in Singapore, you must download and activate the TraceTogether app on that device. You must also retain the app on that device for the rest of your stay and for 14 consecutive days after departing Singapore.
    
 #### 6. What happens if visitors are unable to receive an SMS One-Time Password (OTP) to register their profile on the TraceTogether app?
 
@@ -768,7 +767,7 @@ No, visitors must keep their mobile devices and the Bluetooth function switched 
 
 #### 8. Can visitors uninstall the TraceTogether app upon departing from Singapore?
 
-Visitors must retain the TraceTogether app with the data on their mobile devices for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b>consecutive days after departing from Singapore. This is to facilitate contact tracing if visitors are tested positive for COVID-19.
+Visitors must retain the TraceTogether app with the data on their mobile devices for 14 consecutive days after departing from Singapore. This is to facilitate contact tracing if visitors are tested positive for COVID-19.
 
 #### 9. Where do visitors return their TraceTogether tokens?
 
@@ -781,7 +780,7 @@ The S$50 deposit will be refunded if:
 </li><li>the TraceTogether token is not faulty or damaged.
 </li></ol>
 
-The returned TraceTogether tokens will be securely stored for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore.
+The returned TraceTogether tokens will be securely stored for 14 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore.
 
 
 ---

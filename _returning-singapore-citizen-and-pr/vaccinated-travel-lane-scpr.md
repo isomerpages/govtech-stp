@@ -62,13 +62,12 @@ Please click <a href="/vtl/faq">here</a> to view the Frequently Asked Questions 
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Travel History</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers to Singapore must have only been to their country/region of departure and/or Singapore, in the last 21 consecutive days before departing for Singapore</p>
-<p style="margin-top:15px; margin-bottom:10px; font-size:16px; ;line-height:1.5;"><i><b>[For travellers entering Singapore with effect from 6 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. </i></p>	
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px ;line-height:1.5;">Travellers to Singapore must have only been to their country/region of departure and/or Singapore, in the last 14 consecutive days before departing for Singapore</p>
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Monitor their health status before departure; Travellers should not travel to Singapore if they:</p>
 <ol style="margin-top: 0px; margin-bottom:0px; font-size:16px;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a>;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore; or </li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Had close contact with any person with COVID-19 in the last 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days before departing for Singapore. Close contact refers to:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Are diagnosed or suspected to have COVID-19 infection in the last 14 days before departing for Singapore; or </li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Had close contact with any person with COVID-19 in the last 10 days before departing for Singapore. Close contact refers to:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Providing care for a COVID-19 patient, including in healthcare or family/social settings;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Staying in the same place as a person with COVID-19 (e.g. household members); or</li>

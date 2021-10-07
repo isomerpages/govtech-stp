@@ -142,7 +142,7 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
-The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 21 days (for arrivals before 7 Oct 2021,  or 14 days for arrivals after 7 Oct 2021) before their arrival, are required to take a Serology test in Singapore.
+The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before their arrival, are required to take a Serology test in Singapore.
 
 - Confinement nannies
 - Helpers
@@ -247,15 +247,13 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. Who will the vaccination entry requirement apply to?
 
-From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval.* For now, it will not apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
+From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval.* 
 
-<b>Note:</b> From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel historyin the last 14 days to all countries/regions before arriving in Singapore,  must be fully vaccinated <b>before</b> arrival, except for the following groups:
-<ol>
-	<li>Pass holders who are below 18 years old on date of entry</li>
-	<li>Pass holders who cannot be vaccinated due to medical conditions</li>
-	</ol>
+<b>Note:</b> From 1 Nov 2021, all pass holders and their dependants from Category I or II countries/region, as well as CMP workers, helpers and confinement nannies from all countries/regions must be fully vaccinated 14 days before they  arrive in Singapore.
 
-<i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021)  to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>
+This will also apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
+
+<i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 14 days to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
@@ -263,18 +261,14 @@ Eligible work pass holders and their dependants must complete the full course of
 
 Work pass holders will need to show proof of vaccination. If the vaccination certificate is not in English, it should be translated to English and notarised. 
 
-#### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. Why can’t I submit an entry application to bring him into Singapore?
+#### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. When can I submit an entry application to bring him into Singapore?
 
-Due to the need to reschedule workers from [Category III or IV countries/regions](/wphl/shn-and-swab-summary), new entry applications can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](/wphl/shn-and-swab-summary) for 21 consecutive days (for arrivals before 7 Oct 2021, or 14 consecutive days for arrivals after 7 Oct 2021)  before arrival.
-We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
+From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated S Pass and Work Permit holders from CMP sectors entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and pass holders may have to wait about three to six months before they can enter Singapore. 
 
 #### 4. I am medically ineligible for vaccination. How can I appeal to be exempted from the vaccination condition for entry?  
 You may appeal for an [exemption from the vaccination condition for entry](https://form.gov.sg/#!/610b4fe79eba440012bddce5), supported by a doctor’s memo. You will need to obtain the exemption before applying for entry approval. 
 
-#### 5. Why is the vaccination entry requirement not applicable to migrant domestic workers and S Pass/work permit holders in the Construction/Marine Shipyard/Process (CMP) sectors, especially when they are mostly from high risk countries?
-The vaccination entry requirement is currently not applicable to migrant domestic workers and CMP S Pass/work permit holders as there are on-going industry initiatives with tightened end-to-end process to bring on board these workers into Singapore safely
-
-#### 6. My pass holder gets exempted from serving SHN at dedicated facilities when he enters Singapore via the Vaccinated Traveller Lane (VTL). Why is he not given the same exemption if he is entering Singapore using the Work Pass Holder General Lane (WPHL) for work pass holders?
+#### 5. My pass holder gets exempted from serving SHN at dedicated facilities when he enters Singapore via the Vaccinated Traveller Lane (VTL). Why is he not given the same exemption if he is entering Singapore using the Work Pass Holder General Lane (WPHL) for work pass holders?
 
 Work pass holders entering via the WPHL must meet vaccination requirements as part of conditions for entry. As this is applied to pass holders entering Singapore from many countries/regions of higher importation risk, the pass holders will continue to be subjected to the full SHN requirements upon entry, for public health reasons. Work pass holders who qualify for a stepped-down SHN regime under the VTL may cancel their MOM entry approval and submit another application to enter under the VTL. 
 
@@ -282,31 +276,29 @@ Companies can cancel entry approvals for pass holders using this [online form](h
 
 Work Holiday Pass, or PEP (without employers) and EntrePass holders without a Corppass can cancel entry approvals for themselves and their dependants using this [online form](http://www.mom.gov.sg/cancel-entry-individual).
 
-#### 7. My helper/confinement nanny is fully vaccinated. Why can’t I submit an entry application to bring her into Singapore?
+#### 6. My helper/confinement nanny is fully vaccinated. When can I submit an entry application to bring her into Singapore?
 
-Due to the need to reschedule helpers and confinement nannies from <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a>, <b>new entry applications</b> can only be accepted for helpers and confinement nannies who remained in [Category I or II countries/regions](https://go.gov.sg/responsibilities-submitters-pass-holders) for 21 consecutive days (for arrivals before 7 Oct 2021, or 14 consecutive days for arrivals after 7 Oct 2021)  before arrival.
+From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated helpers/confinement nannies entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and helpers/nannies may have to wait about three to six months before they can enter Singapore. 
 
-We understand these measures are difficult for employers and seek understanding on the need for control measures to keep Singapore safe. We are working towards allowing new applications at a later date.
-
-#### 8. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
+#### 7. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
 
 Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. Vaccines requiring 2 doses can be completed either using the [same or different brands](/health/vtsg) and taken based on the recommended intervals between each dose.
 
 Pass holders who took other types of vaccines will not meet the entry requirements. Thus, please **do not** submit entry applications for them.
 
-#### 9. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
+#### 8. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 21 days (for arrivals before 7 Oct 2021, or 14 days for arrivals after 7 Oct 2021) before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
 
-#### 10. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
+#### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
 Fully vaccinated pass holders are still subject to the [prevailing travel health control measures](https://go.gov.sg/responsibilities-submitters-pass-holders), which include serving SHN depending on their travel histories. 
 
-#### 11. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
+#### 10. My pass holder has a doctor’s memo stating he/she cannot be vaccinated due to medical conditions. Can he/she show this memo at the checkpoint, without having to request for an exemption?
 
 No, pass holders need to obtain an approval from Ministry of Manpower (MOM) to be exempted. Companies must submit an [exemption request for their pass holders](https://www.mom.gov.sg/exempt-vaccination) and upload the doctor’s memo. If the request is approved, your company can then proceed with the [pass holder’s entry application](https://go.gov.sg/wphl-requirements).
 
-#### 12. My pass holder does not wish to send his/her child (aged 12 years old to below 18 years old) for the COVID-19 vaccination in Singapore. Can the child be exempted?
+#### 11. My pass holder does not wish to send his/her child (aged 12 years old to below 18 years old) for the COVID-19 vaccination in Singapore. Can the child be exempted?
 
 Unvaccinated children who are 12 years old to below 18 years old on date of entry must get their first vaccination in Singapore using a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival.
 
@@ -318,7 +310,7 @@ However, if the child cannot be vaccinated due to medical conditions, please get
 
 Please produce the memo when requested by the authorities. 
 
-#### 13. My pass holder was vaccinated 2 days ago. Can he/she enter Singapore next week?
+#### 12. My pass holder was vaccinated 2 days ago. Can he/she enter Singapore next week?
 
 No, the pass holder cannot enter Singapore yet. 
 
@@ -326,14 +318,9 @@ Pass holders must receive the full regimen of [WHO EUL vaccines](https://extrane
 
 Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
 
-#### 14. My pass holder is fully vaccinated and took a serology test at a Public Health Preparedness Clinic. However, the serology test result was negative or inconclusive. What happens next?
+#### 13. My pass holder is fully vaccinated and took a serology test at a Public Health Preparedness Clinic. However, the serology test result was negative or inconclusive. What happens next?
 
 The pass holder will have to take 2 doses of a [PSAR-approved vaccine](https://www.hsa.gov.sg/hsa-psar) in Singapore within 2 months of the negative serology test result. Failure to do so may result in the suspension and revocation of the pass holder’s work pass privileges.
 
-#### 15. My pass holder has an approval to enter Singapore. However, Ministry of Manpower (MOM) informed me that his/her entry will have to be delayed. I understand MOM will email me when to bring him/her in. Does he/she need to be fully vaccinated before arrival?
-
-No, the pass holder does not need to be vaccinated before arrival. The vaccination requirement only applies to pass holders who obtained entry approvals **from 10 Aug 2021**.
-
-MOM will email you to exempt your pass holder from the vaccination requirement. 
 
 <a href="#top">Click here to return to the top.</a>

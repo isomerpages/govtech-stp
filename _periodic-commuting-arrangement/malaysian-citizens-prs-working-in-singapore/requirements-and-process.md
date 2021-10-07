@@ -194,7 +194,7 @@ Travellers will be transported to their assigned SDF using Government-arranged t
 <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED
-"><b><u>Up to 14 <b>(for arrivals before 7 Oct 2021)</b> or 10 <b>(for arrivals from 7 Oct 2021)</b> days after arriving</u></b> in Singapore</th>
+"><b><u>Up to 10 days after arriving</u></b> in Singapore</th>
   </tr>
   </thead>
 <tbody>
@@ -211,7 +211,7 @@ Travellers will be transported to their assigned SDF using Government-arranged t
   <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at an SHN-dedicated facility (SDF)</b></td>
   <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf">SDF</a> for the period stipulated in the <a href="/health/shn/sdf">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted on-site, or at a specified testing facility, and travellers must return to their SDF immediately after the test. <br/><br/>
-	  <b> For arrivals before 7 Oct 2021 </b>, travellers will be required to take self-administered COVID-19 Antigen Rapid Tests (ART) on Days 3, 7 and 11 of their arrival in Singapore, while serving their SHN. They will also take a PCR test on Day 14, before they exit their SHN.  <b> For arrivals from 7 Oct 2021 </b>, travellers will be required to take self-administered COVID-19 Antigen Rapid Tests (ART) on Days 3 and 7 of their arrival in Singapore, while serving their SHN. They will also take a PCR test on Day 10, before they exit their SHN.
+	Travellers will be required to take self-administered COVID-19 Antigen Rapid Tests (ART) on Days 3 and 7 of their arrival in Singapore, while serving their SHN. They will also take a PCR test on Day 10, before they exit their SHN.
 		<br/><br/>
 Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
 Singapore Permanent Residents who are Malaysian nationals may access Government subsidies and Medishield Life/Integrated Shield Plans to help pay for their medical bills.
@@ -219,7 +219,7 @@ Singapore Permanent Residents who are Malaysian nationals may access Government 
   </tr>
 	<tr>
     <td style="font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;background-color:#EDEDED"><b>Retention of TraceTogether App Data or Return of TraceTogether Tokens </b></td>
-    <td style="font-size:18px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 21 <b>(for arrivals before 7 Oct 2021)</b> or 14 <b>(for arrivals from 7 Oct 2021)</b> days after leaving Singapore.<br/><br/>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-top:1px solid #D8D8D8;">Visitors who have used the <b>TraceTogether App </b>while in Singapore are required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she be tested positive for COVID-19 while in Singapore, or in the first 14 days after leaving Singapore.<br/><br/>
 			<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5"><b>For TraceTogether Token users</b>, visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints prior to their departure from Singapore. </p><br/>
 						<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5">For the full details and conditions governing the use of the TraceTogether App or token, please click <a href="/health/tt-for-travellers">here. </a></p>
     </td>

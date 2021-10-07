@@ -13,9 +13,9 @@ In general, travellers under SHN are required to take a mandatory [COVID-19 Poly
 
 Travellers issued with an SHN should refer to the SHN Health Advisory [here](/files/MOH-Health-Advisory-SHN.pdf), and watch the video below for a quick overview of SHN requirements. Travellers who have questions regarding their SHN may also refer to the [Frequently Asked Questions (FAQ) section](/health/faq#shnsdf). Those in need of additional support can refer to this [page](https://www.gov.sg/article/call-these-helplines-if-you-need-emotional-or-psychological-support) for a list of local helplines and resources.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_iO3-H1FjgA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZarGe4vr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**View this video in the following languages: [Chinese](https://youtu.be/4B-zT4wW_CY), [Bahasa Indonesia](https://youtu.be/3oTQ0TAdkkk)**
+**View this video in the following languages: [Chinese](https://youtu.be/dTHU3xh2Buk), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
 
 ---
 
@@ -35,14 +35,14 @@ For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of th
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller A arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 8 March 2021, after his COVID-19 test results are released.
       </td>
     </tr>
-     <tr>
+    <!-- <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom: 1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>14-day SHN (for arrivals before 7 Oct 2021)</b>
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-bottom: 1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller B arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 15 March 2021, after his COVID-19 test result is released.
       </td>
-    </tr>
+    </tr>-->
 		<tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom: 1px solid #D8D8D8;"><b>10-day SHN (for arrivals after 7 Oct 2021)</b>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom: 1px solid #D8D8D8;"><b>10-day SHN</b>
       </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 1px solid #D8D8D8;  ">Traveller C arrived in Singapore on 7 October 2021. His SHN will start with immediate effect on 7 October 2021, and end on 17 October 2021, after his COVID-19 test results are released, before exiting SHN.
       </td>
