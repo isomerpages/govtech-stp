@@ -110,12 +110,12 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 <table>
   <thead>
     <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Point of Departure</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Options</b></th>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Type of self-isolation/SHN</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Options</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Self-isolation at declared accommodation, pending COVID-19 PCR test result
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers, Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
       <td rowspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
@@ -157,7 +157,7 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 	</td>
     </tr>
 		    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at own accommodation
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <b>[Travellers who are not fully vaccinated]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
     </tr>
 		<tr>
