@@ -81,7 +81,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with category II travel history or fully vacccinated travellers with Category III travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
 
@@ -114,7 +114,7 @@ Only travellers with the same travel history and heading to the same declared pl
 
 #### 2. [For non-fully vaccinated travellers with Category (III) travel history and travellers with Category (IV) travel history] Due to extenuating Circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
 
-**For such travellers** approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+For such travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
