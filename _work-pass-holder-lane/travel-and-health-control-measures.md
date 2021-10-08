@@ -289,8 +289,9 @@ For all other pass holders (work pass holders and their dependants), this page e
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category IV]</b></th>
 </tr>
 	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>All other Countries/ Regions<br/><br/> 
-(<u>Excluding Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</u>. Pass holders with travel history to any of these excluded countries are not permitted for entry, including those with prior entry approvals.</b></th>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>All other Countries/ Regions<br/>
+(Excluding Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka. Pass holders with travel history to any of these excluded countries are not permitted for entry, including those with prior entry approvals.)
+</b></th>
 </tr>
 	<tr>
 		<th colspan ="4" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Health Measures by Pass Type</b></th>
@@ -319,58 +320,30 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore, depending on the SHN location:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at an SHN dedicated facility (SDF) by herself or with another helper/CN] </b> COVID-19 serology and PCR tests at the SDF within the first few days of arrival. <b>No registration is needed.</b> During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at SDF with her employer or employer’s family] </b> COVID-19 PCR test at the checkpoint ($160 including GST). </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at SDF with her employer or employer’s family; or place of residence or suitable accommodation (e.g. hotel or serviced apartment)] </b> On-arrival COVID-19 PCR test at the checkpoint ($160 including GST). Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
 		</ol>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST) and:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following locations:
+	<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will:
 <ol style="margin-top: 0px; list-style-type: lower-latin;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a>($20 including GST)on Days 3 and 7 of arrival, and</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3 and 7 of arrival ($20 including GST), and</li>
 	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li>
-<!--:
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the helper/CN will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN –<b>only if the helper/CN fulfils all conditions below:</b>
+			<ol style="margin-top: 0px; list-style-type: disc;">
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>; and </li>
+					<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated* and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
+			</ol><!--:
 	<ol style="margin-top: 0px; list-style-type: lower-latin;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.<!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li>
 			</ol>-->
-	</li>
-</ol>
-	</td> 
-		<td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
-		<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
-			<ol style="margin-top: 0px; list-style-type: lower-roman;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of pass holder; and </li>
-						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
-	</ol>
 		</li>
-	</ol>	
-</li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:
-<br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day SHN at one of the following locations: 
-<ol style="margin-top: 0px; list-style-type: lower-roman;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SHN dedicated facility (SDF) ($1,450 including GST), where the pass holder will: 
-<ol style="margin-top: 0px; list-style-type: lower-latin;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer Antigen Rapid Tests on Days 3, 7 of arrival ($20 including GST); and </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
 		</ol>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the pass holder will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN – <b>only if the pass holder fulfils all conditions below</b>:
-		<ol style="margin-top: 0px; list-style-type: disc;">
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>;</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated* and have the same travel history, arrival date and SHN duration as the pass holder. </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder does not stay in a dormitory. </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>. </li>
-			</ol>
-			</li>
-	</ol>
-	</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
-			</ol>
-</td> 
+</ol>
+	</td>
+		<td></td>
 	</tr>
 		<tr>
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>*</sup> Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve the 10-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</i></p>
@@ -383,4 +356,5 @@ For all other pass holders (work pass holders and their dependants), this page e
 			</td>
 		</tr>
 	</tbody>
-		</table>
+		</table><br>
+		
