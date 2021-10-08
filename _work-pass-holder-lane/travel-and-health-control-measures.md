@@ -272,7 +272,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</tr>
 		<tr>
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>*</sup> Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve the 10-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</i></p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>#</sup> The following groups of pass holders do not need to be vaccinated before entering Singapore. Click here for more details.</i></p>
+<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>#</sup> The following groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore. Click <a href="/wphl/vaccination-requirements">here</a> for more details.</i></p>
 						<ol  style="margin-top: 0px; list-style-type: disc;">
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who are below 18 years old on date of entry</i></li>
 														<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who cannot be vaccinated due to medical conditions
