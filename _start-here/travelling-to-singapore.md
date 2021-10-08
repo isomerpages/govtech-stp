@@ -153,6 +153,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">Brunei  </li>
 				 			<li style="font-size: 18px;">Germany </li>
+			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021) <br/> Details on VTL applications and requirements for South Korea will be announced separately. </li>
 				 </ul>
 				</td>
 	</tr>
