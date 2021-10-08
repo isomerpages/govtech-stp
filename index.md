@@ -3,7 +3,7 @@ layout: landing-page-stp
 title: SafeTravel
 description: Singapore’s latest border measures in response to COVID-19
 permalink: /
-notification: <h6 style="text-align:left;">Beware of <a
+notification: <h6 style="text-align:left;"> Beware of <a
   href="https://www.scamalert.sg/scam-details/impersonation-scam">impersonation
   scam</a> calls from "+65 6812 5555", which is similar to the SafeTravel
   Enquiries Helpline number. Do not provide your personal information or make
@@ -11,7 +11,7 @@ notification: <h6 style="text-align:left;">Beware of <a
   services offered by commercial entities who claim to provide assistance to
   travellers to fill up ICA's free <a
   href="https://eservices.ica.gov.sg/sgarrivalcard/">SG Arrival Card (SGAC)
-  e-Service</a> for a fee.          </h6>
+  e-Service</a> for a fee.           </h6>
 sections:
   - hero:
       title: <h3 style="font-size:25px; font-weight:bold; font-family:Arial;
