@@ -97,7 +97,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category II]</b></th>
 </tr>
 	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Fiji, France, Finland, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, the Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, the United Kingdom, the United States of America, and Vatican City</b></th>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Fiji, France, Finland, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, the Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, the United Kingdom, the United States of America, and Vatican City</b></th>
 </tr>
 	<tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;"><b>Helpers/CNs</b></th>
