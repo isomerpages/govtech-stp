@@ -269,7 +269,6 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</ol>
 	</li>
 </ol>
-	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 </td> 
 	</tr>
 		<tr>
