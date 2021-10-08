@@ -329,21 +329,11 @@ For all other pass holders (work pass holders and their dependants), this page e
 <ol style="margin-top: 0px; list-style-type: lower-latin;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3 and 7 of arrival ($20 including GST), and</li>
 	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the helper/CN will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN –<b>only if the helper/CN fulfils all conditions below:</b>
-			<ol style="margin-top: 0px; list-style-type: disc;">
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>; and </li>
-					<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated* and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
-			</ol><!--:
-	<ol style="margin-top: 0px; list-style-type: lower-latin;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.<!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li>
-			</ol>-->
-		</li>
 		</ol>
 	</li>
 </ol>
 	</td>
-		<td></td>
+		<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">OWPHL MEASURES HERE</td>
 	</tr>
 		<tr>
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>*</sup> Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve the 10-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</i></p>
@@ -357,4 +347,3 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</tr>
 	</tbody>
 		</table><br>
-		
