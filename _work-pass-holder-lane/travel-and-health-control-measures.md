@@ -347,6 +347,5 @@ For all other pass holders (work pass holders and their dependants), this page e
 <i><u>Note</u>: From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i>
 			</td>
 		</tr>
-
 	</tbody>
 		</table>
