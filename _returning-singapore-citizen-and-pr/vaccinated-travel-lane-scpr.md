@@ -155,7 +155,7 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Travel History</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers to Singapore must have only been to their VTL country/region of departure and/or Singapore, in the last 14 consecutive days before departure for Singapore. </p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>From 18 October 2021, 2359hrs</b>, travellers to Singapore must have only been to one or more of the <a href="vtl/countries-regions">VTL countries/regions</a> and/or Singapore, in the last 14 consecutive days before departing for Singapore.<br/><br/> Travellers should defer their travels if they:
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>From 18 October 2021, 2359hrs</b>, travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a> and/or Singapore, in the last 14 consecutive days before departing for Singapore.<br/><br/> Travellers should defer their travels if they:
 </p>
 <ol style="margin-top: 0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a></li>
