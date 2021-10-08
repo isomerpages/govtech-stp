@@ -84,7 +84,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><i>[Note]</i>: 
 						<ol  style="margin-top: 0px; list-style-type: disc;">
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></li>
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be fully vaccinated before arrival. For more details, please refer to the vaccination requirements. </i></li>
+							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i></li>
 						</ol>
 			</td>
 		</tr>
