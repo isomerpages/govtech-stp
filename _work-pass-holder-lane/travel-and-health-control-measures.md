@@ -354,6 +354,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li></ol></li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status <sup>#</sup> within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
 			</ol>
+			</td>
 	</tr>
 		<tr>
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>#</sup> The following groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore. Click <a href="/wphl/vaccination-requirements">here</a> for more details.</i></p>
