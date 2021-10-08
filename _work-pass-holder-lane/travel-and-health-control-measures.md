@@ -257,11 +257,11 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the pass holder will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN – <b>only if the pass holder fulfils all conditions below</b>:
-		<ol>
+		<ol style="margin-top: 0px; list-style-type: disc;">
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>;</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated* and have the same travel history, arrival date and SHN duration as the pass holder. </li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder does not stay in a dormitory. </li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">>list</a>. </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>. </li>
 		</ol>
 	</li>
 			</ol>
