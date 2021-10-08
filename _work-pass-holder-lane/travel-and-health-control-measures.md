@@ -45,7 +45,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category I]</b></th>
 </tr>
 	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center;"><b>Hong Kong, Macao, Mainland China and Taiwan</b></th>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>Hong Kong, Macao, Mainland China and Taiwan</b></th>
 </tr>
 	<tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;"><b>Helpers/CNs</b></th>
