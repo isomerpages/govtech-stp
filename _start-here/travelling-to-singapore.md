@@ -88,6 +88,14 @@ Otherwise, click the relevant lane below for more details.
 					 <li style="font-size: 18px;">Helpers</li>
 				 </ul>
 				</td>
+				<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/pca/overview">Periodic Commuting Arrangement</a></td>
+		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
+					 <li style="font-size: 18px;">Malaysian Citizen or Malaysian Permanent Resident, and hold a valid long-term pass for business and work purposes in Singapore; or</li>
+					 <li style="font-size: 18px;">Malaysian Citizen who is a Singapore Permanent Resident working in Singapore</li>
+				 </ul>
+				</td>
+	</tr>
 	</tr>
 	</tbody>
 	</table>
