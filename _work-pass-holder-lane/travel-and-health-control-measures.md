@@ -370,4 +370,4 @@ For all other pass holders (work pass holders and their dependants), this page e
 			</td>
 		</tr>
 	</tbody>
-		</table><br>
+		</table>
