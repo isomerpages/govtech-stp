@@ -233,12 +233,39 @@ For all other pass holders (work pass holders and their dependants), this page e
 </ol>
 	</td> 
 		<td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup>  before arrival.</b></li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+		<ol style="margin-top: 0px; list-style-type: disc;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following: 
+			<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	COVID-19 PCR test results and date of test; </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Name of pass holder; and </li>
+						<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
+	</ol>
+		</li>
+	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to and self-isolate in one of the following accommodation until they get a negative test result: 
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels<sup>[See Note]</sup> or serviced apartments)</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house     </li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:
+<br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> ($160 including GST) <b>before the pass holder arrives in Singapore</b>. Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day SHN at one of the following locations: 
+<ol style="margin-top: 0px; list-style-type: lower-roman;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SHN dedicated facility (SDF) ($1,450 including GST), where the pass holder will: 
+<ol style="margin-top: 0px; list-style-type: lower-latin;">
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer Antigen Rapid Tests on Days 3, 7 of arrival ($20 including GST); and </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
+		</ol>
+	</li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the pass holder will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN – <b>only if the pass holder fulfils all conditions below</b>:
+		<ol>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>;</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the pass holder alone or household members, including any helpers, who are also vaccinated* and have the same travel history, arrival date and SHN duration as the pass holder. </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Pass holder does not stay in a dormitory. </li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">>list</a>. </li>
+		</ol>
+	</li>
+			</ol>
+			</li>
 	</ol>
 	</li>
 </ol>
