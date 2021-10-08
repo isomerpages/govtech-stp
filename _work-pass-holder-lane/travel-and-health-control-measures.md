@@ -32,7 +32,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 
 <div id="table2"></div>
 
-<p style="font-size:24px;">[For arrivals <span style="color: red;">from 12 Oct 2021, 2359h</span>]</b></p>
+<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 12 Oct 2021, 2359h</span>]</b></p>
 
 <p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 12 Oct 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>
 
