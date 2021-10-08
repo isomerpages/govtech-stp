@@ -320,7 +320,12 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore:</li>
+<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore, depending on the SHN location:
+	<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at an SHN dedicated facility (SDF) by herself or with another helper/CN]</b> COVID-19 serology and PCR tests at the SDF within the first few days of arrival. No registration is needed. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at at SDF with her employer or employer’s family]</b> COVID-19 PCR tests at checkpoint ($160 including GST).</li>
+	</ol>
+	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer <a href="/health/covid19-tests/pcrtest">Antigen Rapid Tests</a> ($20 including GST) on Days 3, 7 of arrival; <u>and</u></li>
