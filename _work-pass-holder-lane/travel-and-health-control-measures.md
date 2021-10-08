@@ -225,8 +225,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who are below 18 years old on date of entry</i></li>
 														<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who cannot be vaccinated due to medical conditions
 </i></li></ol>
-<i><u>Note</u>: From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i></li>
-						</ol>
+<i><u>Note</u>: From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i>
 			</td>
 		</tr>
 	</tbody>
