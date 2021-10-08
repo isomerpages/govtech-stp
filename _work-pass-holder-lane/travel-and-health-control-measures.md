@@ -282,16 +282,16 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</tr>
 	</tbody>
 		</table><br>
-		<table>
+<table>
 <thead>
 <tr>
 <th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category IV]</b></th>
 </tr>
 	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><p style="font-size:16px; text-align:center; "><b>All Other Countries/ Regions</b></p>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><p style="font-size:16px; text-align:center;"><b>All Other Countries/ Regions</b></p>
 <p style="font-size:16px; text-align:left; vertical-align:middle; line-height:1.5;">(<b>Excluding Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b>. Pass holders with travel history to any of these excluded countries are not permitted for entry, including those with prior entry approvals.)</p>
-</b></th>
+</th>
 </tr>
 	<tr>
 		<th colspan ="4" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Health Measures by Pass Type</b></th>
