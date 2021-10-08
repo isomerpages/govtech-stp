@@ -323,12 +323,10 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at SDF with her employer or employer’s family; or place of residence or suitable accommodation (e.g. hotel or serviced apartment)] </b> On-arrival COVID-19 PCR test at the checkpoint ($160 including GST). Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
 		</ol>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following locations:
-	<ol style="margin-top: 0px; list-style-type: lower-roman;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will:
-<ol style="margin-top: 0px; list-style-type: lower-latin;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3 and 7 of arrival ($20 including GST), and</li>
-	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ) $1,050 including GST) and:
+		<ol style="margin-top:0px; list-style-type: lower-roman;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-administer Antigen Rapid Tests ($20 including GST) on Days 3, 7 of arrival</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
 		</ol>
 	</li>
 </ol>
@@ -336,8 +334,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">OWPHL MEASURES HERE</td>
 	</tr>
 		<tr>
-					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>*</sup> Fully vaccinated pass holders entering Singapore with unvaccinated children (under 12 years old) can also apply to serve the 10-day SHN together at their residence or other suitable accommodation, such as hotel or serviced apartments.</i></p>
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>#</sup> The following groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore. Click <a href="/wphl/vaccination-requirements">here</a> for more details.</i></p>
+					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>#</sup> The following groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore. Click <a href="/wphl/vaccination-requirements">here</a> for more details.</i></p>
 						<ol  style="margin-top: 0px; list-style-type: disc;">
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who are below 18 years old on date of entry</i></li>
 														<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who cannot be vaccinated due to medical conditions
