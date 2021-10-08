@@ -230,7 +230,8 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 </ol>
 </td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 #### 2. Arrival in Singapore
 
