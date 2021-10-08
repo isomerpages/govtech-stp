@@ -241,7 +241,8 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. 
 </p>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mobile phones, must do so in the airport transit area <b>before clearing arrival immigration</b>. </td>
+	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mobile phones, must do so in the airport transit area <b>before clearing arrival immigration</b>.</p> 
+	</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Immigration clearance</b></td>
