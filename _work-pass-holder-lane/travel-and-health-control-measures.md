@@ -326,16 +326,11 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST) and:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> Self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3 and 7 of arrival ($20 including GST), and</li>
-	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li>
-			</ol><!--:
+	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li><!--:
 	<ol style="margin-top: 0px; list-style-type: lower-latin;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.<!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li>
 			</ol>-->
-		</li>
-		</ol>
-	</li>
-</ol>
 	</td>
 	</tr>
 		<tr>
