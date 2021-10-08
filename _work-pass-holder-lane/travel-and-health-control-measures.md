@@ -48,8 +48,8 @@ For all other pass holders (work pass holders and their dependants), this page e
 <th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7;"><b>Hong Kong, Macao, Mainland China and Taiwan</b></th>
 </tr>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;"><b>Helpers/CNs</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;"><b>All Other Work Pass Holders</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;"><b>Helpers/CNs</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;"><b>All Other Work Pass Holders</b></th>
 </tr>
 </thead>
 	<tbody>
@@ -80,5 +80,13 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	If tested negative, they can go about their activities in Singapore, without a need to serve SHN.</p>
 </td> 
 	</tr>
+		<tr>
+					<td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;">[Note]: 
+						<ol  style="margin-top: 0px; list-style-type: disc;">
+							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></li>
+							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be fully vaccinated before arrival. For more details, please refer to the vaccination requirements. </i></li>
+						</ol>
+			</td>
+		</tr>
 	</tbody>
 		</table>
