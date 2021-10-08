@@ -220,7 +220,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the helper/CN will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN –<b>only if the helper/CN fulfils all conditions below:</b>
 			<ol style="margin-top: 0px; list-style-type: disc;">
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are fully vaccinated; and </li>
+				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>; and </li>
 					<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated* and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
 			</ol><!--:
 	<ol style="margin-top: 0px; list-style-type: lower-latin;">
