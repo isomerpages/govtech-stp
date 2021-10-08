@@ -173,7 +173,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</tr>
 	</tbody>
 		</table><br>
-		<table>
+<table>
 <thead>
 <tr>
 <th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region Classification based on 14-day Travel History</b></th>
