@@ -56,7 +56,7 @@ Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their V
 
 <b><i>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs] </i></b>
 
-*Travellers must be [fully vaccinated](health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/countries-regions) or Singapore, regardless of which [VTL country/region](/vtl/countries-regions) they depart from. An individual is considered [fully vaccinated](health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines).*
+*Travellers must be [fully vaccinated](health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines).*
 
 *For acceptable proofs of vaccination issued in Singapore, please refer to [Question 5](#Q5).*
 
@@ -205,12 +205,12 @@ For (A), please see sample screenshots below:
 Travellers may present any of the following:
 
 **[For travellers entering Singapore before 18 October 2021, 2359hrs]** 
-- EU Digital COVID Certificates (EU DCC) issued in the [VTL country/region](/vtl/countries-regions) of departure
+- EU Digital COVID Certificates (EU DCC) issued in the [VTL country/region](/vtl/requirements-and-process#countries) of departure
 - Physical copy of vaccination certificate – International Certificate of Vaccination (Yellow Book) issued by the Ministry of Health of Brunei Darussalam 
 - Vaccination status on the BruHealth app
 
 **[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]**
-- EU Digital COVID Certificates (EU DCC) issued by any [VTL country/region](/vtl/countries-regions)
+- EU Digital COVID Certificates (EU DCC) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
 - Smart Health Cards (SHC) by issuers in the United States and Canada on the CommonTrust Network 
 - National Health Service (NHS) COVID Passes on the NHS mobile app
 - Vaccination status on the BruHealth app
@@ -221,7 +221,7 @@ Digitally verified and authenticated proof of vaccination is a key safeguard of 
 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br> **[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]** the country/region of issuance must be any [VTL country/region](/vtl/countries-regions) or Singapore, regardless of which [VTL country/region](/vtl/countries-regions) they depart from;
+- the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br> **[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]** the country/region of issuance must be any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from;
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
@@ -421,7 +421,7 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/countries-regions">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/countries-regions">VTL country/region</a> they depart from.</i>
+	<li>be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
 		</li>
 	<li>have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
@@ -487,7 +487,7 @@ When checking in at the departure airport, travellers must present the following
 	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;<br/><br/><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> the country/region of issuance must be any <a href="/vtl/countries-regions">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/countries-regions">VTL country/region</a> they depart from;
+				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;<br/><br/><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;
 				</li>
 				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
 				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
