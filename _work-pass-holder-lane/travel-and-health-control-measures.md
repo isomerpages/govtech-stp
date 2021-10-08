@@ -352,7 +352,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</ol>	
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test ($160 including GST) at the Singapore checkpoint.</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day SHN at an SHN dedicated facility (SDF) ($1,450 including GST) and:
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn/">SHN</a> at an <a href="/health/shn/sdf">SHN dedicated facility (SDF)</a> ($1,450 including GST) and:
 <ol style="margin-top: 0px; list-style-type: lower-latin;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Self-administer Antigen Rapid Tests on Days 3 and 7 of arrival ($20 including GST); and </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li></ol>
