@@ -292,7 +292,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 </tr>
 	<tr>
 <th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>All other Countries/ Regions<br/><br/> 
-(Excluding Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka. Pass holders with travel history to any of these excluded countries are not permitted for entry, including those with prior entry approvals.)
+	(<u>Excluding</u> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka. Pass holders with travel history to any of these excluded countries are not permitted for entry, including those with prior entry approvals.)
  
 </b></th>
 </tr>
