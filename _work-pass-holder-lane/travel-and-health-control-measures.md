@@ -206,6 +206,11 @@ For all other pass holders (work pass holders and their dependants), this page e
 </li>
 </ol>
 </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore, depending on the SHN location:
+<ol style="margin-top:0px; list-style-type: lower-roman;">
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[If the helper/CN is serving SHN at an SHN dedicated facility (SDF) by herself or with another helper/CN] </b> COVID-19 serology and PCR tests at the SDF within the first few days of arrival. <b>No registration is needed.</b> During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
+		</ol>
+	</li>
 	</td> 
 		<td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
