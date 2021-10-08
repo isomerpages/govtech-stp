@@ -12,6 +12,8 @@ As part of Singapore’s efforts to reopen our borders safely, <a href="/health/
 
 Upcoming VTLs for the following countries/regions will come into effect only for travellers entering Singapore from the specified date and time. Travellers who enter Singapore before the specified date and time **will not** be eligible for the VTL:
 
+<div id="countries"></div>
+
 <table>
 <thead>
 <tr>
