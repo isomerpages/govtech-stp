@@ -81,7 +81,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
 
