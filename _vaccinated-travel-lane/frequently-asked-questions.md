@@ -436,7 +436,7 @@ To be eligible to take a designated VTL flight, they are required to:
 			</li>
 		</ul>
 		</li>
-		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/countries-regions">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
+		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
 	</li>
 		<li style="margin-top:15px;">undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
