@@ -153,16 +153,6 @@ For all other pass holders (work pass holders and their dependants), this page e
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or household members, including any helpers) where the pass holder can be isolated in a room with an attached toilet.</b>  </li>
 	</ol>
 	</li>
-				<table>
-<tr>
-<td rowspan="2" style="font-size:16px; border-top: 1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;  "><i>[Note]:</i>
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>For hotels, submitters should refer to this <a href="https://sha.org.sg/stay-home-notice">list</a>. They may contact the hotel directly to make their booking, and should inform them that it is for SHN purpose. </i></li>
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Pass holders are <b>not allowed</b> to serve SHN in dormitories or residences occupied by non-family members.</i></li>
-	</ol>
-	</td>
-</tr>
-	</table>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).--></li>
 </ol>
 </td> 
