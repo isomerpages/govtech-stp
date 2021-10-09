@@ -392,17 +392,17 @@ Those arriving in Singapore on a designated VTL flight will be allowed to go abo
 
 <u><b>(B) Non-Designated Flights</b></u>
 
-Those travelling to Singapore on a non-designated flight will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
+Those arriving in Singapore on a non-designated flight will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
 #### 6. What flights may Long-Term Pass holders take in order to enter Singapore?
 
-Long-Term Pass holders holding a VTP may only travel to Singapore on a designated VTL flight. Otherwise, they may be denied entry into Singapore.
+Long-Term Pass holders holding a VTP may only arrive in Singapore on a designated VTL flight. Otherwise, they may be denied entry into Singapore.
 
 Long-Term Pass holders holding a Approval Letter of Entry (ALE) via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a> may only travel to Singapore on a non-designated flight and will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
 #### 7. What flights may short-term visitors take in order to enter Singapore?
 
-Short-term visitors who are VTP holders may only travel to Singapore on designated VTL flights. Otherwise, they will be denied entry into Singapore.
+Short-term visitors who are VTP holders may only arrive in Singapore on designated VTL flights. Otherwise, they will be denied entry into Singapore.
 
 #### 8. What must travellers present to airline staff during check-in at the departure airport for Singapore?
 
