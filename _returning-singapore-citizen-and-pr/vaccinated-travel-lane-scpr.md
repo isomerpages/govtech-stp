@@ -223,7 +223,7 @@ Travellers must have been fully vaccinated in their [VTL country/region](/sc-pr/
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a negative COVID-19 PCR test result;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for singapore; and</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a>.</li>
 </ol>
 </li>
