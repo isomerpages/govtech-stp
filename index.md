@@ -23,14 +23,14 @@ sections:
       background: /images/homepage2.png
       key_highlights:
         - title: Travelling to Singapore <span style="font-size:20px;"> &#187; </span>
-          description: null
+          description: Click Here
           url: /arriving/overview
         - title: Transiting through Singapore <span style="font-size:20px;"> &#187;
             </span>
-          description: null
+          description: Click Here
           url: /transit/overview
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
-          description: null
+          description: Click Here
           url: /departing/overview
   - resources:
       title: Press Releases
