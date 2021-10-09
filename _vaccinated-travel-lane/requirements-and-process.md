@@ -13,7 +13,7 @@ Fully vaccinated travellers* who are short-term visitors (including business and
 - Brunei Darussalam
 - Germany
 
-Upcoming Vaccinated Travel Lanes for the following countries/regions will come effect only from the specified application and arrival time. 
+Upcoming Vaccinated Travel Lanes for the following countries/regions will come into effect only from the specified application and arrival time. 
 
 <div id="countries"></div>
 
@@ -227,7 +227,7 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-Departure COVID-19 PCR Test</b>
 </td>
-				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing"> internationally accredited or recognised laboratory, clinic, or medical facility</a>.
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing"> internationally accredited or recognised laboratory, clinic, or medical facility</a>.
 									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">A test result certificate must be obtained in English stating the following:
 </p>
 							 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
@@ -300,7 +300,7 @@ Short term visitors are required to download and register their profile on the T
 										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
-											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>				
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>				
 											 		 				 <li style="margin-top:5px; margin-bottom:10px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>				
 											 </ol>
 											 </li>	
@@ -353,7 +353,7 @@ At arrival immigration in Singapore, all travellers must present to the ICA offi
 										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
-											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from the declared country/region of departure to Singapore; and</li>				
+											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>				
 											 		 				 <li style="margin-top:5px; margin-bottom:10px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratories, clinics, or medical facilities</a></li>				
 											 </ol>
 											 </li>	
