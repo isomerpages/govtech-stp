@@ -9,11 +9,7 @@ permalink: /vtl/requirements-and-process
 
 #### Eligibility
 
-Fully vaccinated travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
-- Brunei Darussalam
-- Germany
-
-Upcoming Vaccinated Travel Lanes for the following countries/regions will come into effect only from the specified application and date/time of entry into Singapore. 
+Fully vaccinated travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
 
 <div id="countries"></div>
 
@@ -21,15 +17,23 @@ Upcoming Vaccinated Travel Lanes for the following countries/regions will come i
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTP applications open on:</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTL effective for travellers entering Singapore from:</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Effective for Entry into Singapore</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTP applications open:</b></th>
 </tr>
 </thead>
 <tbody>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>8 September 2021, 2359hrshrs (Singapore time)</b></td>
+	<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>1 September 2021, 2359hrs (Singapore time)</b></td>
+</tr>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Germany</td>
+</tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
-<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>12 October 2021, 1000hrs (Singapore time)</b></td>
-	<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>18 October 2021, 2359hrs (Singapore time)</b></td>
+<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>18 October 2021, 2359hrs (Singapore time)</b></td>
+	<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>12 October 2021, 1000hrs (Singapore time)</b></td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Demark</td>
@@ -54,11 +58,12 @@ Upcoming Vaccinated Travel Lanes for the following countries/regions will come i
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
-		<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>8 November 2021, 1000hrs (Singapore time)</b></td>
-<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>14 November 2021, 2359hrs (Singapore time)</b></td>
+		<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>14 November 2021, 2359hrs (Singapore time)</b></td>
+<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>8 November 2021, 1000hrs (Singapore time)</b></td>
 </tr>
 </tbody>
 </table>
+<sup>*</sup>All timings are in Singapore time
 
 Singapore Citizens and Permanent Residents should not apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click [here](/sc-pr/vtl) for more information on the requirements.
 
