@@ -9,7 +9,7 @@ permalink: /vtl/requirements-and-process
 
 #### Eligibility
 
-Fully vaccinated travellers* who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
+Fully vaccinated travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
 - Brunei Darussalam
 - Germany
 
