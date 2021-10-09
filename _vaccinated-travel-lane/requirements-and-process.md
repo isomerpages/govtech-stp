@@ -3,8 +3,6 @@ title: Requirements and Process
 permalink: /vtl/requirements-and-process
 ---
 
-<span style="color:red;"><b>NOTE: If you are departing from South Korea, you can use the Vaccinated Travel Lane for quarantine-free measures <u>for arrival from 15 Nov 2021</u>. Details on VTL applications and requirements for South Korea will be announced separately.</b></span>
-
 ### 1. Vaccinated Travel Pass (VTP) Application
 
 #### Eligibility
