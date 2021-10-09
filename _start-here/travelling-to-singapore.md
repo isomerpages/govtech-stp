@@ -33,7 +33,7 @@ Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arrivin
 
 Singapore Citizens (SC) and Permanent Residents (PR) <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info on requirements for the Returning SC/PR Lane.
 
-Fully vaccinated Singapore Citizens and Permanent Residents departing from Germany and Brunei under the Vaccinated Travel Lane can enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/vtl/requirements-and-process) for more information on the Vaccinated Travel Lane for SC/PR travellers.
+Fully vaccinated Singapore Citizens and Permanent Residents departing from Germany and Brunei under the Vaccinated Travel Lane can enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/sc-pr/vtl) for more information on the Vaccinated Travel Lane for SC/PR travellers.
 
 ---
 
