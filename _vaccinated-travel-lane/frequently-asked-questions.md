@@ -55,7 +55,7 @@ Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their V
 
 <b><i>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs] </i></b>
 
-*Travellers must be [fully vaccinated](health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines).*
+*Travellers must be [fully vaccinated](/health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines).*
 
 *For acceptable proofs of vaccination issued in Singapore, please refer to [Question 5](#Q5).*
 
