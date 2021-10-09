@@ -33,7 +33,7 @@ Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arrivin
 
 Singapore Citizens (SC) and Permanent Residents (PR) <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info on requirements for the Returning SC/PR Lane.
 
-Fully vaccinated Singapore Citizens and Permanent Residents departing from Germany and Brunei under the Vaccinated Travel Lane can enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/vtl/requirements-and-process) for more information on the Vaccinated Travel Lane for SC/PR travellers.
+Fully vaccinated Singapore Citizens and Permanent Residents departing from Germany and Brunei under the Vaccinated Travel Lane can enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/sc-pr/vtl) for more information on the Vaccinated Travel Lane for SC/PR travellers.
 
 ---
 
@@ -153,7 +153,15 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">Brunei  </li>
 				 			<li style="font-size: 18px;">Germany </li>
-			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021) <br/> Details on VTL applications and requirements for South Korea will be announced separately. </li>
+				 <li style="font-size: 18px;">Canada (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">Denmark (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">France (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">Italy (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">Netherlands (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">Spain (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">United Kingdom (For arrivals from 18 Oct 2021)  </li>
+				 				 <li style="font-size: 18px;">United States (For arrivals from 18 Oct 2021)  </li>
+			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021)  </li>
 				 </ul>
 				</td>
 	</tr>
