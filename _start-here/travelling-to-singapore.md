@@ -187,8 +187,17 @@ Short term visitors from the following countries/regions may apply to enter Sing
 	<li><a href="/atp/requirements-and-process">Mainland China</a></li>
 	<!--<li><a href="/atp/requirements-and-process">New Zealand</a></li>-->
 	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
+					 <li><a href="/vtl/requirements-and-process">Canada</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">Denmark</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">France</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">Italy</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">Netherlands</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">Spain</a> (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">United Kingdom</a> (For arrivals from 18 Oct 2021)  </li>
+				 <li><a href="/vtl/requirements-and-process">United States</a>  (For arrivals from 18 Oct 2021)  </li>
+	<li><a href="/vtl/requirements-and-process">South Korea</a> (For arrivals from 15 Nov 2021)  </li>
 </ul>
-	
+
 ---
 
 Click here to return to the <a href="#top">top</a>.
