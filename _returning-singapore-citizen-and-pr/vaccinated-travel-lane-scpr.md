@@ -63,6 +63,10 @@ Travellers must have been fully vaccinated in their [VTL country/region](/sc-pr/
 
 **[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from. 
 
+For acceptable proofs of vaccination issued in Singapore, please refer to details in this FAQ response <a href="/vtl/faq#Q5">here</a>.
+
+For acceptable proofs of vaccination issued in any VTL country/region, please refer to this FAQ response <a href="/vtl/faq#Q6">here</a>.
+
 
 #### 1. Pre-Departure Requirements
 
