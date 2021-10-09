@@ -73,7 +73,7 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 
 For acceptable proofs of vaccination issued in Singapore, please refer to details in this FAQ response <a href="/vtl/faq#Q5">here</a>.
 
-For acceptable proofs of vaccination issued in any VTL country/region. please refer to this FAQ response <a href="/vtl/faq#Q6">here</a>.
+For acceptable proofs of vaccination issued in any VTL country/region, please refer to this FAQ response <a href="/vtl/faq#Q6">here</a>.
 
  	 
 #### Application Requirements
