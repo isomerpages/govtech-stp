@@ -13,7 +13,7 @@ Fully vaccinated travellers who are short-term visitors (including business and 
 - Brunei Darussalam
 - Germany
 
-Upcoming Vaccinated Travel Lanes for the following countries/regions will come into effect only from the specified application and arrival time. 
+Upcoming Vaccinated Travel Lanes for the following countries/regions will come into effect only from the specified application and date/time of entry into Singapore. 
 
 <div id="countries"></div>
 
