@@ -69,7 +69,7 @@ Singapore Citizens and Permanent Residents should not apply for a VTP to travel 
 
 Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore (check [here](/health/vtsg) for the definition of “fully vaccinated” in Singapore’s context). 
 
-**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in any VTL country/region or Singapore, regardless of which VTL country/region they depart from. 
+**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from. 
  	 
 #### Application Requirements
 
