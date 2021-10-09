@@ -30,7 +30,7 @@ sections:
           description: Click Here
           url: /transit/overview
         - title: Departing from Singapore <span style="font-size:20px;"> &#187; </span>
-          description: Click here
+          description: Click Here
           url: /departing/overview
   - resources:
       title: Press Releases
