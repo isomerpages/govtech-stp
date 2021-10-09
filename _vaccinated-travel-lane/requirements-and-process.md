@@ -9,7 +9,7 @@ permalink: /vtl/requirements-and-process
 
 #### Eligibility
 
-Fully vaccinated travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
+[Fully vaccinated](/health/vtsg) travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
 
 <div id="countries"></div>
 
@@ -17,7 +17,7 @@ Fully vaccinated travellers who are short-term visitors (including business and 
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Effective for Entry into Singapore</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Effective Date as a VTL Country/Region and for Entry into Singapore</b></th>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTP applications open:</b></th>
 </tr>
 </thead>
