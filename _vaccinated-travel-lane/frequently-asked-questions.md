@@ -252,7 +252,9 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test re
 
 #### 1. What are the designated VTL flights?
 
-Please refer to the relevant airlines’ websites for details of the designated flights.
+Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).
+
+Please refer to the respective airlines’ websites below for details depending on your country/region of departure, including when the first designated VTL flight will commence.
 
 <table>
 <thead>
@@ -339,7 +341,7 @@ Having a VTP does not guarantee travellers a ticket on a designated VTL flight t
 
 #### 3. I have a VTP and I meet the all the requirements under the VTL. However, I did not manage to get a ticket on a designated VTL flight to Singapore. Will I still be allowed to enter Singapore?
 
-As required under the VTL <a href="/vtl/conditions">Conditions</a>, a VTP holder must travel to Singapore on a designated VTL flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL flight to Singapore may be denied entry into Singapore.
+As required under the VTL <a href="/vtl/conditions">Conditions</a>, a VTP holder must arrive in Singapore on a designated VTL flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL flight to Singapore may be denied entry into Singapore.
 
 Singapore Citizens and Permanent Residents may return home to Singapore regardless, but will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
@@ -384,7 +386,7 @@ Singapore Citizens and Permanent Residents may take either:
 
 <u><b>(A) Designated VTL Flights</b></u>
 
-Those travelling to Singapore on a designated VTL flight will be allowed to go about their activities upon entry into Singapore, without having to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight.\
+Those arriving in Singapore on a designated VTL flight will be allowed to go about their activities upon entry into Singapore, without having to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight.
 
 <i>[Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests.]</i>
 
