@@ -2,8 +2,21 @@
 title: Departing from Singapore
 permalink: /departing/overview
 ---
-Travellers may leave Singapore and there are no specific requirements for departure, but the following is strongly advised before your trip:
-- Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories for specific countries/regions.
+###  Travel Advisory
+
+All residents of Singapore are advised to defer all travel to high risk countries/regions, that include Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka, until further notice. Residents of Singapore who are fully vaccinated may travel overseas to other countries/regions not mentioned above.
+
+Residents of Singapore who are unvaccinated or partially vaccinated are advised to defer all forms of travel overseas except for the following reasons:
+*  Any travel to Category I countries/regions;
+*  If they are pursuing academic studies or professional qualifications overseas, for courses or examinations which require physical presence in the foreign educational institution;
+*  If they are taking on or returning to employment overseas, for employment opportunities which require physical presence overseas;
+*  For essential travel for business, official and work purposes under special arrangements such as the Reciprocal Green Land and the Periodic Commuting Arrangement;
+*  For compassionate reasons (e.g. due to death of / critically ill family member);
+*  To seek medical treatment which cannot be reasonably received in Singapore; or
+*  To return to country of residence to attend to, or after attending to, legal/contractual obligations.
+
+If you are departing from Singapore, the following is strongly advised before your trip:
+- Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for specific advisories on your destination country/region.
 - Check if you are eligible for outbound SafeTravel Lane arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
 - If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary before your trip if you need certainty of a return date.
