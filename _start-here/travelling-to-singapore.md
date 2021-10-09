@@ -187,19 +187,17 @@ Short term visitors from the following countries/regions may apply to enter Sing
 	<li><a href="/atp/requirements-and-process">Mainland China</a></li>
 	<!--<li><a href="/atp/requirements-and-process">New Zealand</a></li>-->
 	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
+					 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">Canada</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">Denmark</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">France</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">Italy</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">Netherlands</a>  (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">Spain</a> (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">United Kingdom</a> (For arrivals from 18 Oct 2021)  </li>
+				 				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">United States</a>  (For arrivals from 18 Oct 2021)  </li>
+	<li style="font-size: 18px;"><a href="/vtl/requirements-and-process">South Korea</a> (For arrivals from 15 Nov 2021)  </li>
 </ul>
-	<p style="font-size:18px;"><b>[For arrivals from 18 October 2021[</b></p>
-	<ul style="list-style-type: disc;">
-				 <li style="font-size: 18px;"><a href="/vtl/requirements-and-process">Canada</li>
-				 <li style="font-size: 18px;">Denmark</li>
-				 <li style="font-size: 18px;">France ( </li>
-				 <li style="font-size: 18px;">Italy (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">Netherlands (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">Spain (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">United Kingdom (For arrivals from 18 Oct 2021)  </li>
-				 				 <li style="font-size: 18px;">United States (For arrivals from 18 Oct 2021)  </li>
-			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021)  </li>
-</ul>
+
 ---
 
 Click here to return to the <a href="#top">top</a>.
