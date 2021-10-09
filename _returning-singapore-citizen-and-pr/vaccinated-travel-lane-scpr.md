@@ -80,7 +80,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airlines</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)*</b></th>
 </tr>
 </thead>
 <tbody>
@@ -149,6 +149,8 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 </tr>
 </tbody>
 </table>
+		<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; color:red;"><sup>*</sup><i> Links to the individual airlines' VTL pages will be updated when available</i>.
+</p>
 </td>
 </tr>
 	<tr>
