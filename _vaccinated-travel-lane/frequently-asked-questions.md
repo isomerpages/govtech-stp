@@ -329,11 +329,6 @@ Please refer to the respective airlines’ websites below for details depending 
 </tbody>
 </table>
 
-<p style="margin-top:10px; margin-bottom:15px; font-size:16px; line-height:1.5"><i>
-	 Please click <a href="/vtl/countries-regions">here</a> for the effective dates of the VTLs. Some carriers may commence operations of designated VTL flights at a later date. Please check with the airlines for further information.
-</i></p>
-	
-Travellers entering Singapore with effect from 18 October 2021, 2359hrs, may transit via any of the VTL countries/regions above. However, they must arrive in Singapore on a designated VTL flight.
 
 #### 2. Are travellers guaranteed a ticket on a designated VTL flight to Singapore if they have a VTP?
 
