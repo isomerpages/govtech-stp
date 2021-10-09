@@ -10,7 +10,7 @@ Residents of Singapore who are unvaccinated or partially vaccinated are advised 
 *  Any travel to Category I countries/regions;
 *  If they are pursuing academic studies or professional qualifications overseas, for courses or examinations which require physical presence in the foreign educational institution;
 *  If they are taking on or returning to employment overseas, for employment opportunities which require physical presence overseas;
-*  For essential travel for business, official and work purposes under special arrangements such as the Reciprocal Green Lane and the Periodic Commuting Arrangement;
+*  For essential travel for business, official and work purposes
 *  For compassionate reasons (e.g. due to death of / critically ill family member);
 *  To seek medical treatment which cannot be reasonably received in Singapore; or
 *  To return to country of residence to attend to, or after attending to, legal/contractual obligations.
