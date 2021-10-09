@@ -33,7 +33,7 @@ permalink: /vtl/requirements-and-process
 	<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>12 October 2021, 1000hrs</b></td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Demark</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Denmark</td>
 	</tr>
 	<tr>
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">France</td>
@@ -179,7 +179,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Asiana Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korea Air</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korean Air</td>
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
@@ -196,7 +196,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>	
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United states</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United States</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 </tbody>
