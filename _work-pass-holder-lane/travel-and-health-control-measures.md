@@ -4,10 +4,10 @@ permalink: /wphl/shn-and-swab-summary
 ---
 As a condition for entry into Singapore, pass holders with an approval under the Work Pass Holder General Lane (WPHL) must comply with the prevailing travel health control measures (e.g. Stay-Home Notice (SHN) and COVID-19 tests). Employers and employment agencies, which submitted the entry applications (“Submitters”), must pay for pass holders’ entry charges and ensure they comply with the measures. 
 
-Workers who meet <b>all three of the conditions below</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) instead for the travel health control measures:
-a) Work in the Construction, Marine shipyard or Process (CMP sector);
-b) Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes
-c) Not entering Singapore with their dependants
+Workers who meet <b>all three of the conditions below</b>, please refer to [Ministry of Manpower’s website](https://www.mom.gov.sg/covid-19/entry-approval-requirements) instead for the travel health control measures:<br/><br/>
+a) &nbsp; Work in the Construction, Marine shipyard or Process (CMP sector);<br/>
+b) &nbsp; Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes<br/>
+c) &nbsp; Not entering Singapore with their dependants
 
 For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history, and will be stated on their entry approval letters. The health measures are split into 4 categories (Category I/II/III/IV).
 
