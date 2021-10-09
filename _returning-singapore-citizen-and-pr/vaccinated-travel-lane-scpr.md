@@ -58,7 +58,7 @@ SC/PRs returning to Singapore via the VTL do **not** need to apply for a Vaccina
 
 #### Vaccination Requirement
 
-Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore (check [here](/health/vtsg) for the definition of “fully vaccinated” in Singapore’s context). 
+Travellers must have been fully vaccinated in their [VTL country/region](/sc-pr/vtl#countries) of departure or Singapore (check [here](/health/vtsg) for the definition of “fully vaccinated” in Singapore’s context). 
 
 **[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in any VTL country/region or Singapore, regardless of which VTL country/region they depart from. 
 
@@ -151,8 +151,8 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Travel History</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers to Singapore must have only been to their VTL country/region of departure and/or Singapore, in the last 14 consecutive days before departure for Singapore. </p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>From 18 October 2021, 2359hrs</b>, travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a> and/or Singapore, in the last 14 consecutive days before departing for Singapore.<br/><br/> Travellers should defer their travels if they:
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers to Singapore must have only been to their <a href="/sc-pr/vtl#countries">VTL country/region</a> of departure and/or Singapore, in the last 14 consecutive days before departure for Singapore. </p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>From 18 October 2021, 2359hrs</b>, travellers to Singapore must have only been to one or more of the <a href="/sc-pr/vtl#countries">VTL countries/regions</a> and/or Singapore, in the last 14 consecutive days before departing for Singapore.<br/><br/> Travellers should defer their travels if they:
 </p>
 <ol style="margin-top: 0px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Have <a href="/health/covid19-symptoms">symptoms of COVID-19</a></li>
@@ -214,7 +214,7 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br/><br/><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs] </b> the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br/><br/><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs] </b> the country/region of issuance must be any <a href="/sc-pr/vtl#countries">VTL country/region</a> or Singapore, regardless of which <a href="/sc-pr/vtl#countries">VTL country/region</a> they depart from;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore.</li>
 </ol>
@@ -256,7 +256,7 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;list-style-type: lower-roman;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from; <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;</li>
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from; <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> the country/region of issuance must be any <a href="/sc-pr/vtl#countries">VTL country/region</a> or Singapore, regardless of which <a href="/sc-pr/vtl#countries">VTL country/region</a> they depart from;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore.</li>
 </ol>
