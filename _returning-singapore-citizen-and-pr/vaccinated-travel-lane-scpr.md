@@ -5,12 +5,7 @@ permalink: /sc-pr/vtl
 
 <span style="color:red;"><b>NOTE: If you are departing from South Korea, you can use the Vaccinated Travel Lane for quarantine-free measures <u>for arrival from 15 Nov 2021</u>. Details on VTL applications and requirements for South Korea will be announced separately.</b></span>
 
-As part of Singapore’s efforts to reopen our borders safely, <a href="/health/vtsg">fully vaccinated</a> Singapore Citizens (SCs) and Permanent Residents (PRs) may now return to Singapore via the Vaccinated Travel Lane (VTL) from the following countries/regions:
-
-- Brunei Darussalam
-- Germany
-
-Upcoming VTLs for the following countries/regions will come into effect only for travellers entering Singapore from the specified date and time. Travellers who enter Singapore before the specified date and time **will not** be eligible for the VTL:
+As part of Singapore's efforts to reopen our borders safely, fully vaccinated Singapore Citizens (SCs) and Permanent Residents (PRs) departing for Singapore from the following countries may return via the Vaccinated Travel Lane (VTL). Travellers who enter Singapore before the specified date and time will not be eligible for the VTL:
 
 <div id="countries"></div>
 
@@ -18,13 +13,20 @@ Upcoming VTLs for the following countries/regions will come into effect only for
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTL effective for travellers entering Singapore from:</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Effective Date as a VTL Country/Region and for Entry into Singapore</b></th>
 </tr>
 </thead>
 <tbody>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>8 September 2021, 2359hrs </b></td>
+</tr>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Germany</td>
+</tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
-	<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>18 October 2021, 2359hrs (Singapore time)</b></td>
+<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>18 October 2021, 2359hrs</b></td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Demark</td>
@@ -49,10 +51,12 @@ Upcoming VTLs for the following countries/regions will come into effect only for
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
-<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>14 November 2021, 2359hrs (Singapore time)</b></td>
+		<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>14 November 2021, 2359hrs </b></td>
 </tr>
 </tbody>
 </table>
+<sup>*</sup>All timings are in Singapore time
+
 
 SC/PRs returning to Singapore via the VTL do **not** need to apply for a Vaccinated Travel Pass (VTP), if they adhere to the VTL travel requirements detailed below. **Travellers who do not adhere to the requirements detailed below may be subject to the prevailing health control measures instead, and/or other enforcement actions.**
 
