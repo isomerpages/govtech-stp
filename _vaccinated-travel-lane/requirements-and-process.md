@@ -70,7 +70,7 @@ Travellers must have been fully vaccinated in their VTL country/region of depart
  	 
 #### Application Requirements
 
-Applications for a VTP must be made between 7 and 30 calendar days prior to their intended date of entry into Singapore. There will be no charge for each application. However, travellers will have to make payment for their <a href="/vtl/faq#arrival">Day 3 and Day 7 post-arrival COVID-19 Polymerase Chain Reaction (PCR) tests</a> at the point of application. Please click [here](https://go.gov.sg/vtl-portal) to apply. 
+Applications for a VTP must be made between 7 and 30 calendar days prior to their intended date of entry into Singapore. There will be no charge for each application. Please click [here](https://go.gov.sg/vtl-portal) to apply. 
 
 <table>
 	<tbody>
