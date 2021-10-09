@@ -3,8 +3,6 @@ title: Vaccinated Travel Lane (SC/PR)
 permalink: /sc-pr/vtl
 ---
 
-<span style="color:red;"><b>NOTE: If you are departing from South Korea, you can use the Vaccinated Travel Lane for quarantine-free measures <u>for arrival from 15 Nov 2021</u>. Details on VTL applications and requirements for South Korea will be announced separately.</b></span>
-
 As part of Singapore's efforts to reopen our borders safely, fully vaccinated Singapore Citizens (SCs) and Permanent Residents (PRs) departing for Singapore from the following countries may return via the Vaccinated Travel Lane (VTL) to enjoy quarantine-free measures on return to Singapore. Travellers who enter Singapore before the specified date and time will not be eligible for the VTL:
 
 <div id="countries"></div>
