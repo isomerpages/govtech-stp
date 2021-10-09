@@ -18,14 +18,12 @@ Upcoming VTLs for the following countries/regions will come into effect only for
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTL application open on:</b></th>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>VTL effective for travellers entering Singapore from:</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
-<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>12 October 2021, 1000hrs (Singapore time)</b></td>
 	<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>18 October 2021, 2359hrs (Singapore time)</b></td>
 </tr>
 <tr>
@@ -51,7 +49,6 @@ Upcoming VTLs for the following countries/regions will come into effect only for
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
-		<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>8 November 2021, 1000hrs (Singapore time)</b></td>
 <td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>14 November 2021, 2359hrs (Singapore time)</b></td>
 </tr>
 </tbody>
