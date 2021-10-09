@@ -67,78 +67,7 @@ Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their V
 
 #### 2. What is the minimum number of days required between 2 doses of vaccines?
 
-The table below shows the minimum interval between 2 doses of vaccines for vaccinations to be considered valid.
-
-<table>
-<thead>
-<tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Manufacturer</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Name of Vaccine </b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Doses</b></th>
-	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Minimum Interval between 2 doses</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Pfizer/BioNTech</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">BNT162b2/COMIRNATY <br/> Tozinameran (INN)</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">17 days </td>
-</tr>
-	<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Moderna</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">mRNA-1273</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">24 days </td>
-</tr>
-		<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Astrazeneca</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">AZD1222-Vaxzeveria <br/>(ChAdOx1_nCoV-19)</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">24 days </td>
-</tr>
-			<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Serum Institute of India</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Covishield <br/> (ChAdOx1_nCoV-19)</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">24 days </td>
-</tr>
-				<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Janssen</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Ad26.COV2.S</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">1 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">NA </td>
-</tr>
-				<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Sinopharm</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV)</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">17 days </td>
-</tr>
-					<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Sinovac </td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">13 days </td>
-</tr>
-						<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Heterologous vaccine regimens in COVID-19 naïve persons </td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Any WHO EUL vaccine:
-	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
-<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">BNT162b2/COMIRNATY Tozinameran (INN)</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">mRNA-1273</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">AZD1222-Vaxzeveria (ChAdOx1_nCoV-19)</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Covishield (ChAdOx1_nCoV-19)</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">Ad26.COV2.S</li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">SARS-CoV-2 Vaccine (VeroCell), Inactivated (lnCoV) </li>
-		<li style="margin-top:0px; margin-bottom:0px; font-size:16px;">COVID-19 Vaccine (Vero Cell), Inactivated/Coronavac<sup>TM</sup></li>
-</ol>	
-							</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 doses</td>
-	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">17 days </td>
-</tr>
-</tbody>
-</table>
+Please refer to the acceptable vaccine regimes [here](/health/vtsg)
 
 
 #### 3. Are children who are not vaccinated or persons who are medically unfit to be vaccinated allowed to travel under the VTL scheme?
@@ -294,9 +223,9 @@ Please write to the Safe Travel Office using the enquiry form [here](https://go.
 
 #### 1. Are travellers under the VTL required to take any pre-departure COVID-19 PCR tests?
 
-All travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of their designated VTL flight to Singapore and be tested negative for COVID-19.
+All travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
 
-For example, if the scheduled departure date and time of the visitor’s designated VTL flight is 15 September 2021, 1030hrs, the test must be taken no earlier than 13 September 2021, 1030hrs.
+For example, if the visitor’s scheduled time of departure for Singapore is 15 September 2021, 1030hrs, the test must be taken no earlier than 13 September 2021, 1030hrs.
 
 The pre-departure COVID-19 PCR test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result certificate must be in English and state the following:
 
@@ -375,34 +304,31 @@ Please refer to the relevant airlines’ websites for details of the designated 
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Asiana Airlines</td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korea Air<sup>^</sup></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korea Air</td>
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>	
 		<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Spain<sup>*</sup></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Spain</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>
 	<tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom<sup>*</sup></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">British Airways<sup>^</sup></td>
+<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">British Airways</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
 </tr>	
 		<tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United states<sup>*</sup></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">United Airlines<sup>^</sup></td>
-</tr>
-<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United States</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Singapore Airlines</td>
-</tr>	
+</tr>
 </tbody>
 </table>
 
 <p style="margin-top:10px; margin-bottom:15px; font-size:16px; line-height:1.5"><i>
-	<sup>*</sup> Please click <a href="/vtl/countries-regions">here</a> for the effective dates of the VTLs. Some carriers may commence operations of designated VTL flights at a later date. Please check with the airlines for further information. <br/><br/> <sup>^</sup> To be confirmed
+	 Please click <a href="/vtl/countries-regions">here</a> for the effective dates of the VTLs. Some carriers may commence operations of designated VTL flights at a later date. Please check with the airlines for further information.
 </i></p>
 	
 Travellers entering Singapore with effect from 18 October 2021, 2359hrs, may transit via any of the VTL countries/regions above. However, they must arrive in Singapore on a designated VTL flight.
@@ -438,7 +364,7 @@ To be eligible to take a designated VTL flight, they are required to:
 		</li>
 		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
 	</li>
-		<li style="margin-top:15px;">undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before the scheduled departure time of the designated VTL flight to Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
+		<li style="margin-top:15px;">undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
@@ -499,7 +425,7 @@ When checking in at the departure airport, travellers must present the following
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
-<li>the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before the scheduled departure time of the designated VTL flight from their country/region of departure to Singapore; and</li>
+<li>the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>
 <li>the name of the testing institution conducting the COVID-19 PCR test, which must be from the list of internationally accredited or recognised laboratories, clinics, or medical facilities</li>
 </ol>
 	</li>
