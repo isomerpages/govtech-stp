@@ -3,7 +3,7 @@ title: Requirements and Process
 permalink: /vtl/requirements-and-process
 ---
 
-For information on outbound travel, please refer to the [Departing from Singapore](/departing/overview) page.
+*For information on outbound travel, please refer to the [Departing from Singapore](/departing/overview) page.*
 
 ### 1. Vaccinated Travel Pass (VTP) Application
 
