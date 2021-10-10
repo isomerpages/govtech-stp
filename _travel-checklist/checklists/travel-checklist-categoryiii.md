@@ -224,7 +224,7 @@ Travellers are exempted from ART, if they have been approved to complete their S
 
 <!--**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.-->
 
-Travellers who are serving SHN at their own place of residence may use private transport to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3C.
+Travellers who are serving SHN at their own place of residence may use private transport to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at Stage 3D.
 
 ### Stage 5: End of Stay-Home Notice
 
