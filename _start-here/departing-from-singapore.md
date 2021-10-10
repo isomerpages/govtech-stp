@@ -2,11 +2,13 @@
 title: Departing from Singapore
 permalink: /departing/overview
 ---
-Travellers may leave Singapore and there are no specific requirements for departure, but the following is strongly advised before your trip:
-- Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest travel advisories for specific countries/regions.
-- Check if you are eligible for outbound SafeTravel Lane arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
+If you are intending to depart from Singapore, the following is strongly advised:
+- Check the latest <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH Travel Advisory</a> for outbound travel. In summary, Singapore residents who are not fully vaccinated are advised defer all travel except in exceptional circumstances. Fully vaccinated residents are advised to defer travel to higher risk countries/regions that include Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka.
+- Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for the latest advisories that apply to your intended destination country/region.
+- Check if you are eligible for outbound SafeTravel Lane arrangements with your destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
-- If you are intending to return to Singapore, determine the appropriate SafeTravel lanes for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary before your trip if you need certainty of a return date.
+- When overseas, observe good personal hygiene, monitor local developments, and heed the advice of local authorities.
+- If you are intending to return to Singapore, determine the appropriate SafeTravel lanes to be used and health measures to be imposed for your return trip <a href="/arriving/overview" target="_blank">here</a>. Seek entry approval for the return trip if necessary, if you need certainty of a return date before departing.
 
 <div id="PDT"></div>
 
