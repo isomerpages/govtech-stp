@@ -7,7 +7,7 @@ permalink: /departing/overview
 All residents of Singapore are advised to defer all travel to high risk countries/regions, that include Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka, until further notice. Residents of Singapore who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> may travel overseas to other countries/regions not mentioned above. 
 
 Residents of Singapore who are unvaccinated or partially vaccinated are advised to defer all forms of travel overseas except for the following reasons:
-*  Any travel to Category I countries/regions;
+*  Any travel to <a href="/shn-and-swab-summary#table" target="_blank">Category I countries/regions</a>;
 *  If they are pursuing academic studies or professional qualifications overseas, for courses or examinations which require physical presence in the foreign educational institution;
 *  If they are taking on or returning to employment overseas, for employment opportunities which require physical presence overseas;
 *  For essential travel for business, official and work purposes
