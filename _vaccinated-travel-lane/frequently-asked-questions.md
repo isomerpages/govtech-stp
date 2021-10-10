@@ -37,7 +37,7 @@ permalink: /vtl/faq
 </ol>
 </li>
 </ol>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> /
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview#PDT">Outbound Pre-Departure Test</a></li>
 </ol>
 
