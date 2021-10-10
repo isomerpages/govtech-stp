@@ -72,7 +72,7 @@ Depending on the traveller’s mode of entry, the eligible groups for TraceToget
 
 #### A)	TraceTogether App Users
 
-To facilitate contact tracing, travellers must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A traveller must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 21 days after leaving Singapore.
+To facilitate contact tracing, travellers must keep the TraceTogether app activated on their mobile devices while in Singapore. A traveller must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.
 
 #### B)	TraceTogether Token Users
 
@@ -84,8 +84,6 @@ The S$50 deposit will be refunded if:
 - the TraceTogether token the visitor is returning belongs to him/her; and
 -	the visitor had made a deposit for the TraceTogether token being returned; and
 -	the visitor is returning the token in-person.
-
-The returned TraceTogether tokens will be securely stored for 14 days from the day of collection, and the data in the tokens will be uploaded upon request by the Singapore Ministry of Health, should the visitor test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore.
 
 #### 3.	Frequently Asked Questions
 
