@@ -2,25 +2,15 @@
 title: Departing from Singapore
 permalink: /departing/overview
 ---
-###  Travel Advisory
 
-All residents of Singapore are advised to defer all travel to high risk countries/regions, that include Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka, until further notice. Residents of Singapore who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> may travel overseas to other countries/regions not mentioned above. 
 
-Residents of Singapore who are unvaccinated or partially vaccinated are advised to defer all forms of travel overseas except for the following reasons:
-*  Any travel to <a href="/shn-and-swab-summary#table" target="_blank">Category I countries/regions</a>;
-*  If they are pursuing academic studies or professional qualifications overseas, for courses or examinations which require physical presence in the foreign educational institution;
-*  If they are taking on or returning to employment overseas, for employment opportunities which require physical presence overseas;
-*  For essential travel for business, official and work purposes
-*  For compassionate reasons (e.g. due to death of / critically ill family member);
-*  To seek medical treatment which cannot be reasonably received in Singapore; or
-*  To return to country of residence to attend to, or after attending to, legal/contractual obligations.
-
-If you are departing from Singapore, the following is strongly advised before your trip:
+If you are intending to depart from Singapore, the following is strongly advised:
+- Check the latest <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">MOH Travel Advisory</a> for outbound travel. Currently, Singapore residents who are not fully vaccinated are advised defer all travel except in exceptional circumstances. Fully vaccinated travellers are advised to defer travel to higher risk countries/regions that include Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka.
 - Check the <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">MFA website</a> for specific advisories on your destination country/region.
-- Check if you are eligible for outbound SafeTravel Lane arrangements with your intended destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
+- Check if you are eligible for outbound SafeTravel Lane arrangements with your destination country/region, such as the <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a>.
 - Check with the immigration authority or embassy of your destination country/region on the relevant health requirements imposed on travellers from Singapore, such as [Pre-Departure Tests(PDT)](#PDT) to be taken or [PDT/vaccination certificates](#certs) to be shown.
-- When overseas, all travellers should take all necessary precautions, observe good personal hygiene, monitor local developments, and heed the advice of local authorities.
-- If you are intending to return to Singapore, determine the appropriate SafeTravel lanes and health measures for your return trip <a href="/arriving/overview" target="_blank">here</a> and seek approvals if necessary before your trip if you need certainty of a return date.
+- When overseas, observe good personal hygiene, monitor local developments, and heed the advice of local authorities.
+- If you are intending to return to Singapore, determine the appropriate SafeTravel lanes to be used and health measures to be imposed for your return trip <a href="/arriving/overview" target="_blank">here</a>. Seek entry approval for the return trip if necessary, if you need certainty of a return date before departing.
 
 <div id="PDT"></div>
 
