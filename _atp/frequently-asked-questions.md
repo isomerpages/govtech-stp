@@ -15,7 +15,6 @@ permalink: /atp/faq
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#contact">Contact Tracing – TraceTogether</a></li>
 		</ol>
 		</li>
-	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/health/covid19-tests/pre-departure-test">Outbound Pre-Departure Test</a></li>
 </ol>
 
 <div id="overview"></div>

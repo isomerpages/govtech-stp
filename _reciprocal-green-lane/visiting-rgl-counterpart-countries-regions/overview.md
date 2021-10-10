@@ -109,4 +109,4 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
   
 ### Pre-Departure Test for RGL Travel
 
-Travellers are required to be tested for COVID-19 within 48 to 72 hours before departing Singapore for the RGL counterpart country/region. Click [here](https://safetravel.ica.gov.sg/health/covid19-tests/pre-departure-test) to find out how to be tested before your travels.
+Travellers are required to be tested for COVID-19 within 48 to 72 hours before departing Singapore for the RGL counterpart country/region. Click [here](/departing/overview#PDT) to find out how to be tested before your travels.
