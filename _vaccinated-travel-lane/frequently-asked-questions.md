@@ -82,7 +82,7 @@ However, unvaccinated:
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
 </ol>
 
-may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
+may still travel to Singapore on a non-designated flight. However, they will be subject to the prevailing Stay-Home Notice (SHN) and COVID-19 test requirements upon entry into Singapore.
 
 #### 4. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
 
