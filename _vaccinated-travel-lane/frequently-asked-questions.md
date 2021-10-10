@@ -39,7 +39,7 @@ permalink: /vtl/faq
 </ol>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#application">Application for the Vaccinated Travel Pass (VTP)</a></li> 
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview">Departing from Singapore</a>
-	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:decimal;">
+	<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="https://www.mfa.gov.sg/where-are-you-travelling-to">Travel Requirements for Destination Countries/Regions</a></li>
 		<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/departing/overview#PDT">Outbound Pre-Departure Test</a></li>
 	</ol>
