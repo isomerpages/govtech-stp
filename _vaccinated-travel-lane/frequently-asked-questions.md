@@ -25,9 +25,10 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (VTL) Requirements</a></li>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VacReq">Vaccination Requirement</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL Flights</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#arrival">Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
@@ -226,10 +227,46 @@ Please write to the Safe Travel Office using the enquiry form [here](https://go.
 
 ---
 
+<div id="THReq"></div>
+
+### (b) Travel History Requirement
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: The following is applicable to VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs.</i></p>
+
+#### 1. How is the 14-day travel history determined?
+
+If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only been to one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D(i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+
+#### 2. Do I need to remain in a [VTL country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
+
+No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions and/or Singapore. For example, your travel history may include 7 days in Canada and 7 days in United States. 
+
+#### 3. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL?
+
+Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in United Kingdom, and 4 days in Germany.
+
+#### 4. I am currently in a non-VTL country/region but will be travelling to [VTL country/region](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
+
+You may be eligible for the VTL if your travel history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore. 
+
+However, if you were in a non-VTL country/region at any point within the past 14 days, you will not be eligible for the VTL.
+
+#### 5. I am only travelling to VTL countries/regions, but will transit via a non-VTL country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
+
+Transit points will be counted toward your travel history. To be eligible to return to Singapore on the VTL, your travel history within the past 14 consecutive days before departure for Singapore must only consist of one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore.
+
+If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL.
+
+#### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL country/region prior to that flight. Will I be eligible for the VTL?
+
+Transit points will be counted toward your travel history. As such, travellers may only transit via any of the [VTL country/region](/vtl/requirements-and-process#countries). 
+If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL.
+
+
 <div id="PDT"></div>
 
  
-### (b) Pre-Departure Polymerase Chain Reaction (PCR) Test
+### (c) Pre-Departure Polymerase Chain Reaction (PCR) Test
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</i></p>
 
@@ -260,7 +297,7 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test re
 <div id="Flight"></div>
 
  
-### (c) Designated VTL Flights
+### (d) Designated VTL Flights
 
 #### 1. What are the designated VTL flights?
 
@@ -399,7 +436,7 @@ Singapore Citizens and Permanent Residents may take either:
 
 <u><b>(A) Designated VTL Flights</b></u>
 
-Those arriving in Singapore on a designated VTL flight will be allowed to go about their activities upon entry into Singapore, without having to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight.
+Those arriving in Singapore on a designated VTL flight are not required to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
 <i>[Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests.]</i>
 
@@ -475,7 +512,7 @@ No, the VTL is meant for travellers who intend to seek entry into Singapore. For
 
 <div id="OAT"></div>
  
-### (d) On-Arrival COVID-19 PCR Test at the Airport
+### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
 
 <p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
 
@@ -595,7 +632,7 @@ Travellers must be transported directly to their declared place of accommodation
  
 <div id="arrival"></div>
 
-### (e) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
+### (f) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5 color:red;"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
@@ -686,7 +723,7 @@ Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass may be cance
 
 <div id="AdditionalReq"></div> 
 
-### (f) Additional Requirements for Short-Term Visitors
+### (g) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 
