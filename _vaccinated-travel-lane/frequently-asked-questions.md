@@ -233,6 +233,8 @@ Please write to the Safe Travel Office using the enquiry form [here](https://go.
 
 #### 1. Are travellers under the VTL required to take any pre-departure COVID-19 PCR tests?
 
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</i></p>
+
 All travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
 
 For example, if the visitor’s scheduled time of departure for Singapore is 15 September 2021, 1030hrs, the test must be taken no earlier than 13 September 2021, 1030hrs.
