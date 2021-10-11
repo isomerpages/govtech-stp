@@ -854,6 +854,8 @@ The S$50 deposit will be refunded if:
  
 ### Application for the Vaccinated Travel Pass (VTP)
 
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
+
 #### 1. What is a VTP?
 
 A VTP allows vaccinated travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) travelling from one of the following countries/regions to seek entry into Singapore:
