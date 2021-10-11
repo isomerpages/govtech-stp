@@ -111,7 +111,7 @@ Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2
 
 <div id="Q5"></div>
 
-#### 5. What must travellers with proof of vaccination issued in Singapore present at check-in and arrival immigration?
+#### 6. What must travellers with proof of vaccination issued in Singapore present at check-in and arrival immigration?
 
 Travellers may present either of the following:
 
