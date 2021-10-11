@@ -355,8 +355,8 @@ Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mo
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 At arrival immigration in Singapore, all travellers must present to the ICA officer:
 							<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 	 
-<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 	 
+<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
@@ -370,7 +370,7 @@ At arrival immigration in Singapore, all travellers must present to the ICA offi
 	</li>
 											 </ol>
 											 </li>		
-										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> <i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>				
