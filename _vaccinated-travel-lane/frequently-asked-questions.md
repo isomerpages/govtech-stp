@@ -235,23 +235,23 @@ Please write to the Safe Travel Office using the enquiry form [here](https://go.
 
 #### 1. How is the 14-day travel history determined?
 
-If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only been to one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D(i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only been to one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
 
 #### 2. Do I need to remain in a [VTL country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
 
-No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions and/or Singapore. For example, your travel history may include 7 days in Canada and 7 days in United States. 
+No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions and/or Singapore. For example, your travel history may include 7 days in Canada and 7 days in the United States. 
 
 #### 3. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL?
 
-Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in United Kingdom, and 4 days in Germany.
+Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
 
-#### 4. I am currently in a non-VTL country/region but will be travelling to [VTL country/region](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
+#### 4. I am currently in a non-VTL country/region but will be travelling to [VTL countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
 
-You may be eligible for the VTL if your travel history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore. 
+You may be eligible for the VTL if your travel history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore. 
 
 However, if you were in a non-VTL country/region at any point within the past 14 days, you will not be eligible for the VTL.
 
-#### 5. I am only travelling to VTL countries/regions, but will transit via a non-VTL country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
+#### 5. I am only travelling to [VTL countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
 
 Transit points will be counted toward your travel history. To be eligible to return to Singapore on the VTL, your travel history within the past 14 consecutive days before departure for Singapore must only consist of one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore.
 
