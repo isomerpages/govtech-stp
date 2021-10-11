@@ -394,7 +394,7 @@ At arrival immigration in Singapore, all travellers must present to the ICA offi
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transportation from airport to accommodation</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Upon the completion of the on-arival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.</p>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers may commute to their self-isolation accommodation using private transport, taxi, or private hire car.</p>
 		</td>
 	</tr>
