@@ -303,8 +303,8 @@ Short term visitors are required to download and register their profile on the T
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 				When checking in at the departure airport, travellers must present to the airline staff:
 						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
-<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
+<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>				 				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
