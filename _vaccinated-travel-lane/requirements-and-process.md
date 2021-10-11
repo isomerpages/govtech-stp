@@ -2,7 +2,6 @@
 title: Requirements and Process
 permalink: /vtl/requirements-and-process
 ---
-
 *For information on outbound travel, please refer to the [Departing from Singapore](/departing/overview) page.*
 
 ### 1. Vaccinated Travel Pass (VTP) Application
@@ -11,7 +10,7 @@ permalink: /vtl/requirements-and-process
 
 [Fully vaccinated](/health/vtsg) travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
 
-<div id="countries"></div>
+<div id="countries"></div> test
 
 <table>
 <thead>
