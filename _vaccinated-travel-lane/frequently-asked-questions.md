@@ -90,7 +90,22 @@ Unvaccinated travellers aged 13 and above are not allowed to travel under the VT
 
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing Stay-Home Notice (SHN) and COVID-19 test requirements upon entry into Singapore.
 
-#### 4. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
+
+#### 4. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL?
+
+Persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
+
+Unvaccinated short-term visitors will not be allowed to travel to Singapore.
+
+However, unvaccinated:
+<ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview">Singapore Citizens</a></li><a href="/sc-pr/overview">
+</a><li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview"></a><a href="/sc-pr/overview">Permanent Residents</a>, and</li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
+</ol>
+may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
+
+#### 5. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
 
 No, all travellers under the VTL need to be <a href="/health/vtsg">fully vaccinated traveller</a>.
 
