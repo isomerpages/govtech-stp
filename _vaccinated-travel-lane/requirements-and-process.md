@@ -10,7 +10,7 @@ permalink: /vtl/requirements-and-process
 
 [Fully vaccinated](/health/vtsg) travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL.
 
-Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in  or after 2009) will be eligible to enter Signapore on the VTL with effect from 18 October 2021, 2359 hrs.  They are <b><u>not</u></b> required to apply for a VTP. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> adult.
+Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in  or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359 hrs.  They are <b><u>not</u></b> required to apply for a VTP. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> adult.
 
 <div id="countries"></div>
 
