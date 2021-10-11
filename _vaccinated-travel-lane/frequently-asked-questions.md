@@ -484,7 +484,7 @@ Travellers should register and make payment for their on-arrival COVID-19 PCR te
 
 #### 2. Are travellers required to take an on-arrival COVID-19 PCR test?
 
-Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.
+Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.
 
 Upon arrival in Singapore, travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport. The test results will likely be out within 24 hours.
 
