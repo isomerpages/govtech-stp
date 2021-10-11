@@ -131,7 +131,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Designated VTL flight</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please refer to the respective airlines’ websites below for details depending on your country/region of departure, including when the first designated VTL flight will commence.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please refer to the respective airlines’ websites below for details of the designated VTL flights, depending on your country/region of departure, including when the first designated VTL flight will commence.</p>
 <table>
 <thead>
 <tr>
