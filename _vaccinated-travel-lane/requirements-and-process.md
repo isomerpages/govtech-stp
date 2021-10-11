@@ -277,7 +277,11 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>[For short-term visitors]</b><br><br>Contact Tracing
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-Short term visitors are required to download and register their profile on the TraceTogether app<sup>1</sup> to aid contact tracing. Those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens
+Short term visitors are required to download and register their profile on the TraceTogether app<sup>1</sup> to aid contact tracing. 
+<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+	<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">Children aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens.</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015 are exempted from the TraceTogether requirement.</li>
+					</ol>
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.
 </p>
 		</td>
