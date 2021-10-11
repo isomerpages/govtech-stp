@@ -477,12 +477,14 @@ No, the VTL is meant for travellers who intend to seek entry into Singapore. For
  
 ### (d) On-Arrival COVID-19 PCR Test at the Airport
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</i></p>
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
 
 #### 1. How do I pay for the on-arrival COVID-19 PCR test?
 Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="/health/covid19-tests/pcrtest#price">here</a>.
 
 #### 2. Are travellers required to take an on-arrival COVID-19 PCR test?
+
+Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.
 
 Upon arrival in Singapore, travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport. The test results will likely be out within 24 hours.
 
