@@ -290,7 +290,9 @@ Short term visitors are required to download and register their profile on the T
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-payment for On-arrival COVID-19 PCR test at Changi Airport</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-					Travellers should <a href="https://safetravel.changiairport.com/">register and pay</a> for their <a href="/health/covid19-tests/pcrtest#price">on-arrival COVID-19 PCR test</a> before departing for Singapore.		
+					Travellers should <a href="https://safetravel.changiairport.com/">register and pay</a> for their <a href="/health/covid19-tests/pcrtest#price">on-arrival COVID-19 PCR test</a> before departing for Singapore.	
+					<br/>
+					Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a on-arrival COVID-19 PCR test.
 		</td>
 	</tr>
 							<tr>
