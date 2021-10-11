@@ -6,7 +6,7 @@ permalink: /sc-pr/vtl
 
 As part of Singapore's efforts to reopen our borders safely, fully vaccinated Singapore Citizens (SCs) and Permanent Residents (PRs) departing for Singapore from the following countries may return via the Vaccinated Travel Lane (VTL) to enjoy quarantine-free measures on return to Singapore. 
 
-Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in  or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359 hrs.  They are <b><u>not</u></b> required to apply for a VTP. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller.
+Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in  or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359 hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller.
 
 Travellers who enter Singapore before the specified date and time will not be eligible for the VTL:
 
