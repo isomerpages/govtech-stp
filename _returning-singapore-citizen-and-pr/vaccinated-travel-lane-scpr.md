@@ -209,7 +209,9 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Pre-payment for on-arrival COVID-19 PCR test at Changi Airport</b></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to their departure for Singapore.</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers should <a href="https://safetravel.changiairport.com/">register and make payment</a> for their on-arrival COVID-19 PCR test prior to their departure for Singapore.<br/><br/>
+	Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a on-arrival COVID-19 PCR test.
+	</td>
 </tr>
 <tr>
 <th colspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Day of Departure to Singapore</b></th>
