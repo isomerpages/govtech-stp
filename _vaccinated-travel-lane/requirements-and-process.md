@@ -73,7 +73,7 @@ Singapore Citizens and Permanent Residents should not apply for a VTP to travel 
 
 Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore (check [here](/health/vtsg) for the definition of “fully vaccinated” in Singapore’s context). 
 
-**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from. 
+**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from.  Children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are <b><u>not</u></b> required to present proof of vaccination. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a  <a href="/health/vtsg">fully vaccinated</a> adult.
 
 For acceptable proofs of vaccination issued in Singapore, please refer to this FAQ response <a href="/vtl/faq#Q5">here</a>.
 
