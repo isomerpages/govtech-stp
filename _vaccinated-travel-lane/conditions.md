@@ -36,12 +36,12 @@ Please click on the following links to view the conditions applicable to you, co
 		<ol style="font-size:18px; list-style-type:lower-roman;">
 		<li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated at all times while in Singapore;</li>
 				<li style="font-size:18px; list-style-type:lower-roman;">retain the TraceTogether app with the data on his/her mobile device for 14 consecutive days after leaving Singapore; and</li>
-				<li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore, or inform the Singapore Ministry of Health of his/her COVID-19 positive status and request for the code to upload all teh data in the TraceTogether app should he/she test positive for COVID-19 in the 14 days after leaving Singapore.</li>
+				<li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore, or inform the Singapore Ministry of Health of his/her COVID-19 positive status and request for the code to upload all the data in the TraceTogether app should he/she test positive for COVID-19 in the 14 days after leaving Singapore.</li>
 				 </ol>
 	</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs in Singapore, prior to travelling to Singapore;</li>
 	     <li style="font-size:18px; list-style-type:lower-alpha;"> adhere to all prevailing public health measures while in Singapore; and</li>
-		     <li style="font-size:18px; list-style-type:lower-alpha;"> remain contactable at all times while in Singapore via his/her their declared mobile number and email address</li>
+		     <li style="font-size:18px; list-style-type:lower-alpha;"> remain contactable at all times while in Singapore via his/her their declared mobile number and email address.</li>
      </ol>
   </li>
   <br>

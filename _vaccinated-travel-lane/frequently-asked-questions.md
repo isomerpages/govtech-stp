@@ -25,9 +25,10 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VTLReq">Vaccinated Travel Lane (VTL) Requirements</a></li>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-latin;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#VacReq">Vaccination Requirement</a></li>
+	<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#THReq">Travel History Requirement</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL Flights</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#arrival">Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
@@ -60,11 +61,12 @@ Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their V
 
 <b><i>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs] </i></b>
 
-*Travellers must be [fully vaccinated](/health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](/health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines).*
+*Travellers must be [fully vaccinated](/health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](/health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines). Children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are <b><u>not</u></b> required to present proof of vaccination. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller.*
 
-*For acceptable proofs of vaccination issued in Singapore, please refer to [Question 5](#Q5).*
 
-*For acceptable proofs of vaccination issued in any VTL country/region, please refer to [Question 6](#Q6).*
+*For acceptable proofs of vaccination issued in Singapore, please refer to [Question 6](#Q6).*
+
+*For acceptable proofs of vaccination issued in any VTL country/region, please refer to [Question 7](#Q7).*
 
 
 <div id="doses"></div>
@@ -74,40 +76,43 @@ Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their V
 Please refer to the acceptable vaccine regimes [here](/health/vtsg)
 
 
-#### 3. Are children who are not vaccinated or persons who are medically unfit to be vaccinated allowed to travel under the VTL scheme?
+#### 3. Are unvaccinated childeren allowed to travel under the VTL?
 
-Children or persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
+MOH has assessed that the risk posed to unvaccinated children aged 12 and below is comparable to that of vaccinated adults.
 
-Unvaccinated short-term visitors will not be allowed to travel under the VTL.
- 
-However, unvaccinated:
+As such, unvaccinated children aged 12 and below aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009), will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
+
+Unvaccinated travellers aged 13 and above are not allowed to travel under the VTL. However, unvaccinated:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview">Singapore Citizens</a></li><a href="/sc-pr/overview">
 </a><li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview"></a><a href="/sc-pr/overview">Permanent Residents</a>, and</li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
 </ol>
 
-may still travel to Singapore on a non-designated flight. However, they will be subject to the prevailing Stay-Home Notice (SHN) and COVID-19 test requirements upon entry into Singapore.
+may still travel to Singapore on a non-designated flight. They will be subject to the prevailing Stay-Home Notice (SHN) and COVID-19 test requirements upon entry into Singapore.
 
-#### 4. I am fully vaccinated, but my child is not. Can my child and I travel together to Singapore under the VTL?
 
-No, all travellers under the VTL need to be <a href="/health/vtsg">fully vaccinated traveller</a>.
+#### 4. Are persons who are medically unfit to be vaccinated allowed to travel under the VTL?
 
-Unvaccinated short-term visitors will not be allowed to travel under the VTL. 
+Persons who are medically unfit to be vaccinated are not allowed to travel under the VTL.
+
+Unvaccinated short-term visitors will not be allowed to travel to Singapore.
 
 However, unvaccinated:
-
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview">Singapore Citizens</a></li><a href="/sc-pr/overview">
 </a><li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview"></a><a href="/sc-pr/overview">Permanent Residents</a>, and</li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
 </ol>
-
 may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
-<div id="Q5"></div>
+#### 5. I am fully vaccinated, but my child(ren) aged 12 and below is/are not. Can my child(ren) and I travel together to Singapore under the VTL?
 
-#### 5. What must travellers with proof of vaccination issued in Singapore present at check-in and arrival immigration?
+Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
+
+<div id="Q6"></div>
+
+#### 6. What must travellers with proof of vaccination issued in Singapore present at check-in and arrival immigration?
 
 Travellers may present either of the following:
 
@@ -131,9 +136,9 @@ For (A), please see sample screenshots below:
 </tbody>
 </table>
  
- <div id="Q6"></div>
+ <div id="Q7"></div>
  
-#### 6. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
+#### 7. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
 
 Travellers may present any of the following:
 
@@ -150,7 +155,7 @@ Travellers may present any of the following:
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
 
-#### 7. What information needs to be reflected on the vaccination certificates?
+#### 8. What information needs to be reflected on the vaccination certificates?
 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
@@ -159,18 +164,18 @@ The electronic or physical vaccination certificate(s) should be in English and c
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
 
-#### 8. What is a digitally verifiable vaccination certificate?
+#### 9. What is a digitally verifiable vaccination certificate?
 
 Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate the traveller’s vaccination status.
 
-#### 9. Why must vaccination certificates issued in a VTL country/region be digitally verifiable?
+#### 10. Why must vaccination certificates issued in a VTL country/region be digitally verifiable?
 
 The requirement for digitally verified and authenticated proof of vaccination safeguards public health by minimising any potential instances of vaccination certificate forgery.
 
 
 <div id="QRcode"></div>
 
-#### 10. What does a QR code on a digitally verifiable vaccination certificate look like?
+#### 11. What does a QR code on a digitally verifiable vaccination certificate look like?
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates:
 - [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en)
@@ -179,7 +184,7 @@ Please click the links below for more information on accepted digitally verifiab
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
-#### 11. Why are only SMART Health Cards by issuers in the United States or Canada on the CommonTrust Network accepted?
+#### 12. Why are only SMART Health Cards by issuers in the United States or Canada on the CommonTrust Network accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network.
 
@@ -189,15 +194,17 @@ We are currently working on accepting digitally verifiable vaccination certifica
 <div id="numberofcodes"></div>
 
  
-#### 12. How do I know if I need to upload 1 or 2 vaccination QR codes?
+#### 13. How do I know if I need to upload 1 or 2 vaccination QR codes?
+
+Short-term visitors with a Singapore Vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/">Notarise</a> portal should upload one vaccination QR code.
 
 Travellers with an EU Digital COVID Certificate and National Health Service COVID Pass should upload one vaccination QR code for each vaccination dose they have received, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses).
 
-Travellers who are vaccinated in Canada or the United States should upload one vaccination QR code as found on their SMART Health Card.
+Travellers with a SMART Health Card by Canada or United States issuers on the <a href="https://www.commontrustnetwork.org/verifier-list">CommonTrust Network</a> should upload one vaccination QR code as found on their SMART Health Card.
 
 <div id="invalidcode"></div>
 
-#### 13. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 14. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 Vaccination QR code(s) may be invalid for reasons such as:
 
@@ -210,7 +217,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 
 For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
-#### 14. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
+#### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
 Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
@@ -220,14 +227,52 @@ Please write to the Safe Travel Office using the enquiry form [here](https://go.
 
 ---
 
+<div id="THReq"></div>
+
+### (b) Travel History Requirement
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: The following is applicable to VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs.</i></p>
+
+#### 1. How is the 14-day travel history determined?
+
+If the scheduled day of departure of the traveller's fight to Singapore is D (e.g. 19 October 2021), the traveller must have only been to one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore from D-14 to D (i.e. 5 to 19 October 2021, if D is 19 October 2021). 
+
+#### 2. Do I need to remain in a [VTL country/region](/vtl/requirements-and-process#countries) for 14 consecutive days before travelling to Singapore?
+
+No, your travel history within the past 14 consecutive days before departure for Singapore may consist of one or more of the VTL countries/regions and/or Singapore. For example, your travel history may include 7 days in Canada and 7 days in the United States. 
+
+#### 3. I am travelling from Singapore to a [VTL country/region](/vtl/requirements-and-process#countries) and will be back in less than 14 days. Will i be eligible to return to Singapore on the VTL?
+
+Yes, you will be eligible for the VTL so long as your travel history within the past 14 consecutive days before departure for Singapore only consists of one or more of the VTL countries/regions and/or Singapore. For example, your 14-day travel history may include 5 days in Singapore, 5 days in the United Kingdom, and 4 days in Germany.
+
+#### 4. I am currently in a non-VTL country/region but will be travelling to [VTL countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
+
+You may be eligible for the VTL if your travel history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore. 
+
+However, if you were in a non-VTL country/region at any point within the past 14 days, you will not be eligible for the VTL.
+
+#### 5. I am only travelling to [VTL countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
+
+Transit points will be counted toward your travel history. To be eligible to return to Singapore on the VTL, your travel history within the past 14 consecutive days before departure for Singapore must only consist of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore.
+
+If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL.
+
+#### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL country/region prior to that flight. Will I be eligible for the VTL?
+
+Transit points will be counted toward your travel history. As such, travellers may only transit via any of the [VTL countries/regions](/vtl/requirements-and-process#countries). 
+If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL.
+
+
 <div id="PDT"></div>
 
  
-### (b) Pre-Departure Polymerase Chain Reaction (PCR) Test
+### (c) Pre-Departure Polymerase Chain Reaction (PCR) Test
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</i></p>
 
 #### 1. Are travellers under the VTL required to take any pre-departure COVID-19 PCR tests?
 
-All travellers must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
+All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
 
 For example, if the visitor’s scheduled time of departure for Singapore is 15 September 2021, 1030hrs, the test must be taken no earlier than 13 September 2021, 1030hrs.
 
@@ -252,19 +297,19 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test re
 <div id="Flight"></div>
 
  
-### (c) Designated VTL Flights
+### (d) Designated VTL Flights
 
 #### 1. What are the designated VTL flights?
 
 Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).
 
-Please refer to the respective airlines’ websites below for details depending on your country/region of departure, including when the first designated VTL flight will commence.
+Please refer to the respective airlines’ websites below for details of the designated VTL flights, including when the first designated VTL flight will commence.
 
 <table>
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airlines*</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)* Operating Designated VTL Flights to Singapore</b></th>
 </tr>
 </thead>
 <tbody>
@@ -354,15 +399,15 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
 		</li>
-	<li>have a valid proof of vaccination status, which can be in the form of:
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
 	<li>a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>
 	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;</li>
+				<li>the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
 				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
 				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
 		</ul>
@@ -371,7 +416,7 @@ To be eligible to take a designated VTL flight, they are required to:
 		</li>
 		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
 	</li>
-		<li style="margin-top:15px;">undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
+		<li style="margin-top:15px;"><i>[not applicable for children aged 2 and below in the calendar year]</i> undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
@@ -391,7 +436,7 @@ Singapore Citizens and Permanent Residents may take either:
 
 <u><b>(A) Designated VTL Flights</b></u>
 
-Those arriving in Singapore on a designated VTL flight will be allowed to go about their activities upon entry into Singapore, without having to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight.
+Those arriving in Singapore on a designated VTL flight are not required to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
 <i>[Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests.]</i>
 
@@ -413,8 +458,8 @@ Short-term visitors who are VTP holders may only arrive in Singapore on designat
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
-	<li>a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li>a valid proof of vaccination status, which can be in the form of:
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
+<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of:
 <ul style="list-style-type:disc;">
 	<li>a vaccination status on the TraceTogether app, HealthHub app, or BruHealth app; or</li>
 	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
@@ -428,7 +473,7 @@ When checking in at the departure airport, travellers must present the following
 			</li>
 		</ul>
 	</li>
-<li>a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
@@ -467,14 +512,18 @@ No, the VTL is meant for travellers who intend to seek entry into Singapore. For
 
 <div id="OAT"></div>
  
-### (d) On-Arrival COVID-19 PCR Test at the Airport
+### (e) On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation
+
+<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.</i></p>
 
 #### 1. How do I pay for the on-arrival COVID-19 PCR test?
 Travellers should register and make payment for their on-arrival COVID-19 PCR test <a href="/health/covid19-tests/pcrtest#price">here</a>.
 
 #### 2. Are travellers required to take an on-arrival COVID-19 PCR test?
 
-Upon arrival in Singapore, travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport. The test results will likely be out within 24 hours.
+Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.
+
+All other travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test upon arrival in Singapore. The test results will likely be out within 24 hours.
 
 After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the place of accommodation until their test result is confirmed to be negative. After being notified of their negative test results, travellers will be allowed to go about their activities in Singapore.
 
@@ -583,7 +632,7 @@ Travellers must be transported directly to their declared place of accommodation
  
 <div id="arrival"></div>
 
-### (e) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
+### (f) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5 color:red;"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
@@ -674,7 +723,7 @@ Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass may be cance
 
 <div id="AdditionalReq"></div> 
 
-### (f) Additional Requirements for Short-Term Visitors
+### (g) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 
@@ -748,7 +797,9 @@ Purchase of travel insurance is a condition of the VTL. Non-compliance with any 
 
 Yes. All visitors to Singapore must download the TraceTogether app prior to their departure for Singapore. Upon arrival, visitors must activate and use the app (see questions 2 and 3 for app activation queries) for the duration of their stay in Singapore.
 
-Those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+Children who are aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special needs are eligible to be issued TraceTogether tokens with payment of a refundable S$50 deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the Changi Recommends booth at Changi Airport or Seletar Business Aviation Centre at Seletar Airport upon arrival in Singapore. As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others.
+
+Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015) are exempted from the TraceTogether requirement.
 
 #### 2. After downloading the TraceTogether app, how do I activate it?
 
@@ -839,6 +890,10 @@ The S$50 deposit will be refunded if:
 
  
 ### Application for the Vaccinated Travel Pass (VTP)
+
+
+<p style="font-size:16px; color:red;line-height:1.5;"><i>Note: Singapore Citizens, Permanent Residents and unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are not required to apply for a VTP. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a>.</i></p>
+
 
 #### 1. What is a VTP?
 

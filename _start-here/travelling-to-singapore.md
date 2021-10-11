@@ -33,7 +33,7 @@ Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arrivin
 
 Singapore Citizens (SC) and Permanent Residents (PR) <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info on requirements for the Returning SC/PR Lane.
 
-Fully vaccinated Singapore Citizens and Permanent Residents departing from certain countries/regions may use the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/sc-pr/vtl) for more information on the Vaccinated Travel Lane for SC/PR travellers.
+Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unvaccinated children below 12 years old departing from certain countries/regions may use the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/sc-pr/vtl) for more information on the Vaccinated Travel Lane for SC/PR travellers.
 
 ---
 
@@ -47,7 +47,7 @@ Click here to return to the <a href="#top">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
-Fully vaccinated travellers departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
+<b>Fully vaccinated travellers and accompanied unvaccinated children below 12 years old departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival.</b> Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
 
 Otherwise, click the relevant lane below for more details.
 
@@ -149,7 +149,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				</td>
 	</tr>
 					<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers)</td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers and accompanied unvaccinated children below 12 years old)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">Brunei  </li>
 				 			<li style="font-size: 18px;">Germany </li>

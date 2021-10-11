@@ -2,14 +2,15 @@
 title: Requirements and Process
 permalink: /vtl/requirements-and-process
 ---
-
 *For information on outbound travel, please refer to the [Departing from Singapore](/departing/overview) page.*
 
 ### 1. Vaccinated Travel Pass (VTP) Application
 
 #### Eligibility
 
-[Fully vaccinated](/health/vtsg) travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL:
+[Fully vaccinated](/health/vtsg) travellers who are short-term visitors (including business and official travellers), or holders of Long-Term Passes (i.e. Long-Term Visit Pass, Student's Pass, Work Pass or Dependant's Pass) travelling from one of the following countries/regions must apply for a VTP if they intend to enter Singapore on the VTL.
+
+Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in  or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359 hrs.  They are <b><u>not</u></b> required to apply for a VTP. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller.
 
 <div id="countries"></div>
 
@@ -72,7 +73,7 @@ Singapore Citizens and Permanent Residents should not apply for a VTP to travel 
 
 Travellers must have been fully vaccinated in their VTL country/region of departure or Singapore (check [here](/health/vtsg) for the definition of “fully vaccinated” in Singapore’s context). 
 
-**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from. 
+**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from.  Children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are <b><u>not</u></b> required to present proof of vaccination. However they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a  <a href="/health/vtsg">fully vaccinated</a> VTL traveller.
 
 For acceptable proofs of vaccination issued in Singapore, please refer to this FAQ response <a href="/vtl/faq#Q5">here</a>.
 
@@ -86,7 +87,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 <table>
 	<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Vaccinated Travel Pass (VTP) application requirements</b></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Vaccinated Travel Pass (VTP) application requirements</b><p style="font-size:16px; color:red;line-height:1.5;"><b>[Not applicable for children aged 12 and below in the calendar year]</b></p></td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Fully vaccinated travellers must:
 		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">upload the QR codes of their vaccination certificates (if applicable); and</li>				 
@@ -130,12 +131,12 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Designated VTL flight</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please refer to the respective airlines’ websites below for details depending on your country/region of departure, including when the first designated VTL flight will commence.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please refer to the respective airlines’ websites below for details of the designated VTL flights, including when the first designated VTL flight will commence.</p>
 <table>
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)<sup>*</sup></b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)<sup>*</sup> Operating Designated VTL Flights to Singapore</b></th>
 </tr>
 </thead>
 <tbody>
@@ -249,7 +250,8 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a negative COVID-19 PCR test result;</li>	
 								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the date and time when the COVID-19 PCR test was taken; and</li>	
 								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test.</li>	
-				 </ol>
+				 </ol><br/>
+					Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.
 		</td>
 	</tr>
 				<tr>
@@ -268,14 +270,18 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 																	 </ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must isolate alone, or with vaccinated household members sharing the same travel history, arrival date and self-isolation requirement. If there are other occupants who do not share same travel history, arrival date and self-isolation requirement, the traveller(s) must self-isolate in an enclosed room with an en-suite toilet. The traveller(s) and the other occupants must wear their masks, observe hand hygiene and minimise interactions solely to the purpose of facilitating the entry of the traveller(s) into the enclosed self-isolation room with an en-suite toilet.</p>
 									<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers are required to bear the cost of their accommodation (if applicable) in Singapore</p>
-					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>Note: </b>Travellers may refer to the <a href="https://sha.org.sg/hotel-accommodation">Singapore Hotel Association (SHA) website</a>for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</i></p>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5; color:red;"><i><b>Note: </b>Travellers may refer to the <a href="https://sha.org.sg/hotel-accommodation">Singapore Hotel Association (SHA) website</a> for a list of hotels. The list is non-exhaustive, and travellers may book other available accommodations as long as they offer individual rooms with an en-suite toilet.</i></p>
 		</td>
 	</tr>
 			<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>[For short-term visitors]</b><br><br>Contact Tracing
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-Short term visitors are required to download and register their profile on the TraceTogether app<sup>1</sup> to aid contact tracing. Those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens
+Short term visitors are required to download and register their profile on the TraceTogether app<sup>1</sup> to aid contact tracing. 
+<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+	<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">Children aged 7 to 12 in the calendar year [i.e. in the year 2021, those born from 2009 to 2014 (inclusive)] and those unable to use a mobile device due to a certified disability or special need, are eligible to be issued TraceTogether tokens.</li>
+		<li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">Children aged 6 and below in the calendar year (i.e. in the year 2021, those born in or after 2015 are exempted from the TraceTogether requirement.</li>
+					</ol>
 															<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">For the full requirements and conditions governing the use of TraceTogether, please click <a href="/health/tt-for-travellers">here</a>.
 </p>
 		</td>
@@ -284,7 +290,9 @@ Short term visitors are required to download and register their profile on the T
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Pre-payment for On-arrival COVID-19 PCR test at Changi Airport</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-					Travellers should <a href="https://safetravel.changiairport.com/">register and pay</a> for their <a href="/health/covid19-tests/pcrtest#price">on-arrival COVID-19 PCR test</a> before departing for Singapore.		
+					Travellers should <a href="https://safetravel.changiairport.com/">register and pay</a> for their <a href="/health/covid19-tests/pcrtest#price">on-arrival COVID-19 PCR test</a> before departing for Singapore.	
+					<br/><br/>
+					Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.
 		</td>
 	</tr>
 							<tr>
@@ -297,8 +305,8 @@ Short term visitors are required to download and register their profile on the T
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 				When checking in at the departure airport, travellers must present to the airline staff:
 						  <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
-<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 
+<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>				 				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
 	<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
@@ -311,7 +319,7 @@ Short term visitors are required to download and register their profile on the T
 	</li>
 											 </ol>
 											 </li>		
-										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>				
@@ -339,7 +347,7 @@ Short term visitors are required to download and register their profile on the T
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Upon arrival in Changi Airport</b>
 </td>
-				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19  PCR test.<br/><br/>
 Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mobile phones, must do so in the airport transit area <b><u>before clearing arrival immigration.</u></b>
 		</td>
 	</tr>
@@ -349,8 +357,8 @@ Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mo
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
 At arrival immigration in Singapore, all travellers must present to the ICA officer:
 							<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
-				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 	 
-<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
+				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>				 	 
+<li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:circle;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
@@ -364,7 +372,7 @@ At arrival immigration in Singapore, all travellers must present to the ICA offi
 	</li>
 											 </ol>
 											 </li>		
-										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
+										 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;"> <i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following: <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>				 
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">a negative COVID-19 PCR test result;</li>				
 											 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:lower-roman; line-height:1.5;">the date and time when the COVID-19 PCR test was taken, which must be within 48 hours before departure for Singapore; and</li>				
@@ -388,7 +396,7 @@ At arrival immigration in Singapore, all travellers must present to the ICA offi
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Transportation from airport to accommodation</b>
 </td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
-Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Upon the completion of the on-arival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.</p>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:16px; ;line-height:1.5;">Travellers may commute to their self-isolation accommodation using private transport, taxi, or private hire car.</p>
 		</td>
 	</tr>
