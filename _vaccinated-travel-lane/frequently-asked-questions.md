@@ -362,15 +362,15 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li>be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
 		</li>
-	<li>have a valid proof of vaccination status, which can be in the form of:
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
 	<li>a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>
 	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;</li>
+				<li>the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;</li>
 				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
 				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
 		</ul>
@@ -379,7 +379,7 @@ To be eligible to take a designated VTL flight, they are required to:
 		</li>
 		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
 	</li>
-		<li style="margin-top:15px;">undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
+		<li style="margin-top:15px;"><i>[not applicable for children aged 2 and below in the calendar year]</i> undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
