@@ -250,7 +250,8 @@ Mandatory travel insurance with a minimum coverage of S$30,000 for COVID-19-rela
 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">a negative COVID-19 PCR test result;</li>	
 								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the date and time when the COVID-19 PCR test was taken; and</li>	
 								 				 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">the name of the testing institution conducting the COVID-19 PCR test.</li>	
-				 </ol>
+				 </ol><br/>
+					Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.
 		</td>
 	</tr>
 				<tr>
