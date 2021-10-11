@@ -87,7 +87,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)*</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)* Operating Designated VTL Flights to Singapore</b></th>
 </tr>
 </thead>
 <tbody>
@@ -188,8 +188,9 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Traveller’s name, and at least one other personal identifier such as the date of birth or passport number;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Negative COVID-19 PCR test result;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
+	<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">	Name of the testing institution conducting the COVID-19 PCR test.</li>
 </ol>
-	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Name of the testing institution conducting the COVID-19 PCR test.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</p>
 </td>
 </tr>
 <tr>
