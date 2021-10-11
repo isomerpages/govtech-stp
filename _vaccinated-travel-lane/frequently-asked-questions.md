@@ -259,7 +259,7 @@ If your transit via a non-VTL country/region is within the past 14 days, you wil
 
 #### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL country/region prior to that flight. Will I be eligible for the VTL?
 
-Transit points will be counted toward your travel history. As such, travellers may only transit via any of the [VTL country/region](/vtl/requirements-and-process#countries). 
+Transit points will be counted toward your travel history. As such, travellers may only transit via any of the [VTL countries/regions](/vtl/requirements-and-process#countries). 
 If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL.
 
 
