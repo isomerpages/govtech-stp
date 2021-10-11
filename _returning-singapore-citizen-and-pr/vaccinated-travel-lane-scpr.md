@@ -2,6 +2,7 @@
 title: Vaccinated Travel Lane (SC/PR)
 permalink: /sc-pr/vtl
 ---
+
 *For more information on outbound travel, please refer to the [Departing from Singapore](/departing/overview) page.*
 
 As part of Singapore's efforts to reopen our borders safely, fully vaccinated Singapore Citizens (SCs) and Permanent Residents (PRs) departing for Singapore from the following countries may return via the Vaccinated Travel Lane (VTL) to enjoy quarantine-free measures on return to Singapore. 
@@ -67,8 +68,7 @@ SC/PRs returning to Singapore via the VTL do **not** need to apply for a Vaccina
 
 Travellers must have been fully vaccinated in their [VTL country/region](/sc-pr/vtl#countries) of departure or Singapore (check [here](/health/vtsg) for the definition of “fully vaccinated” in Singapore’s context). 
 
-**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from. Children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in  or after 2009)  are <b><u>not</u></b> required to present proof of vaccination. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> adult.
-
+**[Revised vaccination requirement for VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs]** Travellers must be fully vaccinated and have a valid proof of vaccination issued in <a href="#countries">any VTL country/region</a> or Singapore, regardless of which VTL country/region they depart from. 
 
 For acceptable proofs of vaccination issued in Singapore, please refer to this FAQ response <a href="/vtl/faq#Q5">here</a>.
 
@@ -82,7 +82,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Designated VTL flight</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from <a href="/sc-pr/vtl#countries">VTL countries/regions</a> may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).</p>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please refer to the respective airlines’ websites below for details of the designated VTL flights, including when the first designated VTL flight will commence.</p>
+<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Please refer to the respective airlines’ websites below for details of the designated VTL flight including when the first designated VTL flight will commence.</p>
 <table>
 <thead>
 <tr>
@@ -188,9 +188,10 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Traveller’s name, and at least one other personal identifier such as the date of birth or passport number;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Negative COVID-19 PCR test result;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Date and time when the COVID-19 PCR test was taken; and</li>
-	<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">	Name of the testing institution conducting the COVID-19 PCR test.</li>
-</ol>
-<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.</p>
+	<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Name of the testing institution conducting the COVID-19 PCR test.</li>
+</ol>	
+	<br/>
+					Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo a pre-departure COVID-19 PCR test.
 </td>
 </tr>
 <tr>
@@ -225,7 +226,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Check-in at departure airport</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">When checking in at the departure airport, travellers must present to the airline staff:</p>
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a valid proof of vaccination status, which can be in the form of:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
@@ -238,7 +239,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 </li>
 </ol>
 </li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a negative COVID-19 PCR test result;</li>
@@ -258,7 +259,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <tbody><tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Upon arrival in Changi Airport</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">
-	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. 
+	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test. 
 </p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mobile phones, must do so in the airport transit area <b>before clearing arrival immigration</b>.</p> 
 	</td>
@@ -267,7 +268,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Immigration clearance</b></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">At arrival immigration in Singapore, all travellers must present to the ICA officer:</p>
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: disc;">
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a valid proof of vaccination status, which can be in the form of:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of:
 <ol style="margin-top: 10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top: 10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a vaccination status on the TraceTogether app, HealthHub app or BruHealth app; or</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">digitally verifiable vaccination certificate(s) in English, stating the following:
@@ -280,7 +281,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 </li>
 </ol>
 </li>
-<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5; list-style-type: circle;">
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">the traveller’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
 <li style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">a negative COVID-19 PCR test result;</li>
