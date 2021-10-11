@@ -486,7 +486,7 @@ Travellers should register and make payment for their on-arrival COVID-19 PCR te
 
 Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19 PCR test.
 
-Upon arrival in Singapore, travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test at the airport. The test results will likely be out within 24 hours.
+All other travellers must undergo a COVID-19 Polymerase Chain Reaction (PCR) test upon arrival in Singapore. The test results will likely be out within 24 hours.
 
 After taking the COVID-19 PCR test, travellers are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the place of accommodation until their test result is confirmed to be negative. After being notified of their negative test results, travellers will be allowed to go about their activities in Singapore.
 
