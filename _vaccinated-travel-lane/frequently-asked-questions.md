@@ -63,9 +63,9 @@ Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their V
 *Travellers must be [fully vaccinated](/health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](/health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines). Children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are <b><u>not</u></b> required to present proof of vaccination. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller.*
 
 
-*For acceptable proofs of vaccination issued in Singapore, please refer to [Question 5](#Q5).*
+*For acceptable proofs of vaccination issued in Singapore, please refer to [Question 6](#Q6).*
 
-*For acceptable proofs of vaccination issued in any VTL country/region, please refer to [Question 6](#Q6).*
+*For acceptable proofs of vaccination issued in any VTL country/region, please refer to [Question 7](#Q7).*
 
 
 <div id="doses"></div>
@@ -109,7 +109,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
 
-<div id="Q5"></div>
+<div id="Q6"></div>
 
 #### 6. What must travellers with proof of vaccination issued in Singapore present at check-in and arrival immigration?
 
@@ -135,7 +135,7 @@ For (A), please see sample screenshots below:
 </tbody>
 </table>
  
- <div id="Q6"></div>
+ <div id="Q7"></div>
  
 #### 7. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
 
