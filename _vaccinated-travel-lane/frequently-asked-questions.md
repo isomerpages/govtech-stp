@@ -195,7 +195,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
  
 #### 13. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
-Short-term visitors with a Singapore Vaccination HealthCert issued via the Notarise portal should upload one vaccination QR code.
+Short-term visitors with a Singapore Vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/">Notarise</a> portal should upload one vaccination QR code.
 
 Travellers with an EU Digital COVID Certificate and National Health Service COVID Pass should upload one vaccination QR code for each vaccination dose they have received, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses).
 
