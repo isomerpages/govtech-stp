@@ -107,7 +107,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 #### 5. I am fully vaccinated, but my child(ren) aged 12 and below is/are not. Can my child(ren) and I travel together to Singapore under the VTL?
 
-Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> adult. 
+Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
 
 <div id="Q5"></div>
 
