@@ -137,7 +137,7 @@ For (A), please see sample screenshots below:
  
  <div id="Q6"></div>
  
-#### 6. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
+#### 7. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
 
 Travellers may present any of the following:
 
@@ -154,7 +154,7 @@ Travellers may present any of the following:
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
 
-#### 7. What information needs to be reflected on the vaccination certificates?
+#### 8. What information needs to be reflected on the vaccination certificates?
 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
@@ -163,18 +163,18 @@ The electronic or physical vaccination certificate(s) should be in English and c
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
 
-#### 8. What is a digitally verifiable vaccination certificate?
+#### 9. What is a digitally verifiable vaccination certificate?
 
 Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate the traveller’s vaccination status.
 
-#### 9. Why must vaccination certificates issued in a VTL country/region be digitally verifiable?
+#### 10. Why must vaccination certificates issued in a VTL country/region be digitally verifiable?
 
 The requirement for digitally verified and authenticated proof of vaccination safeguards public health by minimising any potential instances of vaccination certificate forgery.
 
 
 <div id="QRcode"></div>
 
-#### 10. What does a QR code on a digitally verifiable vaccination certificate look like?
+#### 11. What does a QR code on a digitally verifiable vaccination certificate look like?
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates:
 - [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en)
@@ -183,7 +183,7 @@ Please click the links below for more information on accepted digitally verifiab
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
-#### 11. Why are only SMART Health Cards by issuers in the United States or Canada on the CommonTrust Network accepted?
+#### 12. Why are only SMART Health Cards by issuers in the United States or Canada on the CommonTrust Network accepted?
 
 There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network.
 
@@ -193,7 +193,7 @@ We are currently working on accepting digitally verifiable vaccination certifica
 <div id="numberofcodes"></div>
 
  
-#### 12. How do I know if I need to upload 1 or 2 vaccination QR codes?
+#### 13. How do I know if I need to upload 1 or 2 vaccination QR codes?
 
 Travellers with an EU Digital COVID Certificate and National Health Service COVID Pass should upload one vaccination QR code for each vaccination dose they have received, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses).
 
@@ -201,7 +201,7 @@ Travellers who are vaccinated in Canada or the United States should upload one v
 
 <div id="invalidcode"></div>
 
-#### 13. Why was/were my vaccination QR code(s) not accepted in my VTP application?
+#### 14. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
 Vaccination QR code(s) may be invalid for reasons such as:
 
@@ -214,7 +214,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 
 For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
-#### 14. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
+#### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
 Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
