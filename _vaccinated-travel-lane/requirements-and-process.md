@@ -345,7 +345,7 @@ Short term visitors are required to download and register their profile on the T
 	<tr>
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Upon arrival in Changi Airport</b>
 </td>
-				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">
+				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Travellers are required to leave the airport immediately for self-isolation after taking their on-arrival COVID-19 PCR test. Children aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019) are not required to undergo an on-arrival COVID-19  PCR test.<br/><br/>
 Travellers who need to procure Singapore dollars, mobile SIM cards, or rented mobile phones, must do so in the airport transit area <b><u>before clearing arrival immigration.</u></b>
 		</td>
 	</tr>
