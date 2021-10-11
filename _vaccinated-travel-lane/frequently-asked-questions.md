@@ -421,8 +421,8 @@ Short-term visitors who are VTP holders may only arrive in Singapore on designat
 
 When checking in at the departure airport, travellers must present the following to the airline staff:
 <ul> 
-	<li>a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
-<li>a valid proof of vaccination status, which can be in the form of:
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid VTP (electronic or physical copy) for the specified period of entry into Singapore;</li>
+<li><i>[not applicable for children aged 12 and below in the calendar year]</i> a valid proof of vaccination status, which can be in the form of:
 <ul style="list-style-type:disc;">
 	<li>a vaccination status on the TraceTogether app, HealthHub app, or BruHealth app; or</li>
 	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
@@ -436,7 +436,7 @@ When checking in at the departure airport, travellers must present the following
 			</li>
 		</ul>
 	</li>
-<li>a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
+<li><i>[not applicable for children aged 2 and below in the calendar year]</i> a valid pre-departure COVID-19 PCR test result certificate (electronic or physical copy) in English stating the following:
 <ol style="list-style-type: circle">
 <li>the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the VTP holder’s passport used for entry into Singapore;</li>
 <li>a negative COVID-19 PCR test result;</li>
