@@ -266,7 +266,7 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test re
 
 Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).
 
-Please refer to the respective airlines’ websites below for details of the designated VTL flights, depending on your country/region of departure, including when the first designated VTL flight will commence.
+Please refer to the respective airlines’ websites below for details of the designated VTL flights, including when the first designated VTL flight will commence.
 
 <table>
 <thead>
