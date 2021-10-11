@@ -316,7 +316,7 @@ For acceptable proofs of vaccination issued in any VTL country/region, please re
 </td>
 </tr>
 <tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Post-arrival Day 3 and Day 7 COVID-19 PCR tests</b><sup>1</sup></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8;"><b>Post-arrival Day 3 and Day 7 COVID-19 PCR tests</b><sup>1</sup> <br/><br/> <span style="color:red;">[Not applicable for travellers entering Singapore with effect from 18 October 2021, 2359hrs]</span></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">Travellers are required to undergo post-arrival COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Instructions for the dates of tests and the designated chain of clinics will be emailed to travellers upon their arrival in Singapore. They can make payment for their post-arrival COVID-19 PCR tests in person at the clinic when they show up for their tests.</p>
 
 <p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;">If travellers are leaving Singapore and their time of departure from Singapore is:</p>
