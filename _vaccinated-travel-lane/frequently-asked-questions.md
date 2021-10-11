@@ -253,7 +253,7 @@ However, if you were in a non-VTL country/region at any point within the past 14
 
 #### 5. I am only travelling to [VTL countries/regions](/vtl/requirements-and-process#countries), but will transit via a non-VTL country/region in my departing flight from Singapore. Will I be eligible to return to Singapore on the VTL?
 
-Transit points will be counted toward your travel history. To be eligible to return to Singapore on the VTL, your travel history within the past 14 consecutive days before departure for Singapore must only consist of one or more of the [VTL country/region](/vtl/requirements-and-process#countries) and/or Singapore.
+Transit points will be counted toward your travel history. To be eligible to return to Singapore on the VTL, your travel history within the past 14 consecutive days before departure for Singapore must only consist of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore.
 
 If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL.
 
