@@ -87,7 +87,7 @@ Applications for a VTP must be made between 7 and 30 calendar days prior to thei
 <table>
 	<tbody>
 	<tr>
-		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Vaccinated Travel Pass (VTP) application requirements</b></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-top:1px solid #D8D8D8;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Vaccinated Travel Pass (VTP) application requirements</b><p style="font-size:16px; color:red;line-height:1.5;">Not applicable for children aged 12 and below in the calendar year</p></td>
 				<td style="font-size: 16px; border-top:1px solid #D8D8D8;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;vertical-align:middle;">Fully vaccinated travellers must:
 		 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="margin-top:5px; margin-bottom:0px; font-size:16px; list-style-type:disc; line-height:1.5;">upload the QR codes of their vaccination certificates (if applicable); and</li>				 
