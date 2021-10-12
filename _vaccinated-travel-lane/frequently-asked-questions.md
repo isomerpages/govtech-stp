@@ -985,7 +985,6 @@ A VTP application may be unsuccessful for reasons such as:
 - Invalid vaccination QR code
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
-- Failure to complete payment for your Day 3 and Day 7 post-arrival COVID-19 Polymerase Chain Reaction (PCR) tests
  
 #### 13. How do I change the validity of my VTP?
 
