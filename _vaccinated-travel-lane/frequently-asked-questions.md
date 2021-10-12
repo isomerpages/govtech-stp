@@ -213,7 +213,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - [Days interval between doses](#doses) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
 - The QR code has been tampered with
-- Traveller is not vaccinated in his/her declared country/region of departure
+- Traveller is not vaccinated in a VTL country/region
 
 For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
