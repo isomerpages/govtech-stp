@@ -213,7 +213,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - [Days interval between doses](#doses) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
 - The QR code has been tampered with
-- Traveller is not vaccinated in his/her declared country/region of departure
+- Traveller is not vaccinated in a VTL country/region
 
 For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
@@ -322,7 +322,7 @@ Please refer to the respective airlines’ websites below for details of the des
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">[To be announced]</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Denmark</td>
@@ -985,7 +985,6 @@ A VTP application may be unsuccessful for reasons such as:
 - Invalid vaccination QR code
 - Incomplete and/or incorrect information submitted
 - Passport validity is less than 6 months
-- Failure to complete payment for your Day 3 and Day 7 post-arrival COVID-19 Polymerase Chain Reaction (PCR) tests
  
 #### 13. How do I change the validity of my VTP?
 
