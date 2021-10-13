@@ -75,7 +75,7 @@ Please click on the following links to view the conditions applicable to you, co
 
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (VTP) is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
-  <li style="font-size:20px; list-style-type:decimal;"> A VTP holder must comply with the following conditions:
+  <li style="font-size:20px; list-style-type:decimal;"> A VTL Traveller holder must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
 	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> he/she departs from;</li>	      
 	     <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a> and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>			 
@@ -105,7 +105,7 @@ Please click on the following links to view the conditions applicable to you, co
     <li style="font-size:20px; list-style-type:decimal;"> Those unable to use a mobile device due to a certified disability or special needs, are eligible to be issued TraceTogether tokens with payment of a monetary deposit (in lieu of the requirement to have a mobile device with the TraceTogether app downloaded) at the airport upon arrival in Singapore. They must carry the TraceTogether tokens issued to them at all times while in Singapore and return their respective tokens at any checkpoint prior to their departure from Singapore.
 </li>
   <br>
-   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (g) and 2(h) do not apply to Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders.
+   <li style="font-size:20px; list-style-type:decimal;"> The requirements in Conditions 2 (g) and 2(h) do not apply to Singapore Citizens, Permanent Residents and Long-Term Pass (i.e. Long-Term Visit Pass, Student’s Pass, Work Pass or Dependant’s Pass) holders.
   </li>
   <br>
    <li style="font-size:20px; list-style-type:decimal;"> Given the evolving nature of the COVID-19 pandemic, the relevant authorities in Singapore may, at their own discretion, introduce new measures or requirements to safeguard public health, which may include variation of the conditions of the VTL or cancellation of the VTP at short notice. </li> <br> 
