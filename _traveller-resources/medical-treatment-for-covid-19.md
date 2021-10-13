@@ -2,8 +2,6 @@
 title: Medical Treatment for COVID-19
 permalink: /health/covidtreatment
 ---
-
-
 ## Mandatory Treatment upon Positive Test for COVID-19
 
 In accordance with Singapore’s Infectious Diseases Act, it is **mandatory** that all travellers who test positive for COVID-19 be isolated for treatment and recovery at the appropriate facility. COVID-19-positive patients will be conveyed to and accorded the necessary medical treatment at a suitable COVID-19 care facility. These facilities can be the following hospitals and/or Community Care Facilities (CCFs), depending on the patient’s condition:
@@ -28,4 +26,4 @@ All Short Term Visit Pass holders (STVPs) are likewise responsible for all charg
 
 The hospitals and CCF charges are billed separately. All travellers may enquire about the relevant charges at the point of financial counselling at the point of admission to the hospital or CCF.
 
-This cost of hospitalisation at the hospitals and/or CCFs are separate from the cost of Stay Home Designated Facilities.   
+This cost of hospitalisation at the hospitals and/or CCFs are separate from the cost of Stay Home Dedicated Facilities.
