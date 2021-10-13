@@ -44,7 +44,7 @@ The more stringent travel health control measures would apply. This means that a
 
 An SHN is a legal notice issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
-Travellers should note that basic essentials such as portable water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
+Travellers should note that basic essentials such as water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
 
 #### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
