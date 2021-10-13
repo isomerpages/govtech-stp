@@ -2,6 +2,7 @@
 title: test
 permalink: /permalink
 ---
+
 <i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be disallowed entry to Singapore.]</i>
 
 ### Overview
@@ -46,7 +47,7 @@ On this page you will find the following:
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
 <div id="table"></div>
-<table>
+<table style="overflow: hidden;">
 <thead>
 	<tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (I) Travel and Health Control Measures <br><a href="/travel-checklist/category-1">Click here</a> for Category (I) Checklist</b></th>
@@ -70,7 +71,7 @@ On this page you will find the following:
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
-<table>
+<table style="overflow: hidden;">
 <thead>
 	<tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures <br><a href="/travel-checklist/category-2">Click here</a> for Category (II) Checklist</b></th>
@@ -111,7 +112,7 @@ On this page you will find the following:
 
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
-<table>
+<table style="overflow: hidden;">
 <thead>
 	<tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (III) Travel and Health Control Measures <br><a href="/travel-checklist/category-3">Click here</a> for Category (III) Checklist</b></th>
@@ -152,7 +153,7 @@ On this page you will find the following:
 	
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 	
-<table>
+<table style="overflow: hidden;">
 <thead>
 	<tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (IV) Travel and Health Control Measures <br><a href="/travel-checklist/category-4">Click here</a> for Category (IV) Checklist</b></th>
