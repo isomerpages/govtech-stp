@@ -62,7 +62,7 @@ Travellers who are fit for travel should:
 
 &#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
 
-Travellers will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Designated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
+Travellers will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Dedicated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
 
 Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, will be considered for special cases below. Unless otherwise indicated, all applications must be submitted **at least three working days before arrival** in Singapore.
 
