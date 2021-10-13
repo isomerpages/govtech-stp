@@ -3,7 +3,7 @@ title: Categories of Travel Health Control Measures for arrivals before 18 Oct
   2021, 2359 hours
 permalink: /health/shn-and-swab-summary-before-18-oct-2021
 ---
-### Categories of Travel Health Control Measures (for arrivals from 12 Oct 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals before 18 Oct 2021, 2359H)
 
 	
 <i>(Mobile users scroll right ☛ to view the table)</i>
