@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - overview-returning-scpr-lane.md
-      - vaccinated-travel-lane-scpr.md
       - vaccination-channels-for-overseas-singaporeans.md
