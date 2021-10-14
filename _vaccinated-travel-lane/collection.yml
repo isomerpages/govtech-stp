@@ -2,8 +2,8 @@ collections:
   vaccinated-travel-lane:
     output: true
     order:
+      - vaccinated-travel-lane-vtl-overview.md
       - requirements-and-process.md
       - conditions.md
       - frequently-asked-questions.md
       - apply-now.md
-      - vaccinated-travel-lane-vtl-overview.md
