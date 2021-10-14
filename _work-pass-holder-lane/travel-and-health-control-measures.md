@@ -95,6 +95,16 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</table><br>
 <table>
 <thead>
+<!-- <tr>
+<th rowspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
+<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category II]</b></th>
+</tr>
+	<!-- <tr>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Bulgaria, Croatia, Cyprus, Czech Republic, Egypt, Fiji, Finland, Greece, Iceland, Ireland, Japan, Liechtenstein, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, Saudi Arabia, Slovakia, Sweden, Switzerland, Turkey, and Vatican City</b></th>
+</tr>
+<tr>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>[Vaccinated Travel Lane (VTL) Countries/Regions] Brunei, Canada, Denmark, France, Germany, Italy, Netherlands, the Republic of Korea, Spain, the United Kingdom, and the United States of America</b><br/><br/>Fully vaccinated work pass holders departing from VTL countries/regions listed above may enter Singapore without Stay Home Notice if they apply to enter Singapore via the VTL instead. Click <a href="/vtl/requirements-and-process">here</a> for more details on the VTL.</th>
+</tr>-->
 <tr>
 <th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category II]</b></th>
