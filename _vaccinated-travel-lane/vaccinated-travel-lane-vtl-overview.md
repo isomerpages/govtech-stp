@@ -25,7 +25,7 @@ permalink: /vtl/requirements-and-process
 		 </td>
  </tr>
    <tr>
-    <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regionsl</b></td>
+    <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 		 <table>
 <thead>
