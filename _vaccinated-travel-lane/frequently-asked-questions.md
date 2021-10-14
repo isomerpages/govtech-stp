@@ -148,10 +148,10 @@ Travellers may present any of the following:
 - Vaccination status on the BruHealth app
 
 **[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]**
-- EU Digital COVID Certificates (EU DCC) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
-- Smart Health Cards (SHC) by issuers in the United States and Canada on the CommonTrust Network 
-- National Health Service (NHS) COVID Passes on the NHS mobile app
-- Vaccination status on the BruHealth app
+- [EU Digital COVID Certificates (EU DCC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
+- [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
+- [National Health Service (NHS) COVID Passes](https://www.gov.uk/guidance/nhs-covid-pass) on the NHS mobile app
+- Vaccination status on the [BruHealth app](http://www.moh.gov.bn/SitePages/bruhealth.aspx)
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
 
@@ -178,15 +178,15 @@ The requirement for digitally verified and authenticated proof of vaccination sa
 #### 11. What does a QR code on a digitally verifiable vaccination certificate look like?
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates:
-- [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en)
+- [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries) 
 - [National Health Service COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
-- [SMART Health Card](https://smarthealth.cards/faq.html)
+- [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
 #### 12. Why are only SMART Health Cards by issuers in the United States or Canada on the CommonTrust Network accepted?
 
-There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network.
+There is a need for us to verify the identity of the issuer by checking against a list of trusted issuers, such as the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) and Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers)).
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
@@ -194,13 +194,47 @@ We are currently working on accepting digitally verifiable vaccination certifica
 <div id="numberofcodes"></div>
 
  
-#### 13. How do I know if I need to upload 1 or 2 vaccination QR codes?
+#### 13. How do I know if I need to upload (1) or (2) vaccination QR codes?
 
-Short-term visitors with a Singapore Vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/">Notarise</a> portal should upload one vaccination QR code.
+You may refer to this table below:
 
-Travellers with an EU Digital COVID Certificate and National Health Service COVID Pass should upload one vaccination QR code for each vaccination dose they have received, depending on the [number of vaccination doses required to complete their vaccination regimen](#doses).
+<table>
+<thead>
+<tr>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Certificate Type</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>If <a href="/health/vtsg">full vaccination regimen</a> consists of 2 doses</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>If <a href="/health/vtsg">full vaccination regimen</a> consists of 1 dose</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR codes</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>
+<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html">Smart Health Cards (SHC)</a> by issuers in the United States and Canada on the CommonTrust Network (issuers listed <a href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a href="https://www.commonhealth.org/smart-health-cards">here</a>) or Vaccination Credential Initiative (issuers listed <a href="https://vci.org/issuers">here</a>)
+</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>	
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (NHS) COVID Pass</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR code (one for each dose)</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>	
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">Singapore Vaccination HeathCerts issued via the <a href="https://www.notarise.gov.sg/">Notαrise portal</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+</tr>	
+</tbody>
+</table>
 
-Travellers with a SMART Health Card by Canada or United States issuers on the <a href="https://www.commontrustnetwork.org/verifier-list">CommonTrust Network</a> should upload one vaccination QR code as found on their SMART Health Card.
+At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that can be scanned to read and authenticate the traveller’s vaccination status) will not be accepted.
+
+If you have a digitally verifiable vaccination certificate, but cannot obtain the required number of QR codes, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. 
+
 
 <div id="invalidcode"></div>
 
@@ -213,7 +247,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - [Days interval between doses](#doses) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
 - The QR code has been tampered with
-- Traveller is not vaccinated in a VTL country/region
+- Traveller is not vaccinated in a [VTL country/region](/vtl/requirements-and-process#countries)
 
 For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
 
@@ -324,7 +358,7 @@ Please refer to the respective airlines’ websites below for details of the des
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
-	<tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Denmark</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
@@ -335,47 +369,47 @@ Please refer to the respective airlines’ websites below for details of the des
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/germany-singapore-vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
-		<tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights">Scoot</a></td>
 </tr>
 <tr>
 <td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">France</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.airfrance.sg/SG/en/local/resainfovol/meilleuresoffres/VTLFlights.htm">Air France</a></td>
 </tr>
-	<tr><td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td></tr>
-	<tr>
+<tr><td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td></tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Italy</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
 <tr>
 <td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Netherlands</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.airfrance.sg/SG/en/local/resainfovol/meilleuresoffres/VTLFlights.htm">KLM Royal Dutch Airlines</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.klm.com.br/information/covid-19/klm-vtl-flights">KLM Royal Dutch Airlines</a></td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>	
-	<tr>
+<tr>
 <td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Asiana Airlines</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korean Air</td>
 </tr>
-	<tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>	
-		<tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Spain</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
-	<tr>
+<tr>
 <td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">British Airways</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>	
-		<tr>
+<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United States</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
@@ -571,8 +605,8 @@ The designated taxi operators are:
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
-  </tbody>
-  </table>
+</tbody>
+</table>
 
 
 #### 4. Can travellers shop and dine at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
@@ -820,7 +854,7 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
       <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
-  </table>
+</table>
  	 
 For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
 

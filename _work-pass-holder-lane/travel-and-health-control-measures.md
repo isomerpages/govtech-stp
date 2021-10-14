@@ -96,11 +96,14 @@ For all other pass holders (work pass holders and their dependants), this page e
 <table>
 <thead>
 <tr>
-<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
+<th rowspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category II]</b></th>
 </tr>
-	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Fiji, France, Finland, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, the Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, the United Kingdom, the United States of America, and Vatican City</b></th>
+<tr>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Bulgaria, Croatia, Cyprus, Czech Republic, Egypt, Fiji, Finland, Greece, Iceland, Ireland, Japan, Liechtenstein, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, Saudi Arabia, Slovakia, Sweden, Switzerland, Turkey, and Vatican City</b></th>
+</tr>
+<tr>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #FFFFFF; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>[Vaccinated Travel Lane (VTL) Countries/Regions]<br/> Brunei, Canada, Denmark, France, Germany, Italy, Netherlands, the Republic of Korea, Spain, the United Kingdom, and the United States of America</b><br/><br/>Fully vaccinated work pass holders departing from Vaccinated Travel Lane (VTL) countries/regions listed above may enter Singapore without Stay Home Notice if they apply to enter Singapore via the VTL instead of the WPHL. [<a href="/vtl/requirements-and-process">Click here</a>] for more details on the VTL.</th>
 </tr>
 		<tr>
 		<th colspan ="4" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Health Measures by Pass Type</b></th>

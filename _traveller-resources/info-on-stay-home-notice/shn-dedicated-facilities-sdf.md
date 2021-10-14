@@ -27,7 +27,7 @@ If you have specific needs for your SDF stay (e.g. medical requirements), you ma
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </tbody></table>
-<sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) are permitted to share a room.</i><br><br>
+<sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
 <sup>**</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
 
 The exact costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
