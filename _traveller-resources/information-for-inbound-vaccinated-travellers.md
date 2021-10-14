@@ -2,7 +2,6 @@
 title: Information for inbound vaccinated travellers
 permalink: /health/vtsg
 ---
-
 Travellers may be required to be fully vaccinated with WHO Emergency Use Listing (EUL) COVID-19 vaccines in order to be eligible for certain travel lanes to travel to Singapore, and domestic health measures requiring vaccinated status. This page outlines:
 
 - [Vaccinations accepted by Singapore](#acceptedvaccines)
@@ -114,7 +113,7 @@ Travellers who arrived in Singapore after 17 Sep 2021 will need to have their va
 	</thead>
 	<tbody>
 		<tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; ">Travellers should obtain a positive COVID-19 serology test result from Public Health Preparedness Clinics. Please call in advance to check if the service is available and the cost of the test. <br/><br/>
+				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; ">Travellers should obtain a positive COVID-19 serology test result from <a href="https://phpc.gov.sg">Public Health Preparedness Clinics</a>. Please call in advance to check if the service is available and the cost of the test. <br/><br/>
 The clinics will undertake the necessary administrative work and your vaccination record should appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps within 2 days of the test.
 </td>
 							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; "><p style=" font-size:16px; color:red; line-height:1.5;"><b>NOTE: The electronic vaccination record accorded via this channel will be valid for only 30 days.</b></p>
