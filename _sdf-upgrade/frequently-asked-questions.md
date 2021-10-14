@@ -16,7 +16,7 @@ permalink: /health/shn/sdfsuitefaq
 
 #### 1.	Who can I share the suite with?
 
-Travellers can share the suite with the following family members: grandparents, parents, spouse, parents-in-law, siblings or children.
+Travellers can share the suite with the following family members who are serving SHN with the same travel history and duration: grandparents, parents, spouse, parents-in-law, siblings or children.
 
 #### 2. Is there a maximum number of travellers that a suite can accommodate?
 
