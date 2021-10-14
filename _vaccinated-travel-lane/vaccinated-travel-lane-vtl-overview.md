@@ -7,7 +7,6 @@ permalink: /vtl/requirements-and-process-1
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview">"Departing from Singapore"</a> page.</b></span></p>
 </div>
 <br>
-<br>
 <table>
 <thead>
 <tr>
