@@ -573,8 +573,8 @@ The designated taxi operators are:
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
     </tr>
-  </tbody>
-  </table>
+ </tbody>
+ </table>
 
 
 #### 4. Can travellers shop and dine at Changi Airport and visit Jewel Changi Airport upon arrival in Singapore?
@@ -822,7 +822,7 @@ Please ensure that your TraceTogether App is updated to the latest version. You 
       <td><img src="/images/TraceTogether Home Screen_Vaccinated.png" style="width:179px; height:318px;"></td>
     </tr>
   </tbody>
-  </table>
+</table>
  	 
 For more information, please refer to the TraceTogether <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/360043735573-How-do-I-set-up-the-TraceTogether-App-">website</a>.
 
