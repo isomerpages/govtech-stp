@@ -33,7 +33,7 @@ Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arrivin
 
 Singapore Citizens (SC) and Permanent Residents (PR) <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info on requirements for the Returning SC/PR Lane.
 
-Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unvaccinated children below 12 years old departing from certain countries/regions may use the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/sc-pr/vtl) for more information on the Vaccinated Travel Lane for SC/PR travellers.
+Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unvaccinated children below 12 years old departing from certain countries/regions may use the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/vtl/requirements-and-process) for more information on the Vaccinated Travel Lane for SC/PR travellers.
 
 ---
 
