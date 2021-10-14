@@ -228,8 +228,8 @@ You may refer to this table below:
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 	<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
-	</tbody>
-	</table>
+</tbody>
+</table>
 
 At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that can be scanned to read and authenticate the traveller’s vaccination status) will not be accepted.
 
