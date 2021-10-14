@@ -1,7 +1,8 @@
 ---
 title: Requirements and Process
-permalink: /vtl/requirements-and-process
+permalink: /vtl/requirements-and-process-1
 ---
+
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains the requirements for travellers seeking entry <u>into</u> Singapore via the Vaccinated Travel Lane(VTL).</b></span></p>
