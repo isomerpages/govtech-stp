@@ -11,7 +11,7 @@ permalink: /vtl/requirements-and-process-1
 <table>
 <thead>
 <tr>
-<th style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;" colspan="2"><b>Eligibility Requirements</b></th>
+<th colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white;text-align:center;"><b>Eligibility Requirements</b></th>
 </tr>
 </thead>
 <tbody>
@@ -39,14 +39,14 @@ permalink: /vtl/requirements-and-process-1
 <tbody>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>8 September 2021, 2359hrs </b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;" rowspan="2"><b>8 September 2021, 2359hrs </b></td>
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Germany</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
-<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>18 October 2021, 2359hrs</b></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;" rowspan="8"><b>18 October 2021, 2359hrs</b></td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Denmark</td>
@@ -71,14 +71,14 @@ permalink: /vtl/requirements-and-process-1
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
-		<td rowspan="8" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;"><b>14 November 2021, 2359hrs </b></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;" rowspan="8"><b>14 November 2021, 2359hrs </b></td>
 </tr>
 </tbody>
 </table>		 
 		 </td>
  </tr>
    <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel History & Designated Flight Requirements</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel History &amp; Designated Flight Requirements</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore before 18 Oct 2021, 2359 hrs must:
 			 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
@@ -99,7 +99,7 @@ permalink: /vtl/requirements-and-process-1
 </thead>
 <tbody>
 <tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyroyalbrunei.com/singapore/en/help-support/frequently-asked-questions/vaccinated-travel-lane-vtl/">Royal Brunei Airlines</a>, <a href="https://www.singaporeair.com/nl_NL/nl/media-centre/news-alert/?id=ksh1p8o3">Singapore Airlines</a></td>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ permalink: /vtl/requirements-and-process-1
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
 <tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.lufthansa.com/sg/en/de-sg-vtl">Lufthansa</a> , <a href="https://www.singaporeair.com/en_UK/sg/travel-info/germany-singapore-vaccinated-travel-lanes/">Singapore Airlines</a>, <a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights">Scoot</a></td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ permalink: /vtl/requirements-and-process-1
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.klm.com.br/information/covid-19/klm-vtl-flights">KLM Royal Dutch Airlines</a>, <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
 	<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Asiana Airlines, Korean Air, <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
 		<tr>
@@ -135,7 +135,7 @@ permalink: /vtl/requirements-and-process-1
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>
 	<tr>
-<td  style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">British Airways, <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
 </tr>	
 		<tr>
@@ -173,44 +173,38 @@ permalink: /vtl/requirements-and-process-1
 </tbody>
 <thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Vaccinated Travel Pass (VTP) Application and Travel Checklist</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Vaccinated Travel Pass (VTP) Application and Travel Checklist</b></th>
 </tr>
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Singapore Citizens (SC) / Permanent Residents (PR)</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;" >All SC/PRs <b>do not need to apply for a VTP</b>. <br/><br/> <b>However, travellers must comply with the requirements stated in this travel checklist</b>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All SC/PRs <b>do not need to apply for a VTP</b>. <br><br> <b>However, travellers must comply with the requirements stated in this travel checklist</b>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</td>
+</tr>
+	<tr>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Foreign visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Foreign travellers and visitors (e.g. Short-Term Visitors and Long-Term Pass holders), must apply for a VTP. Accompanying children aged 12 and below and are unvaccinated do not need to apply. Applications must be submitted between 7 and 30 days before the intended date of entry into Singapore and be supported with the vaccination certificate QR code (if available). <br><br> <b><a href="https://go.gov.sg/vtl-portal">CLICK HERE</a> TO APPLY</b><br><br> A VTP is valid for 6 calendar days from the traveller’s chosen date of entry to accommodate last-minute flight changes.<br><br>Approved VTP holders can refer to this travel checklist for a step-by step guide to ensure that they meet all requirements at each stage of their journey to Singapore.<br><br><i><b>Note:</b> By applying for VTP, the applicant has consented to the use of personal data collected for the purpose of processing and implementing VTL entry. <a>Click here</a> for the Privacy Statement. Travellers departing for Singapore from <b>Canada, Denmark, France, Italy, Netherlands, Spain, United Kingdom and United States</b> may submit their applications from <b>12 Oct 2021, 1000hrs</b>. Those departing from the <b>Republic of Korea</b> may submit their applications from <b>8 Nov 2021, 1000hrs.</b></i></td>
 </tr>
 </tbody><thead>
 <tr>
-<th style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="2"><b>Traveller Resources</b></th>
+<th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Traveller Resources</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel and transit history before arriving in Singapore.<br/><br/><a href="/shn-and-swab-summary">CLICK HERE</a> to check the travel health control measures (e.g. Stay Home Notice, swab tests) applicable to you. </td>
-</tr>
-<tr>
-<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">These checklists provide a step-by-step guide to help the traveller prepare for the various administrative and travel/health-realted protocols that the traveller wil be subject to <b>before and during the traveller's stay</b> in Singapore:
-<ol style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-1">Category (I) travel history</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-2">Category (II) travel history</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-3">Category (III) travel history</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/travel-checklist/category-4">Category (IV) travel history</a></li>
-</ol>
-<p style="font-size:16px; line-height:1.5;">Please read only after determining the <a href="/shn-and-swab-summary">travel health control measures</a> (as per row above) the traveller will be subject to.</p>
-	</td>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>VTP Conditions</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Applicable to all VTL travellers; Click <a href="vtl/conditions">here</a>. </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#payments">Payments and refunds</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#shnsdf">SDF issues</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/faq#pcrtest">COVID-19 test</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#VacReq">Vaccination</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#THReq">Travel History</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#PDT">Pre-Departure Test</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#Flight">Designated VTL Flightst</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#application">VTP Application</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
-
 </ul>
  </td>
 </tr>
