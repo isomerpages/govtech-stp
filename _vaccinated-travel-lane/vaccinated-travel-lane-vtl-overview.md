@@ -2,7 +2,6 @@
 title: Vaccinated Travel Lane (VTL) Overview
 permalink: /vtl/requirements-and-process
 ---
-
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains the requirements for travellers seeking entry <u>into</u> Singapore via the Vaccinated Travel Lane(VTL).  Singapore time (SGT) is used for all dates and time shown on this page.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview">"Departing from Singapore"</a> page.</b></span></p>
@@ -26,7 +25,7 @@ permalink: /vtl/requirements-and-process
 		 </td>
  </tr>
    <tr>
-    <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>VTL Countries/Regionsl</b></td>
+    <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regionsl</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 		 <table>
 <thead>
