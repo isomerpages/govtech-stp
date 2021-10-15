@@ -218,7 +218,7 @@ permalink: /vtl/requirements-and-process
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#Q6" target="_blank">Recognised vaccination certificates for VTL (see Questions 6 and 7)</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#invalidcode" target="_blank">VTP Application Technical Difficulties</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#fullyvaccinated" target="_blank">Definition of fully vaccinated</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg" target="_blank">Definition of fully vaccinated</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#THReq" target="_blank">Travel History</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#PDT" target="_blank">Pre-Departure Test</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#Flight" target="_blank">Designated VTL Flightst</a></li>
