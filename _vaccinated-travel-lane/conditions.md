@@ -26,7 +26,7 @@ Please click on the following links to view the conditions applicable to you, co
           <li style="font-size:18px; list-style-type:lower-roman;">the VTP holder’s name, and at least one other personal identifier such as the date of birth or passport number  corresponding exactly with the information in the traveller’s passport used for entry into Singapore;</li>
            <li style="font-size:18px; list-style-type:lower-roman;">a negative COVID-19 PCR test result</li>
           <li style="font-size:18px; list-style-type:lower-roman;">the date and time when the COVID-19 PCR test was taken; and</li>
-					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 PCR test;
+					    <li style="font-size:18px; list-style-type:lower-roman;">the name of the testing institution conducting the COVID-19 PCR test.
 </li>
          </ol>
                <li style="font-size:18px; list-style-type:lower-alpha;">undergo a COVID-19 PCR test at the airport upon arrival in Singapore, and immediately<sup>2</sup>  take private transportation, taxi, or private hire car from the airport to the place of accommodation as declared in the VTL application and remain isolated at the place of accommodation until the on-arrival test result is confirmed to be negative;</li>
