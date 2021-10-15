@@ -181,7 +181,7 @@ Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014
 ### Stage 2: Departure for Singapore
 
 When checking in at the departure airport, travellers must present to the airline staff:
-	<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-roman ">
+<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-roman ">
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Physical or electronic copy of the Vaccinated Travel Pass (VTP) for the specified period of entry;</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result; </li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Valid visa (for visa-required visitors);</li>
