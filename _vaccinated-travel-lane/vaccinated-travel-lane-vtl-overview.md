@@ -210,19 +210,19 @@ permalink: /vtl/requirements-and-process
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>VTP Conditions</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Applicable to all VTL travellers; Click <a href="vtl/conditions">here</a>. </td>
+	<td style="font-size:16px;border-right:1px solid #D8D8D8;">Applicable to <b>all</b> VTL travellers; Click <a href="vtl/conditions">here</a>. </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Click <a href="/health/faq">here</a> for the full list of FAQs, or the links below for specific queries on the following topics:
 <ul style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#VacReq">Vaccination</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#VacReq">Recognised vaccination certificates for VTL</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#VacReq">VTP Application Technical Difficulties</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#VacReq">Definition of fully vaccinated</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#THReq">Travel History</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#PDT">Pre-Departure Test</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#Flight">Designated VTL Flightst</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#OAT">On-Arrival Test &amp; Self-Isolation</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#application">VTP Application</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg">Travellers Vaccinated Overseas</a></li>
 </ul>
  </td>
 </tr>
