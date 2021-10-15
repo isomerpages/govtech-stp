@@ -3,7 +3,7 @@ title: Vaccinated Travel Lane (VTL) Overview
 permalink: /vtl/requirements-and-process
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;">This page details the Vaccinated Travel Lane (VTL) travel and application requirements for fully vaccinated  travellers <b>seeking entry into</b> Singapore.  Singapore time (SGT) is used for all dates and time shown on this page.</span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;">This page details the Vaccinated Travel Lane (VTL) travel and application requirements for fully vaccinated  travellers <b>seeking entry into</b> Singapore.  Singapore time (SGT) is used for all dates and times shown on this page.</span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;">Travellers intending to <b>leave</b> Singapore to a VTL country/region, must check with the authorities of their desired destination on the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For all departure-related advisories, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</span></p>
 </div>
 <table>
