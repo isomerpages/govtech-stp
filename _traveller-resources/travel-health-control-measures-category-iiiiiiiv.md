@@ -35,8 +35,8 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 On this page you will find the following:
 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">
-						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#before">Categories of travel health control measures for arrivals from 12 Oct 2021, 2359 hours</a></li>
-		<li style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#from">Categories of travel health control measures for arrivals before 12 Oct 2021, 2359 hours</a></li>
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#from">Categories of travel health control measures for arrivals from 12 Oct 2021, 2359 hours</a></li>
+		<li style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#before">Categories of travel health control measures for arrivals before 12 Oct 2021, 2359 hours</a></li>
 					</ol>
 
 <div id="from"></div>	   
