@@ -120,6 +120,6 @@ Travellers who test positive for COVID-19 will and must receive <a href="/health
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
-After self-isolation, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After self-isolation, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a> for more details.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition of your vaccinated status.
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg" target="_blank">click here</a> for details on whether you qualify, and how to receive local recognition of your vaccinated status.
