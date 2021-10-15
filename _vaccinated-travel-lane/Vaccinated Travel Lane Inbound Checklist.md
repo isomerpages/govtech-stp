@@ -39,7 +39,7 @@ Travellers are be required to provide proof of vaccination during application, d
 		</ol>
 	</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359hrs</i>)</li>
+			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359 hours</i>)</li>
 			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Singapore Vaccination HealthCerts issued by <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a></li>
 	</ol>
 </p>
@@ -52,7 +52,7 @@ All short-term visitors and long-term pass holders must apply for a VTP. Applica
 
 Singapore Citizens and Permanent Residents do not need to apply for a VTP but must adhere to the <a href="/vtl/conditions" target="_blank"> conditions</a>, which are also laid out in this checklist.
 
-**From 18 October 2021, 2359hrs**, unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. if the child turns 12 this year, they are eligible even if their actual birthday this year has passed). They are not required to apply for a VTP. However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
+**From 18 October 2021, 2359 hours**, unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. if the child turns 12 this year, they are eligible even if their actual birthday this year has passed). They are not required to apply for a VTP. However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
 
 &#9744;  <i><b>C) [If required] Application for Entry Visas for Short Term Visitors</b></i>
 
@@ -64,12 +64,12 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
 		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5">
-			Travellers entering Singapore <b>before</b> 18 Oct 2021, 2359 hrs must:</p>
+			Travellers entering Singapore <b>before</b> 18 Oct 2021, 2359 hours must:</p>
 			 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to their VTL country/region of departure, and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
 </ol>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <b>from</b> 18 Oct 2021, 2359 hrs must:</p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <b>from</b> 18 Oct 2021, 2359 hours must:</p>
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
@@ -131,7 +131,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </table>
 </div>
 
-**From 18 October 2021, 2359 hrs**, travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hrs) before arrival in Singapore. 
+**From 18 October 2021, 2359 hours**, travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
 
 If transits are made via a non-VTL country/region:
 - Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols. 
@@ -269,7 +269,7 @@ After self-isolation, travellers may go about their activities but must comply w
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore.
 
-&#9744;  <i><b>B) [Only for travellers entering Singapore before 18 October 2021, 2359hrs] Post-Arrival COVID-19 PCR Tests </b></i>
+&#9744;  <i><b>B) [Only for travellers entering Singapore before 18 October 2021, 2359 hours] Post-Arrival COVID-19 PCR Tests </b></i>
 
 Travellers are required to undergo COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of tests and the designated clinics will be emailed to travellers upon their arrival in Singapore.
 
