@@ -77,7 +77,7 @@ Take an on-arrival <a href="/health/covid19-tests/pcrtest#price" target="_blank"
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
-A 7-day Stay-Home Notice (SHN) will be sent to the email address provided by the traveller in their [SGAC declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card). The SHN takes effect immediately on the day of its issuance.
+A 7-day Stay-Home Notice (SHN) will be sent to the email address provided by the traveller in their <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card" target="_blank">SGAC declaration</a>. The SHN takes effect immediately on the day of its issuance.
 
 &#9744; <i><b>D) Transport to Declared Self-Isolation Accommodation</b></i>
 
@@ -124,7 +124,7 @@ Travellers will commute directly to their declared SHN accommodation using their
   </tbody>
   </table>
 	
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. To guarantee a smooth journey, click [here](/health/faq#transport) for the relevant transport advisories.
+The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. To guarantee a smooth journey, <a href="/health/faq#transport" target="_blank">click here</a> for the relevant transport advisories.
 
 ### Stage 4: Stay-Home Notice and COVID-19 Tests
 
@@ -135,14 +135,14 @@ A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travel
 - Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
 - Received a negative PCR test result for the test taken on the last day of SHN.
 
-To calculate the estimated SHN end-date, click [here](/shn-calculator) for an SHN calculator. Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to [this page](https://sha.org.sg/hotel-accommodation) for the non-exhaustive list of hotels offering SHN-accommodation.
+To calculate the estimated SHN end-date, click <a href="/shn-calculator" target="_blank">here</a> for an SHN calculator. Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to this page for the <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list of hotels</a> offering SHN-accommodation.
 
-During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. For more information on SHN-related compliance matters, click [here](/health/shn#shn-compliance-checks).
+During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. For more information on <a href="/health/shn#shn-compliance-checks" target="_blank">SHN-related compliance matters</a>.
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
 <!--**For arrivals before 22 Oct 2021**,--> 
-Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via [this form](https://go.gov.sg/sto-enquiry). 
+Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
 
 <!--**For arrivals from 22 Oct 2021**, Travellers will require to self-administer an Antigen Rapid Test(ART) on D7 of their SHN, in place of taking a PCR test.-->
 
@@ -151,12 +151,13 @@ Travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PC
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the  [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the  <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
-Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
+Travellers who test positive for <a href="/health/covid19-symptoms" target="_blank">COVID-19</a> will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
-After SHN, travellers may go about their activities but **must** comply with the latest public health measures.This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After SHN, travellers may go about their activities but **must** comply with the latest public health measures.This includes the use of the 
+<a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for more details.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition of your vaccinated status.
