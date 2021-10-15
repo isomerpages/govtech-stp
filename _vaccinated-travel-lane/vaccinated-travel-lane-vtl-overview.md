@@ -87,6 +87,7 @@ permalink: /vtl/requirements-and-process
 			</li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 									<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth mobile app</a></li>
+												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359hrs</i>)</li>
 												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
 			</ol>
 		 </td>
