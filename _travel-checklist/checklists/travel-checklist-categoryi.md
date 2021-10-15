@@ -121,7 +121,7 @@ Travellers without a suitable place of residence may [self-isolate](https://sha.
 
 Travellers may only leave their accommodation only **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices). 
 
-Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
