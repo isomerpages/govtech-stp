@@ -141,6 +141,8 @@ If transits are made via a non-VTL country/region:
 
 All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click <a href="/health/travelinsurance" target="_blank">here</a>.
 
+<div id="1F"></div>
+
 &#9744;  <i><b>F) Secure Self-Isolation Accommodation</b></i>
 
 Travellers can self-isolate at any of the following locations:
@@ -249,7 +251,7 @@ Travellers must commute directly to their declared self-isolation accommodation 
 
 &#9744;  <i><b>A) Self-Isolation</b></i>
 
-All travellers **must** self-isolate at their declared accommodation (per Stage 1F) until the receive a negative COVID-19 PCR test result (likely within 24 hours).
+All travellers **must** self-isolate at their declared accommodation (per <a href="#1F">Stage 1F</a>) until the receive a negative COVID-19 PCR test result (likely within 24 hours).
 
 &#9744;  <i><b>B) Release from Self-Isolation</b></i>
 
@@ -261,7 +263,7 @@ Travellers who test positive for <a href="/health/covid19-symptoms" target="_bla
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. Please visit the Ministry of Health <a  href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a> for details on the prevailing measures.
+After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. Please visit the <a  href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank"> Ministry of Health website</a> for details on the prevailing measures.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore.
 
