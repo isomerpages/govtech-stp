@@ -52,7 +52,7 @@ All short-term visitors and long-term pass holders must apply for a VTP. Applica
 
 Singapore Citizens and Permanent Residents do not need to apply for a VTP but must adhere to the <a href="/vtl/conditions" target="_blank"> conditions</a>, which are also laid out in this checklist.
 
-**From 18 October 2021, 2359 hours**, unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. if the child turns 12 this year, they are eligible even if their actual birthday this year has passed). They are not required to apply for a VTP. However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
+**From 18 October 2021, 2359 hours**, unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. a child who turns 12 in this calendar year will be exempted, they are eligible even if their actual birthday this year has passed). They are not required to apply for a VTP. However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
 
 &#9744;  <i><b>C) [If required] Application for Entry Visas for Short Term Visitors</b></i>
 
@@ -153,7 +153,7 @@ Travellers may complete their self-isolation with vaccinated household members s
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 PCR Test</b></i>
 
-All travellers, <b>except</b> those aged two and below in this calendar year (i.e. if the child turns 2 this year, they are exempted even if their actual birthday this year has passed), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
+All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year, they are exempted even if their actual birthday this year has passed), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and
 - Reflects the date and time the test was taken, the name of the testing institution, and a negative test result.
@@ -170,7 +170,7 @@ Travellers should **defer their travels** if they:
 
 &#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. if the child turns 2 this year, they are exempted even if their actual birthday this year has passed), should <a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year, they are exempted even if their actual birthday this year has passed), should <a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
@@ -204,7 +204,7 @@ Travellers in need of Singapore currency, mobile SIM cards or rented phones shou
 
 &#9744;  <i><b>B) On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. if the child turns 2 this year, they are exempted even if their actual birthday this year has passed), must take an <a href="/health/covid19-tests/pcrtest#price" target="_blank">on-arrival COVID-19 PCR test</a>. Traveller who did not pay for the test before arrival will pay on the spot for the test.
+All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year, they are exempted even if their actual birthday this year has passed), must take an <a href="/health/covid19-tests/pcrtest#price" target="_blank">on-arrival COVID-19 PCR test</a>. Traveller who did not pay for the test before arrival will pay on the spot for the test.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
