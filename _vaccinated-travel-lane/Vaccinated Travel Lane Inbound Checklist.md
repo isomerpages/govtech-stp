@@ -130,3 +130,21 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </tbody>
 </table>
 </div>
+
+**From 18 October 2021, 2359 hrs**, travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hrs) before arrival in Singapore. 
+
+If transits are made via a non-VTL country/region:
+- Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols. 
+- Short-term visitors and long-term pass holders may be denied entry into Singapore.
+
+&#9744;  <i><b>E) [Short-term visitors only] COVID-19 Insurance </b></i>
+
+All short-term visitors travelling to Singapore under VTL, must purchase a suitable travel insurance with a minimum coverage of S$30,000 against COVID-19 related medical charges. Travellers may be insured with a Singapore or overseas-based insurer. For the list of available travel insurance products offered in Singapore, click [here](/health/travelinsurance).
+
+&#9744;  <i><b>F) Secure Self-Isolation Accommodation</b></i>
+
+Travellers can self-isolate at any of the following locations:
+- Place of residence, e.g. own HDB flat, condominium; or
+- Non-residential accommodation, e.g. hotel or serviced apartment.
+
+Travellers may complete their self-isolation with vaccinated household members sharing the same travel history, arrival date and self-isolation requirements. Otherwise, they should self-isolate in an enclosed room with an en-suite toilet. Travellers who intend to self-isolate at a non-residential accommodation, e.g. hotel, may refer to this [non-exhaustive list](https://sha.org.sg/hotel-accommodation). Before a booking is made, travellers should confirm with the hotel that they are able to accommodate guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
