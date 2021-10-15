@@ -279,4 +279,4 @@ The traveller’s time of departure from Singapore is defined as the scheduled t
 
 &#9744;  <i><b>[Only if applicable] Return of TraceTogether Tokens </b></i>
 
-Short term visitors issued with a physical TraceTogether token when arriving in Singapore must return the tokens in-person at a designated TraceTogether token return booth at the checkpoint.
+Short term visitors issued with a physical TraceTogether token when arriving in Singapore must return the tokens in-person at a designated <a href="https://support.tracetogether.gov.sg/hc/en-sg/articles/900007675263" target="_blank">TraceTogether token return booth</a> at the checkpoint.
