@@ -78,16 +78,16 @@ permalink: /vtl/requirements-and-process
 	 <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Accepted Proof of Vaccination</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">EU Digital COVID Certificates (EU DCC)</li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SMART Health Cards (SHC) issued by:
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificates</a> (EU DCC)</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html">SMART Health Cards</a> (SHC) issued by:
 			<ol style="margin-top:0px; list-style-type: lower-latin;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed here and here);</li>
-								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination Credential Initiative issuers</li>
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a href="https://www.commonhealth.org/smart-health-cards">here</a>);</li>
+								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers">Vaccination Credential Initiative issuers</a></li>
 							</ol>
 			</li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">National Health Service (NHS) COVID Passes found on the NHS mobile app</li>
-									<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">BruHealth mobile app</li>
-												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued by Notarise</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
+									<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx">BruHealth mobile app</a></li>
+												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued by <a href="https://www.notarise.gov.sg/">Notarise</a></li>
 			</ol>
 		 </td>
  </tr>
