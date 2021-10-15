@@ -174,7 +174,7 @@ All travellers, **except** those aged two and below in this calendar year (i.e. 
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
-All short-term VTL travellers **must** download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing. Only children aged 6 and below in this calendar year (i.e. those born in or after 2015) are exempted from this requirement.
+All short-term VTL travellers **must** download the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> mobile application on their mobile phone and register their profile for contact tracing. Only children aged 6 and below in this calendar year are exempted from this requirement (e.g. a child who turns 6 this calendar year will be exempted).
 
 Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens instead on arrival in Singapore.
 
