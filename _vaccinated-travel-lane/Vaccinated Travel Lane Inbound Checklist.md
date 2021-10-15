@@ -261,7 +261,7 @@ Travellers who test positive for [COVID-19](/health/covid19-symptoms) are requir
 
 &#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
 
-After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. Please visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for details on the prevailing measures.
+After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. Please visit the Ministry of Health <a  href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">website</a> for details on the prevailing measures.
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore.
 
