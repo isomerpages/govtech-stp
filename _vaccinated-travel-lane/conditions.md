@@ -7,13 +7,13 @@ permalink: /vtl/conditions
 Please click on the following links to view the conditions applicable to you, corresponding to your date and time of entry into Singapore:
 
 <ol style="font-size:20px;">
-	<li style="font-size:20px; list-style-type:disc;"><a href="#before">Before 18 October 2021, 2359hrs</a></li>
-		<li style="font-size:20px; list-style-type:disc;"><a href="#after">With effect from 18 October 2021, 2359hrs </a></li>
+	<li style="font-size:20px; list-style-type:disc;"><a href="#before">Before 18 October 2021, 2359 hours</a></li>
+		<li style="font-size:20px; list-style-type:disc;"><a href="#after">With effect from 18 October 2021, 2359 hours </a></li>
 	</ol>
 	
 <div id="before"></div>
 
-#### For travellers entering Singapore before 18 October 2021, 2359hrs
+#### For travellers entering Singapore before 18 October 2021, 2359 hours
 
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (VTP) is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
@@ -71,7 +71,7 @@ Please click on the following links to view the conditions applicable to you, co
 
 <div id="after"></div>
 
-#### For travellers entering Singapore with effect from 18 October 2021, 2359hrs
+#### For travellers entering Singapore with effect from 18 October 2021, 2359 hours
 
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (VTP) is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
