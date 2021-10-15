@@ -8,8 +8,8 @@ permalink: /FAQ
 <table>
   <thead>
     <tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Safe Travel Lane</th>
-       <th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Frequently Asked Questions</th>
+      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Safe Travel Lane</b></th>
+       <th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>Frequently Asked Questions</b></th>
            </tr>
   </thead>
   <tbody>
@@ -42,23 +42,28 @@ permalink: /FAQ
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/outbound/faq#faq-outbound-china">Mainland China</a></li>
         </ol> </td>
     </tr>
-<tr style="border-bottom:1.2px solid #E8E8E8">
+<tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">FAQ for RGL Travellers Returning to Singapore <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-brunei">Brunei</a></li>
         <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/rgl/returnees/faq#faq-return-china">Mainland China</a></li>
         </ol></td>
     </tr>
-<tr style="border-bottom:1.2px solid #E8E8E8">
+<tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/pca/overview">Periodic Commuting Arrangement </a></td>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/malaysia/pca/faq">FAQ</a> 
       </td>
     </tr>  
-<tr style="border-bottom:1.2px solid #E8E8E8">
+<tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/overview">Singapre Citizen/PR Familial Ties Lane</a></td>
       <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/scpr-familial-ties-lane/faq">FAQ</a> 
       </td>
     </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
+				    <tr style="border-bottom:1.2px solid #E8E8E8;">
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/connectsg/overview">Vaccinated Travel Lane </a></td>
+      <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/vtl/faq">FAQ</a> 
+      </td>
+    </tr>  
+    <tr style="border-bottom:1.2px solid #E8E8E8;">
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
         <td colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/wphl/faq">FAQ</a><br/><br/><i>Note: Excludes the following, please check with <a href="https://www.mom.gov.sg/covid-19">MOM</a> for the entry requirements:</i>
           <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:disc">
@@ -68,7 +73,7 @@ permalink: /FAQ
             <li style="margin-top:0px; margin-bottom:0px; font-size:18px;">EntrePass holders and their dependants</li>
         </ol>
       </td>
-    </tr>  
+    </tr>
   </tbody>
   </table>
 

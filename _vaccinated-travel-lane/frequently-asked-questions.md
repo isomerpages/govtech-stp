@@ -3,17 +3,17 @@ title: Frequently Asked Questions
 permalink: /vtl/faq
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(1) My Day 7 test is on or after 19 October 2021. Do I still need to go for my test?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes. If you enter Singapore prior to 18 October 2021, 2359hrs, you <b>must</b> attend both your Day 3 and Day 7 COVID-19 PCR tests.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(2) I applied to enter before 19 October 2021, but my VTP is valid till after 19 October 2021. Can I enter after 19 October 2021 instead? Will I be subject to Day 3 and Day 7 tests?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes, you may enter Singapore on any of the dates within the validity period of your VTP. All travellers entering Singapore with effect from 18 October 2021, 2359hrs will <b><u>not</u></b> be required to undergo post-arrival COVID-19 PCR tests.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes. If you enter Singapore prior to 18 October 2021, 2359 hours, you <b>must</b> attend both your Day 3 and Day 7 COVID-19 PCR tests.</p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(2) I applied to enter Singapore before 19 October 2021, but my VTP is valid till after 19 October 2021. Can I enter after 19 October 2021 instead? Will I be subject to Day 3 and Day 7 tests?</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes, you may enter Singapore on any of the dates within the validity period of your VTP. All travellers entering Singapore with effect from 18 October 2021, 2359 hours will <b><u>not</u></b> be required to undergo post-arrival COVID-19 PCR tests.</p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(3) My VTP is valid till before 19 October 2021, but I would like to change my travel plans to enter on or after 19 October 2021. How may I do so?</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If your travel plans change and you need to enter after the validity period, please submit a new VTP application. The pre-payment for your Day 3 and Day 7 PCR tests under your unutilised VTP will be refunded automatically to your credit card, excluding administrative fees.</p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(4). Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Travellers submitting a VTP application before 12 October 2021, 0000hrs (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If you have made payment for your Day 3 and Day 7 tests , but enter Singapore with effect from 18 October 2021, 2359hrs (Singapore time), the payment for the Day 3 and Day 7 tests will be refunded by the designated chain of clinics to the credit card used to pay for the test.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Alternatively, if you submit a VTP application from 12 October 2021, 0000hrs (Singapore time) onwards, you will not have to make any payment at the point of application.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If you have made payment for your Day 3 and Day 7 tests , but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be refunded by the designated chain of clinics to the credit card used to pay for the test.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.</p>
 </div>
 
 
@@ -59,7 +59,7 @@ permalink: /vtl/faq
 
 Travellers must have been <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered fully vaccinated 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines </a>
 
-<b><i>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs] </i></b>
+<b><i>[For travellers entering Singapore with effect from 18 October 2021, 2359 hours] </i></b>
 
 *Travellers must be [fully vaccinated](/health/vtsg) and have a proof of vaccination issued in any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from. An individual is considered [fully vaccinated](/health/vtsg) 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or [WHO EUL Vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines). Children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) are <b><u>not</u></b> required to present proof of vaccination. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller.*
 
@@ -80,7 +80,7 @@ Please refer to the acceptable vaccine regimes [here](/health/vtsg)
 
 MOH has assessed that the risk posed to unvaccinated children aged 12 and below is comparable to that of vaccinated adults.
 
-As such, unvaccinated children aged 12 and below aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009), will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
+As such, unvaccinated children aged 12 and below aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009), will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359 hours. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
 
 Unvaccinated travellers aged 13 and above are not allowed to travel under the VTL. However, unvaccinated:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
@@ -108,7 +108,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 #### 5. I am fully vaccinated, but my child(ren) aged 12 and below is/are not. Can my child(ren) and I travel together to Singapore under the VTL?
 
-Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359hrs. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
+Unvaccinated children aged 12 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2009) will be eligible to enter Singapore on the VTL with effect from 18 October 2021, 2359 hours. However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
 
 <div id="Q6"></div>
 
@@ -142,12 +142,12 @@ For (A), please see sample screenshots below:
 
 Travellers may present any of the following:
 
-**[For travellers entering Singapore before 18 October 2021, 2359hrs]** 
+**[For travellers entering Singapore before 18 October 2021, 2359 hours]** 
 - EU Digital COVID Certificates (EU DCC) issued in the [VTL country/region](/vtl/requirements-and-process#countries) of departure
 - Physical copy of vaccination certificate – International Certificate of Vaccination (Yellow Book) issued by the Ministry of Health of Brunei Darussalam 
 - Vaccination status on the BruHealth app
 
-**[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]**
+**[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]**
 - [EU Digital COVID Certificates (EU DCC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 - [National Health Service (NHS) COVID Passes](https://www.gov.uk/guidance/nhs-covid-pass) on the NHS mobile app
@@ -159,7 +159,7 @@ Digitally verified and authenticated proof of vaccination is a key safeguard of 
 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br> **[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]** the country/region of issuance must be any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from;
+- the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br> **[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]** the country/region of issuance must be any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from;
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
@@ -308,7 +308,7 @@ If your transit via a non-VTL country/region is within the past 14 days, you wil
 
 All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
 
-For example, if the visitor’s scheduled time of departure for Singapore is 15 September 2021, 1030hrs, the test must be taken no earlier than 13 September 2021, 1030hrs.
+For example, if the visitor’s scheduled time of departure for Singapore is 15 September 2021, 1030 hours, the test must be taken no earlier than 13 September 2021, 1030 hours.
 
 The pre-departure COVID-19 PCR test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result certificate must be in English and state the following:
 
@@ -335,7 +335,7 @@ Travellers, who are unable to produce a valid pre-departure COVID-19 PCR test re
 
 #### 1. What are the designated VTL flights?
 
-Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359hrs).
+Travellers must arrive in Singapore on a designated VTL flight in order to be eligible for the VTL. Travellers departing from VTL countries/regions may transit via any of the VTL countries/regions, subject to the transit country/region’s VTL being in effect (e.g. a VTL traveller departing from Canada may only transit in the Republic of Korea after 14 November 2021, 2359 hours).
 
 Please refer to the respective airlines’ websites below for details of the designated VTL flights, including when the first designated VTL flight will commence.
 
@@ -423,7 +423,7 @@ Please refer to the respective airlines’ websites below for details of the des
 
 Having a VTP does not guarantee travellers a ticket on a designated VTL flight to Singapore. Travellers are responsible for obtaining their own tickets. Similarly, having a ticket on a designated VTL flight to Singapore does not guarantee a VTP.
 
-#### 3. I have a VTP and I meet the all the requirements under the VTL. However, I did not manage to get a ticket on a designated VTL flight to Singapore. Will I still be allowed to enter Singapore?
+#### 3. I have a VTP and I meet all the requirements under the VTL. However, I did not manage to get a ticket on a designated VTL flight to Singapore. Will I still be allowed to enter Singapore?
 
 As required under the VTL <a href="/vtl/conditions">Conditions</a>, a VTP holder must arrive in Singapore on a designated VTL flight. Short-term visitors and long-term pass holders who did not arrive on a designated VTL flight to Singapore may be denied entry into Singapore.
 
@@ -433,7 +433,7 @@ Singapore Citizens and Permanent Residents may return home to Singapore regardle
 To be eligible to take a designated VTL flight, they are required to:
 
 <ul>
-	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
+	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> be <a href="/health/vtsg">fully vaccinated</a> in their VTL country/region of departure or Singapore. An individual is considered <a href="/health/vtsg">fully vaccinated</a> 14 days after he or she has received the full regimen of Pfizer-BioNTech/Comirnaty, Moderna or <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL Vaccines</a>. <br/><br/><i><b>[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]</b> Travellers must be <a href="/health/vtsg">fully vaccinated</a>, and have a vaccination certificate issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from.</i>
 		</li>
 	<li><i>[not applicable for children aged 12 and below in the calendar year]</i> have a valid proof of vaccination status, which can be in the form of:
 		<ul style="list-style-type:disc;">
@@ -448,7 +448,7 @@ To be eligible to take a designated VTL flight, they are required to:
 			</li>
 		</ul>
 		</li>
-		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
+		<li>have only been to their country/region of departure, and/or Singapore, in the last 14 consecutive days before departing for Singapore. <br/><br/> <b>[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]</b> Travellers to Singapore must have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a>, and/or Singapore, in the last 14 consecutive days before departing for Singapore.
 	</li>
 		<li style="margin-top:15px;"><i>[not applicable for children aged 2 and below in the calendar year]</i> undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore, at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and obtain a test result certificate in English stating the following:
 <ul>
@@ -472,7 +472,7 @@ Singapore Citizens and Permanent Residents may take either:
 
 Those arriving in Singapore on a designated VTL flight are not required to serve a Stay-Home Notice (SHN). Instead, they will undergo COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
-<i>[Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests.]</i>
+<i>[Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests.]</i>
 
 <u><b>(B) Non-Designated Flights</b></u>
 
@@ -499,7 +499,7 @@ When checking in at the departure airport, travellers must present the following
 	<li>digitally verifiable vaccination certificate(s) in English, stating the following:
 			<ul style="list-style-type:lower-roman;">
 				<li> the traveller's name, and atleast one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller's passport used for entry into Singapore;</li>
-				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;<br/><br/><b>[For travellers entering Singapore with effect from 18 October 2021, 2359hrs]</b> the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;
+				<li>the country/region of vaccination, which must be either Singaporeor the VTL country/region the traveller is departing from;<br/><br/><b>[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]</b> the country/region of issuance must be any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> they depart from;
 				</li>
 				<li>the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and</li>
 				<li>the date(s) of vacccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. </li>
@@ -669,17 +669,17 @@ Travellers must be transported directly to their declared place of accommodation
 ### (f) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5 color:red;"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5 color:red;"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(1) My Day 7 test is on or after 19 October 2021. Do I still need to go for my test?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes. If you enter Singapore prior to 18 October 2021, 2359hrs, you <b>must</b> attend both your Day 3 and Day 7 COVID-19 PCR tests.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(2) I applied to enter before 19 October 2021, but my VTP is valid till after 19 October 2021. Can I enter after 19 October 2021 instead? Will I be subject to Day 3 and Day 7 tests?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes, you may enter Singapore on any of the dates within the validity period of your VTP. All travellers entering Singapore with effect from 18 October 2021, 2359hrs will <b><u>not</u></b> be required to undergo post-arrival COVID-19 PCR tests.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes. If you enter Singapore prior to 18 October 2021, 2359 hours, you <b>must</b> attend both your Day 3 and Day 7 COVID-19 PCR tests.</p>
+	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(2) I applied to enter Singapore before 19 October 2021, but my VTP is valid till after 19 October 2021. Can I enter after 19 October 2021 instead? Will I be subject to Day 3 and Day 7 tests?</b></p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes, you may enter Singapore on any of the dates within the validity period of your VTP. All travellers entering Singapore with effect from 18 October 2021, 2359 hours, will <b><u>not</u></b> be required to undergo post-arrival COVID-19 PCR tests.</p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(3) My VTP is valid till before 19 October 2021, but I would like to change my travel plans to enter on or after 19 October 2021. How may I do so?</b></p>
 	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If your travel plans change and you need to enter after the validity period, please submit a new VTP application. The pre-payment for your Day 3 and Day 7 PCR tests under your unutilised VTP will be refunded automatically to your credit card, excluding administrative fees.</p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(4). Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Travellers submitting a VTP application before 12 October 2021, 0000hrs (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If you have made payment for your Day 3 and Day 7 tests , but enter Singapore with effect from 18 October 2021, 2359hrs (Singapore time), the payment for the Day 3 and Day 7 tests will be refunded by the designated chain of clinics to the credit card used to pay for the test.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Alternatively, if you submit a VTP application from 12 October 2021, 0000hrs (Singapore time) onwards, you will not have to make any payment at the point of application.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If you have made payment for your Day 3 and Day 7 tests , but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be refunded by the designated chain of clinics to the credit card used to pay for the test.</p>
+	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.</p>
 </div>
 
 #### 1. On which days do travellers need to go for a post-arrival PCR test?
@@ -938,7 +938,7 @@ A VTP allows vaccinated travellers who are short-term visitors (including busine
 
 The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
 
-With effect from **18 October 2021, 2359hrs (Singapore time)**, fully vaccinated short-term visitors and Long-Term Pass holders may seek entry into Singapore via the VTL. VTP applications will open on **12 October 2021, 1000hrs (Singapore time)**.
+With effect from **18 October 2021, 2359 hours (Singapore time)**, fully vaccinated short-term visitors and Long-Term Pass holders may seek entry into Singapore via the VTL. VTP applications will open on **12 October 2021, 1000 hours (Singapore time)**.
 - Canada
 - Denmark
 - France
@@ -948,15 +948,15 @@ With effect from **18 October 2021, 2359hrs (Singapore time)**, fully vaccinated
 - United Kingdom
 - United States
 
-With effect from <b>14 November 2021, 2359hrs (Singapore time)</b>, fully vaccinated short-term visitors and Long-Term Pass holders from the Republic of Korea may seek entry into Singapore via the VTL. VTP applications will open on 8 November 2021, 1000hrs (Singapore time).
+With effect from <b>14 November 2021, 2359 hours (Singapore time)</b>, fully vaccinated short-term visitors and Long-Term Pass holders from the Republic of Korea may seek entry into Singapore via the VTL. VTP applications will open on 8 November 2021, 1000 hours (Singapore time).
 
-Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval. Please click <a href="/sc-pr/vtl">here</a> for more information on the requirements.
+Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
 #### 2. How can travellers apply for a VTP?
 
 Short-term visitors and long-term pass holders departing from Brunei Darussalam and Germany may click [here](https://go.gov.sg/vtl-portal) to apply. 
 
-VTP applications for the following countries will open on **12 October 2021, 1000hrs (Singapore time)**:
+VTP applications for the following countries will open on **12 October 2021, 1000 hours (Singapore time)**:
 - Canada
 - Denmark
 - France
@@ -966,7 +966,7 @@ VTP applications for the following countries will open on **12 October 2021, 100
 - United Kingdom
 - United States
 
-VTP applications for the Republic of Korea will open on **8 November 2021, 1000hrs (Singapore time)**.
+VTP applications for the Republic of Korea will open on **8 November 2021, 1000 hours (Singapore time)**.
 
 Do note that applications for the VTP must be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
 
@@ -980,7 +980,7 @@ All travellers who successfully submit their application will be issued with a V
 
 No, there is no fee payable for the application of a VTP. However, travellers will have to make payment for their Day 3 and Day 7 post-arrival COVID-19 Polymerase Chain Reaction (PCR) tests at the point of application.
 
-[Note: Travellers entering Singapore with effect from 18 October 2021, 2359hrs will not be required to undergo post-arrival COVID-19 PCR tests, and will not have to make any payment at the point of application.] 
+[Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests, and will not have to make any payment at the point of application.] 
 
 
 #### 5. Do travellers travelling with family members need to apply a VTP for every individual?
@@ -1003,7 +1003,7 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
 
 #### 9. Do Singapore Citizens and Permanent Residents need to apply for an VTP?
 
-Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/sc-pr/vtl">here</a> for more information on the requirements.
+Singapore Citizens and Permanent Residents do <u>not</u> need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval provided they adhere to the VTL requirements. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
 #### 10. I have an In-Principle Approval (IPA) for a Long-Term Pass or a Long-Term Visit Pass (LTVP) issued by the Ministry of Manpower (MOM). How should I apply for the VTP?
 
@@ -1038,17 +1038,17 @@ You do not need to cancel your VTP. If you do not utilise your VTP within the va
 
 #### 16. Will the removal of the requirement to undergo Day 3 and Day 7 COVID-19 PCR tests apply to VTL travellers from Brunei Darussalam and Germany as well?
 
-Yes, all VTL travellers, including those from Brunei Darussalam and Germany, who are entering Singapore with effect from 18 October 2021, 2359hrs (Singapore time), will not be required to undergo post-arrival COVID-19 PCR tests.
+Yes, all VTL travellers, including those from Brunei Darussalam and Germany, who are entering Singapore with effect from 18 October 2021, 2359 hours (Singapore time), will not be required to undergo post-arrival COVID-19 PCR tests.
 
 If you have previously made payment for their Day 3 and Day 7 tests, you will automatically receive a refund from the designated chain of clinics through the credit card used to pay for the tests.
 
 #### 17. Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?
 
-Travellers submitting a VTP application before 12 October 2021, 0000hrs (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.
+Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.
 
-If you have made payment for your Day 3 and Day 7 tests, but enter Singapore with effect from 18 October 2021, 2359hrs (Singapore time), the payment for the Day 3 and Day 7 tests will be automatically refunded by the designated chain of clinics to the credit card used to pay for the test.
+If you have made payment for your Day 3 and Day 7 tests, but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be automatically refunded by the designated chain of clinics to the credit card used to pay for the test.
 
-Alternatively, if you submit a VTP application from 12 October 2021, 0000hrs (Singapore time) onwards, you will not have to make any payment at the point of application.
+Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.
 
 #### 18. Can travellers use the VTP to transit/transfer through Singapore?
 

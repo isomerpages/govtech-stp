@@ -9,7 +9,7 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 ### 1)	Requirements & Process checklists for specified lanes
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
-	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a>
+	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/vtl/travel-checklist">Vaccinated Travel Lane</a>
 	</li>
 	<li style="font-size:20px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/atp/requirements-and-process">Air Travel Pass</a>
 	</li>
