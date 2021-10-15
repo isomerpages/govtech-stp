@@ -148,3 +148,120 @@ Travellers can self-isolate at any of the following locations:
 - Non-residential accommodation, e.g. hotel or serviced apartment.
 
 Travellers may complete their self-isolation with vaccinated household members sharing the same travel history, arrival date and self-isolation requirements. Otherwise, they should self-isolate in an enclosed room with an en-suite toilet. Travellers who intend to self-isolate at a non-residential accommodation, e.g. hotel, may refer to this [non-exhaustive list](https://sha.org.sg/hotel-accommodation). Before a booking is made, travellers should confirm with the hotel that they are able to accommodate guests who are self-isolating whilst awaiting their on-arrival COVID-19 Polymerase Chain Reaction (PCR) test result.
+
+&#9744;  <i><b>G) Pre-Departure COVID-19 PCR Test</b></i>
+
+All travellers, <b>except</b> those aged two and below in this calendar year (i.e. if the child turns 2 this year, they are exempted even if their actual birthday this year has passed), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an [accredited or authorised testing facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure and ensure that the test report:
+- Is in English (or accompanied with an English translation);
+- Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and
+- Reflects the date and time the test was taken, the name of the testing institution, and a negative test result.
+
+&#9744;  <i><b>H) Submission of Health Declaration</b></i>
+
+Travellers should submit an [SG Arrival Card (SGAC)](https://eservices.ica.gov.sg/sgarrivalcard/) with their pre-trip health and travel history declaration, within 3 days before arriving in Singapore. 
+
+Travellers should **defer their travels** if they:
+- Have [COVID-19 symptoms](/health/covid19-symptoms);
+- Are diagnosed or suspected to have contracted COVID-19 in the last 14 days before departing for Singapore; or
+- Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.
+
+
+&#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
+
+All travellers, **except** those aged two and below in this calendar year (i.e. if the child turns 2 this year, they are exempted even if their actual birthday this year has passed), should register and pre-pay for their on-arrival COVID-19 PCR test [here](https://safetravel.changiairport.com/#/). Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+
+&#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
+
+All short-term VTL travellers **must** download the [TraceTogether](https://www.tracetogether.gov.sg/) mobile application on their mobile phone and register their profile for contact tracing. Only children aged 6 and below in this calendar year (i.e. those born in or after 2015) are exempted from this requirement.
+
+Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014 (inclusive)] and those who are unable to use a mobile device due to a certified disability or special need, are eligible to be issued physical TraceTogether tokens instead on arrival in Singapore.
+
+### Stage 2: Departure for Singapore
+
+When checking in at the departure airport, travellers must present to the airline staff:
+- Physical or electronic copy of the Vaccinated Travel Pass (VTP) for the specified period of entry;
+- Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result;
+- Valid visa (for visa-required visitors);
+- Mobile device with the TraceTogether app with an active user profile;  and
+- Acceptable proof of vaccination (details in Table 1).
+
+Singapore Citizens and Permanent Residents need only present (ii) and (v) above, while long-term pass holders need only present (i), (iii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
+
+### Stage 3: Arrival in Singapore
+
+&#9744;  <i><b>A) Immigration Clearance</b></i>
+
+Follow the instructions provided by the ground officers and signages on arrival. 
+
+As part of immigration clearance, travellers must present the same set of documentation listed in Stage 2A. Short-term visitors must also present a physical or electronic copy of their travel insurance policy. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA).
+
+Travellers in need of Singapore currency, mobile SIM cards or rented phones should make these purchases in the airport transit area before immigration clearance.
+
+&#9744;  <i><b>B) On-Arrival COVID-19 PCR Test</b></i>
+
+All travellers, **except** those aged two and below in this calendar year (i.e. if the child turns 2 this year, they are exempted even if their actual birthday this year has passed), must take an [on-arrival COVID-19 PCR test](/health/covid19-tests/pcrtest#price). Traveller who did not pay for the test before arrival will pay on the spot for the test.
+
+&#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
+
+Travellers must commute directly to their declared self-isolation accommodation immediately upon completion of their on-arrival COVID-19 PCR test. They may do so using private transport, taxi, or private hire cars. The use of public transport, e.g. trains or buses, is prohibited.
+
+<table>
+  <thead>
+    <tr>
+<th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">1</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">2</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">TransCab</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6213 0997</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">SMRT</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6477 5971</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">4</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Prime</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6776 7553</td>
+    </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">5</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Premier</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">6681 9462</td>
+    </tr>
+     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">via respective providers’ app</td>
+    </tr>
+  </tbody>
+  </table>
+
+### Stage 4: Self-Isolation
+
+&#9744;  <i><b>A) Self-Isolation</b></i>
+
+All travellers **must** self-isolate at their declared accommodation (per Stage 1F) until the receive a negative COVID-19 PCR test result (likely within 24 hours).
+
+&#9744;  <i><b>B) Release from Self-Isolation</b></i>
+
+Travellers can only leave their self-isolation accommodation **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via email or call in around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [TraceTogether](https://www.tracetogether.gov.sg/) or [HealthHub App](https://www.healthhub.sg/HealtheServices).
+
+Travellers who test positive for [COVID-19](/health/covid19-symptoms) are required to receive [medical treatment](/health/covidtreatment). The prevailing medical treatment charges will apply.
+
+### Stage 5: Stay in Singapore
+
+&#9744;  <i><b>A) COVID-19 Safe Management Measures and Proof of Vaccination</b></i>
+
+After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. Please visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for details on the prevailing measures.
+
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore. 
+
