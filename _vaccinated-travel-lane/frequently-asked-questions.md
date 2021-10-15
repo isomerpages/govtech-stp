@@ -168,6 +168,8 @@ The electronic or physical vaccination certificate(s) should be in English and c
 
 Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate the traveller’s vaccination status.
 
+At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will not be accepted.
+
 #### 10. Why must vaccination certificates issued in a VTL country/region be digitally verifiable?
 
 The requirement for digitally verified and authenticated proof of vaccination safeguards public health by minimising any potential instances of vaccination certificate forgery.
@@ -183,6 +185,8 @@ Please click the links below for more information on accepted digitally verifiab
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
+
+Please refer to [Question 13](#numberofcodes) to find out the correct number of QR codes you should upload as part of your application.
 
 #### 12. Why are only SMART Health Cards by issuers in the United States or Canada on the CommonTrust Network accepted?
 
@@ -209,18 +213,18 @@ You may refer to this table below:
 <tbody>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR codes</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR codes (one for each dose)*</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://smarthealth.cards/faq.html">Smart Health Cards (SHC)</a> by issuers in the United States and Canada on the CommonTrust Network (issuers listed <a href="https://www.commontrustnetwork.org/verifier-list">here</a> and <a href="https://www.commonhealth.org/smart-health-cards">here</a>) or Vaccination Credential Initiative (issuers listed <a href="https://vci.org/issuers">here</a>)
 </td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code<sup>#</sup></td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="https://www.gov.uk/guidance/nhs-covid-pass">National Health Service (NHS) COVID Pass</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR code (one for each dose)</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR code (one for each dose)*</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
 	<tr>
@@ -231,10 +235,11 @@ You may refer to this table below:
 </tbody>
 </table>
 
+<sup>*</sup>If you have a digitally verifiable vaccination certificate, but cannot obtain the required number of QR codes, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at 6812 5555. 
+
+<sup>#</sup>If you encounter an error upon uploading the QR code on your SMART Health Card despite it being from an issuer in the United States or Canada on the CommonTrust Network (issuers listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or Vaccination Credential Initiative (issuers listed <a href="https://vci.org/issuers" target="_blank">here</a>), please also write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at 6812 5555.
+
 At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that can be scanned to read and authenticate the traveller’s vaccination status) will not be accepted.
-
-If you have a digitally verifiable vaccination certificate, but cannot obtain the required number of QR codes, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555. 
-
 
 <div id="invalidcode"></div>
 
@@ -253,7 +258,7 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 #### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
-Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
+Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 ---
 
