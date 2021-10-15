@@ -204,6 +204,10 @@ permalink: /vtl/requirements-and-process
 </tr>
 </thead>
 <tbody>
+	<tr>
+<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller Checklist</b></td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">A step-by-step checklist for VTL travellers can be found <a href="">here</a>. </td>
+</tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>VTP Conditions</b></td>
 <td style="font-size:16px;border-right:1px solid #D8D8D8;">Applicable to all VTL travellers; Click <a href="vtl/conditions">here</a>. </td>
