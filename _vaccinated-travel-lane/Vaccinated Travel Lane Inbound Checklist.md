@@ -54,7 +54,7 @@ Singapore Citizens and Permanent Residents do not need to apply for a VTP but mu
 
 **From 18 October 2021, 2359hrs**, unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. if the child turns 12 this year, they are eligible even if their actual birthday this year has passed). They are not required to apply for a VTP. However, they must comply with all other [VTL conditions](/vtl/conditions), including being accompanied by a [fully vaccinated](/health/vtsg) VTL traveller.
 
-&#9744;  <i><b>C) [If required] Application for Entry Visas </b></i>
+&#9744;  <i><b>C) [If required] Application for Entry Visas for Short Term Visitors</b></i>
 
 Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens and Permanent Residents are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry visa or wish to apply for a visa should click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more details.
 
