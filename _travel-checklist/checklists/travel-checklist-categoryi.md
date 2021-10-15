@@ -98,7 +98,7 @@ The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibi
   </tbody>
   </table>	
 	
-To guarantee a smooth journey, click <a href="/health/faq#transport" target="_blank">here</a> for the relevant transport advisories.
+Click <a href="/health/faq#transport" target="_blank">here</a> for the relevant transport advisories.
 
 ### Stage 4: Self-isolation
 
