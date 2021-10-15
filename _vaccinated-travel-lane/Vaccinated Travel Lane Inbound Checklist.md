@@ -34,7 +34,7 @@ Travellers are be required to provide proof of vaccination during application, d
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a></li>
 	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC</a>) issued by:
 	<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-alpha ">
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">CommonTrust Network issuers in the United States and Canada (listed<a href="https://www.commontrustnetwork.org/verifier-list" target="_blank"> here</a> and <a href="https://www.commonhealth.org/smart-health-cards"target="_blank"> here</a>); or </li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">CommonTrust Network issuers in the United States and Canada (listed<a href="https://www.commontrustnetwork.org/verifier-list" target="_blank"> here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank"> here</a>); or </li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a> </li>
 		</ol>
 	</li>
