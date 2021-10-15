@@ -91,17 +91,14 @@ permalink: /vtl/requirements-and-process
 			</ol>
 		 </td>
  </tr>
-	
-	
-	
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel History &amp; Designated Flight Requirements</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore before 18 Oct 2021, 2359 hrs must:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore <span style="color:red;"><b>before</b></span> 18 Oct 2021, 2359 hrs <b>must</b>:
 			 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to their VTL country/region of departure, and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
 </ol>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore from 18 Oct 2021, 2359 hrs must:</p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <span style="color:red;"><b>from</b></span> 18 Oct 2021, 2359 hrs <b>must</b>:</p>
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
@@ -166,12 +163,12 @@ permalink: /vtl/requirements-and-process
 	 <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Requirements</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-		Travellers must:
+			Travellers <b>must</b>:
 		 <ol style="margin-top:0px; list-style-type: lower-roman;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) <b>within 48 hours before departure for Singapore</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, and test negative for COVID-19;</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) <b>within 48 hours before departure for Singapore</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>, <b><u>and</u></b> test negative for COVID-19;</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on arrival in Singapore;</li>
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result taken in Singapore is conveyed (typically within 24 hours); and</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><b>[For travellers entering Singapore before 18 October 2021, 2359hrs]</b> Undergo <a href="/vtl/faq#arrival">post-arrival COVID-19 PCR tests at a designated clinic</a> by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore.</i></li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><b>[For travellers entering Singapore <span style="color:red;">before</span> 18 October 2021, 2359hrs]</b></i> Undergo <a href="/vtl/faq#arrival">post-arrival COVID-19 PCR tests at a designated clinic</a> by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore.</li>
 </ol>
 		 </td>
  </tr>
