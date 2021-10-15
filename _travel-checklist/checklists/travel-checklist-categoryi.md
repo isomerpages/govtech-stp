@@ -2,11 +2,11 @@
 title: Travel Checklist - Category(I)
 permalink: /travel-checklist/category-1
 ---
-<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be turned away from Singapore. </i>
+<i>Readers who have arrived on this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be turned away from Singapore. </i>
 
 ### Travel Checklist – Category (I) Travel History
 
-This checklist is suitable **only** for travellers with travel and transit history to any Category (I) country/region in the past 14 days before arrival in Singapore. Return to [this menu](/shn-and-swab-summary) if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
+This checklist is suitable **only** for travellers with travel and transit history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 days before arrival in Singapore. Return to this menu if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -14,11 +14,11 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 &#9744;  <i><b>A) Application for Entry Approval</b></i>
 
-All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the [“Travelling to Singapore”](/arriving/overview) page.
+All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the<a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.
 
 &#9744;  <i><b>B) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -32,10 +32,10 @@ Travellers who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/">register and pay here</a>)</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton">register and pay here</a>)</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a>)</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">register and pay here</a>)</li>
 			</ol></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
 ### Stage 2: Departure for Singapore
@@ -48,11 +48,11 @@ As part of the airline or transport operator’s pre-boarding checks, travellers
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
-You must present yourself for immigration clearance at a point of entry into Singapore. You must satisfy the basic entry requirements before you can be considered for entry. The period of stay granted wil be shown on the visit pass endorsement given on your passport. Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. Click <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">here</a> for more information about the e-Pass.
+You must present yourself for immigration clearance at a point of entry into Singapore. You must satisfy the basic entry requirements before you can be considered for entry. The period of stay granted wil be shown on the visit pass endorsement given on your passport. Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. Click <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">here</a> for more information about the e-Pass.
 
 &#9744;  <i><b>B) COVID-19 Tests</b></i>
 
-Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Take an on-arrival <a href="/health/covid19-tests/pcrtest#price" target="_blank">COVID-19 Polymerase Chain Reaction test</a>. If you did not <a href="/health/covid19-tests/pcrtest#price" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
@@ -98,7 +98,7 @@ The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibi
   </tbody>
   </table>	
 	
-To guarantee a smooth journey, click [here](/health/faq#transport) for the relevant transport advisories.
+To guarantee a smooth journey, click <a href="/health/faq#transport" target="_blank">here</a> for the relevant transport advisories.
 
 ### Stage 4: Self-isolation
 
@@ -108,15 +108,15 @@ Travellers may self-isolate in the following accommodations:
 - Place of residence; or 
 - Hotel of choice.
 
-Travellers without a suitable place of residence may [self-isolate](https://sha.org.sg/air-travel-pass) at a hotel found in this [non-exhaustive list](https://sha.org.sg/hotel-accommodation). Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving their accommodations.
+Travellers without a suitable place of residence may <a href="https://sha.org.sg/air-travel-pass" target="_blank">self-isolate</a> at a hotel found in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving their accommodations.
 
 ### Stage 5: End of Self-isolation period
 
 &#9744;  <i><b>A) Release from self-isolation</b></i>
 
-Travellers may only leave their accommodation only **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices). 
+Travellers may only leave their accommodation only **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via a call, email, or SMS. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
-Travellers who test positive for COVID-19 will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
 
