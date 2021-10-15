@@ -193,7 +193,7 @@ permalink: /vtl/requirements-and-process
 </thead>
 <tbody><tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Singapore Citizens (SC) / Permanent Residents (PR)</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All SC/PRs <b>do not need to apply for a VTP</b> to travel under the VTL. <br><br> <b>However, travellers must comply with the requirements stated in <a href="/vtl/travel-checkfirst" target="_blank">this travel checklist</a></b>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">All SC/PRs <b>do not need to apply for a VTP</b> to travel under the VTL. <br><br> <b>However, travellers must comply with the requirements stated in <a href="/vtl/travel-checklist" target="_blank">this travel checklist</a></b>. Failing which, the prevailing health control measures will apply, which may include serving a Stay-Home Notice.</td>
 </tr>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Foreign visitors (e.g. Short-Term Visitors / Long-Term Pass Holders)</b></td>
