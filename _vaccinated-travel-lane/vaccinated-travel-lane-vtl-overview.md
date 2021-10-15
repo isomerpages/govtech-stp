@@ -75,6 +75,25 @@ permalink: /vtl/requirements-and-process
 </table>		 
 		 </td>
  </tr>
+	 <tr>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Accepted Proof of Vaccination</b></td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">EU Digital COVID Certificates (EU DCC)</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SMART Health Cards (SHC) issued by:
+			<ol style="margin-top:0px; list-style-type: lower-latin;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed here and here);</li>
+								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination Credential Initiative issuers</li>
+							</ol>
+			</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">National Health Service (NHS) COVID Passes found on the NHS mobile app</li>
+									<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">BruHealth mobile app</li>
+												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued by Notarise</li>
+			</ol>
+		 </td>
+ </tr>
+	
+	
+	
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel History &amp; Designated Flight Requirements</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore before 18 Oct 2021, 2359 hrs must:
