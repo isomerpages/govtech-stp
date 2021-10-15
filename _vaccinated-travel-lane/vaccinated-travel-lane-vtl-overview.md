@@ -222,7 +222,7 @@ permalink: /vtl/requirements-and-process
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/health/vtsg" target="_blank">Definition of fully vaccinated</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#THReq" target="_blank">Travel History</a></li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#PDT" target="_blank">Pre-Departure Test</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#Flight" target="_blank">Designated VTL Flightst</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#Flight" target="_blank">Designated VTL Flights</a></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><a href="/vtl/faq#OAT" target="_blank">On-Arrival Test &amp; Self-Isolation</a></li>
 </ul>
  </td>
