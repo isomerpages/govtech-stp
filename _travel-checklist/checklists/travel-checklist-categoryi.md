@@ -16,11 +16,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the [“Travelling to Singapore”](/arriving/overview) page.
 
-&#9744;  <i><b>B) Application for Entry Visas</b></i>
-
-Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
-
-&#9744;  <i><b>C) Submission of Health Declaration</b></i>
+&#9744;  <i><b>B) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
 
@@ -30,7 +26,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>C) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
 Travellers who are fit for travel should:
 
@@ -41,7 +37,6 @@ Travellers who are fit for travel should:
 			</ol></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
-
 
 ### Stage 2: Departure for Singapore
 
