@@ -263,5 +263,20 @@ Travellers who test positive for [COVID-19](/health/covid19-symptoms) are requir
 
 After self-isolation, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether app](https://www.tracetogether.gov.sg/), which allows the identification of close contacts of a positive COVID-19 case. Please visit the Ministry of Health [website](https://moh.gov.sg/covid-19-phase-advisory) for details on the prevailing measures.
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore. 
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore.
 
+&#9744;  <i><b>B) [Only for travellers entering Singapore before 18 October 2021, 2359hrs] Post-Arrival COVID-19 PCR Tests </b></i>
+
+Travellers are required to undergo COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of tests and the designated clinics will be emailed to travellers upon their arrival in Singapore.
+
+Travellers who are departing Singapore:
+- Before 1500 hours on the day of the scheduled test, are exempted from taking the required test. Refunds for untilised PCR test(s), excluding administrative fees, will be made to the credit card used to pay for the tests by the designated chain of clinics.
+- On or after 1500 hours on the day of the scheduled test, are still required to take their PCR test. However, they do not need to wait for the test results to leave Singapore.
+
+The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
+
+### Stage 6: Departure from Singapore
+
+&#9744;  <i><b>[Only if applicable] Return of TraceTogether Tokens </b></i>
+
+Short term visitors issued with a physical TraceTogether token when arriving in Singapore must return the tokens in-person at a designated TraceTogether token return booth at the checkpoint.
