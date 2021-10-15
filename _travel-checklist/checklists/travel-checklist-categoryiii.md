@@ -18,11 +18,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the [“Travelling to Singapore”](/arriving/overview) page.
 
-&#9744;  <i><b>B) Application for Entry Visas</b></i>
-
-Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
-
-&#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
+&#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Below the age of three in this calendar year; or
@@ -36,7 +32,7 @@ Travellers are required to take their PDT at an [accredited or authorised testin
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office [here](/contact-us).
 
-&#9744;  <i><b>D) Submission of Health Declaration</b></i>
+&#9744;  <i><b>C) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) (SGAC) with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
 
@@ -46,7 +42,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
 Travellers who are fit for travel should:
 
@@ -60,7 +56,7 @@ Travellers who are fit for travel should:
 
 <div id="1F"></div>
 
-&#9744;  <i><b>F) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
+&#9744;  <i><b>E) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
 
 Travellers will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Dedicated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
 
