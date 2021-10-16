@@ -168,11 +168,12 @@ The electronic or physical vaccination certificate(s) should be in English and c
 
 Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
 
-At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will not be accepted.
+At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will <b>not</b> be accepted.
+
 
 #### 10. Why must vaccination certificates issued in a VTL country/region be digitally verifiable?
 
-The requirement for digitally verified and authenticated proof of vaccination safeguards public health by minimising any potential instances of vaccination certificate forgery.
+The requirement for a digitally verified and authenticated proof of vaccination safeguards public health by minimising any potential instances of vaccination certificate forgery.
 
 
 <div id="QRcode"></div>
