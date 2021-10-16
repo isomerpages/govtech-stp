@@ -181,9 +181,10 @@ The requirement for a digitally verified and authenticated proof of vaccination 
 #### 11. What does a QR code on a digitally verifiable vaccination certificate look like?
 
 Please click the links below for more information on accepted digitally verifiable vaccination certificates:
-- [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries) 
-- [National Health Service COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
-- [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
+- [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) (EU DCC) issued by any [VTL country/region](/vtl/requirements-and-process#countries) 
+- [National Health Service (NHS) COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
+- [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in any VTL country/region on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
+- Singapore Vaccination HealthCerts issued via the [Notarise](https://www.notarise.gov.sg/) portal
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
