@@ -262,7 +262,7 @@ Vaccination QR code(s) may be invalid for reasons such as:
 - The QR code has been tampered with
 - Traveller is not vaccinated in a [VTL country/region](/vtl/requirements-and-process#countries)
 
-For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at 6812 5555.
+For further assistance, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 #### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
