@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us
 ---
 
-<span style="color:red;"><b>Application service will not be available till 17 October 2021, 9am (Singapore Time) due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
+<span style="color:red;"><b>NOTE: Application service will not be available till 17 October 2021, 9am (Singapore Time) due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
 
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
