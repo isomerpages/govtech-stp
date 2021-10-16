@@ -254,7 +254,8 @@ At this point in time, non-digitally verifiable vaccination certificates (i.e. t
 
 Vaccination QR code(s) may be invalid for reasons such as:
 
-- Traveller’s particulars do not match with the particulars in the vaccination certificate
+- QR code is not in an acceptable format and by specific issuers
+- Traveller’s particulars do not match with the particulars in the vaccination certificate (if you have an NHS COVID Pass, please see [Question 13](#numberofcodes) for more details)
 - Traveller is not [fully vaccinated](/health/vtsg) yet
 - [Days interval between doses](#doses) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
