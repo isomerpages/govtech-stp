@@ -243,8 +243,8 @@ You may refer to this table below:
 
 <sup>^</sup>If the full name on your NHS COVID Pass vaccination certificate does not match the full name on your travel document, and you were issued an NHS COVID Pass in:
 
-- England - you may need to get your certificate re-issued to reflect the full name on your travel document, as mentioned on the NHS website [here](https://www.gov.uk/guidance/nhs-covid-pass);
-- Other countries within the United Kingdom - please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
+- England - you may need to get your certificate re-issued to reflect the full name on your travel document, as mentioned on the NHS website <a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">here</a>;
+- Other countries within the United Kingdom - please write to the Safe Travel Office using the enquiry form  <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
 At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that can be scanned to read and authenticate the traveller’s vaccination status) will not be accepted.
 
