@@ -166,7 +166,7 @@ The electronic or physical vaccination certificate(s) should be in English and c
 
 #### 9. What is a digitally verifiable vaccination certificate?
 
-Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate the traveller’s vaccination status.
+Digitally verifiable vaccination certificates are tamper-proof and can be digitally authenticated. They should contain QR code(s) that can be scanned to read and authenticate that the QR code was issued by a trusted issuer and that the QR code belongs to the individual presenting it.
 
 At this point in time, non-digitally verifiable vaccination certificates (i.e. those that do not contain a QR code that we can scan to read and authenticate the traveller’s vaccination status) will not be accepted.
 
