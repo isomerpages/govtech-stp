@@ -3,6 +3,9 @@ title: Contact Us
 permalink: /contact-us
 ---
 
+<span style="color:red;"><b>Application service will not be available till 17 October 2021, 9am (Singapore Time) due to scheduled maintenance. We apologise for any inconvenience caused.</b></span>
+
+
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; background-color: #DCDCDC; border-style: solid; border-width: 1px;">
 	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTICE </b><br/> Public Advisory On Scam Calls From ICA</p>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.2;">ICA is aware that members of the public have received calls from the number “+65 6812 5555” that is similar to our SafeTravel Enquiries Helpline. The callers claimed to be officers from government agencies. They accused the recipients of either spreading fake news related to COVID-19 or breaking COVID-19 rules, further saying that a report would be made against them or they had to pay a penalty.</p>
