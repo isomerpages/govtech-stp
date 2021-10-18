@@ -183,6 +183,8 @@ Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014
 
 ### Stage 2: Departure for Singapore
 
+<div id="documents"></div>
+
 &#9744;  <i><b>A) Pre-boarding document checks</b></i>
 
 When checking in at the departure airport, travellers must present to the airline staff:
@@ -203,7 +205,7 @@ Singapore Citizens and Permanent Residents need only present (ii) and (v) above.
 
 Follow the instructions provided by the ground officers and signages on arrival. 
 
-As part of immigration clearance, travellers must present the same set of documentation listed in Stage 2A. Short-term visitors must also present a physical or electronic copy of their travel insurance policy. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA).
+As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#documents">Stage 2A</a>. Short-term visitors must also present a physical or electronic copy of their travel insurance policy. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA).
 
 Travellers in need of Singapore currency, mobile SIM cards or rented phones should make these purchases in the airport transit area before immigration clearance.
 
