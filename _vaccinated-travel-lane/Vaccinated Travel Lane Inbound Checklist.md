@@ -17,6 +17,8 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 ### Stage 1: Pre-Departure for Singapore
 
+<div id="proof"></div>
+
 &#9744;  <i><b>A) Obtain an acceptable proof of vaccination </b></i>
 
 Travellers are be required to provide proof of vaccination during application, departure checks and immigration clearance. You must obtain any of the following acceptable proof of vaccination. Eligibility for each vaccination proof will vary depending on where you took your vaccination and your location:
@@ -44,6 +46,7 @@ Travellers are be required to provide proof of vaccination during application, d
 	</ol>
 </p>
 </div>
+
 Frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (VTP) </b></i>
@@ -187,10 +190,10 @@ When checking in at the departure airport, travellers must present to the airlin
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Valid pre-departure COVID-19 PCR test showing a negative COVID-19 result; </li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Valid visa (for visa-required visitors);</li>
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Mobile device with the TraceTogether app with an active user profile;  and</li>
-				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (details in Table 1).</li>
+				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
 </ol>
 
-Singapore Citizens and Permanent Residents need only present (ii) and (v) above, while long-term pass holders need only present (i), (iii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
+Singapore Citizens and Permanent Residents need only present (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
