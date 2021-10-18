@@ -2,7 +2,6 @@
 title: Travel Health Control Measures (Category I/II/III/IV)
 permalink: /shn-and-swab-summary
 ---
-
 <i>[<span style="color:red;">!!</span> Readers who have arrived at this page directly from a search engine or are new to the entry-requirements imposed by Singapore during the pandemic, should start from the <a href="/arriving/overview">“Travelling to Singapore”</a> page. Travellers who do not meet the entry requirements may be disallowed entry to Singapore.]</i>
 
 ### Overview
@@ -50,13 +49,13 @@ On this page you will find the following:
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions by Travel Health Control Categories</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions by Travel Health Control Categories</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<b>Category (I)</b><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<b>Category (I)</b><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
@@ -74,7 +73,7 @@ A step-by-step traveller’s checklist for Cat(I) travel history is available <a
 </td> 
 	</tr>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (II)</b><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (II)</b><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
@@ -137,7 +136,7 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction test (“COVID-19 PCR test”)  upon arrival</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serve 7-day SHN at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Residence;</li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Place of residence (if sharing a place of residence with others, stay in your own room at all times and use a dedicated toilet); </li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
@@ -149,7 +148,7 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 </td>
 </tr>
 		<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (III)</b><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (III)</b><br>
 	<ul style="margin-top:0px; list-style-type: disc;">
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Estonia</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Latvia</b></li>
@@ -184,7 +183,7 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 			<!--<b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN.-->
 		</li>
 	</ol><br><br>
-	<span style="color:red;"><b>Note for <a target="_blank" href="/health/vtsg">fully vaccinated</a> travellers:</b></span><br><br>
+	<span style="color:red;"><b>Note for <a href="/health/vtsg" target="_blank">fully vaccinated</a> travellers:</b></span><br><br>
 	<!--<b>[For arrivals before 22 Oct 2021]</b>--> Fully vaccinated travellers may apply to serve their 10-day SHN at a suitable accommodation of their choice (place of residence, hotels or serviced apartments), instead of serving their SHN at a SHN Dedicated Facility. Travellers approved to serve their SHN at their accommodation of choice will take a COVID-19 PCR test on Day 10 of SHN; an ART is not required. See <a href="/travel-checklist/category-3#1F">Stage 1F</a> of the Category III Traveller's Checklist for application details and conditions. <br><br>
 	<!--<b>[For arrivals from 22 Oct 2021]</b><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore, and on Day 10 of SHN. -->
 	</li>
@@ -192,7 +191,7 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 </td>
 </tr>	
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>	
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>	
 <br><br>
 A step-by-step traveller’s checklist for Cat(IV) travel history is available <a href="/travel-checklist/category-4">HERE</a>.
 </td>
@@ -259,7 +258,7 @@ All other travellers disallowed entry, including travellers who have received pr
 </table>
 
 
-<div id="before"></div>	   
+<div></div>	   
 
 ### Categories of Travel Health Control Measures (for arrivals before 12 Oct 2021, 2359H)  
 	
@@ -269,13 +268,13 @@ All other travellers disallowed entry, including travellers who have received pr
 <table>
 <thead>
 <tr>
-<th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;"><b>Countries/Regions by Travel Health Control Categories</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Countries/Regions by Travel Health Control Categories</b></th>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white;"><b>Travel Health Control Measures</b></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;">	<b>Category (I)</b><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2">	<b>Category (I)</b><br>
 <ul style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Hong Kong</b></li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>Macao</b></li>
@@ -293,7 +292,7 @@ A step-by-step traveller’s checklist for Cat(I) travel history is available <a
 </td> 
 	</tr>
 <tr>
-<td colspan="2" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (II)</b><br>
+<td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (II)</b><br>
 <ul style="margin-top:0px; list-style-type: disc;">
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Australia</b></li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Brunei Darussalam</b></li>
@@ -348,7 +347,7 @@ A step-by-step traveller’s checklist for Cat(II) travel history is available <
 </td>
 </tr>
 		<tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (III)</b><br>
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (III)</b><br>
 	<ul style="margin-top:0px; list-style-type: disc;">
 		  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Austria</b></li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>Bahrain</b></li>
@@ -399,7 +398,7 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 			<!--<b>[For arrivals before 22 Oct 2021]</b> Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN <br/><br/><b>OR</b><br/><br/> <b>[For arrivals from 22 Oct 2021]</b> Self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Day 10 of SHN.-->
 		</li>
 	</ol><br><br>
-	<span style="color:red;"><b>Note for <a target="_blank" href="/health/vtsg">fully vaccinated</a> travellers:</b></span><br><br>
+	<span style="color:red;"><b>Note for <a href="/health/vtsg" target="_blank">fully vaccinated</a> travellers:</b></span><br><br>
 	<!--<b>[For arrivals before 22 Oct 2021]</b>--> Fully vaccinated travellers may apply to serve their 10-day SHN at a suitable accommodation of their choice (place of residence, hotels or serviced apartments), instead of serving their SHN at a SHN Dedicated Facility. Travellers approved to serve their SHN at their accommodation of choice will take a COVID-19 PCR test on Day 10 of SHN; an ART is not required. See <a href="/travel-checklist/category-3#1F">Stage 1F</a> of the Category III Traveller's Checklist for application details and conditions. <br><br>
 	<!--<b>[For arrivals from 22 Oct 2021]</b><sup><span style="color:red;">[Note 1]</span></sup> Serve 10-day SHN at a suitable accommodation of their choice such as place of residence, hotels and serviced apartments and self-administer an <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore, and on Day 10 of SHN. -->
 	</li>
@@ -407,7 +406,7 @@ A step-by-step traveller’s checklist for Cat(III) travel history is available 
 </td>
 </tr>	
 <tr>
-<td colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>	
+<td style="font-size:16px;border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:3px solid #D8D8D8; background-color:#EDEDED; border-left:1px solid #D8D8D8;" colspan="2"><b>Category (IV)</b><br><br><b>All other countries/regions <span style="color:red">(see notes for additional requirements/exceptions)</span></b>	
 <br><br>
 A step-by-step traveller’s checklist for Cat(IV) travel history is available <a href="/travel-checklist/category-4">HERE</a>.
 </td>
@@ -472,4 +471,3 @@ All other travellers disallowed entry, including travellers who have received pr
 	</tr>
 </tbody>
 </table>
-
