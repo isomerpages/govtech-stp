@@ -183,6 +183,8 @@ Travellers aged 7 to 12 in this calendar year [i.e. those born from 2009 to 2014
 
 ### Stage 2: Departure for Singapore
 
+&#9744;  <i><b>A) Pre-boarding document checks</b></i>
+
 When checking in at the departure airport, travellers must present to the airline staff:
 
 <ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-roman; ">
