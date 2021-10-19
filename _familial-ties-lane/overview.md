@@ -28,7 +28,7 @@ The table below is a quick overview of the key FTL features and requirements.
 			 </li>
 			  <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Adopted child of an SC/PR, holding an IPA-Dependent Pass issued by the Ministry of Social and Family Development</li>
 			 </ol>
-			 <p style="font-size:16px; margin-top:10px; margin-bottom:10px; line-height:1.5;">From 1 Nov 2021, pirority will be given to vaccinated travellers applying for entry via the FTL. Unvaccinated travellers may still apply for entry via the FTL but would be accorded lower priority.</p>
+			 <p style="font-size:16px; margin-top:10px; margin-bottom:10px; line-height:1.5;">From 1 Nov 2021, priority will be given to vaccinated travellers applying for entry via the FTL. Unvaccinated travellers may still apply for entry via the FTL but would be accorded lower priority.</p>
 			 </td>
 	</tr>
    <tr>
