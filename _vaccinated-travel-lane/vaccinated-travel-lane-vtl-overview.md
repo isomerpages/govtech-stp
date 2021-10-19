@@ -22,7 +22,9 @@ permalink: /vtl/requirements-and-process
  </tr>
    <tr>
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: disc;">
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
+Brunei Darussalam, Canada, Denmark, Germany, France, Italy, Netherlands, Spain, United Kingdom and the United States<br/><br/><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea
+			<!--<ol style="margin-top:0px; list-style-type: disc;">
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Brunei Darussalam</li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Canada</li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Denmark</li>
@@ -34,7 +36,7 @@ permalink: /vtl/requirements-and-process
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United Kingdom</li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United States</li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</li>
-			</ol>
+			</ol>-->
 <!--		 <table>
 <thead>
 <tr>
