@@ -151,7 +151,7 @@ Digitally verified and authenticated proof of vaccination is a key safeguard of 
 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
-- the country/region of vaccination, which must be either Singapore or the VTL country/region the traveller is departing from;<br> **[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]** the country/region of issuance must be any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from;
+- the country/region of issuance must be any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from;
 - the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
 - the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
