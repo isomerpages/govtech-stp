@@ -22,8 +22,20 @@ permalink: /vtl/requirements-and-process
  </tr>
    <tr>
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-		 <table>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: disc;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Brunei Darussalam</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Canada</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Denmark</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Germany</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">France</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Italy</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Netherlands</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Spain</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">United Kingdom</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">United States</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[From 14 November 2021, 2359hrs]</b> Republic of Korea</li>
+			</ol>
+<!--		 <table>
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
@@ -68,7 +80,7 @@ permalink: /vtl/requirements-and-process
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;" rowspan="8"><b>14 November 2021, 2359hrs </b></td>
 </tr>
 </tbody>
-</table>		 
+</table>		 -->
 		 </td>
  </tr>
 	 <tr>
