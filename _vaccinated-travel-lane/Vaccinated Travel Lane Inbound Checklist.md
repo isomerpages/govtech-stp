@@ -41,7 +41,7 @@ Travellers are be required to provide proof of vaccination during application, d
 		</ol>
 	</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359 hours</i>)</li>
+<!--	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359 hours</i>)</li>-->
 			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Singapore Vaccination HealthCerts issued by <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a></li>
 	</ol>
 </p>
@@ -55,7 +55,7 @@ All short-term visitors and long-term pass holders must apply for a VTP. Applica
 
 Singapore Citizens and Permanent Residents do not need to apply for a VTP but must adhere to the <a href="/vtl/conditions" target="_blank"> conditions</a>, which are also laid out in this checklist.
 
-**From 18 October 2021, 2359 hours**, unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. a child who turns 12 in this calendar year will be exempted even if their actual birthday this year has passed). They are not required to apply for a VTP. However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
+Unvaccinated children aged 12 and below in this calendar year will be eligible to enter Singapore on the VTL (e.g. a child who turns 12 in this calendar year will be exempted). They are not required to apply for a VTP. However, they must comply with all other <a href="/vtl/conditions" target="_blank">VTL conditions</a>, including being accompanied by a <a href="/health/vtsg" target="_blank">fully vaccinated</a> VTL traveller.
 
 &#9744;  <i><b>C) [If required] Application for Entry Visas for Short Term Visitors</b></i>
 
@@ -66,13 +66,7 @@ Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens
 To qualify for the VTL quarantine-free travel health protocols, VTL travellers must arrive in Singapore on a designated VTL flight. The latest list of airlines operating designated VTL flights can be found below. 
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5">
-			Travellers entering Singapore <b>before</b> 18 Oct 2021, 2359 hours must:</p>
-			 <ol style="margin-top:0px; list-style-type: lower-roman;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to their VTL country/region of departure, and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
-</ol>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <b>from</b> 18 Oct 2021, 2359 hours must:</p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers  <b>must</b>:</p>
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
@@ -134,7 +128,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </table>
 </div>
 
-**From 18 October 2021, 2359 hours**, travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
+Travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
 
 If transits are made via a non-VTL country/region:
 - Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols. 
@@ -156,7 +150,7 @@ Travellers may complete their self-isolation with vaccinated household members s
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 PCR Test</b></i>
 
-All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted even if their actual birthday this year has passed), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
+All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and
 - Reflects the date and time the test was taken, the name of the testing institution, and a negative test result.
@@ -173,7 +167,7 @@ Travellers should **defer their travels** if they:
 
 &#9744;  <i><b>I) Registration and Pre-payment for On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted even if their actual birthday this year has passed), should <a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
+All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), should <a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pre-pay for their on-arrival COVID-19 PCR test here</a>. Failing which, travellers will pay for the test on the spot during arrival, and should expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>J) [Short term visitors only] Contact Tracing App/Token</b></i>
 
@@ -211,7 +205,7 @@ Travellers in need of Singapore currency, mobile SIM cards or rented phones shou
 
 &#9744;  <i><b>B) On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted even if their actual birthday this year has passed), must take an <a href="/health/covid19-tests/pcrtest#price" target="_blank">on-arrival COVID-19 PCR test</a>. Traveller who did not pay for the test before arrival will pay on the spot for the test.
+All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take an <a href="/health/covid19-tests/pcrtest#price" target="_blank">on-arrival COVID-19 PCR test</a>. Traveller who did not pay for the test before arrival will pay on the spot for the test.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 

@@ -16,18 +16,28 @@ permalink: /vtl/requirements-and-process
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Vaccination Requirements</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_blank">click here for definition</a>) for at least two weeks before arrival in Singapore, but note that those arriving in Singapore:
-		 <ol style="margin-top:0px; list-style-type: disc;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b style="color:red;">Before</b> 18 October 2021, 2359hrs, <b>must</b> be fully vaccinated in their VTL country/region of departure or Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b style="color:red;">From</b> 18 October 2021, 2359hrs, <b>must</b> <u>have a valid proof of vaccination issued in any VTL country/region or Singapore</u></li>
-</ol>
-			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>From 18 October 2021, 2359 hrs</b>, unvaccinated children aged 12 and below in this calendar year can travel to Singapore via the VTL <b>if</b> accompanied by a fully vaccinated VTL traveller. </p>
+All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_blank">click here for definition</a>) for at least two weeks before arrival in Singapore, and <b>must</b> have a valid proof of vaccination issued in any VTL country/region or Singapore.
+			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Unvaccinated children aged 12 and below in this calendar year can travel to Singapore via the VTL <b>if</b> accompanied by a fully vaccinated VTL traveller. </p>
 		 </td>
  </tr>
    <tr>
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-		 <table>
+Brunei Darussalam, Canada, Denmark, Germany, France, Italy, Netherlands, Spain, United Kingdom and the United States<br/><br/><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea
+			<!--<ol style="margin-top:0px; list-style-type: disc;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Brunei Darussalam</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Canada</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Denmark</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Germany</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">France</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Italy</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Netherlands</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Spain</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United Kingdom</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United States</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</li>
+			</ol>-->
+<!--		 <table>
 <thead>
 <tr>
 <th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
@@ -72,7 +82,7 @@ permalink: /vtl/requirements-and-process
 		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center; color:red;" rowspan="8"><b>14 November 2021, 2359hrs </b></td>
 </tr>
 </tbody>
-</table>		 
+</table>		 -->
 		 </td>
  </tr>
 	 <tr>
@@ -87,19 +97,13 @@ permalink: /vtl/requirements-and-process
 			</li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 									<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth mobile app</a></li>
-												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359hrs</i>)</li>
 												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Singapore Vaccination HealthCerts issued by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
 			</ol>
 		 </td>
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel History &amp; Designated Flight Requirements</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore <span style="color:red;"><b>before</b></span> 18 Oct 2021, 2359 hrs <b>must</b>:
-			 <ol style="margin-top:0px; list-style-type: lower-roman;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to their VTL country/region of departure, and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
-</ol>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <span style="color:red;"><b>from</b></span> 18 Oct 2021, 2359 hrs <b>must</b>:</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore <b>must</b>:
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>

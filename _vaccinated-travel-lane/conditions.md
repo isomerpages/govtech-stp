@@ -75,7 +75,7 @@ Please click on the following links to view the conditions applicable to you, co
 
 <ol style="font-size:20px;">
 	<li style="font-size:20px; list-style-type:decimal;"> A Vaccinated Travel Pass (VTP) is valid for a single entry into Singapore. Such entry must be during the approved period stated in the VTP approval.</li>
-  <li style="font-size:20px; list-style-type:decimal;"> A VTL Traveller holder must comply with the following conditions:
+  <li style="font-size:20px; list-style-type:decimal;"> A VTL Traveller must comply with the following conditions:
      <ol style="font-size:18px; list-style-type:lower-alpha;">
 	      <li style="font-size:18px; list-style-type:lower-alpha;">be <a href="/health/vtsg">fully vaccinated</a>, and have a valid proof of vaccination issued in any <a href="/vtl/requirements-and-process#countries">VTL country/region</a> or Singapore, regardless of which <a href="/vtl/requirements-and-process#countries">VTL country/region</a> he/she departs from;</li>	      
 	     <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more of the <a href="/vtl/requirements-and-process#countries">VTL countries/regions</a> and/or Singapore, for the last 14 consecutive days<sup>1</sup> before departing for Singapore;</li>			 
