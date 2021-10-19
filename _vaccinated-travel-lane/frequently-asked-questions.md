@@ -268,7 +268,6 @@ Please write to the Safe Travel Office using the enquiry form [here](https://go.
 
 ### (b) Travel History Requirement
 
-<p style="font-size:20px; color:red;line-height:1.5;"><i>Note: The following is applicable to VTL travellers entering Singapore with effect from 18 October 2021, 2359hrs.</i></p>
 
 #### 1. How is the 14-day travel history determined?
 
