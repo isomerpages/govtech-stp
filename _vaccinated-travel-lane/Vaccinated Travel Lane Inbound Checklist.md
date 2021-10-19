@@ -66,13 +66,7 @@ Valid entry-visa holders, visa-exempted travellers as well as Singapore Citizens
 To qualify for the VTL quarantine-free travel health protocols, VTL travellers must arrive in Singapore on a designated VTL flight. The latest list of airlines operating designated VTL flights can be found below. 
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5">
-			Travellers entering Singapore <b>before</b> 18 Oct 2021, 2359 hours must:</p>
-			 <ol style="margin-top:0px; list-style-type: lower-roman;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to their VTL country/region of departure, and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
-</ol>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <b>from</b> 18 Oct 2021, 2359 hours must:</p>
+		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <b>must</b>:</p>
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
@@ -134,7 +128,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </table>
 </div>
 
-**From 18 October 2021, 2359 hours**, travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
+Travellers on long-haul flights may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
 
 If transits are made via a non-VTL country/region:
 - Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols. 
