@@ -150,7 +150,7 @@ Travellers may complete their self-isolation with vaccinated household members s
 
 &#9744;  <i><b>G) Pre-Departure COVID-19 PCR Test</b></i>
 
-All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted even if their actual birthday this year has passed), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
+All travellers, <b>except</b> those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take a pre-departure COVID-19 PCR test **within 48 hours before departure for Singapore**. The test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the test report:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller’s name, and either date of birth or passport number (per the passport used to travel to Singapore); and
 - Reflects the date and time the test was taken, the name of the testing institution, and a negative test result.
