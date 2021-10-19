@@ -205,7 +205,7 @@ Travellers in need of Singapore currency, mobile SIM cards or rented phones shou
 
 &#9744;  <i><b>B) On-Arrival COVID-19 PCR Test</b></i>
 
-All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted even if their actual birthday this year has passed), must take an <a href="/health/covid19-tests/pcrtest#price" target="_blank">on-arrival COVID-19 PCR test</a>. Traveller who did not pay for the test before arrival will pay on the spot for the test.
+All travellers, **except** those aged two and below in this calendar year (i.e. a child who turns 2 in this calendar year will be exempted), must take an <a href="/health/covid19-tests/pcrtest#price" target="_blank">on-arrival COVID-19 PCR test</a>. Traveller who did not pay for the test before arrival will pay on the spot for the test.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
