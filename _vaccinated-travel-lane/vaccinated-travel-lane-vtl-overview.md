@@ -24,19 +24,6 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spain, the United Kingdom and the United States<br/><br/><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea
-			<!--<ol style="margin-top:0px; list-style-type: disc;">
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Brunei Darussalam</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Canada</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Denmark</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Germany</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">France</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Italy</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Netherlands</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Spain</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United Kingdom</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United States</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</li>
-			</ol>-->
 <!--		 <table>
 <thead>
 <tr>
@@ -155,7 +142,7 @@ Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spa
 </tr>
 	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">British Airways, <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.britishairways.com/en-gb/information/incident/coronavirus/entry-requirements#singapore">British Airways</a>, <a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
 </tr>	
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United States</td>
