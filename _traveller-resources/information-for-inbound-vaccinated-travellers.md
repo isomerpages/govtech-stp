@@ -86,17 +86,14 @@ Tozinameran (INN)</li>
 
 If you do not meet any of the above requirements, you are <b>not</b> considered fully vaccinated with WHO EUL vaccines.
 
-If the above clarifies regarding your vaccination status, you may find out more about SafeTravel lane arrangements to travel to Singapore [HERE](/arriving/overview) and indicate your vaccination status accordingly on the online tool.
-
-
 <div id="VDSMM"></div>
 
 
 ### Obtaining Vaccinated Status for Activities Within Singapore
 
-A verified vaccination status may be required for certain activities in Singapore, such as participating in mask-off activities and attending large-scale events. You can visit MOH’s website [here](https://go.gov.sg/moh-smm) for more information on domestic Vaccination-Differentiated Safe Management Measures within Singapore.
+A verified vaccination status may be required for certain activities in Singapore, such as participating in mask-off activities and attending large-scale events. 
 
-Travellers who arrived in Singapore after 17 Sep 2021 will need to have their vaccination status reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
+Travellers will need to have their vaccination status reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
 
 <ol style="list-style-type: lower-roman;">
 <li>Be aged 12 and above;</li>
@@ -123,3 +120,5 @@ The vaccination record should subsequently appear in your <a href="https://www.h
 		</tr>
 		</tbody>
 			</table>
+			
+You can visit the [MOH website](https://go.gov.sg/moh-smm) for more information on  Vaccination-Differentiated Safe Management Measures within Singapore.
