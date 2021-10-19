@@ -140,12 +140,6 @@ For (A), please see sample screenshots below:
 
 Travellers may present any of the following:
 
-**[For travellers entering Singapore before 18 October 2021, 2359 hours]** 
-- EU Digital COVID Certificates (EU DCC) issued in the [VTL country/region](/vtl/requirements-and-process#countries) of departure
-- Physical copy of vaccination certificate – International Certificate of Vaccination (Yellow Book) issued by the Ministry of Health of Brunei Darussalam 
-- Vaccination status on the BruHealth app
-
-**[For travellers entering Singapore with effect from 18 October 2021, 2359 hours]**
 - [EU Digital COVID Certificates (EU DCC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 - [National Health Service (NHS) COVID Passes](https://www.gov.uk/guidance/nhs-covid-pass) on the NHS mobile app
