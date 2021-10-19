@@ -90,12 +90,7 @@ permalink: /vtl/requirements-and-process
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel History &amp; Designated Flight Requirements</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore <span style="color:red;"><b>before</b></span> 18 Oct 2021, 2359 hrs <b>must</b>:
-			 <ol style="margin-top:0px; list-style-type: lower-roman;">
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travel to Singapore on a designated VTL flight (list below); and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to their VTL country/region of departure, and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
-</ol>
-		<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Travellers entering Singapore <span style="color:red;"><b>from</b></span> 18 Oct 2021, 2359 hrs <b>must</b>:</p>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers entering Singapore <b>must</b>:
 						 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Arrive in Singapore on a designated VTL flight (list below); and</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Have only travelled to / transited via any VTL countries/regions and/or Singapore, in the last 14 consecutive days before departure for Singapore.</li>
