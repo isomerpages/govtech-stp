@@ -173,7 +173,7 @@ Upon arrival in Singapore, visitors must undergo a COVID-19 Polymerase Chain Rea
 
 After taking the COVID-19 PCR test, visitors are to immediately take private transportation, taxi, or private hire car from the airport to their declared place of accommodation. They must remain isolated at the accommodation until the test result is confirmed to be negative. After being notified of their negative test results, visitors will be allowed to go about their activities in Singapore.
 
-To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment here.
+To expedite the COVID-19 PCR test at the airport, visitors should pre-book and make payment <a href="https://safetravel.changiairport.com/#/">here</a>.
 
 #### 2. What types of transportation do visitors need to use when going from the airport to their declared place of accommodation, after taking the COVID-19 PCR test?
 
