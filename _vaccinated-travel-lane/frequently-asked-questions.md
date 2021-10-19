@@ -940,10 +940,6 @@ A VTP allows vaccinated travellers who are short-term visitors (including busine
 
 - Brunei Darussalam
 - Germany
-
-The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
-
-With effect from **18 October 2021, 2359 hours (Singapore time)**, fully vaccinated short-term visitors and Long-Term Pass holders may seek entry into Singapore via the VTL. VTP applications will open on **12 October 2021, 1000 hours (Singapore time)**.
 - Canada
 - Denmark
 - France
@@ -952,6 +948,8 @@ With effect from **18 October 2021, 2359 hours (Singapore time)**, fully vaccina
 - Spain
 - United Kingdom
 - United States
+
+The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
 
 With effect from <b>14 November 2021, 2359 hours (Singapore time)</b>, fully vaccinated short-term visitors and Long-Term Pass holders from the Republic of Korea may seek entry into Singapore via the VTL. VTP applications will open on 8 November 2021, 1000 hours (Singapore time).
 
