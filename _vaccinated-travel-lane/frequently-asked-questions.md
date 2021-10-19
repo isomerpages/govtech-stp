@@ -957,9 +957,10 @@ Singapore Citizens and Permanent Residents do not need to apply for a VTP to tra
 
 #### 2. How can travellers apply for a VTP?
 
-Short-term visitors and long-term pass holders departing from Brunei Darussalam and Germany may click [here](https://go.gov.sg/vtl-portal) to apply. 
+Short-term visitors and long-term pass holders departing from the following countries/regions may click [here](https://go.gov.sg/vtl-portal) to apply. 
 
-VTP applications for the following countries will open on **12 October 2021, 1000 hours (Singapore time)**:
+- Brunei Darussalam
+- Germany
 - Canada
 - Denmark
 - France
