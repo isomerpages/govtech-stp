@@ -33,7 +33,7 @@ permalink: /vtl/requirements-and-process
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">Spain</li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United Kingdom</li>
 			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">United States</li>
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</li>
 			</ol>
 <!--		 <table>
 <thead>
