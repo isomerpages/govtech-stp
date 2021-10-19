@@ -16,7 +16,7 @@ permalink: /vtl/requirements-and-process
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Vaccination Requirements</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_blank">click here for definition</a>) for at least two weeks before arrival in Singapore. Travellers <b>must</b> have <u>a valid proof of vaccination issued in any VTL country/region or Singapore</u>.
+All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_blank">click here for definition</a>) for at least two weeks before arrival in Singapore, and <b>must</b> have a valid proof of vaccination issued in any VTL country/region or Singapore.
 			<p style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Unvaccinated children aged 12 and below in this calendar year can travel to Singapore via the VTL <b>if</b> accompanied by a fully vaccinated VTL traveller. </p>
 		 </td>
  </tr>
