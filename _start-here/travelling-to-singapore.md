@@ -2,14 +2,18 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
-<!--<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; color:red; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; font-weight:900;"><b>NOTE</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; font-weight:900;"><b>From 25 Aug 2021 to 9 Sep 2021, <u>short-term visitors</u> who have been fully vaccinated overseas can request for tamper-proof vaccination stickers to be affixed onto their passports as proof of vaccination status. For more information, please click <a href="https://www.moh.gov.sg/covid-19/vaccination/vaccination-stickers-(for-short-term-visitors)">here</a></b></p>
-</div>-->
 
-All travellers seeking to enter Singapore will enter via a SafeTravel Lane arrangement, and the eligibility criteria and requirements for each SafeTravel Lane differ depending on the traveller's profile. Please use the self-help tool below to find out which SafeTravel Lanes you may use to travel to Singapore, and the corresponding lane requirements. If the tool below does not work, try opening it in a separate window <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16">here</a>, or refer to the SafeTravel Lanes listed  <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">here</a>. 
+Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can use any of the following methods on this page to determine the most relevant arrangements to enter Singapore:
+- Self Help Tool for Safe Travel Lanes and Entry Requirements
+- Text-based listing of Safe Travel Lanes by Traveller Profile
+- Entry Information for Air/Sea Crew and Pleasure Craft Owners
 
-Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arriving/crew">here</a> instead for more information.
+
+### Self-help Tool for Safe Travel Lanes and Entry Requirements
+
+Please use the self-help tool below which will output the most appropriate SafeTravel Lanes to use to travel to Singapore, depending on the individual traveller’s profile. Vaccinated travellers may refer to this separate info page for inbound vaccinated travellers to determine if they are considered fully vaccinated in Singapore’s context, and the steps to obtain vaccinated status for activities within Singapore. Indicate “Fully Vaccinated (WHO EUL Vaccines)” in the form below if the vaccination criteria is met.
+
+If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the text-based list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
 
 <iframe width="100%" height="2100px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -31,9 +35,9 @@ Air and Sea Crew as well as Pleasure Craft owners should click <a href="/arrivin
 
 ### 1) Returning Singapore Citizens and Permanent Residents
 
-Singapore Citizens (SC) and Permanent Residents (PR) <u>returning from all countries/regions</u> may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. Click [here](/sc-pr/overview) for more info on requirements for the Returning SC/PR Lane.
+Singapore Citizens (SC) and Permanent Residents (PR) returning from all countries/regions may return to Singapore without seeking entry approval. However, prevailing travel health measures will apply depending on their travel history to various countries/regions before arriving in Singapore. <a href="/sc-pr/overview">Click here for information on requirements for the Returning SC/PR Lane.</a>
 
-Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unvaccinated children below 12 years old departing from certain countries/regions may use the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. Click [here](/vtl/requirements-and-process) for more information on the Vaccinated Travel Lane.
+Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unvaccinated children below 12 years old departing from certain countries/regions may use the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival, instead of the prevailing requirements under the Returning SC/PR Lane. <a href="/vtl/requirements-and-process">Click here for more information on the Vaccinated Travel Lane</a>.
 
 ---
 
@@ -47,7 +51,7 @@ Click here to return to the <a href="#top">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u>
 
-<b>Fully vaccinated travellers and accompanied unvaccinated children below 12 years old departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival.</b> Click [here](/vtl/requirements-and-process) for more details on the Vaccinated Travel Lane. 
+<b>Fully vaccinated travellers and accompanied unvaccinated children below 12 years old departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival.</b> [Click here for more details on the Vaccinated Travel Lane.](/vtl/requirements-and-process) 
 
 Otherwise, click the relevant lane below for more details.
 
@@ -141,25 +145,25 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				 </ul>
 				</td>
 	</tr>
-			<tr>
+			<!--<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br><br>(Temporarily suspended; Click  the above link for more details)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
 				 </ul>
 				</td>
-	</tr>
+	</tr>-->
 					<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers and accompanied unvaccinated children below 12 years old)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 			<li style="font-size: 18px;">Brunei  </li>
 				 			<li style="font-size: 18px;">Germany </li>
-				 <li style="font-size: 18px;">Canada (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">Denmark (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">France (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">Italy (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">Netherlands (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">Spain (For arrivals from 18 Oct 2021)  </li>
-				 <li style="font-size: 18px;">United Kingdom (For arrivals from 18 Oct 2021)  </li>
+				 <li style="font-size: 18px;">Canada</li>
+				 <li style="font-size: 18px;">Denmark </li>
+				 <li style="font-size: 18px;">France </li>
+				 <li style="font-size: 18px;">Italy</li>
+				 <li style="font-size: 18px;">Netherlands</li>
+				 <li style="font-size: 18px;">Spain</li>
+				 <li style="font-size: 18px;">United Kingdom</li>
 				 				 <li style="font-size: 18px;">United States (For arrivals from 18 Oct 2021)  </li>
 			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021)  </li>
 				 </ul>
@@ -187,14 +191,14 @@ Short term visitors from the following countries/regions may apply to enter Sing
 	<li><a href="/atp/requirements-and-process">Mainland China</a></li>
 	<!--<li><a href="/atp/requirements-and-process">New Zealand</a></li>-->
 	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
-					 <li><a href="/vtl/requirements-and-process">Canada</a>  (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">Denmark</a>  (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">France</a>  (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">Italy</a>  (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">Netherlands</a>  (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">Spain</a> (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">United Kingdom</a> (For arrivals from 18 Oct 2021)  </li>
-				 <li><a href="/vtl/requirements-and-process">United States</a>  (For arrivals from 18 Oct 2021)  </li>
+					 <li><a href="/vtl/requirements-and-process">Canada</a>  </li>
+				 <li><a href="/vtl/requirements-and-process">Denmark</a>  </li>
+				 <li><a href="/vtl/requirements-and-process">France</a> </li>
+				 <li><a href="/vtl/requirements-and-process">Italy</a> </li>
+				 <li><a href="/vtl/requirements-and-process">Netherlands</a>  </li>
+				 <li><a href="/vtl/requirements-and-process">Spain</a>  </li>
+				 <li><a href="/vtl/requirements-and-process">United Kingdom</a> </li>
+				 <li><a href="/vtl/requirements-and-process">United States</a>   </li>
 	<li><a href="/vtl/requirements-and-process">South Korea</a> (For arrivals from 15 Nov 2021)  </li>
 </ul>
 
@@ -208,7 +212,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 5) Death and Critical Illness Emergency Visits
 
-Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis. e.g. death or critical illness of family member in Singapore. Only a maximum of <u>two visitors per case</u> is allowed. 
+Travellers from <u>all countries/regions</u>may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. 
 
 Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. 
 
@@ -220,7 +224,7 @@ To expedite the assessment process, travellers who are requesting for emergency 
 <li>Any other supporting documents.</li>
 </ul>
 
-Approved travellers will be required to abide by the stipulated health measures for entry including <a href="/health/shn">Stay Home Notice</a> and <a href="/health/covid19-tests/pcrtest">COVID-19 tests</a>. Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
+Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
 
 Click [here](/dcev/overview) for more information on the Death and Critical Illness Emergency Visits Lane.
 
@@ -229,3 +233,29 @@ Click [here](/dcev/overview) for more information on the Death and Critical Illn
 Click here to return to the <a href="#top">top</a>.
 
 ---
+
+
+### 6. Entry Information for Air/Sea Crew and Pleasure Craft Owners
+
+<b><u>Air Crew</u></b>
+
+Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning the border and health control measures.
+
+<b><u>Sea Crew & Pleasure Craft Owners</u></b>
+
+Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the [application of crew changes under various circumstances](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change), and be updated on [MPA’s latest circulars and notices](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases).
+
+Applications for the following matters can be made via [ICA’s CREW system](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info):-
+- Arrival or departure immigration clearance of vessel
+- Crew sign-on or sign-off
+- Transfer of crew from one vessel to another
+- Extension of stay of crew
+
+
+---
+
+Click here to return to the <a href="#top">top</a>.
+
+---
+
+
