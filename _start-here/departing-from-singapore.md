@@ -8,11 +8,13 @@ permalink: /departing/overview
 On this page, travellers intending to depart from Singapore will find instructions on:
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;">Departure advisories and requirements </li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;">Obtaining a pre-departure COVID-19 test in Singapore for Overseas Travel (if required)</li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;">Obtain Digital certificates for Outbound Pre-departure COVID-19 test (if required)</li>
-    <li style="margin-top:10px; margin-bottom:10px; font-size:20px;">Obtain Digital certificates for Proof of Vaccination (if required)</li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#advisories">Departure advisories and requirements</a> </li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#PDT">Obtaining a pre-departure COVID-19 test in Singapore for Overseas Travel (if required)</a></li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#Digital">Obtain Digital certificates for Outbound Pre-departure COVID-19 test (if required)</a></li>
+    <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#Proof">Obtain Digital certificates for Proof of Vaccination (if required)</a></li>
 </ol>
+
+<div id="advisories"></div>
 
 ### 1) Departure advisories and requirements
 
@@ -22,6 +24,7 @@ On this page, travellers intending to depart from Singapore will find instructio
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><b>Requirements for returning to Singapore</b> - Travellers who intend to return to Singapore should note that the prevailing entry requirements will apply for their return to Singapore. For more details on entry requirements, refer to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page. Travellers who are required to obtain entry approval before returning to Singapore (e.g. long term pass holders, work pass holders, student pass holders) are strongly advised to secure an entry date before leaving Singapore, if they require certainty of a return date.</li>
 </ol>
 
+<div id="PDT"></div>
 
 ### 2) Obtaining a COVID-19 test in Singapore for Overseas Travel 
 
@@ -40,6 +43,7 @@ For details related to the cost and administration of the test, travellers shoul
 
 ---
 
+<div id="Digital"></div>
 
 ### 3) Digital Authentication of Outbound Pre-departure COVID-19 Test
 
@@ -54,6 +58,8 @@ Travellers who do not receive their QR code or encounter any technical difficult
 <a href="#top">Click here</a> to return to the top.
 
 ---
+
+<div id="Proof"></div>
 
 #### 4) Digital Authentication of Proof of Vaccination
 
