@@ -235,7 +235,7 @@ Click here to return to the <a href="#top">top</a>.
 ---
 
 
-### 6. Entry Information for Air/Sea Crew and Pleasure Craft Owners
+### 6) Entry Information for Air/Sea Crew and Pleasure Craft Owners
 
 <b><u>Air Crew</u></b>
 
