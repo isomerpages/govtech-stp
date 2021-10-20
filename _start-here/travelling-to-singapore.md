@@ -4,10 +4,11 @@ permalink: /arriving/overview
 ---
 
 Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can use any of the following methods on this page to determine the most relevant arrangement(s) to enter Singapore:
-- Self Help Tool for Safe Travel Lanes and Entry Requirements
-- Text-based listing of Safe Travel Lanes by Traveller Profile
-- Entry Information for Air/Sea Crew and Pleasure Craft Owners
+- [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
+- [Text-based listing of Safe Travel Lanes by Traveller Profile](#lanelist)
+- [Entry Information for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
+<div id="selfhelptool"></div>
 
 ### Self-help Tool for Safe Travel Lanes and Entry Requirements
 
