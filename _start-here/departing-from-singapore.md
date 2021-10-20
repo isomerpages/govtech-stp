@@ -2,31 +2,30 @@
 title: Departing from Singapore
 permalink: /departing/overview
 ---
-
 <div id="top"></div>
 
-On this page, travellers intending to depart from Singapore will find instructions on:
+On this page, travellers intending to depart from Singapore can find information on:
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px;">
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#advisories">Departure advisories and requirements</a> </li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#PDT">Obtaining a pre-departure COVID-19 test in Singapore for Overseas Travel (if required)</a></li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#Digital">Obtain Digital certificates for Outbound Pre-departure COVID-19 test (if required)</a></li>
-    <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#Proof">Obtain Digital certificates for Proof of Vaccination (if required)</a></li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#PDT">Obtaining a pre-departure COVID-19 test in Singapore for overseas travel (if required)</a></li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#Digital">Obtaining a digitally authenticated pre-departure COVID-19 test result (if required)</a></li>
+    <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><a href="#Proof">Obtaining digitally authenticated proof of vaccination (if required)</a></li>
 </ol>
 
 <div id="advisories"></div>
 
-### 1) Departure advisories and requirements
+### 1) Departure Advisories and Requirements
 
 <ol style="margin-top:10px; margin-bottom:10px; font-size:20px; list-style-type:lower-alpha">
   <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><b>Travel advisories</b> - Singapore residents who are unvaccinated or partially vaccinated are advised to defer all travel except in exceptional circumstances. For fully vaccinated residents, travel to high-risk countries/regions including Bangladesh, India, Myanmar, Nepal, Pakistan, and Sri Lanka, is discouraged. All departing travellers should review the latest <a href="https://www.moh.gov.sg/covid-19-phase-advisory/#travel_advisory" target="_blank">Ministry of Health travel advisory</a> and <a href="https://www.mfa.gov.sg/where-are-you-travelling-to" target="_blank">specific destination advisories from the Ministry of Foreign Affairs.</a> </li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><b>Requirements for departing from Singapore</b> – Travellers do not need specific approval to leave Singapore. However, all travellers should check with the authorities of the destination country/region for all requirements imposed on travellers departing from Singapore, including whether a pre-departure test and digital health and vaccine certificates are required. Travellers may also utilise <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a> outbound arrangements to travel to Mainland China and Brunei.</li>
-  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><b>Requirements for returning to Singapore</b> - Travellers who intend to return to Singapore should note that the prevailing entry requirements will apply for their return to Singapore. For more details on entry requirements, refer to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page. Travellers who are required to obtain entry approval before returning to Singapore (e.g. long term pass holders, work pass holders, student pass holders) are strongly advised to secure an entry date before leaving Singapore, if they require certainty of a return date.</li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><b>Requirements for departing from Singapore</b> – Travellers do not need specific approval to leave Singapore. However, all travellers should check with the authorities of the destination country/region on the requirements imposed on travellers departing from Singapore, including whether a pre-departure test and digital health and vaccine certificates are required. Travellers may also utilise <a href="/rgl/visiting-rgl-counterparts" target="_blank">Reciprocal Green Lane</a> outbound arrangements to travel to Mainland China and Brunei.</li>
+  <li style="margin-top:10px; margin-bottom:10px; font-size:20px;"><b>Requirements for returning to Singapore</b> - Travellers who intend to return to Singapore should note that the prevailing entry requirements will apply for their return to Singapore. For more details on entry requirements, refer to the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page. Travellers who are required to obtain entry approval before returning to Singapore (e.g. long term pass holders, work pass holders, student pass holders) are advised to secure an entry date before leaving Singapore, if they require certainty of a return date.</li>
 </ol>
 
 <div id="PDT"></div>
 
-### 2) Obtaining a COVID-19 test in Singapore for Overseas Travel 
+### 2) Obtaining a Pre-Departure COVID-19 Test in Singapore for Overseas Travel 
 
 Travellers who are required by their destination country/region to take a pre-departure COVID-19 test must <a href="https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers" target="_blank">book an appointment with any clinic found on this list</a>. As a general guide, travellers who present themselves at a clinic less than 38 hours before their flight will not receive their pre-departure test result on time. Travellers are therefore strongly encouraged to allocate sufficient lead time when scheduling a test appointment.
 
@@ -45,7 +44,7 @@ For details related to the cost and administration of the test, travellers shoul
 
 <div id="Digital"></div>
 
-### 3) Digital Authentication of Outbound Pre-departure COVID-19 Test
+### 3) Digitally Authenticated Outbound Pre-departure COVID-19 Test Result
 
 Travellers who have taken a COVID-19 Polymerase Chain Reaction Test (“PCR test”) in Singapore for overseas travel will receive a digital test result certificate. Those who are unable to receive a digital certificate or have taken a COVID-19 test that is not a PCR test can request a hardcopy certificate from the clinic instead.
 
@@ -61,7 +60,7 @@ Travellers who do not receive their QR code or encounter any technical difficult
 
 <div id="Proof"></div>
 
-#### 4) Digital Authentication of Proof of Vaccination
+#### 4) Digitally Authenticated Proof of Vaccination
 
 
 All hardcopy vaccination cards/ slips issued in Singapore, as well as vaccination records found on mobile applications such as <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> are <b>not</b> meant for overseas use. Travellers who are vaccinated in Singapore and are required by  foreign authorities to show digitally authenticated proof of vaccination, should digitally authenticate their vaccination records using <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a>. Upon authentication, a digital vaccination certificate and QR code will be sent by Notαrise to the traveller’s email and/or Singpass mobile application.
