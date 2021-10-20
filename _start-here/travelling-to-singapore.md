@@ -213,7 +213,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ### 5) Death and Critical Illness Emergency Visits
 
-Travellers from <u>all countries/regions</u>may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. 
+Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. 
 
 Applications for urgent emergency entry can be submitted via this <a href="https://go.gov.sg/sto-enquiry">enquiry form</a>, selecting <i>“appeal for entry into Singapore under compassionate reasons”</i> as the enquiry category. 
 
