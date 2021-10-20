@@ -247,7 +247,7 @@ Arriving air crew members are not required to apply for entry approval to enter 
 
 Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and be updated on <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.
 
-Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:-
+Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:
 - Arrival or departure immigration clearance of vessel
 - Crew sign-on or sign-off
 - Transfer of crew from one vessel to another
