@@ -28,6 +28,7 @@ If the tool below does not work in your browser, try opening it in a <a href="ht
 	<li><a href="#st-business">Short-term business visits</a></li>
 	<li><a href="#social">Short-term social visits/tourists</a></li>
 	<li><a href="#DCEV">Death and critical illness emergency visit</a></li>
+	<li><a href="#crew">Entry Information for Air/Sea Crew and Pleasure Craft Owners</a></li>
 </ul>
 
 
@@ -234,6 +235,7 @@ Click here to return to the <a href="#top">top</a>.
 
 ---
 
+<div id="crew"></div>
 
 ### 6) Entry Information for Air/Sea Crew and Pleasure Craft Owners
 
