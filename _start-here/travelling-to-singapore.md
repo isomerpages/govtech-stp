@@ -2,17 +2,16 @@
 title: Travelling to Singapore
 permalink: /arriving/overview
 ---
-
-Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can use any of the following methods on this page to determine the most relevant arrangement(s) to enter Singapore:
+Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
-- [Text-based listing of Safe Travel Lanes by Traveller Profile](#lanelist)
+- [Text-Based Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
 - [Entry Information for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
 <div id="selfhelptool"></div>
 
 ### Self-help Tool for Safe Travel Lanes and Entry Requirements
 
-Please use the self-help tool below which will output the most appropriate SafeTravel Lane(s) to use to travel to Singapore, depending on the individual traveller’s profile. Vaccinated travellers may refer to this separate info page for <a href="/health/vtsg" target="_blank">inbound vaccinated travellers</a> to determine if they are considered fully vaccinated in Singapore’s context, and the steps to obtain vaccinated status for activities within Singapore. Indicate “Fully Vaccinated (WHO EUL Vaccines)” in the form below if the vaccination criteria is met.
+The self-help tool below will output the most appropriate SafeTravel Lane(s) to use to travel to Singapore, depending on the individual traveller’s profile. Vaccinated travellers may refer to this separate info page for <a href="/health/vtsg" target="_blank">inbound vaccinated travellers</a> to determine if they are considered fully vaccinated, and the steps to obtain vaccinated status for activities within Singapore. Indicate “Fully Vaccinated (WHO EUL Vaccines)” in the form below if the vaccination criteria is met.
 
 If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the text-based list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
 
@@ -238,15 +237,15 @@ Click here to return to the <a href="#top">top</a>.
 
 <div id="crew"></div>
 
-### 6) Entry Information for Air/Sea Crew and Pleasure Craft Owners
+### 6) Air/Sea Crew and Pleasure Craft Owners
 
 <b><u>Air Crew</u></b>
 
-Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning the border and health control measures.
+Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning border and health control measures.
 
 <b><u>Sea Crew & Pleasure Craft Owners</u></b>
 
-Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and be updated on <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.
+Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and refer to <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.
 
 Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:
 - Arrival or departure immigration clearance of vessel
@@ -260,5 +259,3 @@ Applications for the following matters can be made via <a href="https://www.ica.
 Click here to return to the <a href="#top">top</a>.
 
 ---
-
-
