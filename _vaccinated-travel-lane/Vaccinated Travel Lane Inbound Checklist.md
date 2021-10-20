@@ -42,7 +42,7 @@ Travellers are be required to provide proof of vaccination during application, d
 	</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
 <!--	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359 hours</i>)</li>-->
-			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Singapore Vaccination HealthCerts issued by <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise</a></li>
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
 	</ol>
 </p>
 </div>
