@@ -4,7 +4,7 @@ permalink: /arriving/overview
 ---
 Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangement, and the entry requirements and health controls of each Safe Travel Lane may differ depending on the traveller’s profile and travel history. Travellers can refer to the following sections on this page to determine the most relevant arrangement(s) to enter Singapore:
 - [Self Help Tool for Safe Travel Lanes and Entry Requirements](#selfhelptool)
-- [Text-Based Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
+- [Listing of Safe Travel Lanes by Traveller Profile](#lanelist)
 - [Entry Information for Air/Sea Crew and Pleasure Craft Owners](#crew)
 
 <div id="selfhelptool"></div>
@@ -13,7 +13,7 @@ Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangem
 
 The self-help tool below will output the most appropriate SafeTravel Lane(s) to use to travel to Singapore, depending on the individual traveller’s profile. Vaccinated travellers may refer to this separate info page for <a href="/health/vtsg" target="_blank">inbound vaccinated travellers</a> to determine if they are considered fully vaccinated, and the steps to obtain vaccinated status for activities within Singapore. Indicate “Fully Vaccinated (WHO EUL Vaccines)” in the form below if the vaccination criteria is met.
 
-If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the text-based list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
+If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
 
 <iframe width="100%" height="2100px" scrolling="yes" src="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -42,7 +42,7 @@ Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unv
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -107,7 +107,7 @@ Otherwise, click the relevant lane below for more details.
 	
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -175,7 +175,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -205,7 +205,7 @@ Short term visitors from the following countries/regions may apply to enter Sing
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -231,7 +231,7 @@ Click [here](/dcev/overview) for more information on the Death and Critical Illn
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -256,6 +256,6 @@ Applications for the following matters can be made via <a href="https://www.ica.
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
