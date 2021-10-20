@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - resources-overview.md
-      - inbound-travel-checklists.md
+      - Checklists for Inbound Travellers .md
       - travel-health-control-measures-category-iiiiiiiv.md
       - information-for-inbound-vaccinated-travellers.md
       - info-on-stay-home-notice/.keep
