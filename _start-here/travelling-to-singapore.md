@@ -239,13 +239,13 @@ Click here to return to the <a href="#top">top</a>.
 
 <b><u>Air Crew</u></b>
 
-Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning the border and health control measures.
+Arriving air crew members are not required to apply for entry approval to enter Singapore via Safe Travel Lanes. Flight operators and air crew should instead refer to the <a href="https://www.caas.gov.sg/legislation-regulations/covid-19-publications" target="_blank">latest circulars and directives</a> issued by the Civil Aviation Authority of Singapore concerning the border and health control measures.
 
 <b><u>Sea Crew & Pleasure Craft Owners</u></b>
 
-Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the [application of crew changes under various circumstances](https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change), and be updated on [MPA’s latest circulars and notices](https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases).
+Sea Crew and Pleasure Craft Owners should visit the MPA website for information on the <a href="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/operations/crew-change" target="_blank"> application of crew changes under various circumstances</a>, and be updated on <a href="https://www.mpa.gov.sg/web/portal/home/media-centre/news-releases/mpa-news-releases" target="_blank">MPA’s latest circulars and notices</a>.
 
-Applications for the following matters can be made via [ICA’s CREW system](https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info):-
+Applications for the following matters can be made via <a href="https://www.ica.gov.sg/enter-depart/at-our-checkpoints/sea_crew_info" target="_blank">ICA’s CREW system</a>:-
 - Arrival or departure immigration clearance of vessel
 - Crew sign-on or sign-off
 - Transfer of crew from one vessel to another
