@@ -3,7 +3,7 @@ title: Resources - Overview
 permalink: /health
 ---
 
-The resources on this page provide general information on specific travel health control measures when to travelling to Singapore. If you are unsure which of these requirements apply to you or how to get the relevant entry approvals, we strongly suggest you start from the <a href="/arriving/overview">Travelling to Singapore</a> page for incoming/returning travellers, or <a href="/departing/overview">Departing from Singapore</a> page for outbound travellers.
+The resources on this page provide general information on specific travel health control measures when travelling to Singapore. If you are unsure which of these requirements apply to you or how to get the relevant entry approvals, we strongly suggest you start from the <a href="/arriving/overview">Travelling to Singapore</a> page for incoming/returning travellers, or <a href="/departing/overview">Departing from Singapore</a> page for outbound travellers.
 
 Otherwise, click on the links below for the relevant resources on Singapore's travel health control measures/procedures:
 
