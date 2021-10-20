@@ -9,7 +9,7 @@ Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangem
 
 <div id="selfhelptool"></div>
 
-### Self-help Tool for Safe Travel Lanes and Entry Requirements
+### Self-Help Tool for Safe Travel Lanes and Entry Requirements
 
 The self-help tool below will output the most appropriate SafeTravel Lane(s) to use to travel to Singapore, depending on the individual traveller’s profile. Vaccinated travellers may refer to this separate info page for <a href="/health/vtsg" target="_blank">inbound vaccinated travellers</a> to determine if they are considered fully vaccinated, and the steps to obtain vaccinated status for activities within Singapore. Indicate “Fully Vaccinated (WHO EUL Vaccines)” in the form below if the vaccination criteria is met.
 
