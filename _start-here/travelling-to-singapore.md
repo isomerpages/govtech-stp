@@ -165,7 +165,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				 <li style="font-size: 18px;">Netherlands</li>
 				 <li style="font-size: 18px;">Spain</li>
 				 <li style="font-size: 18px;">United Kingdom</li>
-				 				 <li style="font-size: 18px;">United States (For arrivals from 18 Oct 2021)  </li>
+				 				 <li style="font-size: 18px;">United States  </li>
 			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021)  </li>
 				 </ul>
 				</td>
