@@ -1,8 +1,9 @@
 ---
 title: SHN-Dedicated Facilities (SDF)
 permalink: /health/shn/sdf
-third_nav_title: Info On Stay Home Notice
+third_nav_title: Info on Stay Home Notice
 ---
+
 ### SHN-Dedicated Facilities (SDF)
 
 Travellers arriving from higher-risk countries/regions will be required to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF <b>only upon arrival</b>.

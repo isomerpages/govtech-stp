@@ -1,8 +1,9 @@
 ---
 title: Stay Home Notice (SHN)
 permalink: /health/shn
-third_nav_title: Info On Stay Home Notice
+third_nav_title: Info on Stay Home Notice
 ---
+
 ### Overview 
 
 The Stay-Home Notice (SHN) is a legal notice issued under the Infectious Diseases Act that requires travellers to remain in their place of residence or SHN Dedicated Facility ([SDF](/health/shn/sdf)) for a stipulated period. The failure to comply with any SHN requirement is punishable under Singapore laws and can amount to an imprisonment term and/or fine. Additional penalties such as the cancellation of long-term visit passes could also be taken against errant individuals by the relevant authorities.

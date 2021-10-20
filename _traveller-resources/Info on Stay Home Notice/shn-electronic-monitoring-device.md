@@ -1,8 +1,9 @@
 ---
 title: SHN Electronic Monitoring Device
 permalink: /health/shn-monitoring
-third_nav_title: Info On Stay Home Notice
+third_nav_title: Info on Stay Home Notice
 ---
+
 
 An Electronic Monitoring Device (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.
 

@@ -1,7 +1,8 @@
 ---
-title: Inbound Travel Checklists
+title: "Checklists for Inbound Travellers "
 permalink: /travel-checklist/overview
 ---
+
 These checklists provide a step-by-step guide for travellers intending to travel to Singapore. Travellers who had identified a suitable Safe Travel Lane for entry into Singapore and referenced the relevant checklist, have reported being better prepared for the trip. 
 
 If you have yet to identify a suitable Safe Travel Lane for entry, return to the [“Travelling to Singapore”](/arriving/overview) page for details. Otherwise, click on the links below for the checklist relevant to you:
