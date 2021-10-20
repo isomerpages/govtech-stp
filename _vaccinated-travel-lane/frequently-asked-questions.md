@@ -174,7 +174,7 @@ Please click the links below for more information on accepted digitally verifiab
 - [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) (EU DCC) issued by any [VTL country/region](/vtl/requirements-and-process#countries) 
 - [National Health Service (NHS) COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in any VTL country/region on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
-- <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li> portal
+- **[For travellers vaccinated in Singapore]** Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a>
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
