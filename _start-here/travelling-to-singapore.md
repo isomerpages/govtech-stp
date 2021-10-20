@@ -42,7 +42,7 @@ Fully vaccinated Singapore Citizens and Permanent Residents, and accompanied unv
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -107,7 +107,7 @@ Otherwise, click the relevant lane below for more details.
 	
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -175,7 +175,7 @@ Travellers who need to only make a short-term business trip to Singapore may use
 	
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -205,7 +205,7 @@ Short term visitors from the following countries/regions may apply to enter Sing
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -231,7 +231,7 @@ Click [here](/dcev/overview) for more information on the Death and Critical Illn
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
@@ -256,6 +256,6 @@ Applications for the following matters can be made via <a href="https://www.ica.
 
 ---
 
-Click here to return to the <a href="#top">top</a>.
+Click here to return to the <a href="#lanelist">top</a>.
 
 ---
