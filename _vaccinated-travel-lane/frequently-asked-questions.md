@@ -169,7 +169,7 @@ Please click the links below for more information on accepted digitally verifiab
 - [National Health Service (NHS) COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in any VTL country/region on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 - **[For travellers vaccinated in Singapore]** Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a>
-- - [International COVID-19 Vaccination Certificate](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof) (QR code in [ICAO Visible Digital Seal for Non-Constrained Environments](https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx) (VDS-NC) format) issued by any VTL country/region <i><b>[For entry into Singapore from 7 November 2021, 2359hrs]</b></i>
+- [International COVID-19 Vaccination Certificate](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof) (QR code in [ICAO Visible Digital Seal for Non-Constrained Environments](https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx) (VDS-NC) format) issued by any VTL country/region <i><b>[For entry into Singapore from 7 November 2021, 2359hrs]</b></i>
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
@@ -219,6 +219,9 @@ You may refer to this table below:
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>	
+	<tr>
+<td colspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; ">test</td>
+	</tr>
 </tbody>
 </table>
 
