@@ -43,7 +43,7 @@ Travellers are be required to provide proof of vaccination during application, d
 		</ol>
 	</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate (QR code in ICAO Visible Digital Seal for Non-Constrained Environments (VDS-NC) format) </a> issued by any VTL country/region <i>[For entry into Singapore from 7 November 2021, 2359hrs]</i></li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate (QR code in ICAO Visible Digital Seal for Non-Constrained Environments (VDS-NC) format) </a> issued by any VTL country/region <i>[For entry into Singapore from 7 November 2021, 2359hrs]</i></li>
 	</ol>
 </p>
 </div>
