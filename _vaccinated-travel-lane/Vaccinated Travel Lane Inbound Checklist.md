@@ -76,7 +76,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 		<table>
 <thead>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:300px;"><b>Airlines Operating Designated VTL Flights to Singapore*</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*</b></th>
 	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;"><b>VTL Countries/Regions</b></th>
 </tr>
 </thead>
@@ -121,7 +121,6 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </table>
 	    <sup>*</sup>The list of airlines and websites will be regularly updated
 </div>
-<br/>
 
 Travellers may transit via any VTL country/region before arrival in Singapore. 
 
