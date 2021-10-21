@@ -82,7 +82,7 @@ Unvaccinated travellers aged 13 and above are not allowed to travel under the VT
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview">Singapore Citizens</a></li><a href="/sc-pr/overview">
 </a><li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview"></a><a href="/sc-pr/overview">Permanent Residents</a>, and</li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a></li>
 </ol>
 
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing Stay-Home Notice (SHN) and COVID-19 test requirements upon entry into Singapore.
@@ -98,7 +98,7 @@ However, unvaccinated:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview">Singapore Citizens</a></li><a href="/sc-pr/overview">
 </a><li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="/sc-pr/overview"></a><a href="/sc-pr/overview">Permanent Residents</a>, and</li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a></li>
+<li style="margin-top:0px; margin-bottom:0px; font-size:18px;">Long-Term Pass holders who have received entry approval via the <a href="/wphl/overview">Work Pass Holder General Lane</a>, <a href="/stpl/overview">Student’s Pass Holder Lane</a>, or <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a></li>
 </ol>
 may still travel to Singapore on a non-designated flight. They will be subject to the <a href="/health/shn">prevailing Stay-Home Notice (SHN) and COVID-19 test requirements</a> upon entry into Singapore.
 
