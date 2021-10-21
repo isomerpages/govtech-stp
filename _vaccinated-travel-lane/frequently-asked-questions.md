@@ -134,6 +134,8 @@ Travellers may present any of the following:
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 - [National Health Service (NHS) COVID Passes](https://www.gov.uk/guidance/nhs-covid-pass) on the NHS mobile app
 - Vaccination status on the [BruHealth app](http://www.moh.gov.bn/SitePages/bruhealth.aspx)
+- [International COVID-19 Vaccination Certificate](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof) (QR code in [ICAO Visible Digital Seal for Non-Constrained Environments](https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx) (VDS-NC) format) issued by any VTL country/region <i><b>[For entry into Singapore from 7 November 2021, 2359hrs]</b></i>
+- Vaccination status on the [COOV app](https://ncv.kdca.go.kr/coov) (developed by the Korea Disease Control and Prevention Agency) <i><b>[For entry into Singapore from 14 November 2021, 2359hrs]</b></i>
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
 
@@ -142,8 +144,8 @@ Digitally verified and authenticated proof of vaccination is a key safeguard of 
 The electronic or physical vaccination certificate(s) should be in English and clearly state the following:
 - the traveller’s name, and at least one other personal identifier such as the date of birth or passport number corresponding exactly with the information in the traveller’s passport used for entry into Singapore;
 - the country/region of issuance must be any [VTL country/region](/vtl/requirements-and-process#countries) or Singapore, regardless of which [VTL country/region](/vtl/requirements-and-process#countries) they depart from;
-- the name of vaccine used (if more than 1 dose, the name of each vaccine administered for each dose); and
-- the date(s) of vaccination (if more than 1 dose, the dates when each dose was administered). The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
+- the name of vaccine used; and
+- the date(s) of vaccination. The date of the last dose should be administered at least 14 days before the traveller's arrival in Singapore. 
 
 
 #### 9. What is a digitally verifiable vaccination certificate?
@@ -167,6 +169,7 @@ Please click the links below for more information on accepted digitally verifiab
 - [National Health Service (NHS) COVID Pass](https://www.gov.uk/guidance/nhs-covid-pass)
 - [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in any VTL country/region on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
 - **[For travellers vaccinated in Singapore]** Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise portal</a>
+- - [International COVID-19 Vaccination Certificate](https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof) (QR code in [ICAO Visible Digital Seal for Non-Constrained Environments](https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx) (VDS-NC) format) issued by any VTL country/region <i><b>[For entry into Singapore from 7 November 2021, 2359hrs]</b></i>
 
 We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date.
 
