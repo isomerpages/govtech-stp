@@ -121,6 +121,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 </table>
 	    <sup>*</sup>The list of airlines and websites will be regularly updated
 </div>
+<br/>
 
 Travellers may transit via any VTL country/region before arrival in Singapore. 
 
