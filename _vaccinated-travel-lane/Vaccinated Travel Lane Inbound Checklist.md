@@ -3,7 +3,7 @@ title: Vaccinated Travel Lane Inbound Checklist
 permalink: /vtl/travel-checklist
 ---
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains is a checklist for VTL travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (VTL). If you are not clear on the VTL requirements, please refer to the VTL Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>This page contains is a checklist for Vaccinated Travel Lane (VTL) travellers who already understand the entry requirements into Singapore via the VTL. Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL requirements, please refer to the VTL Overview page <a href="/vtl/requirements-and-process" target="_blank">here</a>  before reading this checklist.</b></span></p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>Travellers intending to travel <u>out</u> of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.</b></span></p>
 </div>
 
@@ -28,12 +28,14 @@ Travellers are be required to provide proof of vaccination during application, d
 	<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px; ">
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
 	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth mobile app</a></li>
+			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth (developed by the Government of Brunei) </a></li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV (developed by the Korea Disease Control and Prevention Agency)</a> <i>[For entry into Singapore from 14 November 2021, 2359hrs]</i></li>
 	</ol>
 	</p>
 	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>Vaccination Certificates</b>
 <ol style="padding-left:20px; margin-top:10px; margin-bottom:0px; ">
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">  <a href="https://www.notarise.gov.sg/" target="_blank">Digital HealthCerts provided by Notαrise</a><b> for travellers vaccinated in Singapore</b></li>
+		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a> issued by any VTL country/region</li>
 	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC</a>) issued by:
 	<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-alpha ">
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">CommonTrust Network issuers in the United States and Canada (listed<a href="https://www.commontrustnetwork.org/verifier-list" target="_blank"> here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank"> here</a>); or </li>
@@ -41,8 +43,7 @@ Travellers are be required to provide proof of vaccination during application, d
 		</ol>
 	</li>
 		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-<!--	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359 hours</i>)</li>-->
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.servicesaustralia.gov.au/individuals/subjects/getting-help-during-coronavirus-covid-19/covid-19-vaccinations/what-types-proof-there-are/international-covid-19-vaccination-certificate-proof" target="_blank">International COVID-19 Vaccination Certificate (QR code in ICAO Visible Digital Seal for Non-Constrained Environments (VDS-NC) format) </a> issued by any VTL country/region <i>[For entry into Singapore from 7 November 2021, 2359hrs]</i></li>
 	</ol>
 </p>
 </div>
