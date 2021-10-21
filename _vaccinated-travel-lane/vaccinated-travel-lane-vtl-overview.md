@@ -23,7 +23,7 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
    <tr>
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spain, the United Kingdom and the United States<!--<br/><br/><b>[Effective 7 November 2021, 2359 hours for entry into Singapore]</b>Australia and Switzerland--><br/><br/><b>[Effective 14 November 2021, 2359 hours for entry into Singapore]</b> Republic of Korea
+Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spain, the United Kingdom and the United States <br/><br/><b>[Effective 7 November 2021, 2359 hours for entry into Singapore]</b> Australia and Switzerland <br/><br/><b>[Effective 14 November 2021, 2359 hours for entry into Singapore]</b> Republic of Korea
 <!--		 <table>
 <thead>
 <tr>
@@ -74,8 +74,17 @@ Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spa
  </tr>
 	 <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Accepted Proof of Vaccination</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC)</li>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">
+	     <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;"><b>Mobile Applications</b></p>
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (developed by the Government of Brunei)</li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV</a> (developed by the Korea Disease Control and Prevention Agency)<i><b> [For entry into Singapore from 14 November 2021, 2359hrs]</b></i></li>
+	    </ol>
+	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;"><b>Vaccination Certificates</b></p>
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
 			<ol style="margin-top:0px; list-style-type: lower-latin;">
 				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
@@ -83,8 +92,8 @@ Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spa
 							</ol>
 			</li>
 						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-									<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth mobile app</a></li>
 												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
+		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.icao.int/Newsroom/Pages/New-ICAO-VDS-delivers-important-benefits-for-secure-and-efficient-COVID19-testing-and-vaccination-validation.aspx" target="_blank">ICAO Visible Digital Seal for Non-Constrained Environments (VDS-NC)</a> issued by any <a href="/vtl/requirements-and-process#countries" target="_blank">VTL country/region</a> <i><b>[For entry into Singapore from 7 November 2021, 2359hrs]</b></i></li>
 			</ol>
 		 </td>
  </tr>
