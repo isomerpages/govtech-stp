@@ -192,7 +192,7 @@ When checking in at the departure airport, travellers must present to the airlin
 				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "> Acceptable proof of vaccination (same proof as at <a href="#proof">Stage 1A</a>).</li>
 </ol>
 
-Singapore Citizens and Permanent Residents need only present (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
+Singapore Citizens and Permanent Residents need only present (ii) and (v) above.  Long-Term Pass holders need only present (i), (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
@@ -210,7 +210,7 @@ All travellers, **except** those aged two and below in this calendar year (i.e. 
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
-Travellers must commute directly to their declared self-isolation accommodation immediately upon completion of their on-arrival COVID-19 PCR test. They may do so using private transport, taxi, or private hire cars. The use of public transport, e.g. trains or buses, is prohibited.
+Travellers must commute directly to their declared self-isolation accommodation immediately upon completion of their on-arrival COVID-19 PCR test. They may do so using private transport, taxi, or private hire cars (e.g. GrabSHN, Go-Jek, Ryde, MVL(TADA), via the respective providers’ apps). The use of public transport, e.g. trains or buses, is prohibited.
 
 <table>
   <thead>
