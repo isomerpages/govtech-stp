@@ -274,7 +274,7 @@ No, the traveller should digitally authenticate and endorse their HealthCerts th
 
 #### 3. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
 
-The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/health/covid19-tests/pre-departure-test) will be updated accordingly when the combined schema is available.
+The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/departing/overview#PDT) will be updated accordingly when the combined schema is available.
 
 #### 4. The country/region I am travelling to requires a test other than a PCR test. Since the HealthCert is currently only for PCR tests, how will travellers show their test results to the relevant authorities?
 
