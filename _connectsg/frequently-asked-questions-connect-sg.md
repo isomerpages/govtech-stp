@@ -94,7 +94,7 @@ Both the SafeTravel Pass application and approved SafeTravel Pass cannot be amen
 
 #### 13. Can I travel with a group under the Connect@Singapore initiative? 
 
-Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to two individuals with similar travel history and [entry requirements](/files/SHN-and-swab-summary.pdf) into Singapore. The travel cohort must be declared to the Safe Travel Office at the point of application. The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
+Connect@Singapore travellers may conduct business in a ‘travel cohort’ of up to two individuals with similar travel history and [entry requirements](/shn-and-swab-summary) into Singapore. The travel cohort must be declared to the Safe Travel Office at the point of application. The travel cohort may comprise members outside of your family, such as colleagues, business partners, suppliers or customers, even if arriving from different flights and/or countries. The group composition of the travel cohort must be kept constant throughout the entire duration of stay. 
 
 #### 14. I recently tested positive for COVID-19 but am scheduled to travel to Singapore. Can I still visit Singapore?
 
