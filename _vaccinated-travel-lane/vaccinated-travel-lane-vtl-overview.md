@@ -202,7 +202,7 @@ Brunei Darussalam, Canada, Denmark, Germany, France, Italy, the Netherlands, Spa
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>VTP Conditions</b></td>
-	<td style="font-size:16px;border-right:1px solid #D8D8D8;">Applicable to <b>all</b> VTL travellers; Click <a href="vtl/conditions" target="_blank">here</a>. </td>
+	<td style="font-size:16px;border-right:1px solid #D8D8D8;">Applicable to <b>all</b> VTL travellers; Click <a href="/vtl/conditions" target="_blank">here</a>. </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Frequently Asked Questions</b></td>
