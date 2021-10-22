@@ -193,6 +193,8 @@ When checking in at the departure airport, travellers must present to the airlin
 
 Singapore Citizens and Permanent Residents need only present (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
 
+Long-Term Pass holders need only present (i), (ii) and (v) above.Travellers who do not fulfil the above may be denied boarding.
+
 ### Stage 3: Arrival in Singapore
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
@@ -201,7 +203,7 @@ Follow the instructions provided by the officers and signages on arrival.
 
 As part of immigration clearance, travellers must present the same set of documentation listed in <a href="#documents">Stage 2A</a>. Short-term visitors must also present a physical or electronic copy of their travel insurance policy. Travellers who do not have the required documentation may be refused entry into Singapore by the Immigration & Checkpoints Authority (ICA).
 
-Travellers in need of Singapore currency, mobile SIM cards or rented phones should make these purchases in the airport transit area before immigration clearance.
+Travellers may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall. 
 
 &#9744;  <i><b>B) On-Arrival COVID-19 PCR Test</b></i>
 
