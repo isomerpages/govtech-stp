@@ -182,7 +182,7 @@ Click here to [Go Back To Top](#top).
 
 #### 1. I have an upcoming flight to Singapore. Do I need to be tested for COVID-19 before travelling? What test should I take and how long before my departure should I be tested?
 
-Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to this [table](/files/SHN-and-swab-summary.pdf) or the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
+Travellers approved for entry into Singapore <b>will be informed via a condition stipulated in the Entry Approval Letter or SafeTravel Pass on whether they need to be tested for COVID-19 before arrival</b>. Alternatively, travellers who are planning to visit Singapore may refer to this [table](/shn-and-swab-summary) or the [specific safe travel lanes](/arriving/overview) to check if he/she needs to be tested before arrival.
 
 To test for COVID-19, travellers bound for Singapore are required to take a [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing). 
 
@@ -274,7 +274,7 @@ No, the traveller should digitally authenticate and endorse their HealthCerts th
 
 #### 3. The PRC embassy stipulates both PCR and serology IgM tests for all travellers entering China. Since the HealthCert is currently only for PCR tests, how will travellers meet the entry requirements?
 
-The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/health/covid19-tests/pre-departure-test) will be updated accordingly when the combined schema is available.
+The combined PCR and IgM HealthCert will be available soon. In the meantime, travellers should highlight to the clinic if their PDT is for the purposes of entry to China, in which case they should be issued with an additional paper certificate in accordance with the PRC embassy’s requirements. [This page](/departing/overview#PDT) will be updated accordingly when the combined schema is available.
 
 #### 4. The country/region I am travelling to requires a test other than a PCR test. Since the HealthCert is currently only for PCR tests, how will travellers show their test results to the relevant authorities?
 

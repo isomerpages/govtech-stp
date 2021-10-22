@@ -76,7 +76,7 @@ Due to the rapidly evolving epidemiological situation overseas, travellers shoul
       <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>RGL (Germany)<span style="color:red;">*</span></b></td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;">Reciprocal Green Lane</td>
-      <td style="text-align:left;border-right:1px solid #D8D8D8;">Information on website of the Singapore <a href="https://www.sgc.org.sg/services/safe">German Chamber for Industry and Commerce</a>. Click <a href="https://singapur.diplo.de/sg-en/service/05-VisaEinreise">here</a> also for more information.</td>
+      <td style="text-align:left;border-right:1px solid #D8D8D8;">Information on website of the Singapore <a href="https://www.sgc.org.sg/">German Chamber for Industry and Commerce</a>. Click <a href="https://singapur.diplo.de/sg-en/service/05-VisaEinreise">here</a> also for more information.</td>
       <td style="text-align:left;border-right:1px solid #D8D8D8;"><a href="/rgl/outbound/faq#faq-outbound-germany">FAQ</a></td>
   </tr>
       <tr>

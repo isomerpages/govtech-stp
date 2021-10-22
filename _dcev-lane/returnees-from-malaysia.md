@@ -4,7 +4,7 @@ permalink: /dcev/returnees-from-malaysia
 ---
 This arrangement caters to travellers <u>returning to Singapore from Malaysia only</u> after making cross-border travel to Malaysia to visit family members for emergency reasons such as death or critical illness. 
 
-<u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/requirements-and-process">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
+<u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/overview">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
 
 Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</a>  will be subject to the requirements below:
 
@@ -50,7 +50,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered <a href="/health/covid-19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3, 7 and 11 of their arrival in Singapore.</li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3, 7 and 11 of their arrival in Singapore.</li>
 	</ol>
 	</li>
 </ol>
