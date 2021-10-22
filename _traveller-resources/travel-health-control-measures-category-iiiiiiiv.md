@@ -21,14 +21,14 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 					<b> &#10112;</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transit) will apply. For instance, a traveller who had travel history to both Category (I) and (II) countries/regions will be subject to the Category (II) measures; and</li>
-												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent REsident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.</li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	<!--A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent Resident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.--> A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>&#10113;</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
-							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+							<!-- <p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>&#10114;</b> Short Term Travellers are defined as those who are not Singapore Citizens, Permanent Residents or Long Term Pass Holders (e.g. Work Pass, Student's Pass, Dependant's Pass, In-Principle Approval Work or Student Pass Holders)
-										</p>
+										</p>-->
 			</td>
     </tr>
 	</tbody>
@@ -205,7 +205,7 @@ On this page you will find the following:
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn/sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span>Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span> Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</p>
 	
 </td>
 	</tr>
