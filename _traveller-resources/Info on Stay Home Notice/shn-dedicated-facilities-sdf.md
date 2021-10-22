@@ -5,7 +5,7 @@ third_nav_title: Info on Stay Home Notice
 ---
 ### SHN-Dedicated Facilities (SDF)
 
-Travellers arriving from <a href="/shn-and-swab-summary#table">Category (IV) countries/regions</a> (and <a href="/shn-and-swab-summary#category3">Category (III) countries/regions</a> for travellers arriving before 26 Oct 2021, 2359h) are required by default to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
+Travellers arriving from <a href="/shn-and-swab-summary#from">Category (IV) countries/regions</a> (and <a href="/shn-and-swab-summary#before">Category (III) countries/regions</a> for travellers arriving before 26 Oct 2021, 2359h) are required by default to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
 
 The cost of a 10-day SDF stay is typically S$1,450 per person per room. A further breakdown is provided in the table below. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/health/faq#shnsdf">FAQs</a> for more information.
 
