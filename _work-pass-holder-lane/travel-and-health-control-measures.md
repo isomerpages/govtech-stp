@@ -21,7 +21,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if the pass holder remained in a Category (I) country for at least 14 consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 Polymerase Chain Reaction Test. [>>>TO ALIGN WITH EDITS ON COVID-19 TEST PAGE>>> From 26 Oct 2021, 2359 hours. travellers arriving from Category (III) and (IV) countries/regions are no longer required to undergo additional ARTs on the 3<sup>rd</sup> and 7<sup>th</sup> days of their arrival, during their SHN.]
+										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test (for arrivals before 26 Oct 2021, 2359 hours).
 										</p>
 			</td>
     </tr>
