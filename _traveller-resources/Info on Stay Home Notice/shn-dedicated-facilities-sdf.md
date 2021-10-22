@@ -9,35 +9,27 @@ Travellers arriving from <a href="/shn-and-swab-summary#table">Category (IV) cou
 
 The cost of a 10-day SDF stay is typically S$1,450 per person per room. A further breakdown is provided in the table below. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/health/faq#shnsdf">FAQs</a> for more information.
 
-If you have specific needs for your SDF stay (e.g. medical requirements), you may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for details. Alternatively, you may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. You are strongly advised to submit your enquiry or request two weeks in advance of your arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation.^ If you are already serving SHN at an SDF, you may wish to contact the SDF's front desk for assistance.
-<p style="margin-top: -5px;"><sup>^</sup><i> As  there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</i></p>
-
-<b>Cost of SDF Stay (10 Days)<br> (For cost of SDF stay relating to Helpers and Confinement Nannies, click <a href="/wphl/shn-and-swab-summary">here</a>.)</b>
-
 <table>
   <tbody><tr>
-    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">Single adult</td>
+    <td style="font-size:20px; border-top:1px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>Single adult to a room</b></td>
     <td style="font-size:20px; border-top:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">S$1,450 per person for accommodation and food.</td>
   </tr>
   <tr>
-    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Two adults*</td>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Two adults to a room</b>**</td>
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">S$950 per person for accommodation and food.
     </td>   
   </tr>
     <tr>
-    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Minors** <i>(who are aged 12 years old and below in the current calendar year)</i></td>
+    <td style="font-size:20px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>Minors</b>*** <i>(who are aged 12 years old and below in the current calendar year)</i></td>
     <td style="font-size:20px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Cost will vary for minors depending on age.</td>   
   </tr>
  </tbody></table>
-<sup>*</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
-<sup>**</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
-
-The exact costs will be made known to travellers during the entry approval application process for pass holders or at check-in to the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the [FAQs](/health/faq#shnsdf) for more information.
-
-Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click [here](/health/shn/sdfupgrade) to find out more.
+<sup>*</sup><i>Applicable to all travellers except migrant domestic workers (MDW) and confinement nannies. For more information on costs for MDWs and confinement nannies, click  <a href="/wphl/shn-and-swab-summary">here</a>.</i><br><br>
+<sup>**</sup><i>Only family members (defined as grandparents, parents, spouse, parents-in-law, siblings or children) who are serving SHN with the same travel history and duration are permitted to share a room.</i><br><br>
+<sup>***</sup><i>Most standard rooms are able to accommodate a maximum of 2 adults and 2 minors. For greater comfort, families may also request for inter-connecting rooms upon arrival at the SDF, subject to availability and charges for the additional room.</i>
 
 
-### SDF Opt-Out
+### Specific Requests for SDF Stay
 
 In general, travellers issued with a 10-day SHN must complete their SHN at an SDF, Exceptions, however, can be arranged for small group of travellers who will complete their 10-day SHN at their own residence instead. Travellers eligible for this arrangement should submit their applications three working days before their scheduled arrival in Singapore via the links below:
 
