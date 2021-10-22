@@ -36,7 +36,7 @@ Travellers who have specific needs for their SDF stay (e.g. medical requirements
 
 ### Opt-Out from SDF to serve SHN at Residence
 
-Exceptions can be made to allow travellers to serve their 10-day SHN at their own residence provided they meet the SDF opt-out criteria. Travellers who wish to opt-out from serving their SHN at SDFs should check their eligibility and submit their applications three working days before their scheduled arrival in Singapore.
+Exceptions can be made to allow travellers to serve their 10-day SHN at their own residence provided they meet the SDF opt-out criteria. Travellers who wish to opt-out from serving their SHN at SDFs should check their eligibility and submit their applications <u>three working days</u> before their scheduled arrival in Singapore.
 <table>
   <thead>
     <tr>
