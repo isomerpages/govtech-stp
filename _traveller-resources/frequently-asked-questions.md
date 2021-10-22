@@ -440,7 +440,7 @@ Travellers should register and pay for their on-arrival COVID-19 PCR test separa
 </td>
    </tr> 
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:16px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-right:2px solid #E0E0E0;">PayPal payment link for SDF stay and COVID-19 PCR tests during SHN will be provided upon provisional approval of application.<br><br>To expedite clearance at the airport, travellers should register and pay for their on-arrival COVID-19 PCR tests using the relevant links below, <b>before</b> arrival.
 								<ul style="list-style-type: disc;">
 					<li style="font-size:16px;">Travellers arriving via air transport, click <a href="https://safetravel.changiairport.com/#/">here</a></li>
@@ -571,7 +571,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
    </td>
     </tr>
       <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/requirements-and-process">Student’s Pass Holder Lane user</a></td>
+      <td style="margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; font-size:18px;border-right:2px solid #E0E0E0;"><a href="/stpl/overview">Student’s Pass Holder Lane user</a></td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://form.gov.sg/#!/5f6858d80666cb0011cae36e">Refund Form</a>
 </td>
    </tr> 
