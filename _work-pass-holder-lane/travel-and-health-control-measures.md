@@ -35,7 +35,7 @@ On this page you will find the following:
 		<li style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#before">Categories of travel health control measures for arrivals before 26 Oct 2021, 2359 hours</a></li>
 					</ol>
 
-### Travel Health Control Measures for WPHL-Pass Holders (for arrivals from 26 Oct 2021, 2359h)
+### Travel Health Control Measures for WPHL-Pass Holders
 
 <div id="from"></div>
 
