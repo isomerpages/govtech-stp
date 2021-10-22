@@ -104,12 +104,6 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
       </ol>
    </td>
   </tr>
-	<tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Registration and payment of on-arrival COVID-19 PCR test</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">To reduce processing time at the checkpoints, travellers should register and pay for the on-arrival COVID-19 PCR test <a href="https://t.2c2p.com/express/parkwayshenton">here</a>, before their arrival in Singapore. <br/><br/>
-Travellers who have yet to register or pay for their on-arrival COVID-19 PCR test will pay for the test using NETS, Credit Card or Cash at the checkpoints.
-   </td>
-  </tr>
  <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
@@ -165,14 +159,12 @@ Travellers who have yet to register or pay for their on-arrival COVID-19 PCR tes
  </tr>
  <tr>
      <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR test may be denied entry into Singapore and could have their relevant permits cancelled. <br/><br/>
-Immediately after immigration clearance, travellers will take an on-arrival COVID-19 PCR test.
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR test may be denied entry into Singapore and could have their relevant permits cancelled. 
 </td> 
  </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Upon clearing immigration, PCA travellers will be sent a <a href="/health/shn">Stay Home Notice (SHN)</a> via e-mail and sent directly to their assigned <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, where they will complete their SHN. <!--must make their way directly to their SHN accommodation.--><br/><br/>
-Travellers will be transported to their assigned SDF using Government-arranged transport. The use of personal or public transport is prohibited, e.g. cars, motorcycles, taxis or public trains and buses. 
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All travellers are prohibited from taking public transport, e,g, public bus/train or street-hailed taxis.
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
