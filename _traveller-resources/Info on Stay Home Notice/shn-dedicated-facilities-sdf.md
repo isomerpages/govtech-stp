@@ -70,4 +70,4 @@ Exceptions can be made to allow travellers to serve their 10-day SHN at their ow
   </tbody>
   </table>
 
-Any prior approvals for opt-out granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable.
+Please note that any prior approvals for opt-out that had been granted may be revoked due to the latest public health risk assessment. In such an event, the prevailing border and health control measures will apply. This includes SDF stays and payments, where applicable.
