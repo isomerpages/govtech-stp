@@ -43,9 +43,9 @@ On this page you will find the following:
 
 <p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 26 Oct 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>
 
-<p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
+<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
 
-<table>
+<table style="overflow: hidden;">
 <thead>
 <tr>
 <th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History (excluding transits)</b></th>
