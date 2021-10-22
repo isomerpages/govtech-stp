@@ -111,11 +111,11 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan ="2" style="font-size:16px; border-top: 3px solid #FFFFFF; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:left;"><b>[Vaccinated Travel Lane (VTL) Countries/Regions]<br/> Brunei, Canada, Denmark <sup>1</sup>, France <sup>2</sup>, Germany, Italy, The Netherlands <sup>3</sup>, The Republic of Korea, Spain, The United Kingdom <sup>4</sup>, and The United States of America <sup>5</sup></b><br/><br/>Fully vaccinated work pass holders departing from Vaccinated Travel Lane (VTL) countries/regions listed above may enter Singapore without Stay Home Notice if they apply to enter Singapore via the VTL instead of the WPHL. [<a href="/vtl/requirements-and-process">Click here</a>] for more details on the VTL.<br/><br/>
-<i>	<sup>1</sup> Including the Faroe Islands and Greenland.<br/>
-<sup>2</sup> Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.<br/>
-<sup>3</sup> Including Aruba, Curaçao, Sint Maarten, and all special municipalities.<br/>
-<sup>4</sup> Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.<br/>
-<sup>5</sup> Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands</i>
+	<i>	<sup>1</sup> Including the Faroe Islands and Greenland.</i><br/>
+<i><sup>2</sup> Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</i><br/>
+	<i>	<sup>3</sup> Including Aruba, Curaçao, Sint Maarten, and all special municipalities.	</i>	<br/>
+	<i>	<sup>4</sup> Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.	</i>	<br/>
+	<i>	<sup>5</sup> Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands</i>
 	</th>
 </tr>
 		<tr>
