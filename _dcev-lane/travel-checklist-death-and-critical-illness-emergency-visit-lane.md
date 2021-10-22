@@ -135,8 +135,8 @@ Depending on your 14-day travel history before arriving in Singapore, you may be
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
     </tr>
 		</tbody>
 	      </table>
@@ -203,8 +203,8 @@ Depending on your 14-day travel history before arriving in Singapore, you may be
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;   border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
     </tr>
 		</tbody>
 	      </table>	      
