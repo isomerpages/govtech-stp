@@ -82,7 +82,7 @@ Travellers who test positive for COVID-19 will and must receive <a href="/health
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After SHN, travellers may go about their activities but must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
+After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
 
