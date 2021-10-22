@@ -146,7 +146,7 @@ Singapore PRs whose employer in Singapore is willing to facilitate their home le
 
 #### 3. I am a Singapore-based Singapore Citizen/Singapore Permanent Resident holding a Malaysia Work Pass. Am I eligible for a PCA pass to return to Malaysia for business/work?
 
-Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are required to apply for entry approval, i.e. MyTravelPass, with the Malaysian authorities. You can reach out to the <a href="https://www.kln.gov.my/">Malaysian Ministry of Foreign Affairs</a>, Malaysian Immigration Department <a href="https://www.imi.gov.my/">here</a> or the Malaysian High Commission in Singapore <a href="https://www.kln.gov.my/web/sgp_singapore">here</a> for advice.
+Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are required to apply for entry approval, i.e. MyTravelPass, with the Malaysian authorities. You can reach out to the <a href="https://www.kln.gov.my/" target="_blank">Malaysian Ministry of Foreign Affairs</a>, <a href="https://www.imi.gov.my/" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for advice.
 
 #### 4. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
 
