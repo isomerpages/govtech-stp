@@ -185,7 +185,7 @@ On this page you will find the following:
 			</td>
 		</tr>
 	</tbody>
-		</table><br>
+		</table><br>	<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i><br>	
 <table>
 <thead>
 <tr>
