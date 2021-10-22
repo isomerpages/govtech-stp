@@ -43,7 +43,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 					</ol>
 	<p></p>
 			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[From 26 Oct 2021, 2359 hours]</span></b> All countries/regions allowed. Travellers with a 14-day travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka prior to departure for Singapore will also be allowed to enter and transit through Singapore. These travellers will be subject to Category IV border measures.</p>
-			 			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Note</b> Fully vaccinated travellers with travel history to certain countries/regions may be eligible for the Vaccinated Travel Lane (VTL) instead with quarantine-free measures. Eligible travellers who wish to enter Singapore via the VTL do <b>not</b> need a separate entry approval under the STPHL. Click here for more details on the VTL.</p>
+			 			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Note</b>: Fully vaccinated travellers with travel history to certain countries/regions may be eligible for the Vaccinated Travel Lane (VTL) instead with quarantine-free measures. Eligible travellers who wish to enter Singapore via the VTL do <b>not</b> need a separate entry approval under the STPHL. <a href="/vtl/requirements-and-process">Click here for more details on the VTL</a>.</p>
 	<p></p>
 		 </td>
  </tr>
