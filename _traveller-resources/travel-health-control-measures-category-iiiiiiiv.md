@@ -113,14 +113,14 @@ On this page you will find the following:
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN.</li>
-		<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><b>*[Advisory for travellers serving SHN at home from 26 Oct 2021, 2359 hours]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</p>
+		<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>*[Advisory for travellers serving SHN at home from 26 Oct 2021, 2359 hours]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</p>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;">If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage: 
 	<ol style="margin-top:0px; list-style-type: lower-alpha;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
 		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving SHN.</li>
 	</ol>
-		</i></p>
+		</p>
 </td>
 	</tr>
 	</tbody>
