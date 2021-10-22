@@ -31,7 +31,7 @@ Travellers with travel history to the following countries/regions will not be al
   </tbody>
   </table>
   
-<!--<b>From 26 Oct 2021, 2359 hours</b>, travellers with travel history to <b>Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b> will be allowed to transit through Singapore. -->
+<b>From 26 Oct 2021, 2359 hours</b>, travellers with travel history to <b>Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b> will be allowed to transit through Singapore.
 
 
 <div id="PDT"></div>
