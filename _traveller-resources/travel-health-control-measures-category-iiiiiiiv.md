@@ -76,24 +76,18 @@ On this page you will find the following:
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures <br/><a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II)  Checklist</b></th>
+<th colspan="3" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;"><b>Category (II) Travel and Health Control Measures <br/><a href="/travel-checklist/category-2">Click here</a> for Category (II) Checklist</b></th>
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Fiji, France<sup>2</sup> , Finland, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta , New Zealand, Norway, Poland, Portugal, the Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, The Netherlands<sup>3</sup>, The United Kingdom<sup>4</sup> , The United States<sup>5</sup> , Vatican City</b>
-	<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:16px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands</p>
-	</th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States, Vatican City</b></th>
 </tr>
 </thead>
 <tbody>
 	<tr>
 <td colspan="3" style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For Short-term Visitors only]</b> Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
@@ -107,20 +101,12 @@ On this page you will find the following:
 </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 7-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence*;</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Residence;</li>
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 7 of SHN.</li>
-		<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>*[Advisory for travellers serving SHN at home from 26 Oct 2021, 2359 hours]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</p>
-	<p style="margin-top:20px; margin-bottom:0px; font-size:16px; line-height:1.5;">If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage: 
-	<ol style="margin-top:0px; list-style-type: lower-alpha;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Lower the lid before flushing the toilet;</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Clean and disinfect contact surfaces after each use; and</li>
-		<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Avoid using the toilet for at least 20 minutes after it is used by the person who is serving SHN.</li>
-	</ol>
-		</p>
 </td>
 	</tr>
 	</tbody>
