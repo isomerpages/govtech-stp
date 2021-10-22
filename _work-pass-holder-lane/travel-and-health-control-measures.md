@@ -148,7 +148,7 @@ On this page you will find the following:
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
 	</ol>
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).--></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN.</li>
 </ol>
 	</td> 
 		<td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
@@ -164,10 +164,9 @@ On this page you will find the following:
 </li>
 </ol>
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
-</li>
+
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
-	<ol style="margin-top: 0px; list-style-type: disc;">
+	<ol style="margin-top: 0px; list-style-type: lower-roman;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or household members, including any helpers) where the pass holder can be isolated in a room with an attached toilet.</b>  </li>
 	</ol>
@@ -179,7 +178,6 @@ On this page you will find the following:
 		<tr>
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><i>[Note]</i>: 
 						<ol  style="margin-top: 0px; list-style-type: disc;">
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>For hotels, submitters should refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> and check with the hotel to ensure they can accommodate guests on SHN when booking.</i></li>
 														<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>All pass holders are not allowed to serve SHN in dormitories. They are not allowed to serve SHN at residences occupied by non-household members.</i></li>
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i></li>
 						</ol>
@@ -190,7 +188,7 @@ On this page you will find the following:
 <table>
 <thead>
 <tr>
-<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
+<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History (excluding transits)</b></th>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category III]</b></th>
 </tr>
 	<tr>
