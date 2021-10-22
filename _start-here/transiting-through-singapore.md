@@ -6,7 +6,7 @@ permalink: /transit/overview
 
 Only passengers travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS) will be allowed to transit/transfer at Singapore’s Changi Airport. <u>Travellers are advised to confirm arrangements with the airlines they intend to fly with before purchasing their flight tickets</u>. 
 
-Travellers departing from all countries/regions are allowed to transit through Singapore, except travellers with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka, who will only be allowed
+Travellers departing from all countries/regions are allowed to transit through Singapore, except travellers with travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka, who will only be allowed to do so from 26 Oct 2021, 2359 hours.
 
 <table>
 <thead>
