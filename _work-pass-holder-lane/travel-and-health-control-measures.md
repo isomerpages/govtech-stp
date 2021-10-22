@@ -220,19 +220,8 @@ On this page you will find the following:
 </li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will:
-<ol style="margin-top: 0px; list-style-type: lower-latin;">
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3 and 7 of arrival ($20 including GST), and</li>
-	<li  style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This PCR test will be replaced by a self-administered ART from 22 Oct 2021).--></li></ol></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or suitable accommodation (e.g. hotel or serviced apartment) instead of at an SDF, where the helper/CN will take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN –<b>only if the helper/CN fulfils all conditions below:</b>
-			<ol style="margin-top: 0px; list-style-type: disc;">
-				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Are <a href="/wphl/vaccination-requirements">fully vaccinated</a>; and </li>
-					<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence or accommodation is occupied by the helper/CN alone or household members who are also vaccinated* and have the same travel history, arrival date and SHN duration as the helper/CN.</li>
-			</ol><!--:
-	<ol style="margin-top: 0px; list-style-type: lower-latin;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">self-administer <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Tests</a> on Days 3,7 of arrival ($20 including GST); and</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.<!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).</li>
-			</ol>-->
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b> If the household has unvaccinated vulnerable individuals, the helper is strongly encouraged to isolate herself in a separate room and minimise contact with these vulnerable household members.
 		</li>
 		</ol>
 	</li>
