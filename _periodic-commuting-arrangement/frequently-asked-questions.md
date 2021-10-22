@@ -62,15 +62,28 @@ You may call us at **6812 5555** or submit your query via the webform at <a href
 
 <div id="SDF"></div>
 
-### **Stay-Home Notice Dedicated Facilities (SDF)**
+### **Stay-Home Notice**
 
-#### 1. My immediate family member and I are approved to travel to Singapore under the PCA on the same day. Can we stay in the same SDF room?
+#### 1. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Only travellers who are <b>immediate family members</b> and have arrived in Singapore on the <b>same day</b> are permitted to stay in the same SDF room (up to 2 pax). 
+Travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
-In general, immediate family members travelling to Singapore together will be sent to the same SDF. Upon arrival at the SDF, they can <b>alert the hotel duty manager</b> of their room sharing request, even if they are from different companies.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this <a href="https://sha.org.sg/stay-home-notice">list</a>. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-Employers whose employees have successfully arranged to serve their Stay-Home Notice (SHN), may request for a refund. To do so, employers can write to <b><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a></b> with the <b>(i) PCA Reference Number, (ii) FIN/ IC numbers of the affected travellers, (iii) email address of the Sponsoring Organisation’s Contact Person and (iv) screenshot of proof of payment</b>, to submit a request.
+#### 2. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
+
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final COVID-19 Polymerase Chain Reaction test (“PCR test”) at the end of SHN. The duration of the SHN will be stated on your SHN document, and you can also click here to calculate the end date of your SHN.
+
+Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result.
+
+Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
+
+#### 3. What is a SHN Electronic Monitoring Device?
+
+An Electronic Monitoring Device (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.
+
+Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
+
 
 ##### Click here to go to the [top](#top).
 
