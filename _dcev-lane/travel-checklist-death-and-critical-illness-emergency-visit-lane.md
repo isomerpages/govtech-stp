@@ -6,7 +6,7 @@ permalink: /travel-checklist/dcev
 
 ### Travel Checklist – Death & Critical Illness Emergency Visit Lane	
 
-This checklist is suitable only for travellers who have been approved for entry on an urgent basis via the Death and Critical Illness Emergency Visit Lane (DCEV). Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or travellers who had left Singapore for Malaysia via DCEV should refer to the lane specific requirements or refer to their approval letters for instructions. Return to “Travelling to Singapore” for more details. 
+This checklist is **only** suitable for travellers who have been approved for entry on an urgent basis via the Death and Critical Illness Emergency Visit Lane (DCEV). Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Reciprocal Green Lane, Vaccinated Travel Lane or travellers who had left Singapore for Malaysia via DCEV should refer to the lane specific requirements or refer to their approval letters for instructions. Return to “Travelling to Singapore” for more details. 
 
 Given the nature of the visit, arrangements will be made to allow travellers to make short and safe visits to the medical facility and/or funeral. Otherwise, scroll-down or click on the links for health-related protocols applicable based on the relevant stage of your journey.
 
@@ -34,7 +34,7 @@ Travellers are required to take their PDT at an [accredited or authorised testin
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office [here](/contact-us).
+Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the [Safe Travel Office here for assistance.](/contact-us).
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
@@ -57,6 +57,8 @@ Travellers who are fit for travel should:
 			</ol></li>
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
+
+Travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
 
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
@@ -83,9 +85,7 @@ Travellers without the above may be denied boarding. Travellers who are exempted
 
 &#x2610;  <i><b>A) Immigration Clearance</b></i>
 
-You must present yourself for immigration clearance at a point of entry into Singapore. You must satisfy the basic entry requirements before you can be considered for entry. The period of stay granted wil be shown on the visit pass endorsement given on your passport. Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. Click <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">here</a> for more information about the e-Pass.
-
-Travellers will be asked to produce the following documents as part of the immigration clearance process:
+Travellers will be asked to produce the following documents as part of the immigration process:
 
 <ul style="list-style-type:lower-roman;">
 		<li>Negative PDT report, if required</li>
@@ -93,6 +93,10 @@ Travellers will be asked to produce the following documents as part of the immig
 	<li>Valid visa (only visa-required passport holders)</li>
 	<li>	A mobile device with the TraceTogether app downloaded and with a registered user profile</li>
 	</ul>
+
+Eligible travellers vaccinated overseas who are staying in Singapore for less than 30 days, you may also inform the officer to have your <a href="/health/vtsg" target="_blank">vaccination details registered in your TraceTogether app</a> in order to be eligible for location vaccination-differentiated measures. Travellers staying longer than 30 days will have a different process to <a href="/health/vtsg#VDSMM" target="_blank">register their vaccinated status inland</a>.
+
+Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. Click <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">here</a> for more information about the e-Pass.
 	
 Travellers with a 14-day travel history to any [Category (II) to (IV) country/region](/shn-and-swab-summary) will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
 
@@ -100,11 +104,11 @@ Travellers with a 14-day travel history to any [Category (II) to (IV) country/re
 
 Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
+Travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
+
 &#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 
-Depending on your travel history, you may be required to self-isolate or serve a Stay Home Notice.
-
-Travellers are prohibited from using public transport (i.e. trains, buses, street-hailed taxis) to commute to their accommodation or assigned SHN-dedicated facility. Depending on the traveller’s SHN arrangement, they have the following transport options, which will apply throughout the SHN period:
+Depending on your 14-day travel history before arriving in Singapore, you may be required to self-isolate or serve a Stay Home Notice with the following transport options which will apply throughout the SHN period:
 
 <i>(Mobile users scroll right &#9755; to view the table)</i>
 <table>
@@ -114,12 +118,36 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers, Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
+	     <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (I) travel history only and Travellers under the Vaccinated Travel Lane]</b>Self-isolation at place of residence, hotel, or serviced apartment until On-Arrival Test results are out
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
-							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Pre-booked taxi/private hire vehicle from any of the following transport operators:</li>
+	      <li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Taxis (including street-hail taxis)</li>
+							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"><a href="/health/faq#transport" target="_blank">Pre-booked</a> taxi/private hire vehicle from any of the following transport operators:
+	      </li>
+	      </ol>
+	      					<table>
+  <thead>
+    <tr>
+ <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
+    </tr>
+		</tbody>
+	      </table>
+		     </td>
+	  </tr>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
+			</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
+				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
+							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"><a href="/health/faq#transport" target="_blank">Pre-booked</a> taxi/private hire vehicle from any of the following transport operators:</li>
 				</ol>
 					<table>
   <thead>
@@ -157,9 +185,35 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
 	</td>
     </tr>
 		<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers who are not fully vaccinated]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b><span style="color:red;">From 26 Oct 2021, 2359 hours</span></b><br/><br/>      
+	     <b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">		Travellers will commute to their declared SHN accommodation using transportation services offered by Strides Transportation Pte Ltd (“Strides”). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. <br/><br/>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">
+	      <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
+				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
+	      <li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Taxis (including street-hail taxis)</li>
+							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"><a href="/health/faq#transport" target="_blank">Pre-booked</a> taxi/private hire vehicle from any of the following transport operators:
+	      </li>
+	      </ol>
+	      					<table>
+  <thead>
+    <tr>
+ <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
+    </tr>
+		</tbody>
+	      </table>	      
+			</td>
+		</tr>		
+			<tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (IV) travel history with approval to opt-out of SDF only]</b> 10-day SHN at place of residence, hotel or serviced apartment
+			</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Travellers will commute to their declared SHN accommodation using transportation services offered by Strides Transportation Pte Ltd (“Strides”). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. <br/><br/>
 				<table>
   <thead>
     <tr>
@@ -186,13 +240,12 @@ Travellers are prohibited from using public transport (i.e. trains, buses, stree
     </tr>
   </tbody>
   </table>
+</td></tr>
+	  <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>SHN at SDF</b>
 			</td>
-		</tr>		
-			<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">SHN at SDF
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">	Dedicated SDF transport provided, no booking required
-				</td></tr>
+		    <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">	Government-provided transport, no booking required
+				</td>
   </tbody>
   </table>
 	
@@ -216,11 +269,11 @@ For travellers who received approval to leave their SHN location for short visit
 
 ### Stage 5: End of Stay-Home Notice
 
-&#x2610;  <i><b>A1) Early release from Stay-Home Notice(SHN) (if applicable)</b></i>
+&#x2610;  <i><b>A1) Early release from Stay-Home Notice (SHN) (if applicable)</b></i>
 
 Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, Please submit a request via [this form](https://go.gov.sg/sto-enquiry), with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
 
-&#x2610; <i><b>A2)Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
+&#x2610; <i><b>A2) Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
 
 Travellers can leave their self-isolation/SHN accommodation only if their final COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).
 
@@ -228,8 +281,10 @@ For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timi
 
 Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). Prevailing treatment charges will apply.
 
-&#x2610;  <i><b>B) Prevailing COVID-19 measures in Singapore</b></i>
+&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After SHN, travellers may go about their activities but must comply with the latest public health measures. This includes the use of the [TraceTogether](https://www.tracetogether.gov.sg/) app, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the [Ministry of Health website](https://moh.gov.sg/covid-19-phase-advisory) for more details.
+After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, click [here](/health/vtsg) for details on whether you qualify, and how to receive local recognition as a “fully vaccinated traveller”.
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
+
+Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
