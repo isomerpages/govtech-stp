@@ -32,21 +32,17 @@ The length of your SHN will be stipulated in the Entry Approval Letter or Safe T
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
+Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
 Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-#### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
-
-The more stringent travel health control measures would apply. This means that a traveller who had transited to Singapore via a second country where mandatory [SDF](/health/shn/sdf) stay is required, will serve their [SHN](/health/shn) at an SDF upon arrival into Singapore.
-
-#### 4. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
+#### 3. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
 An SHN is a legal notice issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
 Travellers should note that basic essentials such as water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
 
-#### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
+#### 4. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
 The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
@@ -54,24 +50,24 @@ Travellers who are serving SHN at their own place of residence may end their SHN
 
 Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
-#### 6. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
+#### 5. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
 As a condition for entry into Singapore, all travellers must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
 
 In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
-#### 7. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
+#### 6. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
 
 Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to book an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgrade) for more information.
 
-#### 8. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
+#### 7. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
 
 Travellers already in SDF may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. 
 
 For travellers who are not yet in Singapore or for request that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
 
 
-#### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
+#### 8. I am eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
@@ -81,7 +77,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
 
@@ -109,6 +105,23 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="https://safetravel.ica.gov.sg/health/shn">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key “<i>SHN</i>” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
+
+From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, travellers (regardless of vaccination status or personal circumstances) with a 14-day travel and transit history to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hail taxis) or book a private-hire car with the below transport operators.
+
+<table>
+  <thead>
+    <tr>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">via respective providers' apps</td>
+    </tr>
+  </tbody>
+  </table>
+  
 
 <div id="transportQ3"></div>
 
