@@ -150,7 +150,7 @@ Yes, you are eligible to work in Malaysia under the PCA scheme. However, you are
 
 #### 4. I am a Malaysian citizen and a Singapore PR. I am currently working in Singapore but I wish to return to Malaysia. Do I need to apply for a PCA pass to do so?
 
-For further clarification on entry to Malaysia, you may wish to reach out to the <a href="www.kln.gov.my" target="_blank">Malaysian Ministry of Foreign Affairs</a>, the <a href="www.imi.gov.my" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for further advice regarding entry to Malaysia.
+For further clarification on entry to Malaysia, you may wish to reach out to the <a href="https://www.kln.gov.my" target="_blank">Malaysian Ministry of Foreign Affairs</a>, the <a href="https://www.imi.gov.my" target="_blank">Malaysian Immigration Department</a> or the <a href="https://www.kln.gov.my/web/sgp_singapore" target="_blank">Malaysian High Commission in Singapore</a> for further advice regarding entry to Malaysia.
 
 ##### Click here to go to the [top](#top).
 
@@ -276,7 +276,7 @@ No. Domestic helpers are only permitted to enter Singapore via the [Work Pass Ho
 
 No. While the SafeTravel application portal is open to Singapore-based companies, it does not process entry applications for the Malaysian authorities.
 
-Employers who plan on sending their employees to Malaysia for work/business purposes under the PCA scheme should check with the relevant Malaysian authorities, e.g. [Malaysian Immigration Department](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/1833-malaysia-singapore-border-crossing-arrangement.html), for more information.
+Employers who plan on sending their employees to Malaysia for work/business purposes under the PCA scheme should check with the relevant Malaysian authorities, e.g. [Malaysian Immigration Department](https://www.imi.gov.my/portal2017/index.php/ms/sumber-dan-arkib/pengumuman/), for more information.
 
 #### 4. Can my employee travel to Singapore under the PCA scheme for study, short-term work, or leisure purposes?
 
