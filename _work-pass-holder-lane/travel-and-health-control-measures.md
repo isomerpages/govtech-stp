@@ -37,18 +37,18 @@ On this page you will find the following:
 
 ### Travel Health Control Measures for WPHL-pass holders
 
-<div id="table2"></div>
+<div id="from"></div>
 
-<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 12 Oct 2021, 2359h</span>]</b></p>
+<p style="font-size:24px;"><b>[For arrivals <span style="color: red;">from 26 Oct 2021, 2359h</span>]</b></p>
 
-<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 12 Oct 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>
+<p style="font-size:20px; color: red;"><b>Travellers arriving in Singapore before 26 Oct 2021, 2359h will be subject to the health measure stipulated in their approval letters and Stay Home Notices (SHN).</b></p>
 
 <p style="font-size:16px; margin-top:-10px;">(Mobile users: Please scroll right for the full table.)</p>
 
 <table>
 <thead>
 <tr>
-<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History</b></th>
+<th rowspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white;vertical-align:middle;"><b>Country/Region Classification based on 14-day Travel History (excluding transits)</b></th>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category I]</b></th>
 </tr>
 	<tr>
@@ -69,9 +69,9 @@ On this page you will find the following:
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/> Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate in one of the following accommodation until they get a negative test result: 
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels<sup>[See Note]</sup> or serviced apartments)</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b>  </li>
+	<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer’s house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b> If the household has unvaccinated vulnerable individuals, the helper is strongly encouraged to isolate herself in a separate room and minimise contact with these vulnerable household members.</li>
 	</ol>
 	</li>
 </ol>
@@ -81,9 +81,9 @@ On this page you will find the following:
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br/><br/>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Proceed <b>immediately</b> to self-isolate in one of the following accommodation until they get a negative test result: 
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels<sup>[See Note]</sup> or serviced apartments)</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Room with an attached toilet in their house     </li>
+	<ol style="margin-top: 0px; list-style-type: lower-roman;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or household members, including any helpers).</b> If the household has unvaccinated vulnerable individuals, the pass holder is strongly encouraged to isolate themselves in a separate room and minimise contact with these vulnerable household members.</li>
 	</ol>
 	</li>
 </ol>
@@ -93,7 +93,7 @@ On this page you will find the following:
 		<tr>
 					<td colspan="4" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8; "><i>[Note]</i>: 
 						<ol  style="margin-top: 0px; list-style-type: disc;">
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>For hotels, submitters should check and ensure they can accommodate guests on self-isolation when booking.</i></li>
+							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>All pass holders are not allowed to serve SHN in dormitories. They are not allowed to serve SHN at residences occupied by non-household members.</i></li>
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i></li>
 						</ol>
 			</td>
