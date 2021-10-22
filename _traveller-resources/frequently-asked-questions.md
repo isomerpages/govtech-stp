@@ -125,7 +125,7 @@ From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, travell
 
 <div id="transportQ3"></div>
 
-#### 2. [For non-fully vaccinated travellers with Category (III) travel history and travellers with Category (IV) travel history] Due to extenuating Circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
+#### 2. [For travellers with Category (IV) travel history] Due to personal circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
 
 For such travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd (Tel: 6477 5977). The following costs will apply, which will be borne by the traveller.
 
