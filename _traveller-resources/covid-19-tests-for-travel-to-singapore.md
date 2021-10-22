@@ -28,7 +28,7 @@ All other travellers (i.e. short-term visitors) will still be required to produc
 
 #### 2. On-Arrival Tests
 
-All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. <!-- From 26 October 2021, 2359 hours, only travellers with 14-day travel or transit history to Category (I) countries/regions are required to take a COVID-19 PCR test upon arrival in Singapore. Travellers from Category (II), (III) and (IV) countries/regions will no longer need to undergo an on-arrival COVID-19 PCR test.-->
+All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>.  <br/><br/>From <b>26 October 2021, 2359 hours</b>, only travellers with 14-day travel or transit history to Category (I) countries/regions are required to take a COVID-19 PCR test upon arrival in Singapore. Travellers from Category (II), (III) and (IV) countries/regions will no longer need to undergo an on-arrival COVID-19 PCR test.
 
 To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
 
@@ -78,7 +78,7 @@ Depending on the traveller's travel and transit history and <a href="/arriving/o
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Paid during application for entry into Singapore</td>
     </tr>
 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN*<!--<br/><br/>Category (III) and (IV) travellers are no longer required to undergo additional ARTs on the 3<sup>rd</sup> and 7<sup>th</sup> days of their arrival, during their SHN. This would include travellers arriving from 23 October 2021, 2359 hours.--></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN* <br/><br/>Category (III) and (IV) travellers are no longer required to undergo additional ARTs on the 3<sup>rd</sup> and 7<sup>th</sup> days of their arrival, during their SHN. This would include travellers arriving from 23 October 2021, 2359 hours.</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">20 (for sets of 2) <br/><br/> 40 (for sets of 4)</td>
     </tr>
 	</tbody>
