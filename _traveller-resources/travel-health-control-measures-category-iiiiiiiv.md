@@ -153,7 +153,7 @@ On this page you will find the following:
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
 </td>
 	</tr>
 	</tbody>
@@ -189,7 +189,7 @@ On this page you will find the following:
 </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn/sdf">SHN Dedicated Facility</a>
 	</li>
-	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li>
+	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
 	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span>Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</p>
 	
 </td>
@@ -199,7 +199,7 @@ On this page you will find the following:
 
 <div id="before"></div>	   
 
-### Categories of Travel Health Control Measures (for arrivals before 18 Oct 2021, 2359H)  
+### Categories of Travel Health Control Measures (for arrivals before 26 Oct 2021, 2359H)  
 	
 <i>(Mobile users scroll right ☛ to view the table)</i>
 
