@@ -22,7 +22,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </li>
 			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA-issued pass holder (e.g. Long-Term Visit Pass) or short-term visitor who is a parent/guardian of an STP/STP-IPA holder aged 19 years and below (in this calendar year ).  <i>[<u>Note</u>: A maximum of one parent/guardian is allowed per family unit.]</i>
 			 </li>
-			  <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Siblings (of STP/STP-IPA holders ) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution</li>
+			  <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Siblings (of STP/STP-IPA holders) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution</li>
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Spouse of STP/STP-IPA holder on post-graduate programme</li>
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Child(ren) of STP/STP-IPA holder on post-graduate programme </li>
 			 </ol>
