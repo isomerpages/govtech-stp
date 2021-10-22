@@ -31,13 +31,17 @@ The cost of a 10-day SDF stay is typically S$1,450 per person per room. A furthe
 
 ### Specific Requests for SDF Stay
 
-In general, travellers issued with a 10-day SHN must complete their SHN at an SDF, Exceptions, however, can be arranged for small group of travellers who will complete their 10-day SHN at their own residence instead. Travellers eligible for this arrangement should submit their applications three working days before their scheduled arrival in Singapore via the links below:
+Travellers who have specific needs for their SDF stay (e.g. medical requirements), may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request two weeks in advance of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. Travellers who are already serving SHN at an SDF may wish to contact the SDF's front desk for assistance.
+<p>As  there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</i></p>
 
+### Opt-Out from SDF to serve SHN at Residence
+
+Exceptions can be made to allow travellers to serve their 10-day SHN at their own residence provided they meet the SDF opt-out criteria. Travellers who wish to opt-out from serving their SHN at SDFs should check their eligibility and submit their applications three working days before their scheduled arrival in Singapore.
 <table>
   <thead>
     <tr>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Conditions</th>
-      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Application Form</th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px;  border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; text-align:center;"><b>Conditions</b></th>
+      <th style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; text-align:center;"><b>Application Form</b></th>
     </tr>
   </thead>
   <tbody>
@@ -47,7 +51,7 @@ In general, travellers issued with a 10-day SHN must complete their SHN at an SD
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
        <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="/health/vtsg">Fully vaccinated travellers</a> who:
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;"><b>[For Travellers entering Singapore before 26 Oct 2021, 2359h only]</b></span><br/><br/><a href="/health/vtsg">Fully vaccinated travellers</a> who:
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; AND</li>
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any Category (I) to (III) country/region for the past 14 consecutive days before arrival in Singapore.</li>
@@ -58,7 +62,7 @@ In general, travellers issued with a 10-day SHN must complete their SHN at an SD
 	<li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-roman; line-height:1.5">With household members who are also vaccinated persons serving SHN with the same travel history and duration of SHN.</li>
 </ol>
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><span style="color:red;"><b>[For Travellers entering Singapore before 26 Oct 2021, 2359h only]</b></span><br/><br/>
 	Click <a href="https://go.gov.sg/scproptoutsdf">here</a> for Singapore Citizens and PRs (Applications must be submitted three days before arrival)
 	<p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Foreign Travellers can opt out during their entry application process</p>
 </td>
