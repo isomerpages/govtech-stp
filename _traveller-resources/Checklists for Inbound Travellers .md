@@ -22,7 +22,7 @@ If you have yet to identify a suitable Safe Travel Lane for entry, return to the
 	</li>
 </ol>
 
-### 2)	Checklist based on 14-day travel <!--and transit--> and transit history for Safe Travel Lanes <u>not</u> specified above
+### 2)	Checklist based on 14-day travel history for Safe Travel Lanes <u>not</u> specified above
 
 <ol style="padding-left:20px; font-size:20px; margin-bottom:0px;">
 	<li style="font-size:20px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha; "><a href="/travel-checklist/category-1">Category (I)</a>
