@@ -59,7 +59,8 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">2 to 5 weeks before the planned date of entry<br/>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[Before 26 Oct 2021, 2359 hours]</span></b> 2 to 5 weeks before the planned date of entry</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[From 26 Oct 2021, 2359 hours]</span></b> 2 to 9 weeks before the planned date of entry</p>
 		<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p></td>
 </tr>
 <tr>
