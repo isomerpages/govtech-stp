@@ -108,6 +108,21 @@ Only travellers with the same travel history and heading to the same declared pl
 
 From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, travellers (regardless of vaccination status or personal circumstances) with a 14-day travel and transit history to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hail taxis) or book a private-hire car with the below transport operators.
 
+<table>
+  <thead>
+    <tr>
+   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">via respective providers' apps</td>
+    </tr>
+  </tbody>
+  </table>
+  
+
 <div id="transportQ3"></div>
 
 #### 2. [For non-fully vaccinated travellers with Category (III) travel history and travellers with Category (IV) travel history] Due to extenuating Circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
