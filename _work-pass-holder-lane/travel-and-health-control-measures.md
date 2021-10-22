@@ -192,7 +192,7 @@ On this page you will find the following:
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category III]</b></th>
 </tr>
 	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>Estonia, Latvia, Lithuania, Maldives, Slovenia</b></th>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>Cambodia, Egypt, Hungary, Indonesia, Israel, Malaysia, Mongolia, Qatar, Rwanda, Samoa, Seychelles, South Africa, Tonga, UAE and Vietnam</b></th>
 </tr>
 	<tr>
 		<th colspan ="4" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Health Measures by Pass Type</b></th>
@@ -218,13 +218,7 @@ On this page you will find the following:
 </li>
 </ol>
 </li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore, depending on the SHN location:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at an SHN dedicated facility (SDF) by herself or with another helper/CN] </b> COVID-19 serology and PCR tests at the SDF within the first few days of arrival. <b>No registration is needed.</b> During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at SDF with her employer or employer’s family; or place of residence or suitable accommodation (e.g. hotel or serviced apartment)] </b> On-arrival COVID-19 PCR test at the checkpoint ($160 including GST). Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test</a> <b>before the helper/CN arrives in Singapore</b>. Otherwise, she may be denied entry and submitter’s subsequent entry applications may be rejected.</li>
-		</ol>
-	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following locations:
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">SDF ($1,050 including GST) where the helper/CN will:
 <ol style="margin-top: 0px; list-style-type: lower-latin;">
@@ -295,7 +289,7 @@ On this page you will find the following:
 	</tbody>
 		</table><br>
 		
-		
+	
 <table>
 <thead>
 <tr>
@@ -387,7 +381,7 @@ On this page you will find the following:
 
 ### Travel Health Control Measures for WPHL-pass holders
 
-<div id="before"></div>
+
 
 <p style="font-size:24px;"><b>[For arrivals <span style="color: red;">before 26 Oct 2021, 2359h</span>]</b></p>
 
