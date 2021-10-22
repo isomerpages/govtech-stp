@@ -91,9 +91,28 @@ Your personal privacy is protected while using these devices. The device does no
 
 ### **Transport Matters**
 
-#### 1. I am approved under the PCA scheme to enter Singapore. Am I permitted to drive into Singapore and directly to my SDF?
+#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
-PCA travellers may travel to Singapore in their own vehicles. However, they will not be permitted to commute directly to their SDF. Travellers will receive more instructions on the parking arrangement at the checkpoint, and on the transport arrangement to their SDF.
+All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
+
+<b><u>(i) If you are using your own transport</u></b>
+
+Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+
+If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
+
+All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+
+- Vehicle windows must be wound down with air conditioning turned off.
+-	Where practicable, the front passenger seat should be left unoccupied;
+-	The back seat should only be occupied by the traveller(s)
+-	The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) guidelines for more information.
+
+<b><u>(ii) Booking taxi/private-hire vehicles</u></b>
+
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
+
 
 ##### Click here to go to the [top](#top).
 
