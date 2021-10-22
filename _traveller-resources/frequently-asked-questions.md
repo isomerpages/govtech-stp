@@ -18,7 +18,7 @@ permalink: /health/FAQ
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
 </ol>
 
-Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
+Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions)  (MOM’s FAQs) for more information.
 
 <div id="shnsdf"></div>
 
@@ -67,7 +67,7 @@ Travellers already in SDF may contact the concierge at the Stay-Home Notice Dedi
 For travellers who are not yet in Singapore or for request that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
 
 
-#### 8. I am eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
+#### 8. I previously received approval to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do? 
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
@@ -106,21 +106,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
-From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, travellers (regardless of vaccination status or personal circumstances) with a 14-day travel and transit history to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hail taxis) or book a private-hire car with the below transport operators.
-
-<table>
-  <thead>
-    <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">via respective providers' apps</td>
-    </tr>
-  </tbody>
-  </table>
+From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, all travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hail taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.       
   
 
 <div id="transportQ3"></div>
@@ -156,36 +142,10 @@ Travellers who have obtained approval to serve SHN at their own accommodation **
   </tbody>
   </table>
   
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. 
+Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.   
+  
+The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. 
 
-<!-- <table>
-  <thead>
-    <tr>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" colspan="3">Table 1: Transport Service Provider for Persons Approved* to Serve SHN at A Place of Residence</th>
-		</tr>
-		<tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Type of trip</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (an additional 10% will be charged for credit card transactions)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;" rowspan="2">Strides Transportation Pte Ltd <br> 6477 5977 
-</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From checkpoint to residence</b> - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br><br>plus <br><br><b>From residence to testing facility for COVID-19 tests on Day 10 (round trip)</b> - Please ensure that your test appointment has been scheduled before making transport arrangements. .</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From any other ad-hoc trips approved by the authorities</b> </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Round Trip – S$90.00 <br> Per Way – S$45.00 
-</td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;" colspan="3">* <i>Includes only travellers with a travel history to a Category (III) or (IV) country/region in the past 14 days before arriving in Singapore.</i></td>
-    </tr>
-  </tbody>
-  </table> 
-	
-For service-related feedback, travellers may wish to contact 6477 5977 or email to taxicorp@smrt.com.sg.-->
 	
 Click here to [Go Back To Top](#top).
 
@@ -480,7 +440,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
     <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" rowspan="3">On arrival in Singapore</td>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test  [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
         <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">Here</a></td>
     </tr>
         <tr>
@@ -490,7 +450,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 		</tr>
         <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-					  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+					  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
     </tr>     
   </tbody>
   </table>
@@ -514,7 +474,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
     <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;" rowspan="3">On arrival in Singapore</td>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test  [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
         <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/">here</a>  to book and pay for the tests <b>before the helper/CN arrives in Singapore</b>.</td>
     </tr>
         <tr>
@@ -526,7 +486,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 </tr>
 <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-	<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+	<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
     </tr> 
   </tbody>
@@ -538,9 +498,6 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
            </ol>  
 </td>
    </tr> 
-<!--				<tr>
-<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" colspan="2">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 14 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
-		</tr>-->
       </tbody>
   </table>
   
