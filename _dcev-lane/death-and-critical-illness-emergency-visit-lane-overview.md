@@ -64,7 +64,7 @@ Aside from selecting “<i>Appeal for entry into Singapore under Compassionate R
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel and transit history before arriving in Singapore.<br/><br/>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history (excluding transit) before arriving in Singapore.<br/><br/>
 	<a href="/shn-and-swab-summary">CLICK HERE</a> for the travel health control measure (e.g. Stay Home Notice, swab tests) categories and their applicable country/region. Prevailing health measures will apply but special arrangements can be made for the traveller to visit the funeral/hospital during the SHN period if need be.
  </td>
 </tr>
