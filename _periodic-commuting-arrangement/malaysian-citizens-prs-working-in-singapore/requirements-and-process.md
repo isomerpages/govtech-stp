@@ -184,6 +184,13 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
      </p>-->
          </td>
  </tr>
+	<tr>
+     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SHN Electronic Monitoring Device</b></td>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">An Electronic Monitoring Device (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.<br/><br/>
+Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
+
+</td> 
+ </tr>
   </tbody>
  </table>
  
