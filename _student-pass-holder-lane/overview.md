@@ -32,7 +32,7 @@ The table below provides a quick overview of the key STPHL features, requirement
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[Before 26 Oct 2021, 2359 hours]</span></b> All countries/regions allowed <b>except</b> travellers whose 14-day travel and transit history before arrival in Singapore includes any of the following countries:</p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[Before 26 Oct 2021, 2359 hours]</span></b> All countries/regions allowed <b>except</b> travellers whose 14-day travel history before arrival in Singapore includes any of the following countries:</p>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
@@ -41,6 +41,8 @@ The table below provides a quick overview of the key STPHL features, requirement
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Pakistan </li>
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Sri Lanka</li>
 					</ol>
+	<p></p>
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[From 26 Oct 2021, 2359 hours]</span></b> All countries/regions allowed. Travellers with a 14-day travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka prior to departure for Singapore will also be allowed to enter and transit through Singapore. These travellers will be subject to Category IV border measures.</p>
 	<p></p>
 		 </td>
  </tr>
