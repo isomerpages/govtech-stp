@@ -23,7 +23,13 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
    <tr>
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
-Brunei Darussalam, Canada, Denmark, Germany, France, Italy, The Netherlands, Spain, The United Kingdom and The United States <br/><br/><b>[Effective 7 November 2021, 2359 hours for entry into Singapore]</b> Australia and Switzerland <br/><br/><b>[Effective 14 November 2021, 2359 hours for entry into Singapore]</b> Republic of Korea
+	    Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, The Netherlands<sup>3</sup>, Spain, The United Kingdom<sup>4</sup> and The United States<sup>5</sup>
+	    <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p>
+	    <br/><br/><b>[Effective 14 November 2021, 2359 hours for entry into Singapore]</b> Republic of Korea
 <!--		 <table>
 <thead>
 <tr>
