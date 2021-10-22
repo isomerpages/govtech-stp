@@ -20,12 +20,15 @@ Travellers may be required to take a COVID-19 Polymerase Chain Reaction (PCR) pr
 
 Travellers who fail to produce the required documentary proof of a valid negative pre-departure COVID-19 PCR test may be denied boarding or turned away. 
 
+<!--From 26 October 2021, 2359 hours, Singapore Residents (i.e. Singapore Citizens and Permanent Residents and Long-Term Pass Holders) are no longer required to produce a negative pre-departure test result taken within 48 hours before their departure to Singapore from Category II, III and IV countries/regions.
+
+All other travellers (i.e. short-term visitors) will still be required to produce a negative COVID-19 Polymerase Chain Reaction test ("COVID-19 PCR test") taken within 48 hours before departure taken at an internationally accredited or recognised lab/clinic/medical facility.-->
 
 <div id="price"></div>
 
 #### 2. On-Arrival Tests
 
-All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. <!--Travellers with a travel history that includes a specified Category (IV) country/region will be required to take an additional Antigen Rapid test, which costs S$67 (including GST). -->
+All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. <!-- From 26 October 2021, 2359 hours, only travellers with 14-day travel or transit history to Category (I) countries/regions are required to take a COVID-19 PCR test upon arrival in Singapore. Travellers from Category (II), (III) and (IV) countries/regions will no longer need to undergo an on-arrival COVID-19 PCR test.-->
 
 To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
 
