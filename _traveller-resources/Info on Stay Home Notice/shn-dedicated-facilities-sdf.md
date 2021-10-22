@@ -31,7 +31,7 @@ The cost of a 10-day SDF stay is typically S$1,450 per person per room. A furthe
 
 ### Specific Requests for SDF Stay
 
-Travellers who have specific needs for their SDF stay (e.g. medical requirements), may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request two weeks in advance of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. Travellers who are already serving SHN at an SDF may wish to contact the SDF's front desk for assistance.
+Travellers who have specific needs for their SDF stay (e.g. medical requirements), may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request <u>two weeks in advance</u> of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. Travellers who are already serving SHN at an SDF may wish to contact the SDF's front desk for assistance.
 <p>As  there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</i></p>
 
 ### Opt-Out from SDF to serve SHN at Residence
