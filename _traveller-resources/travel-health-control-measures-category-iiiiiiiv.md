@@ -334,7 +334,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>All other countries or regions </b> <span style="color:#bf3939;">(see notes for additional requirements/exceptions)</span></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>All other countries or regions </b> <span style="color:#bf3939;">(see note for additional requirements/exceptions)</span></th>
 </tr>
 </thead>
 <tbody>
@@ -357,7 +357,7 @@ On this page you will find the following:
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn/sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><span style="color:red;"><b>Note 1: Additional requirements/exceptions for travellers with a travel history to any of the following countries/regions:</b></span></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><span style="color:red;"><b>Note: Additional requirements/exceptions for travellers with a travel history to any of the following countries/regions:</b></span></p>
 	<table>
   <thead>
     <tr>
