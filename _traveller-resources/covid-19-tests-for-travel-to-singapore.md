@@ -78,7 +78,7 @@ Depending on the traveller's travel and transit history and <a href="/arriving/o
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Paid during application for entry into Singapore</td>
     </tr>
 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN*</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Antigen Rapid Test during SHN*<br/><br/>Category (III) and (IV) travellers are no longer required to undergo additional ARTs on the 3<sup>rd</sup> and 7<sup>th</sup> days of their arrival, during their SHN. This would include travellers arriving from 23 October 2021, 2359 hours.</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">20 (for sets of 2) <br/><br/> 40 (for sets of 4)</td>
     </tr>
 	</tbody>
