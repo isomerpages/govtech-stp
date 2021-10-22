@@ -334,7 +334,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions </b> <span style="color:#c93c3c;"> [see note for additional requirements/exceptions]</span></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions </b> <span style="color:#f25a5a;"> [see note for additional requirements/exceptions]</span></th>
 </tr>
 </thead>
 <tbody>
