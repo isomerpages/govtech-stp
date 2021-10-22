@@ -164,7 +164,9 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
  </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All travellers are prohibited from taking public transport, e,g, public bus/train or street-hailed taxis.
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All travellers are prohibited from taking public transport, e,g, public bus/train or street-hailed taxis.<br/><br/><b><u>(i) If you are using your own transport</u></b><br/><br/>Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller and the traveller must be ferried directly to their declared place of accommodation.<br/><br/>If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.<br/><br/>All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+		<ol>
+			</ol>
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
