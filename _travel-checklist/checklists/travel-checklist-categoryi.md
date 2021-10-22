@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-1
 
 ### Travel Checklist – Category (I) Travel History
 
-This checklist is suitable **only** for travellers with travel and transit history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 days before arrival in Singapore. Return to this menu if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
+This checklist is suitable **only** for travellers with travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 days before arrival in Singapore. Return to this menu if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -18,7 +18,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 &#9744;  <i><b>B) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -48,6 +48,8 @@ As part of the airline or transport operator’s pre-boarding checks, travellers
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
+During immigration clearance, provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary. For eligible travellers vaccinated overseas who are staying in Singapore for less than 30 days, you may also inform the officer to have your <a href="/health/vtsg" target="_blank">vaccination details registered in your TraceTogether app</a> in order to be eligible for location vaccination-differentiated measures. Travellers staying longer than 30 days will have a different process to <a href="/health/vtsg#VDSMM" target="_blank">register their vaccinated status inland</a>. 
+
 You must present yourself for immigration clearance at a point of entry into Singapore. You must satisfy the basic entry requirements before you can be considered for entry. The period of stay granted wil be shown on the visit pass endorsement given on your passport. Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.
 
 &#9744;  <i><b>B) COVID-19 Tests</b></i>
@@ -56,49 +58,9 @@ Take an on-arrival <a href="/health/covid19-tests/pcrtest#price" target="_blank"
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers will commute directly to their declared SHN accommodation using their own private vehicle, or pre-booked taxi/private hire car with any of the following transport operators:
+Travellers are required to commute directly to the declared SHN accommodation using their own private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). 
 
-<table>
-  <thead>
-    <tr>
-<th colspan="2" style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">1</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">2</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6213 0997</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">3</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6477 5971</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">4</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6776 7553</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">5</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">6681 9462</td>
-    </tr>
-     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">6</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0;">via respective providers’ app</td>
-    </tr>
-  </tbody>
-  </table>	
-	
-Click <a href="/health/faq#transport" target="_blank">here</a> for the relevant transport advisories.
+The use of public transport (e.g. trains, buses) is strictly prohibited. 
 
 ### Stage 4: Self-isolation
 
@@ -108,7 +70,7 @@ Travellers may self-isolate in the following accommodations:
 - Place of residence; or 
 - Hotel of choice.
 
-Travellers without a suitable place of residence may <a href="https://sha.org.sg/air-travel-pass" target="_blank">self-isolate</a> at a hotel found in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving their accommodations.
+Travellers without a suitable place of residence may <a href="https://sha.org.sg/air-travel-pass" target="_blank">self-isolate</a> at a hotel found in this <a href="https://sha.org.sg/hotel-accommodation" target="_blank">non-exhaustive list</a>. Before a booking is made, travellers should check and ensure that the hotel can accommodate guests who are self-isolating for their COVID-19 Polymerase Chain Reaction Test (“PCR Test”) result. During this period of self-isolation, the traveller is prohibited from leaving the SHN accommodation.
 
 ### Stage 5: End of Self-isolation period
 
@@ -118,8 +80,10 @@ Travellers may only leave their accommodation only **after** a negative result o
 
 Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
-&#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
+&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After self-isolation, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank"> Ministry of Health website</a> for more details.
+After SHN, travellers may go about their activities but must comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg" target="_blank">click here</a> for details on whether you qualify, and how to receive local recognition of your vaccinated status.
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
+
+Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.
