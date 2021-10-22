@@ -4,7 +4,7 @@ permalink: /dcev/returnees-from-malaysia
 ---
 This arrangement caters to travellers <u>returning to Singapore from Malaysia only</u> after making cross-border travel to Malaysia to visit family members for emergency reasons such as death or critical illness. 
 
-<u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/overview">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
+<u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/requirements-and-process">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
 
 Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</a>  will be subject to the requirements below:
 
