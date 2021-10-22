@@ -123,7 +123,7 @@ Only travellers with the same travel history and heading to the same declared pl
 
 #### 1. My employee is unable to enter Singapore on the date indicated in the application. Can I amend the application and seek a refund for the COVID-19 PCR test?
 
-Employers are strongly encouraged to ensure that their employees can enter Singapore on the date indicated in the application. This is because the pre-payments made for the cost of SDF and COVID-19 Polymerase Chain Reaction test (“PCR test”) during application, are <u>non-refundable</u>. Forfeited pre-payments will go towards covering the relevant cost incurred to secure and prepare an accommodation for a traveller.
+Employers are strongly encouraged to ensure that their employees can enter Singapore on the date indicated in the application. This is because the pre-payment made for the COVID-19 Polymerase Chain Reaction test (“PCR test”) during application is <u>non-refundable</u>. Forfeited pre-payments will go towards covering the relevant cost incurred to secure and prepare an appointment for a traveller.
 
 Requests for refunds or change in entry date will only be considered if there are unforeseen extenuating factors, e.g. compassionate reasons. For such cases, employers may write to <a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a> with the relevant supporting documents.
 
@@ -170,8 +170,8 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
-- Serving 10-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
-- Take two self-administered COVID-19 Antigen Rapid Test (ART), on Day 3 and 7; followed by PCR test on Day 10 of SHN. 
+- Serving 10-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
+- Exit PCR test on Day 10 of SHN. 
 
 Click <a href="/shn-and-swab-summary">here</a> and <a href="/sc-pr/overview">here</a> for more information.
 
@@ -234,7 +234,7 @@ Travellers who have misplaced their work pass should lodge a police report immed
  
 Click [here](/health/covid19-tests/pcrtest#price) to check for the latest cost of the COVID-19 PCR test.
 
-The cost of the COVID-19 PCR test taken on-arrival at the checkpoint, will be collected in cash, NETS or Credit Card payment on the spot. For the exit from [Stay Home Notice (SHN)](/health/shn) COVID-19 [PCR test](/health/covid19-tests/pcrtest), payment would already be collected at the point of application. 
+For the exit from [Stay Home Notice (SHN)](/health/shn) COVID-19 [PCR test](/health/covid19-tests/pcrtest), payment would already be collected at the point of application. 
 
 #### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
@@ -254,9 +254,6 @@ Travellers will be turned away at Singapore's checkpoint if:
 	<li>diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or</li>
 	<li>tested positive on the pre-departure COVID-19 PCR test.</li>
 </ol> 
-<!--Travellers will be turned away at Singapore's checkpoint if: 
-- diagnosed with COVID-19 infection 14  days or less, from the date of travel; and/or
-- tested positive on the pre-departure COVID-19 PCR test.-->
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
 
