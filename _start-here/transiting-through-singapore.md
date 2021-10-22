@@ -8,31 +8,6 @@ Only passengers travelling with an airline whose transfer route via Singapore ha
 
 Travellers departing from all countries/regions are allowed to transit through Singapore, except travellers with travel history to <b>Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b>, who will only be allowed to do so <b><u>from 26 Oct 2021, 2359 hours</u></b>.
 
-<table>
-<thead>
-  <tr>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Country/Region</b></th>
-    <th style="border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Effective Date</b></th>
-  </tr>
-</thead>
-<tbody>
-	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>India</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">23 April 2021</td>
-  </tr>
-	<tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Bangladesh, Nepal, Pakistan and Sri Lanka</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">1 May 2021</td>
-  </tr>
-	    <tr>
-    <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Myanmar</b></td>
-      <td  style="text-align:left;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">16 July 2021</td>
-  </tr>
-  </tbody>
-  </table>
-  
-<b>From 26 Oct 2021, 2359 hours</b>, travellers with travel history to <b>Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b> will be allowed to transit through Singapore.
-
 
 <div id="PDT"></div>
 
