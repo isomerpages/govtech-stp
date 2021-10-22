@@ -55,7 +55,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
 </tr>
 </thead>
 <tbody>
@@ -79,7 +79,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Fiji, France<sup>2</sup> , Finland, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, the Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, The Netherlands<sup>3</sup>, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City</b>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark<sup>1</sup> , Fiji, France<sup>2</sup> , Finland, Germany, Greece, Iceland, Ireland, Italy, Japan, Liechtenstein, Luxembourg, Malta, New Zealand, Norway, Poland, Portugal, the Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, The Netherlands<sup>3</sup>, The United Kingdom<sup>4</sup>, The United States<sup>5</sup>, Vatican City</b>
 	<p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
@@ -134,7 +134,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>Cambodia, Egypt, Hungary, Indonesia, Israel, Malaysia, Mongolia, Qatar, Rwanda, Samoa, Seychelles, South Africa, Tonga, UAE and Vietnam</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Cambodia, Egypt, Hungary, Indonesia, Israel, Malaysia, Mongolia, Qatar, Rwanda, Samoa, Seychelles, South Africa, Tonga, UAE and Vietnam</b></th>
 </tr>
 </thead>
 <tbody>
@@ -183,7 +183,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>All other countries or regions</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions</b></th>
 </tr>
 </thead>
 <tbody>
@@ -226,7 +226,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Hong Kong, Macao, Mainland China, Taiwan</b></th>
 </tr>
 </thead>
 <tbody>
@@ -250,7 +250,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Luxembourg, Maldives, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, the United Kingdom, the United States of America, Vatican City</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white;"><b>Australia, Austria, Bahrain, Belgium, Bhutan, Brunei Darussalam, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Luxembourg, Maldives, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, Saudi Arabia, Slovakia, Spain, Sweden, Switzerland, Turkey, the United Kingdom, the United States of America, Vatican City</b></th>
 </tr>
 </thead>
 <tbody>
@@ -292,7 +292,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>Estonia, Latvia, Lithuania, Maldives, Slovenia</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Estonia, Latvia, Lithuania, Maldives, Slovenia</b></th>
 </tr>
 </thead>
 <tbody>
@@ -334,7 +334,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#878787; color:white; text-align:center;"><b>All other countries or regions </b> <span style="color:#bf3939;">(see note for additional requirements/exceptions)</span></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>All other countries or regions </b> <span style="color:#c93c3c;"> [see note for additional requirements/exceptions]</span></th>
 </tr>
 </thead>
 <tbody>
