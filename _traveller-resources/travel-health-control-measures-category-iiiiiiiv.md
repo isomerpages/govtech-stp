@@ -18,13 +18,16 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 <tbody>
     <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br><br>
-					<b> ➀</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
+					<b> &#10112;</b> If you have visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
-						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of the countries/regions you have visited will apply. For instance, a traveller who had left for Singapore from a Category (II) country/region but transited via a Category (III) country/region, will be subject to the Category (III) measures; and</li>
-												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure.</li>
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The most stringent category out of all the countries/regions you have visited (excluding transit) will apply. For instance, a traveller who had travel history to both Category (I) and (II) countries/regions will be subject to the Category (II) measures; and</li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if you have remained in a Category (I) country for at least 14 consecutive days before departure. <u>or</u> you are a Singapore resident (i.e. Singapore Citizen, Permanent REsident and Long-Term Pass Holder) and have remained in a Category (I), (II), (III) and/or (IV) country/region for at least 14 consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
+										<b>&#10113;</b> Travellers below three years of age in this calendar year are, by default, exempted from having to take a COVID-19 test, e.g. COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
+										</p>
+							<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+										<b>&#10114;</b> Short Term Travellers are defined as those who are not Singapore Citizens, Permanent Residents or Long Term Pass Holders (e.g. Work Pass, Student's Pass, Dependant's Pass, In-Principle Approval Work or Student Pass Holders)
 										</p>
 			</td>
     </tr>
@@ -34,13 +37,13 @@ For details on the requirements of SafeTravel Lanes not listed above, return to 
 On this page you will find the following:
 
 <ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">
-						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#from">Categories of travel health control measures for arrivals from 18 Oct 2021, 2359 hours</a></li>
-		<li style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#before">Categories of travel health control measures for arrivals before 18 Oct 2021, 2359 hours</a></li>
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#from">Categories of travel health control measures for arrivals from 26 Oct 2021, 2359 hours</a></li>
+		<li style="font-size:18px; margin-top:15px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"><a href="#before">Categories of travel health control measures for arrivals before 26 Oct 2021, 2359 hours</a></li>
 					</ol>
 
 <div id="from"></div>	   
 
-### Categories of Travel Health Control Measures (for arrivals from 18 Oct 2021, 2359H)
+### Categories of Travel Health Control Measures (for arrivals from 26 Oct 2021, 2359H)
 
 	
 <i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i>
