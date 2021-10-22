@@ -186,7 +186,7 @@ Depending on your 14-day travel history before arriving in Singapore, you may be
     </tr>
 		<tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b><span style="color:red;">From 26 Oct 2021, 2359 hours</span></b><br/><br/>      
-	     <b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
+	     <b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[Travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">
 	      <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
