@@ -277,10 +277,7 @@ On this page you will find the following:
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>[Category IV]</b></th>
 </tr>
 	<tr>
-<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>All other Countries/ Regions<br/><br/> 
-	(<u>Excluding</u> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka. Pass holders with travel history to any of these excluded countries are not permitted for entry, including those with prior entry approvals.)
- 
-</b></th>
+<th colspan ="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#CCD2E7; text-align:center; vertical-align:middle;"><b>All other Countries/ Regions</b></th>
 </tr>
 	<tr>
 		<th colspan ="4" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8;background-color:#153855; color:white; text-align:center; vertical-align:middle;"><b>Health Measures by Pass Type</b></th>
@@ -306,18 +303,10 @@ On this page you will find the following:
 		</li>
 	</ol>	
 </li>
-<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Take COVID-19 PCR test when they arrive in Singapore, depending on the SHN location:
-	<ol style="margin-top: 0px; list-style-type: lower-roman;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at an SHN dedicated facility (SDF) by herself or with another helper/CN]</b> COVID-19 serology and PCR tests at the SDF within the first few days of arrival. No registration is needed. During the entry application, submitters will have to pay for the serology and PCR tests ($175 including GST).</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Serving SHN at at SDF with her employer or employer’s family]</b> COVID-19 PCR tests at checkpoint ($160 including GST).</li>
-	</ol>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST)
 	</li>
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST) and:
-	<ol style="margin-top: 0px; list-style-type: disc;">
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Self-administer <a href="/health/covid19-tests/pcrtest">Antigen Rapid Tests</a> ($20 including GST) on Days 3, 7 of arrival; <u>and</u></li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. <!--(This will be replaced by a self-administered ART for arrivals from 22 Oct 2021).--></li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. </li>
 		</ol>
-	</li>
 </ol>
 	</td> 
 		<td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;"><ol style="margin-top: 0px; list-style-type: decimal;">
