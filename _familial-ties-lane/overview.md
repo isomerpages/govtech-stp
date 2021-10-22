@@ -43,7 +43,7 @@ The table below is a quick overview of the key FTL features and requirements.
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Pakistan </li>
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Sri Lanka</li>
 					</ol>
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>[For arrivals from 26 Oct 2021, 2359 hours]</b> All countries/regions allowed. Travellers with a 14-day travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka prior to departure for Singapore will also be allowed to enter and transit through Singapore. These travellers will be subject to Category IV border measures. </p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">	<b><span style="color:red;">[For arrivals from 26 Oct 2021, 2359 hours]</span></b>  All countries/regions allowed. Travellers with a 14-day travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka prior to departure for Singapore will also be allowed to enter and transit through Singapore. These travellers will be subject to Category IV border measures. </p>
 		 </td>
  </tr>
 </tbody><thead>
