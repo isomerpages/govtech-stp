@@ -89,7 +89,7 @@ The traveller may contact his/her host company or government agency in Brunei to
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The RGL traveller departing for Brunei can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
+The RGL traveller departing for Brunei can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/departing/overview#PDT) for more information. 
 
 The traveller will bear his/her own cost for testing and should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -477,7 +477,7 @@ The traveller may contact his/her host company or government agency in Japan to 
 
 #### 8.	Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information.
+An RGL traveller departing for Japan can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/departing/overview#PDT) for more information.
 
 The traveller will need to adhere to the clinic’s cut-off timings for the pre-departure tests to ensure that he/she is able to obtain the test results in time to be allowed to check-in for his/her flight.
 
@@ -592,7 +592,7 @@ The traveller may contact his/her Indonesian sponsor to make the necessary arran
 
 #### 7. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance? 
  
-The RGL traveller departing for Indonesia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
+The RGL traveller departing for Indonesia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/departing/overview#PDT) for more information. 
 
 The traveller will bear his/her own cost for testing and should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -715,7 +715,7 @@ The traveller may contact his/her host company or government agency in Malaysia 
 
 #### 6. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
+The RGL traveller departing for Malaysia can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/departing/overview#PDT) for more information. 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
@@ -780,7 +780,7 @@ The relevant ROK Government authorities will assess each application on a case-b
 
 Residents in Singapore seeking to travel to the ROK for short-term essential business or official travel via the RGL must be sponsored by either a company or a government agency in the ROK, which will apply for isolation exemption approval on behalf of the applicant with the relevant government agencies in the ROK. If approved, the applicant is required to apply for a visa at the ROK Embassy in Singapore, should they hold a visa-required passport [click](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&srchTo=&srchWord=&srchTp=&multi_itm_seq=0&itm_seq_1=0&itm_seq_2=0&company_cd=&company_nm=&page=1). The approved applicant is also required to submit documents [click](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1) to the ROK Embassy in Singapore via email to <fastlanesg@mofa.go.kr> in order to receive the endorsed Isolation Exemption Certificate and the letter that will allow the approved applicant to take a pre-departure COVID-19 PCR test in Singapore. The approved applicant will be notified within 2 working days on the document pick-up date. Please [click here](https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761275) or contact the ROK Embassy in Singapore (contact details at **<a href="#annexarok">ANNEX A</a>**) for more details on the requirements for ROK-Singapore RGL Essential Travel.
 
-The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the ROK authorities prior to departure for the ROK. This includes taking a [pre-departure COVID-19 Polymerase Chain Reaction test](/health/covid19-tests/pre-departure-test) and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. This may also include other requirements such as keeping the ROK authorities informed of the traveller’s flight details.
+The traveller should work with his/her local host company or government agency to verify that he/she has fulfilled the RGL requirements of the ROK authorities prior to departure for the ROK. This includes taking a [pre-departure COVID-19 Polymerase Chain Reaction test](/departing/overview#PDT) and obtaining a negative test result within 72 hours before departure, and remaining in Singapore for at least 14 days prior to departure. This may also include other requirements such as keeping the ROK authorities informed of the traveller’s flight details.
 
 #### 3. What visas will I be eligible for under the RGL, and what is the visa duration in the ROK?
 
@@ -808,7 +808,7 @@ The traveller may contact his/her host company or government agency in the ROK t
 
 #### 8. Where do I take a pre-departure PCR test in Singapore? How much does it cost to take the PCR test, and can I pay for it with MediSave or insurance?
 
-A RGL traveller departing for the ROK can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/health/covid19-tests/pre-departure-test) for more information. 
+A RGL traveller departing for the ROK can make an appointment in advance at designated clinics in Singapore for a pre-departure test at the traveller’s cost. The traveller must take the test within 72 hours before departure, and obtain a health certificate of having tested negative for COVID-19. Click [here](/departing/overview#PDT) for more information. 
 
 The traveller should expect to pay up to S$200 (inclusive of GST) for the pre-departure test. This is not payable by MediSave, MediShield Life and Integrated Shield Plans.
 
