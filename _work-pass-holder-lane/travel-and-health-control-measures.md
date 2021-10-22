@@ -9,13 +9,13 @@ a) &nbsp; Work in the Construction, Marine shipyard or Process (CMP sector);<br/
 b) &nbsp; Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes<br/>
 c) &nbsp; Not entering Singapore with their dependants
 
-For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history, and will be stated on their entry approval letters. The health measures are split into 4 categories (Category I/II/III/IV).
+For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history (excluding transits), and will be stated on their entry approval letters. The health measures are split into 4 categories (Category I/II/III/IV).
 
 <table style="background-color:#f5f5f5">
 <tbody>
     <tr>
 				<td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;">!!<b><u> Important Notes before referring to the THCM Categories:</u></b></span><br><br>
-					<b> ➀</b> If the pass holder has visited or transited in multiple countries in the past 14 days before arriving in Singapore, note that:
+					<b> ➀</b> If the pass holder has visited (excluding transits) multiple countries in the past 14 days before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">The travel health control measures for the most stringent category will apply.  For instance, if the pass holder has travelled through both Category II and III countries/regions in the last 14 days, Category III measures will apply when he/she enters Singapore; and</li>
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if the pass holder remained in a Category (I) country for at least 14 consecutive days before departure.</li>
