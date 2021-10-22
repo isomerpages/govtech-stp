@@ -22,7 +22,7 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 
 #### ADDITIONAL CONDITIONS FOR EMPLOYERS OF MALAYSIA WORK PASS HOLDERS APPROVED FOR PCA
 
-1. Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on an Employer of a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”).
+Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on an Employer of a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”).
 
 *Before the foreign employee leaves for Singapore*
 
