@@ -6,7 +6,7 @@ permalink: /transit/overview
 
 Only passengers travelling with an airline whose transfer route via Singapore has been approved by the Civil Aviation Authority of Singapore (CAAS) will be allowed to transit/transfer at Singapore’s Changi Airport. <u>Travellers are advised to confirm arrangements with the airlines they intend to fly with before purchasing their flight tickets</u>. 
 
-Travellers with travel history to the following countries/regions will not be allowed to transit through Singapore:
+Travellers departing from all countries/regions are allowed to transit through Singapore:
 
 <table>
 <thead>
