@@ -131,10 +131,25 @@ For (A), please see sample screenshots below:
 
 Travellers may present any of the following:
 
-- [EU Digital COVID Certificates (EU DCC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
-- [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
-- [National Health Service (NHS) COVID Passes](https://www.gov.uk/guidance/nhs-covid-pass) on the NHS mobile app
-- Vaccination status on the [BruHealth app](http://www.moh.gov.bn/SitePages/bruhealth.aspx)
+   <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;"><b>Mobile Applications</b></p>
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (developed by the Government of Brunei)</li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV</a> (developed by the Korea Disease Control and Prevention Agency)<i><b> [For entry into Singapore from 14 November 2021, 2359hrs]</b></i></li>
+	    </ol>
+	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;"><b>Vaccination Certificates</b></p>
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
+			<ol style="margin-top:0px; list-style-type: lower-latin;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
+								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+							</ol>
+			</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
+												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
+			</ol>
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
 
