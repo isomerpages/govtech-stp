@@ -104,12 +104,6 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
       </ol>
    </td>
   </tr>
-	<tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Registration and payment of on-arrival COVID-19 PCR test</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;">To reduce processing time at the checkpoints, travellers should register and pay for the on-arrival COVID-19 PCR test <a href="https://t.2c2p.com/express/parkwayshenton">here</a>, before their arrival in Singapore. <br/><br/>
-Travellers who have yet to register or pay for their on-arrival COVID-19 PCR test will pay for the test using NETS, Credit Card or Cash at the checkpoints.
-   </td>
-  </tr>
  <thead>
   <tr>
     <th colspan="2" style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b><u>Day of Departure</u></b> to Singapore</th>
@@ -151,28 +145,31 @@ Travellers who have yet to register or pay for their on-arrival COVID-19 PCR tes
   </thead>
 <tbody>
 	<tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
-    <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance</b></td>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer or they may be denied entry:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app. Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</li>
          </ol>
-      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
-      <br/>
-*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
+		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
          </td>
  </tr>
  <tr>
      <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>COVID-19 Polymerase Chain Reaction Test (PCR Test)</b></td>
-     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR test may be denied entry into Singapore and could have their relevant permits cancelled. <br/><br/>
-Immediately after immigration clearance, travellers will take an on-arrival COVID-19 PCR test.
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Travellers who arrive in Singapore without a valid negative COVID-19 PCR test may be denied entry into Singapore and could have their relevant permits cancelled. 
 </td> 
  </tr>
    <tr>
     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Transport from Checkpoint to Accommodation</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Upon clearing immigration, PCA travellers will be sent a <a href="/health/shn">Stay Home Notice (SHN)</a> via e-mail and sent directly to their assigned <a href="/health/shn/sdf">SHN-Dedicated Facility (SDF)</a>, where they will complete their SHN. <!--must make their way directly to their SHN accommodation.--><br/><br/>
-Travellers will be transported to their assigned SDF using Government-arranged transport. The use of personal or public transport is prohibited, e.g. cars, motorcycles, taxis or public trains and buses. 
+    <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">All travellers are prohibited from taking public transport, e,g, public bus/train or street-hailed taxis.<br/><br/><b><u>(i) If you are using your own transport</u></b><br/><br/>Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller and the traveller must be ferried directly to their declared place of accommodation.<br/><br/>If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.<br/><br/>All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+		<ol style="margin-top:0px; list-style-type: disc;">
+			<li  style="font-size:18px; margin-top:0px; margin-bottom:0px;">Vehicle windows must be wound down with air conditioning turned off.</li>
+			<li  style="font-size:18px; margin-top:0px; margin-bottom:0px;">Where practicable, the front passenger seat should be left unoccupied;</li>
+			<li  style="font-size:18px; margin-top:0px; margin-bottom:0px;">The back seat should only be occupied by the traveller(s)</li>
+			<li  style="font-size:18px; margin-top:0px; margin-bottom:0px;">The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environmental Agency (NEA) guidelines</a> for more information.</li>
+			</ol><b><u>(ii) Booking taxi/private-hire vehicles</u></b><br/><br/>When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+<br/><br/>Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
     <!-- <p style="font-size:18px; margin-top:0px; margin-bottom:0px;">Travellers are prohibited from taking public transport to their SHN accommodation in Singapore. However, they are permitted to commute via:</p>-->
         <!--<ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:0px; margin-bottom:0px;">Personal transport (Malaysian-registered vehicles will be subject to VEP*);</li>
@@ -184,6 +181,13 @@ Travellers will be transported to their assigned SDF using Government-arranged t
 <br/>** Malaysian bus drivers must <b><u>return immediately</u></b> to Malaysia after dropping off the PCA-approved travellers at their declared SHN accommodation. Action will be taken against errant drivers.
      </p>-->
          </td>
+ </tr>
+	<tr>
+     <td style="font-size:18px; border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>SHN Electronic Monitoring Device</b></td>
+     <td style="font-size:18px; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><a href="/health/shn-monitoring" target="_blank">An Electronic Monitoring Device (“device”)</a> will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.<br/><br/>
+Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
+
+</td> 
  </tr>
   </tbody>
  </table>
@@ -209,9 +213,9 @@ Travellers will be transported to their assigned SDF using Government-arranged t
     </td>
   </tr>
   <tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at an SHN-dedicated facility (SDF)</b></td>
-  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf">SDF</a> for the period stipulated in the <a href="/health/shn/sdf">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted on-site, or at a specified testing facility, and travellers must return to their SDF immediately after the test. <br/><br/>
-	Travellers will be required to take self-administered COVID-19 Antigen Rapid Tests (ART) on Days 3 and 7 of their arrival in Singapore, while serving their SHN. They will also take a PCR test on Day 10, before they exit their SHN.
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Serving SHN at a declared SHN accommodation </b></td>
+  <td style="font-size:18px; border-right:1px solid #D8D8D8;">All PCA travellers must remain in their <a href="/health/shn/sdf" target="_blank">declared SHN accommodation</a> for the period stipulated in the <a href="/health/shn">SHN</a> unless they are due to take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“PCR test”). The test may be conducted at a specified testing facility, and travellers must return to their declared SHN accommodation immediately after the test. <br/><br/>
+	Travellers will be required to take a PCR test on Day 10, before they exit their SHN.
 		<br/><br/>
 Travellers who develop <a href="/health/covid19-symptoms">COVID-19 symptoms</a> during their SHN within 14 days of their entry into Singapore will be accorded medical treatment at their own/employer’s expense.<br/><br/>
 Singapore Permanent Residents who are Malaysian nationals may access Government subsidies and Medishield Life/Integrated Shield Plans to help pay for their medical bills.

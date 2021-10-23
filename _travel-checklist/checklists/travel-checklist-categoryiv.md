@@ -6,7 +6,7 @@ permalink: /travel-checklist/category-4
 
 ### Travel Checklist – Category (IV) Travel History
 
-This checklist is suitable **only** for travellers with travel and transit history to any Category (IV) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this menu</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should only refer to the lane specific requirements or their approval letters for instructions. 
+This checklist is **only** suitable for travellers with travel history (excluding transit) to any Category (IV) country/region in the past 14 days before arrival in Singapore. Return to <a href="/shn-and-swab-summary" target="_blank">this menu</a> if you are unsure if you come under this travel history category. Travellers arriving in Singapore via the Work Pass Holder General Lane, Air Travel Pass, Periodic Commuting Arrangement, Reciprocal Green Lane, Vaccinated Travel Lane or Death and Critical Illness Emergency Lane should refer to the lane-specific requirements or their approval letters for instructions. 
 
 Travellers may print out this page and indicate with a **"&#9745;"** in the box **(&#9744;)** for completed activities.
 
@@ -32,7 +32,7 @@ Travellers with difficulties getting a COVID-19 PCR test before their departure 
 
 &#9744;  <i><b>C) Submission of Health Declaration</b></i>
 
-Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they meet any of the following conditions: 
+Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Showing COVID-19 symptoms</li>
@@ -42,15 +42,18 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 
 &#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
-Travellers who are fit for travel should:
+Travellers arriving before **26 Oct 2021, 2359 hours** who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a>)</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">register and pay here</a>)</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pay here</a>)</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank"> register and pay here</a>)</li>
 			</ol></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
+		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
+
+Category(IV) travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
+
 <div id="1F"></div>
 
 &#9744;  <i><b>E) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
@@ -90,13 +93,17 @@ Travellers without the above may be denied boarding.
 
 &#9744;  <i><b>A) Immigration Clearance</b></i>
 
-You must present yourself for immigration clearance at a point of entry into Singapore. You must satisfy the basic entry requirements before you can be considered for entry. The period of stay granted wil be shown on the visit pass endorsement given on your passport. Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank"> Click here</a> for more information about the e-Pass.
+During immigration clearance, provide all relevant documents and information required by the immigration officer, including proof of tests taken if necessary. 
 
-As part of immigration clearance, travellers will be asked for their PDT report showing a negative COVID-19 result. Failing which, they may be turned away, and/or have their entry/re-entry or work-related permits and passes cancelled. Singapore Citizens entering Singapore via the Causeway or Second Link from Malaysia are exempted from having to produce a PDT report.
+<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
 
-&#9744;  <i><b>B) COVID-19 Tests</b></i>
+For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.
+
+&#9744;  <i><b>B) COVID-19 Test</b></i>
 
 Take an on-arrival <a href="/health/covid19-tests/pcrtest#price" target="_blank">COVID-19 Polymerase Chain Reaction test</a>. If you did not <a href="/health/covid19-tests/pcrtest#price" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+
+Category(IV) travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
 
 &#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
 
@@ -104,9 +111,9 @@ A 10-day <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a> will b
 
 &#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
 
-Travellers will be ushered to commute directly to the assigned Stay-Home Notice (SHN) accommodation. Those staying at SHN dedicated facilities will take the government-provided transport. Travellers are disallowed to take public transport (e.g. trains, buses, street-hailed taxis).
+Travellers who are serving their SHN at an **SHN Dedicated Facility (SDF)** will take the government-provided transport. 
 
-For those have been approved to serve SHN at their own accommodation, a <a href="/health/faq#transport" target="_blank">transport booking</a> must be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
+Travellers who have obtained approval to serve SHN at their own accommodation must make a <a href="/health/faq#transport" target="_blank">transport booking</a> with the transport provider, Strides Transportation (Tel: 6477 5977). The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -135,7 +142,9 @@ For those have been approved to serve SHN at their own accommodation, a <a href=
   </tbody>
   </table>
   
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options they used for commuting from their SHN accommodation, when commuting to the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.
+Travellers must rely on the same transport options they used for commuting from their SHN accommodation, when commuting to the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.
+
+The use of public transport (e.g. trains, buses, street-hailed taxis) is strictly prohibited.
 
 
 ### Stage 4: Stay-Home Notice and COVID-19 Tests
@@ -155,22 +164,23 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 **ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on Day 10 of their arrival. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
 
-Travellers serving SHN at an SDF must self-administer an ART on Days 3 and 7 of their arrival in Singapore <a href="https://moh.gov.sg/covid-19/selftestart" target="_blank">Click here</a> for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
+Travellers arriving **before 26 Oct 2021, 2359 hours** must also self-administer an ART on Days 3 and 7 of their arrival in Singapore <a href="https://moh.gov.sg/covid-19/selftestart" target="_blank">Click here</a> for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
 
-<!--**From 22 October 2021**, in addition to self-administering an ART on Days 3 and 7, travellers will be required to self-administer an ART on Day 10 of their arrival in Singapore, in place of taking a PCR test. Self-administered ART is required regardless of SHN location.-->
 
 ### Stage 5: End of Stay-Home Notice
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
+Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
 For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
 Travellers who test positive for <a href="/health/covid19-symptoms" target="_blank">COVID-19</a> will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
-&#9744;  <i><b>B) Advisory on prevailing COVID-19 management in Singapore</b></i>
+&#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
-After SHN, travellers may go about their activities but **must** comply with the latest public health measures. This includes the use of the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case. For the latest measures visit the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">Ministry of Health website</a> for more details.
+After SHN, travellers may go about their activities but <b>must</b> comply with the <a href="https://moh.gov.sg/covid-19-phase-advisory" target="_blank">latest public health measures.</a> 
 
-Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg" target="_blank">click here</a> for details on whether you qualify, and how to receive local recognition of your vaccinated status.
+Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, dining restrictions). If you had been vaccinated overseas, <a href="/health/vtsg#VDSMM" target="_blank">click here to check how to get your vaccinated status recognised in Singapore.</a> 
+
+Travellers should also use the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, which allows the identification of close contacts of a positive COVID-19 case.

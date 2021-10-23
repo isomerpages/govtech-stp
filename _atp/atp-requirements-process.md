@@ -10,7 +10,7 @@ Foreigners who are short-term visitors (including business and official travelle
 - Mainland China
 - Taiwan
 
-Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the [Returning SC/PRs lane](/sc-pr/requirements-and-process), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/requirements-and-process). These travellers should not apply for an ATP to travel to Singapore.
+Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders must travel via the [Returning SC/PRs lane](/sc-pr/overview), [Work Pass Holder General Lane](/wphl/overview) or [Student’s Pass Holder Lane](/stpl/overview). These travellers should not apply for an ATP to travel to Singapore.
 
 ### 2. Submit Applications for Air Travel Pass and Visa
 
@@ -160,25 +160,24 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </thead>
 <tbody>
   <tr> <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Upon arrival in Changi Airport</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors who need to purchase Singapore dollars or SIM cards, or rent mobile phones, should do so in the airport transit area <u>prior to clearing arrival immigration</u>. This is because visitors are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on <i>"Transport from airport to accommodation"</i> below.</td>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">Visitors may only procure goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall. They are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. Please see the section on <i>"Transport from airport to accommodation"</i> below.</td>
   </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8;">You must present yourself for immigration clearance at a point of entry into Singapore. You must satisfy the basic entry requirements before you can be considered for entry. The period of stay granted wil be shown on the visit pass endorsement given on your passport. Please note that from <b><u>10 Oct 2021</u></b>, all foreign visitors arriving in Singapore <b><u>via air</u></b> will be notified digitally of their Visit Pass (e-Pass) through email. There will not be any physical endorsement on your passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. Click <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints">here</a> for more information about the e-Pass.<br/><br/>At arrival immigration in Singapore, the visitor must present to the ICA officer:
+    <td style="font-size:16px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present the following to the ICA officer or entry may be denied:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid Air Travel Pass approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">an electronic or physical copy of your travel insurance policy, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs; and</li>
-          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app* (or a TraceTogether token for those eligible to be issued with a token)</li>
+          <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.0;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app (or a TraceTogether token for those eligible to be issued with a token). Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app. </li>
          </ol>
-      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
-      <br/>
-*Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
+		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>.  <br><br>
+			Please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.
          </td>
  </tr>
 	  <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;background-color:#EDEDED"><b>Transport from airport to accommodation</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/>Visitors are not permitted to enter any retail or food & beverage establishments, or procure any goods and services at the airport, including Jewel Changi Airport. The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done in the airport transit area, before arrival immigration.
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;">Visitors, who are holding an ATP, will undergo a COVID-19 PCR test at the airport upon arrival in Singapore. After undergoing the test, visitors must immediately take private transportation, taxi, or private hire car to travel from the airport to their declared accommodation and remain in isolation at that accommodation until they are notified that their test result is negative. Visitors shall also bear any transportation and accommodation costs incurred.<br/><br/> Visitors are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.
          </td>
  </tr>
 	<tr>
@@ -190,23 +189,23 @@ Given the evolving nature of the COVID-19 pandemic, the relevant authorities in 
   </tbody>
  </table>
 
-### 5. During and After Stay in Singapore
+### 5. During Stay in Singapore
  
  <table>
 <thead>
   <tr>
-    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore and up to 14 days after departure from Singapore</th>
+    <th colspan="2" style="font-size:16px;border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">During stay in Singapore</th>
   </tr>
   </thead>
 <tbody>
  <tr>
-    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Adhere to prevailing public health measures in Singapore</b></td>
+    <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Adhere to <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">prevailing public health measures</a> in Singapore</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;">During their stay in Singapore, visitors must adhere to the prevailing public health measures during their stay in Singapore, which include wearing of masks and safe distancing.
     </td>
   </tr>
   <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>Activation and retention of TraceTogether</b></td>
-    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore. Visitors are also required to retain the TraceTogether app with the data for 14 consecutive days after leaving Singapore. A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the first 14 days after leaving Singapore. <br/><br/>
+    <td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;"><b>For TraceTogether app users:</b><br/>To facilitate contact tracing, visitors must keep the TraceTogether app activated on their mobile devices while in Singapore.  A visitor must upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore. <br/><br/>
 			<b>For TraceTogether token users:</b><br/>
 As each token is uniquely tagged to each individual, visitors are reminded to carry their own tokens with them wherever they go, and not exchange their tokens with others. <br/><br/>
 <p style="font-size:16px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Visitors must return their own TraceTogether tokens in-person at the designated TraceTogether token return booths/counters set up at checkpoints, prior to their departure from Singapore.</p><br/>

@@ -5,7 +5,7 @@ permalink: /health/vtsg
 Travellers may be required to be fully vaccinated with WHO Emergency Use Listing (EUL) COVID-19 vaccines in order to be eligible for certain travel lanes to travel to Singapore, and domestic health measures requiring vaccinated status. This page outlines:
 
 - [Vaccinations accepted by Singapore](#acceptedvaccines)
-- [How to obtain vaccinated status for activities within Singapore](#VDSMM)
+- [Procedure to obtain vaccinated status for activities within Singapore](#VDSMM)
 
 <div id="acceptedvaccines"></div>
 
@@ -91,34 +91,22 @@ If you do not meet any of the above requirements, you are <b>not</b> considered 
 
 ### Obtaining Vaccinated Status for Activities Within Singapore
 
-A verified vaccination status may be required for certain activities in Singapore, such as participating in mask-off activities and attending large-scale events. 
+As part of <a href="https://go.gov.sg/moh-smm" target="_blank">Singapore’s Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore, such as dining, entering shopping malls or attending performances.
 
-Travellers will need to have their vaccination status reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand. Please refer to the details below on how to get your vaccination status recorded in these apps. Travellers need to:
+<b>Travellers who are vaccinated overseas should present your vaccination certificate(s) to the ICA officer at immigration clearance</b> in order to get the overseas vaccination records reflected electronically in their [HealthHub](https://www.healthhub.sg/) or [TraceTogether](https://www.tracetogether.gov.sg/) apps to show on demand to be eligible for VDS. Travellers need to:
 
 <ol style="list-style-type: lower-roman;">
 <li>Be aged 12 and above;</li>
 <li>Be fully vaccinated overseas with any vaccines approved under the WHO EUL; and</li>
-<li>Bring along the original overseas vaccination document that is in English or translated to English by a translation service provider, embassy or notary public</li>
+<li>Bring along the original overseas vaccination document that clearly states the type of vaccine taken and date(s) they were taken. The documents need to be in English or translated to English by a translation service provider, embassy or notary public.</li>
 	</ol>
-	
-<table>
-	<thead>
-		<tr>
-		<th style="margin-top:0px; margin-bottom:0px; font-size:16px; color:white; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153855;"><b>Remaining in Singapore for more than 30 days</b></th>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:16px; color:white; border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0; background-color:#153855"><b>Remaining in Singapore for 30 days or less</b></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-				<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; ">Travellers should obtain a positive COVID-19 serology test result from <a href="https://phpc.gov.sg">Public Health Preparedness Clinics</a>. Please call in advance to check if the service is available and the cost of the test. <br/><br/>
-The clinics will undertake the necessary administrative work and your vaccination record should appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> apps within 2 days of the test.
-</td>
-							<td style="margin-top:0px; margin-bottom:0px; font-size:16px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; "><p style=" font-size:16px; color:red; line-height:1.5;"><b>NOTE: The electronic vaccination record accorded via this channel will be valid for only 30 days.</b></p>
-Travellers who intend to remain in Singapore for less than 30 days may show proof of their original vaccination certificate(s) during immigration clearance. 
-The vaccination record should subsequently appear in your <a href="https://www.healthhub.sg/">HealthHub</a> and <a href="https://www.tracetogether.gov.sg/">TraceTogether</a>  apps within two days of arrival.
-</td>
-		</tr>
-		</tbody>
-			</table>
-			
-You can visit the [MOH website](https://go.gov.sg/moh-smm) for more information on  Vaccination-Differentiated Safe Management Measures within Singapore.
+
+If your vaccination certificate(s) are valid, you will be granted <b>temporary vaccinated status lasting about 30 days</b>. You will need to download the TraceTogether app and register with your passport number to view your vaccination status. The vaccinated status in your TraceTogether app will be your proof of vaccination while going around Singapore.
+
+#### Maintaining vaccination status beyond 30 days after arrival
+
+The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
+
+If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
+
+For more information, please refer to the <a href="https://www.moh.gov.sg/covid-19/vaccination/faqs---post-vaccination-matters" target="_blank">MOH FAQ </a>.

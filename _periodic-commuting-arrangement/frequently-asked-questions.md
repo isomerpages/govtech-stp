@@ -62,15 +62,28 @@ You may call us at **6812 5555** or submit your query via the webform at <a href
 
 <div id="SDF"></div>
 
-### **Stay-Home Notice Dedicated Facilities (SDF)**
+### **Stay-Home Notice**
 
-#### 1. My immediate family member and I are approved to travel to Singapore under the PCA on the same day. Can we stay in the same SDF room?
+#### 1. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Only travellers who are <b>immediate family members</b> and have arrived in Singapore on the <b>same day</b> are permitted to stay in the same SDF room (up to 2 pax). 
+Travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
-In general, immediate family members travelling to Singapore together will be sent to the same SDF. Upon arrival at the SDF, they can <b>alert the hotel duty manager</b> of their room sharing request, even if they are from different companies.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this <a href="https://sha.org.sg/stay-home-notice">list</a>. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-Employers whose employees have successfully arranged to serve their Stay-Home Notice (SHN), may request for a refund. To do so, employers can write to <b><a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a></b> with the <b>(i) PCA Reference Number, (ii) FIN/ IC numbers of the affected travellers, (iii) email address of the Sponsoring Organisation’s Contact Person and (iv) screenshot of proof of payment</b>, to submit a request.
+#### 2. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
+
+The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test (“PCR test”)</a> at the end of SHN. The duration of the SHN will be stated on your SHN document, and you can also <a href="/shn-calculator">click here</a> to calculate the end date of your SHN.
+
+Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result.
+
+Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
+
+#### 3. What is a SHN Electronic Monitoring Device?
+
+An <a href="/health/shn-monitoring">Electronic Monitoring Device</a> (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.
+
+Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
+
 
 ##### Click here to go to the [top](#top).
 
@@ -78,9 +91,29 @@ Employers whose employees have successfully arranged to serve their Stay-Home No
 
 ### **Transport Matters**
 
-#### 1. I am approved under the PCA scheme to enter Singapore. Am I permitted to drive into Singapore and directly to my SDF?
+#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
-PCA travellers may travel to Singapore in their own vehicles. However, they will not be permitted to commute directly to their SDF. Travellers will receive more instructions on the parking arrangement at the checkpoint, and on the transport arrangement to their SDF.
+All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
+
+<b><u>(i) If you are using your own transport</u></b>
+
+Travellers may be picked up from the airport by an authorised hotel and transport service representative/family member from the same household/friend in a private vehicle. However, there should not be more than one person picking up the traveller, and the traveller must be ferried directly to their declared place of accommodation.
+
+If there is more than one traveller, those sharing the same vehicle should have the same travel history and are heading towards the same declared place of accommodation.
+
+All persons in the vehicle must wear face masks throughout the journey. In addition, the following precautions are strongly encouraged:-
+
+- Vehicle windows must be wound down with air conditioning turned off.
+-	Where practicable, the front passenger seat should be left unoccupied;
+-	The back seat should only be occupied by the traveller(s)
+-	The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environmental Agency (NEA) guidelines</a> for more information.
+
+<b><u>(ii) Booking taxi/private-hire vehicles</u></b>
+
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+
+Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
+
 
 ##### Click here to go to the [top](#top).
 
@@ -90,7 +123,7 @@ PCA travellers may travel to Singapore in their own vehicles. However, they will
 
 #### 1. My employee is unable to enter Singapore on the date indicated in the application. Can I amend the application and seek a refund for the COVID-19 PCR test?
 
-Employers are strongly encouraged to ensure that their employees can enter Singapore on the date indicated in the application. This is because the pre-payments made for the cost of SDF and COVID-19 Polymerase Chain Reaction test (“PCR test”) during application, are <u>non-refundable</u>. Forfeited pre-payments will go towards covering the relevant cost incurred to secure and prepare an accommodation for a traveller.
+Employers are strongly encouraged to ensure that their employees can enter Singapore on the date indicated in the application. This is because the pre-payment made for the COVID-19 Polymerase Chain Reaction test (“PCR test”) during application is <u>non-refundable</u>. Forfeited pre-payments will go towards covering the relevant cost incurred to secure and prepare an appointment for a traveller.
 
 Requests for refunds or change in entry date will only be considered if there are unforeseen extenuating factors, e.g. compassionate reasons. For such cases, employers may write to <a href="mailto:COVID_SafeTravelAppeals@mti.gov.sg">COVID_SafeTravelAppeals@mti.gov.sg</a> with the relevant supporting documents.
 
@@ -137,8 +170,8 @@ Singapore citizens <b>do not</b> need any entry approval, including a PCA pass t
 
 Singapore PR with a valid Entry/Re-Entry Permit may return to Singapore without the need for any entry approval. They will be subject to the prevailing health control measures for Singapore PRs, which includes:
 - A COVID-19 Polymerase Chain Reaction Test (“PCR Test”) taken within 48 hours before departure at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">a recognised or accredited laboratories in Malaysia</a></b>;
-- Serving 10-day Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF); and
-- Take two self-administered COVID-19 Antigen Rapid Test (ART), on Day 3 and 7; followed by PCR test on Day 10 of SHN. 
+- Serving 10-day Stay-Home Notice (SHN) at a declared SHN accommodation; and
+- Exit PCR test on Day 10 of SHN. 
 
 Click <a href="/shn-and-swab-summary">here</a> and <a href="/sc-pr/overview">here</a> for more information.
 
@@ -201,7 +234,7 @@ Travellers who have misplaced their work pass should lodge a police report immed
  
 Click [here](/health/covid19-tests/pcrtest#price) to check for the latest cost of the COVID-19 PCR test.
 
-The cost of the COVID-19 PCR test taken on-arrival at the checkpoint, will be collected in cash, NETS or Credit Card payment on the spot. For the exit from [Stay Home Notice (SHN)](/health/shn) COVID-19 [PCR test](/health/covid19-tests/pcrtest), payment would already be collected at the point of application. 
+For the exit from [Stay Home Notice (SHN)](/health/shn) COVID-19 [PCR test](/health/covid19-tests/pcrtest), payment would already be collected at the point of application. 
 
 #### 6. I was recently diagnosed with COVID-19 infection. When can I travel into Singapore?
 
@@ -211,7 +244,7 @@ Those diagnosed with COVID-19 should only schedule their trip to Singapore 14 da
 
 #### 7. I was recently diagnosed with or recovered from COVID-19. Am I exempted from the requirement to take a COVID-19 Polymerase Chain Reaction test (“PCR test”) within 48 hours before departure for Singapore?
 
-As a condition for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR test within 48 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR test report that:
+As a <a href="/malaysia/pca/terms-and-conditions" target="_blank">condition</a> for entry into Singapore, <u>all</u> travellers arriving from Malaysia under the PCA scheme <u>must</u> take a COVID-19 PCR test within 48 hours before departure for Singapore. The test must be taken at <b><a href="http://covid-19.moh.gov.my/garis-panduan/garis-panduan-kkm">recognised or accredited laboratories in Malaysia</a></b>. As proof that the required PCR test has been taken, travellers should ask for a copy of the COVID-19 PCR test report that:
 
 -	Is in English (or accompanied with an English translation); and
 -	Contains the (i) Traveller’s name, Date of Birth or Passport number (per the passport used to travel to Singapore); and (ii) Date of the test.
@@ -221,9 +254,6 @@ Travellers will be turned away at Singapore's checkpoint if:
 	<li>diagnosed with COVID-19 infection 14 days or less, from the date of travel; and/or</li>
 	<li>tested positive on the pre-departure COVID-19 PCR test.</li>
 </ol> 
-<!--Travellers will be turned away at Singapore's checkpoint if: 
-- diagnosed with COVID-19 infection 14  days or less, from the date of travel; and/or
-- tested positive on the pre-departure COVID-19 PCR test.-->
 
 #### 8. I have recovered from COVID-19 and was also tested negative for COVID-19 after taking the COVID-19 Polymerase Chain Reaction test (“PCR test”). Am I exempted from having to take another COVID-19 PCR test in Singapore?
 
@@ -352,7 +382,7 @@ The employee is permitted to leave Singapore. However, employers should note tha
 
 #### 1. Do I need to arrange for the COVID-19 Polymerase Chain Reaction test (“PCR test”) for my employees? If not, how do I inform my employees of the date and time of their PCR test appointment?
 
-Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Upon arrival, all PCA travellers will be directed to take a COVID-19 PCR test after clearing immigrations at the checkpoints. Travellers will also be scheduled for another PCR test on the 10th  day before they exit their SHN.
+Employers do not have to arrange for the COVID-19 [PCR test](/health/covid19-tests/pcrtest) for their employees as these are automatically scheduled by the relevant authorities. Travellers will be scheduled for a PCR test on the 10th  day before they exit their SHN.
 
 While employers do not need to arrange for the tests, they are obligated to inform their employees of the details of their PCR test appointment, e.g. test date and time and location. These details will be sent to the employer as an SMS or email. In general, travellers will be required to take the PCR test toward the end of their [Stay Home Notice](/health/shn).
 

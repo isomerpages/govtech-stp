@@ -2,18 +2,11 @@
 title: Frequently Asked Questions
 permalink: /vtl/faq
 ---
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(1) My Day 7 test is on or after 19 October 2021. Do I still need to go for my test?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes. If you enter Singapore prior to 18 October 2021, 2359 hours, you <b>must</b> attend both your Day 3 and Day 7 COVID-19 PCR tests.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(2) I applied to enter Singapore before 19 October 2021, but my VTP is valid till after 19 October 2021. Can I enter after 19 October 2021 instead? Will I be subject to Day 3 and Day 7 tests?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes, you may enter Singapore on any of the dates within the validity period of your VTP. All travellers entering Singapore with effect from 18 October 2021, 2359 hours will <b><u>not</u></b> be required to undergo post-arrival COVID-19 PCR tests.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(3) My VTP is valid till before 19 October 2021, but I would like to change my travel plans to enter on or after 19 October 2021. How may I do so?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If your travel plans change and you need to enter after the validity period, please submit a new VTP application. The pre-payment for your Day 3 and Day 7 PCR tests under your unutilised VTP will be refunded automatically to your credit card, excluding administrative fees.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(4). Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If you have made payment for your Day 3 and Day 7 tests , but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be refunded by the designated chain of clinics to the credit card used to pay for the test.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.</p>
+
+<div style="padding-left: 5px; padding-bottom: 20px; color:red; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
+	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><span style="color:red;"><b>
+		This page contains an FAQ for travellers who already understand the entry requirements into Singapore via the Vaccinated Travel Lane (VTL). Singapore time (SGT) is used for all dates and times shown on this page. If you are not clear on the VTL requirements, please refer to the <a href="/vtl/requirements-and-process" target="_blank">VTL Overview page here</a> before reading this checklist.<br/><br/> Travellers intending to travel out of Singapore to a VTL country/region are advised to check the prevailing entry requirements of the destination, and to exercise care and caution, especially when travelling with children. For the general advisory on all departures from Singapore, please visit the <a href="/departing/overview" target="_blank">"Departing from Singapore"</a> page.
+		</b></span></p>
 </div>
 
 
@@ -137,11 +130,19 @@ For (A), please see sample screenshots below:
 #### 7. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
 
 Travellers may present any of the following:
-
-- [EU Digital COVID Certificates (EU DCC)](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en) issued by any [VTL country/region](/vtl/requirements-and-process#countries)
-- [Smart Health Cards (SHC)](https://smarthealth.cards/faq.html) by issuers in the United States and Canada on the CommonTrust Network (issuers listed [here](https://www.commontrustnetwork.org/verifier-list) and [here](https://www.commonhealth.org/smart-health-cards)) or Vaccination Credential Initiative (issuers listed [here](https://vci.org/issuers))
-- [National Health Service (NHS) COVID Passes](https://www.gov.uk/guidance/nhs-covid-pass) on the NHS mobile app
-- Vaccination status on the [BruHealth app](http://www.moh.gov.bn/SitePages/bruhealth.aspx)
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
+			<ol style="margin-top:0px; list-style-type: lower-latin;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
+								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+							</ol>
+			</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
+												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination status on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a> (developed by the Government of Brunei) </li>
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination status on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> (developed by the Korea Disease Control and Prevention Agency) [For entry into Singapore from 14 November 2021, 2359hrs]</li>
+			</ol>
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
 
@@ -245,7 +246,7 @@ At this point in time, non-digitally verifiable vaccination certificates (i.e. t
 Vaccination QR code(s) may be invalid for reasons such as:
 
 - QR code is not in an acceptable format and by specific issuers
-- Traveller’s particulars do not match with the particulars in the vaccination certificate (if you have an NHS COVID Pass, please see [Question 13](#numberofcodes) for more details)
+- Traveller’s particulars do not match with the particulars in the vaccination certificate – please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation. (if you have an NHS COVID Pass, please see [Question 13](#numberofcodes) for more details)
 - Traveller is not [fully vaccinated](/health/vtsg) yet
 - [Days interval between doses](#doses) is less than the requirement
 - [Number of QR codes](#numberofcodes) uploaded does not meet the criteria
@@ -257,6 +258,24 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 #### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
 Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
+
+#### 16. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
+
+Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore. 
+
+If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (VTP).
+
+For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.
+
+#### 17. I was fully vaccinated in a non-VTL country/region but have since obtained a booster shot in a VTL country/region or Singapore. Do I satisfy the vaccination requirement?
+
+Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region Singapore. 
+
+If you are a short-term visitor or Long-Term Pass holder who has obtained a booster shot in Singapore, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (VTP).
+
+For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.
+
+
 
 ---
 
@@ -344,81 +363,51 @@ Please refer to the respective airlines’ websites below for details of the des
 <table>
 <thead>
 <tr>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;background-color:#E8E8E8; text-align:center;"><b>Country/Region of Departure</b></th>
-<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center;"><b>Airline(s)* Operating Designated VTL Flights to Singapore</b></th>
+<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; width:400px;"><b>Airlines Operating Designated VTL Flights to Singapore*</b></th>
+	<th style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#E8E8E8; text-align:center; vertical-align:middle;"><b>VTL Countries/Regions</b></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Brunei Darussalam</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyroyalbrunei.com/singapore/en/help-support/frequently-asked-questions/vaccinated-travel-lane-vtl/">Royal Brunei Airlines</a></td>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.airfrance.sg/SG/en/local/resainfovol/meilleuresoffres/VTLFlights.htm" target="_blank">Air France</a></td>
+		<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">France</td>
 </tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/nl_NL/nl/media-centre/news-alert/?id=ksh1p8o3">Singapore Airlines</a></td>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://flyasiana.com/C/SG/EN/customer/notice/detail?id=CM202110120001515786" target="_blank">Asiana Airlines</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Republic of Korea</td>
 </tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Canada</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
-</tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Denmark</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
-</tr>
-<tr>
-<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;">Germany</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.lufthansa.com/sg/en/de-sg-vtl">Lufthansa</a> </td>
-</tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/germany-singapore-vaccinated-travel-lanes/">Singapore Airlines</a></td>
-</tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights">Scoot</a></td>
-</tr>
-<tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">France</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.airfrance.sg/SG/en/local/resainfovol/meilleuresoffres/VTLFlights.htm">Air France</a></td>
-</tr>
-<tr><td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td></tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Italy</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
-</tr>
-<tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Netherlands</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.klm.sg/information/covid-19/klm-vtl-flights">KLM Royal Dutch Airlines</a></td>
-</tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.britishairways.com/en-gb/information/incident/coronavirus/entry-requirements#singapore" target="_blank">British Airways</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">The United Kingdom</td>
 </tr>	
-<tr>
-<td rowspan="3" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Republic of Korea</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Asiana Airlines</td>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.klm.sg/information/covid-19/klm-vtl-flights" target="_blank">KLM Royal Dutch Airlines</a></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">The Netherlands</td>
 </tr>
-<tr>
+	<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korean Air</td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Republic of Korea</td>
 </tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
-</tr>	
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">Spain</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8;text-align: center;"><a href="https://www.lufthansa.com/sg/en/de-sg-vtl" target="_blank">Lufthansa</a></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Germany</td>
 </tr>
-<tr>
-<td rowspan="2" style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United Kingdom</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.britishairways.com/en-gb/information/incident/coronavirus/entry-requirements#singapore">British Airways</a></td>
+	<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyroyalbrunei.com/singapore/en/help-support/frequently-asked-questions/vaccinated-travel-lane-vtl/" target="_blank">Royal Brunei Airlines</a></td>
+			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam</td>
 </tr>
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
-</tr>	
-<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align:center;">United States</td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/">Singapore Airlines</a></td>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a></td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Germany</td>
+</tr>
+		<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Republic of Korea, Spain, The Netherlands, The United Kingdom, The United States</td>
 </tr>
 </tbody>
 </table>
+<sup>*</sup>The list of airlines and websites will be regularly updated
 
-<sup>*</sup><i>Links to the individual airlines' VTL pages will be updated when available.</i>
 
 
 #### 2. Are travellers guaranteed a ticket on a designated VTL flight to Singapore if they have a VTP?
@@ -461,7 +450,7 @@ To be eligible to take a designated VTL flight, they are required to:
 </ul></li>
 </ul>
 
-Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
+Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
 
 #### 5. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
 
@@ -615,7 +604,7 @@ The designated taxi operators are:
 
 No, travellers are not allowed to shop and dine at Changi Airport, including Jewel Changi Airport. This is because travellers are required to leave the airport immediately after their on-arrival COVID-19 PCR test, to isolate in their declared accommodation until the test result is confirmed to be negative. 
 
-The only exception is for the purchase of Singapore dollars or SIM cards, or mobile phone rental, which should be done in the airport transit area, before arrival immigration.
+The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall. 
 
 Travellers will only be allowed to go about their activities in Singapore after being notified of their negative test results.
 
@@ -941,10 +930,11 @@ A VTP allows vaccinated travellers who are short-term visitors (including busine
 - Denmark
 - France
 - Italy
-- Netherlands
+- Republic of Korea *(with effect from 14 November 2021, 2359 hours)*
 - Spain
-- United Kingdom
-- United States
+- The Netherlands
+- The United Kingdom
+- The United States
 
 The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
 
@@ -962,10 +952,10 @@ Short-term visitors and long-term pass holders departing from the following coun
 - Denmark
 - France
 - Italy
-- Netherlands
 - Spain
-- United Kingdom
-- United States
+- The Netherlands
+- The United Kingdom
+- The United States
 
 VTP applications for the Republic of Korea will open on **8 November 2021, 1000 hours (Singapore time)**.
 

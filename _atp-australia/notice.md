@@ -13,6 +13,6 @@ With immediate effect, applications for the ATP for short-term visitors travelli
 
 ### Singapore Citizens/Permanent Residents/Long-Term Pass Holders
 	
-Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders can still travel from Australia to Singapore via the <a href="/sc-pr/overview">Returning SC/PRs lane</a>, <a href="/wphl/overview">Work Pass Holder General Lane</a> or <a href="/stpl/requirements-and-process">Student’s Pass Holder Lane</a>. Short term visitors with SC/PR family in Singapore and who need to enter Singapore for extenuating reasons can do so via the <a href="/scpr-familial-ties-lane/requirements-and-process">SC/PR Familial Ties Lane</a>. 
+Singapore Citizens (SC), Permanent Residents (PR), and Long-Term Pass holders can still travel from Australia to Singapore via the <a href="/sc-pr/overview">Returning SC/PRs lane</a>, <a href="/wphl/overview">Work Pass Holder General Lane</a> or <a href="/stpl/overview">Student’s Pass Holder Lane</a>. Short term visitors with SC/PR family in Singapore and who need to enter Singapore for extenuating reasons can do so via the <a href="/scpr-familial-ties-lane/overview">SC/PR Familial Ties Lane</a>. 
 
 SC, PR and Long-Term Pass holders entering Singapore with travel history to Australia within the last 14 days before departure for Singapore, will be subject to an on-arrival COVID-19 PCR test, a 7-day SHN at their place of residence, and a COVID-19 PCR test before the end of the SHN period

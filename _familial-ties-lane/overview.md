@@ -34,9 +34,8 @@ The table below is a quick overview of the key FTL features and requirements.
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed except travellers whose 14-day travel and transit history before arrival in Singapore includes any of the following countries:</p><br/>
-
-<ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">	<b><span style="color:red;">[For arrivals before 26 Oct 2021, 2359 hours]</span></b>  All countries/regions allowed except travellers whose 14-day travel history before arrival in Singapore includes any of the following countries:</p>
+<ol style="margin-top:15px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
 				 		 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Myanmar</li>
@@ -44,7 +43,7 @@ The table below is a quick overview of the key FTL features and requirements.
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Pakistan </li>
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Sri Lanka</li>
 					</ol>
-			 <p></p>			 
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">	<b><span style="color:red;">[For arrivals from 26 Oct 2021, 2359 hours]</span></b>  All countries/regions allowed. Travellers with a 14-day travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka prior to departure for Singapore will also be allowed to enter and transit through Singapore. These travellers will be subject to Category IV border measures. </p>
 		 </td>
  </tr>
 </tbody><thead>
@@ -59,8 +58,9 @@ The table below is a quick overview of the key FTL features and requirements.
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">4 to 33 days from the date of application (30-day window period)<br/>
-<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><b>[Before 26 Oct 2021, 2359 hours]</b> 4 to 33 days from the date of application (30-day window period)<br/><br/>
+		<b>[From 26 Oct 2021, 2359 hours]</b> 4 to 63 days from the date of application (60-day window period)<br/><br/>
+<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p><br/>
 	</td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ The table below is a quick overview of the key FTL features and requirements.
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history (excluding transit) before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>

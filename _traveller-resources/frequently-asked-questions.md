@@ -18,7 +18,7 @@ permalink: /health/FAQ
 	<li style="margin-top:8px; margin-bottom:0px; font-size:20px; list-style-type:decimal; line-height:1.5;"> <a href="#nebuliser">Travellers who require the use of Nebuliser</a></li>
 </ol>
 
-Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions) (MOM’s FAQs) for more information.
+Can’t find what you’re looking for? Please check [here](https://www.moh.gov.sg/covid-19/faqs) (MOH’s FAQs) and [here](https://mom.gov.sg/covid-19/frequently-asked-questions)  (MOM’s FAQs) for more information.
 
 <div id="shnsdf"></div>
 
@@ -32,21 +32,17 @@ The length of your SHN will be stipulated in the Entry Approval Letter or Safe T
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
 
-Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. A place of residence is deemed suitable for SHN if travellers have a room to themselves, and a dedicated toilet. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
+Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
 Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
-#### 3. I had left for Singapore from a country/region where I have the option of serving my Stay-Home Notice(SHN) at my own residence rather than an SHN-Dedicated Facility (SDF). However, I had transited to Singapore via a second country, which requires mandatory SHN at an SDF. Which SHN measure will apply to me?
-
-The more stringent travel health control measures would apply. This means that a traveller who had transited to Singapore via a second country where mandatory [SDF](/health/shn/sdf) stay is required, will serve their [SHN](/health/shn) at an SDF upon arrival into Singapore.
-
-#### 4. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
+#### 3. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
 An SHN is a legal notice issued under the Infectious Diseases Act, which directs its recipients to remain in their place of residence or [SHN-Dedicated Facilities (SDF)](/health/shn/sdf) <u>at all times</u> for a stipulated period. Any breach in SHN requirements is punishable under Singapore’s laws and additional penalties such as the revocation of a Work Pass may also be taken by the relevant authorities.
 
 Travellers should note that basic essentials such as water, cleaning supplies as well as daily meals (three times a day based on dietary preference) will be provided by the SDF. Should you require extra food and essentials, you may opt for home delivery services or enlist the help of others. When collecting these items, please refrain from collecting them personally. If you have other specific needs during the SHN period you may call the SafeTravel Enquiries helpline at **6812 5555**.
 
-#### 5. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
+#### 4. When does the Stay-Home Notice (SHN) generally begin and how would I know if it has ended?
 
 The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
@@ -54,24 +50,24 @@ Travellers who are serving SHN at their own place of residence may end their SHN
 
 Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
-#### 6. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
+#### 5. What should I do if I need to attend to an emergency before checking into my Stay-Home Notice Dedicated Facility (SDF)?
 
 As a condition for entry into Singapore, all travellers must commute directly to their SHN accommodation or SDF **immediately** after clearing immigration. The failure to do so constitutes a breach of the SHN requirements which is punishable under Singapore’s laws.
 
 In the event of an emergency, travellers may contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
-#### 7. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
+#### 6. Am I permitted to serve my Stay-Home Notice (SHN) at an SHN-Dedicated Facility (SDF) of my choice?
 
 Due to the fast-changing demands for SDFs, travellers will be assigned to an available SDF upon arrival. Travellers who wish to book an SDF suite at a specific hotel at an additional cost may [click here](/health/shn/sdfupgrade) for more information.
 
-#### 8. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
+#### 7. Due to the circumstances of my travel, e.g. I’m travelling with my extended family, I have some specific room requirements. How do I request for room adjustments?
 
 Travellers already in SDF may contact the concierge at the Stay-Home Notice Dedicated Facility (SDF) first for help. 
 
 For travellers who are not yet in Singapore or for request that the SDF is unable to facilitate, e.g. caregiver support, SDF opt-out, travellers may wish to refer to [this page](https://go.gov.sg/shnhotelneeds) for more details. Travellers may also contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice
 
 
-#### 9. I am not eligible to opt-out of my Stay-Home Notice Dedicated Facility (SDF), but I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should I do?
+#### 8. I previously received approval to serve my SHN at my own place of residence instead of at an SHN Dedicated Facility. However, I discovered I am unable to serve my Stay-Home Notice (SHN) at my earlier declared SHN accommodation. What should i do? 
 
 Travellers who encounter difficulties serving their SHNs at their declared SHN accommodation may refer to this [page](https://go.gov.sg/shnhotelneeds) for more details, or contact the SafeTravel Enquiries helpline at **6812 5555** for assistance and advice.
 
@@ -81,7 +77,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am serving Stay Home Notice or self-isolation at my own place of residence or self-sourced accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
 
@@ -110,11 +106,14 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
+From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, all travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.       
+  
+
 <div id="transportQ3"></div>
 
-#### 2. [For non-fully vaccinated travellers with Category (III) travel history and travellers with Category (IV) travel history] Due to extenuating Circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
+#### 2. [For travellers with Category (IV) travel history] Due to personal circumstances, I have obtained approval to serve SHN at my place of residence/hotel/ serviced apartment. What are the types of transport that I can take?
 
-For such travellers approved to serve SHN at their own accommodation, a transport booking **must** be made with the transport provider Strides Pte Ltd (Tel: 6477 5977). The following costs will apply, which will be borne by the traveller.
+Travellers who have obtained approval to serve SHN at their own accommodation **must** make a transport booking with the transport provider Strides Transportation (Tel: 6477 5977). For booking instructions, click <a href="/files/stridesbooking.pdf">here</a>. The following costs will apply, which will be borne by the traveller.
 
 <table>
   <thead>
@@ -143,36 +142,10 @@ For such travellers approved to serve SHN at their own accommodation, a transpor
   </tbody>
   </table>
   
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. 
+Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.   
+  
+The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. 
 
-<!-- <table>
-  <thead>
-    <tr>
-			<th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" colspan="3">Table 1: Transport Service Provider for Persons Approved* to Serve SHN at A Place of Residence</th>
-		</tr>
-		<tr>
-      <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Service Provider and Contact Number</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Type of trip</th><th style="margin-top:0px; margin-bottom:0px; font-size:18px; border-top:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Cost (an additional 10% will be charged for credit card transactions)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px; border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;" rowspan="2">Strides Transportation Pte Ltd <br> 6477 5977 
-</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From checkpoint to residence</b> - Please follow the booking instructions provided at the booking desk at the checkpoint when making transport arrangements. <br><br>plus <br><br><b>From residence to testing facility for COVID-19 tests on Day 10 (round trip)</b> - Please ensure that your test appointment has been scheduled before making transport arrangements. .</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">S$200.00 </td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><b>From any other ad-hoc trips approved by the authorities</b> </td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;">Round Trip – S$90.00 <br> Per Way – S$45.00 
-</td>
-    </tr>
-    <tr style="border-bottom:1.2px solid #E8E8E8">
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;" colspan="3">* <i>Includes only travellers with a travel history to a Category (III) or (IV) country/region in the past 14 days before arriving in Singapore.</i></td>
-    </tr>
-  </tbody>
-  </table> 
-	
-For service-related feedback, travellers may wish to contact 6477 5977 or email to taxicorp@smrt.com.sg.-->
 	
 Click here to [Go Back To Top](#top).
 
@@ -467,7 +440,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
     <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;" rowspan="3">On arrival in Singapore</td>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test  [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
         <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">Here</a></td>
     </tr>
         <tr>
@@ -477,7 +450,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
 		</tr>
         <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-					  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+					  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
     </tr>     
   </tbody>
   </table>
@@ -501,7 +474,7 @@ Travellers/application sponsors may refer to the table below on how to make sepa
     <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;" rowspan="3">On arrival in Singapore</td>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test  [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
         <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-bottom:2px solid#E0E0E0; border-right:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must click <a href="https://safetravel.changiairport.com/#/">here</a>  to book and pay for the tests <b>before the helper/CN arrives in Singapore</b>.</td>
     </tr>
         <tr>
@@ -513,7 +486,7 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
 </tr>
 <tr>
       <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-	<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160<br><br><b>Antigen Rapid Test [for travellers who have visited a specified Category (IV) country/region] </b> – S$67</td>
+	<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>PCR Test</b> – S$160</td>
  <td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Application sponsors, i.e. employer/employment agent, must register and pay <a href="https://t.2c2p.com/express/parkwayshenton">here</a> <b>before the traveller’s arrival in Singapore</b>.</td>
     </tr> 
   </tbody>
@@ -525,9 +498,6 @@ Find out who is <a href="https://www.mom.gov.sg/covid-19/frequently-asked-questi
            </ol>  
 </td>
    </tr> 
-<!--				<tr>
-<td style="font-size:16px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;" colspan="2">* <b><u>NOTE</u></b>: All travellers with travel history in the past consecutive 14 days from Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, Philippines and Sri Lanka and entering Singapore, will also be required to take a COVID-19 Antigen Rapid Test (ART), in addition to a COVID-19 PCR test, on arrival at Changi Airport or Tanah Merah Ferry Terminal (for arrivals from Indonesia).</td>
-		</tr>-->
       </tbody>
   </table>
   

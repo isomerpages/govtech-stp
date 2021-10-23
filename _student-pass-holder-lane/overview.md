@@ -22,7 +22,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 </li>
 			  <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA-issued pass holder (e.g. Long-Term Visit Pass) or short-term visitor who is a parent/guardian of an STP/STP-IPA holder aged 19 years and below (in this calendar year ).  <i>[<u>Note</u>: A maximum of one parent/guardian is allowed per family unit.]</i>
 			 </li>
-			  <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Siblings (of STP/STP-IPA holders ) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution</li>
+			  <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Siblings (of STP/STP-IPA holders) who are aged 6 years and below (in this calendar year) and are not enrolled with any local educational institution</li>
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Spouse of STP/STP-IPA holder on post-graduate programme</li>
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Child(ren) of STP/STP-IPA holder on post-graduate programme </li>
 			 </ol>
@@ -32,7 +32,7 @@ The table below provides a quick overview of the key STPHL features, requirement
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Countries/Regions </b> <br><br><i>(i.e. 14-day travel history before arrival in Singapore)</i></td>
 		 <td style="font-size:16px;border-right:1px solid #D8D8D8;">
-			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">All countries/regions allowed <b>except</b> travellers whose 14-day travel and transit history before arrival in Singapore includes any of the following countries:</p>
+			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[Before 26 Oct 2021, 2359 hours]</span></b> All countries/regions allowed <b>except</b> travellers whose 14-day travel history before arrival in Singapore includes any of the following countries:</p>
 <ol style="margin-top:0px; margin-bottom:0px; font-size:16px; list-style-type:disc;">
 				 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Bangladesh</li>
 				 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">India</li>
@@ -41,6 +41,9 @@ The table below provides a quick overview of the key STPHL features, requirement
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Pakistan </li>
 			 		 	 <li style="font-size:16px;margin-top:0px; margin-bottom:0px; line-height:1.5;">Sri Lanka</li>
 					</ol>
+	<p></p>
+			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[From 26 Oct 2021, 2359 hours]</span></b> All countries/regions allowed. Travellers with a 14-day travel history to Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka prior to departure for Singapore will also be allowed to enter and transit through Singapore. These travellers will be subject to Category IV border measures.</p>
+			 			 			 <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b>Note</b>: Fully vaccinated travellers with travel history to certain countries/regions may be eligible for the Vaccinated Travel Lane (VTL) instead with quarantine-free measures. Eligible travellers who wish to enter Singapore via the VTL do <b>not</b> need a separate entry approval under the STPHL. <a href="/vtl/requirements-and-process">Click here for more details on the VTL</a>.</p>
 	<p></p>
 		 </td>
  </tr>
@@ -56,7 +59,8 @@ The table below provides a quick overview of the key STPHL features, requirement
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Application Window</b></td>
-	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">2 to 5 weeks before the planned date of entry<br/>
+	<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"> <p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[Before 26 Oct 2021, 2359 hours]</span></b> 2 to 5 weeks before the planned date of entry</p>
+		<p style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;"><b><span style="color:red;">[From 26 Oct 2021, 2359 hours]</span></b> 2 to 9 weeks before the planned date of entry</p>
 		<p style="font-size:16px; line-height:1.5;">&#9888; <i>Travellers who are unable to select a date of entry should defer their travels or attempt another application at a later date when more entry dates are available.</i></p></td>
 </tr>
 <tr>

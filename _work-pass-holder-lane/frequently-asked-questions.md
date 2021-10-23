@@ -142,7 +142,7 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
-The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before their arrival, are required to take a Serology test in Singapore.
+The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days (excluding transits for arrivals from 26 October 2021, 2359 hrs) before their arrival, are required to take a Serology test in Singapore.
 
 - Confinement nannies
 - Helpers
@@ -247,13 +247,12 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. Who will the vaccination entry requirement apply to?
 
-From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval.* 
+From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval. 
 
 <b>Note:</b> From 1 Nov 2021, all pass holders and their dependants from Category I or II countries/region, as well as CMP workers, helpers and confinement nannies from all countries/regions must be fully vaccinated 14 days before they  arrive in Singapore.
 
 This will also apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
 
-<i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 14 days to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
