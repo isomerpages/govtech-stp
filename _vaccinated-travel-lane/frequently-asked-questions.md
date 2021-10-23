@@ -450,7 +450,7 @@ To be eligible to take a designated VTL flight, they are required to:
 </ul></li>
 </ul>
 
-Travellers are responsible for making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
+Travellers are responsible for <a href="/departing/overview" target="_blank">making their own appointments with the testing institutions to take their pre-departure COVID-19 PCR test</a>. They must also bear the cost of their test. Please check with the listed testing institutions for the cost of the test.
 
 #### 5. What flights may Singapore Citizens and Permanent Residents take in order to enter Singapore?
 
