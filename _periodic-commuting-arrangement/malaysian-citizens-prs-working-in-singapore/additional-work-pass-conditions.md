@@ -5,18 +5,32 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
 ---
 ### **Application for the Periodic Commuting Arrangement (“PCA”) Scheme**
 
-1. Prior to submitting the entry application on behalf of the Malaysia employee (“**foreign employee**”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
-: a. has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;
-: b. has read and understood the following additional work pass conditions applicable to him/her (in **Annex B**);
-: c. agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (“**PCR**”) and/or Antigen Rapid Test ("**ART**") test results to the employer and relevant government authorities in Singapore.
+<ol>
+  <li style="line-height:1.5;">Prior to submitting the entry application on behalf of the Malaysia employee (“<b>foreign employee</b>”), the Employer must obtain an acknowledgement from the foreign employee that he/she:
+  <ol style="list-style-type:lower-alpha;">
+    <li style="line-height:1.5;">has a work pass that is valid for at least 15 days from their expected date of entry into Singapore;</li>
+      <li style="line-height:1.5;">has read and understood the following additional work pass conditions applicable to him/her (in <b>Annex B</b>);</li>
+      <li style="line-height:1.5;">agrees to disclose, and gives consent for medical providers to disclose, his/her COVID-19 Polymerase Chain Reaction (“<b>PCR</b>”) and/or Antigen Rapid Test ("<b>ART</b>") test results to the employer and relevant government authorities in Singapore.</li>
+    </ol> 
+  </li>
+     <li style="line-height:1.5;">If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in <b>Annexes A and B</b> will be imposed on:
+   <ol style="list-style-type:lower-alpha;">
+       <li style="line-height:1.5;">the Employer of the foreign employee; and</li>
+     <li style="line-height:1.5;">the foreign employee, by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("EFMA") (Cap. 91A).</li>
+       </ol>
+  </li>
+   <li style="line-height:1.5;">The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.</li>
+    <li style="line-height:1.5;">All terms used in the additional work pass conditions below shall have the same meaning as defined in the EFMA and its subsidiary legislation.</li>
+</ol>
 
-2. If the foreign employee is approved for the Periodic Commuting Arrangement (“PCA”) Scheme, additional work pass conditions in **Annexes A and B** will be imposed on:
-: a. the Employer of the foreign employee; and
-: b. the foreign employee, by the Controller of Work Passes pursuant to section 7(4A) of the Employment of Foreign Manpower Act ("EFMA") (Cap. 91A).
 
-3. The Government of Singapore will not hesitate to take enforcement measures against Employers and foreign employees who do not comply with the additional work pass conditions, including commencing criminal proceedings, revoking work passes and withdrawing work pass privileges.
 
-4. All terms used in the additional work pass conditions below shall have the same meaning as defined in the EFMA and its subsidiary legislation.
+
+   <li style="line-height:1.5;"></li>
+   <li style="line-height:1.5;"></li>
+
+   <li style="line-height:1.5;"></li>
+
 
 ### **Annex A - For the Employer**
 
