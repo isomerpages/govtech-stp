@@ -15,7 +15,6 @@ permalink: /atp/conditions
         <ol style="font-size:18px; list-style-type:lower-roman;">
           <li style="font-size:18px; list-style-type:lower-roman;">keep the TraceTogether app activated while in Singapore;</li>
            <li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore.</li>
-          <li style="font-size:18px; list-style-type:lower-roman;">upload all data in the TraceTogether app upon request by the Singapore Ministry of Health should he/she test positive for COVID-19 while in Singapore or in the 14 days after leaving Singapore.</li>
          </ol>
        </li>
         <li style="font-size:18px; list-style-type:lower-alpha;"> purchase travel insurance, with a minimum coverage of S$30,000 for COVID-19-related medical treatment and hospitalisation costs, prior to travel to Singapore;</li>
