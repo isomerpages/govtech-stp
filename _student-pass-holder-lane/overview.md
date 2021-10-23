@@ -123,7 +123,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 <tbody>
 	<tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel and transit history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/>CLICK <a href="/shn-and-swab-summary">HERE</a> for the travel health control measures (e.g. Stay Home Notice, swab tests) categories and their applicable country/region.</td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>
