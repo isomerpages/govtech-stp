@@ -75,7 +75,7 @@ On this page you will find the following:
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist]</i></span</th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures</b><br><span style="font-size:14px;"><i>[<a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist]</i></span></th>
 </tr>
 <tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
