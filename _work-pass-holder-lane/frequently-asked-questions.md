@@ -253,7 +253,6 @@ From 10 August 2021, work pass holders and their dependants (aged 18 and above) 
 
 This will also apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
 
-<!--<i>* As announced by the Ministry of Health earlier, all long term pass holders including work pass holders and their dependants are not allowed entry into Singapore if they have recent travel history (including transit) within the last 14 days to India, Bangladesh, Nepal, Pakistan, Sri Lanka and Myanmar. Entry approvals for those from Indonesia are also limited.</i>-->
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
