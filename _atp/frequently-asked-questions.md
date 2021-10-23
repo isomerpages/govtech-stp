@@ -96,7 +96,7 @@ Visitors must comply with the ATP Conditions [here](/atp/conditions).
 
 #### 2. Are visitors allowed to make any transit stops prior to arrival in Singapore?
 
-Visitors entering Singapore with effect from 26 October 2021, 2359hrs (Singapore time), may transit via <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> prior to arrival in Singapore. 
+Visitors entering Singapore with effect from 26 October 2021, 2359hrs (Singapore time), may travel to Singapore on flights with transit stops. 
 
 Visitors entering Singapore before 26 October 2021, 2359hrs (Singapore time) may only take direct flights to Singapore without transit.
 
