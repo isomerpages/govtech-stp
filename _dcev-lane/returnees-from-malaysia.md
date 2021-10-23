@@ -33,7 +33,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
  </tr>
    <tr>
     <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-	<td style="font-size:16px; border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
+	<td style="font-size:16px; border-right:1px solid #D8D8D8;"><span style="color:red; font-size:16px;"><b>[For arrivals before 26 Oct 2021, 2359hours]</b></span> <ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a>  48 hours before departure at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
