@@ -152,7 +152,7 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app. Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</li>
          </ol>
-		<b>Eligible travellers vaccinated overseas should also inform the officer to have your vaccination details temporarily registered in your TraceTogether app</b> in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure to get your vaccination status registered</a>. 
+		<b>Eligible travellers vaccinated overseas should also inform the immigration officer to temporarily register their vaccination details in their TraceTogether app</b>, in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure for registering vaccination status</a>. 
          </td>
  </tr>
  <tr>
