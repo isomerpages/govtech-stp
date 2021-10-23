@@ -145,16 +145,14 @@ As a condition to enter Singapore, travellers must present a valid negative COVI
   </thead>
 <tbody>
 	<tr>
-    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration clearance</b></td>
-    <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer:
+    <td style="font-size:18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>Immigration Clearance</b></td>
+    <td style="font-size:18px;border-right:1px solid #D8D8D8;">At arrival immigration in Singapore, the visitor must present to the ICA officer or they may be denied entry:
         <ol style="margin-top:0px; list-style-type: disc;">
          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid PCA approval letter (electronic or physical copy) for the specified period of entry into Singapore;</li>
           <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a valid visa (for visa-required passport holders); and</li>
-          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app.*</li>
+          <li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">a mobile device with the TraceTogether app downloaded and with their profile registered on the app. Visitors must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.</li>
          </ol>
-      <b>A visitor who does not have any of the above may be refused entry into Singapore by ICA.</b><br/>
-      <br/>
-*If visitors have downloaded the TraceTogether app on or after 1 Feb 2021, they must click on the ‘ACTIVATE APP’ button on their TraceTogether app holding screen immediately after they have cleared arrival immigration in Singapore and follow the instructions to activate the app.
+		<b>Eligible travellers vaccinated overseas should also inform the officer to have your vaccination details temporarily registered in your TraceTogether app</b> in order to be eligible for vaccination-differentiated measures within Singapore (e.g. visiting malls, dining out). Travellers staying longer than 30 days will need to take a serology test to extend their vaccination status. <a href="/health/vtsg" target="_blank">Click here for more details on the eligibility criteria and procedure to get your vaccination status registered</a>. 
          </td>
  </tr>
  <tr>
