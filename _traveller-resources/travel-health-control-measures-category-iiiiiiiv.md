@@ -141,7 +141,7 @@ On this page you will find the following:
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure*</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
@@ -155,13 +155,14 @@ On this page you will find the following:
 </li>
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at any of the following accommodation:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence*;</li>
+<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Place of Residence**;</li>
 <li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Self-sourced hotel; or</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.0;">Serviced apartment</li>
 </ol>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
-		<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><b>*[Advisory for travellers serving SHN at home from 26 Oct 2021, 2359 hours]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</i></p>
+	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><i>* Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</i></p>
+		<p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i><b>**[Advisory for travellers serving SHN at home from 26 Oct 2021, 2359 hours]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</i></p>
 	<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><i>If sharing a place of residence with others, travellers should designate a specific bathroom to be used by themselves, and other household members to use another bathroom. If a single bathroom has to be shared, ensure that everyone practises good hygiene habits and disinfects the bathroom after each use.  These are some examples to help the household manage:</i> 
 	</p><ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Lower the lid before flushing the toilet;</i></li>
@@ -190,7 +191,7 @@ On this page you will find the following:
 	<tr>
 <td style="font-size:16px; border-top:3px solid #D8D8D8; border-right:2px solid #D8D8D8; border-left:2px solid #D8D8D8; border-bottom:2px solid #D8D8D8;" colspan="3">	
 <ol style="margin-top:0px; list-style-type: decimal;">
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b><sup style="color:red;"><b>[Note]</b></sup> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
+	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”)  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
@@ -205,7 +206,6 @@ On this page you will find the following:
 	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve 10-day <a href="/health/shn">Stay-Home Notice (SHN)</a> at an <a href="/health/shn/sdf">SHN Dedicated Facility</a>
 	</li>
 	<li style="font-size:16px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Take a <a href="https://safetravel.ica.gov.sg/health/covid19-tests/pcrtest">COVID-19 PCR test</a> on Day 10 of SHN.</li></ol>
-	<p style="margin-top:15px; font-size:16px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span> Singapore  Citizens entering Singapore via the Causeway or Second Link need not take a COVID-19 PCR test within 48 hours before departure from Malaysia</p>
 	
 </td>
 	</tr>
