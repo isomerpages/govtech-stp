@@ -251,8 +251,6 @@ From 10 August 2021, work pass holders and their dependants (aged 18 and above) 
 
 <b>Note:</b> From 1 Nov 2021, all pass holders and their dependants from Category I or II countries/region, as well as CMP workers, helpers and confinement nannies from all countries/regions must be fully vaccinated 14 days before they  arrive in Singapore.
 
-This will also apply to migrant domestic workers, S Pass and work permit holders from the Construction, Marine Shipyard and Process (CMP) sectors.
-
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
