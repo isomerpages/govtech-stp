@@ -21,7 +21,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if the pass holder remained in a Category (I) country for at least 14 consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test (for arrivals before 26 Oct 2021, 2359 hours).
+										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
 										</p>
 			</td>
     </tr>
@@ -165,7 +165,6 @@ On this page you will find the following:
 </li>
 </ol>
 </li>
-
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
@@ -344,7 +343,7 @@ On this page you will find the following:
 
 ### Travel Health Control Measures for WPHL-pass holders
 
-<div id="before"></div>
+
 
 <p style="font-size:24px;"><b>[For arrivals <span style="color: red;">before 26 Oct 2021, 2359h</span>]</b></p>
 
