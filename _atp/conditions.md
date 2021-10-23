@@ -7,7 +7,7 @@ permalink: /atp/conditions
 <ol style="font-size:20px;">
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
-  <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 14 consecutive days before departing for Singapore; ;</li>
+  <li style="font-size:18px; list-style-type:lower-alpha;">have only been to one or more <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> and/or Singapore in the last 14 consecutive days before departing for Singapore;</li>
         <li style="font-size:18px; list-style-type:lower-alpha;"> travel to Singapore either on a direct flight without transit, or with transits via <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions</a> only;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
