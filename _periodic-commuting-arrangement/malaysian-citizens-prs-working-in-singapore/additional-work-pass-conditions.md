@@ -23,66 +23,58 @@ third_nav_title: Malaysian Citizens/PRs Working in Singapore
     <li style="line-height:1.5;">All terms used in the additional work pass conditions below shall have the same meaning as defined in the EFMA and its subsidiary legislation.</li>
 </ol>
 
-
-
-
-   <li style="line-height:1.5;"></li>
-   <li style="line-height:1.5;"></li>
-
-   <li style="line-height:1.5;"></li>
-
-
 ### **Annex A - For the Employer**
 
 #### ADDITIONAL CONDITIONS FOR EMPLOYERS OF MALAYSIA WORK PASS HOLDERS APPROVED FOR PCA
 
-Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on an Employer of a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”).
+<ol>
+  <li style="line-height:1.5;">Pursuant to section 7(4A) of the Employment of Foreign Manpower Act (Cap. 91A), these additional conditions are imposed on an Employer of a Malaysia employee approved for Periodic Commuting Arrangement (“PCA”).</li>
+  </ol>
+  <p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><i>Before the foreign employee leaves for Singapore</i></p>
+  <ol>
+   <li style="line-height:1.5;">The Employer shall inform the foreign employee that he/she is required to serve a 10-day Stay-Home Notice period (“SHN period”) at declared SHN accommodation once he/she arrives in Singapore.</li>
+   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is able to fully comply with the additional work pass conditions imposed on him/her for the SHN period.</li>
+   <li style="line-height:1.5;">The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that he/she has to comply with, and the advisories that he/she has to observe.</li> 
+  <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is in possession of a subscriber identification module (“SIM”) card with a Singapore telephone number to allow the foreign employee to be contactable by the Controller when in Singapore.</li>
+   <li style="line-height:1.5;">The Employer shall ensure that a suitable place of residence has been secured for the foreign employee to serve his SHN. It shall meet the prevailing SHN advisory and guidelines throughout the period of the SHN. The employer shall declare the SHN place of residence in the application to the Safe Travel Office (“STO”) to seek approval for the foreign employee to be placed on the PCA Scheme.</li>
+</ol>
+<p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><i>After the foreign employee arrives in Singapore</i></p>
+ <ol>
+  <li style="line-height:1.5;">If the foreign employee does not drive/ride their personal vehicles into Singapore, the employer must arrange for transportation for the foreign employee to commute directly: 
+   <ol style="list-style-type:lower-alpha;">
+     <li style="line-height:1.5;">from Malaysia to Singapore’s immigration land checkpoints; and </li>
+     <li style="line-height:1.5;">from Singapore’s immigration land checkpoint to the foreign employee’s declared place of residence for the duration of the SHN. </li>
+    </ol>
+  </li>
+   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee is transferred directly from Singapore’s immigration land checkpoint using private vehicle, taxi or private hire car to the foreign employee's SHN place of residence during the SHN period, immediately upon his/her arrival in Singapore. The Employer shall ensure that the foreign employee does not take public trains and buses to his/her declared place of residence for SHN.</li>
+   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day 1) and will be effective on that day until:
+   <ol style="list-style-type:lower-alpha;">
+     <li style="line-height:1.5;">10 days subsequent thereafter and will end at 12 noon on the 11th day; or </li>
+     <li style="line-height:1.5;">until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end immediately, whichever is later  </li>
+    </ol>
+  </li>
+   <li style="line-height:1.5;">The Employer shall arrange a suitable place of residence for his foreign employee to stay during his SHN period.</li>
+   <li style="line-height:1.5;">The Employer/foreign employee shall bear the full costs of the foreign employee’s stay at a declared SHN accommodation during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee.</li>
+   <li style="line-height:1.5;">The Employer/foreign employee shall bear the full costs of the foreign employee’s COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 14 days of returning to Singapore.</li>
+  <li style="line-height:1.5;">The Employer shall ensure that the foreign employee fully complies with the additional work pass conditions imposed on the foreign employee for the SHN period.</li>
+  <li style="line-height:1.5;">The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that the foreign employee has to comply with, and the advisories that he/she has to observe.</li>
+   <li style="line-height:1.5;">The Employer shall ensure that a physical copy of the additional work pass conditions is provided to and retained by the foreign employee.</li>
+ <li style="line-height:1.5;">The Employer shall ensure that the foreign employee has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile data) with him/her at all times during the SHN period; and shall ensure that the foreign employee downloads WhatsApp on his mobile phone and responds within 1 hour when contacted by MOM via phone call, WhatsApp or Short Message Service (SMS).</li> 
+   <li style="line-height:1.5;">The Employer shall ensure that the foreign employee downloads the FWMOMCARE mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to <a href="https://www.mom.gov.sg/eservices/fwmomcare" target="_blank">user guide</a>). The foreign employee must have a thermometer to take and report his temperature.</li>
+   <li style="line-height:1.5;">The Employer shall ensure that food and other daily essentials are provided to the foreign employee for the SHN period, if his foreign employee is unable to make his/her own arrangements.</li>
+ <li style="line-height:1.5;">The Employer shall ensure that the foreign employee undergoes the required COVID-19 test(s) as scheduled. The Employer will be notified of the time/ date/ location of the employee’s scheduled appointment via an email/SMS notification.</li>
+ <li style="line-height:1.5;">The Employer shall arrange to send the foreign employee from his/her SHN place of residence to the designated COVID-19 testing facility for the scheduled appointment, and return immediately after the test, using private vehicle, or taxi/private hire car booked via dedicated hotlines or ride-hail applications. Public transport or flagging down of taxi must be avoided. When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off. Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat Failure to go for the test as scheduled may result in an extension of the SHN period. The foreign employee’s work pass may also be revoked.</li>
+ <li style="line-height:1.5;">The Employer shall ensure that they make the necessary arrangements for their employees' non-emergency medical needs (such as arrange a visit to a Public Health Preparedness Clinic (PHPC) or General Practitioner (GP) clinic nearest to the foreign employee's SHN place of residence, re-schedule follow-up visits for chronic conditions, refilling of prescription, etc).</li>
+</ol>
 
-*Before the foreign employee leaves for Singapore*
 
-2.	The Employer shall inform the foreign employee that he/she is required to serve a 10-day Stay-Home Notice period ("SHN period") at dedicated SHN facilities once he/she arrives in Singapore.
 
-3. The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that he/she has to comply with, and the advisories that he/she has to observe.
+ <li style="line-height:1.5;"></li>
+   <li style="line-height:1.5;"></li>
 
-4. The Employer shall ensure that the foreign employee is in possession of a subscriber identification module (“SIM”) card with a Singapore telephone number to allow the foreign employee to be contactable by the Controller when in Singapore.
+   <li style="line-height:1.5;"></li>
 
-5. The Employer shall ensure that a suitable place of residence has been secured for the foreign employee to serve his SHN. It shall meet the prevailing SHN advisory and guidelines throughout the period of the SHN. The employer shall declare the SHN place of residence in the application to the Safe Travel Office (“STO”) to seek approval for the foreign employee to be placed on the PCA Scheme.
 
-*After the foreign employee arrives in Singapore*
-
-7. If the foreign employee does not drive/ride their personal vehicles into Singapore, the employer must arrange for transportation for the foreign employee to commute directly: 
-- from Malaysia to Singapore’s immigration land checkpoints; and 
-- from Singapore’s immigration land checkpoint to the foreign employee’s declared place of residence for the duration of the SHN. 
-
-8. The Employer shall ensure that the foreign employee is transferred directly from Singapore’s immigration land checkpoint using private vehicle, taxi or private hire car to the foreign employee's SHN place of residence during the SHN period, immediately upon his/her arrival in Singapore. The Employer shall ensure that the foreign employee does not take public trains and buses to his/her declared place of residence for SHN.
-
-9. The Employer shall ensure that the foreign employee complies with the SHN Period which will commence with immediate effect from the time it is issued to the foreign employee on arrival (day 1) and will be effective on that day until:
-- 10 days subsequent thereafter and will end at 12 noon on the 11th day; or
-- until the results of the COVID-19 test are notified to the foreign employee, whereupon the SHN will end 
-
-10. The Employer shall arrange a suitable place of residence for his foreign employee to stay during his SHN period.
-
-11. The Employer/foreign employee shall bear the full costs of the foreign employee’s stay at a declared SHN accommodation during the SHN period; and shall bear the full costs of all COVID-19 tests of the foreign employee.
-
-12. The Employer/foreign employee shall bear the full costs of the foreign employee’s COVID-19 treatment at unsubsidised rates, if the foreign employee left Singapore from 27 Mar 2020 in disregard of the prevailing travel advisories, and is admitted for suspected COVID-19 and develops symptoms within 14 days of returning to Singapore.
-
-13. The Employer shall ensure that the foreign employee fully complies with the additional work pass conditions imposed on the foreign employee for the SHN period.
-
-14. The Employer shall explain and ensure that the foreign employee understands the additional work pass conditions that the foreign employee has to comply with, and the advisories that he/she has to observe.
-
-15. The Employer shall ensure that a physical copy of the additional work pass conditions is provided to and retained by the foreign employee.
-
-16. The Employer shall ensure that the foreign employee has a mobile phone with internet connectivity (e.g. via WIFI or sufficient mobile data) with him/her at all times during the SHN period; and shall ensure that the foreign employee downloads WhatsApp on his mobile phone and responds within 1 hour when contacted by MOM via phone call, WhatsApp or Short Message Service (SMS).
-
-17. The Employer shall ensure that the foreign employee downloads the FWMOMCARE mobile app on his mobile phone, once the foreign employee has received SMS sent by the Government within 1 to 3 days of his arrival, to report his location and health status thrice daily to MOM (refer to user guide). The foreign employee must have a thermometer to take and report his temperature.
-
-18. The Employer shall ensure that food and other daily essentials are provided to the foreign employee for the SHN period, if his foreign employee is unable to make his/her own arrangements.
-
-19. The Employer shall ensure that the foreign employee undergoes the required COVID-19 test(s) as scheduled. The Employer will be notified of the time/ date/ location of the employee’s scheduled appointment via an email/SMS notification.
-
-20. The Employer shall arrange to send the foreign employee from his/her SHN place of residence to the designated COVID-19 testing facility for the scheduled appointment, and return immediately after the test, using private vehicle, or taxi/private hire car booked via dedicated hotlines or ride-hail applications. Public transport or flagging down of taxi must be avoided. When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key “SHN” in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off. Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat Failure to go for the test as scheduled may result in an extension of the SHN period. The foreign employee’s work pass may also be revoked.
-
-21. The Employer shall ensure that they make the necessary arrangements for their employees' non-emergency medical needs (such as arrange a visit to a Public Health Preparedness Clinic (PHPC) or General Practitioner (GP) clinic nearest to the foreign employee's SHN place of residence, re-schedule follow-up visits for chronic conditions, refilling of prescription, etc).
 
 ### **Annex B - For the Foreign Employee on Stay-Home Notice**
 
