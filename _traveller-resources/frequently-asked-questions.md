@@ -106,7 +106,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
-From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, all travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hail taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.       
+From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, all travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.       
   
 
 <div id="transportQ3"></div>
