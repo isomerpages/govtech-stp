@@ -80,7 +80,7 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
 	 <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Accepted Proof of Vaccination</b></td>
     <td style="font-size:16px;border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
-			  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;"><b>Mobile Applications</b></p>
+		<p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;"><b>Mobile Applications</b></p>
 	    <ol style="margin-top:0px; list-style-type: decimal;">
 		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
 		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
