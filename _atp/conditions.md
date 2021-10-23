@@ -8,7 +8,7 @@ permalink: /atp/conditions
   <li style="font-size:20px; list-style-type:decimal;"> An Air Travel Pass holder must: 
      <ol style="font-size:18px; list-style-type:lower-alpha;">
   <li style="font-size:18px; list-style-type:lower-alpha;"> have been in his/her declared point of departure for the last 14 consecutive days before departing for Singapore;</li>
-        <li style="font-size:18px; list-style-type:lower-alpha;"> travel to Singapore either on a direct flight without transit, or with transits via <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions only;</li>
+        <li style="font-size:18px; list-style-type:lower-alpha;"> travel to Singapore either on a direct flight without transit, or with transits via <a href="/shn-and-swab-summary" target="_blank">Category I countries/regions </a> only;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> undergo a COVID-19 polymerase chain reaction (PCR) test at the airport upon arrival in Singapore, immediately<sup>1</sup> take private transportation, taxi, or private hire car from the airport to the declared place of accommodation and remain isolated at the accommodation until the test result is confirmed to be negative;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> disclose, and agree to the medical provider disclosing his/her COVID-19 PCR test result to the relevant Singapore Government authorities for public health purposes;</li>
        <li style="font-size:18px; list-style-type:lower-alpha;"> download the TraceTogether app on his/her mobile device and:
@@ -34,4 +34,3 @@ permalink: /atp/conditions
 </ol>
 
 <p style="margin-top:10px; font-size:16px;"><sup>1</sup> Travellers are not permitted to enter any retail or food & beverage establishments at Changi Airport, including Jewel Changi Airport. The only exception is for the procurement of goods and services from permitted concessionaires within the airport transit area or the cordoned-off area in the Arrivals Hall.</p>
-
