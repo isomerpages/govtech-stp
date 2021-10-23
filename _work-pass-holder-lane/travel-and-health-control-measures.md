@@ -344,7 +344,7 @@ On this page you will find the following:
 
 ### Travel Health Control Measures for WPHL-pass holders
 
-
+<div id="before"></div>
 
 <p style="font-size:24px;"><b>[For arrivals <span style="color: red;">before 26 Oct 2021, 2359h</span>]</b></p>
 
