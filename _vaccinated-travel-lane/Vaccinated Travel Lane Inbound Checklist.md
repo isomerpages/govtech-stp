@@ -186,7 +186,7 @@ When checking in at the departure airport, travellers must present to the airlin
 
 Singapore Citizens and Permanent Residents need only present (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
 
-Long-Term Pass holders need only present (i), (ii) and (v) above.Travellers who do not fulfil the above may be denied boarding.
+Long-Term Pass holders need only present (i), (ii) and (v) above. Travellers who do not fulfil the above may be denied boarding.
 
 ### Stage 3: Arrival in Singapore
 
