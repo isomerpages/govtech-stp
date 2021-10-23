@@ -24,27 +24,25 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 Travellers are be required to provide proof of vaccination during application, departure checks and immigration clearance. You must obtain any of the following acceptable proof of vaccination. Eligibility for each vaccination proof will vary depending on where you took your vaccination and your location:
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:18px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:10px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5"><b>Mobile Applications</b>
-	<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px; ">
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
-	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
-			<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth mobile app</a></li>
-	</ol>
-	</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>Vaccination Certificates</b>
-<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px; ">
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates (EU DCC)</a></li>
-	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards (SHC</a>) issued by:
-	<ol style="padding-left:20px; margin-top:10px; margin-bottom:0px;list-style-type:lower-alpha ">
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">CommonTrust Network issuers in the United States and Canada (listed<a href="https://www.commontrustnetwork.org/verifier-list" target="_blank"> here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank"> here</a>); or </li>
-				<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a> </li>
-		</ol>
-	</li>
-		<li style="margin-top:10px; margin-bottom:0px; font-size:18px; "><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-<!--	<li style="margin-top:10px; margin-bottom:0px; font-size:18px; ">Vaccination certificate issued by the Ministry of Health of Brunei Darussalam (<i>only for travellers arriving before 18 October 2021, 2359 hours</i>)</li>-->
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
-	</ol>
-</p>
+  <p style="line-height:1.5; margin-top:0px; margin-bottom:0px; font-size:16px;"><b>Mobile Applications</b></p>
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+		    <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.healthhub.sg/" target="_blank">HealthHub</a></li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth</a> (developed by the Government of Brunei)</li>
+		     <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV</a> (developed by the Korea Disease Control and Prevention Agency)<i><b> [For entry into Singapore from 14 November 2021, 2359hrs]</b></i></li>
+	    </ol>
+	    <p style="line-height:1.5; margin-top:10px; margin-bottom:0px; font-size:16px;"><b>Vaccination Certificates</b></p>
+	    <ol style="margin-top:0px; list-style-type: decimal;">
+			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
+			<ol style="margin-top:0px; list-style-type: lower-latin;">
+				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
+								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+							</ol>
+			</li>
+						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
+												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
+			</ol>
 </div>
 
 Frequently asked questions regarding vaccination proof can be found <a href="/vtl/faq#VacReq" target="_blank">here</a>.
