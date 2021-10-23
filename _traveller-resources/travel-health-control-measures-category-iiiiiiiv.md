@@ -134,7 +134,7 @@ On this page you will find the following:
 </tr>
 <tr>
 <th colspan="2" style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;"><b>Country/Region</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Cambodia, Egypt, Estonia, Hungary, Indonesia, Israel, Latvia, Lithuania, Malaysia, Maldives, Mongolia, Qatar, Rwanda, Samoa, Seychelles, Slovenia, South Africa, Tonga, UAE and Vietnam</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right: 1px solid #D8D8D8; background-color:#5e5e5e; color:white; text-align:center;"><b>Cambodia, Egypt, Estonia, Hungary, Indonesia, Israel, Latvia, Lithuania, Malaysia, Maldives, Mongolia, Qatar, Rwanda, Samoa, Seychelles, Slovenia, South Africa, Tonga, UAE, Vietnam</b></th>
 </tr>
 </thead>
 <tbody>
