@@ -222,7 +222,7 @@ On this page you will find the following:
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (I) Travel and Health Control Measures <br><a href="/travel-checklist/category-1">Click here</a> for a step-by step Category (I) Traveller’s Checklist</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (I) Travel and Health Control Measures <br><a href="/travel-checklist/category-1"></b>Click here</a> for a step-by step Category (I) Traveller’s Checklist</th>
 </tr>
 <tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
@@ -246,7 +246,7 @@ On this page you will find the following:
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures <br><a href="/travel-checklist/category-2">Click here</a> for a step-by step Category (II) Traveller’s Checklist.</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (II) Travel and Health Control Measures <br><a href="/travel-checklist/category-2"></b>Click here</a> for a step-by step Category (II) Traveller’s Checklist</th>
 </tr>
 <tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
@@ -288,7 +288,7 @@ On this page you will find the following:
 <table style="overflow: hidden;">
 <thead>
 	<tr>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (III) Travel and Health Control Measures <br><a href="/travel-checklist/category-3">Click here</a> for a step-by-step Category (III) Traveller’s Checklist</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; background-color:#153855; color:white; text-align:center;" colspan="3"><b>Category (III) Travel and Health Control Measures <br><a href="/travel-checklist/category-3"></b>Click here</a> for a step-by-step Category (III) Traveller’s Checklist</th>
 </tr>
 <tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:3px solid #D8D8D8; border-left:3px solid #D8D8D8; background-color:#153855; color:white;" colspan="2"><b>Country/Region</b></th>
