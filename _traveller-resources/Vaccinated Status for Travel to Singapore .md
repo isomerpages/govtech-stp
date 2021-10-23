@@ -5,7 +5,7 @@ permalink: /health/vtsg
 Travellers may be required to be fully vaccinated with WHO Emergency Use Listing (EUL) COVID-19 vaccines in order to be eligible for certain travel lanes to travel to Singapore, and domestic health measures requiring vaccinated status. This page outlines:
 
 - [Vaccinations accepted by Singapore](#acceptedvaccines)
-- [How to obtain vaccinated status for activities within Singapore](#VDSMM)
+- [Procedure to obtain vaccinated status for activities within Singapore](#VDSMM)
 
 <div id="acceptedvaccines"></div>
 
@@ -105,7 +105,7 @@ If your vaccination certificate(s) are valid, you will be granted <b>temporary v
 
 #### Maintaining vaccination status beyond 30 days after arrival
 
-The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available and the cost of the test, as well as bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
+The temporary vaccinated status on the TraceTogether app may expire 30 days after your arrival in Singapore. If you require your vaccination status for longer than 30 days, please visit a private healthcare provider or <a href="https://phpc.gov.sg" target="_blank">Public Health Preparedness Clinics</a>for a serology test. Please call in advance to check if the service is available, and bring along your personal identification documents, vaccination certificate(s), as well as translated copies if necessary. 
 
 If your serology test is positive, the private healthcare provider will enter your vaccination records into the National Immunisation Registry (NIR). Your vaccinated status will be updated in the TraceTogether app within 24 hours and you will continue to be eligible for VDS.
 
