@@ -106,11 +106,11 @@ All persons in the vehicle must wear face masks throughout the journey. In addit
 - Vehicle windows must be wound down with air conditioning turned off.
 -	Where practicable, the front passenger seat should be left unoccupied;
 -	The back seat should only be occupied by the traveller(s)
--	The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the National Environmental Agency (NEA) guidelines for more information.
+-	The driver should wipe down the vehicle after dropping the traveller off at his/her declared place of accommodation. Please refer to the <a href="https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/advisories/advisory-on-surface-cleaning-and-disinfection-for-covid-19" target="_blank">National Environmental Agency (NEA) guidelines</a> for more information.
 
 <b><u>(ii) Booking taxi/private-hire vehicles</u></b>
 
-When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a Stay-Home Notice (SHN). Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
+When securing a transport booking, travellers must inform the transport operator as well as driver that they are served with a <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a>. Travellers that opt to arrange for transport using a mobile application may key <i>“SHN”</i> in the chat/note/comment box or by checking the SHN checkbox (if provided within the app). Travellers that board a taxi/private hire car should sit alone in the back seat, with windows down and air-conditioning turned off.
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
