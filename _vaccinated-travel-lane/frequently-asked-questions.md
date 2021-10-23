@@ -259,6 +259,24 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
+#### 16. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
+
+Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region or Singapore. 
+
+If you are a short-term visitor or Long-Term Pass holder with your vaccination records ingested into Singapore’s NIR, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (VTP).
+
+For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.
+
+#### 17. I was fully vaccinated in a non-VTL country/region but have since obtained a booster shot in a VTL country/region or Singapore. Do I satisfy the vaccination requirement?
+
+Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region Singapore. 
+
+If you are a short-term visitor or Long-Term Pass holder who has obtained a booster shot in Singapore, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (VTP).
+
+For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.
+
+
+
 ---
 
 ##### Click here to go back to the [top](#top).
