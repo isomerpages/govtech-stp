@@ -48,7 +48,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 
 &#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
 
-Travellers who are fit for travel should:
+Travellers arriving <b>before 26 Oct 2021, 2359 hours</b> who are fit for travel should:
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
 	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
@@ -58,7 +58,7 @@ Travellers who are fit for travel should:
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Install <a href="https://www.tracetogether.gov.sg/">TraceTogether</a> and <a href="https://www.whatsapp.com/download">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
-Travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
+Travellers arriving in Singapore from Category (II), (III) and (IV) countries/regions **from 26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
 
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
