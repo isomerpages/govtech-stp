@@ -207,7 +207,6 @@ On this page you will find the following:
 		<tr>
 <td colspan="2" style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;">
 <ol style="margin-top: 0px; list-style-type: decimal;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">All helpers/CNs must be <a href="/wphl/vaccination-requirements">fully vaccinated</a>.</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 Polymerase Chain Reaction test</a> (“COVID-19 PCR test”) <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 		<ol style="margin-top:0px; list-style-type: lower-roman;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
@@ -223,7 +222,7 @@ On this page you will find the following:
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> at one of the following:
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b> If the household has unvaccinated vulnerable individuals, the helper is strongly encouraged to isolate herself in a separate room and minimise contact with these vulnerable household members.
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Employer's house <b>(only allowed for helpers who were already working for their employers before they left Singapore. Not allowed for CNs.)</b> If the household has unvaccinated vulnerable individuals, the helper is strongly encouraged to isolate herself in a separate room and minimise contact with these vulnerable household members.<br/><br/>All helpers/CNs must be <a href="/wphl/vaccination-requirements">fully vaccinated</a>.
 		</li>
 		</ol>
 	</li>
