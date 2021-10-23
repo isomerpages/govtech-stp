@@ -9,7 +9,7 @@ a) &nbsp; Work in the Construction, Marine shipyard or Process (CMP sector);<br>
 b) &nbsp; Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes<br>
 c) &nbsp; Not entering Singapore with their dependants
 
-For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history (excluding transits), and will be stated on their entry approval letters. The health measures are split into 4 categories (Category I/II/III/IV).
+For all other pass holders (work pass holders and their dependants), this page explains the travel health control measures that apply to them when travelling to Singapore. The measures are based on the pass holders' travel history, and will be stated on their entry approval letters. The health measures are split into 4 categories (Category I/II/III/IV).
 
 <table style="background-color:#f5f5f5">
 <tbody>
