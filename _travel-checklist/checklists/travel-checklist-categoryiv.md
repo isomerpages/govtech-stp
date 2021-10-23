@@ -23,7 +23,6 @@ Travellers must take a PDT **within 48 hours before departure** for Singapore, u
 - Have remained in only <a href="/shn-and-swab-summary" target="_blank">Category (I) country/region</a> in the past 14 consecutive days before departure; or
 - Are Singapore Citizen entering Singapore via the Causeway or Second Link.
 
-
 Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">accredited or authorised testing facility</a> in the country/region of departure and ensure that the PDT:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
