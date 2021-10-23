@@ -130,18 +130,19 @@ For (A), please see sample screenshots below:
 #### 7. What must travellers with proof of vaccination issued in a VTL country/region present at check-in and arrival immigration?
 
 Travellers may present any of the following:
-	    <ol style="margin-top:0px; list-style-type: decimal;">
-			<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
+
+<ol style="margin-top:0px; list-style-type: decimal;">
+			<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en" target="_blank">EU Digital COVID Certificates</a> (EU DCC) issued by any VTL country/region</li>
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://smarthealth.cards/faq.html" target="_blank">SMART Health Cards</a> (SHC) issued by:
 			<ol style="margin-top:0px; list-style-type: lower-latin;">
-				<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
-								<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">CommonTrust Network issuers in the United States and Canada (listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>);</li>
+								<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://vci.org/issuers" target="_blank">Vaccination Credential Initiative issuers</a></li>
 							</ol>
 			</li>
-						<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
-												<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination status on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a> (developed by the Government of Brunei) </li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination status on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> (developed by the Korea Disease Control and Prevention Agency) [For entry into Singapore from 14 November 2021, 2359hrs]</li>
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><a href="https://www.gov.uk/guidance/nhs-covid-pass" target="_blank">National Health Service (NHS) COVID Passes</a> found on the NHS mobile app</li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[For travellers vaccinated in Singapore]</b> Digital HealthCerts provided by <a href="https://www.notarise.gov.sg/" target="_blank">Notarise</a></li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination status on the <a href="http://www.moh.gov.bn/SitePages/bruhealth.aspx" target="_blank">BruHealth app</a> (developed by the Government of Brunei) </li>
+	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Vaccination status on the <a href="https://ncv.kdca.go.kr/coov" target="_blank">COOV app</a> (developed by the Korea Disease Control and Prevention Agency) [For entry into Singapore from 14 November 2021, 2359hrs]</li>
 			</ol>
  
 Digitally verified and authenticated proof of vaccination is a key safeguard of the VTL. We are currently working on accepting digitally verifiable vaccination certificates by other issuers. Further details will be shared at a later date. 
@@ -267,13 +268,13 @@ If you are a short-term visitor or Long-Term Pass holder with your vaccination r
 
 For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.
 
-#### 17. I was fully vaccinated in a non-VTL country/region but have since obtained a booster shot in a VTL country/region or Singapore. Do I satisfy the vaccination requirement?
+<!-- #### 17. I was fully vaccinated in a non-VTL country/region but have since obtained a booster shot in a VTL country/region or Singapore. Do I satisfy the vaccination requirement?
 
 Yes, you will fulfill the requirement of having your proof of vaccination issued in any VTL country/region Singapore. 
 
 If you are a short-term visitor or Long-Term Pass holder who has obtained a booster shot in Singapore, you may obtain your vaccination HealthCert issued via the <a href="https://www.notarise.gov.sg/" target="_blank">Notαrise portal</a> and upload the QR code in your application for a Vaccinated Travel Pass (VTP).
 
-For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.
+For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> for acceptable proofs of vaccination issued in Singapore, or <a href="/vtl/faq#Q7">Question 7</a> for acceptable proofs of vaccination issued in any VTL country/region, which can be presented at check-in and arrival immigration.-->
 
 
 
