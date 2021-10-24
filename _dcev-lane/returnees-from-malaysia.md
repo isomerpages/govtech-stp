@@ -122,8 +122,8 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 <td  style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">After obtaining entry approval to return to Singapore under the DCEV lane, travellers are to abide by the pre-departure measures and entry process depending on the traveller profile below:
 <ol style="margin-top:0px; list-style-type: disc;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass Holders: Click <a href="/wphl/overview">here</a></li> 
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Student’s Pass Holders: Click <a href="/stpl/requirements-and-process">here</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click <a href="/scpr-familial-ties-lane/requirements-and-process">here</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Student’s Pass Holders: Click <a href="/stpl/overview">here</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click <a href="/scpr-familial-ties-lane/overview">here</a></li>
 </ol>   
 </td>
 </tr>
