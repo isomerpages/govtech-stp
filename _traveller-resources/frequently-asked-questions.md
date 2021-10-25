@@ -563,7 +563,7 @@ Requests for refunds will only be considered if there are strong mitigating fact
   </tr>
 <tr>
     <td style="border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; background-color:#EDEDED"><b>For bookings made at the land/sea checkpoints:</b></td>
-    <td style="font-size:18px; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;">Travellers may wish to directly email to <a href="mailto:francis.goh@parkwayshenton.com.sg">francis.goh@parkwayshenton.com.sg</a> for their refund or cancellation requests.
+    <td style="font-size:18px; border-right:1px solid #D8D8D8;  border-bottom:1px solid #D8D8D8;">Travellers may wish to directly email to <a href="mailto:sea.checkpoints.refunds@parkwaypantai.com">sea.checkpoints.refunds@parkwaypantai.com</a> for their refund or cancellation requests.
  </td>
   </tr>
  </tbody>
