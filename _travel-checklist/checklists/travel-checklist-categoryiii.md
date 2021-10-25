@@ -78,7 +78,7 @@ Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, 
   </tbody>
   </table>
 
-Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
+Travellers should note that any prior approvals given to complete the SHN at the traveller's own residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
 
 **From 26 Oct 2021, 2359 hours**, travellers with travel history to Category (III) countries/regions will be allowed to serve their 10-day SHN at their declared place of residence/accommodation by default, instead of at an SDF. 
 
