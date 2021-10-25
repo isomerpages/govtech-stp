@@ -213,7 +213,7 @@ On this page you will find the following:
 	</tbody>
 	</table>
 
-<div></div>	   
+<div id="before"></div>	   
 
 ### Categories of Travel Health Control Measures (for arrivals before 26 Oct 2021, 2359H)
 	
