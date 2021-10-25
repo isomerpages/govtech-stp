@@ -935,15 +935,7 @@ If your particulars have changed, please write to the Safe Travel Office using t
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, the prepayment for your Day 3 and Day 7 PCR tests will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
-#### 16. Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?
-
-Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.
-
-If you have made payment for your Day 3 and Day 7 tests, but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be automatically refunded by the designated chain of clinics to the credit card used to pay for the test.
-
-Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.
-
-#### 17. Can travellers use the VTP to transit/transfer through Singapore?
+#### 16. Can travellers use the VTP to transit/transfer through Singapore?
 
 No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 
