@@ -266,15 +266,6 @@ After self-isolation, travellers may go about their activities but must comply w
 
 Some activities in Singapore may require proof of vaccination (e.g. attendance at large scale events, entering shopping malls, dining in). The vaccination status of all fully vaccinated VTL travellers will be automatically reflected on their TraceTogether app after arrival in Singapore.
 
-&#9744;  <i><b>B) [Only for travellers entering Singapore before 18 October 2021, 2359 hours] Post-Arrival COVID-19 PCR Tests </b></i>
-
-Travellers are required to undergo COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Days 3 and 7 of their arrival in Singapore. Instructions for the dates of tests and the designated clinics will be emailed to travellers upon their arrival in Singapore.
-
-Travellers who are departing Singapore:
-- Before 1500 hours on the day of the scheduled test, are exempted from taking the required test. Refunds for untilised PCR test(s), excluding administrative fees, will be made to the credit card used to pay for the tests by the designated chain of clinics.
-- On or after 1500 hours on the day of the scheduled test, are still required to take their PCR test. However, they do not need to wait for the test results to leave Singapore.
-
-The traveller’s time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
 
 ### Stage 6: Departure from Singapore
 
