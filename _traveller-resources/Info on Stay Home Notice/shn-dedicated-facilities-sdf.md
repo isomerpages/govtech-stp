@@ -46,11 +46,11 @@ Exceptions can be made to allow travellers to serve their 10-day SHN at their ow
   </thead>
   <tbody>
     <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Suffer from critical illness, special medical condition, or have mobility issues
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Suffer from critical illness, special medical condition, or have mobility issues
 </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds">Here</a></td>
     </tr>
-       <tr>
+ <!-- <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><span style="color:red;"><b>[For Travellers entering Singapore before 26 Oct 2021, 2359h only]</b></span><br/><br/><a href="/health/vtsg">Fully vaccinated travellers</a> who:
         <ol style="font-size:20px; margin-top:15px; margin-bottom:0px; list-style-type:lower-alpha;">
 <li style="font-size:20px; margin-top:5px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; AND</li>
@@ -66,7 +66,7 @@ Exceptions can be made to allow travellers to serve their 10-day SHN at their ow
 	Click <a href="https://go.gov.sg/scproptoutsdf">here</a> for Singapore Citizens and PRs (Applications must be submitted three days before arrival)
 	<p style="font-size:20px; margin-top:15px; margin-bottom:0px; line-height:1.5;">Foreign Travellers can opt out during their entry application process</p>
 </td>
-    </tr>
+    </tr>-->
   </tbody>
   </table>
 
