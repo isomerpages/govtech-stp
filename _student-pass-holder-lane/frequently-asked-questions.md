@@ -64,6 +64,4 @@ If you are aged 18 years old and above at the point of arrival, you will have to
 
 Travellers are considered fully vaccinated if they have received 1 dose of a PSAR-approved vaccine after recovering from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously. 
 
-However, to ensure smooth boarding and immigration clearance, such travellers will need to obtain an exemption letter from the Ministry of Education. They may do so by submitting an application [here](https://go.gov.sg/moe-vaccination-exemption). They do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://eservices.ica.gov.sg/STO)
-
-
+However, to ensure smooth boarding and immigration clearance, such travellers will need to obtain an exemption letter from the Ministry of Education. They may do so by submitting an application [here](https://go.gov.sg/moe-vaccination-exemption). They do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://eservices.ica.gov.sg/STO).
