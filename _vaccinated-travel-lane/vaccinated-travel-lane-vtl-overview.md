@@ -165,8 +165,7 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
 		 <ol style="margin-top:0px; list-style-type: lower-roman;">
 			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) <b>within 48 hours before departure for Singapore</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised laboratory, clinic, or medical facility</a>, <b><u>and</u></b> test negative for COVID-19;</li>
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test on arrival in Singapore;</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result taken in Singapore is conveyed (typically within 24 hours); and</li>
-			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><b>[For travellers entering Singapore <span style="color:red;">before</span> 18 October 2021, 2359hrs]</b></i> Undergo <a href="/vtl/faq#arrival" target="_blank">post-arrival COVID-19 PCR tests at a designated clinic</a> by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore.</li>
+			 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Remain in self-isolation until a negative COVID-19 PCR test result taken in Singapore is conveyed (typically within 24 hours).</li>
 </ol>
 		 </td>
  </tr>

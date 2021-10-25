@@ -21,7 +21,6 @@ permalink: /vtl/faq
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#PDT">Pre-Departure COVID-19 Polymerase Chain Reaction (PCR) Test</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#Flight">Designated VTL Flights</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#OAT">On-Arrival COVID-19 PCR Test at the Airport and Self-Isolation</a></li>
-<li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#arrival">Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics</a></li>
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#AdditionalReq">Additional Requirements for Short-Term Visitors</a>:
 <ol style="margin-top:0px; margin-bottom:0px; font-size:18px; list-style-type:lower-roman;">
 <li style="margin-top:0px; margin-bottom:0px; font-size:18px;"><a href="#visa">Visa Application</a></li>
@@ -654,97 +653,6 @@ Travellers must be transported directly to their declared place of accommodation
 
 ---
  
- 
-<div id="arrival"></div>
-
-### (f) Post-Arrival Day 3 and Day 7 COVID-19 PCR Tests at Designated Chain of Clinics
-
-<div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px;">
-	<p style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5 color:red;"><span style="color:red;"><b><i>Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests. If they have previously made payment for their Day 3 and Day 7 tests, they will automatically receive a refund (excluding administrative fees) from the designated chain of clinics through the credit card used to pay for the tests.</i></b></span></p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(1) My Day 7 test is on or after 19 October 2021. Do I still need to go for my test?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes. If you enter Singapore prior to 18 October 2021, 2359 hours, you <b>must</b> attend both your Day 3 and Day 7 COVID-19 PCR tests.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(2) I applied to enter Singapore before 19 October 2021, but my VTP is valid till after 19 October 2021. Can I enter after 19 October 2021 instead? Will I be subject to Day 3 and Day 7 tests?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Yes, you may enter Singapore on any of the dates within the validity period of your VTP. All travellers entering Singapore with effect from 18 October 2021, 2359 hours, will <b><u>not</u></b> be required to undergo post-arrival COVID-19 PCR tests.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(3) My VTP is valid till before 19 October 2021, but I would like to change my travel plans to enter on or after 19 October 2021. How may I do so?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If your travel plans change and you need to enter after the validity period, please submit a new VTP application. The pre-payment for your Day 3 and Day 7 PCR tests under your unutilised VTP will be refunded automatically to your credit card, excluding administrative fees.</p>
-	<p style="font-size:18px; margin-top:20px; margin-bottom:0px; line-height:1.5"><b>(4). Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?</b></p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">If you have made payment for your Day 3 and Day 7 tests , but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be refunded by the designated chain of clinics to the credit card used to pay for the test.</p>
-	<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5">Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.</p>
-</div>
-
-#### 1. On which days do travellers need to go for a post-arrival PCR test?
-Travellers must undergo COVID-19 PCR tests on Day 3 and Day 7 of their arrival in Singapore. Day 1 refers to the day that the traveller clears arrival immigration in Singapore. To illustrate, if the traveller clears arrival immigration at 2330 hours (Singapore time) on 1 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 3 October 2021 (i.e. Day 3) and 7 October 2021 (i.e. Day 7). If the traveller clears arrival immigration at 0030 hours (Singapore time) on 2 October 2021 (i.e. Day 1), he/she is required to undergo COVID-19 PCR tests on 4 October 2021 (i.e. Day 3) and 8 October 2021 (i.e. Day 7).
-
-#### 2. Why do travellers need to take Day 3 and Day 7 tests?
-
-Travellers are subject to Day 3 and Day 7 COVID-19 PCR tests to ensure public health and safety.
-
-#### 3. How much do the Day 3 and Day 7 tests cost?
-
-The cost of each PCR test is S$94.16 (inclusive of Goods and Services Tax). Travellers will bear the cost of the tests.
-
-A credit card administrative charge of $5.75 is applicable for applications made on the portal.
-
-#### 4. What are the clinics travellers can go to for their Day 3 and Day 7 tests?
-
-They can visit any of the <a href="https://www.rafflesmedicalgroup.com/vtl-traveller/">designated clinics</a>. They are required to undergo their COVID-19 PCR test *by 1500 hours (Singapore time) on each day*.
-
-#### 5. Can a traveller go to a clinic that is not within the list of designated clinics?
-
-No, travellers must only go to the <a href="https://www.rafflesmedicalgroup.com/vtl-traveller/">designated clinics</a>.
-
-#### 6. How do travellers book their appointments for their Day 3 and Day 7 tests?
-
-Travellers may make an appointment booking for their Day 3 and Day 7 PCR tests with any of the designated clinics by using their unique link, which will be emailed to them upon their arrival in Singapore. They will only be able to make their own appointment booking using their unique link.
-
-#### 7. Do travellers need to self-isolate after their Day 3 and Day 7 tests?
-
-No, travellers are not required to self-isolate after their Day 3 and Day 7 tests. Self-isolation is only required pending the results of the on-arrival COVID-19 PCR test at the airport.
-
-#### 8. How soon will the results of the Day 3 and Day 7 tests be out?
-
-Travellers can expect to receive their results within 24 hours of their test.
-
-#### 9. What should travellers do if they test positive for COVID-19?
-
-If tested positive for COVID-19 (i.e. informed of a positive test result), travellers must immediately isolate themselves in their declared accommodation. They should ensure that they are contactable via their declared mobile number and email address and await further instructions by the relevant Singapore authorities. 
-
-#### 10. Can a traveller visit different designated clinics for their Day 3 and Day 7 tests?
-
-Yes, travellers do not need to visit the same designated clinic for both tests. They may make an appointment booking at any designated clinic of their choice, subject to availability of slots.
-
-#### 11. Are travellers allowed to reschedule their Day 3 and Day 7 tests to other days?
-
-No, travellers are required to undergo COVID-19 PCR tests at a designated clinic by 1500 hours (Singapore time) on Day 3 and Day 7 of their arrival in Singapore. Failure to do so may constitute an offence under the Infectious Diseases Act (IDA).
-
-A traveller who fails to undergo the required COVID-19 PCR tests may also be required to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility.
-
-#### 12. What if travellers intend to leave Singapore prior to Day 3 or Day 7?
-
-If the travellers’ time of departure from Singapore is:
-- <b>before 1500 hours on the day of test</b>, they are <u>exempted</u> from taking their scheduled PCR test. Any unutilised charge(s), excluding administrative fees, will be refunded by the designated chain of clinics to the credit card used to pay for the tests.
-
-- <b>at or after 1500 hours on the day of test</b>, they are still <u>required</u> to take their scheduled PCR test. They do not need to wait for the test results to be released before departing Singapore.
-
-The travellers’ time of departure from Singapore is defined as the scheduled time of departure of their flight or ferry, or the time they clear departure immigration if they depart by land.
-
-The expected waiting time for the refund is about three weeks, depending on the credit card issuing bank.
-
-#### 13. What are the penalties if travellers miss their scheduled Day 3 or Day 7 test?
-
-Failure to undergo the required COVID-19 PCR tests may constitute an offence under the Infectious Diseases Act, and may render the traveller liable upon conviction, in the case of a first offence, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding 6 months or to both. For subsequent offence(s), the traveller may be liable on conviction to a fine not exceeding S$20,000 or imprisonment for a term not exceeding 12 months or to both.
- 
-A traveller who fails to undergo the required COVID-19 PCR tests may also be required, for public health reasons, to serve a Stay-Home Notice (SHN) / Stay Order at an SHN Dedicated Facility pursuant to the Infectious Diseases (COVID-19 – Stay Orders) Regulations 2020, and to pay for all charges related to his/her stay, as well as any additional COVID-19 tests required as part of the SHN regime.
-
-Further, the traveller’s VTP, and/or Visit Pass or Long-Term Pass may be cancelled, and in such an event, he/she may be liable for the cost of their repatriation, including custody and maintenance pending repatriation. Future VTP applications may also be rejected.
-
----
-
-##### Click here to go back to the [top](#top).
-
----
-
 
 <div id="AdditionalReq"></div> 
 
@@ -1027,21 +935,7 @@ If your particulars have changed, please write to the Safe Travel Office using t
 
 You do not need to cancel your VTP. If you do not utilise your VTP within the validity period, the prepayment for your Day 3 and Day 7 PCR tests will be refunded automatically to your credit card, excluding administrative fees. The expected waiting time for the refund is about three weeks after the end of the validity period of your VTP, depending on the credit card issuing bank.
 
-#### 16. Will the removal of the requirement to undergo Day 3 and Day 7 COVID-19 PCR tests apply to VTL travellers from Brunei Darussalam and Germany as well?
-
-Yes, all VTL travellers, including those from Brunei Darussalam and Germany, who are entering Singapore with effect from 18 October 2021, 2359 hours (Singapore time), will not be required to undergo post-arrival COVID-19 PCR tests.
-
-If you have previously made payment for their Day 3 and Day 7 tests, you will automatically receive a refund from the designated chain of clinics through the credit card used to pay for the tests.
-
-#### 17. Why am I required to pay for two COVID-19 PCR tests if my intended date of entry into Singapore is on or after 19 October 2021?
-
-Travellers submitting a VTP application before 12 October 2021, 0000 hours (Singapore time), will be charged for two COVID-19 PCR tests, regardless of their intended date of entry.
-
-If you have made payment for your Day 3 and Day 7 tests, but enter Singapore with effect from 18 October 2021, 2359 hours (Singapore time), the payment for the Day 3 and Day 7 tests will be automatically refunded by the designated chain of clinics to the credit card used to pay for the test.
-
-Alternatively, if you submit a VTP application from 12 October 2021, 0000 hours (Singapore time) onwards, you will not have to make any payment at the point of application.
-
-#### 18. Can travellers use the VTP to transit/transfer through Singapore?
+#### 16. Can travellers use the VTP to transit/transfer through Singapore?
 
 No, the VTP is for travellers who intend to enter Singapore and is not applicable for transfer/transit passengers. At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). Travellers should confirm with their airline on their eligibility to transfer.
 

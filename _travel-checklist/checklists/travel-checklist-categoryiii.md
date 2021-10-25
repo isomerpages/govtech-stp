@@ -72,24 +72,13 @@ Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, 
   </thead>
   <tbody>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds" target="_blank">Click Here</a></td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;">Traveller is <a href="/health/vtsg" target="_blank">fully vaccinated</a> and had visited only <a href="/shn-and-swab-summary" target="_blank">Category (I), (II) or (III) countries/regions</a> in the past 14 consecutive days before arrival in Singapore, and is occupying a place of accommodation, hotel or serviced apartment either:
-			<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Alone (i.e. no domestic helpers); or</li>
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">With vaccinated household members sharing the same travel history and SHN duration.</li>
-				</ol>
-				<p style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><span style="color:red;"><b>Note:</b></span><i> Unvaccinated minors (i.e. below 12 years of age in this calendar year) who are travelling with their vaccinated parents to Singapore are permitted to serve their SHN with their parents at their place of accommodation.</i></p>
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0;"><a href="https://go.gov.sg/scproptoutsdf" target="_blank">Click Here</a> for Singaporean Citizens and PRs<br/><br/>
-Foreign Travellers will indicate their SHN accommodation preference during application for entry approval (<a href="#stage1a">Stage 1A</a> of this checklist)</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds" target="_blank">Click Here</a></td>
     </tr>
   </tbody>
   </table>
 
-Travellers should note that any prior approvals given to complete the SHN at a place of residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
+Travellers should note that any prior approvals given to complete the SHN at the traveller's own residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
 
 **From 26 Oct 2021, 2359 hours**, travellers with travel history to Category (III) countries/regions will be allowed to serve their 10-day SHN at their declared place of residence/accommodation by default, instead of at an SDF. 
 
