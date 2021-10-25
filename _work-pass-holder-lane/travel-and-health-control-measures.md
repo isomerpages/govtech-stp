@@ -169,7 +169,7 @@ On this page you will find the following:
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 7-day <a href="/health/shn">SHN</a> in one of the following: 
 	<ol style="margin-top: 0px; list-style-type: lower-roman;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g. hotels or serviced apartments). If planning to serve in a self-sourced hotel, select from this <a href="https://sha.org.sg/stay-home-notice">list</a>.</li>
-		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or household members, including any helpers) where the pass holder can be isolated in a room with an attached toilet.</b>  </li>
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence <b>(only occupied by the pass holder or household members, including any helpers)</b> If the household has unvaccinated vulnerable individuals, the pass holder is strongly encouraged to isolate themselves in a separate room and minimise contact with these vulnerable household members.</li>
 	</ol>
 	</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 7 of SHN. <!--(This will be replaced by a self-administered <a href="/health/covid19-tests/pcrtest">Antigen Rapid Test</a> for arrivals from 22 Oct 2021).--></li>
