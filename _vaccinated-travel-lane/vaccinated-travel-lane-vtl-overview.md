@@ -31,7 +31,6 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p> 
 	        <p style="margin-top:16px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 7 November 2021, 2359hrs]</b> Australia and Switzerland</p>
 	    <p style="margin-top:10px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</p>
-
 <!--		 <table>
 <thead>
 <tr>
@@ -78,7 +77,7 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
 </tr>
 </tbody>
 </table>		 -->
-		 </td>
+</td>
  </tr>
 	 <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Accepted Proof of Vaccination</b></td>
