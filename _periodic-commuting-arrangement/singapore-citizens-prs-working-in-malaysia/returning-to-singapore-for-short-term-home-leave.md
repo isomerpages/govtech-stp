@@ -15,4 +15,4 @@ From <b>29 May 2021, 2359 hours</b>, all returning PRs, including approved PCA t
 Failing which (i.e. not tested), the traveller may be turned away from entry at the checkpoint and have their entry/re-entry permits cancelled. Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the Safe Travel Office via this <a href="https://go.gov.sg/sto-enquiry">Enquiry Form</a> or 6812 5555.
 
 
-For more information on the prevailing health measures for SC/PRs returning from Malaysia, click [here](/sc-pr/requirements-and-process).
+For more information on the prevailing health measures for SC/PRs returning from Malaysia, click [here](/sc-pr/overview).
