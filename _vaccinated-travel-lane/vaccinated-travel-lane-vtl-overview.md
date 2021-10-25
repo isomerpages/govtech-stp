@@ -28,7 +28,10 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>3</sup>Including Aruba, Curaçao, Sint Maarten, and all special municipalities.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>4</sup>Including the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories.</p>
-	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p> <br/><br/><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea
+	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>5</sup>Including the US territories of American Samoa, Northern Mariana Islands, Guam, Puerto Rico and US Virgin Islands.</p> 
+	        <p style="margin-top:16px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 7 November 2021, 2359hrs]</b> Australia and Switzerland</p>
+	    <p style="margin-top:10px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</p>
+
 <!--		 <table>
 <thead>
 <tr>
