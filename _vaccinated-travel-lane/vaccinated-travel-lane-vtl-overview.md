@@ -24,7 +24,7 @@ All travellers <b>must</b> be fully vaccinated (<a href="/health/vtsg" target="_
     <td id ="countries" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; "><b>VTL Countries/Regions</b></td>
     <td style="font-size:16px; border-right:1px solid #D8D8D8;">
 	    Brunei Darussalam, Canada, Denmark<sup>1</sup>, Germany, France<sup>2</sup>, Italy, the Netherlands<sup>3</sup>, Spain, the United Kingdom<sup>4</sup> and the United States<sup>5</sup>
-	     <p style="margin-top:16px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 7 November 2021, 2359hrs]</b> Australia and Switzerland</p>
+	     <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 7 November 2021, 2359hrs]</b> Australia and Switzerland</p>
 	    <p style="margin-top:10px; margin-bottom:0px; font-size:14px; line-height:1.5;"><b>[Allowed for entry into Singapore effective 14 November 2021, 2359hrs]</b> Republic of Korea</p>
 	    <p style="margin-top:20px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>1</sup>Including the Faroe Islands and Greenland.</p>
 	<p style="margin-top:5px; margin-bottom:0px; font-size:14px; line-height:1.5;"><sup>2</sup>Including all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM), and New Caledonia.</p>
