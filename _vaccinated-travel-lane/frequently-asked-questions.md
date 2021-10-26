@@ -482,7 +482,7 @@ Singapore Citizens and Permanent Residents may take either:
 
 <u><b>(A) Designated VTL Flights</b></u>
 
-Those arriving in Singapore on a designated VTL flight are not required to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR tests on-arrival at the airport, as well as  on Day 3 and Day 7 of their arrival in Singapore. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
+Those arriving in Singapore on a designated VTL flight are not required to serve a Stay-Home Notice (SHN). Instead, they will undergo a COVID-19 PCR tests on-arrival at the airport. They must meet the requirements to be eligible for a designated VTL flight. Upon the completion of their on-arrival COVID-19 PCR test, travellers must commute directly to their declared self-isolation accommodation. They must self-isolate there until they are notified of a negative PCR test result.
 
 <u><b>(B) Non-Designated Flights</b></u>
 
