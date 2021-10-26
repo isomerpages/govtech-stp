@@ -859,10 +859,7 @@ All travellers who successfully submit their application will be issued with a V
 
 #### 4. Is there a fee to apply for a VTP?
 
-No, there is no fee payable for the application of a VTP. However, travellers will have to make payment for their Day 3 and Day 7 post-arrival COVID-19 Polymerase Chain Reaction (PCR) tests at the point of application.
-
-[Note: Travellers entering Singapore with effect from 18 October 2021, 2359 hours will not be required to undergo post-arrival COVID-19 PCR tests, and will not have to make any payment at the point of application.] 
-
+No, there is no fee payable for the application of a VTP.  
 
 #### 5. Do travellers travelling with family members need to apply a VTP for every individual?
 
