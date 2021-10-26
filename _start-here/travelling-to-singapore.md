@@ -156,7 +156,8 @@ Travellers who need to only make a short-term business trip to Singapore may use
 					<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers and accompanied unvaccinated children below 12 years old)</td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-			<li style="font-size: 18px;">Brunei  </li>
+			<li style="font-size: 18px;">Australia (VTP applications open on 1 Nov 2021, 1000hrs, for entry into Singapore from 8 Nov 2021)  </li>
+			   <li style="font-size: 18px;">Brunei  </li>
 				 			<li style="font-size: 18px;">Germany </li>
 				 <li style="font-size: 18px;">Canada</li>
 				 <li style="font-size: 18px;">Denmark </li>
@@ -164,9 +165,10 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				 <li style="font-size: 18px;">Italy</li>
 				 <li style="font-size: 18px;">Netherlands</li>
 				 <li style="font-size: 18px;">Spain</li>
+			   <li style="font-size: 18px;">Switzerland (VTP applications open on 1 Nov 2021, 1000hrs, for entry into Singapore from 8 Nov 2021)  </li>
 				 <li style="font-size: 18px;">United Kingdom</li>
 				 				 <li style="font-size: 18px;">United States  </li>
-			   <li style="font-size: 18px;">South Korea (For arrivals from 15 Nov 2021)  </li>
+			   <li style="font-size: 18px;">South Korea (VTP applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)  </li>
 				 </ul>
 				</td>
 	</tr>
@@ -185,7 +187,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
-	<li><a href="/vtl/requirements-and-process">Australia</a> (For arrivals from 8 Nov 2021)</li>
+	<li><a href="/vtl/requirements-and-process">Australia</a> (VTP applications open on 1 Nov 2021, 1000hrs, for entry into Singapore from 8 Nov 2021)</li>
 		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
 			<li><a href="/vtl/requirements-and-process">Germany</a></li>
 	<li><a href="/atp/requirements-and-process">Hong Kong</a></li>
@@ -199,10 +201,10 @@ Short term visitors from the following countries/regions may apply to enter Sing
 				 <li><a href="/vtl/requirements-and-process">Italy</a> </li>
 				 <li><a href="/vtl/requirements-and-process">Netherlands</a>  </li>
 				 <li><a href="/vtl/requirements-and-process">Spain</a>  </li>
-	<li><a href="/vtl/requirements-and-process">Switzerland</a> (For arrivals from 8 Nov 2021)</li>
+	<li><a href="/vtl/requirements-and-process">Switzerland</a> (VTP applications open on 1 Nov 2021, 1000hrs, for entry into Singapore from 8 Nov 2021)</li>
 				 <li><a href="/vtl/requirements-and-process">United Kingdom</a> </li>
 				 <li><a href="/vtl/requirements-and-process">United States</a>   </li>
-	<li><a href="/vtl/requirements-and-process">South Korea</a> (For arrivals from 15 Nov 2021)  </li>
+	<li><a href="/vtl/requirements-and-process">South Korea</a> (VTP applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)  </li>
 </ul>
 
 ---

@@ -826,8 +826,6 @@ A VTP allows vaccinated travellers who are short-term visitors (including busine
 
 The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
 
-With effect from <b>14 November 2021, 2359 hours (Singapore time)</b>, fully vaccinated short-term visitors and Long-Term Pass holders from the Republic of Korea may seek entry into Singapore via the VTL. VTP applications will open on 8 November 2021, 1000 hours (Singapore time).
-
 Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
 #### 2. How can travellers apply for a VTP?
