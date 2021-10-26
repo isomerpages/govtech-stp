@@ -120,7 +120,7 @@ To qualify for the VTL quarantine-free travel health protocols, VTL travellers m
 	    <sup>*</sup>The list of airlines and websites will be regularly updated
 </div>
 
-Travellers may transit via any VTL country/region above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
+Travellers may transit via any <a href="">VTL country/region</a> above (except the Republic of Korea which is under the VTL from 14 Nov 2021, 2359 hours) before arrival in Singapore. 
 
 If transits are made via a non-VTL country/region:
 - Singapore Citizens and Permanent Residents will not be eligible for quarantine-free health protocols. 
