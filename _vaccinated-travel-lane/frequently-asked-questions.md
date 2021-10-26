@@ -314,7 +314,7 @@ Yes, you will be eligible for the VTL so long as your travel history within the 
 
 #### 4. I am currently in a non-VTL country/region but will be travelling to [VTL countries/regions](/vtl/requirements-and-process#countries). Will I be eligible for the VTL?
 
-You may be eligible for the VTL if your travel and transit  history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore. 
+You may be eligible for the VTL if your travel and transit history within the past 14 consecutive days before departure for Singapore <u>only</u> consists of one or more of the [VTL countries/regions](/vtl/requirements-and-process#countries) and/or Singapore. 
 
 However, if you were in a non-VTL country/region at any point within the past 14 days, you will not be eligible for the VTL.
 
@@ -325,7 +325,7 @@ To be eligible to enter Singapore on the VTL, you must have only travelled to / 
 If your transit via a non-VTL country/region is within the past 14 days, you will not be eligible for the VTL. However:
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
-- Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process)
+- Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
 may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](health/shn) and [COVID-19 test requirements](/health/covid19-tests/pcrtest) upon entry into Singapore.
 
 #### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL country/region prior to that flight. Will I be eligible for the VTL?
