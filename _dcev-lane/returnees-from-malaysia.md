@@ -32,33 +32,8 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
     <td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Malaysia</td>
  </tr>
    <tr>
-    <td rowspan="3" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
-	<td style="font-size:16px; border-right:1px solid #D8D8D8;"><span style="color:red; font-size:16px;"><b>[For arrivals before 26 Oct 2021, 2359hours]</b></span> <ol style="margin-top:0px; list-style-type: decimal;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a>  <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
-<ol style="margin-top:0px; list-style-type: lower-latin;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Contains the following:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">COVID-19 PCR test results and date of test;</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Traveller’s name; and</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Date of Birth or Passport number (per the passport used to travel to Singapore).</li>
-</ol></li>
-</ol>
-	<p style="font-size:16px; line-height:1.5;"><u>Note</u>: Travellers who are unable to meet the above pre-arrival COVID-19 PCR test requirement in time may contact the Safe Travel Office <a href="/contact-us">here</a> to appeal for an exemption. Please provide your DCEV entry approval into Malaysia as supporting document for our consideration.</p>
-</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> upon arrival in Singapore</li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="https://safetravel.ica.gov.sg/health/shn">SHN</a> at an <a href="https://safetravel.ica.gov.sg/health/shn/sdf">SDF</a>, and:
-<ol style="margin-top:0px; list-style-type: lower-roman;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test at the end of the SHN period; and</li>
-	<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers serving SHN in dedicated SHN facilities to additionally undergo self-administered <a href="/health/covid19-tests/pcrtest#shntests">Antigen Rapid Test</a> on Days 3 and 7 of their arrival in Singapore.</li>
-	</ol>
-	</li>
-</ol>
-		 </td>
-	</tr>
-	<tr>
-			<td style="font-size:16px; border-right:1px solid #D8D8D8;">
-		<span style="color:red; font-size:16px;"><b>[For arrivals from 26 Oct 2021, 2359hours]</b></span> <ol style="margin-top:0px; list-style-type: decimal;">
+    <td rowspan="2" style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Indicative Travel Health Controls and Costs</b></td>
+			<td style="font-size:16px; border-right:1px solid #D8D8D8;"><ol style="margin-top:0px; list-style-type: decimal;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a <a href="/health/covid19-tests/pcrtest">COVID-19 PCR test</a> <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 <ol style="margin-top:0px; list-style-type: lower-latin;">
 <li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English (or accompanied with an English translation);</li>
