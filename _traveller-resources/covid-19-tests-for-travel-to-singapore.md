@@ -13,7 +13,7 @@ The health measures to be imposed may not be limited to COVID-19 tests, and you 
 
 #### 1. PCR Test before Departing to Singapore
 
-Travellers may be required to take a COVID-19 Polymerase Chain Reaction (PCR) pre-departure test 48 hours before departing to Singapore.  If so, travellers are required to take their PDT at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+Travellers may be required to take a COVID-19 Polymerase Chain Reaction (PCR) pre-departure test 48 hours before departing to Singapore.  If so, travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test. 
@@ -30,7 +30,7 @@ All other travellers (i.e. short-term visitors) will still be required to produc
 
 All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. 
 
-<b> From 26 October 2021, 2359 hours</b>, only travellers with 14-day travel history to <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are required to take a COVID-19 PCR test upon arrival in Singapore. Travellers from <a href="/shn-and-swab-summary" target="_blank">Category (II), (III) and (IV) countries/regions and serving Stay Home Notice </a> will no longer need to undergo an on-arrival COVID-19 PCR test.
+Travellers who have 14-day travel history to <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are required to take a COVID-19 PCR test upon arrival in Singapore. Travellers from <a href="/shn-and-swab-summary" target="_blank">Category (II), (III) and (IV) countries/regions and serving Stay Home Notice </a> will no longer need to undergo an on-arrival COVID-19 PCR test.
 
 To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
 
@@ -44,11 +44,11 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
   <tbody>
     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
+					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
@@ -56,14 +56,14 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
   </tbody>
   </table>
 
-Travellers will be informed of their on-arrival PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
+Travellers will be informed of their on-arrival PCR test results verbally by phone or in person. Travellers with a Singpass account can login to <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub</a> for their PCR test results.
 
 
 <div id="shntests"></div>
 
 #### 3. Tests During SHN
 
-Depending on the traveller's travel and transit history and <a href="/arriving/overview" target="_blank">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take the following tests before the end of their <a href="/health/shn/sdf" target="_blank">SHN</a>. Travellers will be informed of their end-of-SHN PCR test results verbally by phone or in person. Travellers with Singpass account can login to <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> for their PCR test results. 
+Depending on the traveller's travel and transit history and <a href="/arriving/overview" target="_blank">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn" target="_blank">Stay Home Notice (SHN)</a> and take a PCR test before the end of their SHN. Travellers will be informed of their end-of-SHN PCR test results verbally by phone or in person. Travellers with Singpass account can login to <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> for their PCR test results. 
 
 <table>
  <thead>
@@ -77,11 +77,7 @@ Depending on the traveller's travel and transit history and <a href="/arriving/o
 	 <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">End-of-SHN COVID-19 PCR Test</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">125</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Returning SC/PRs will be advised on payment details after arrival. <br/><br/> Non-Singapore Citizens and PRs will pay during application for entry into Singapore</td>
-    </tr>
-	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><b>[For travellers arriving before 26 Oct 2021, 2359 hours]</b> Self-administered Antigen Rapid Test during 10-day SHN at SHN Dedicated Facility</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">20 (for sets of 2) <br/><br/> 40 (for sets of 4)</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; vertical-align:middle;">Returning SC/PRs will be advised on payment details after arrival. <br/><br/> Non-Singapore Citizens and PRs will pay during application for entry into Singapore</td>
     </tr>
 	</tbody>
 	</table>

@@ -326,7 +326,7 @@ If your transit via a non-VTL country/region is within the past 14 days, you wil
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
 - Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
-may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](health/shn) and [COVID-19 test requirements](/health/covid19-tests/pcrtest) upon entry into Singapore.
+may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and [COVID-19 test requirements](/health/covid19-tests/pcrtest) upon entry into Singapore.
 
 #### 6. I intend to arrive in Singapore on a designated VTL flight, but will transit via a non-VTL country/region prior to that flight. Will I be eligible for the VTL?
 
@@ -335,8 +335,8 @@ To be eligible to enter Singapore on the VTL, you must have only travelled to / 
 In this scenario, you will not be eligible for the VTL. However:
 - [Singapore Citizens](/sc-pr/overview)
 - [Permanent Residents](/sc-pr/overview), and
-- Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/requirements-and-process)
-may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](health/shn) and [COVID-19 test requirements](/health/covid19-tests/pcrtest) upon entry into Singapore.
+- Long-Term Pass holders who have received entry approval via the [Work Pass Holder General Lane](/wphl/overview), [Student’s Pass Holder Lane](/stpl/overview), or [SC/PR Familial Ties Lane](/scpr-familial-ties-lane/overview)
+may still travel to Singapore on a non-designated flight. They will be subject to the prevailing [Stay-Home Notice (SHN)](/health/shn) and [COVID-19 test requirements](/health/covid19-tests/pcrtest) upon entry into Singapore.
 
 
 <div id="PDT"></div>
@@ -634,7 +634,7 @@ Travellers must be transported directly to their declared place of accommodation
 
 <div id="AdditionalReq"></div> 
 
-### (g) Additional Requirements for Short-Term Visitors
+### (f) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 
@@ -646,7 +646,7 @@ Visitors, who require a visa to enter Singapore, must separately obtain a visa. 
 
 If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
 
-Visitors may refer to ICA’s website <a href="">here</a> for information on visa requirements and application.
+Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on visa requirements and application.
 
 #### 2. How long can visitors stay in Singapore?
 

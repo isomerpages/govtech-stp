@@ -30,11 +30,9 @@ The duration of your SHN, if required, depends on your travel history prior to a
 
 The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
 
-#### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
+#### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Where can I book an accommodation to serve my SHN?
 
-Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
-
-Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">list</a>. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
 #### 3. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
@@ -46,7 +44,7 @@ Travellers should note that basic essentials such as water, cleaning supplies as
 
 The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
-Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
+Travellers who are serving SHN at their own place of residence may end their SHN after they have received confirmation of a **negative** result for the SHN exit PCR tests.
 
 Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
@@ -77,9 +75,9 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with Category (II) travel history or fully vacccinated travellers with Category (III) travel history approved to opt-out of SHN dedicated facilities] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with Category (I), (II), (III) travel history] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
-All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
+All travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.    
 
 <div id="note1"></div>
 	
@@ -106,8 +104,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
-From <b><span style="color:red;">26 October 2021, 2359 hours</span></b>, all travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.       
-  
+All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
 
 <div id="transportQ3"></div>
 
@@ -125,7 +122,7 @@ Travellers who have obtained approval to serve SHN at their own accommodation **
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
 				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
+				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation; and</li>
 				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
 				</ol>
 			</td>

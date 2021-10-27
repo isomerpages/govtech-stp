@@ -80,7 +80,7 @@ You may wish to engage an employment agency to submit an application on your beh
 
 #### 7. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
 
-No, employers/applicants are required to submit their Singappre-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
+No, employers/applicants are required to submit their Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
 
 If an employee does not own an active Singapore-registered mobile phone number, the employer (i.e. companies or employment agencies) may enquire with the relevant telcos on the purchase of company-registered prepaid SIM cards. Employers who have submitted the company-registered number on behalf of their employees in the Entry Approval Application, are responsible to:
 - Enlist the help of the SHN Dedicated Facility (SDF) operator to ensure that the correct prepaid SIM card is delivered to their employee(s), i.e. employee should receive the correct prepaid SIM card with the assigned mobile number to fulfil the entry approval application; and
@@ -142,7 +142,7 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
 
-The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days (excluding transits for arrivals from 26 October 2021, 2359 hrs) before their arrival, are required to take a Serology test in Singapore.
+The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days (excluding transits) before their arrival, are required to take a Serology test in Singapore.
 
 - Confinement nannies
 - Helpers

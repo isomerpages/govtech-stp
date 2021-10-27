@@ -5,9 +5,9 @@ third_nav_title: Info on Stay Home Notice
 ---
 ### SHN-Dedicated Facilities (SDF)
 
-Travellers arriving from <a href="/shn-and-swab-summary#from">Category (IV) countries/regions</a> (and <a href="/shn-and-swab-summary#before">Category (III) countries/regions</a> for travellers arriving before 26 Oct 2021, 2359h) are required by default to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
+Travellers arriving from <a href="/shn-and-swab-summary#from">Category (IV) countries/regions</a> are required by default to serve their Stay Home Notice (SHN) at an SHN Dedicated Facility (SDF). Due to the fast-changing demands for SDFs, <b>travellers will be assigned to an available SDF only upon arrival</b>. Travellers who wish to book an SDF suite at a specific hotel at higher cost, may click <a href="/health/shn/sdfupgrade">here</a> to find out more.
 
-The cost of a 10-day SDF stay is typically S$1,450 per person per room. A further breakdown is provided in the table below. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/health/faq#shnsdf">FAQs</a> for more information.
+The cost of a 10-day SDF stay is typically S$1,450 per person per room. A further breakdown is provided in the table below*. The exact costs for the SDF stay will be made known to travellers during the entry approval application process for pass holders, or during check-in at the SDF for Singapore Citizens and Permanent Residents. Travellers who fail to pay for the SDF cost may be charged interest for late payments. Please refer to the <a href="/health/faq#shnsdf">FAQs</a> for more information.
 
 <table>
   <tbody><tr>
@@ -32,11 +32,11 @@ The cost of a 10-day SDF stay is typically S$1,450 per person per room. A furthe
 ### Specific Requests for SDF Stay
 
 Travellers who have specific needs for their SDF stay (e.g. medical requirements), may wish to refer to [this self-help form](https://go.gov.sg/shnhotelneeds) for details. Alternatively, they may contact the SafeTravel Enquiries helpline at 6812 5555 for assistance. Travellers are strongly advised to submit their enquiry or request <u>two weeks in advance</u> of their arrival as border measures may be adjusted due to the fluidity of the Covid-19 situation. Travellers who are already serving SHN at an SDF may wish to contact the SDF's front desk for assistance.
-<p>As  there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</i></p>
+<p>As there is a very high volume of SDF-related requests, please write in early and we seek your understanding and patience that it may take up to five working days to receive a response.</p>
 
 ### Opt-Out from SDF to Serve SHN at Residence
 
-Exceptions can be made to allow travellers to serve their 10-day SHN at their own residence provided they meet the SDF opt-out criteria. Travellers who wish to opt-out from serving their SHN at SDFs should check their eligibility and submit their applications <u>three working days</u> before their scheduled arrival in Singapore.
+Exceptions can be made to allow travellers to serve their 10-day SHN at their place of residence provided they meet the SDF opt-out criteria. Travellers who wish to opt-out from serving their SHN at SDFs should check their eligibility and submit their applications <u>three working days</u> before their scheduled arrival in Singapore.
 <table>
   <thead>
     <tr>

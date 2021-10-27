@@ -4,7 +4,7 @@ permalink: /sc-pr/overview
 ---
 <i>Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore <b>without</b> the need to apply for an entry approval. PR-In-Principle Approval holders, however, must apply for an entry approval under the <a href="/scpr-familial-ties-lane/overview">Familial Ties Lane</a>. </i>
 
-<i>Non-SC/PR family members of SC/PRs cannot use this lane and should apply for entry approval via a suitable <a href="/arriving/overview">Safe Travel Lane </a>.
+<i>Non-SC/PR family members of SC/PRs cannot use this lane and should apply for entry approval via a suitable <a href="/arriving/overview">Safe Travel Lane </a>.</i>
 
 ---
 This table summarises the key lane features and requirements for SCs and PRs returning to Singapore. 
@@ -47,7 +47,7 @@ This table summarises the key lane features and requirements for SCs and PRs ret
 <tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Travel Health Control Measures</b><br/>(e.g. Stay Home Notice duration, swabs to be taken)</td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history before arriving in Singapore.<br/><br/><a href="/shn-and-swab-summary">CLICK HERE</a> to check the travel health control measures (e.g. Stay Home Notice, swab tests) applicable to you. </td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8;">Travel health control measures are generally applied based on the traveller's 14-day travel history (excluding transit) before arriving in Singapore.<br/><br/><a href="/shn-and-swab-summary">CLICK HERE</a> to check the travel health control measures (e.g. Stay Home Notice, swab tests) applicable to you. </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Traveller's Checklist</b></td>

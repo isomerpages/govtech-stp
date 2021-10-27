@@ -19,11 +19,15 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 ---
 
-### Guide to Determine the SHN End Date
+### SHN Start and End Date
 
-Reflected in the table below are two examples of how the SHN end date is typically calculated. You may also [click here](/shn-calculator) to calculate the estimated end date of your SHN. Travellers should note that the SHN comes into effect <u>immediately</u> on the day of its issuance. 
+SHN will begin <b>immediately</b> from the time the notice is issued on the day of the traveller's arrival in Singapore. It will remain in effect until the traveller is notified of a negative test result from the final PCR test taken at the end of the SHN. 
 
-For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</u>. Travellers will only be allowed to leave the SDF thereafter. 
+Travellers serving their SHN at a place of residence or self-sourced accommodation may end their SHN immediately upon receipt of the negative PCR test result at the end of their SHN. 
+
+For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
+
+Reflected in the table below are two examples of indicative SHN durations. You may also <a href="/shn-calculator" target="_blank">use this SHN Calculator</a> to calculate the estimated end date of your SHN. 
 
 <table>
   <thead>
@@ -32,7 +36,7 @@ For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of th
     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><b>7-day SHN</b>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller A arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end on 8 March 2021, after his COVID-19 test results are released.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">Traveller A arrived in Singapore on 1 March 2021. His SHN will start with immediate effect on 1 March 2021, and end around 8 March 2021, after his COVID-19 test results are released.
       </td>
     </tr>
     <!-- <tr>
@@ -44,7 +48,7 @@ For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of th
 		<tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED; border-bottom: 1px solid #D8D8D8;"><b>10-day SHN</b>
       </td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 1px solid #D8D8D8;  ">Traveller C arrived in Singapore on 7 October 2021. His SHN will start with immediate effect on 7 October 2021, and end on 17 October 2021, after his COVID-19 test results are released, before exiting SHN.
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; border-bottom: 1px solid #D8D8D8;  ">Traveller B arrived in Singapore on 7 October 2021. His SHN will start with immediate effect on 7 October 2021, and end around 17 October 2021, after his COVID-19 test results are released.
       </td>
     </tr>
        <!--  <tr>
@@ -69,4 +73,4 @@ For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of th
 
 Travellers issued with the Stay-Home Notice (SHN) will be subjected to on-site or electronic compliance checks (SMS, phone/video calls) from the Immigration & Checkpoints Authority (ICA), Ministry of Manpower (MOM) or Ministry of Education (MOE). Travellers should note that officers conducting house visits will produce their warrant cards or authorisation letters as proof of identity. For phone/video compliance checks, travellers will only be asked to provide the last four digits of his/her Identity Card or Travel Document for verification. Any payment request made by the caller may be a scam. Travellers with SHN issues may call the SafeTravel Helpline at 6812 5555 for further enquiries or assistance.
 
-Travellers serving their SHN outside of SDFs will also be issued with electronic SHN monitoring devices. More information on these devices can be found [here](/health/shn-monitoring).
+Travellers may also be issued with electronic SHN monitoring devices. More information on these devices can be found [here](/health/shn-monitoring).
