@@ -46,7 +46,7 @@ Travellers should note that basic essentials such as water, cleaning supplies as
 
 The SHN commences from the time the notice is issued to the traveller on arrival in Singapore and will be in effect until the traveller is notified of a negative result from the final [COVID-19 Polymerase Chain Reaction test (“PCR test”)](/health/covid19-tests/pcrtest) <u>at the end of SHN</u>. The duration of the SHN will be stated on your SHN document, and you can also [click here](/shn-calculator) to calculate the end date of your SHN. 
 
-Travellers who are serving SHN at their own place of residence may end their SHN once they receive an SMS with their test result. 
+Travellers who are serving SHN at their own place of residence may end their SHN after they have received confirmation of a **negative** result for the SHN exit PCR tests.
 
 Travellers who are staying in SDF will be alerted by the SDF concierge on their check out time when they have received confirmation of the PCR test result.
 
