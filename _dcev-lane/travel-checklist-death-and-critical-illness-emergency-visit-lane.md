@@ -20,7 +20,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must write to
 
 &#x2610;  <i><b>B) Application for Entry Visas</b></i>
 
-Valid entry-visa holders and visa-exempted travellers are not required to apply for an entry visa to enter Singapore. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click [here](https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements) for more information.
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">click here</a> for more information.
 
 &#x2610; <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
