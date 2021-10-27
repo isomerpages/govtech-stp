@@ -140,7 +140,7 @@ The use of public transport (e.g. trains, buses, street-hailed taxis) is strictl
 &#9744;  <i><b>A) Serve Stay-Home Notice (SHN)</b></i>
 
 A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travellers must remain in the SHN accommodation for the period specified in their SHN, unless they have/have been:
--Directed by the relevant authorities to do so;
+- Directed by the relevant authorities to do so;
 - Scheduled to take a COVID-19 Polymerase Chain Reaction Test (“PCR test”) at the end of the SHN period; or
 - Received a negative PCR test result for the test taken on the last day of SHN.
 
