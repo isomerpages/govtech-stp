@@ -21,11 +21,11 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 ### SHN Start and End Date
 
-SHN will begin <u>immediately</u> from the time the notice is issued on the day of the traveller's arrival in Singapore. It will remain in effect until the traveller is notified of a negative test result from the final PCR test taken at the end of the SHN. 
+SHN will begin <b>immediately</b> from the time the notice is issued on the day of the traveller's arrival in Singapore. It will remain in effect until the traveller is notified of a negative test result from the final PCR test taken at the end of the SHN. 
 
 Travellers serving their SHN at a place of residence or self-sourced accommodation may end their SHN immediately upon receipt of the negative PCR test result at the end of their SHN. 
 
-For travellers serving SHN in an SDF, <u>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</u>. Travellers will only be allowed to leave the SDF thereafter. 
+For travellers serving SHN in an SDF, <b>the SDF will inform the traveller of the check-out time after it receives confirmation of the negative COVID-19 test result from the relevant government agency</b>. Travellers will only be allowed to leave the SDF thereafter. 
 
 Reflected in the table below are two examples of indicative SHN durations. You may also [click here](/shn-calculator) to calculate the estimated end date of your SHN. 
 
