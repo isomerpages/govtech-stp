@@ -34,7 +34,7 @@ Travellers are required to take their PDT at an [accredited or authorised testin
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test.
 
-Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the [Safe Travel Office here for assistance.](/contact-us).
+Travellers with difficulties getting a COVID-19 PCR test before their departure can contact the [Safe Travel Office here for assistance.](/contact-us)
 
 &#x2610;  <i><b>D) Submission of Health Declaration</b></i>
 
