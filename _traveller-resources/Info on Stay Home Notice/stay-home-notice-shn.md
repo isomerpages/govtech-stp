@@ -15,7 +15,7 @@ Travellers issued with an SHN should refer to the conditions inside the SHN, and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZarGe4vr4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**View this video in the following languages: [Chinese](https://youtu.be/dTHU3xh2Buk), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
+**View this video in the following languages: [Chinese](https://youtu.be/300gtMksKrw), [Bahasa Indonesia](https://youtu.be/TcgBoA0Hrn0)**
 
 ---
 
