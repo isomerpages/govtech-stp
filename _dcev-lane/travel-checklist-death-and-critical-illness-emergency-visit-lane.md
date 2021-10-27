@@ -57,7 +57,7 @@ Travellers arriving from Category (I) countries/regions should:
 			</ol></li>
 </ol>
 
-&#x2610;  <i><b>F) Contact Tracing Apps and TraceTogether Registration</b></i>
+&#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
 To aid with contact tracing, travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aidign contact tracing.
 
