@@ -86,9 +86,9 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 <td id="LTP" style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Pre-departure and Entry Process Guide</b></td>
 <td  style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">After obtaining entry approval to return to Singapore under the DCEV lane, travellers are to abide by the pre-departure measures and entry process depending on the traveller profile below:
 <ol style="margin-top:0px; list-style-type: disc;">
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass Holders: Click <a href="/wphl/overview">here</a></li> 
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Student’s Pass Holders: Click <a href="/stpl/overview">here</a></li>
-<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click <a href="/scpr-familial-ties-lane/overview">here</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Work Pass Holders: Click <a href="/wphl/shn-and-swab-summary#cat3">here</a></li> 
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Student’s Pass Holders: Click <a href="/travel-checklist/category-3">here</a></li>
+<li style="font-size:16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">ICA Long Term Pass Holders: Click <a href="/travel-checklist/category-3">here</a></li>
 </ol>   
 </td>
 </tr>
