@@ -19,7 +19,7 @@ permalink: /FAQ/tech
 
 #### 1. I am unable to select my desired entry date during application. Why?
 
-Prospective travellers/applicants will only be able to select entry dates between 3 to 30 days from the date of application.
+Prospective travellers/applicants will only be able to select entry dates between 3 to 60 days from the date of application.
 
 Entry into Singapore is staggered to manage COVID-19 importation risk. If there are no available entry dates, please try applying again one week later. If the alternative entry dates remain unavailable, you may wish to defer your travel plans until the situation has stabilised.
 
