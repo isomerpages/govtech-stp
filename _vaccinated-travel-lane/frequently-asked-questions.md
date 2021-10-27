@@ -65,7 +65,7 @@ Children aged 12 and below in the calendar year (i.e. in the year 2021, those wh
 Please refer to the acceptable vaccine regimes [here](/health/vtsg)
 
 
-#### 3. Are unvaccinated childeren allowed to travel under the VTL?
+#### 3. Are unvaccinated children allowed to travel under the VTL?
 
 Unvaccinated children aged 12 and below in the calendar year may enter Singapore on the VTL (e.g. a child turning 12 in the current calendar year is allowed). However, they must comply with all other VTL <a href="/vtl/conditions">conditions</a> and be accompanied by a <a href="/health/vtsg">fully vaccinated</a> VTL traveller. 
 
@@ -215,7 +215,7 @@ You may refer to this table below:
 <tbody>
 <tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; "><a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en">EU Digital COVID Certificates (EU DCC)</a> issued by any <a href="/vtl/requirements-and-process#countries">VTL country/region</a></td>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">2 QR codes (one for each dose)*</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code indicating the final dose (2/2)</td>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">1 QR code</td>
 </tr>
 <tr>
@@ -244,8 +244,6 @@ You may refer to this table below:
 </tr>	
 </tbody>
 </table>
-
-<sup>*</sup>If you have a digitally verifiable vaccination certificate, but cannot obtain the required number of QR codes, please write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at 6812 5555. 
 
 <sup>#</sup>If you encounter an error upon uploading the QR code on your SMART Health Card despite it being from an issuer in the United States or Canada on the CommonTrust Network (issuers listed <a href="https://www.commontrustnetwork.org/verifier-list" target="_blank">here</a> and <a href="https://www.commonhealth.org/smart-health-cards" target="_blank">here</a>) or Vaccination Credential Initiative (issuers listed <a href="https://vci.org/issuers" target="_blank">here</a>), please also write to the Safe Travel Office using the enquiry form <a href="https://go.gov.sg/sto-enquiry" target="_blank">here</a> or call the SafeTravel Enquiries helpline at +65 6812 5555.
 
@@ -419,11 +417,11 @@ Please refer to the respective airlines’ websites below for details of the des
 </tr>
 			<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.flyscoot.com/en/announcements/vaccinated-travel-lane-flights" target="_blank">Scoot</a></td>
-					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Germany</td>
+					<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Germany, Republic of Korea</td>
 </tr>
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
-				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Republic of Korea, Spain, The Netherlands, The United Kingdom, The United States</td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Republic of Korea, Spain,  Switzerland, The Netherlands, The United Kingdom, The United States</td>
 </tr>
 </tbody>
 </table>
@@ -847,7 +845,7 @@ VTP applications for Australia and Switzerland will open on **1 November 2021, 1
 
 VTP applications for the Republic of Korea will open on **8 November 2021, 1000 hours (Singapore time)**.
 
-Do note that applications for the VTP must be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
+Do note that applications for the VTP must be made between seven and sixty calendar days prior to the intended date of entry into Singapore.
 
 For example, travellers who intend to enter Singapore on 1 October 2021 must apply for a VTP between 1 September 2021 and 24 September 2021.
 
