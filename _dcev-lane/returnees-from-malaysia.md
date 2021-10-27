@@ -2,11 +2,11 @@
 title: Returnees From Malaysia
 permalink: /dcev/returnees-from-malaysia
 ---
-This arrangement caters to travellers <u>returning to Singapore from Malaysia only</u> after making cross-border travel to Malaysia to visit family members for emergency reasons such as death or critical illness. 
+This arrangement caters to travellers <b>returning to Singapore from Malaysia only</b> after making cross-border travel to Malaysia to visit family members for emergency reasons such as death or critical illness. 
 
-<u>Singapore Citizens and Permanent Residents do not need entry approval</u> and may refer <a href="/sc-pr/overview">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
+<b>Singapore Citizens and Permanent Residents do not need entry approval</b> and may refer <a href="/sc-pr/overview">here</a> for the entry requirements, including details of the health control measures for travel history to Malaysia.
 
-Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</a>  will be subject to the requirements below:
+Singapore <b>Long Term Pass Holders (e.g. Work Pass, Student’s Pass)</b> will be subject to the requirements below:
 
 
 <table>
@@ -25,7 +25,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
  </tr>
    <tr>
     <td style="font-size:16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Purpose of Travel</b></td>
-    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><u>Return</u> to Singapore from Malaysia after visiting family members for emergency reasons such as death or critical illness</td>
+    <td style="font-size:16px; border-right:1px solid #D8D8D8;"><b>Return</b> to Singapore from Malaysia after visiting family members for emergency reasons such as death or critical illness</td>
  </tr>
    <tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Required Country/Region of Departure</b></td>
@@ -65,7 +65,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 <tbody>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Who Can Apply</b></td>
-<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves, except <u>Work Pass Holders</u> where employers/employment agencies should submit the entry application on the workers behalf. </td>
+<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Travellers themselves,  <b>except Work Pass Holders</b> where employers/employment agencies should submit the entry application on the workers behalf. </td>
 </tr>
 <tr>
 <td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>How to Apply</b></td>
