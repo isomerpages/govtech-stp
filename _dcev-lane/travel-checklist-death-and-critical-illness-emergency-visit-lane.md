@@ -46,7 +46,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test</b></i>
+&#x2610;  <i><b>E) Registration and Pre-payment for On-Arrival COVID-19 Test [Category (I) Travellers Only]</b></i>
 
 Travellers arriving from Category (I) countries/regions should:
 
@@ -57,11 +57,9 @@ Travellers arriving from Category (I) countries/regions should:
 			</ol></li>
 </ol>
 
-Travellers arriving in Singapore from Category (II), (III) and (IV) countries/regions will not be required to take a COVID-19 PCR test on arrival in Singapore. 
-
 &#x2610;  <i><b>F) Contact Tracing Apps and TraceTogether Registration</b></i>
 
-To aid with contact tracing, travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a>, and activate <a href="https://www,whatsapp.com/download" target="_blank">WhatsApp</a> on their mobile phones. 
+To aid with contact tracing, travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aidign contact tracing.
 
 Children who are aged 6 years or below in this calendar year are exempted from this requirement. Travellers who are 7 to 12 yrs of age in the current calendar year, and those who are unable to use a mobile device due to a certified disability or special need, will receive a TraceTogether token on arrival in Singapore. For more details on the use of TraceTogether, click [here](/health/tt-for-travellers).
 
