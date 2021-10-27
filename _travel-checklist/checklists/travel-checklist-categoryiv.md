@@ -148,11 +148,9 @@ To calculate the estimated SHN end-date, click here for an <a href="/shn-calcula
 
 During the SHN period, randomised in-person or phone/video compliance check(s) will be conducted. Failure to comply with any SHN-related requirement is an offence under the Infectious Diseases Act. Errant travellers can expect to be fined, imprisoned, and/or have their residency/work permits revoked. <a href="/health/shn#shn-compliance-checks" target="_blank">Click here for more information on SHN-related compliance matters</a>.
 
-&#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
+&#9744;  <i><b>B) COVID-19 Test during SHN</b></i>
 
-**ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on Day 10 of their arrival. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
-
-Travellers arriving **before 26 Oct 2021, 2359 hours** must also self-administer an ART on Days 3 and 7 of their arrival in Singapore <a href="https://moh.gov.sg/covid-19/selftestart" target="_blank">Click here</a> for more information on ARTs. Travellers are exempted from ART, if they have been approved to complete their SHN in their residence or accommodation of choice.
+**All** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on Day 10 of their arrival. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
 
 
 ### Stage 5: End of Stay-Home Notice
