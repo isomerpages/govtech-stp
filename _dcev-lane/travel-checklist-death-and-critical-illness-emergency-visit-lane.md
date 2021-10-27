@@ -50,7 +50,12 @@ Up to 72 hours before arrival in Singapore, travellers should submit an [SG Arri
 
 Travellers arriving from Category (I) countries/regions should:
 
-
+<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
+	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank">register and pay here</a>)</li>
+				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">register and pay here</a>)</li>
+			</ol></li>
+</ol>
 
 Travellers arriving in Singapore from Category (II), (III) and (IV) countries/regions will not be required to take a COVID-19 PCR test on arrival in Singapore. 
 
