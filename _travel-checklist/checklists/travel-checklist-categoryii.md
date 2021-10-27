@@ -18,7 +18,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">click here</a> for more information.
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">click here</a> for more information.
 
 &#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
@@ -34,7 +34,7 @@ Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office for assistance </a>.
 
-&#9744;  <i><b>C) Submission of Health Declaration</b></i>
+&#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC) </a> their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
 
@@ -44,16 +44,11 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>E) Installation of Contact Tracing apps</b></i>
 
 Travellers arriving before **26 Oct 2021, 2359 hours** who are fit for travel should:
 
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pay here</a>)</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank"> register and pay here</a>)</li>
-			</ol></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
+Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
 </ol>
 
 Category(II) travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
