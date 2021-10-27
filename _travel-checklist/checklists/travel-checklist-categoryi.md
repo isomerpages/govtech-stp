@@ -18,7 +18,7 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 &#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
-Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click here for information.
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">click here</a> for more information.
 
 &#9744;  <i><b>C) Submission of Health Declaration</b></i>
 
