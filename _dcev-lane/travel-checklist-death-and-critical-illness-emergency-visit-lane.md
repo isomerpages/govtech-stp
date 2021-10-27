@@ -193,9 +193,9 @@ Travellers who wish to leave Singapore before the end of the SHN period **due to
 
 &#x2610; <i><b>A2) Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
 
-Travellers can leave their self-isolation/SHN accommodation only if their final COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).
+<b>For travellers serving SHN at an SHN Dedicated Facility (SDF)</b>, the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
-For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
+<b>Travellers serving SHN at a place of residence </b> may leave after they are informed  that their end-of-SHN COVID-19 test result is negative. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).
 
 Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). Prevailing treatment charges will apply.
 
