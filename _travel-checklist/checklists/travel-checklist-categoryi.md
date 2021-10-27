@@ -60,7 +60,7 @@ For visitors granted entry, please note that <b>all foreign visitors arriving in
 
 &#9744;  <i><b>B) COVID-19 Tests</b></i>
 
-Take an on-arrival <a href="/health/covid19-tests/pcrtest#price" target="_blank">COVID-19 Polymerase Chain Reaction test</a>. If you did not <a href="/health/covid19-tests/pcrtest#price" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not <a href="/health/covid19-tests/pcrtest#price" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#9744;  <i><b>C) Transport to Declared Self-Isolation Accommodation</b></i>
 
