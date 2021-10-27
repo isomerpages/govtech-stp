@@ -845,7 +845,7 @@ VTP applications for Australia and Switzerland will open on **1 November 2021, 1
 
 VTP applications for the Republic of Korea will open on **8 November 2021, 1000 hours (Singapore time)**.
 
-Do note that applications for the VTP must be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
+Do note that applications for the VTP must be made between seven and sixty calendar days prior to the intended date of entry into Singapore.
 
 For example, travellers who intend to enter Singapore on 1 October 2021 must apply for a VTP between 1 September 2021 and 24 September 2021.
 
