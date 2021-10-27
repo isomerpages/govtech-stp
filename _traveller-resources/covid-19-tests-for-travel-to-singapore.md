@@ -13,7 +13,7 @@ The health measures to be imposed may not be limited to COVID-19 tests, and you 
 
 #### 1. PCR Test before Departing to Singapore
 
-Travellers may be required to take a COVID-19 Polymerase Chain Reaction (PCR) pre-departure test 48 hours before departing to Singapore.  If so, travellers are required to take their PDT at an [internationally accredited or recognised lab/clinic/medical facility](https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing) in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
+Travellers may be required to take a COVID-19 Polymerase Chain Reaction (PCR) pre-departure test 48 hours before departing to Singapore.  If so, travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing" target="_blank">internationally accredited or recognised lab/clinic/medical facility</a> in the country/region of departure. They should also obtain a copy of the test result that meets the following conditions, as it will be used as proof that the traveller had been tested for COVID-19:
 - Is in English (or accompanied with an English translation);
 - Contains the traveller's name, and Date of Birth or Passport number (per the passport used to travel to Singapore); and
 - Reflects the date and result of the PCR test. 
