@@ -96,7 +96,7 @@ Travellers will be asked to produce the following documents as part of the immig
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here for more information about the e-Pass</a>.
 	
-Travellers with a 14-day travel history to any [Category (II) to (IV) country/region](/shn-and-swab-summary) will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
+Travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" target="_blank">Category (II) to (IV) country/region</a> will also receive their Stay-Home Notice (SHN) via the email address provided in their SGAC declaration.
 
 &#x2610; <i><b>B) COVID-19 Test [Category (I) travellers only]</b></i>
 
