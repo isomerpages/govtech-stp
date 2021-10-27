@@ -141,7 +141,7 @@ Travellers who have obtained approval to serve SHN at their own accommodation **
   
 Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.   
   
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. 
+The use of public transport (e.g. trains, buses and street-hailed taxis) is prohibited. 
 
 	
 Click here to [Go Back To Top](#top).
