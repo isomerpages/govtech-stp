@@ -50,7 +50,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ### 2) General Entry for Long Term Pass Holders and Immediate Relatives of Singapore Citizens/PRs
 
-Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore, and may use the following lanes to enter. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u> <b>From 26 Oct 2021, 2359 hours</b>, travellers from <b>Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b> who have received entry approvals will be allowed to enter Singapore.
+Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore. Currently, <u>travellers with travel history to all countries/regions <b>except</b> Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka are allowed to enter through these lanes.</u> <b>From 26 Oct 2021, 2359 hours</b>, travellers from <b>Bangladesh, India, Myanmar, Nepal, Pakistan and Sri Lanka</b> who have received entry approvals will be allowed to enter Singapore.
 
 <b>Fully vaccinated travellers and accompanied unvaccinated children below 12 years old departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival.</b> [Click here for more details on the Vaccinated Travel Lane.](/vtl/requirements-and-process) 
 
