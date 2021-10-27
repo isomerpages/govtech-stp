@@ -117,7 +117,7 @@ Depending on your 14-day travel history before arriving in Singapore, you may be
   <tbody>
 		<tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (I) travel history only and Travellers under the Vaccinated Travel Lane]</b> Self-isolation at place of residence, hotel, or serviced apartment until On-Arrival Test results are out<br/><br/>      
-	     <b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[Travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
+	     <b>[Travellers with Category (II) travel history]</b> 7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[Travellers with Category III travel history]</b> 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">
 	      <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
