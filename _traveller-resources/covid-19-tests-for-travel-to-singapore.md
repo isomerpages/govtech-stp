@@ -44,11 +44,11 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
   <tbody>
     <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/">here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
     </tr>
         <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
-					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton">here</a></td>
+					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
@@ -56,7 +56,7 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
   </tbody>
   </table>
 
-Travellers will be informed of their on-arrival PCR test results verbally by phone or in person. Travellers with a Singpass account can login to [HealthHub](https://www.healthhub.sg/HealtheServices) for their PCR test results.
+Travellers will be informed of their on-arrival PCR test results verbally by phone or in person. Travellers with a Singpass account can login to <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub</a> for their PCR test results.
 
 
 <div id="shntests"></div>
