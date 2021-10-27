@@ -30,7 +30,7 @@ The duration of your SHN, if required, depends on your travel history prior to a
 
 The length of your SHN will be stipulated in the Entry Approval Letter or Safe Travel Pass issued.
 
-#### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Can I opt to serve my SHN at the SHN-Dedicated Facility (SDF) instead?
+#### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Where can I book an accommodation to serve my SHN?
 
 Some groups of travellers are allowed to serve SHN at a self-sourced accommodation. This includes one’s place of residence or a suitable hotel. Please read the latest health advisory on the things to note when serving your SHN at www.moh.gov.sg/covid-19.
 
