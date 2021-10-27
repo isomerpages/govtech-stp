@@ -30,9 +30,7 @@ All other travellers (i.e. short-term visitors) will still be required to produc
 
 All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. 
 
-Travellers who have 14-day travel history to <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are required to take a COVID-19 PCR test upon arrival in Singapore. Travellers from <a href="/shn-and-swab-summary" target="_blank">Category (II), (III) and (IV) countries/regions and serving Stay Home Notice </a> will no longer need to undergo an on-arrival COVID-19 PCR test.
-
-To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
+Travellers who have 14-day travel history to <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are required to take a COVID-19 PCR test upon arrival in Singapore, via the link below. To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
 
 <table>
   <thead>
@@ -46,18 +44,19 @@ To shorten the relevant administrative process on arrival in Singapore, travelle
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
     </tr>
-        <tr>
+       <!-- <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
 					<td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0; vertical-align:middle;" rowspan="2">Click <a href="https://t.2c2p.com/express/parkwayshenton" target="_blank">here</a></td>
 		</tr>
 		        <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Tanah Merah Ferry Terminal</td>
-		</tr>
+		</tr>-->
   </tbody>
   </table>
 
 Travellers will be informed of their on-arrival PCR test results verbally by phone or in person. Travellers with a Singpass account can login to <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub</a> for their PCR test results.
 
+Travellers from <a href="/shn-and-swab-summary" target="_blank">Category (II), (III) and (IV) countries/regions and serving Stay Home Notice </a> will no longer need to undergo an on-arrival COVID-19 PCR test.
 
 <div id="shntests"></div>
 
