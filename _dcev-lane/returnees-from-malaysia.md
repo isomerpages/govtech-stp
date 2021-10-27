@@ -20,7 +20,7 @@ Singapore <a href="#LTP">Long Term Pass Holders (e.g. Work Pass, Student’s Pas
 <td style="font-size:16px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED;"><b>Eligible Travellers</b></td>
 	<td style="font-size:16px;border-right:1px solid #D8D8D8;">Long Term Pass Holders (e.g. Work Pass, Student’s Pass)
 <br/>
-<p style="font-size:16px; line-height:1.5;">Singapore Citizens and Permanent Residents should refer <a href="/sc-pr/requirements-and-process">here</a> for the entry requirements.</p>
+<p style="font-size:16px; line-height:1.5;">Singapore Citizens and Permanent Residents should refer <a href="/sc-pr/overview">here</a> for the entry requirements.</p>
 </td>
  </tr>
    <tr>
