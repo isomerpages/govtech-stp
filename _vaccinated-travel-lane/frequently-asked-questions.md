@@ -634,7 +634,7 @@ Travellers must be transported directly to their declared place of accommodation
 
 <div id="AdditionalReq"></div> 
 
-### (g) Additional Requirements for Short-Term Visitors
+### (f) Additional Requirements for Short-Term Visitors
 
 ### (i) Visa Application
 
@@ -646,7 +646,7 @@ Visitors, who require a visa to enter Singapore, must separately obtain a visa. 
 
 If visitors have already been issued with visas that are still valid or if they are eligible for the visa-free transit facility, they do not need to apply for a visa.
 
-Visitors may refer to ICA’s website <a href="">here</a> for information on visa requirements and application.
+Visitors may refer to ICA’s website <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> for information on visa requirements and application.
 
 #### 2. How long can visitors stay in Singapore?
 
