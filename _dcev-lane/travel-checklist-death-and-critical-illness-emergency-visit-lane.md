@@ -102,7 +102,7 @@ Travellers with a 14-day travel history to any [Category (II) to (IV) country/re
 
 &#x2610; <i><b>B) COVID-19 Tests</b></i>
 
-Travellers arriving in Singapore from a Category (I) countries/regions will take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Travellers arriving in Singapore from Category (I) countries/regions will take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
 Travellers arriving in Singapore from Categories (II), (III) and (IV) countries/regions will not be required to take a COVID-19 PCR test on arrival in Singapore. 
 
