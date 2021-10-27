@@ -179,8 +179,10 @@ For all other pass holders (work pass holders and their dependants), this page e
 		</tr>
 	</tbody>
 		</table><br>	
-				<div id="cat3"></div>
-		<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i><br>	
+		<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i><br>
+		
+<div id="cat3"></div>
+
 <table>
 <thead>
 <tr>
