@@ -115,95 +115,17 @@ Depending on your 14-day travel history before arriving in Singapore, you may be
     </tr>
   </thead>
   <tbody>
-	     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (I) travel history only and Travellers under the Vaccinated Travel Lane]</b> Self-isolation at place of residence, hotel, or serviced apartment until On-Arrival Test results are out</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
-	      <li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Taxis (including street-hail taxis)</li>
-							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"><a href="/health/faq#transport" target="_blank">Pre-booked</a> taxi/private hire vehicle from any of the following transport operators:
-	      </li>
-	      </ol>
-<table>
-  <thead>
-    <tr>
- <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
-    </tr>
-		</tbody>
-	      </table>
-		     </td>
-	  </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[<a href="/health/vtsg">Fully vaccinated</a> travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"> <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
-				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
-							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"><a href="/health/faq#transport" target="_blank">Pre-booked</a> taxi/private hire vehicle from any of the following transport operators:</li>
-				</ol>
-					<table>
-  <thead>
-    <tr>
- <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">ComfortDelgro Taxi (Comfort &amp; CityCab taxis)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">6333 1133 or via ComfortDelGro app </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">TransCab</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">6213 0997</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">SMRT</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">6477 5971</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">Prime</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">6776 7553</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">Premier</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">6681 9462</td>
-    </tr>
-     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0; border-top:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers’ app</td>
-    </tr>
-  </tbody>
-  </table>	
-	</td>
-    </tr>
 		<tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b><span style="color:red;">From 26 Oct 2021, 2359 hours</span></b><br/><br/>      
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0"><b>[Travellers with Category (I) travel history only and Travellers under the Vaccinated Travel Lane]</b> Self-isolation at place of residence, hotel, or serviced apartment until On-Arrival Test results are out<br/><br/>      
 	     <b>[Travellers with Category (II) travel history]</b>7-day SHN at place of residence, hotel or serviced apartment <br/><br/> <b>[Travellers with Category III travel history only]</b> Approved 10-day SHN at place of residence, hotel or serviced apartment
 			</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">
 	      <ol style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;">
 				<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private vehicle; or</li>
-	      <li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Taxis (including street-hail taxis)</li>
-							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"><a href="/health/faq#transport" target="_blank">Pre-booked</a> taxi/private hire vehicle from any of the following transport operators:
+	      <li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;"> Pre-booked and street-hail taxis</li>
+							<li style="margin-top:0px; margin-bottom:10px; font-size:18px; list-style-type:disc;line-height:1.5;">Private hire vehicle booked via the apps of the following transport operators: GrabSHN, Go-Jek, Ryde, MVL(TADA)
 	      </li>
 	      </ol>
-	      					<table>
-  <thead>
-    <tr>
- <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Transport Operator</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Contact Details</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">GrabSHN, Go-Jek, Ryde, MVL(TADA)</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-top:2px solid #E0E0E0;   border-bottom:2px solid #E0E0E0; border-left:2px solid #E0E0E0;">via respective providers' app </td>
-    </tr>
-		</tbody>
-	      </table>	      
 			</td>
 		</tr>		
 			<tr>
