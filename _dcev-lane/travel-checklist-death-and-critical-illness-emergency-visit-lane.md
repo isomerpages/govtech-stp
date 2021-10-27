@@ -189,13 +189,13 @@ For travellers who received approval to leave their SHN location for short visit
 
 &#x2610;  <i><b>A1) Early release from Stay-Home Notice (SHN) (if applicable)</b></i>
 
-Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, Please submit a request via [this form](https://go.gov.sg/sto-enquiry), with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
+Travellers who wish to leave Singapore before the end of the SHN period **due to exceptional circumstances**, Please submit a request via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>, with the category “Stay Home Notice Accommodation” and sub-category “Appeal to leave SHN for Exceptional Reasons”. An exit COVID-19 Polymerase Chain Reaction test will be required.
 
 &#x2610; <i><b>A2) Regular release from Self-isolation / Stay-Home Notice (if applicable)</b></i>
 
 <b>For travellers serving SHN at an SHN Dedicated Facility (SDF)</b>, the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
 
-<b>Travellers serving SHN at a place of residence </b> may leave after they are informed  that their end-of-SHN COVID-19 test result is negative. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).
+<b>Travellers serving SHN at a place of residence </b> may leave after they are informed  that their end-of-SHN COVID-19 test result is negative. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank"> HealthHub App</a> .
 
 Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
