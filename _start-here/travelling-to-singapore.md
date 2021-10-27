@@ -52,9 +52,9 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 Long Term Pass Holders and immediate relatives of Singapore Citizens/PRs need to apply for entry approval to enter Singapore.
 
-<b>Fully vaccinated travellers and accompanied unvaccinated children below 12 years old departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival.</b> <a href="/vtl/requirements-and-process" target="_blank">Click here for more details on the Vaccinated Travel Lane</a>.
+<b>Fully vaccinated travellers and accompanied unvaccinated children below 12 years old departing from certain countries/regions may be able to utilise the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival instead.</b> <a href="/vtl/requirements-and-process" target="_blank">Click here for more details on the Vaccinated Travel Lane</a>.
 
-Otherwise, click the relevant lane below for more details.
+Otherwise, click the relevant general entry lanes below for more details depending on the traveller's profile.
 
 <table>
 	<thead>
