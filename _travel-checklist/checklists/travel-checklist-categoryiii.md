@@ -71,57 +71,18 @@ During immigration clearance, provide all relevant documents and information req
 
 For visitors granted entry, please note that <b>all foreign visitors arriving in Singapore via air will be notified digitally of their Visit Pass (e-Pass) and period of stay granted through email</b>. There will not be any physical endorsement on the visitor's passport unless arriving by land or sea. The e-Pass notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card to ensure that you receive the e-Pass. <a href="https://www.ica.gov.sg/public-education/electronic-visit-pass-(e-pass)-replaces-inked-endorsements-for-foreign-visitors-arriving-in-singapore-via-air-checkpoints" target="_blank">Click here</a> for more information about the e-Pass.
 
-&#9744;  <i><b>B) COVID-19 Test</b></i>
-
-Take an on-arrival <a href="/health/covid19-tests/pcrtest#price" target="_blank">COVID-19 Polymerase Chain Reaction test</a>. If you did not <a href="/health/covid19-tests/pcrtest#price" target="_blank">pay for the test before arrival</a>, you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
-
-Category(III) travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
-
-&#9744;  <i><b>C) Issuance of Stay Home Notice (SHN) </b></i>
+&#9744;  <i><b>B) Issuance of Stay Home Notice (SHN) </b></i>
 
 A 10-day <a href="/health/shn" target="_blank">Stay-Home Notice (SHN)</a> will be sent to the email address provided by the traveller in their <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card" target="_blank">
 SGAC declaration</a>. The SHN takes effect immediately on the day of its issuance.
 
 <div id="stage3D"></div>
 
-&#9744;  <i><b>D) Transport to SHN Accommodation</b></i>
+&#9744;  <i><b>C) Transport to SHN Accommodation</b></i>
 
-Travellers arriving before **26 Oct 2021, 2359 hours** and serving their SHN at an **SHN Dedicated Facility (SDF) by default** will take the government-provided transport from the checkpoint. 
-
-**For travellers who are not fully vaccinated** but have obtained approval to serve SHN at their own accommodation, a <a href="/health/faq#transport" target="_blank">transport booking</a> **must** be made with the transport provider Strides Pte Ltd. The following costs will apply, which will be borne by the traveller.
-
-<table>
-  <thead>
-    <tr>
-   <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Trip</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Cost (SGD; Excludes 10% credit card charge)</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Packaged Trip, covering commutes from: 
-				<ol style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">Checkpoint to SHN accommodation;</li>
-				<li style="font-size:18px; margin-bottom:0px; margin-top:0px; list-style-type:lower-roman; line-height:1.5">SHN accommodation to testing for COVID-19 Polymerase Chain Reaction Test on the last day of SHN</li>
-				</ol>
-			</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authoritiesb</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
-    </tr>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc single trip approved by the relevant authorities</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0; border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">45</td>
-    </tr>
-  </tbody>
-  </table>  
-  
-<b><a href="/health/vtsg" target="_blank">Fully vaccinated</a> travellers</b> who have obtained approval to serve SHN at their own accommodation may commute using their own private vehicle, or <a href="/health/faq#transport" target="_blank">pre-book</a> taxi/private hire car.
+Travellers with 14-day travel history to Category (III) countries/regions will be able to commute using their own private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). 
 
 Travellers must rely on the same transport options when commuting from their SHN accommodation to the testing facility for the exit-SHN COVID-19 PCR test on the last day of SHN. 
-
-**From 26 Oct 2021, 2359 hours**, travellers with 14-day travel history to Category (III) countries/regions will be able to commute using their own private transport, taxis (including street-hailed taxis) or private-hire car (GrabSHN, Go-Jek, Ryde, MVL Tada). 
 
 The use of public transport (e.g. trains, buses) is strictly prohibited in all cases.
 
@@ -136,7 +97,7 @@ A Stay-Home Notice (SHN) comes into effect immediately upon its issuance. Travel
 
 To calculate the estimated SHN end-date, click here for an <a href="/shn-calculator" target="_blank">SHN calculator</a>.
 
-Travellers arriving **from 26 Oct 2021, 2359 hours** may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
+Travellers may complete their SHN at their own residence, self-sourced hotel, or serviced apartment. Travellers planning to serve their SHN at a self-sourced hotel should only secure their bookings after checking and ensuring that the hotel of choice can accommodate guests on SHN. Travellers may refer to <a href="https://sha.org.sg/stay-home-notice" target="_blank">this page</a> for the non-exhaustive list of hotels offering SHN-accommodation.
 
 <div style="padding-left: 5px; padding-bottom: 20px; font-size:16px; line-height:1.0; border-style: solid; border-width: 1px; margin-bottom:20px;">
 <p style="margin-top:15px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>*[Advisory for travellers serving SHN at home from 26 Oct 2021, 2359 hours]</b> Travellers may serve SHN at their residence, with household members not sharing the same travel history, regardless of vaccination status. However, if travellers are residing with unvaccinated vulnerable household members, they are strongly encouraged to serve their SHN in isolation in a room and minimise contact with their vulnerable household members.</p>
