@@ -75,7 +75,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with Category (I), (II), (III) travel history] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with Category (I), (II) or  (III) travel history] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.    
 
@@ -104,7 +104,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
-All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
+All travellers are prohibited from taking public transport, e.g. public buses/trains.
 
 <div id="transportQ3"></div>
 
@@ -129,7 +129,7 @@ Travellers who have obtained approval to serve SHN at their own accommodation **
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">200 </td>
     </tr>
     <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authoritiesb</td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">Ad-hoc round trips approved by the relevant authorities</td>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0">90</td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ Travellers who have obtained approval to serve SHN at their own accommodation **
   
 Travellers must rely on the same transport options when commuting from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN.   
   
-The use of public transport (e.g. trains, buses, street-hailed taxis) is prohibited. 
+The use of public transport (e.g. trains, buses and street-hailed taxis) is prohibited. 
 
 	
 Click here to [Go Back To Top](#top).
