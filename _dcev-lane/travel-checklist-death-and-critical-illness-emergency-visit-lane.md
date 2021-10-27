@@ -197,7 +197,7 @@ Travellers who wish to leave Singapore before the end of the SHN period **due to
 
 <b>Travellers serving SHN at a place of residence </b> may leave after they are informed  that their end-of-SHN COVID-19 test result is negative. The result of the test will be communicated via a call, email, or SMS about 24 hours from when the test was administered. Travellers with Singpass may also view their results via the [HealthHub App](https://www.healthhub.sg/HealtheServices).
 
-Travellers who test positive for [COVID-19](/health/covid19-symptoms) will and must receive [medical treatment](/health/covidtreatment). The prevailing treatment charges will apply.
+Travellers who test positive for COVID-19 will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment. The prevailing treatment charges will apply.
 
 &#9744;  <i><b>B) Abide by local COVID-19 safe management measures</b></i>
 
