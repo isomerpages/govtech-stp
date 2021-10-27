@@ -100,7 +100,7 @@ Travellers with a 14-day travel history to any <a href="/shn-and-swab-summary" t
 
 &#x2610; <i><b>B) COVID-19 Test [Category (I) travellers only]</b></i>
 
-Take an on-arrival [COVID-19 Polymerase Chain Reaction](/health/covid19-tests/pcrtest#price) test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
+Take an on-arrival COVID-19 Polymerase Chain Reaction test. If you did not [pay for the test before arrival](/health/covid19-tests/pcrtest#price), you will pay on the spot but can expect additional delays in the administration of the test and departure from the checkpoint.
 
 &#x2610;  <i><b>C) Transport to Self-Isolation / Stay-Home Notice accommodation) </b></i>
 
