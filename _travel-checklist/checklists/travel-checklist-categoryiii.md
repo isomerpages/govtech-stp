@@ -18,7 +18,11 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the <a href="/arriving/overview" target="_blank">“Travelling to Singapore”</a> page.
 
-&#9744;  <i><b>B) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
+&#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
+
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may <a href="www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">click here</a> for more information.
+
+&#9744;  <i><b>C) Pre-Departure COVID-19 Polymerase Chain Reaction Test (PDT)</b></i>
 
 Travellers must take a PDT **within 48 hours before departure** for Singapore, unless they:
 - Are below the age of three in this calendar year; or
@@ -32,7 +36,7 @@ Travellers are required to take their PDT at an <a href="https://www.moh.gov.sg/
 
 Travellers with difficulties getting a COVID-19 PCR test before their departure can <a href="/contact-us" target="_blank">contact the Safe Travel Office</a>.
 
-&#9744;  <i><b>C) Submission of Health Declaration</b></i>
+&#9744;  <i><b>D) Submission of Health Declaration</b></i>
 
 Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
 
@@ -42,45 +46,9 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Had been in close contact with a COVID-19 positive patient in the last 10 days before departing for Singapore. This includes the provision of care for a COVID-19 patient in a healthcare or family/social setting, staying in the same location as a COVID-19 positive patient, or had been in close (i.e. less than two meters) contact with a COVID-19 patient for more than 15 minutes.</li>
 </ol>
 
-&#9744;  <i><b>D) Registration and Pre-payment for On-Arrival COVID-19 Test and Installation of TraceTogether app</b></i>
+&#9744;  <i><b>E) Installation of Contact Tracing apps</b></i>
 
-Travellers arriving before **26 Oct 2021, 2359 hours** who are fit for travel should:
-
-<ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
-	<li style="font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5;">Register and pre-pay for their on-arrival COVID-19 Polymerase Chain Reaction test:<ol style="font-size:18px; list-style-type:disc;">
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via air (<a href="https://safetravel.changiairport.com/#/" target="_blank"> register and pay here</a>)</li>
-				<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Travellers arriving via sea or land (<a href="https://t.2c2p.com/express/parkwayshenton" target="_blank"> register and pay here</a>)</li>
-			</ol></li>
-		<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Install <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications on their mobile phones which will facilitate SHN compliance checks and contact tracing</li>
-</ol>
-
-Category(III) travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
-
-<div id="1F"></div>
-
-&#9744;  <i><b>E) Request for alternative Stay-Home Notice (SHN) arrangements</b></i>
-
-Travellers who arrive before **26 Oct 2021, 2359 hours** will, **by default**, serve their Stay-Home Notice (SHN) at an assigned hotel. Such hotels are also known as SHN-Dedicated Facility (SDF). Due to fast-changing SDF demands, travellers would not be informed of their assigned hotel before arrival in Singapore.
-
-Exceptions to the norm, i.e. completing SHN at the traveller’s own residence, will be considered for special cases below. Unless otherwise indicated, all applications must be submitted **at least three working days before arrival** in Singapore.
-
-<table>
-  <thead>
-    <tr>
-    <th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0; background-color:#153854; color:white;"><b>Conditions</b></th><th style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-top:2px solid #E0E0E0;background-color:#153854; color:white;"><b>Application</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:2px solid #E0E0E0;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Traveller suffers from a critical illness, special medical condition or has mobility issues</td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://go.gov.sg/shnhotelneeds" target="_blank">Click Here</a></td>
-    </tr>
-  </tbody>
-  </table>
-
-Travellers should note that any prior approvals given to complete the SHN at the traveller's own residence may be rescinded should the public health risk assessment change. In such an event, the prevailing travel health control measures would apply, i.e. serving SHN at an SDF.
-
-**From 26 Oct 2021, 2359 hours**, travellers with travel history to Category (III) countries/regions will be allowed to serve their 10-day SHN at their declared place of residence/accommodation by default, instead of at an SDF. 
+Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications, which will facilitate SHN compliance checks and contact tracing.
 
 ### Stage 2: Departure for Singapore
 
