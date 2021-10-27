@@ -75,7 +75,7 @@ Travellers who encounter difficulties serving their SHNs at their declared SHN a
 
 <div id="transportQ2"></div>
 
-#### 1. [For Travellers with Category (I), (II), (III) travel history] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
+#### 1. [For Travellers with Category (I), (II) or  (III) travel history] I am on self-isolation or serving Stay Home Notice at my own accommodation. What are the commuting/transport-related rules I should take note of in Singapore?
 
 All travellers with a 14-day travel history (excluding transit) to only Categories (I), (II), and (III) countries/regions, will be able to serve SHN at self-sourced accommodation and commute using their own private vehicle, taxis (including street-hailed taxis) or book a private-hire car (GrabSHN, Go-Jek, Ryde, MVL(TADA)) via the provider's respective apps.    
 
@@ -104,7 +104,7 @@ When securing a transport booking, travellers must inform the transport operator
 
 Only travellers with the same travel history and heading to the same declared place of accommodation are allowed to share a taxi/private-hire vehicle, subjected to permitted passenger capacity in the back seat.
 
-All travellers are prohibited from taking public transport, e.g. public bus/train or street-hailed taxis.
+All travellers are prohibited from taking public transport, e.g. public buses/trains.
 
 <div id="transportQ3"></div>
 
