@@ -46,10 +46,7 @@ Up to 72 hours before arrival in Singapore, travellers should submit an <a href=
 
 &#9744;  <i><b>E) Installation of Contact Tracing apps</b></i>
 
-Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications which will facilitate SHN compliance checks and contact tracing</li>
-</ol>
-
-Category(II) travellers arriving in Singapore from **26 Oct 2021, 2359 hours** will not be required to take a COVID-19 PCR test on arrival in Singapore. 
+Install and activate the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> and <a href="https://www.whatsapp.com/download" target="_blank">WhatsApp</a> mobile applications which will facilitate SHN compliance checks and contact tracing.
 
 ### Stage 2: Departure for Singapore
 
