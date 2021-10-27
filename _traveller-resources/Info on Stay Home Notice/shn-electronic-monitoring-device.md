@@ -4,17 +4,15 @@ permalink: /health/shn-monitoring
 third_nav_title: Info on Stay Home Notice
 ---
 
+### Setup and Usage
 
-An Electronic Monitoring Device (“device”) will be issued to travellers above 12 and are serving their Stay-Home Notice (SHN) outside an SHN-Dedicated Facility (SDF). It is used solely to detect travellers who have illegally left their SHN accommodation before the completion of SHN.
-
-Your personal privacy is protected while using these devices. The device does not have any audio or video recording capabilities. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
-
-### Setup and Usage of the Device
+Some travellers may be asked to utilise an Electronic Monitoring Device (EMD) from the Immigration and Checkpoints Authority (ICA) during their Stay Home Notice (SHN) period to ensure compliance. The EMD includes a paired gateway device and wristband that travellers must wear throughout the SHN period (image below). To use the EMD, travellers must also download the StayHome@SG mobile application.
 
 <img src="/images/ica-wristband.jpg" style="width:auto; height:auto;">
 
-The wristband device uses an app (StayHome@SG) and a “gateway” device that must be plugged into a power socket at the place of residence. It uses Bluetooth signals and alerts the authorities if the distance between the wristband and gateway at home is beyond a pre-defined range but cannot relay the exact current location of its wearer. You may wish to refer to the <b>User Setup Guide</b> <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf">here</a> and <b>Frequently Asked Questions on the StayHome@SG app</b> <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf">here</a>. <br/><br/>
-Watch the video for the <a href="https://www.youtube.com/watch?v=zKhawlenncA">StayHome@SG Setup Guide</a> or refer to this <a href="/images/stayhomesg-infographics-1.png">infographic</a> for more information on ICA’s wristband device. You may also click [here](https://www.ica.gov.sg/news-and-publications/media-releases/media-release/all-incoming-travellers-including-returning-residents-long-term-pass-holders-work-pass-holders-and-their-dependants-serving-their-stay-home-notice-outside-of-dedicated-facilities-to-don-electronic-monitoring-device)  for ICA’s news release on the wristband device.
+Using Bluetooth signals, the EMD will alert the relevant authorities to errant travellers who leave their declared SHN accommodation before the end of the SHN period. As such, travellers should ensure that their EMD is properly set up. Travellers should refer to <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stayhomesg-user-setup-guide.pdf" target="_blank">this guide</a>, <a href="https://www.youtube.com/watch?v=zKhawlenncA" target="_blank">video</a>, <a href="/images/stayhomesg-infographics-1.png" target="_blank">infographic</a> or <a href="https://www.ica.gov.sg/docs/default-source/ica/covid-19/stay@homesg-faqs.pdf" target="_blank">FAQ</a>, for set up instructions.
+
+All EMDs issued by ICA are not equipped with audio or video recording capabilities – personal privacy is therefore protected. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
 
 <!--<table>
   <thead>
@@ -40,10 +38,9 @@ Watch the video for the <a href="https://www.youtube.com/watch?v=zKhawlenncA">St
  
 Click [here](https://www.ica.gov.sg/news-and-publications/media-releases/media-release/all-incoming-travellers-including-returning-residents-long-term-pass-holders-work-pass-holders-and-their-dependants-serving-their-stay-home-notice-outside-of-dedicated-facilities-to-don-electronic-monitoring-device) for more information on the ICA issued Device and [here](https://www.mom.gov.sg/newsroom/press-releases/2020/0803-all-incoming-travellers-shn-outside-of-dedicated-facilities-to-don-electronic-monitoring-device) for the MOM issued device.-->
 
-### Return and Disposal of the Electronic Monitoring Devices after SHN
+### Return of Gateway Device after SHN
 
-At the end of the SHN period, ICA officers will contact the user to collect the <u>gateway device</u>. <b><u>Please do not dispose the gateway device.</u></b><br/><br/> 
-You are required to dispose the wristband device based on existing e-waste disposal methods <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">here</a>.
+Travellers will be contacted at the end of their SHN period by ICA for the return of their gateway device. They may, however, dispose the wristband based on existing <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">e-waste disposal methods.</a>.
 
 
 <!--<table>
