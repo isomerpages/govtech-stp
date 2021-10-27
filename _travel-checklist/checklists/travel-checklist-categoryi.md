@@ -18,6 +18,10 @@ All travellers, except Singapore Citizens and Permanent Residents, must apply fo
 
 &#9744;  <i><b>B) Submission of Health Declaration</b></i>
 
+Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click here for information.
+
+&#9744;  <i><b>C) Submission of Health Declaration</b></i>
+
 Up to 72 hours before arrival in Singapore, travellers should submit an <a href="https://eservices.ica.gov.sg/sgarrivalcard/" target="_blank">SG Arrival Card (SGAC)</a> with their pre-trip health and travel history declaration here. Travellers should **defer their travels** if they experience any of the following conditions: 
 
 <ol style="font-size:18px; margin-bottom:0px; list-style-type:lower-roman">
