@@ -21,6 +21,6 @@ All other travellers transiting in Singapore are required to take a COVID-19 Pol
 
 Foreign travellers transiting in Singapore will not require entry visas if they can complete their transit by staying within the transit area of Changi Airport (Terminals 1, 2, 3 and 4) without clearing immigration.
 
-Some airlines may require travellers to pass through Singapore Immigration to transit as they do not have the necessary transfer facilities in the transit area of the airport. In such cases, the traveller should check the ICA main website <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements">here</a> on whether they need to apply for an entry visa.
+Some airlines may require travellers to pass through Singapore Immigration to transit as they do not have the necessary transfer facilities in the transit area of the airport. In such cases, the traveller should check the  <a href="https://www.ica.gov.sg/enter-depart/entry_requirements/visa_requirements" target="_blank">ICA main website</a> on whether they need to apply for an entry visa.
 
 Please check with your airline on whether your transit requires you to clear immigration.
