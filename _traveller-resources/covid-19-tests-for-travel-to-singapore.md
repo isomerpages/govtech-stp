@@ -63,7 +63,7 @@ Travellers will be informed of their on-arrival PCR test results verbally by pho
 
 #### 3. Tests During SHN
 
-Depending on the traveller's travel and transit history and <a href="/arriving/overview" target="_blank">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn">Stay Home Notice (SHN)</a> and take a PCR test before the end of their <a href="/health/shn/sdf" target="_blank">SHN</a>. Travellers will be informed of their end-of-SHN PCR test results verbally by phone or in person. Travellers with Singpass account can login to <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> for their PCR test results. 
+Depending on the traveller's travel and transit history and <a href="/arriving/overview" target="_blank">Safe Travel Lane</a> used, travellers may be required to serve a <a href="/health/shn" target="_blank">Stay Home Notice (SHN)</a> and take a PCR test before the end of their <a href="/health/shn/sdf" target="_blank">SHN</a>. Travellers will be informed of their end-of-SHN PCR test results verbally by phone or in person. Travellers with Singpass account can login to <a href="https://www.healthhub.sg/" target="_blank">HealthHub</a> for their PCR test results. 
 
 <table>
  <thead>
