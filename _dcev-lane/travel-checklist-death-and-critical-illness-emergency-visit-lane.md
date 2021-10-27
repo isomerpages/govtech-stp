@@ -59,7 +59,7 @@ Travellers arriving from Category (I) countries/regions should:
 
 &#x2610;  <i><b>F) TraceTogether Registration</b></i>
 
-To aid with contact tracing, travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aiding contact tracing.
+Travellers must download and create a user profile on the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether app</a> on their mobile device. The application must be used by the traveller for the duration of the trip for the purpose of aiding contact tracing.
 
 Children who are aged 6 years or below in this calendar year are exempted from this requirement. Travellers who are 7 to 12 yrs of age in the current calendar year, and those who are unable to use a mobile device due to a certified disability or special need, will receive a TraceTogether token on arrival in Singapore. For more details on the use of TraceTogether, click [here](/health/tt-for-travellers).
 
