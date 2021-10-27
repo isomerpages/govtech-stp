@@ -114,21 +114,14 @@ During the SHN period, randomised in-person or phone/video compliance check(s) w
 
 &#9744;  <i><b>B) COVID-19 Tests during SHN</b></i>
 
-**ALL** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on Day 10 of their arrival. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
+**All** travellers will be scheduled to take a COVID-19 Polymerase Chain Reaction (“PCR test”) on the last day of the SHN. Travellers who do not receive their test appointment details a day before the end of their SHN should seek for assistance in writing via <a href="https://go.gov.sg/sto-enquiry" target="_blank">this form</a>. 
 
-Fully Vaccinated travellers who are serving SHN at their own place of residence may use private transport to commute from their SHN accommodation for the COVID-19 Polymerase Chain Reaction test that is administered on the last day of SHN. The costs for transport are as per the table at <a href="#stage3D">Stage 3D</a>.
-
-Travellers arriving **before 26 Oct 2021, 2359 hours** serving SHN at an SDF must self-administer additional ARTs on Day 3 and 7 of their arrival in Singapore. <a href="https://moh.gov.sg/covid-19/selftestart" target="_blank">Click here</a> for more information on ARTs. Travellers are exempted from additional ART, if they:
-- Are <a href="/health/vtsg" target="_blank">fully vaccinated</a> **AND**
-- Have been approved to complete their SHN in their residence or accommodation of choice.
 
 ### Stage 5: End of Stay-Home Notice
 
 &#9744;  <i><b>A) Release from Stay-Home Notice(SHN)</b></i>
 
-Travellers can leave their SHN accommodation only **after** the end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
-
-For travellers serving SHN at an SHN Dedicated Facility (SDF), the checkout timing will be conveyed to the traveller by the SDF and they can only leave after the SDF staff have informed them to do so. 
+Travellers can leave their SHN accommodation once they are informed that their end-of SHN COVID-19 test result is negative. The result of the test will be communicated to you via a call, email, or SMS about 24 hours from when the test was administered.. Travellers with Singpass may also view their results via the <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App</a>. 
 
 Travellers who test positive for <a href="/health/covid19-symptoms" target="_blank">COVID-19</a> will and must receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing treatment charges will apply.
 
