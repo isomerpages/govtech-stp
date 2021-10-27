@@ -32,7 +32,7 @@ The length of your SHN will be stipulated in the Entry Approval Letter or Safe T
 
 #### 2. My place of residence is unsuitable for me to serve my Stay-Home Notice (SHN). Where can I book an accommodation to serve my SHN?
 
-Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this [list](https://sha.org.sg/stay-home-notice). Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
+Travellers without a suitable place of residence for SHN may make a direct reservation with a suitable hotel from this <a href="https://sha.org.sg/stay-home-notice" target="_blank">list</a>. Before a room booking is made, travellers should check and ensure that the hotel can accommodate guests serving their SHN.
 
 #### 3. I am presently serving my Stay-Home Notice (SHN). How do I obtain my daily necessities?
 
