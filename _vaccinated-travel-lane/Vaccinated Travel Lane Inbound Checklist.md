@@ -50,7 +50,7 @@ Frequently asked questions regarding vaccination proof can be found <a href="/vt
 
 &#9744;  <i><b>B) [Short-Term Visitors and Long-Term Pass Holders only] Apply for Vaccinated Travel Pass (VTP) </b></i>
 
-All short-term visitors and long-term pass holders must apply for a VTP. Applications must be made between 7 and 30 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP</a></b>.
+All short-term visitors and long-term pass holders must apply for a VTP. Applications must be made between 7 and 60 calendar days before the intended date of entry, together with the QR code of the traveller’s vaccination certificate (if available). Applications are free of charge. Successful applicants will receive their approved VTP via email. <b><a href="https://go.gov.sg/vtl-portal" target="_blank">Click here to apply for a VTP</a></b>.
 
 Singapore Citizens and Permanent Residents do not need to apply for a VTP but must adhere to the <a href="/vtl/conditions" target="_blank"> conditions</a>, which are also laid out in this checklist.
 
