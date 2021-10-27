@@ -176,7 +176,7 @@ SHN-serving travellers will be required to take additional COVID-19 tests during
 
 Travellers who wish to leave their self-isolation/SHN accommodation, or SDF for facilitated visits to funerals/wakes or hospitals must have a negative PCR result within the last 72 hours of the visit,  before they can leave their SHN/SDF location. The cost of the tests will be borne by the travellers and paid directly to the test providers. Those who are unable to comply with the pre-visiting testing requirement will not be allowed to leave their SHN/SDF location.
 
-Travellers who test positive for COVID-19 will receive the necessary [medical treatment](/health/covidtreatment), and the prevailing treatment charges would apply.
+Travellers who test positive for COVID-19 will receive the necessary <a href="/health/covidtreatment" target="_blank">medical treatment</a>, and the prevailing treatment charges would apply.
 
 &#x2610; <i><b>B) Visits to Medical Facility / Funeral</b></i>
 
