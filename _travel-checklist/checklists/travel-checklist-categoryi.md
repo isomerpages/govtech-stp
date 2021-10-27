@@ -16,7 +16,7 @@ Travellers may print out this page and indicate with a **"&#9745;"** in the box 
 
 All travellers, except Singapore Citizens and Permanent Residents, must apply for entry approval to enter Singapore using a SafeTravel Lane. Details on the appropriate lane to use to enter Singapore can be accessed via the<a href="/arriving/overview" target="_blank" >“Travelling to Singapore”</a> page.
 
-&#9744;  <i><b>B) Submission of Health Declaration</b></i>
+&#9744;  <i><b>B) Application for Entry Visa (if applicable)</b></i>
 
 Travellers who are not Singapore Citizens, Permanent Residents or Long Term Pass holders holding passports issued by visa-required countries/regions should apply for an entry visa. Travellers who are unsure if they require an entry-visa or wish to apply for a visa may click here for information.
 
