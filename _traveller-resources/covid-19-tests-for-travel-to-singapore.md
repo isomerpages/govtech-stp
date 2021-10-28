@@ -41,8 +41,8 @@ Travellers who have 14-day travel history to <a href="/shn-and-swab-summary" tar
   </thead>
   <tbody>
     <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
     </tr>
        <!-- <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
