@@ -255,9 +255,9 @@ All travellers **must** self-isolate at their declared accommodation (per <a hre
 
 &#9744;  <i><b>B) Release from Self-Isolation</b></i>
 
-Travellers can only leave their self-isolation accommodation **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via email or call in around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App </a>.
+Travellers can only leave their self-isolation accommodation **after** a negative result of the COVID-19 test taken on arrival in Singapore is conveyed. The result could be released to the traveller via email or call,  around 24 hours from when the test was administered. Travellers with Singpass may also view their results via the <a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a> or <a href="https://www.healthhub.sg/HealtheServices" target="_blank">HealthHub App </a>.
 
-Travellers who test positive for <a href="/health/covid19-symptoms" target="_blank">COVID-19</a> are required to receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing medical treatment charges will apply.
+Travellers who test positive for COVID-19 are required to receive <a href="/health/covidtreatment" target="_blank">medical treatment</a>. The prevailing medical treatment charges will apply.
 
 ### Stage 5: Stay in Singapore
 
