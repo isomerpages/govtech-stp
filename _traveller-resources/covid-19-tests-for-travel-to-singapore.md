@@ -28,7 +28,7 @@ All other travellers (i.e. short-term visitors) will still be required to produc
 
 #### 2. On-Arrival Tests
 
-All travellers are required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. 
+Travellers may be required to take a COVID-19 PCR test upon arrival in Singapore; each test costs <b>S$160 (including GST)</b>. 
 
 Travellers who have 14-day travel history to <a href="/shn-and-swab-summary" target="_blank">Category (I) countries/regions</a> are required to take a COVID-19 PCR test upon arrival in Singapore, via the link below. To shorten the relevant administrative process on arrival in Singapore, travellers are strongly advised to <b>register and pay for the relevant tests using the links below before their arrival. </b>
 
@@ -41,8 +41,8 @@ Travellers who have 14-day travel history to <a href="/shn-and-swab-summary" tar
   </thead>
   <tbody>
     <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-left:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0; border-right:2px solid #E0E0E0;">Changi Airport</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px; border-right:2px solid #E0E0E0;  border-bottom:2px solid #E0E0E0;">Click <a href="https://safetravel.changiairport.com/#/" target="_blank">here</a></td>
     </tr>
        <!-- <tr>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-left:2px solid #E0E0E0;">Woodlands and Tuas Checkpoints</td>
