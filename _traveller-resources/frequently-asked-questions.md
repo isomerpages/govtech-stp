@@ -671,14 +671,6 @@ For the list of WHO EUL Vaccines, <a href="https://extranet.who.int/pqweb/vaccin
 
 #### 1. Can a vaccinated traveller be exempted from prevailing border health measures (e.g. SHN, COVID-19 PCR Test)?
 
-[Fully vaccinated travellers](/health/vtsg) will be able to apply to opt out of dedicated SHN facilities and serve their 10-day SHN at their place of residence or suitable accommodation of choice if they:
-<ol style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha;">
-<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">are entering Singapore via the <a href="/arriving/overview#LTPH">General Entry Lanes for Long-term Pass holders</a>, or <a href="/arriving/overview#ReturningSCPR">Returning Singapore Citizen and Permanent Residents Lane</a>; and</li>
-	<li style="font-size:18px; margin-top:10px; margin-bottom:0px; list-style-type:lower-alpha; line-height:1.5">Have remained in any <a href="/shn-and-swab-summary">Category (I) to (III) country/region</a> for 14 consecutive days before arrival in Singapore</li>
-</ol>
-
-For more information on full SDF opt-out criteria, click [here](/health/shn/sdf).
-
 [Fully vaccinated travellers](/health/vtsg) utilising the Vaccinated Travel Lane are not be required to serve a Stay-Home Notice. For more information on the Vaccinated Travel Lane (VTL), click <a href="/vtl/requirements-and-process">here</a>.
 
 Click here to [Go Back To Top](#top).
