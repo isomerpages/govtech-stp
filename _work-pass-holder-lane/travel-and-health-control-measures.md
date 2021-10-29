@@ -171,7 +171,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 					<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="4"><i>[Note]</i>: 
 						<ol style="margin-top: 0px; list-style-type: disc;">
 														<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>All pass holders are not allowed to serve SHN in dormitories. They are not allowed to serve SHN at residences occupied by non-household members.</i></li>
-							<li>Submitters may refer to <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN.
+							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Submitters may refer to <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN.</i>
 							</li>
 							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i></li>
 						</ol>
