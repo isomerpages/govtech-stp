@@ -70,15 +70,15 @@ For us to consider a refund of the entry charges for the previous application, p
 	
 In general, all pre-payments made for the cost of the Stay-Home Notice Dedicated Facility (SDF) stay and COVID-19 Polymerase Chain Reaction test (“PCR test”) are non-refundable. This is to cover the relevant cost incurred for securing and preparing the SDF for the traveller. A refund can be considered subject to MOM’s assessment.
 
-#### 5. My employee has recently recovered from COVID-19. Can I bring them into Singapore immediately?
+#### 4. My employee has recently recovered from COVID-19. Can I bring them into Singapore immediately?
 
 Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
 
-#### 6. I am an employer of a helper/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
+#### 5. I am an employer of a helper/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
 
 You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to ensure that the travel health control measures are fulfilled.
 
-#### 7. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
+#### 6. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
 
 No, employers/applicants are required to submit their Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
 
@@ -108,19 +108,19 @@ Please [submit the extension request](https://form.gov.sg/5d01bad00816b400111ce5
 
 We will email you the outcome within 2 weeks. A $40 extension fee will be charged for each extension made beyond 3 months from the date the visit pass was issued. 
 
-#### 3. My employee’s work pass is expiring. He/She is unable to return to Singapore for the pass renewal due to the travel restrictions imposed in their home country or are unable to obtain an entry approval. What should I do? 
+#### 2. My employee’s work pass is expiring. He/She is unable to return to Singapore for the pass renewal due to the travel restrictions imposed in their home country or are unable to obtain an entry approval. What should I do? 
 
 We advise employers to submit a new work pass application for such employees after the situation stabilises. 
 
-#### 4. Can employers get a levy waiver for their helpers, Work Permit or S Pass holder who are required to serve SHN upon their arrival to Singapore? 
+#### 3. Can employers get a levy waiver for their helpers, Work Permit or S Pass holder who are required to serve SHN upon their arrival to Singapore? 
 
 MOM will waive the levies for all helpers, Work Permit and S Pass holders for the duration of their SHN from January till September 2021. This is to help employers manage the increased costs associated with the Government’s updated measures to reduce the risk of importing COVID-19 into the community. Please refer to MOM’s [press release](https://mom.gov.sg/newsroom/press-releases/2021/0401-waiver-of-fwl-for-migrant-workers-and-migrant-domestic-workers-during-their-shn) for more information. 
  
-#### 5. Can employers get a levy waiver for helpers, Work Permit or S Pass holders who have returned home or gone on overseas leave?
+#### 4. Can employers get a levy waiver for helpers, Work Permit or S Pass holders who have returned home or gone on overseas leave?
 
 For employees on home or overseas leave, employers can [apply for levy waiver](https://www.cpf.gov.sg/eSvc/Web/Employer/MyRequestEmployer) (for up to 60 days) **when the employees return to Singapore**.
 
-#### 6. Must I still pay my helper salary while she is serving her Stay-Home Notice (SHN)?
+#### 5. Must I still pay my helper salary while she is serving her Stay-Home Notice (SHN)?
 
 For new helpers, you must start paying them salary once they are deployed to your house after SHN.
 
@@ -129,6 +129,8 @@ For existing helpers returning from overseas, you must continue paying them sala
 <a href="#top">Click here to return to the top.</a>
 
 <div id="covidtest"></div>
+
+### Covid-19 Tests
 
 #### 1. My employee has recently recovered from COVID-19. Are they still required to be tested for COVID-19 before entry into Singapore?
 
