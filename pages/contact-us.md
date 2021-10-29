@@ -24,7 +24,7 @@ If you have already applied for entry into Singapore under any of the following 
 <thead>
   <tr>
     <th style="font-size:18px; border-top:3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Safe Travel Lane</th>
-    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED">Check application status</th>
+    <th style="font-size:18px; border-top:3px solid #D8D8D8; border-right:1px solid #D8D8D8; background-color:#EDEDED"><a href="https://eservices.ica.gov.sg/STO/safeTravel/enquiry" target="_blank">Check application status</a></th>
   </tr>
 </thead>
 <tbody>
