@@ -33,8 +33,8 @@ permalink: /atp/apply-now
        <td style="text-align:center;"><b>2) Please enter the necessary details to start applying</b></td>
     </tr>
     <tr>
-      <td><a href="/files/ATP_1.PNG"><img src="/files/ATP_1.PNG" alt="https://go.gov.sg/atp-application" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
-      <td><a href="/files/ATP_2.PNG"><img src="/files/ATP_2.PNG" alt="https://go.gov.sg/atp-application" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
+      <td><a href="/files/ATP_1.PNG"><img src="/files/ATP_1.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
+      <td><a href="/files/ATP_2.PNG"><img src="/files/ATP_2.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
     </tr>
      <tr>
       <td style="text-align:center;"><b>3) "One Time Password (OTP)" will be sent to your email address</b></td>
