@@ -15,7 +15,7 @@ permalink: /apply-now
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="/atp/apply-now">here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/atpsg">here</a></td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/connectsg/requirements-and-process ">Connect@Singapore</a></td>
@@ -31,7 +31,7 @@ permalink: /apply-now
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/scpr-familial-ties-lane/overview"> Familial Ties Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/scpr-ftl-application">here</a></td>
     </tr>
       <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
@@ -39,7 +39,7 @@ permalink: /apply-now
     </tr>
        <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/stpl/overview">Student's Pass Holder Lane</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://eservices.ica.gov.sg/STO">here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/stphl-application">here</a></td>
     </tr>
 	         <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>

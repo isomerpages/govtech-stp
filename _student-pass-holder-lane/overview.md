@@ -78,7 +78,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 				</ol>
 			</td>
 			<td style="font-size:16px;border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><p style="font-size:16px; line-height: 1.5;">For the application guide, Click <a href="/stpl/userguide">here</a></p>
-				<p style="font-size:16px; line-height: 1.5;">To apply, Click <a href="https://eservices.ica.gov.sg/STO">here</a></p>
+				<p style="font-size:16px; line-height: 1.5;">To apply, Click <a href="https://go.gov.sg/stphl-application">here</a></p>
 			</td>
 		</tr>
 		<tr>

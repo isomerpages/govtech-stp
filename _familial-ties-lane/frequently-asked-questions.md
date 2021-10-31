@@ -14,7 +14,7 @@ permalink: /scpr-familial-ties-lane/FAQ
 
 ### SafeTravel Pass (STP) - Application via the SafeTravel Portal 
 
-#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://eservices.ica.gov.sg/STO/>), when will i receive the outcome of my application? 
+#### 1. I will be submitting an entry application to ICA via the SafeTravel Portal (<https://go.gov.sg/scpr-ftl-application>), when will i receive the outcome of my application? 
 
 Eligible applicant will receive the SafeTravel Pass (STP) via email after making the necessary payment (if applicable) for the stay at the SHN Dedicated Facility (SDF) and COVID-19 swab test at the end of the application  via the SafeTravel Portal. 
 
@@ -48,7 +48,7 @@ Please write to us using the enquiry form [here](https://go.gov.sg/sto-enquiry) 
 
 #### 5. What if i am unable to enter Singapore within the validity of my STP? 
 
-You are not allowed to amend the date of entry or seek a refund or the payment (if applicable) of the COVID-19 PCR test and SHN dedicated facility once the application has been approved. You would need to resubmit a new application via the [SafeTravel Portal](https://eservices.ica.gov.sg/STO/) and make a second payment for the new STP. 
+You are not allowed to amend the date of entry or seek a refund or the payment (if applicable) of the COVID-19 PCR test and SHN dedicated facility once the application has been approved. You would need to resubmit a new application via the [SafeTravel Portal](https://go.gov.sg/scpr-ftl-application) and make a second payment for the new STP. 
 
 If you require an amendment of the entry date on the STP due to unforeseen circumstances (e.g. cancellation of flight by the airline provider). You may write in to ICA for consideration via our enquiry form [here](https://go.gov.sg/sto-enquiry), with the relevant supporting documents attached.
 

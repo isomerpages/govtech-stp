@@ -29,7 +29,7 @@ Should you still encounter the error message after trying the above, please subm
 
 We seek your understanding that the validity period of entry approvals cannot been amended, once issued. 
 
-If you wish to enter Singapore in a different period, please submit a new application via the <a href="https://eservices.ica.gov.sg/STO">SafeTravel portal</a>. If you had made payment for your earlier entry application, please note that this is non-refundable.  
+If you wish to enter Singapore in a different period, please submit a new application via the <a href="https://go.gov.sg/stphl-application">SafeTravel portal</a>. If you had made payment for your earlier entry application, please note that this is non-refundable.  
 
 In the meantime, you may wish to seek advice from your university/ school on your academic matters.
 
@@ -47,7 +47,7 @@ Only Student's Pass (STP) holders, Student's Pass In-Principle Approval (STP-IPA
 
 #### 6. My flight has been cancelled or delayed, and I will be travelling on another date. Can I still travel using my existing entry approval?
 
-If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application via the <a href="https://eservices.ica.gov.sg/STO">SafeTravel portal</a>.
+If you are travelling within the validity period of your entry approval, you may use your existing entry approval. However, if you are now travelling outside of the validity period, you will need to submit a new application via the <a href="https://go.gov.sg/stphl-application">SafeTravel portal</a>.
 
 #### 7. I am not yet fully vaccinated. Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
 
@@ -57,11 +57,11 @@ If you are aged below 12 years old at the point of arrival, the vaccination cond
 
 If you are aged between 12 to less than 18 years old at the point of arrival, you may enter without proof of vaccination, on the condition that you complete the full vaccination regimen within two months after you arrive in Singapore. You may proceed with your entry application as described [here.](/stpl/overview)
 
-If you are aged 18 years old and above at the point of arrival, you will have to be fully vaccinated before arrival. If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal [here](https://go.gov.sg/moe-vaccination-exemption). Please submit your appeal at least 3 weeks before your intended date of entry. Please do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://eservices.ica.gov.sg/STO)
+If you are aged 18 years old and above at the point of arrival, you will have to be fully vaccinated before arrival. If you are medically ineligible for vaccination or have extenuating reasons for not being fully vaccinated before arrival, you may submit an entry appeal [here](https://go.gov.sg/moe-vaccination-exemption). Please submit your appeal at least 3 weeks before your intended date of entry. Please do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://go.gov.sg/stphl-application)
 
 
 #### 8. I have recovered from a COVID-19 infection and have 1 dose of a PSAR approved vaccine. Am i considered fully vaccinated? Can I apply for an entry approval via the Student's Pass Holder Lane (STPHL)?
 
 Travellers are considered fully vaccinated if they have received 1 dose of a PSAR-approved vaccine after recovering from a COVID-19 infection. The vaccination should be taken no earlier than 3 months from the date of their diagnosis, if they had not already completed vaccination previously. 
 
-However, to ensure smooth boarding and immigration clearance, such travellers will need to obtain an exemption letter from the Ministry of Education. They may do so by submitting an application [here](https://go.gov.sg/moe-vaccination-exemption). They do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://eservices.ica.gov.sg/STO).
+However, to ensure smooth boarding and immigration clearance, such travellers will need to obtain an exemption letter from the Ministry of Education. They may do so by submitting an application [here](https://go.gov.sg/moe-vaccination-exemption). They do <b><u>not</u></b> submit an entry application via the [SafeTravel Portal](https://go.gov.sg/stphl-application).
