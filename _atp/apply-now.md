@@ -2,7 +2,7 @@
 title: Apply Now
 permalink: /atp/apply-now
 ---
-<!--<table>
+<table>
   <thead>
     <tr>
       <th style="text-align:center;">Air Travel Pass Application</th>
@@ -10,15 +10,15 @@ permalink: /atp/apply-now
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center;"><b>Please select "Log in with Email Address" to apply for an Air Travel Pass </b><br/> <a href="https://go.gov.sg/atpsg">https://go.gov.sg/atpsg</a></td>
+      <td style="text-align:center;"><a href="https://go.gov.sg/atpsg">https://go.gov.sg/atpsg</a></td>
     </tr>
     <tr>
       <td><a href="https://go.gov.sg/atpsg"><img src="/images/qr-atpsg.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
     </tr>
   </tbody>
-</table>-->
+</table>
 
-<table>
+<!--<table>
   <thead>
     <tr>
       <th colspan="2" style="text-align:center;">Air Travel Pass Application (ATP)</th>
@@ -45,4 +45,4 @@ permalink: /atp/apply-now
       <td><a href="/files/ATP_4.PNG"><img src="/files/ATP_4.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
     </tr>
   </tbody>
-</table>
+</table>-->
