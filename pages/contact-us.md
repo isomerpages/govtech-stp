@@ -30,7 +30,7 @@ If you have already applied for entry into Singapore under any of the following 
 <tbody>
   <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Periodic Commuting Arrangement</td>
-   <td rowspan ="3" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
+   <td rowspan ="2" style="font-size:18px; border-bottom:1px solid #D8D8D8;  border-right:1px solid #D8D8D8; ">Click <a href="https://eservices.ica.gov.sg/STO">here</a>
      </td>
  </tr>
     <tr>
@@ -38,6 +38,7 @@ If you have already applied for entry into Singapore under any of the following 
  </tr>
       <tr>
    <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Singaporean Citizen/Permanent Resident Familial Ties Lane</td>
+	       <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Click <a href="https://go.gov.sg/scpr-ftl-application">here</a></td>
  </tr>
 	 <tr>
   <td style="font-size:18px; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;  border-left:1px solid #D8D8D8;">Student’s Pass Holder Lane</td>
