@@ -33,7 +33,7 @@ The ATP comes with [conditions](/atp/conditions) of travel that the applicant mu
 
 #### 2. How can visitors apply for an ATP?
 
-To apply for an ATP, please go to [https://go.gov.sg/atp-application](/atp/apply-now). Do note that applications for the ATP must be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
+To apply for an ATP, please go to [apply now](/atp/apply-now). Do note that applications for the ATP must be made between seven and thirty calendar days prior to the intended date of entry into Singapore.
 
 For example, visitors who intend to enter Singapore on 31 January 2021 must apply for an ATP between 1 January 2021 and 24 January 2021.
 
