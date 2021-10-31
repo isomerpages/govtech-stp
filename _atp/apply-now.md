@@ -2,7 +2,7 @@
 title: Apply Now
 permalink: /atp/apply-now
 ---
-<!--<table>
+<table>
   <thead>
     <tr>
       <th style="text-align:center;">Air Travel Pass Application</th>
@@ -16,9 +16,9 @@ permalink: /atp/apply-now
       <td><a href="https://go.gov.sg/atpsg"><img src="/images/qr-atpsg.png" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:60%;"></a></td>
     </tr>
   </tbody>
-</table>-->
+</table>
 
-<table>
+<!--<table>
   <thead>
     <tr>
       <th colspan="2" style="text-align:center;">Air Travel Pass Application (ATP)</th>
@@ -45,4 +45,4 @@ permalink: /atp/apply-now
       <td><a href="/files/ATP_4.PNG"><img src="/files/ATP_4.PNG" alt="https://go.gov.sg/atpsg" title="https://go.gov.sg/atpsg" style="width:100%;"></a></td>
     </tr>
   </tbody>
-</table>
+</table>-->
