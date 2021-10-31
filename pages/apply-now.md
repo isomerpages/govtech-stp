@@ -15,7 +15,7 @@ permalink: /apply-now
   <tbody>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;"><a href="/atp/overview">Air Travel Pass</a></td>
-      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/atp-application">here</a></td>
+      <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-right:1px solid #D8D8D8;">Apply <a href="https://go.gov.sg/atpsg">here</a></td>
     </tr>
     <tr>
       <td style="margin-top:0px; margin-bottom:0px; font-size:18px;border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8; vertical-align:middle;"><a href="/connectsg/requirements-and-process ">Connect@Singapore</a></td>
