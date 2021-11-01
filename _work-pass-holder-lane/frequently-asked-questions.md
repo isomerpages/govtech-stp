@@ -261,10 +261,19 @@ To be considered for exemption , employers must <a href="https://www.mom.gov.sg/
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
-Eligible work pass holders and their dependants must complete the full course of vaccination with vaccines approved under the [Health Sciences Authority’s Pandemic Special Access Route (PSAR)](https://www.hsa.gov.sg/hsa-psar) or the [World Health Organization’s Emergency Use Listing (WHO-EUL)](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) at least 14 days before they arrive in Singapore. 
+To be considered fully vaccinated, pass holders must: 
 
-Work pass holders will need to show proof of vaccination. If the vaccination certificate is not in English, it should be translated to English and notarised. 
-
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received the full regimen of <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 14 days before arriving in Singapore</b>. Vaccines requiring 2 doses must be completed either using the <a href="/health/vtsg">same or different brands</a> and taken based on the recommended intervals between each dose.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p>
+  </li>
+  <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received 1 dose of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> if they had earlier recovered from COVID-19. This vaccination must be done at least 3 months from the date of COVID-19 diagnosis.</li>
+      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Be able to <a href="#document">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. </li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https://www.phpc.gov.sg">Public Health Preparedness Clinic</a>  to confirm their vaccination status within 14 days of completing self-isolation or Stay-Home Notice (SHN).  Please call the clinic to check if they offer serology tests.
+      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</p>
+  </li>
+  </ol>
+	
 #### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. When can I submit an entry application to bring him into Singapore?
 
 From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated S Pass and Work Permit holders from CMP sectors entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and pass holders may have to wait about three to six months before they can enter Singapore. 
