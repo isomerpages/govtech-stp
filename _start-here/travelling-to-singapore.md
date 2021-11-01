@@ -187,7 +187,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
 <ul style="list-style-type: disc;">
-	<li><a href="/vtl/requirements-and-process">Australia</a></li>
+	<li><a href="/vtl/requirements-and-process">Australia </a> (for entry into Singapore from 8 Nov 2021)</li>
 		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
 			<li><a href="/vtl/requirements-and-process">Germany</a></li>
 	<li><a href="/atp/requirements-and-process">Hong Kong</a></li>
@@ -201,7 +201,7 @@ Short term visitors from the following countries/regions may apply to enter Sing
 				 <li><a href="/vtl/requirements-and-process">Italy</a> </li>
 				 <li><a href="/vtl/requirements-and-process">Netherlands</a>  </li>
 				 <li><a href="/vtl/requirements-and-process">Spain</a>  </li>
-	<li><a href="/vtl/requirements-and-process">Switzerland</a></li>
+	<li><a href="/vtl/requirements-and-process">Switzerland</a> (for entry into Singapore from 8 Nov 2021)</li>
 				 <li><a href="/vtl/requirements-and-process">United Kingdom</a> </li>
 				 <li><a href="/vtl/requirements-and-process">United States</a>   </li>
 	<li><a href="/vtl/requirements-and-process">South Korea</a> (VTP applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)  </li>
