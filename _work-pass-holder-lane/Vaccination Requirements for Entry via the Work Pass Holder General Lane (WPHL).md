@@ -13,10 +13,6 @@ All pass holders entering under WPHL, regardless of travel history, must be <a h
 	
 To be considered for exemption , employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.
 
-Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 14 days before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
-
-<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all work pass holders and dependants arriving from Category I and II countries/regions, as well as CMP workers, helpers and confinement nannies from all countries/regions must be <a href="#vaccinated">fully vaccinated</a> before arrival. This is in addition to all pass holders from Category III and IV countries who were already required to be <a href="#vaccinated">fully vaccinated</a> since 10 Aug before arrival.  Please read the <a href="#vaccinated">vaccination requirements</a> carefully.</p>
-
 <div id="vaccinated"></div>
 
 ### To be considered fully vaccinated, pass holders must: 
