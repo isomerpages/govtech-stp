@@ -272,7 +272,9 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 #### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
-Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
+If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a Vaccinated Travel Pass (VTP) here and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
+
+For all other travellers, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) and provide your proof of vaccination and recovery certificate.
 
 #### 16. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
