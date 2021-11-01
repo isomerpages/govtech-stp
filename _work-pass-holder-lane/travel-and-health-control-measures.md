@@ -241,14 +241,14 @@ For all other pass holders (work pass holders and their dependants), this page e
 	</ol>	
 </li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Serve a 10-day <a href="/health/shn">SHN</a> in one of the following:
-<ol style="margin-top: 0px; list-style-type: lower-roman;">
+<ol style="margin-top: 0px; list-style-type: disc;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Suitable accommodation sourced by submitters (e.g hotels or serviced apartments);</li>
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Place of residence. If the household has unvaccinated vulnerable individuals, the pass holder is strongly encouraged to isolate themselves in a separate room and minimise contact with these vulnerable household members.  </li>
 				</ol>
 	</li>
-			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>		
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
+			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">			<b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. </li>
 			</ol>
-			<b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing SHN. Please call the clinic to check if they offer serology tests. 
 </td> 
 	</tr>
 		<tr>
