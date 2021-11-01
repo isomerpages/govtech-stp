@@ -96,7 +96,7 @@ Employment agencies that hire helpers/confinement nannies (the "Employee") may a
 
 ### MOM-issued Passes: Applications, Extensions and Levies
 
-#### 1. The Visit Pass issued to my Confinement Nanny is expiring before the end of her work assignment. Do I need to extend her Visit Pass?
+#### 1. My confinement nanny's Visit Pass expires before the end of her work assignment. Do I need to extend her Visit Pass?
 
 You need to request for an extension of her stay if:
 - The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so. 
