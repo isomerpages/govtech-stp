@@ -137,16 +137,12 @@ We understand these measures are difficult for employers and their pass holders,
 				<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">Confinement nannies</li>
 				</ol>
 			</td>
-			<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers or Employment Agencies to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a> <br/><br/> <b>Note:</b> From 15 Oct 2021, employers and Employment Agencies can start applying for their <a href="/wphl/vaccination-requirements">fully vaccinated </a> helpers to enter Singapore from 1 Nov 2021. Due to the evolving COVID-19 situation, daily approvals will remain limited. Priority will be given to families with caregiving needs. 
-		</td>
+			<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">Employers or Employment Agencies to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
 	</tr>
 					<tr>
     <td style="font-size:16px;border-left:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8; ">All other pass holders
 			</td>
 			<td style="font-size:16px;border-right:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; vertical-align:middle;">Employers to apply: <a href="https://eservices.ica.gov.sg/STO/">WPHL</a>
-				<p style="margin-top:10px; margin-bottom:0px; font-size:16px; line-height:1.5;"><b>Note:</b> Pass holders with travel history to <a href="/wphl/shn-and-swab-summary">Category III or IV countries/regions</a> in the last 14 days (excluding transits for arrivals from 26 October 2021, 2359hrs) before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the vaccination requirements <a href="/wphl/vaccination-requirements">listed here</a> carefully.</p><br/>
-			The vaccination requirement <b>does not</b> apply to <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP workers, helpers and confinement nannies</a> entering Singapore before 1 Nov 2021.<br/><br/>
-					<b>Note</b>: From 1 Nov 2021, all work pass holders and their dependants arriving from Category I and II countries/regions, as well as CMP workers, helpers and confinement nannies with travel history to all countries/regions must be <a href="/wphl/vaccination-requirements">fully  vaccinated</a> <b>before</b> arrival. This is in addition to all pass holders from Cat III and IV countries who were already required to be fully vaccinated since 10 Aug 2021, before arrival. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
 		</td>
 	</tr>
 		</tbody>
