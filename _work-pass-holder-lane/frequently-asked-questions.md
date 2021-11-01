@@ -144,15 +144,13 @@ For the on-arrival COVID-19 test, employers will need to book and pay for them.
 
 #### 3. Is my employee required to take a Serology test in Singapore? How do I arrange for the test and am I also required to pay for this?
 
-The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days (excluding transits) before their arrival, are required to take a Serology test in Singapore.
+All pass holders who were vaccinated overseas must take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within:
+- 14 days of arrival; or
+- 14 days of completing self-isolation  or Stay-Home Notice (SHN)
 
-- Confinement nannies
-- Helpers
-- Work Permit and S Pass holders from the Construction, Marine shipyard and Process (CMP) sectors
+Please call the clinic to check if they offer serology tests.
 
-Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
-- [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
-- [Email MOM](mailto:ace_mom@mom.gov.sg) for confinement nannies and helpers 
+If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.
 
 #### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
 
