@@ -26,7 +26,7 @@ The table below provides a quick overview of the key STPHL features, requirement
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Spouse of STP/STP-IPA holder on post-graduate programme</li>
 			 <li style="font-size:16px;margin-top:12px; margin-bottom:0px; line-height:1.5;">Child(ren) of STP/STP-IPA holder on post-graduate programme </li>
 			 </ol>
-			 <p style="line-height:1.5; margin-top:10px; margin-bottom:10px; font-size:16px;">From 1 Nov 2021, all Long-Term Pass Holders will be required to be <a href="/stpl/vaccination-requirements">fully vaccinated</a> as an entry requirement</p>
+			 <p style="line-height:1.5; margin-top:10px; margin-bottom:10px; font-size:16px;">All Long-Term Pass Holders will be required to be <a href="/stpl/vaccination-requirements">fully vaccinated</a> as an entry requirement</p>
 			 </td>
 	</tr>
    <tr>
