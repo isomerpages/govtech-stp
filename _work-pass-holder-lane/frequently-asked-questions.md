@@ -142,7 +142,7 @@ You would be required to pay for the COVID-19 test and other entry charges durin
 
 For the on-arrival COVID-19 test, employers will need to book and pay for them. 
 
-#### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
+#### 3. Is my employee required to take a Serology test in Singapore? How do I arrange for the test and am I also required to pay for this?
 
 The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days (excluding transits) before their arrival, are required to take a Serology test in Singapore.
 
