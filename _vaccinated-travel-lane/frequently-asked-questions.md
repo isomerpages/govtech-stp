@@ -841,7 +841,6 @@ Short-term visitors and long-term pass holders departing from the following coun
 - The United Kingdom
 - The United States
 
-VTP applications for Australia and Switzerland will open on **1 November 2021, 1000 hours (Singapore time)**.
 
 VTP applications for the Republic of Korea will open on **8 November 2021, 1000 hours (Singapore time)**.
 
