@@ -552,6 +552,13 @@ Travellers under the VTL do not need a return flight ticket to enter Singapore. 
 #### 11. Are travellers required to take designated VTL flights to depart from Singapore?
 No, the VTL is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL flights.
 
+#### 12. Can transfer/transit passengers travel on designated VTL flights?
+
+Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
+
+At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). They are required to be through-checked to their onward destination, as they will not be allowed to clear arrival immigration. Travellers should confirm with their airline on their eligibility to transfer.
+
+
 ---
 
 ##### Click here to go back to the [top](#top).
