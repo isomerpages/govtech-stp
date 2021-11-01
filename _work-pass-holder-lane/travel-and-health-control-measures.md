@@ -65,7 +65,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 </thead>
 	<tbody>
 		<tr>
-<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2">
+<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival.
 </li>
@@ -80,7 +80,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
 </ol>
 	</td> 
-		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
+		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-bottom:1px solid #D8D8D8;border-right:1px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 				<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival.
 </li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take on-arrival COVID-19 PCR test at the Singapore checkpoint:  <br><br>Submitters must <a href="/health/covid19-tests/pcrtest">register and pay for the on-arrival test </a>($160 including GST) <b>before the pass holder arrives in Singapore. </b> Otherwise, pass holders may be denied entry and submitter’s subsequent entry applications may be rejected.
@@ -91,16 +91,6 @@ For all other pass holders (work pass holders and their dependants), this page e
 </ol>
 </td> 
 	</tr>
-		<tr>
-					<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="4"><i>[Note]</i>: 
-						<ol style="margin-top: 0px; list-style-type: disc;">
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>All pass holders are not allowed to serve SHN in dormitories.</i></li>
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i>Submitters may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on self-isolation.</i>
-							</li>
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i> From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i></li>
-						</ol>
-			</td>
-		</tr>
 	</tbody>
 		</table><br>
 		<i style="font-size:16px;">(Mobile users scroll right ☛ to view the table)</i><br>
