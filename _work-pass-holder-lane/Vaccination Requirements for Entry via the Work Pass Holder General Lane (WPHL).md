@@ -2,7 +2,15 @@
 title: Vaccination Requirements for Entry via the Work Pass Holder General Lane (WPHL)
 permalink: /wphl/vaccination-requirements
 ---
+All pass holders entering under WPHL, regardless of travel history, must be fully vaccinated before arrival except for the following groups:
 
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who are below 18 years old on date of entry.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. </p>
+  </li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
+	</ol>
+	
 Pass holders with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) in the last 14 days before arriving in Singapore, must be <a href="#vaccinated">fully vaccinated</a> <b>before arrival</b>.
 
 <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all work pass holders and dependants arriving from Category I and II countries/regions, as well as CMP workers, helpers and confinement nannies from all countries/regions must be <a href="#vaccinated">fully vaccinated</a> before arrival. This is in addition to all pass holders from Category III and IV countries who were already required to be <a href="#vaccinated">fully vaccinated</a> since 10 Aug before arrival.  Please read the <a href="#vaccinated">vaccination requirements</a> carefully.</p>
