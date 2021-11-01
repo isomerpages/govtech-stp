@@ -278,6 +278,8 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 		<tr>
 <td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2">
 <ol style="margin-top: 0px; list-style-type: decimal;">
+		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
+</li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure </b>at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
@@ -293,10 +295,11 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">	Serve a 10-day <a href="/health/shn">SHN</a> at an SDF ($1,050 including GST)
 	</li>
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN. </li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
 		</ol>
 	</td> 
 		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
-	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> # </sup> before arrival.</b></li>
+	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup> before arrival.</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Is in English or accompanied with an English translation; </li>
