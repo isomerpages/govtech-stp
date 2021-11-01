@@ -64,27 +64,6 @@ To be considered for exemption , employers must <a href="https://www.mom.gov.sg/
   </tbody>
   </table>
 
-
-### Groups of pass holders who do not need to be vaccinated before entering Singapore
-
-<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
-  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who are below 18 years old on date of entry.
-    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. </p>
-  </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.
-      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">To be considered for exemption, employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.</p>
-  </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Construction, Marine shipyard or Process sector workers ("<a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP Workers</a>") who: 
-      <ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman;">
-      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Hold Work Permit, Training Work Permit or S Pass, or in-principle approval for any of these 3 passes; and</li>
-            <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:lower-roman; line-height:1.5;">Are entering Singapore without their dependants.</li>
-      </ol>
-  </li>
-    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;"><a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">Helpers and confinement nannies</a></li>
-  </ol><br/>
-	
-<p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;"><b>Note: </b>From 1 Nov 2021, all pass holders (including CMP workers, helpers and confinement nannies) with travel history in the last 14 days to all countries/regions before arriving in Singapore, must be fully vaccinated <b>before arrival</b>.</p>
-
 ### Penalties for non-compliance
 
 Submitters (i.e. party which submitted the entry applications) and their pass holders have a joint duty to fulfil the travel health control measures. Enforcement measures, including criminal proceedings, revocation of passes and suspension of work pass privileges, will be taken for non-compliance or false declaration.
