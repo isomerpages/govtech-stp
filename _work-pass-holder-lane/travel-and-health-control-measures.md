@@ -271,7 +271,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 	</tr>
 	<tr>
 <th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;" colspan="2"><b>Helpers/CNs</b></th>
-<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;" colspan="2"><b>All Other Work Pass Holders</b></th>
+<th style="font-size:16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8; border-left:1px solid #D8D8D8; text-align:center;" colspan="2"><b>All Other Pass Holders</b></th>
 </tr>
 </thead>
 	<tbody>
