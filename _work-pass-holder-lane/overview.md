@@ -119,9 +119,6 @@ We understand these measures are difficult for employers and their pass holders,
 					<li style="margin-top:0px; margin-bottom:0px; font-size:16px; line-height:1.5;">EntrePass holders (without Corppass) and their dependants</li></ol>
 			</td>
 		<td style="font-size:16px;border-right:1px solid #D8D8D8; vertical-align:middle;">WHP, PEP and EntrePass holders to apply: <a href="https://www.mom.gov.sg/covid-19/how-to-bring-pass-holders-into-singapore">MOM’s entry approval</a><br/><br/>
-Pass holders with travel history to <a href="/wphl/shn-and-swab-summary">Category III or IV countries/regions</a> in the last 14 days (excluding transits) before arriving in Singapore, must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> <b>before arrival</b>. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.<br/><br/>
-			The vaccination requirement <b>does not</b> apply to <a href="https://www.mom.gov.sg/newsroom/press-releases/2021/0806-resuming-entry-approvals-for-vaccinated-work-pass-holders-and-their-dependants#wphcmpmdw">CMP workers, helpers and confinement nannies</a> entering Singapore before 1 Nov 2021.<br/><br/>
-			<b>Note</b>: From 1 Nov 2021, all work pass holders and their dependants arriving from Category I and II countries/regions, as well as CMP workers, helpers and confinement nannies with travel history to all countries/regions must be <a href="/wphl/vaccination-requirements">fully  vaccinated</a> <b>before arrival</b>. This is in addition to all pass holders from Category III and IV countries who were already required to be fully vaccinated since 10 Aug 2021, before arrival. Please read the <a href="/wphl/vaccination-requirements">vaccination requirements</a> carefully.
 		</td>
 	</tr>
 				<tr>
