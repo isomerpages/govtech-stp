@@ -86,7 +86,7 @@ If an employee does not own an active Singapore-registered mobile phone number, 
 - Enlist the help of the SHN Dedicated Facility (SDF) operator to ensure that the correct prepaid SIM card is delivered to their employee(s), i.e. employee should receive the correct prepaid SIM card with the assigned mobile number to fulfil the entry approval application; and
 - Ensure that their employee upon receiving the prepaid SIM card, promptly register* the SIM card using his/her identification document(passport).
 
-Employment agencies that hire foreign domestic workers/confinement nannies (the "Employee") may also purchase company-registered prepaid SIM cards on behalf of the Employee. The employment agencies are responsible to ensure that the Employee upon receiving the SIM card, promptly register* the SIM card using his/her identification document(passport).
+Employment agencies that hire helpers/confinement nannies (the "Employee") may also purchase company-registered prepaid SIM cards on behalf of the Employee. The employment agencies are responsible to ensure that the Employee upon receiving the SIM card, promptly register* the SIM card using his/her identification document(passport).
 
 [<span>*</span><i>Note: Unregistered prepaid SIM cards cannot be used to facilitate calls.</i>]
 
