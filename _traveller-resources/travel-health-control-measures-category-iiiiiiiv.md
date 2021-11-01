@@ -12,7 +12,7 @@ This page provides a summary of the four categories of travel health control mea
 - Familial Ties Lane
 - Student’s Pass Holder Lane
 
-For details on the requirements of SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) to find a SafeTravel Lane that is to applicable you.
+For details on the requirements of SafeTravel Lanes not listed above, return to [this menu](/arriving/overview) to find a SafeTravel Lane that is applicable to you.
 
 <table style="background-color:#f5f5f5">
 <tbody>

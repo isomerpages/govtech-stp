@@ -272,7 +272,9 @@ For further assistance, please write to the Safe Travel Office using the enquiry
 
 #### 15. I was diagnosed with COVID-19 and have since recovered. I have also been vaccinated. Am I eligible to travel under the VTL?
 
-Please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) or call the SafeTravel Enquiries helpline at +65 6812 5555.
+If you have an EU Digital COVID Certificate (EU DCC) issued by any VTL country/region showing the final dose in the series (i.e. “1/1” or “2/2”), you will fulfill the vaccination requirement under the VTL. Short-term visitors and long-term pass holders may proceed to apply for a Vaccinated Travel Pass (VTP) <a href="https://go.gov.sg/vtl-portal" target="_blank">here</a> and upload the QR code found on their EU DCC of vaccination on the VTP application portal.
+
+For all other travellers, please write to the Safe Travel Office using the enquiry form [here](https://go.gov.sg/sto-enquiry) and provide your proof of vaccination and recovery certificate.
 
 #### 16. I was fully vaccinated in a non-VTL country/region and have since obtained a vaccination certificate issued by a VTL country/region / had my vaccination records ingested into Singapore’s National Immunisation Registry (NIR). Do I satisfy the vaccination requirement?
 
@@ -404,7 +406,7 @@ Please refer to the respective airlines’ websites below for details of the des
 			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">The Netherlands</td>
 </tr>
 	<tr>
-<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Korean Air</td>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.koreanair.com/sg/en/footer/customer-support/notice/2111-sinvtl-" target="_blank">Korean Air</a></td>
 			<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Republic of Korea</td>
 </tr>
 	<tr>
@@ -422,6 +424,10 @@ Please refer to the respective airlines’ websites below for details of the des
 		<tr>
 <td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/" target="_blank">Singapore Airlines</a></td>
 				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Australia, Brunei Darussalam, Canada, Denmark, France, Germany, Italy, Republic of Korea, Spain,  Switzerland, The Netherlands, The United Kingdom, The United States</td>
+</tr>
+			<tr>
+<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;"><a href="https://www.swiss.com/sg/en/ch-sg-vtl" target="_blank">SWISS</a></td>
+				<td style="font-size: 16px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-top:1px solid #D8D8D8; border-bottom:1px solid #D8D8D8; text-align: center;">Switzerland</td>
 </tr>
 </tbody>
 </table>
@@ -545,6 +551,13 @@ Travellers under the VTL do not need a return flight ticket to enter Singapore. 
 
 #### 11. Are travellers required to take designated VTL flights to depart from Singapore?
 No, the VTL is meant for travellers who intend to seek entry into Singapore. For travellers flying departing from Singapore, it will depend on the inbound requirements of the destination country/region. Currently, there are no requirements for designated VTL flights.
+
+#### 12. Can transfer/transit passengers travel on designated VTL flights?
+
+Transfer/transit passengers who are <a href="/health/vtsg" target="_blank">fully vaccinated</a> with WHO EUL vaccines may travel on designated VTL flights, regardless of where they were issued their vaccination certificate and regardless of their travel history, as long as they are able to show proof of vaccination.
+
+At this point in time, travellers will only be able to transfer through Singapore Changi Airport if they are travelling with an airline whose transfer routes have been approved by the Civil Aviation Authority of Singapore (CAAS). They are required to be through-checked to their onward destination, as they will not be allowed to clear arrival immigration. Travellers should confirm with their airline on their eligibility to transfer.
+
 
 ---
 
@@ -822,7 +835,7 @@ A VTP allows vaccinated travellers who are short-term visitors (including busine
 - The United Kingdom
 - The United States
 
-The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
+The VTP can only be used for travel on designated VTL flights. It comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
 
 Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
