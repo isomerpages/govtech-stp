@@ -45,7 +45,7 @@ For us to consider a refund of the entry charges for the previous application, p
   </thead>
 	 <tbody>
 	 <tr>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helpers &amp; Confinement nannies</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helpers &amp; confinement nannies</td>
       <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 5 days before the approved arrival date </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a></td>
     </tr>
@@ -53,7 +53,7 @@ For us to consider a refund of the entry charges for the previous application, p
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a></td>
     </tr>
 		 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other Pass holders who have been approved for entry via the WPHL</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other pass holders who have been approved for entry via the WPHL</td>
       <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 7 days before the approved arrival date  </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-entry-approval">here</a></td>
     </tr>
@@ -74,13 +74,13 @@ In general, all pre-payments made for the cost of the Stay-Home Notice Dedicated
 
 Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
 
-#### 5. I am an employer of a helper/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
+#### 5. I am an employer of a helper/confinement nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
 
 You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to ensure that the travel health control measures are fulfilled.
 
 #### 6. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
 
-No, employers/applicants are required to submit their Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
+No, employers/applicants are required to submit their Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the Infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
 
 If an employee does not own an active Singapore-registered mobile phone number, the employer (i.e. companies or employment agencies) may enquire with the relevant telcos on the purchase of company-registered prepaid SIM cards. Employers who have submitted the company-registered number on behalf of their employees in the Entry Approval Application, are responsible to:
 - Enlist the help of the SHN Dedicated Facility (SDF) operator to ensure that the correct prepaid SIM card is delivered to their employee(s), i.e. employee should receive the correct prepaid SIM card with the assigned mobile number to fulfil the entry approval application; and
