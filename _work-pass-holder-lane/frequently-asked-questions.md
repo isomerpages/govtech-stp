@@ -27,9 +27,9 @@ Applicants should note that all applications will only be processed after paymen
 
 #### 2. My employee plans to leave Singapore for a short personal trip. How should I advise them?
 
-Employers may highlight to their employees that the travel restrictions implemented worldwide to curb the spread of [COVID-19](/health/covid19-symptoms) could affect flight availability and their ability to return to Singapore for work promptly. They will also be subject to the prevailing health measures on return. Additionally, the Singapore Government no longer covers the relevant medical costs for all new and existing pass holders who develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore (press release [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers).
+Employers may highlight to their employees that the travel restrictions implemented worldwide to curb the spread of [COVID-19](/health/covid19-symptoms) could affect flight availability and their ability to return to Singapore for work promptly. They will also be subject to the prevailing health measures on return. Additionally, the Singapore Government no longer covers the relevant medical costs for all new and existing pass holders who develop COVID-19 symptoms or test positive within 14 days of arrival in Singapore (press release [here](https://www.moh.gov.sg/news-highlights/details/updates-to-stay-home-notice-and-charging-policy-for-travellers)).
 
-#### 3. My employee has been approved for entry into Singapore under the Work Pass Holder General Lane (WPHL) .However, he/she is unable to enter Singapore on the date specified in the application, or I no longer wish to bring them in. What should I do? 
+#### 3. My employee has been approved for entry into Singapore under the Work Pass Holder General Lane (WPHL). However, he/she is unable to enter Singapore on the date specified in the application, or I no longer wish to bring them in. What should I do? 
 
 To bring your employee into Singapore on another date, please submit a new entry application for him/her to enter Singapore on another date. 
 
@@ -45,7 +45,7 @@ For us to consider a refund of the entry charges for the previous application, p
   </thead>
 	 <tbody>
 	 <tr>
-      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helpers &amp; Confinement nannies</td>
+      <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">Helpers &amp; confinement nannies</td>
       <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 5 days before the approved arrival date </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry">For employers</a></td>
     </tr>
@@ -53,7 +53,7 @@ For us to consider a refund of the entry charges for the previous application, p
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-fdw-entry-ea">For employment agents</a></td>
     </tr>
 		 	 <tr>
-      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other Pass holders who have been approved for entry via the WPHL</td>
+      <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-left:2px solid #E0E0E0; border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">All other pass holders who have been approved for entry via the WPHL</td>
       <td rowspan="2" style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;">At least 7 days before the approved arrival date  </td>
       <td style="font-size:20px; margin-top:0px; margin-bottom:0px;border-right:2px solid #E0E0E0;border-bottom:2px solid #E0E0E0;"><a href="https://www.mom.gov.sg/cancel-entry-approval">here</a></td>
     </tr>
@@ -74,19 +74,19 @@ In general, all pre-payments made for the cost of the Stay-Home Notice Dedicated
 
 Please refer to the FAQ on recovered travellers [here](/health/faq#recovered).
 
-#### 5. I am an employer of a helper/Confinement Nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
+#### 5. I am an employer of a helper/confinement nanny who is due to enter Singapore. However, I need help to submit an entry application or to fulfil the travel health control measures (e.g. arranging for my helper's or nanny’s SHN accommodation and her pre-departure COVID-19 test) What should I do?
 
 You may wish to engage an employment agency to submit an application on your behalf. In this case, the employment agency will need to ensure that the travel health control measures are fulfilled.
 
 #### 6. I cannot submit an entry application as my employee does not have a Singapore-registered mobile phone number. As I urgently require manpower, can I submit my own mobile phone number instead?
 
-No, employers/applicants are required to submit their Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
+No, employers/applicants are required to submit their Singapore-registered mobile phone number used by an arriving employee. The contact number provided in the entry approval application would be used by the relevant authorities to conduct Stay-Home Notice (SHN) compliance checks. Employers should note that the Singapore government takes a strict view on SHN non-compliance, and will not hesitate to take immediate action aganist errant travellers. Depending on the facts of the case, this may include a fine/imprisonment term under the Infectious Diseases Act, and the revocation of workpasses. Employers should therefore ensure that their employees are contactable at all times when serving their SHN.
 
 If an employee does not own an active Singapore-registered mobile phone number, the employer (i.e. companies or employment agencies) may enquire with the relevant telcos on the purchase of company-registered prepaid SIM cards. Employers who have submitted the company-registered number on behalf of their employees in the Entry Approval Application, are responsible to:
 - Enlist the help of the SHN Dedicated Facility (SDF) operator to ensure that the correct prepaid SIM card is delivered to their employee(s), i.e. employee should receive the correct prepaid SIM card with the assigned mobile number to fulfil the entry approval application; and
 - Ensure that their employee upon receiving the prepaid SIM card, promptly register* the SIM card using his/her identification document(passport).
 
-Employment agencies that hire foreign domestic workers/confinement nannies (the "Employee") may also purchase company-registered prepaid SIM cards on behalf of the Employee. The employment agencies are responsible to ensure that the Employee upon receiving the SIM card, promptly register* the SIM card using his/her identification document(passport).
+Employment agencies that hire helpers/confinement nannies (the "Employee") may also purchase company-registered prepaid SIM cards on behalf of the Employee. The employment agencies are responsible to ensure that the Employee upon receiving the SIM card, promptly register* the SIM card using his/her identification document(passport).
 
 [<span>*</span><i>Note: Unregistered prepaid SIM cards cannot be used to facilitate calls.</i>]
 
@@ -96,7 +96,7 @@ Employment agencies that hire foreign domestic workers/confinement nannies (the 
 
 ### MOM-issued Passes: Applications, Extensions and Levies
 
-#### 1. The Visit Pass issued to my Confinement Nanny is expiring before the end of her work assignment. Do I need to extend her Visit Pass?
+#### 1. My confinement nanny's Visit Pass expires before the end of her work assignment. Do I need to extend her Visit Pass?
 
 You need to request for an extension of her stay if:
 - The duration of her visit pass does not cover her employment period. If she is transferring to another employer in Singapore, you can make the request for her, or she can engage an employment agency to do so. 
@@ -142,17 +142,15 @@ You would be required to pay for the COVID-19 test and other entry charges durin
 
 For the on-arrival COVID-19 test, employers will need to book and pay for them. 
 
-#### 3. Is my employee required to take a Serology test in Singapore? How so I arrange for the test and am I also required to pay for this?
+#### 3. Is my employee required to take a Serology test in Singapore? How do I arrange for the test and am I also required to pay for this?
 
-The following groups of workers with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days (excluding transits) before their arrival, are required to take a Serology test in Singapore.
+All pass holders who were vaccinated overseas must take a serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within:
+- 14 days of arrival; or
+- 14 days of completing self-isolation  or Stay-Home Notice (SHN)
 
-- Confinement nannies
-- Helpers
-- Work Permit and S Pass holders from the Construction, Marine shipyard and Process (CMP) sectors
+Please call the clinic to check if they offer serology tests.
 
-Employers do not need to arrange for the serology test appointment as this would be scheduled automatically by the relevant Government agency. There is no need for the employee to pay for the serology test upon arrival as the cost of the test would have been included when payment was made by their employer during entry application. Employers can check the details of the Serology test for their employee through: 
-- [Safe@Work Portal](https://mom.gov.sg/eservices/services/safe-work) for Work Permit and S Pass holders from the CMP sectors
-- [Email MOM](mailto:ace_mom@mom.gov.sg) for confinement nannies and helpers 
+If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.
 
 #### 4. My employee claims to be unwell while serving their Stay-Home Notice (SHN). What should I do?
 
@@ -249,20 +247,36 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. Who will the vaccination entry requirement apply to?
 
-From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval. 
+All pass holders entering under WPHL, regardless of travel history, must be <a href="#vaccinated">fully vaccinated</a> before arrival except for the following groups:
 
-<b>Note:</b> From 1 Nov 2021, all pass holders and their dependants from Category I or II countries/region, as well as CMP workers, helpers and confinement nannies from all countries/regions must be fully vaccinated 14 days before they  arrive in Singapore.
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who are below 18 years old on date of entry.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. </p>
+  </li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
+	</ol>
+	
+To be considered for exemption , employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.
 
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
 
-Eligible work pass holders and their dependants must complete the full course of vaccination with vaccines approved under the [Health Sciences Authority’s Pandemic Special Access Route (PSAR)](https://www.hsa.gov.sg/hsa-psar) or the [World Health Organization’s Emergency Use Listing (WHO-EUL)](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) at least 14 days before they arrive in Singapore. 
+To be considered fully vaccinated, pass holders must: 
 
-Work pass holders will need to show proof of vaccination. If the vaccination certificate is not in English, it should be translated to English and notarised. 
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received the full regimen of <a href="https://extranet.who.int/pqweb/vaccines/covid-19-vaccines">WHO EUL vaccines</a> (refer to <b>"COVID-19 Vaccine EUL issued"</b> section) <b>at least 14 days before arriving in Singapore</b>. Vaccines requiring 2 doses must be completed either using the <a href="/health/vtsg">same or different brands</a> and taken based on the recommended intervals between each dose.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is <b>15 Sep</b>.</p>
+  </li>
+  <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Have received 1 dose of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> if they had earlier recovered from COVID-19. This vaccination must be done at least 3 months from the date of COVID-19 diagnosis.</li>
+      <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Be able to <a href="#document">produce documents to prove their vaccination status</a> before boarding the flight, and upon arrival in Singapore. Otherwise, they will be denied entry. </li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">(Only applicable to those who were vaccinated overseas) Take a serology test at a <a href="https://www.phpc.gov.sg">Public Health Preparedness Clinic</a>  to confirm their vaccination status within 14 days of completing self-isolation or Stay-Home Notice (SHN).  Please call the clinic to check if they offer serology tests.
+      <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">If their serology test results are positive, their vaccination records will be updated in the National Immunisation Registry. Otherwise, they will have to take 2 doses of a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> in Singapore within 2 months of the negative serology test result.</p>
+  </li>
+  </ol>
+	
+#### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. Do I need to submit an entry application to bring him into Singapore?
 
-#### 3. My Construction/Marine Shipyard/Process (CMP) Work Permit/S Pass holder has been fully vaccinated. When can I submit an entry application to bring him into Singapore?
-
-From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated S Pass and Work Permit holders from CMP sectors entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and pass holders may have to wait about three to six months before they can enter Singapore. 
+Yes, employers must submit entry approval applications for fully vaccinated S Pass and Work Permit holders from CMP sectors entering Singapore, regardless of travel history. Entry approval slots will be limited, and pass holders may have to wait about three to six months before they can enter Singapore. 
 
 #### 4. I am medically ineligible for vaccination. How can I appeal to be exempted from the vaccination condition for entry?  
 You may appeal for an [exemption from the vaccination condition for entry](https://form.gov.sg/#!/610b4fe79eba440012bddce5), supported by a doctor’s memo. You will need to obtain the exemption before applying for entry approval. 
@@ -275,19 +289,19 @@ Companies can cancel entry approvals for pass holders using this [online form](h
 
 Work Holiday Pass, or PEP (without employers) and EntrePass holders without a Corppass can cancel entry approvals for themselves and their dependants using this [online form](http://www.mom.gov.sg/cancel-entry-individual).
 
-#### 6. My helper/confinement nanny is fully vaccinated. When can I submit an entry application to bring her into Singapore?
+#### 6. My helper/confinement nanny is fully vaccinated. Do I need to submit an entry application to bring her into Singapore?
 
-From 15 Oct 2021, we will be accepting entry approval applications for fully vaccinated helpers/confinement nannies entering Singapore from [Category III or IV countries/regions](/wphl/shn-and-swab-summary) . Entry approval slots will be limited, and helpers/nannies may have to wait about three to six months before they can enter Singapore. 
+Yes, employers must submit entry approval applications for fully vaccinated helpers/confinement nannies entering Singapore, regardless of travel history. Entry approval slots will be limited, and helpers/nannies may have to wait about three to six months before they can enter Singapore. 
 
 #### 7. My pass holder is fully vaccinated, but not with a vaccine on the PSAR or WHO EUL list. Can I submit an entry application for him/her?
 
-Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. Vaccines requiring 2 doses can be completed either using the [same or different brands](/health/vtsg) and taken based on the recommended intervals between each dose.
+Pass holders who are vaccinated with the full regimen of [Pandemic Special Access Route (PSAR)-approved](https://www.hsa.gov.sg/hsa-psar) or [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) will be prioritised for entry. Vaccines requiring 2 doses can be completed either using the [same or different brands](/health/vtsg) and must be taken based on the recommended intervals between each dose.
 
 Pass holders who took other types of vaccines will not meet the entry requirements. Thus, please **do not** submit entry applications for them.
 
 #### 8. My pass holder is unvaccinated but has recovered from a previous COVID-19 infection. Does he/she still need to be fully vaccinated before arriving in Singapore?
 
-Yes, all pass holders with travel history to <a href="https://go.gov.sg/responsibilities-submitters-pass-holders">Category III or IV countries/regions</a> in the last 14 days before arriving in Singapore must be [fully vaccinated](/wphl/vaccination-requirements) before arrival. 
+Yes, all pass holders who have recovered from COVID-19 are still subject to the [vaccination requirements](/wphl/vaccination-requirements). 
 
 #### 9. My pass holder is fully vaccinated against COVID-19 and tested negative for COVID-19 in the pre-departure PCR test. Can he/she be exempted from Stay-Home Notice (SHN)?
 
@@ -313,7 +327,7 @@ Please produce the memo when requested by the authorities.
 
 No, the pass holder cannot enter Singapore yet. 
 
-Pass holders must receive the full regimen of [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses can be completed either using the [same or different brand](/health/vtsg) and taken based on recommended intervals between each dose. 
+Pass holders must receive the full regimen of [WHO EUL vaccines](https://extranet.who.int/pqweb/vaccines/covid-19-vaccines) (refer to **“COVID-19 Vaccine EUL issued”** section) **at least 14 days before arriving in Singapore**.  Vaccines requiring 2 doses can be completed either using the [same or different brand](/health/vtsg) and must be taken based on recommended intervals between each dose. 
 
 Example: If the pass holder received the full vaccine regimen on 1 Sep, the earliest he/she can enter Singapore is **15 Sep**.
 
