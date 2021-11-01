@@ -26,7 +26,7 @@ For all other pass holders (work pass holders and their dependants), this page e
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
 										<b>③</b>All pass holders are not allowed to serve SHN or self-isolation in dormitories.<br/><br/>Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
 										<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>④</b>All pass holders entering under WPHL, regardless of travel history, must be fully vaccinated before arrival except for the following groups:<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
+										<b>④</b>All pass holders entering under WPHL, regardless of travel history, must be <a href="/wphl/vaccination-requirements#vaccinated">fully vaccinated</a> before arrival except for the following groups:<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:disc;"> Pass holders who are below 18 years old on date of entry</li>
 												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">Pass holders who cannot be vaccinated due to medical conditions</li>
 					</ol></p>
