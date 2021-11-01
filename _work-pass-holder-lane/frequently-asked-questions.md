@@ -247,9 +247,16 @@ You may click [here](https://www.mom.gov.sg/covid-19/frequently-asked-questions/
 
 #### 1. Who will the vaccination entry requirement apply to?
 
-From 10 August 2021, work pass holders and their dependants (aged 18 and above) with travel history to [Category III or IV countries/regions](/wphl/shn-and-swab-summary) and are fully vaccinated 14 days before they arrive in Singapore can apply for entry approval. 
+All pass holders entering under WPHL, regardless of travel history, must be <a href="#vaccinated">fully vaccinated</a> before arrival except for the following groups:
 
-<b>Note:</b> From 1 Nov 2021, all pass holders and their dependants from Category I or II countries/region, as well as CMP workers, helpers and confinement nannies from all countries/regions must be fully vaccinated 14 days before they  arrive in Singapore.
+<ol style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc;">
+  <li style="margin-top:0px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who are below 18 years old on date of entry.
+    <p style="margin-top:15px; margin-bottom:0px; font-size:20px; line-height:1.5;">Unvaccinated pass holders who are 12 years old to below 18 years old on date of entry will need to get their first vaccination in Singapore using a <a href="https://www.hsa.gov.sg/hsa-psar">PSAR-approved vaccine</a> within 1 month of arrival. They must complete the full vaccination regime within 2 months of arrival. </p>
+  </li>
+    <li style="margin-top:15px; margin-bottom:0px; font-size:20px; list-style-type:disc; line-height:1.5;">Pass holders who cannot be vaccinated due to medical conditions.</li>
+	</ol>
+	
+To be considered for exemption , employers must <a href="https://www.mom.gov.sg/exempt-vaccination">submit a request</a> for their pass holders and upload a doctor's memo. If the request is approved, employers can then proceed with the <a href="https://go.gov.sg/wphl-requirements">entry application</a>.
 
 
 #### 2. What are the COVID-19 vaccines that meet the vaccination entry requirement?
