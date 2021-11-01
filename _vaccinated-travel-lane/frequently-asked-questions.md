@@ -835,7 +835,7 @@ A VTP allows vaccinated travellers who are short-term visitors (including busine
 - The United Kingdom
 - The United States
 
-The VTP comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
+The VTP can only be used for travel on designated VTL flights. It comes with <a href="/vtl/conditions">conditions</a> of travel under the VTL that the applicant must comply with.
 
 Singapore Citizens and Permanent Residents do not need to apply for a VTP to travel to Singapore under the VTL, as they can return to Singapore without the need for entry approval. Please click <a href="/vtl/requirements-and-process">here</a> for more information on the requirements.
 
