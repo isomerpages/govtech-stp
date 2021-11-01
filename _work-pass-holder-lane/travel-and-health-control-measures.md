@@ -18,11 +18,18 @@ For all other pass holders (work pass holders and their dependants), this page e
 					<b> ➀</b> If the pass holder has visited multiple countries in the past 14 days before arriving in Singapore, note that:
 					<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">
 						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;"> The most stringent category out of all the countries/regions the pass holder has visited (excluding transit) will apply. For example, a traveller who had travel history to both Category (I) and (II) countries/regions before departure, but transited in a Category (IV) country/region on the way to Singapore, will be subject to Category (II) measures; and</li>
-												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction test is not required if the pass holder remained in a Category (I) country for at least 14 consecutive days before departure.</li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:lower-alpha;">	A pre-departure COVID-19 Polymerase Chain Reaction (PCR) test is not required if the pass holder remained in a Category (I) country for at least 14 consecutive days before departure.</li>
 					</ol>
 					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
-										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 Polymerase Chain Reaction Test and Antigen Rapid Test.
+										<b>➁</b> Pass holders aged 3 years old and above in the current calendar year (i.e. born in 2018 or before) are required to take the COVID-19 PCR Test and Antigen Rapid Test.
 										</p>
+					<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+										<b>③</b>All pass holders are not allowed to serve SHN or self-isolation in dormitories.<br/><br/>Submitter may refer to this <a href="https://sha.org.sg/stay-home-notice">list</a> (non-exhaustive) to book a hotel or serviced apartment for the pass holder. Please check if they can accommodate guests on SHN or self-isolation.</p>
+										<p style="margin-top:10px; margin-bottom:0px; font-size:18px; line-height:1.5;">
+										<b>④</b>All pass holders entering under WPHL, regardless of travel history, must be fully vaccinated before arrival except for the following groups:<ol style="padding-left:20px; font-size:18px; margin-top:0px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">
+						<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:disc;"> Pass holders who are below 18 years old on date of entry</li>
+												<li style="font-size:18px; margin-top:10px; margin-bottom:0px; line-height:1.5; list-style-type:disc;">Pass holders who cannot be vaccinated due to medical conditions</li>
+					</ol></p>
 			</td>
     </tr>
 	</tbody>
