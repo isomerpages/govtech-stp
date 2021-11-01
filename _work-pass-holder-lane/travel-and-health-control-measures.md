@@ -276,7 +276,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 </thead>
 	<tbody>
 		<tr>
-<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2">
+<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="2">
 <ol style="margin-top: 0px; list-style-type: decimal;">
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a> <sup>④</sup> before arrival</b>.
 </li>
@@ -298,7 +298,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for helpers and CNs who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg">Public Health Preparedness Clinic</a> to confirm their vaccination status within 14 days of completing self-isolation. Please call the clinic to check if they offer serology tests.</li>
 		</ol>
 	</td> 
-		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
+		<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-style-type: decimal;">
 	<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Must be <b><a href="/wphl/vaccination-requirements">fully vaccinated</a><sup> ④ </sup> before arrival.</b></li>
 <li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test <b>within 48 hours before departure</b> at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised lab/clinic/medical facility</a> and obtain a copy of the COVID-19 PCR test report that:
 	<ol style="margin-top: 0px; list-style-type: disc;">
@@ -316,18 +316,7 @@ border-bottom: 3px solid #D8D8D8;" colspan="2"><ol style="margin-top: 0px; list-
 		<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;">Take a COVID-19 PCR test ($125 including GST) on Day 10 of SHN.</li>
 			<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><b>[Only for pass holders who were vaccinated overseas]</b> Take serology test at a <a href="https://phpc.gov.sg/">Public Health Preparedness Clinic</a> to confirm their vaccination status <sup> #</sup> within 14 days of completing SHN. Please call the clinic to check if they offer serology tests.</li>
 		</ol>
-
 </td> 
 	</tr>
-		<tr>
-					<td style="font-size: 16px; border-top: 3px solid #D8D8D8; border-left: 3px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom: 3px solid #D8D8D8;" colspan="4">
-<p style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"><i><sup>#</sup> The following groups of pass holders <b>do not</b> need to be vaccinated before entering Singapore. Click <a href="/wphl/vaccination-requirements">here</a> for more details.</i></p>
-						<ol style="margin-top: 0px; list-style-type: disc;">
-							<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who are below 18 years old on date of entry</i></li>
-														<li style="font-size: 16px; margin-top:10px; margin-bottom:0px; line-height:1.5;"> <i>Pass holders who cannot be vaccinated due to medical conditions
-</i></li></ol>
-<i><u>Note</u>: From 1 Nov 2021, all pass holders from these countries/regions must be <a href="/wphl/vaccination-requirements">fully vaccinated</a> before arrival. For more details, please refer to the <a href="/wphl/vaccination-requirements">vaccination requirements</a>. </i>
-			</td>
-		</tr>
 	</tbody>
 		</table><br>
