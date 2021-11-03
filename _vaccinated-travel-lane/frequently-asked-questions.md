@@ -286,7 +286,7 @@ For all such travellers, please refer to <a href="/vtl/faq#Q6">Question 6</a> fo
 
 #### 17. I am fully vaccinated. How may I benefit from Vaccination-Differentiated Safe Management Measures (VDS) (e.g. dine-in at F&B establishments, enter shopping malls, etc.)?
 
-As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore (e.g. dining in at F&B establishments, entering shopping malls, attending certain events etc.). To be eligible, please be reminded to present your vaccination certificates at the immigration counter for verification and processing. Your status will be updated on your TraceTogether app. Your TraceTogether app may take up to <span style="color:red;">1 day</span> to be updated. Please find more information on <a href="/health/vtsg" target="_blank">VDS here</a>. 
+As part of Singapore’s <a href="https://www.moh.gov.sg/covid-19-phase-advisory" target="_blank">Vaccination-Differentiated Safe Management Measures (VDS)</a>, you must be vaccinated to participate in certain activities in Singapore (e.g. dining in at F&B establishments, entering shopping malls, attending certain events etc.). To be eligible, please be reminded to present your vaccination certificates at the immigration counter for verification and processing. Your status will be updated on your TraceTogether app. Your TraceTogether app may take up to 1 day to be updated. Please find more information on <a href="/health/vtsg" target="_blank">VDS here</a>. 
 
 
 ---
