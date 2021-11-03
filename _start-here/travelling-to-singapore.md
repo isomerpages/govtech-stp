@@ -214,7 +214,7 @@ To expedite the assessment process, travellers who are requesting for emergency 
 
 Our officers will facilitate arrangements for the travellers to make short and safe visits to the medical facility and/or funeral, subject to the prevailing health policies governing such visits.
 
-Click [here](/dcev/overview) for more information on the Death and Critical Illness Emergency Visits Lane.
+<a href="/dcev/overview" target="_blank">Click here for more information on the Death and Critical Illness Emergency Visits Lane.</a>
 
 ---
 
