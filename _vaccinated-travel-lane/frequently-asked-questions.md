@@ -350,7 +350,7 @@ may still travel to Singapore on a non-designated flight. They will be subject t
 
 All travellers, except those aged 2 and below in the calendar year (i.e. in the year 2021, those who are born in or after 2019), must undergo a COVID-19 polymerase chain reaction (PCR) test within 48 hours before departure for Singapore.
 
-For example, if the visitor’s scheduled time of departure for Singapore is 15 September 2021, 1030 hours, the test must be taken no earlier than 13 September 2021, 1030 hours.
+For example, if the visitor departs for Singapore on 15 September 2021, the test must be taken no earlier than 13 September 2021.
 
 The pre-departure COVID-19 PCR test must be taken at an <a href="https://www.moh.gov.sg/covid-19/accreditation-bodies-for-covid-19-testing">internationally accredited or recognised laboratory, clinic, or medical facility</a>. The test result certificate must be in English and state the following:
 
