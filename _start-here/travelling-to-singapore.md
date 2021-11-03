@@ -111,10 +111,12 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 	</tr>
 			<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/wphl/overview">Work Pass Holder General Lane</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-					 <li style="font-size: 18px;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
-					 <li style="font-size: 18px;">Confinement Nannies</li>
-					 <li style="font-size: 18px;">Helpers</li>
+		   <td style="font-size:18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
+				 <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> who are: 
+				 <ul style="font-size: 18px; list-style-type: disc;"> 
+					 <li style="font-size: 18px; line-height:1.5;">MOM-issued Pass holders, including a Dependant’s Pass, Letter of Consent (except those holding an ICA-issued Long-Term Visit Pass) and In-Principle Approval Holders </li>
+					 <li style="font-size: 18px;  line-height:1.5;">Confinement Nannies</li>
+					 <li style="font-size: 18px;  line-height:1.5;">Helpers</li>
 				 </ul>
 				</td>
 	</tr>
@@ -137,7 +139,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <div id="st-business"></div>
 
-### 3) Short-Term Business Visits
+### c. Short-Term Visitors
 
 Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
 
