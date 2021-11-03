@@ -45,7 +45,6 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 	<li style="line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
 		<li style="line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
 	</ol>
-
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
 <i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
