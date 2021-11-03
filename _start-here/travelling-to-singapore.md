@@ -11,7 +11,7 @@ Travellers seeking to enter Singapore will do so via a Safe Travel Lane arrangem
 
 ### 1) Self-Help Tool for Safe Travel Lanes and Entry Requirements
 
-This self-help tool will help travellers identify the most appropriate Safe Travel Lane(s) to use for entry into Singapore.Travellers should input the most relevant pass-type and vaccination-related information. Travellers who are vaccinated outside Singapore, but are unsure if they meet Singapore’s definition of “fully vaccinated” should refer to this list of vaccination conditions before selecting their vaccination status.
+This self-help tool will help travellers identify the most appropriate Safe Travel Lane(s) to use for entry into Singapore.Travellers should input the most relevant pass-type and vaccination-related information. Travellers who are vaccinated outside Singapore, but are unsure if they meet Singapore’s definition of “fully vaccinated” should refer to this <a href="/health/vtsg" target="_blank">list of vaccination conditions</a> before selecting their vaccination status.
 
 The relevant health control requirements (e.g. Stay Home Notice, COVID-19 tests) will vary according to the specific lane used. This tool will only output the most relevant lanes to use based on the traveller’s profile, and travellers can click on the relevant lane to find out about the specific health requirements under that lane. If the tool below does not work in your browser, try opening it in a <a href="https://www.checkfirst.gov.sg/c/747b8567-273f-4193-a46e-fa1d06f47c16" target="_blank">separate window</a>, or refer to the list of <a href="https://safetravel.ica.gov.sg/arriving/overview#lanelist">SafeTravel Lanes</a>. 
 
