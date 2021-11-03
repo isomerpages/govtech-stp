@@ -257,8 +257,9 @@ At this point in time, non-digitally verifiable vaccination certificates (i.e. t
 
 #### 14. Why was/were my vaccination QR code(s) not accepted in my VTP application?
 
-Vaccination QR code(s) may be invalid for reasons such as:
+You may encounter errors upon uploading your vaccination QR code(s) for reasons such as:
 
+- QR code is not cropped from the vaccination certificate document when uploaded
 - QR code is not in an acceptable format and by specific issuers
 - Traveller’s particulars do not match with the particulars in the vaccination certificate – please contact your healthcare provider or certificate issuer to get your certificate re-issued with your full name as it appears on your travel documentation. (if you have an NHS COVID Pass, please see [Question 13](#numberofcodes) for more details)
 - Traveller is not [fully vaccinated](/health/vtsg) yet
