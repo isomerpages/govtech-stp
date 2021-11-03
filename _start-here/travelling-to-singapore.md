@@ -105,7 +105,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 					 <li style="font-size: 18px; line-height:1.5;">Student’s Pass (STP) and STP In-Principle Approval Holders (STP-IPA) </li>
 					 <li style="font-size: 18px; line-height:1.5;">Eligible accompanying guardian or family of the STP and STP-IPA holder who is travelling on the same date <sup style="color:red;">[Note]</sup></li>
 				 </ul>
-				 <p style="font-size:16px; color:red; margin-bottom:0px;"><b>Note(s):</b></p>
+				 <p style="font-size:16px; color:red; margin-bottom:0px; margin-top:0px;"><b>Note(s):</b></p>
 <p style="font-size:16px; line-height:1.5;">STP and STP-IPA holders whose family members hold an MOM-issued pass should apply for entry via the Work Pass Holder General Lane. STP holders who are related to a Singapore Citizen or Permanent Resident should apply for entry via the Familial Ties Lane. 
 </p>
 				</td>
