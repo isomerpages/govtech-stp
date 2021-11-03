@@ -74,17 +74,17 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 	<tbody>
 		<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
-			   <ul style="font-size: 18px; list-style-type: disc;">
+		   <td style=" font-size: 17px;border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
+			   <ul style="font-size: 17px; list-style-type: disc;">
 				<li style="line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
 	<li style="line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
 		<li style="line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
 				 </ul>
-<sup>1</sup><i style="font-size:13px;">Includes the Faroe Island and Greenland</i>
-<sup>2</sup><i style="font-size:13px;">Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i>
-<sup>3</sup><i style="font-size:13px;">Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i>
-<sup>4</sup><i style="font-size:13px;">Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i>
-<sup>5</sup><i style="font-size:13px;">Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+<i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
+<i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>4</sup><i style="font-size:13px;">Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>5</sup><i style="font-size:13px;">Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
 				</td>
 	</tr>
 	<tr>
