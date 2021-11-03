@@ -137,11 +137,11 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
-<div id="st-business"></div>
+<div id="social"></div>
 
 ### c. Short-Term Visitors
 
-Travellers who need to only make a short-term business trip to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
+Travellers who need to only make a short-term visits to Singapore may use the lanes below. Only travellers with travel history to the listed countries/regions before arriving in Singapore may use the respective lanes.
 
 <table>
 	<thead>
@@ -151,6 +151,21 @@ Travellers who need to only make a short-term business trip to Singapore may use
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
+		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
+			   <ul style="font-size: 17px; list-style-type: disc;">
+				<li style="font-size: 17px; line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
+	<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
+		<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
+				 </ul>
+<i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
+<i style="font-size:14px; line-height:1.5;"><sup>3</sup>Includes Aruba, Curacao, Sint Maarten, and all special municipalities</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>4</sup>Includes the Crown Dependencies (Guernsey, Isle of Man, and Jersey), and all British Overseas Territories</i><br>
+<i style="font-size:14px; line-height:1.5;"><sup>5</sup>Includes the US territories of American Samoa, Northern Marina Islands, Guam, Puerto Rico, and US Virgin Islands</i>
+				</td>
+	</tr>
 	<tr>
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/atp/requirements-and-process">Air Travel Pass</a><br><br><i>(No controlled itinerary within Singapore)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;">
@@ -172,32 +187,6 @@ Travellers who need to only make a short-term business trip to Singapore may use
 				 </ul>
 				</td>
 	</tr>
-			<!--<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/connectsg/overview">Connect@Singapore</a><br><br>(Temporarily suspended; Click  the above link for more details)</td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-			<li style="font-size: 18px;">All countries/regions <u>except</u> Bangladesh, India, Nepal, Sri Lanka and Pakistan. </li>
-				 </ul>
-				</td>
-	</tr>-->
-					<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a><br><br>(For fully vaccinated travellers and accompanied unvaccinated children below 12 years old)</td>
-		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
-			<li style="font-size: 18px;">Australia (for entry into Singapore from 8 Nov 2021)</li>
-			   <li style="font-size: 18px;">Brunei</li>
-				 			<li style="font-size: 18px;">Germany </li>
-				 <li style="font-size: 18px;">Canada</li>
-				 <li style="font-size: 18px;">Denmark </li>
-				 <li style="font-size: 18px;">France </li>
-				 <li style="font-size: 18px;">Italy</li>
-				 <li style="font-size: 18px;">Netherlands</li>
-				 <li style="font-size: 18px;">Spain</li>
-			   <li style="font-size: 18px;">Switzerland (for entry into Singapore from 8 Nov 2021)</li>
-				 <li style="font-size: 18px;">United Kingdom</li>
-				 				 <li style="font-size: 18px;">United States  </li>
-			   <li style="font-size: 18px;">South Korea (VTP applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)  </li>
-				 </ul>
-				</td>
-	</tr>
 	</tbody>
 	</table>
 	
@@ -207,41 +196,9 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 ---
 
-<div id="social"></div>
-
-### 4) Short Term Social Visits/Tourists
-
-Short term visitors from the following countries/regions may apply to enter Singapore for any purpose of visit.
-<ul style="list-style-type: disc;">
-	<li><a href="/vtl/requirements-and-process">Australia </a> (for entry into Singapore from 8 Nov 2021)</li>
-		<li><a href="/vtl/requirements-and-process">Brunei</a></li>
-			<li><a href="/vtl/requirements-and-process">Germany</a></li>
-	<li><a href="/atp/requirements-and-process">Hong Kong</a></li>
-	<li><a href="/atp/requirements-and-process">Macao</a></li>
-	<li><a href="/atp/requirements-and-process">Mainland China</a></li>
-	<!--<li><a href="/atp/requirements-and-process">New Zealand</a></li>-->
-	<li><a href="/atp/requirements-and-process">Taiwan</a></li>
-					 <li><a href="/vtl/requirements-and-process">Canada</a>  </li>
-				 <li><a href="/vtl/requirements-and-process">Denmark</a>  </li>
-				 <li><a href="/vtl/requirements-and-process">France</a> </li>
-				 <li><a href="/vtl/requirements-and-process">Italy</a> </li>
-				 <li><a href="/vtl/requirements-and-process">Netherlands</a>  </li>
-				 <li><a href="/vtl/requirements-and-process">Spain</a>  </li>
-	<li><a href="/vtl/requirements-and-process">Switzerland</a> (for entry into Singapore from 8 Nov 2021)</li>
-				 <li><a href="/vtl/requirements-and-process">United Kingdom</a> </li>
-				 <li><a href="/vtl/requirements-and-process">United States</a>   </li>
-	<li><a href="/vtl/requirements-and-process">South Korea</a> (VTP applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)  </li>
-</ul>
-
----
-
-Click here to return to the <a href="#lanelist">top</a>.
-
----
-
 <div id="DCEV"></div>
 
-### 5) Death and Critical Illness Emergency Visits
+### d. Death and Critical Illness Emergency Visits
 
 Travellers from <u>all countries/regions</u> may enter Singapore on a short-term basis to attend to a family crisis (e.g. death or critical illness of family member in Singapore) under the Death and Critical Illness Emergency Visits Lane. Only a maximum of <u>two visitors per case</u> is allowed. 
 
@@ -267,7 +224,7 @@ Click here to return to the <a href="#lanelist">top</a>.
 
 <div id="crew"></div>
 
-### 6) Air/Sea Crew and Pleasure Craft Owners
+### 3) Air/Sea Crew and Pleasure Craft Owners
 
 <b><u>Air Crew</u></b>
 
@@ -282,7 +239,6 @@ Applications for the following matters can be made via <a href="https://www.ica.
 - Crew sign-on or sign-off
 - Transfer of crew from one vessel to another
 - Extension of stay of crew
-
 
 ---
 
