@@ -36,9 +36,9 @@ The relevant health control requirements (e.g. Stay Home Notice, COVID-19 tests)
 
 ### a. Returning Singapore Citizens and Permanent Residents
 
-Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. However, prevailing travel health measures will apply depending on their travel history before arrival in Singapore. <a href="/sc-pr/overview">Click here for information on requirements for the Returning SC/PR Lane.</a>
+Singapore Citizens (SC) and Permanent Residents (PR) can return to Singapore from any overseas country without an entry approval. However, prevailing travel health measures will apply depending on their travel history before arrival in Singapore. <a href="/sc-pr/overview" target="_blank">Click here for information on requirements for the Returning SC/PR Lane.</a>
 
-Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process">Click here for more information on the Vaccinated Travel Lane</a>.
+Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 years old returning to Singapore from the countries/regions listed below may return via the Vaccinated Travel Lane to enjoy quarantine-free measures on arrival. <a href="/vtl/requirements-and-process" target="_blank">Click here for more information on the Vaccinated Travel Lane</a>.
 
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
