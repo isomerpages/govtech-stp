@@ -76,9 +76,9 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/vtl/requirements-and-process">Vaccinated Travel Lane</a></td>
 		   <td style=" font-size: 18px; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"> <a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> and any accompanying unvaccinated children below 12 years old, and are departing from the following countries:
 			   <ul style="font-size: 17px; list-style-type: disc;">
-				<li style="line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
-	<li style="line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
-		<li style="line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
+				<li style=" font-size: 17px; line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
+	<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
+		<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
