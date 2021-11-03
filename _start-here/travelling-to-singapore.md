@@ -94,8 +94,9 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 					 <li style="font-size: 18px;">Are on an ICA-issued Long-Term Visit Pass</li>
 					 <li style="font-size: 18px;">Travellers whose immediate family member is an SC/PR based in Singapore</li>
 					 <li style="font-size: 18px;">Adopted child of an SC/PR</li>
-					 <li style="font-size: 18px;">Fiance/fiancée of an SC/PR</li>
+					 <li style="font-size: 18px;">Fiancé/fiancée of an SC/PR</li>
 				 </ul>
+				 <p style="margin-top:10px; margin-bottom:10px; line-height:1.5;"><a href="/health/vtsg" target="_blank">Fully vaccinated travellers</a> will be given priority to enter under this lane.</p>
 		</td>
 	</tr>
 			<tr>
