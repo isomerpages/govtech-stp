@@ -43,7 +43,7 @@ Fully vaccinated SC/PRs and any accompanying unvaccinated child(ren) below 12 ye
 <ol style="list-style-type:disc;">
 	<li style="line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
 	<li style="line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
-		<li style="line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
+		<li style="line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
 	</ol>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -77,7 +77,7 @@ Long Term Pass Holders and the immediate relatives of Singapore Citizens/PRs mus
 			   <ul style="font-size: 17px; list-style-type: disc;">
 				<li style="font-size: 17px; line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
 	<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
-		<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
+		<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -157,7 +157,7 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 			   <ul style="font-size: 17px; list-style-type: disc;">
 				<li style="font-size: 17px; line-height:1.5;">Brunei Darussalam, Canada, Denmark,<sup>1</sup> Germany, France,<sup>2</sup> Italy, the Netherlands,<sup>3</sup> Spain, the United Kingdom,<sup>4</sup> and the United States<sup>5</sup></li>
 	<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">Australia, Switzerland (for entry into Singapore from 8 Nov 2021)</li>
-		<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">South Korea (for entry into Singapore from 15 Nov 2021)</li>
+		<li style=" font-size: 17px; line-height:1.5; margin-top:10px;">South Korea (applications open on 8 Nov 2021, 1000hrs, for entry into Singapore from 15 Nov 2021)</li>
 				 </ul>
 <i style="font-size:14px; line-height:1.5;"><sup>1</sup>Includes the Faroe Island and Greenland</i><br>
 <i style="font-size:14px; line-height:1.5;"><sup>2</sup>Includes all overseas departments and regions (DROM), overseas collectivities (COM), overseas territories (TOM) and New Caledonia</i> <br>
@@ -180,7 +180,7 @@ Travellers who need to only make a short-term visits to Singapore may use the la
 		</td>
 	</tr>
 			<tr>
-		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore)</i></td>
+		<td style="font-size: 18px; border-left:1px solid #D8D8D8; border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><a href="/rgl/overview">Reciprocal Green Lane</a><br><br><i>(Controlled itinerary within Singapore, business and official travel only)</i></td>
 		   <td style="border-right:1px solid #D8D8D8;border-bottom:1px solid #D8D8D8;"><ul style="font-size: 18px; list-style-type: disc;">
 					 <li style="font-size: 18px;">	Brunei Darussalam</li>
 					  <li style="font-size: 18px;">Mainland China <i>(Only for travellers from Chongqing, Guangdong, Jiangsu, Shanghai, Tianjin and Zhejiang)</i></li>
