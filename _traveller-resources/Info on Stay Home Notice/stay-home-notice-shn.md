@@ -91,4 +91,4 @@ The EMD will alert the relevant authorities to errant travellers who leave their
 
 All EMDs are not equipped with audio or video recording capabilities – personal privacy is therefore protected. All location data is transmitted via end-to-end encryption and can only be accessed by authorised government officials for investigation.
 
-Travellers will be contacted by ICA at the end of their SHN period for the return of their gateway device. They may, however, dispose the wristband based on existing e-waste disposal methods.
+Travellers will be contacted by ICA at the end of their SHN period for the return of their gateway device. They may, however, dispose the wristband based on existing <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste" target="_blank"> e-waste disposal methods</a>.
